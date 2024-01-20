@@ -1,711 +1,1034 @@
-PURCHASE AGREEMENT    1   EXHIBIT
-10.1       STOCK PURCHASE AGREEMENT     BETWEEN    POWERTEL,
-INC.   AND   SONERA HOLDING B.V.     DATED AS OF MAY 30,
-2000        2    TABLE OF CONTENTS    ~~  ARTICLE I
-DEFINITIONS..............................................................................1 
-SECTION 1.1 Certain Defined
-Terms.........................................................1  ARTICLE II
-PURCHASE AND
-SALE........................................................................4 
-SECTION 2.1 Purchase and Sale of the
-Shares...............................................4  SECTION 2.2 Purchase
-Price................................................................4 
-SECTION 2.3
-Closing.......................................................................4 
-SECTION 2.4 Closing Deliveries by the
-Seller..............................................4  SECTION 2.5 Closing
-Deliveries by the
-Purchaser...........................................4  ARTICLE III
-REPRESENTATIONS AND WARRANTIES OF THE
-SELLER.............................................5  SECTION 3.1
-Organization, Authority and Qualification of the
-Seller.......................5  SECTION 3.2 Capitalization of the
-Seller..................................................5  SECTION 3.3
-Subsidiaries..................................................................5 
-SECTION 3.4 No
-Conflict...................................................................5 
-SECTION 3.5 Seller SEC Reports; Financial
-Statements......................................6  SECTION 3.6 Private
-Placement.............................................................6 
-SECTION 3.7
-Brokers.......................................................................7  ARTICLE
-IV REPRESENTATIONS AND WARRANTIES OF THE
-PURCHASER..........................................7  SECTION 4.1
-Organization and Authority of the
-Purchaser...................................7  SECTION 4.2 Investment
-Purpose............................................................7  SECTION
-4.3 Accredited
-Investor...........................................................7  SECTION
-4.4
-Brokers.......................................................................7  ARTICLE
-V ADDITIONAL
-AGREEMENTS.....................................................................7 
-SECTION 5.1 Regulatory and Other Authorizations; Notices and
-Consents.....................7  SECTION 5.2 Notice of
-Developments........................................................8 
-SECTION 5.3 Registration
-Rights...........................................................8  SECTION
-5.4 Resale
-Restrictions...........................................................9 
-SECTION 5.5 Registration of
-Shares........................................................9  SECTION 5.6
-Certain
-Information...........................................................9 
-SECTION 5.7 Use of
-Funds..................................................................9 
-SECTION 5.8 Further
-Action................................................................9  ARTICLE
-VI CONDITIONS TO
-CLOSING....................................................................9 
-SECTION 6.1 Conditions to Obligations of the
-Seller.......................................9  SECTION 6.2 Conditions to
-Obligations of the Purchaser...................................10  ARTICLE
-VII
-SURVIVAL................................................................................11 
-SECTION 7.1 Survival of Representations and
-Warranties...................................11  ARTICLE VIII TERMINATION
-AND
-WAIVER..................................................................12 
-SECTION 8.1
-Termination..................................................................12 
-SECTION 8.2 Right of
-Cure................................................................13 
-SECTION 8.3 Effect of
-Termination........................................................13 
-SECTION 8.4
-Waiver.......................................................................13    
-i  3    ~~  ARTICLE IX GENERAL
-PROVISIONS......................................................................14 
-SECTION 9.1
-Expenses.....................................................................14 
-SECTION 9.2
-Notices......................................................................14 
-SECTION 9.3 Public
-Announcements.........................................................15 
-SECTION 9.4
-Headings.....................................................................15 
-SECTION 9.5
-Severability.................................................................15 
-SECTION 9.6 Entire
-Agreement.............................................................15 
-SECTION 9.7
-Assignment...................................................................15 
-SECTION 9.8 No Third Party
-Beneficiaries.................................................16  SECTION 9.9
-Amendment....................................................................16 
-SECTION 9.10 Governing
-Law................................................................16 
-SECTION 9.11
-Counterparts.................................................................16 
-SECTION 9.12 Specific
-Performance.........................................................16    
-ii  4    This STOCK PURCHASE AGREEMENT, dated as of May 30, 2000, is
-entered into between POWERTEL, INC., a Delaware corporation (the "Seller"),
-and SONERA HOLDING B.V., a company organized under the law of the Netherlands
-(the "Purchaser").    W I T N E S S E T H:   WHEREAS, the Seller wishes
-to issue and to sell to the Purchaser, and the Purchaser wishes to purchase
-from the Seller, shares of the Seller\'s Common Stock, par value $0.01 per
-share, upon the terms and subject to the conditions set forth herein;  
-NOW, THEREFORE, in consideration of the premises and the mutual agreements
-and covenants hereinafter set forth, the Purchaser and the Seller hereby
-agree as follows:    ARTICLE I   DEFINITIONS   SECTION 1.1 Certain
-Defined Terms. As used in this Agreement, the following terms shall have the
-following meanings:   "Action" means any claim, action, suit, arbitration,
-inquiry, proceeding or investigation by or before any Governmental
-Authority.   "Affiliate" means, with respect to a party hereto, any
-corporation or other business entity which directly or indirectly through
-stock ownership or other arrangement controls, is controlled by or is under
-common control with such party.   "Aggregate Purchase Price" has the
-meaning specified in Section 2.2.   "Agreement" or "this Agreement" means
-this Stock Purchase Agreement, dated as of May 30, 2000, between the Seller
-and the Purchaser (including the Annex hereto) and all amendments hereto made
-in accordance with the provisions of Section 9.9.   "Assets" means the
-properties, assets (including, without limitation, Licenses) and contract
-rights used in the conduct of the Business or otherwise owned, leased or used
-by the Seller or any Subsidiary or, with respect to contract rights, to which
-the Seller or any Subsidiary is a party or is bound.   "Business" means the
-business of the Seller and the Subsidiaries as currently conducted.  
-"Business Day" means any day other than a Saturday, Sunday or a day on which
-banking institutions in the State of New York are authorized or obligated by
-law or executive order to close.   "Closing" has the meaning specified in
-Section 2.3.    1  5   "Closing Date" has the meaning specified in
-Section 2.3.   "Commission" means the United States Securities and
-Exchange Commission.   "Common Stock" means the common stock, par value
-$0.01 per share, of the Seller.   "DiGiPH Transaction" shall mean (a) the
-acquisition of all or substantially all of the assets of DiGiPH PCS, Inc. by
-Eliska Wireless Ventures I, Inc., pursuant to that certain Asset Purchase
-Agreement of even date herewith between such parties and (b) the series of
-transactions pursuant to the agreements identified in Schedule 1.1 between
-and among, as applicable, the Seller, the Purchaser and Eliska Wireless
-Investors I, L.P.   "Disclosed by the Seller" with respect to information
-concerning any event, fact or circumstance, includes information contained in
-the Seller\'s SEC Reports, annual and other reports furnished by the Seller
-to its stockholders as a group, and press releases of the Seller disseminated
-to (i) the Dow Jones News Service or (ii) the National Association of
-Securities Dealers, Inc. Automated Quotation System or other national
-securities exchange, as well as information disclosed directly to the
-Purchaser by the Seller in connection with the entering into of this
-Agreement (including matters in connection with the DiGiPH Transaction) or in
-the Seller\'s audited annual financial statements, and the notes and
-schedules thereto, for the years ended December 31, 1998 and 1999.  
-"Encumbrance" means any security interest, pledge, mortgage, lien, charge,
-encumbrance, adverse claim, preferential right, arrangement or restriction of
-any kind, including, without limitation, any restriction on the use, voting,
-transfer, receipt of income or other exercise of any attributes
-of ownership.   "Exchange Act" means the United States Securities Exchange
-Act of 1934, as amended.   "FCC" means the United States Federal
-Communications Commission.   "FCC Licenses" means all licenses granted by
-the FCC to the Seller for and related to the provision of personal
-communications services in connection with the Business.   "Governmental
-Authority" means any United States federal, state or local or any foreign
-government, regulatory or administrative authority, or any governmental
-agency, department, board or commission, or any court, tribunal, or judicial,
-arbitral or investigative body or other governmental tribunal.  
-"Governmental Order" means any order, writ, judgment, injunction, decree,
-stipulation, determination or award entered by or with any
-Governmental Authority.   "HSR Act" means the Hart-Scott-Rodino Antitrust
-Improvements Act of 1976, as amended, and the rules and regulations
-promulgated thereunder.    2  6   "Law" means any United States federal,
-state, local or foreign statute, law, ordinance, regulation, rule, code,
-order, other requirement or rule of law, including, without limitation, any
-requirement or rule of law of the FCC.   "Liabilities" means any and all
-debts, liabilities and obligations, whether accrued or fixed, absolute or
-contingent, matured or unmatured or determined or determinable, including,
-without limitation, those arising under any Law, Action or Governmental Order
-and those arising under any contract, agreement, arrangement, commitment or
-undertaking.   "Licenses" means all FCC Licenses and all other licenses,
-permits (including construction permits), consents, approvals and other
-authority issued by any Governmental Authority in connection with the legal
-and proper operation of the Business.   "Material Adverse Effect" means any
-circumstance, change in or effect on the Business, the Seller or any
-Subsidiary that: (a) is, or would reasonably be expected to be, materially
-adverse to the Business, operations, Assets or Liabilities, prospects,
-results of operations or financial condition of the Seller and the
-Subsidiaries, taken as a whole; or (b) would reasonably be expected to
-materially adversely affect the ability of the Seller and the Subsidiaries to
-operate or conduct the Business.   "Per Share Purchase Price" has the
-meaning specified in Section 2.2.   "Person" means any individual,
-partnership, limited liability company, firm, corporation, association,
-trust, joint venture, unincorporated organization or other entity, as well as
-any syndicate or group that would be deemed to be a person under Section
-13(d)(3) of the Exchange Act.   "Purchaser" has the meaning specified in the
-preamble to this Agreement except that, upon the assignment of this Agreement
-to an Affiliate of Sonera Corporation pursuant to Section 9.7 hereof,
-"Purchaser" shall refer to such Affiliate of Sonera Corporation.  
-"Recipient" has the meaning specified in Section 8.2.   "Sale" means any
-sale, assignment, transfer, distribution or other disposition of shares of
-Common Stock or of a participation therein, whether voluntarily or by
-operation of law.   "SEC Reports" has the meaning specified in Section
-3.5(a).   "Securities Act" means the United States Securities Act of 1933,
-as amended.   "Seller" has the meaning specified in the preamble to this
-Agreement.   "Shares" has the meaning specified in Section 2.1.  
-"Subsidiary" means any corporation, partnership, limited liability company,
-joint venture, association and other entity majority controlled by the Seller
-directly or indirectly through one or more intermediaries.    3  7  
-"Terminating Party" has the meaning specified in Section 8.2.   "U.S. GAAP"
-means United States generally accepted accounting principles and practices as
-in effect from time to time and applied consistently throughout the periods
-involved.    ARTICLE II   PURCHASE AND SALE   SECTION 2.1 Purchase and
-Sale of the Shares. Upon the terms and subject to the conditions of this
-Agreement, at the Closing the Seller shall sell to the Purchaser, and the
-Purchaser shall purchase from the Seller, one million seven hundred forty
-thousand nine hundred forty-seven (1,740,947) shares of the Common Stock (the
-"Shares").   SECTION 2.2 Purchase Price. The per share purchase price for
-the Shares (the "Per Share Purchase Price") shall be $71.80, the average of
-the last sales price as of the close of the market (excluding after-hours
-trading) of a share of the Common Stock on the Nasdaq National Market System
-for the twenty trading days ending on the last trading day prior to the date
-hereof. The aggregate purchase price for the Shares (the "Aggregate Purchase
-Price") shall be $124,999,994.60.   SECTION 2.3 Closing. Upon the terms and
-subject to the conditions of this Agreement, the issuance, sale and purchase
-of the Shares contemplated by this Agreement shall take place at a closing
-(the "Closing") to be held at approximately 9:00 a.m. Atlanta time at the
-offices of Morris, Manning and Martin, LLP, 1600 Atlanta Financial Center, 3343
-Peachtree Road, N.E., Atlanta, Georgia 30326 on the date of the closing of
-the DiGiPH Transaction, or at such other place or at such other time or on
-such other date as the Seller and the Purchaser may mutually agree upon in
-writing (the day on which the Closing takes place being the "Closing
-Date").   SECTION 2.4 Closing Deliveries by the Seller. At the Closing,
-the Seller shall deliver or cause to be delivered to the Purchaser a receipt
-for the Aggregate Purchase Price, stock certificates evidencing the Shares
-duly registered in the name of the Purchaser and the certificates and other
-documents required to be delivered pursuant to Section 6.2.   SECTION 2.5
-Closing Deliveries by the Purchaser. At the Closing, the Purchaser shall
-deliver to the Seller the Aggregate Purchase Price in immediately available
-funds together with the certificates and other documents required to be
-delivered pursuant to Section 6.1.    4  8   ARTICLE III  
-REPRESENTATIONS AND WARRANTIES OF THE SELLER   As an inducement to the
-Purchaser to enter into this Agreement, the Seller hereby represents and
-warrants to the Purchaser as of the date hereof and will represent and
-warrant at closing as follows:   SECTION 3.1 Organization, Authority and
-Qualification of the Seller. The Seller is a corporation duly organized,
-validly existing and in good standing under the laws of the State of Delaware
-and has all necessary power and authority to enter into this Agreement, to
-carry out its obligations hereunder and to consummate the transactions
-contemplated hereby and to conduct its Business. The execution and delivery
-of this Agreement by the Seller, the performance by the Seller of its
-obligations hereunder and the consummation by the Seller of the transactions
-contemplated hereby have been duly authorized by all requisite action on the
-part of the Seller. This Agreement has been duly executed and delivered by
-the Seller, and (assuming due authorization, execution and delivery by the
-Purchaser) this Agreement constitutes a legal, valid and binding obligation
-of the Seller enforceable against the Seller in accordance with its terms,
-except (i) as may be limited by bankruptcy, insolvency, reorganization,
-moratorium or other laws affecting creditors\' rights (including, without
-limitation, the effect of statutory and other laws regarding
-fraudulent conveyances, fraudulent transfers and preferential transfers) and
-(ii) as may be limited by the exercise of judicial discretion and the
-application of principles of equity, including, without limitation,
-requirements of good faith, fair dealing, conscionability and materiality
-(regardless of whether such agreements are considered in a proceeding in
-equity or at law).   SECTION 3.2 Capitalization of the Seller. The
-authorized capital stock of the Seller consists of 100,000,000 shares of
-Common Stock and 1,000,000 shares of preferred stock, par value $0.01 per
-share. As of the date hereof, (i) 31,188,819 shares of Common Stock (not
-including the Shares) are issued and outstanding, all of which are validly
-issued, fully paid and nonassessable, and (ii) 350,000 shares of preferred
-stock are issued and outstanding, all of which are validly issued, fully paid
-and nonassessable. Upon issuance of the Shares to the Purchaser at the
-Closing and payment therefor pursuant to this Agreement, the Shares will be
-validly issued, fully paid and nonassessable and free of preemptive rights.
-Upon consummation of the transactions contemplated by this Agreement,
-including the issuance of the Shares, registration of the Shares in the name
-of the Purchaser in the stock records of the Seller and delivery of
-the Shares, the Purchaser will own the Shares free and clear of all
-Encumbrances, other than Encumbrances resulting from any action, or failure
-to take action, by the Purchaser.   SECTION 3.3 Subsidiaries. Each
-Subsidiary: (i) is duly organized and validly existing under the laws of its
-jurisdiction of organization; and (ii) has all necessary power and authority
-to own, operate or lease the properties and assets owned, operated or leased
-by such Subsidiary and to carry on its business as it has been and is
-currently conducted by such Subsidiary.   SECTION 3.4 No Conflict. The
-execution, delivery and performance of this Agreement by the Seller and the
-issuance of the Shares do not and will not: (i) violate, conflict with or
-result in the breach of any provision of the certificate of incorporation or
-by-laws (or similar organizational documents) of the Seller or any Subsidiary
-as in effect on the date hereof or on the    5  9  Closing Date; (ii)
-conflict with or violate (or cause an event which could have a Material
-Adverse Effect as a result of) any Law or Governmental Order as in effect on
-the date hereof or on the Closing Date applicable to the Seller,
-any Subsidiary or any of their respective assets, properties or businesses;
-or (iii) conflict with, result in any breach of, constitute a default (or
-event which with the giving of notice or lapse of time, or both, would become
-a default) under, require any consent under, or give to others any rights of
-termination, amendment, acceleration, suspension, revocation or cancellation
-of, or result in the creation of any Encumbrance on any of the Shares or on
-any of the assets or properties of the Seller or any Subsidiary pursuant to,
-any note, bond, mortgage or indenture, contract, agreement, lease, sublease,
-license, permit, franchise or other instrument or arrangement as in effect on
-the date hereof or on the Closing Date to which the Seller or any Subsidiary
-is a party or by which any of the Shares or any of such assets or properties
-is bound or affected.   SECTION 3.5 Seller SEC Reports; Financial
-Statements.   (a) The Seller has filed all forms, reports and
-documents required to be filed by it with the Commission, and has heretofore
-made available to the Purchaser, in the form filed with the Commission
-(excluding any exhibits thereto), (i) its Annual Report on Form 10-K for the
-fiscal years ended December 31, 1997, 1998 and 1999 and (ii) all proxy
-statements relating to the Seller\'s meetings of stockholders (whether annual
-or special) held since December 31, 1997 (collectively, the "SEC
-Reports").   (b) The SEC Reports were prepared in all material respects in
-accordance with the requirements of the Exchange Act and the rules and
-regulations thereunder and did not at the time they were filed contain
-any untrue statement of a material fact or omit to state a material fact
-required to be stated therein or necessary in order to make the statements
-made therein, in light of the circumstances under which they were made, not
-misleading.   (c) The financial statements (including, in each case, any
-notes thereto) contained in the SEC Reports were prepared in accordance
-with U.S. GAAP applied on a consistent basis throughout the periods indicated
-(except as may be indicated in the notes thereto), and each fairly presented
-the financial position, results of operations and cash flows of the Seller
-and its consolidated subsidiaries as at the respective dates thereof and for
-the respective periods indicated therein.   (d) Since December 31, 1999
-there has not been any change, occurrence or circumstance affecting the
-Business, results of operations or financial condition of the Seller or any
-Subsidiary that has had, individually or in the aggregate, a Material Adverse
-Effect, other than changes, occurrences and circumstances referred to in any
-subsequently filed SEC Reports or otherwise Disclosed by the Seller.  
-SECTION 3.6 Private Placement. Assuming the accuracy of the representations
-and warranties of the Purchaser contained in Sections 4.2 and 4.3, the offer
-and sale of the Shares to the Purchaser pursuant to this Agreement is exempt
-from registration under the Securities Act.    6  10   SECTION 3.7
-Brokers. No broker, finder or investment banker is entitled to any brokerage,
-finder\'s or other fee or commission in connection with the transactions
-contemplated by this Agreement based upon arrangements made by or on behalf
-of the Seller.    ARTICLE IV   REPRESENTATIONS AND WARRANTIES OF THE
-PURCHASER   As an inducement to the Seller to enter into this Agreement,
-the Purchaser hereby represents and warrants to the Seller as of the date
-hereof and will represent and warrant at Closing as follows:   SECTION 4.1
-Organization and Authority of the Purchaser. The Purchaser is a corporation
-duly organized and validly existing under the laws of the Netherlands and has
-all necessary power and authority to enter into this Agreement, to carry out
-its obligations hereunder and to consummate the transactions contemplated
-hereby. The execution and delivery of this Agreement by the Purchaser, the
-performance by the Purchaser of its obligations hereunder and the
-consummation by the Purchaser of the transactions contemplated hereby have
-been duly authorized by all requisite action on the part of the
-Purchaser. This Agreement has been duly executed and delivered by the
-Purchaser, and (assuming due authorization, execution and delivery by the
-Seller) this Agreement constitutes a legal, valid and binding obligation of
-the Purchaser enforceable against the Purchaser in accordance with its terms.
-except (i) as may be limited by bankruptcy, insolvency, reorganization,
-moratorium or other laws affecting creditors\' rights (including, without
-limitation, the effect of statutory and other laws regarding fraudulent
-conveyances, fraudulent transfers and preferential transfers) and (ii) as may
-be limited by the exercise of judicial discretion and the application of
-principles of equity, including, without limitation, requirements of good
-faith, fair dealing, conscionability and materiality (regardless of whether
-such agreements are considered in a proceeding in equity or at law).  
-SECTION 4.2 Investment Purpose. The Purchaser is acquiring the Shares for the
-Purchaser\'s own account solely for the purpose of investment and not with a
-view to, or for offer or sale in connection with, any
-distribution thereof.   SECTION 4.3 Accredited Investor. The Purchaser is
-an "accredited investor" within the meaning of Rule 501 under the Securities
-Act.   SECTION 4.4 Brokers. No broker, finder or investment banker
-is entitled to any brokerage, finder\'s or other fee or commission in
-connection with the transactions contemplated by this Agreement based upon
-arrangements made by or on behalf of the Purchaser.    ARTICLE V  
-ADDITIONAL AGREEMENTS   SECTION 5.1 Regulatory and Other Authorizations;
-Notices and Consents.    7  11   (a) The Seller and the Purchaser shall
-use all reasonable efforts to obtain all approvals of all Governmental
-Authorities that may be or become necessary for each of them to obtain for
-their execution and delivery of, and the performance of their respective
-obligations pursuant to, this Agreement. Each party hereto agrees to make an
-appropriate filing pursuant to the HSR Act, if required, with respect to the
-purchase and sale of the Shares and to supply as promptly as practicable to
-the appropriate Governmental Authorities any additional information and
-documentary material that may be requested pursuant to the HSR Act.   (b)
-The Seller shall or shall cause the Subsidiaries to give promptly such
-notices to third parties and use its or their reasonable efforts to obtain
-such third party consents as may be necessary in connection with the
-transactions contemplated by this Agreement.   (c) The Purchaser
-acknowledges that it is required to make filings under the Exchange Act
-(including, without limitation, filings required by Section 13 and Section 16
-of the Exchange Act) in connection with the transactions contemplated by this
-Agreement.   SECTION 5.2 Notice of Developments.   (a) Prior to the
-Closing, the Seller shall promptly notify the Purchaser in writing of all
-events, circumstances, facts and occurrences arising subsequent to the date
-of this Agreement which could reasonably be expected to result in any breach
-of a representation or warranty or covenant of the Seller in this Agreement
-or which could reasonably be expected to have the effect of making any
-representation or warranty of the Seller in this Agreement untrue or
-incorrect at any time from the date hereof through the Closing.   (b) Prior
-to the Closing, the Purchaser shall promptly notify the Seller in writing of
-all events, circumstances, facts and occurrences arising subsequent to the
-date of this Agreement which could reasonably be expected to result in any
-breach of a representation or warranty or covenant of the Purchaser in this
-Agreement or which could reasonably be expected to have the effect of making
-any representation or warranty of the Purchaser in this Agreement untrue or
-incorrect at any time from the date hereof through the Closing.   SECTION
-5.3 Registration Rights. The Shares and all securities issued on account of
-or with respect to the Shares by reason of stock splits, stock dividends,
-recapitalizations or otherwise shall be considered "Securities" under that
-certain "Annex II - Registration Rights" that is an annex to the Stock
-Purchase Agreement between InterCel, Inc. and Ericsson Inc. dated as of March
-4, 1996, pursuant to which the shares of the Seller\'s Series A
-Convertible Preferred Stock that are currently held by the Purchaser were
-originally purchased, and the Purchaser or any Person to whom the Purchaser
-transfers at least 300,000 shares of the Common Stock or securities
-convertible into at least 300,000 shares of the Common Stock, as adjusted for
-stock splits, stock dividends, combinations or similar transactions (a
-"Qualified Transferee") shall be accorded all registration and other rights
-set forth in such Annex II with respect to the Shares. In addition, in the
-event that the Purchaser transfers its rights hereunder to an Affiliate of
-the Purchaser as set forth in Section 9.7, the Purchaser\'s registration and
-other rights set forth in such Annex II with respect to the Shares will
-likewise be assigned to such Affiliate of the Purchaser or any Qualified
-Transferee of such Affiliate.    8  12   SECTION 5.4 Resale
-Restrictions. The Purchaser acknowledges that the Shares have not been
-registered under the Securities Act or any state securities law, and the
-Purchaser hereby agrees not (and not to enter into any agreement) to effect
-any Sale of the Shares unless and until such transaction is registered under
-the Securities Act and any applicable state securities law or unless such
-transaction is exempt from registration under the Securities Act and such
-laws; provided, that in the event the Purchaser desires to claim an exemption
-from registration in connection with any such transaction, as a condition to
-claiming such exemption, the Purchaser shall deliver to the Seller a legal
-opinion issued by the Purchaser\'s legal counsel, which opinion and counsel
-must be reasonably satisfactory to the Seller, establishing the applicability
-of an exemption to such transaction. The certificate representing the Shares
-shall bear a legend referencing the restrictions on transferability set forth
-in this Agreement, and the Seller shall place stop transfer orders on the
-books of its transfer agent with respect to the Shares.   SECTION 5.5
-Registration of Shares. The Seller shall, upon issuance of the Shares and
-prior to the delivery of stock certificates evidencing the Shares pursuant to
-Section 2.4, register the Shares in the name of the Purchaser in the stock
-records of the Seller.   SECTION 5.6 Certain Information. For a period
-commencing on the date of this Agreement and ending not earlier than two
-years from the Closing Date, for so long as the Seller is subject to the
-reporting requirements of Section 13 or 15(d) of the Exchange Act, the Seller
-shall file all reports and other information required to be filed by Section
-13 or 15(d) under the Exchange Act, as the case may be, as shall be necessary
-in order that the conditions to the availability of Rule 144 under the
-Securities Act, as such Rule may be amended, in connection with any Sale of
-shares of Common Stock by the Purchaser shall be met.   SECTION 5.7 Use of
-Funds. The Seller shall use the proceeds from the sale of the Shares solely
-in connection with the DiGiPH Transaction.   SECTION 5.8 Further Action.
-Each of the parties hereto shall use all reasonable efforts to take, or cause
-to be taken, all appropriate action, do or cause to be done all things
-necessary, proper or advisable under applicable Law, and execute and deliver
-such documents and other papers, as may be required to carry out the
-provisions of this Agreement and consummate and make effective the
-transactions contemplated by this Agreement.    ARTICLE VI   CONDITIONS
-TO CLOSING   SECTION 6.1 Conditions to Obligations of the Seller.
-The obligations of the Seller to consummate the transactions contemplated by
-this Agreement shall be subject to the satisfaction (or waiver by the Seller,
-at its sole discretion), at or prior to the Closing, of each of the
-following conditions:    9  13   (a) Representations, Warranties and
-Covenants. The representations and warranties of the Purchaser contained in
-this Agreement shall have been true and correct in all material respects when
-made and shall be true and correct in all material respects as of the
-Closing, with the same force and effect as if made as of the Closing, other
-than such representations and warranties as are made as of another date,
-which shall be true and correct in all material respects as of such date, and
-the covenants and agreements contained in this Agreement to be complied with
-by the Purchaser at or before the Closing shall have been complied with in
-all material respects, and the Seller shall have received a certificate from
-the Purchaser to such effect signed by a duly authorized officer thereof;  
-(b) No Proceeding or Litigation. No Action shall have been commenced by or
-before any Governmental Authority against either the Seller or the Purchaser
-seeking to restrain or materially and adversely alter the transactions
-contemplated by this Agreement which, in the reasonable, good
-faith determination of the Seller, is likely to render it impossible or
-unlawful to consummate such transactions;   (c) Resolutions of the
-Purchaser. The Seller shall have received a true and complete copy, certified
-by the Secretary or an Assistant Secretary of the Purchaser, of the
-resolutions duly and validly adopted by the Board of Directors of the
-Purchaser evidencing its authorization, if required by law, of the execution
-and delivery of this Agreement and the consummation of the transactions
-contemplated hereby;   (d) Incumbency Certificate of the Purchaser. The
-Seller shall have received a certificate of the Secretary or Assistant
-Secretary of the Purchaser certifying the names and signatures of the
-officers of the Purchaser (or their duly authorized representatives)
-authorized to sign this Agreement and the other documents to be delivered
-hereunder;   (e) Consents and Approvals. The Seller shall have received (or
-received evidence of), each in form and substance reasonably satisfactory to
-the Seller, the approvals and third party consents identified on Schedule
-6.1(e) to this Agreement; and   (f) Closing of DiGiPH Transaction. Closing
-of the DiGiPH Transaction shall have occurred or shall occur
-contemporaneously with the Closing.   SECTION 6.2 Conditions to Obligations
-of the Purchaser. The obligations of the Purchaser shall be subject to the
-satisfaction (or waiver by the Purchaser, at its sole discretion), at or
-prior to the Closing, of each of the following conditions:   (a)
-Representations, Warranties and Covenants. The representations and warranties
-of the Seller contained in this Agreement shall have been true and correct in
-all material respects when made and shall be true and correct in all material
-respects as of the Closing with the same force and effect as if made as of
-the Closing, other than such representations and warranties as are made as of
-another date, which shall be true and correct as of such date, and the
-covenants and agreements contained in this Agreement to be complied with by
-the Seller at or before the Closing shall have been complied with in all
-material respects, and the Purchaser shall have received a certificate of the
-Seller to such effect signed by a duly authorized officer thereof;    10 
-14   (b) No Proceeding or Litigation. No Action shall have been commenced
-by or before any Governmental Authority against either the Seller or the
-Purchaser, seeking to restrain or materially and adversely alter
-the transactions contemplated by this Agreement which, in the reasonable,
-good faith determination of the Purchaser, is likely to render it impossible
-or unlawful to consummate such transactions or which could have a Material
-Adverse Effect; provided, however, that the provisions of this Section 6.2(b)
-shall not apply if the Purchaser has directly or indirectly solicited or
-encouraged any such Action;   (c) Resolutions of the Seller. The Purchaser
-shall have received a true and complete copy, certified by the Secretary or
-an Assistant Secretary of the Seller, of the resolutions duly and validly
-adopted by the Board of Directors of the Seller evidencing their
-authorization of the execution and delivery of this Agreement, the issuance
-of the Shares and the consummation of the transactions contemplated
-hereby;   (d) Incumbency Certificate of the Seller. The Purchaser shall
-have received a certificate of the Secretary or an Assistant Secretary of the
-Seller certifying the names and signatures of the officers of the
-Seller authorized to sign this Agreement and the other documents to be
-delivered hereunder;   (e) Organizational Documents. The Purchaser shall
-have received a copy of the certificate of incorporation and by-laws of the
-Seller, certified by the Secretary or an Assistant Secretary of the
-Seller;   (f) Good Standing. The Purchaser shall have received a good
-standing certificate for the Seller from the Secretary of State of the State
-of Delaware, dated as of a date not earlier than five Business Days prior to
-the Closing Date and accompanied by a bring-down certificate signed by
-the Secretary or an Assistant Secretary of the Seller dated within one day
-prior to the Closing Date;   (g) Closing of DiGiPH Transaction. Closing of
-the DiGiPH Transaction shall have occurred or shall occur contemporaneously
-with the Closing; and   (h) Consents and Approvals. The Purchaser shall
-have received (or received evidence of), each in form and substance
-reasonably satisfactory to the Purchaser, the approvals and third party
-consents identified on Schedule 6.2(h) to this Agreement.    ARTICLE
-VII   SURVIVAL   SECTION 7.1 Survival of Representations and
-Warranties.   (a) The representations and warranties of the Seller to the
-Purchaser contained in this Agreement shall survive the Closing until
-the first anniversary of the Closing Date.    11  15  Neither the
-period of survival nor the liability of the Seller with respect to the
-Seller\'s representations and warranties shall be reduced by
-any investigation made at any time by or on behalf of the Purchaser. If
-written notice of a claim has been given prior to the expiration of the
-applicable representations and warranties in good faith by the Purchaser to
-the Seller, then the relevant representations and warranties shall survive as
-to such claim, until such claim has been finally resolved.   (b) The
-representations and warranties of the Purchaser to the Seller contained in
-this Agreement shall survive the Closing until the first anniversary of the
-Closing Date. Neither the period of survival nor the liability of the
-Purchaser with respect to the Purchaser\'s representations and warranties
-shall be reduced by any investigation made at any time by or on behalf of the
-Seller. If written notice of a claim has been given prior to the expiration
-of the applicable representations and warranties in good faith by the Seller
-to the Purchaser, then the relevant representations and warranties
-shall survive as to such claim, until such claim has been finally
-resolved.    ARTICLE VIII   TERMINATION AND WAIVER   SECTION 8.1
-Termination. This Agreement may be terminated as follows:   (a) by the
-Purchaser if, between the date hereof and the time scheduled for the Closing:
-(i) any representation or warranty of the Seller contained in this Agreement
-shall not have been true and correct when made, except where such failure
-does not cause a Material Adverse Effect; (ii) the Seller shall not have
-complied in all material respects with any covenant or agreement to be
-complied with by it and contained in this Agreement; or (iii) the Seller or
-any Subsidiary makes a general assignment for the benefit of creditors, or
-any proceeding shall be instituted by or against the Seller or any Subsidiary
-seeking to adjudicate any of them a bankrupt or insolvent, or
-seeking liquidation, winding up or reorganization, arrangement, adjustment,
-protection, relief or composition of its debts under any Law relating to
-bankruptcy, insolvency or reorganization; or   (b) by the Seller if,
-between the date hereof and the time scheduled for the Closing: (i) any
-representation or warranty of the Purchaser contained in this Agreement shall
-not have been true and correct when made, except where such failure does not
-cause a Material Adverse Effect; (ii) the Purchaser shall not have complied
-in all material respects with any covenant or agreement to be complied with
-by it and contained in this Agreement; or (iii) the Purchaser makes a general
-assignment for the benefit of creditors, or any proceeding shall be
-instituted by or against the Purchaser seeking to adjudicate it a bankrupt or
-insolvent, or seeking liquidation, winding up or reorganization, arrangement,
-adjustment, protection, relief or composition of its debts under any Law
-relating to bankruptcy, insolvency or reorganization; or    12  16   (c)
-by either the Seller or the Purchaser if the Closing shall not have occurred
-on or prior to March 31, 2001, which termination shall be effective upon
-receipt of written notice thereof by the intended recipient as set forth in
-Section 9.2 hereof; or   (d) by either the Purchaser or the Seller in the
-event that any Governmental Authority shall have issued an order, decree or
-ruling or taken any other action restraining, enjoining or otherwise
-prohibiting the transactions contemplated by this Agreement, and such order,
-decree, ruling or other action shall have become final and nonappealable,
-which termination shall be effective upon receipt of written notice thereof
-by the intended recipient as set forth in Section 9.2 hereof; or   (e)
-immediately upon the mutual written consent of the Seller and the
-Purchaser.   SECTION 8.2 Right of Cure. Notwithstanding the foregoing, if
-the Purchaser or the Seller ("Terminating Party") claim the right to
-terminate this Agreement pursuant to Section 8.1(a) or Section 8.1(b), then
-the Terminating Party must provide the other party ("Recipient") with written
-notice of its intention to terminate or abandon the Agreement, which notice
-shall identify the condition or event giving rise to the Terminating Party\'s
-right to terminate or abandon the Agreement. The Recipient will have ten (10)
-business days from receipt of such notice to cure such condition or event;
-provided that in the event that the Terminating Party provides such notice
-based on a representation or warranty of the Recipient contained in this
-Agreement which was not true or correct when made upon the execution of this
-Agreement, an action by the Recipient within ten (10) days of such notice
-such that, if called upon to do so, Recipient could make such representation
-or warranty in a truthful and correct manner in all material respects will be
-deemed to constitute a cure of such default. The provisions of this Section
-8.2 shall not apply to termination pursuant to Sections 8.1(c), 8.1 (d) or
-8.1(e).   SECTION 8.3 Effect of Termination. In the event of termination
-of this Agreement as provided in Section 8.1, this Agreement shall forthwith
-become void and there shall be no liability on the part of either party
-hereto except that nothing herein shall relieve either party from liability
-for any breach of this Agreement occurring prior to termination.   SECTION
-8.4 Waiver. Either party to this Agreement may: (i) extend the time for the
-performance of any of the obligations or other acts of the other party; (ii)
-waive any inaccuracies in the representations and warranties of the other
-party contained herein or in any document delivered by the other party
-pursuant hereto; or (iii) waive compliance with any of the agreements or
-conditions of the other party contained herein. Any such extension or waiver
-shall be valid only if set forth in an instrument in writing signed by the
-party to be bound thereby. Any waiver of any term or condition shall not
-be construed as a waiver of any subsequent breach or a subsequent waiver of
-the same term or condition, or a waiver of any other term or condition, of
-this Agreement. The failure of any party to assert any of its rights
-hereunder shall not constitute a waiver of any of such rights.    13 
-17   ARTICLE IX   GENERAL PROVISIONS   SECTION 9.1 Expenses. Except as
-otherwise specified in this Agreement, all costs and expenses, including,
-without limitation, fees and disbursements of counsel, financial advisors and
-accountants, incurred in connection with this Agreement and the transactions
-contemplated hereby shall be paid by the party incurring such costs and
-expenses, whether or not the Closing shall have occurred.   SECTION 9.2
-Notices. All notices, requests, claims, demands and other communications
-hereunder shall be in writing and shall be given or made (and shall be deemed
-to have been duly given or made upon receipt) by delivery in person, by
-courier service or by telecopy to the other party at the following addresses
-(or at such other address for a party as shall be specified in a notice given
-in accordance with this Section 9.2):   (a) if to the Seller:   Powertel,
-Inc.  1233 O.G. Skinner Drive  West Point, Georgia 31833  Telecopy: (706)
-645-9523  Attention: Jill F. Dorsey, Esq.   with a copy (which shall not
-constitute notice) to:   Morris, Manning and Martin, LLP  1600 Atlanta
-Financial Center  3343 Peachtree Road, N.E.  Atlanta, Georgia 30326 
-Telecopy: (404) 365-9532  Attention: James Walker IV, Esq.   (b) if to the
-Purchaser:   Sonera Corporation  Teollisuuskatu 15  FIN-00051-Sonera 
-Helsinki, Finland  Telecopy: 011 358 2040 3414  Attention: Maire
-Laitinen    14  18   with a copy (which shall not constitute notice)
-to:   Patton Boggs LLP  2550 M Street, NW  Washington, DC 20037 
-Telecopy: (202) 457-6315  Attention: Richard M. Stolbach, Esq.   SECTION
-9.3 Public Announcements. No party to this Agreement shall make, or cause to
-be made, any press release or public announcement or otherwise communicate
-with any news media in respect of this Agreement or the transactions
-contemplated hereby without the prior written consent of the other party
-(which shall not be unreasonably withheld or delayed), and the parties shall
-cooperate as to the timing and contents of any such press release or public
-announcement; provided, however, that with respect to any disclosure required
-by law or by a listing agreement with the National Association of Securities
-Dealers, Inc. Automated Quotation System National Market System or any
-securities exchange on which the Purchaser\'s or the Seller\'s securities
-are listed, the party required to make such disclosure shall use reasonable
-efforts to consult with the other party as to the timing and contents of such
-disclosure and to obtain such consent prior to the time such disclosure is
-required to be made.   SECTION 9.4 Headings. The descriptive headings
-contained in this Agreement are for convenience of reference only and shall
-not affect in any way the meaning or interpretation of this Agreement.  
-SECTION 9.5 Severability. If any term or other provision of this Agreement is
-invalid, illegal or incapable of being enforced by any Law or public policy,
-all other terms and provisions of this Agreement shall nevertheless remain in
-full force and effect so long as the economic and legal substance of the
-transactions contemplated hereby are not affected in any manner materially
-adverse to any party. Upon such determination that any term or
-other provision is invalid, illegal or incapable of being enforced, the
-parties hereto shall negotiate in good faith to modify this Agreement so as
-to effect the original intent of the parties as closely as possible in a
-mutually acceptable manner in order that the transactions contemplated hereby
-are consummated as originally contemplated to the greatest extent
-possible.   SECTION 9.6 Entire Agreement. This Agreement constitutes
-the entire agreement of the parties hereto with respect to the subject matter
-hereof and supersedes all prior agreements and undertakings, both written and
-oral, between the Seller and the Purchaser with respect to the subject matter
-hereof.   SECTION 9.7 Assignment. This Agreement may not be assigned
-by operation of Law or otherwise without the express written consent of the
-Seller and the Purchaser (which consent may be granted or withheld in the
-sole discretion of the Seller or the Purchaser), except that the Purchaser
-may assign this Agreement to an Affiliate of the Purchaser by notice thereof
-to the Seller. Any such assignment shall not relieve Purchaser from the
-obligations pursuant to Article II hereof to the extent not performed by the
-Affiliate assignee.    15  19   SECTION 9.8 No Third Party
-Beneficiaries. This Agreement shall be binding upon and inure solely to the
-benefit of the parties hereto and their successors and permitted assigns, and
-nothing herein, express or implied, is intended to or shall confer upon any
-other Person any legal or equitable right, benefit or remedy of any nature
-whatsoever under or by reason of this Agreement.   SECTION 9.9 Amendment.
-This Agreement may not be amended or modified, except: (i) by an instrument
-in writing signed by, or on behalf of, the Seller and the Purchaser; or (ii)
-by a waiver in accordance with Section 8.3.   SECTION 9.10 Governing Law.
-This Agreement shall be governed by the laws of the State of Delaware without
-reference to the principles or rules governing conflicts of laws.   SECTION
-9.11 Counterparts. This Agreement may be executed in one or more
-counterparts, and by the different parties hereto in separate counterparts,
-each of which when executed shall be deemed to be an original but all of
-which taken together shall constitute one and the same agreement.   SECTION
-9.12 Specific Performance. The parties hereto agree that irreparable damage
-would occur in the event any provision of this Agreement was not performed in
-accordance with the term hereof and that the parties shall be entitled to
-specific performance of the terms hereof, in addition to any other remedy at
-law or in equity.    16  20    IN WITNESS WHEREOF, the Seller and the
-Purchaser have caused this Agreement to be executed as of the date first
-written above by their respective officers thereunto duly authorized.  
-POWERTEL, INC.    By: /s/ Allen E. Smith 
----------------------------------  Name: Allen E. Smith  Title: Chief
-Executive Officer    SONERA HOLDING B.V.    By: /s/ Olli Tuohimaa 
----------------------------------  Name: Olli Tuohimaa  Title: Attorney-in-
-Fact      [Signature Page for Stock Purchase Agreement between Powertel,
-Inc.  and Sonera Holding B.V.]    17   '
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>2
+<FILENAME>0002.txt
+<DESCRIPTION>STOCK PURCHASE AGREEMENT
+<TEXT>
 
+<PAGE>   1
+
+                                                                    EXHIBIT 10.1
+
+
+
+
+
+                            STOCK PURCHASE AGREEMENT
+
+
+
+                                     BETWEEN
+
+
+                                 POWERTEL, INC.
+
+                                       AND
+
+                               SONERA HOLDING B.V.
+
+
+
+                            DATED AS OF MAY 30, 2000
+
+
+
+
+
+
+<PAGE>   2
+
+
+                                TABLE OF CONTENTS
+
+<TABLE>
+<S>                                                                                                  <C>
+ARTICLE I    DEFINITIONS..............................................................................1
+         SECTION 1.1    Certain Defined Terms.........................................................1
+
+ARTICLE II   PURCHASE AND SALE........................................................................4
+         SECTION 2.1    Purchase and Sale of the Shares...............................................4
+         SECTION 2.2    Purchase Price................................................................4
+         SECTION 2.3    Closing.......................................................................4
+         SECTION 2.4    Closing Deliveries by the Seller..............................................4
+         SECTION 2.5    Closing Deliveries by the Purchaser...........................................4
+
+ARTICLE III  REPRESENTATIONS AND WARRANTIES OF THE SELLER.............................................5
+         SECTION 3.1    Organization, Authority and Qualification of the Seller.......................5
+         SECTION 3.2    Capitalization of the Seller..................................................5
+         SECTION 3.3    Subsidiaries..................................................................5
+         SECTION 3.4    No Conflict...................................................................5
+         SECTION 3.5    Seller SEC Reports; Financial Statements......................................6
+         SECTION 3.6    Private Placement.............................................................6
+         SECTION 3.7    Brokers.......................................................................7
+
+ARTICLE IV   REPRESENTATIONS AND WARRANTIES OF THE PURCHASER..........................................7
+         SECTION 4.1    Organization and Authority of the Purchaser...................................7
+         SECTION 4.2    Investment Purpose............................................................7
+         SECTION 4.3    Accredited Investor...........................................................7
+         SECTION 4.4    Brokers.......................................................................7
+
+ARTICLE V   ADDITIONAL AGREEMENTS.....................................................................7
+         SECTION 5.1    Regulatory and Other Authorizations; Notices and Consents.....................7
+         SECTION 5.2    Notice of Developments........................................................8
+         SECTION 5.3    Registration Rights...........................................................8
+         SECTION 5.4    Resale Restrictions...........................................................9
+         SECTION 5.5    Registration of Shares........................................................9
+         SECTION 5.6    Certain Information...........................................................9
+         SECTION 5.7    Use of Funds..................................................................9
+         SECTION 5.8    Further Action................................................................9
+
+ARTICLE VI   CONDITIONS TO CLOSING....................................................................9
+         SECTION 6.1    Conditions to Obligations of the Seller.......................................9
+         SECTION 6.2    Conditions to Obligations of the Purchaser...................................10
+
+ARTICLE VII  SURVIVAL................................................................................11
+         SECTION 7.1    Survival of Representations and Warranties...................................11
+
+ARTICLE VIII TERMINATION AND WAIVER..................................................................12
+         SECTION 8.1    Termination..................................................................12
+         SECTION 8.2    Right of Cure................................................................13
+         SECTION 8.3    Effect of Termination........................................................13
+         SECTION 8.4    Waiver.......................................................................13
+</TABLE>
+
+
+                                       i
+<PAGE>   3
+
+<TABLE>
+<S>                                                                                                  <C>
+ARTICLE IX   GENERAL PROVISIONS......................................................................14
+         SECTION 9.1    Expenses.....................................................................14
+         SECTION 9.2    Notices......................................................................14
+         SECTION 9.3    Public Announcements.........................................................15
+         SECTION 9.4    Headings.....................................................................15
+         SECTION 9.5    Severability.................................................................15
+         SECTION 9.6    Entire Agreement.............................................................15
+         SECTION 9.7    Assignment...................................................................15
+         SECTION 9.8    No Third Party Beneficiaries.................................................16
+         SECTION 9.9    Amendment....................................................................16
+         SECTION 9.10   Governing Law................................................................16
+         SECTION 9.11   Counterparts.................................................................16
+         SECTION 9.12   Specific Performance.........................................................16
+</TABLE>
+
+
+                                       ii
+<PAGE>   4
+
+
+         This STOCK PURCHASE AGREEMENT, dated as of May 30, 2000, is entered
+into between POWERTEL, INC., a Delaware corporation (the "Seller"), and SONERA
+HOLDING B.V., a company organized under the law of the Netherlands (the
+"Purchaser").
+
+
+                              W I T N E S S E T H:
+
+         WHEREAS, the Seller wishes to issue and to sell to the Purchaser, and
+the Purchaser wishes to purchase from the Seller, shares of the Seller's Common
+Stock, par value $0.01 per share, upon the terms and subject to the conditions
+set forth herein;
+
+         NOW, THEREFORE, in consideration of the premises and the mutual
+agreements and covenants hereinafter set forth, the Purchaser and the Seller
+hereby agree as follows:
+
+
+                                    ARTICLE I
+
+                                   DEFINITIONS
+
+         SECTION  1.1 Certain Defined Terms. As used in this Agreement, the
+following terms shall have the following meanings:
+
+         "Action" means any claim, action, suit, arbitration, inquiry,
+proceeding or investigation by or before any Governmental Authority.
+
+         "Affiliate" means, with respect to a party hereto, any corporation or
+other business entity which directly or indirectly through stock ownership or
+other arrangement controls, is controlled by or is under common control with
+such party.
+
+         "Aggregate Purchase Price" has the meaning specified in Section 2.2.
+
+         "Agreement" or "this Agreement" means this Stock Purchase Agreement,
+dated as of May 30, 2000, between the Seller and the Purchaser (including the
+Annex hereto) and all amendments hereto made in accordance with the provisions
+of Section 9.9.
+
+         "Assets" means the properties, assets (including, without limitation,
+Licenses) and contract rights used in the conduct of the Business or otherwise
+owned, leased or used by the Seller or any Subsidiary or, with respect to
+contract rights, to which the Seller or any Subsidiary is a party or is bound.
+
+         "Business" means the business of the Seller and the Subsidiaries as
+currently conducted.
+
+         "Business Day" means any day other than a Saturday, Sunday or a day on
+which banking institutions in the State of New York are authorized or obligated
+by law or executive order to close.
+
+         "Closing" has the meaning specified in Section 2.3.
+
+
+                                       1
+<PAGE>   5
+
+         "Closing Date" has the meaning specified in Section 2.3.
+
+         "Commission" means the United States Securities and Exchange
+Commission.
+
+         "Common Stock" means the common stock, par value $0.01 per share, of
+the Seller.
+
+         "DiGiPH Transaction" shall mean (a) the acquisition of all or
+substantially all of the assets of DiGiPH PCS, Inc. by Eliska Wireless Ventures
+I, Inc., pursuant to that certain Asset Purchase Agreement of even date herewith
+between such parties and (b) the series of transactions pursuant to the
+agreements identified in Schedule 1.1 between and among, as applicable, the
+Seller, the Purchaser and Eliska Wireless Investors I, L.P.
+
+         "Disclosed by the Seller" with respect to information concerning any
+event, fact or circumstance, includes information contained in the Seller's SEC
+Reports, annual and other reports furnished by the Seller to its stockholders as
+a group, and press releases of the Seller disseminated to (i) the Dow Jones News
+Service or (ii) the National Association of Securities Dealers, Inc. Automated
+Quotation System or other national securities exchange, as well as information
+disclosed directly to the Purchaser by the Seller in connection with the
+entering into of this Agreement (including matters in connection with the DiGiPH
+Transaction) or in the Seller's audited annual financial statements, and the
+notes and schedules thereto, for the years ended December 31, 1998 and 1999.
+
+         "Encumbrance" means any security interest, pledge, mortgage, lien,
+charge, encumbrance, adverse claim, preferential right, arrangement or
+restriction of any kind, including, without limitation, any restriction on the
+use, voting, transfer, receipt of income or other exercise of any attributes of
+ownership.
+
+         "Exchange Act" means the United States Securities Exchange Act of 1934,
+as amended.
+
+         "FCC" means the United States Federal Communications Commission.
+
+         "FCC Licenses" means all licenses granted by the FCC to the Seller for
+and related to the provision of personal communications services in connection
+with the Business.
+
+         "Governmental Authority" means any United States federal, state or
+local or any foreign government, regulatory or administrative authority, or any
+governmental agency, department, board or commission, or any court, tribunal, or
+judicial, arbitral or investigative body or other governmental tribunal.
+
+         "Governmental Order" means any order, writ, judgment, injunction,
+decree, stipulation, determination or award entered by or with any Governmental
+Authority.
+
+         "HSR Act" means the Hart-Scott-Rodino Antitrust Improvements Act of
+1976, as amended, and the rules and regulations promulgated thereunder.
+
+
+                                       2
+<PAGE>   6
+
+         "Law" means any United States federal, state, local or foreign statute,
+law, ordinance, regulation, rule, code, order, other requirement or rule of law,
+including, without limitation, any requirement or rule of law of the FCC.
+
+         "Liabilities" means any and all debts, liabilities and obligations,
+whether accrued or fixed, absolute or contingent, matured or unmatured or
+determined or determinable, including, without limitation, those arising under
+any Law, Action or Governmental Order and those arising under any contract,
+agreement, arrangement, commitment or undertaking.
+
+         "Licenses" means all FCC Licenses and all other licenses, permits
+(including construction permits), consents, approvals and other authority issued
+by any Governmental Authority in connection with the legal and proper operation
+of the Business.
+
+         "Material Adverse Effect" means any circumstance, change in or effect
+on the Business, the Seller or any Subsidiary that: (a) is, or would reasonably
+be expected to be, materially adverse to the Business, operations, Assets or
+Liabilities, prospects, results of operations or financial condition of the
+Seller and the Subsidiaries, taken as a whole; or (b) would reasonably be
+expected to materially adversely affect the ability of the Seller and the
+Subsidiaries to operate or conduct the Business.
+
+         "Per Share Purchase Price" has the meaning specified in Section 2.2.
+
+         "Person" means any individual, partnership, limited liability company,
+firm, corporation, association, trust, joint venture, unincorporated
+organization or other entity, as well as any syndicate or group that would be
+deemed to be a person under Section 13(d)(3) of the Exchange Act.
+
+         "Purchaser" has the meaning specified in the preamble to this Agreement
+except that, upon the assignment of this Agreement to an Affiliate of Sonera
+Corporation pursuant to Section 9.7 hereof, "Purchaser" shall refer to such
+Affiliate of Sonera Corporation.
+
+         "Recipient" has the meaning specified in Section 8.2.
+
+         "Sale" means any sale, assignment, transfer, distribution or other
+disposition of shares of Common Stock or of a participation therein, whether
+voluntarily or by operation of law.
+
+         "SEC Reports" has the meaning specified in Section 3.5(a).
+
+         "Securities Act" means the United States Securities Act of 1933, as
+amended.
+
+         "Seller" has the meaning specified in the preamble to this Agreement.
+
+         "Shares" has the meaning specified in Section 2.1.
+
+         "Subsidiary" means any corporation, partnership, limited liability
+company, joint venture, association and other entity majority controlled by the
+Seller directly or indirectly through one or more intermediaries.
+
+
+                                       3
+<PAGE>   7
+
+         "Terminating Party" has the meaning specified in Section 8.2.
+
+         "U.S. GAAP" means United States generally accepted accounting
+principles and practices as in effect from time to time and applied consistently
+throughout the periods involved.
+
+
+                                   ARTICLE II
+
+                                PURCHASE AND SALE
+
+         SECTION 2.1       Purchase and Sale of the Shares. Upon the terms and
+subject to the conditions of this Agreement, at the Closing the Seller shall
+sell to the Purchaser, and the Purchaser shall purchase from the Seller, one
+million seven hundred forty thousand nine hundred forty-seven (1,740,947) shares
+of the Common Stock (the "Shares").
+
+         SECTION 2.2       Purchase Price. The per share purchase price for the
+Shares (the "Per Share Purchase Price") shall be $71.80, the average of the last
+sales price as of the close of the market (excluding after-hours trading) of a
+share of the Common Stock on the Nasdaq National Market System for the twenty
+trading days ending on the last trading day prior to the date hereof. The
+aggregate purchase price for the Shares (the "Aggregate Purchase Price") shall
+be $124,999,994.60.
+
+         SECTION 2.3       Closing. Upon the terms and subject to the conditions
+of this Agreement, the issuance, sale and purchase of the Shares contemplated by
+this Agreement shall take place at a closing (the "Closing") to be held at
+approximately 9:00 a.m. Atlanta time at the offices of Morris, Manning & Martin,
+LLP, 1600 Atlanta Financial Center, 3343 Peachtree Road, N.E., Atlanta, Georgia
+30326 on the date of the closing of the DiGiPH Transaction, or at such other
+place or at such other time or on such other date as the Seller and the
+Purchaser may mutually agree upon in writing (the day on which the Closing takes
+place being the "Closing Date").
+
+         SECTION 2.4       Closing Deliveries by the Seller. At the Closing, the
+Seller shall deliver or cause to be delivered to the Purchaser a receipt for the
+Aggregate Purchase Price, stock certificates evidencing the Shares duly
+registered in the name of the Purchaser and the certificates and other documents
+required to be delivered pursuant to Section 6.2.
+
+         SECTION 2.5       Closing Deliveries by the Purchaser. At the Closing,
+the Purchaser shall deliver to the Seller the Aggregate Purchase Price in
+immediately available funds together with the certificates and other documents
+required to be delivered pursuant to Section 6.1.
+
+
+                                       4
+<PAGE>   8
+
+                                   ARTICLE III
+
+                  REPRESENTATIONS AND WARRANTIES OF THE SELLER
+
+         As an inducement to the Purchaser to enter into this Agreement, the
+Seller hereby represents and warrants to the Purchaser as of the date hereof and
+will represent and warrant at closing as follows:
+
+         SECTION 3.1       Organization, Authority and Qualification of the
+Seller. The Seller is a corporation duly organized, validly existing and in good
+standing under the laws of the State of Delaware and has all necessary power and
+authority to enter into this Agreement, to carry out its obligations hereunder
+and to consummate the transactions contemplated hereby and to conduct its
+Business. The execution and delivery of this Agreement by the Seller, the
+performance by the Seller of its obligations hereunder and the consummation by
+the Seller of the transactions contemplated hereby have been duly authorized by
+all requisite action on the part of the Seller. This Agreement has been duly
+executed and delivered by the Seller, and (assuming due authorization, execution
+and delivery by the Purchaser) this Agreement constitutes a legal, valid and
+binding obligation of the Seller enforceable against the Seller in accordance
+with its terms, except (i) as may be limited by bankruptcy, insolvency,
+reorganization, moratorium or other laws affecting creditors' rights (including,
+without limitation, the effect of statutory and other laws regarding fraudulent
+conveyances, fraudulent transfers and preferential transfers) and (ii) as may be
+limited by the exercise of judicial discretion and the application of principles
+of equity, including, without limitation, requirements of good faith, fair
+dealing, conscionability and materiality (regardless of whether such agreements
+are considered in a proceeding in equity or at law).
+
+         SECTION 3.2       Capitalization of the Seller. The authorized capital
+stock of the Seller consists of 100,000,000 shares of Common Stock and 1,000,000
+shares of preferred stock, par value $0.01 per share. As of the date hereof, (i)
+31,188,819 shares of Common Stock (not including the Shares) are issued and
+outstanding, all of which are validly issued, fully paid and nonassessable, and
+(ii) 350,000 shares of preferred stock are issued and outstanding, all of which
+are validly issued, fully paid and nonassessable. Upon issuance of the Shares to
+the Purchaser at the Closing and payment therefor pursuant to this Agreement,
+the Shares will be validly issued, fully paid and nonassessable and free of
+preemptive rights. Upon consummation of the transactions contemplated by this
+Agreement, including the issuance of the Shares, registration of the Shares in
+the name of the Purchaser in the stock records of the Seller and delivery of the
+Shares, the Purchaser will own the Shares free and clear of all Encumbrances,
+other than Encumbrances resulting from any action, or failure to take action, by
+the Purchaser.
+
+         SECTION 3.3       Subsidiaries. Each Subsidiary: (i) is duly organized
+and validly existing under the laws of its jurisdiction of organization; and
+(ii) has all necessary power and authority to own, operate or lease the
+properties and assets owned, operated or leased by such Subsidiary and to carry
+on its business as it has been and is currently conducted by such Subsidiary.
+
+         SECTION 3.4       No Conflict. The execution, delivery and performance
+of this Agreement by the Seller and the issuance of the Shares do not and will
+not: (i) violate, conflict with or result in the breach of any provision of the
+certificate of incorporation or by-laws (or similar organizational documents) of
+the Seller or any Subsidiary as in effect on the date hereof or on the
+
+
+                                       5
+<PAGE>   9
+
+Closing Date; (ii) conflict with or violate (or cause an event which could have
+a Material Adverse Effect as a result of) any Law or Governmental Order as in
+effect on the date hereof or on the Closing Date applicable to the Seller, any
+Subsidiary or any of their respective assets, properties or businesses; or (iii)
+conflict with, result in any breach of, constitute a default (or event which
+with the giving of notice or lapse of time, or both, would become a default)
+under, require any consent under, or give to others any rights of termination,
+amendment, acceleration, suspension, revocation or cancellation of, or result in
+the creation of any Encumbrance on any of the Shares or on any of the assets or
+properties of the Seller or any Subsidiary pursuant to, any note, bond, mortgage
+or indenture, contract, agreement, lease, sublease, license, permit, franchise
+or other instrument or arrangement as in effect on the date hereof or on the
+Closing Date to which the Seller or any Subsidiary is a party or by which any of
+the Shares or any of such assets or properties is bound or affected.
+
+         SECTION 3.5       Seller SEC Reports; Financial Statements.
+
+                  (a)      The Seller has filed all forms, reports and documents
+required to be filed by it with the Commission, and has heretofore made
+available to the Purchaser, in the form filed with the Commission (excluding any
+exhibits thereto), (i) its Annual Report on Form 10-K for the fiscal years ended
+December 31, 1997, 1998 and 1999 and (ii) all proxy statements relating to the
+Seller's meetings of stockholders (whether annual or special) held since
+December 31, 1997 (collectively, the "SEC Reports").
+
+                  (b)      The SEC Reports were prepared in all material
+respects in accordance with the requirements of the Exchange Act and the rules
+and regulations thereunder and did not at the time they were filed contain any
+untrue statement of a material fact or omit to state a material fact required to
+be stated therein or necessary in order to make the statements made therein, in
+light of the circumstances under which they were made, not misleading.
+
+                  (c)      The financial statements (including, in each case,
+any notes thereto) contained in the SEC Reports were prepared in accordance with
+U.S. GAAP applied on a consistent basis throughout the periods indicated (except
+as may be indicated in the notes thereto), and each fairly presented the
+financial position, results of operations and cash flows of the Seller and its
+consolidated subsidiaries as at the respective dates thereof and for the
+respective periods indicated therein.
+
+                  (d)      Since December 31, 1999 there has not been any
+change, occurrence or circumstance affecting the Business, results of operations
+or financial condition of the Seller or any Subsidiary that has had,
+individually or in the aggregate, a Material Adverse Effect, other than changes,
+occurrences and circumstances referred to in any subsequently filed SEC Reports
+or otherwise Disclosed by the Seller.
+
+         SECTION 3.6       Private Placement. Assuming the accuracy of the
+representations and warranties of the Purchaser contained in Sections 4.2 and
+4.3, the offer and sale of the Shares to the Purchaser pursuant to this
+Agreement is exempt from registration under the Securities Act.
+
+
+                                       6
+<PAGE>   10
+
+         SECTION 3.7       Brokers. No broker, finder or investment banker is
+entitled to any brokerage, finder's or other fee or commission in connection
+with the transactions contemplated by this Agreement based upon arrangements
+made by or on behalf of the Seller.
+
+
+                                   ARTICLE IV
+
+                 REPRESENTATIONS AND WARRANTIES OF THE PURCHASER
+
+         As an inducement to the Seller to enter into this Agreement, the
+Purchaser hereby represents and warrants to the Seller as of the date hereof and
+will represent and warrant at Closing as follows:
+
+         SECTION 4.1       Organization and Authority of the Purchaser. The
+Purchaser is a corporation duly organized and validly existing under the laws of
+the Netherlands and has all necessary power and authority to enter into this
+Agreement, to carry out its obligations hereunder and to consummate the
+transactions contemplated hereby. The execution and delivery of this Agreement
+by the Purchaser, the performance by the Purchaser of its obligations hereunder
+and the consummation by the Purchaser of the transactions contemplated hereby
+have been duly authorized by all requisite action on the part of the Purchaser.
+This Agreement has been duly executed and delivered by the Purchaser, and
+(assuming due authorization, execution and delivery by the Seller) this
+Agreement constitutes a legal, valid and binding obligation of the Purchaser
+enforceable against the Purchaser in accordance with its terms. except (i) as
+may be limited by bankruptcy, insolvency, reorganization, moratorium or other
+laws affecting creditors' rights (including, without limitation, the effect of
+statutory and other laws regarding fraudulent conveyances, fraudulent transfers
+and preferential transfers) and (ii) as may be limited by the exercise of
+judicial discretion and the application of principles of equity, including,
+without limitation, requirements of good faith, fair dealing, conscionability
+and materiality (regardless of whether such agreements are considered in a
+proceeding in equity or at law).
+
+         SECTION 4.2       Investment Purpose. The Purchaser is acquiring the
+Shares for the Purchaser's own account solely for the purpose of investment and
+not with a view to, or for offer or sale in connection with, any distribution
+thereof.
+
+         SECTION 4.3       Accredited Investor. The Purchaser is an "accredited
+investor" within the meaning of Rule 501 under the Securities Act.
+
+         SECTION 4.4       Brokers. No broker, finder or investment banker is
+entitled to any brokerage, finder's or other fee or commission in connection
+with the transactions contemplated by this Agreement based upon arrangements
+made by or on behalf of the Purchaser.
+
+
+                                    ARTICLE V
+
+                              ADDITIONAL AGREEMENTS
+
+         SECTION 5.1       Regulatory and Other Authorizations; Notices and
+Consents.
+
+
+                                       7
+<PAGE>   11
+
+                  (a)      The Seller and the Purchaser shall use all reasonable
+efforts to obtain all approvals of all Governmental Authorities that may be or
+become necessary for each of them to obtain for their execution and delivery of,
+and the performance of their respective obligations pursuant to, this Agreement.
+Each party hereto agrees to make an appropriate filing pursuant to the HSR Act,
+if required, with respect to the purchase and sale of the Shares and to supply
+as promptly as practicable to the appropriate Governmental Authorities any
+additional information and documentary material that may be requested pursuant
+to the HSR Act.
+
+                  (b)      The Seller shall or shall cause the Subsidiaries to
+give promptly such notices to third parties and use its or their reasonable
+efforts to obtain such third party consents as may be necessary in connection
+with the transactions contemplated by this Agreement.
+
+                  (c)      The Purchaser acknowledges that it is required to
+make filings under the Exchange Act (including, without limitation, filings
+required by Section 13 and Section 16 of the Exchange Act) in connection with
+the transactions contemplated by this Agreement.
+
+         SECTION 5.2       Notice of Developments.
+
+                  (a)      Prior to the Closing, the Seller shall promptly
+notify the Purchaser in writing of all events, circumstances, facts and
+occurrences arising subsequent to the date of this Agreement which could
+reasonably be expected to result in any breach of a representation or warranty
+or covenant of the Seller in this Agreement or which could reasonably be
+expected to have the effect of making any representation or warranty of the
+Seller in this Agreement untrue or incorrect at any time from the date hereof
+through the Closing.
+
+                  (b)      Prior to the Closing, the Purchaser shall promptly
+notify the Seller in writing of all events, circumstances, facts and occurrences
+arising subsequent to the date of this Agreement which could reasonably be
+expected to result in any breach of a representation or warranty or covenant of
+the Purchaser in this Agreement or which could reasonably be expected to have
+the effect of making any representation or warranty of the Purchaser in this
+Agreement untrue or incorrect at any time from the date hereof through the
+Closing.
+
+         SECTION 5.3       Registration Rights. The Shares and all securities
+issued on account of or with respect to the Shares by reason of stock splits,
+stock dividends, recapitalizations or otherwise shall be considered "Securities"
+under that certain "Annex II - Registration Rights" that is an annex to the
+Stock Purchase Agreement between InterCel, Inc. and Ericsson Inc. dated as of
+March 4, 1996, pursuant to which the shares of the Seller's Series A Convertible
+Preferred Stock that are currently held by the Purchaser were originally
+purchased, and the Purchaser or any Person to whom the Purchaser transfers at
+least 300,000 shares of the Common Stock or securities convertible into at least
+300,000 shares of the Common Stock, as adjusted for stock splits, stock
+dividends, combinations or similar transactions (a "Qualified Transferee") shall
+be accorded all registration and other rights set forth in such Annex II with
+respect to the Shares. In addition, in the event that the Purchaser transfers
+its rights hereunder to an Affiliate of the Purchaser as set forth in Section
+9.7, the Purchaser's registration and other rights set forth in such Annex II
+with respect to the Shares will likewise be assigned to such Affiliate of the
+Purchaser or any Qualified Transferee of such Affiliate.
+
+
+                                       8
+<PAGE>   12
+
+         SECTION 5.4       Resale Restrictions. The Purchaser acknowledges that
+the Shares have not been registered under the Securities Act or any state
+securities law, and the Purchaser hereby agrees not (and not to enter into any
+agreement) to effect any Sale of the Shares unless and until such transaction is
+registered under the Securities Act and any applicable state securities law or
+unless such transaction is exempt from registration under the Securities Act and
+such laws; provided, that in the event the Purchaser desires to claim an
+exemption from registration in connection with any such transaction, as a
+condition to claiming such exemption, the Purchaser shall deliver to the Seller
+a legal opinion issued by the Purchaser's legal counsel, which opinion and
+counsel must be reasonably satisfactory to the Seller, establishing the
+applicability of an exemption to such transaction. The certificate representing
+the Shares shall bear a legend referencing the restrictions on transferability
+set forth in this Agreement, and the Seller shall place stop transfer orders on
+the books of its transfer agent with respect to the Shares.
+
+         SECTION 5.5       Registration of Shares. The Seller shall, upon
+issuance of the Shares and prior to the delivery of stock certificates
+evidencing the Shares pursuant to Section 2.4, register the Shares in the name
+of the Purchaser in the stock records of the Seller.
+
+         SECTION 5.6       Certain Information. For a period commencing on the
+date of this Agreement and ending not earlier than two years from the Closing
+Date, for so long as the Seller is subject to the reporting requirements of
+Section 13 or 15(d) of the Exchange Act, the Seller shall file all reports and
+other information required to be filed by Section 13 or 15(d) under the Exchange
+Act, as the case may be, as shall be necessary in order that the conditions to
+the availability of Rule 144 under the Securities Act, as such Rule may be
+amended, in connection with any Sale of shares of Common Stock by the Purchaser
+shall be met.
+
+         SECTION 5.7       Use of Funds. The Seller shall use the proceeds from
+the sale of the Shares solely in connection with the DiGiPH Transaction.
+
+         SECTION 5.8       Further Action. Each of the parties hereto shall use
+all reasonable efforts to take, or cause to be taken, all appropriate action, do
+or cause to be done all things necessary, proper or advisable under applicable
+Law, and execute and deliver such documents and other papers, as may be required
+to carry out the provisions of this Agreement and consummate and make effective
+the transactions contemplated by this Agreement.
+
+
+                                   ARTICLE VI
+
+                              CONDITIONS TO CLOSING
+
+         SECTION 6.1       Conditions to Obligations of the Seller. The
+obligations of the Seller to consummate the transactions contemplated by this
+Agreement shall be subject to the satisfaction (or waiver by the Seller, at its
+sole discretion), at or prior to the Closing, of each of the following
+conditions:
+
+
+                                       9
+<PAGE>   13
+
+                  (a)      Representations, Warranties and Covenants. The
+representations and warranties of the Purchaser contained in this Agreement
+shall have been true and correct in all material respects when made and shall be
+true and correct in all material respects as of the Closing, with the same force
+and effect as if made as of the Closing, other than such representations and
+warranties as are made as of another date, which shall be true and correct in
+all material respects as of such date, and the covenants and agreements
+contained in this Agreement to be complied with by the Purchaser at or before
+the Closing shall have been complied with in all material respects, and the
+Seller shall have received a certificate from the Purchaser to such effect
+signed by a duly authorized officer thereof;
+
+                  (b)      No Proceeding or Litigation. No Action shall have
+been commenced by or before any Governmental Authority against either the Seller
+or the Purchaser seeking to restrain or materially and adversely alter the
+transactions contemplated by this Agreement which, in the reasonable, good faith
+determination of the Seller, is likely to render it impossible or unlawful to
+consummate such transactions;
+
+                  (c)      Resolutions of the Purchaser. The Seller shall have
+received a true and complete copy, certified by the Secretary or an Assistant
+Secretary of the Purchaser, of the resolutions duly and validly adopted by the
+Board of Directors of the Purchaser evidencing its authorization, if required by
+law, of the execution and delivery of this Agreement and the consummation of the
+transactions contemplated hereby;
+
+                  (d)      Incumbency Certificate of the Purchaser. The Seller
+shall have received a certificate of the Secretary or Assistant Secretary of the
+Purchaser certifying the names and signatures of the officers of the Purchaser
+(or their duly authorized representatives) authorized to sign this Agreement and
+the other documents to be delivered hereunder;
+
+                  (e)      Consents and Approvals. The Seller shall have
+received (or received evidence of), each in form and substance reasonably
+satisfactory to the Seller, the approvals and third party consents identified on
+Schedule 6.1(e) to this Agreement; and
+
+                  (f)      Closing of DiGiPH Transaction. Closing of the DiGiPH
+Transaction shall have occurred or shall occur contemporaneously with the
+Closing.
+
+         SECTION 6.2       Conditions to Obligations of the Purchaser. The
+obligations of the Purchaser shall be subject to the satisfaction (or waiver by
+the Purchaser, at its sole discretion), at or prior to the Closing, of each of
+the following conditions:
+
+                  (a)      Representations, Warranties and Covenants. The
+representations and warranties of the Seller contained in this Agreement shall
+have been true and correct in all material respects when made and shall be true
+and correct in all material respects as of the Closing with the same force and
+effect as if made as of the Closing, other than such representations and
+warranties as are made as of another date, which shall be true and correct as of
+such date, and the covenants and agreements contained in this Agreement to be
+complied with by the Seller at or before the Closing shall have been complied
+with in all material respects, and the Purchaser shall have received a
+certificate of the Seller to such effect signed by a duly authorized officer
+thereof;
+
+
+                                       10
+<PAGE>   14
+
+                  (b)      No Proceeding or Litigation. No Action shall have
+been commenced by or before any Governmental Authority against either the Seller
+or the Purchaser, seeking to restrain or materially and adversely alter the
+transactions contemplated by this Agreement which, in the reasonable, good faith
+determination of the Purchaser, is likely to render it impossible or unlawful to
+consummate such transactions or which could have a Material Adverse Effect;
+provided, however, that the provisions of this Section 6.2(b) shall not apply if
+the Purchaser has directly or indirectly solicited or encouraged any such
+Action;
+
+                  (c)      Resolutions of the Seller. The Purchaser shall have
+received a true and complete copy, certified by the Secretary or an Assistant
+Secretary of the Seller, of the resolutions duly and validly adopted by the
+Board of Directors of the Seller evidencing their authorization of the execution
+and delivery of this Agreement, the issuance of the Shares and the consummation
+of the transactions contemplated hereby;
+
+                  (d)      Incumbency Certificate of the Seller. The Purchaser
+shall have received a certificate of the Secretary or an Assistant Secretary of
+the Seller certifying the names and signatures of the officers of the Seller
+authorized to sign this Agreement and the other documents to be delivered
+hereunder;
+
+                  (e)      Organizational Documents. The Purchaser shall have
+received a copy of the certificate of incorporation and by-laws of the Seller,
+certified by the Secretary or an Assistant Secretary of the Seller;
+
+                  (f)      Good Standing. The Purchaser shall have received a
+good standing certificate for the Seller from the Secretary of State of the
+State of Delaware, dated as of a date not earlier than five Business Days prior
+to the Closing Date and accompanied by a bring-down certificate signed by the
+Secretary or an Assistant Secretary of the Seller dated within one day prior to
+the Closing Date;
+
+                  (g)      Closing of DiGiPH Transaction. Closing of the DiGiPH
+Transaction shall have occurred or shall occur contemporaneously with the
+Closing; and
+
+                  (h)      Consents and Approvals. The Purchaser shall have
+received (or received evidence of), each in form and substance reasonably
+satisfactory to the Purchaser, the approvals and third party consents identified
+on Schedule 6.2(h) to this Agreement.
+
+
+                                   ARTICLE VII
+
+                                    SURVIVAL
+
+         SECTION 7.1       Survival of Representations and Warranties.
+
+                  (a)      The representations and warranties of the Seller to
+the Purchaser contained in this Agreement shall survive the Closing until the
+first anniversary of the Closing Date.
+
+
+                                       11
+<PAGE>   15
+
+Neither the period of survival nor the liability of the Seller with respect to
+the Seller's representations and warranties shall be reduced by any
+investigation made at any time by or on behalf of the Purchaser. If written
+notice of a claim has been given prior to the expiration of the applicable
+representations and warranties in good faith by the Purchaser to the Seller,
+then the relevant representations and warranties shall survive as to such claim,
+until such claim has been finally resolved.
+
+                  (b)      The representations and warranties of the Purchaser
+to the Seller contained in this Agreement shall survive the Closing until the
+first anniversary of the Closing Date. Neither the period of survival nor the
+liability of the Purchaser with respect to the Purchaser's representations and
+warranties shall be reduced by any investigation made at any time by or on
+behalf of the Seller. If written notice of a claim has been given prior to the
+expiration of the applicable representations and warranties in good faith by the
+Seller to the Purchaser, then the relevant representations and warranties shall
+survive as to such claim, until such claim has been finally resolved.
+
+
+                                  ARTICLE VIII
+
+                             TERMINATION AND WAIVER
+
+         SECTION 8.1       Termination. This Agreement may be terminated as
+follows:
+
+                  (a)      by the Purchaser if, between the date hereof and the
+time scheduled for the Closing: (i) any representation or warranty of the Seller
+contained in this Agreement shall not have been true and correct when made,
+except where such failure does not cause a Material Adverse Effect; (ii) the
+Seller shall not have complied in all material respects with any covenant or
+agreement to be complied with by it and contained in this Agreement; or (iii)
+the Seller or any Subsidiary makes a general assignment for the benefit of
+creditors, or any proceeding shall be instituted by or against the Seller or any
+Subsidiary seeking to adjudicate any of them a bankrupt or insolvent, or seeking
+liquidation, winding up or reorganization, arrangement, adjustment, protection,
+relief or composition of its debts under any Law relating to bankruptcy,
+insolvency or reorganization; or
+
+                  (b)      by the Seller if, between the date hereof and the
+time scheduled for the Closing: (i) any representation or warranty of the
+Purchaser contained in this Agreement shall not have been true and correct when
+made, except where such failure does not cause a Material Adverse Effect; (ii)
+the Purchaser shall not have complied in all material respects with any covenant
+or agreement to be complied with by it and contained in this Agreement; or (iii)
+the Purchaser makes a general assignment for the benefit of creditors, or any
+proceeding shall be instituted by or against the Purchaser seeking to adjudicate
+it a bankrupt or insolvent, or seeking liquidation, winding up or
+reorganization, arrangement, adjustment, protection, relief or composition of
+its debts under any Law relating to bankruptcy, insolvency or reorganization; or
+
+
+                                       12
+<PAGE>   16
+
+                  (c)      by either the Seller or the Purchaser if the Closing
+shall not have occurred on or prior to March 31, 2001, which termination shall
+be effective upon receipt of written notice thereof by the intended recipient as
+set forth in Section 9.2 hereof; or
+
+                  (d)      by either the Purchaser or the Seller in the event
+that any Governmental Authority shall have issued an order, decree or ruling or
+taken any other action restraining, enjoining or otherwise prohibiting the
+transactions contemplated by this Agreement, and such order, decree, ruling or
+other action shall have become final and nonappealable, which termination shall
+be effective upon receipt of written notice thereof by the intended recipient as
+set forth in Section 9.2 hereof; or
+
+                  (e)      immediately upon the mutual written consent of the
+Seller and the Purchaser.
+
+         SECTION 8.2       Right of Cure. Notwithstanding the foregoing, if the
+Purchaser or the Seller ("Terminating Party") claim the right to terminate this
+Agreement pursuant to Section 8.1(a) or Section 8.1(b), then the Terminating
+Party must provide the other party ("Recipient") with written notice of its
+intention to terminate or abandon the Agreement, which notice shall identify the
+condition or event giving rise to the Terminating Party's right to terminate or
+abandon the Agreement. The Recipient will have ten (10) business days from
+receipt of such notice to cure such condition or event; provided that in the
+event that the Terminating Party provides such notice based on a representation
+or warranty of the Recipient contained in this Agreement which was not true or
+correct when made upon the execution of this Agreement, an action by the
+Recipient within ten (10) days of such notice such that, if called upon to do
+so, Recipient could make such representation or warranty in a truthful and
+correct manner in all material respects will be deemed to constitute a cure of
+such default. The provisions of this Section 8.2 shall not apply to termination
+pursuant to Sections 8.1(c), 8.1 (d) or 8.1(e).
+
+         SECTION 8.3       Effect of Termination. In the event of termination of
+this Agreement as provided in Section 8.1, this Agreement shall forthwith become
+void and there shall be no liability on the part of either party hereto except
+that nothing herein shall relieve either party from liability for any breach of
+this Agreement occurring prior to termination.
+
+         SECTION 8.4       Waiver. Either party to this Agreement may: (i)
+extend the time for the performance of any of the obligations or other acts of
+the other party; (ii) waive any inaccuracies in the representations and
+warranties of the other party contained herein or in any document delivered by
+the other party pursuant hereto; or (iii) waive compliance with any of the
+agreements or conditions of the other party contained herein. Any such extension
+or waiver shall be valid only if set forth in an instrument in writing signed by
+the party to be bound thereby. Any waiver of any term or condition shall not be
+construed as a waiver of any subsequent breach or a subsequent waiver of the
+same term or condition, or a waiver of any other term or condition, of this
+Agreement. The failure of any party to assert any of its rights hereunder shall
+not constitute a waiver of any of such rights.
+
+
+                                       13
+<PAGE>   17
+
+                                   ARTICLE IX
+
+                               GENERAL PROVISIONS
+
+         SECTION 9.1       Expenses. Except as otherwise specified in this
+Agreement, all costs and expenses, including, without limitation, fees and
+disbursements of counsel, financial advisors and accountants, incurred in
+connection with this Agreement and the transactions contemplated hereby shall be
+paid by the party incurring such costs and expenses, whether or not the Closing
+shall have occurred.
+
+         SECTION 9.2       Notices. All notices, requests, claims, demands and
+other communications hereunder shall be in writing and shall be given or made
+(and shall be deemed to have been duly given or made upon receipt) by delivery
+in person, by courier service or by telecopy to the other party at the following
+addresses (or at such other address for a party as shall be specified in a
+notice given in accordance with this Section 9.2):
+
+                  (a)      if to the Seller:
+
+                           Powertel, Inc.
+                           1233 O.G. Skinner Drive
+                           West Point, Georgia 31833
+                           Telecopy:  (706) 645-9523
+                           Attention: Jill F. Dorsey, Esq.
+
+                           with a copy (which shall not constitute notice) to:
+
+                           Morris, Manning & Martin, LLP
+                           1600 Atlanta Financial Center
+                           3343 Peachtree Road, N.E.
+                           Atlanta, Georgia  30326
+                           Telecopy: (404) 365-9532
+                           Attention:  James Walker IV, Esq.
+
+                  (b)      if to the Purchaser:
+
+                           Sonera Corporation
+                           Teollisuuskatu 15
+                           FIN-00051-Sonera
+                           Helsinki, Finland
+                           Telecopy:  011 358 2040 3414
+                           Attention:  Maire Laitinen
+
+
+                                       14
+<PAGE>   18
+
+                           with a copy (which shall not constitute notice) to:
+
+                           Patton Boggs LLP
+                           2550 M Street, NW
+                           Washington, DC  20037
+                           Telecopy: (202) 457-6315
+                           Attention:  Richard M. Stolbach, Esq.
+
+         SECTION 9.3       Public Announcements. No party to this Agreement
+shall make, or cause to be made, any press release or public announcement or
+otherwise communicate with any news media in respect of this Agreement or the
+transactions contemplated hereby without the prior written consent of the other
+party (which shall not be unreasonably withheld or delayed), and the parties
+shall cooperate as to the timing and contents of any such press release or
+public announcement; provided, however, that with respect to any disclosure
+required by law or by a listing agreement with the National Association of
+Securities Dealers, Inc. Automated Quotation System National Market System or
+any securities exchange on which the Purchaser's or the Seller's securities are
+listed, the party required to make such disclosure shall use reasonable efforts
+to consult with the other party as to the timing and contents of such disclosure
+and to obtain such consent prior to the time such disclosure is required to be
+made.
+
+         SECTION 9.4       Headings. The descriptive headings contained in this
+Agreement are for convenience of reference only and shall not affect in any way
+the meaning or interpretation of this Agreement.
+
+         SECTION 9.5       Severability. If any term or other provision of this
+Agreement is invalid, illegal or incapable of being enforced by any Law or
+public policy, all other terms and provisions of this Agreement shall
+nevertheless remain in full force and effect so long as the economic and legal
+substance of the transactions contemplated hereby are not affected in any manner
+materially adverse to any party. Upon such determination that any term or other
+provision is invalid, illegal or incapable of being enforced, the parties hereto
+shall negotiate in good faith to modify this Agreement so as to effect the
+original intent of the parties as closely as possible in a mutually acceptable
+manner in order that the transactions contemplated hereby are consummated as
+originally contemplated to the greatest extent possible.
+
+         SECTION 9.6       Entire Agreement. This Agreement constitutes the
+entire agreement of the parties hereto with respect to the subject matter hereof
+and supersedes all prior agreements and undertakings, both written and oral,
+between the Seller and the Purchaser with respect to the subject matter hereof.
+
+         SECTION 9.7       Assignment. This Agreement may not be assigned by
+operation of Law or otherwise without the express written consent of the Seller
+and the Purchaser (which consent may be granted or withheld in the sole
+discretion of the Seller or the Purchaser), except that the Purchaser may assign
+this Agreement to an Affiliate of the Purchaser by notice thereof to the Seller.
+Any such assignment shall not relieve Purchaser from the obligations pursuant to
+Article II hereof to the extent not performed by the Affiliate assignee.
+
+
+                                       15
+<PAGE>   19
+
+         SECTION 9.8       No Third Party Beneficiaries. This Agreement shall be
+binding upon and inure solely to the benefit of the parties hereto and their
+successors and permitted assigns, and nothing herein, express or implied, is
+intended to or shall confer upon any other Person any legal or equitable right,
+benefit or remedy of any nature whatsoever under or by reason of this Agreement.
+
+         SECTION 9.9       Amendment. This Agreement may not be amended or
+modified, except: (i) by an instrument in writing signed by, or on behalf of,
+the Seller and the Purchaser; or (ii) by a waiver in accordance with Section
+8.3.
+
+         SECTION 9.10      Governing Law. This Agreement shall be governed by
+the laws of the State of Delaware without reference to the principles or rules
+governing conflicts of laws.
+
+         SECTION 9.11      Counterparts. This Agreement may be executed in one
+or more counterparts, and by the different parties hereto in separate
+counterparts, each of which when executed shall be deemed to be an original but
+all of which taken together shall constitute one and the same agreement.
+
+         SECTION 9.12      Specific Performance. The parties hereto agree that
+irreparable damage would occur in the event any provision of this Agreement was
+not performed in accordance with the term hereof and that the parties shall be
+entitled to specific performance of the terms hereof, in addition to any other
+remedy at law or in equity.
+
+
+                                       16
+<PAGE>   20
+
+
+         IN WITNESS WHEREOF, the Seller and the Purchaser have caused this
+Agreement to be executed as of the date first written above by their respective
+officers thereunto duly authorized.
+
+                                          POWERTEL, INC.
+
+
+                                          By:  /s/ Allen E. Smith
+                                               ---------------------------------
+                                               Name:  Allen E. Smith
+                                               Title: Chief Executive Officer
+
+
+                                          SONERA HOLDING B.V.
+
+
+                                          By:  /s/ Olli Tuohimaa
+                                               ---------------------------------
+                                               Name:  Olli Tuohimaa
+                                               Title: Attorney-in-Fact
+
+
+
+
+      [Signature Page for Stock Purchase Agreement between Powertel, Inc.
+                            and Sonera Holding B.V.]
+
+
+                                       17
+</TEXT>
+</DOCUMENT>

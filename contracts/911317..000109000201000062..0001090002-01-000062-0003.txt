@@ -1,934 +1,1393 @@
-ND AGREEMENT OF MERGER     EXHIBIT
-99.2        PLAN AND AGREEMENT OF MERGER   BY AND AMONG   LASV
-ENTERPRISES, INC.,   DCT COMBINATION, INC.   AND   D.C.T. CORPORATION
-LTD.             FEBRUARY 19, 2001            TABLE OF
-CONTENTS  Page  ~~  ARTICLE I DEFINITIONS AND
-INTERPRETATION...........................................1  1.1
-Definitions..............................................................1 
-1.2
-Interpretation...........................................................5 
-1.3
-Knowledge................................................................5  ARTICLE
-II THE
-MERGER...............................................................6  2.1
-The Merger...............................................................6 
-2.2 Merger
-Consideration.....................................................6  2.3
-Closing and Effective Time of the
-Merger.................................6  ARTICLE III REPRESENTATIONS AND
-WARRANTIES OF  LASV
-PARTIES.............................................................6  3.1
-Organization of LASV.....................................................6 
-3.2 Authority Relative to this
-Agreement.....................................6  3.3 No
-Violations............................................................7  3.4
-Consents and Approval....................................................7 
-3.5 LASV
-Capitalization......................................................7  3.6
-SEC Filings..............................................................8 
-3.7 Absence of Certain
-Changes...............................................8  3.8
-Litigation...............................................................8 
-3.9
-Brokers..................................................................9  ARTICLE
-IV REPRESENTATIONS AND WARRANTIES OF
-DCT....................................9  4.1
-General..................................................................9 
-4.2 Governmental Licenses and Permits; Compliance with
-Laws.................10  4.3 Intellectual
-Property...................................................10  4.4 Labor
-Matters...........................................................11  4.5
-Undisclosed Liabilities.................................................11 
-4.6 No ERISA
-Plans..........................................................11  4.7
-Transactions with Affiliates............................................11 
-4.8
-Brokers.................................................................12 
-4.9 Investment
-Representations..............................................12  ARTICLE V
-COVENANTS OF LASV PARTIES PENDING CLOSING...............................12 
-5.1 Notice of Certain
-Events................................................12  5.2 Access and
-Information..................................................12  5.3 LASV
-Shareholders\' Meeting..............................................13  5.4
-Confidentiality.........................................................13 
-5.5 No
-Solicitation.........................................................13  5.6
-Consummation of the
-Merger..............................................13  ARTICLE VI COVENANTS
-OF DCT PENDING CLOSING........................................13  6.1 Conduct
-of Business.....................................................13  6.2
-Access and Information..................................................14 
-6.3
-Confidentiality.........................................................14 
-6.4 No
-Solicitation.........................................................14  6.5
-Supplemental Information................................................14 
-6.6 Consummation of the
-Merger..............................................15    i     ~~
- ARTICLE VII CONDITIONS TO OBLIGATIONS OF
-LASV.......................................15  7.1 Representations True at
-Closing.........................................15  7.2 Opinion of DCT
-Counsel..................................................15  7.3
-Consents................................................................15 
-7.4 Other
-Documents.........................................................15  ARTICLE
-VIII CONDITIONS TO DCT
-OBLIGATIONS...........................................16  8.1 LASV Parties
-Representations True at Closing............................16  8.2 Opinion of
-LASV\'s Counsel...............................................16  8.3 Other
-Documents.........................................................16  ARTICLE
-IX ADDITIONAL
-AGREEMENTS...................................................16  9.1 Consents
-and Approvals..................................................16  9.2
-Publicity...............................................................16 
-9.3
-Expenses................................................................17 
-9.4 Conveyance
-Taxes........................................................17  9.5
-Name/Symbols Reservation and Charter Amendment..........................17 
-9.6 Anitrust Filings,
-etc...................................................17  ARTICLE X NATURE
-AND SURVIVAL OF  REPRESENTATIONS AND
-WARRANTIES..........................................17  10.1 Nature of
-Statements....................................................17  10.2
-Survival of Representations and
-Warranties..............................18  ARTICLE XI
-INDEMNIFICATION.........................................................18 
-11.1 Indemnification Regarding Article IV Representations, Warranties  and
-DCT Covenants.......................................................18  11.2
-Indemnification by LASV.................................................18 
-11.3 Requests for
-Indemnification............................................18  ARTICLE XII
-AMENDMENT AND TERMINATION...............................................20 
-12.1
-Amendment...............................................................20 
-12.2
-Waiver..................................................................20 
-12.3
-Termination.............................................................20 
-12.4 Consequences of
-Termination.............................................20  ARTICLE XIII
-GENERAL PROVISIONS......................................................21 
-13.1 Non-Business
-Days.......................................................21  13.2
-Shareholder Consent.....................................................21 
-13.3
-Notices.................................................................21 
-13.4 Entire
-Agreement........................................................22  13.5
-Assignment; Binding Effect..............................................22 
-13.6
-Counterparts............................................................22 
-13.7 Governing Law; Jurisdiction;
-Venue......................................22  13.8 Severability of
-Provisions..............................................22  13.9 Specific
-Performance....................................................23  13.10
-Joint Drafting..........................................................23 
-13.11
-Captions................................................................23 
-13.12 No Third-Party
-Beneficiaries............................................23   
-ii         ANNEX AND EXHIBITS  Annex A - Plan of Merger. Exhibit A
-- Form of Legal Opinion relating to DCT. Exhibit B - Form of Legal Opinion
-relating to LASV.     iii      PLAN AND AGREEMENT OF MERGER   This
-PLAN AND AGREEMENT OF MERGER ("Agreement") is entered into on this 19th day
-of February, 2001, among LASV Enterprises Inc., a Delaware
-corporation ("LASV"), DCT Combination, Inc., a State of Washington
-corporation and wholly owned subsidiary of LASV ("Merger Subsidiary"), both
-of which are together referred to in this Agreement as the "LASV Parties,"
-and D.C.T. Corporation Ltd., a Bahamas corporation ("DCT").   W I T N E S S
-E T H:   WHEREAS, DCT is the legal owner of, among other things, a promising
-new development in the technology known as "Dynamic Chaos," which has
-been developed, patented and demonstrated by DCT\'s principal shareholders.
-This new development in Dynamic Chaos technology has been used to transmit
-data at a high-speed rate through radio microwave broadband signals. DCT is
-currently preparing patent filings for the application of this technology and
-intends to license this technology.   WHEREAS, DCT\'s other assets include,
-without limitation, the exclusive ownership and rights to manufacture, market
-and distribute a related software search engine currently known under the
-name "Forget-Me-Not" and recorded under United States Patent Number
-5,774,587, as well as the rights to an internet web site, which describes the
-"Forget-Me-Not" software at http://www.neurosoftdata.com.   WHEREAS, the
-parties to this Agreement (the "Parties") wish to effect a business
-combination in which Merger Subsidiary will merge into DCT in a merger (the
-"Merger") to be consummated under the laws of the State of Washington and the
-Companies Act, 1992 of the Bahamas (the "Companies Act").   NOW, THEREFORE,
-in consideration of the premises and of the representations, warranties and
-covenants herein contained, the Parties to this Agreement agree as
-follows:   ARTICLE I   DEFINITIONS AND INTERPRETATION   1.1 Definitions.
-In this Agreement:   "Affiliate" means a Person that directly, or
-indirectly  through one or more intermediaries, controls, is controlled by or
-is  under common control with another Person with the terms "control" and 
-"controlled" meaning for purposes of this definition, the power to  direct
-the management and policies of a Person, directly or indirectly,  whether
-through the ownership of voting securities or partnership or  other ownership
-interests, or by contract or otherwise.    1     "Alternate
-Transaction" means with respect to a given Party  any proposal or offer for a
-merger, consolidation, acquisition,  business combination, sale of all or a
-substantial portion of assets,  liquidation, recapitalization or other
-reorganization involving that  Party, or any proposal or offer for the
-acquisition in any manner of a  substantial equity interest in that Party,
-other than the transactions  contemplated hereby.   "Business Day" means a
-day other than Saturday, Sunday or any  day on which banks located in the
-United States are authorized or  obligated to close.   "Charter Documents"
-mean (i) in the case of any Person which  is a corporation, its articles or
-certificate of incorporation and  bylaws, or other similar governing
-documents under the jurisdiction in  which it is formed, and each certificate
-or other document setting  forth the designation, amount and relative rights,
-limitations and  preferences of any class or series of the corporation\'s
-capital stock,  (ii) in the case of any Person which is a partnership, its
-partnership  agreement and, if it is a limited partnership, its certificate
-of  limited partnership, or other similar governing documents under the 
-jurisdiction in which it is formed, and (iii) in the case of any Person 
-which is a limited liability company, its articles or certificate of 
-organization and its regulations or limited liability company  agreement, or
-other similar governing documents under the jurisdiction  in which it is
-formed.   "Closing" has the meaning specified in Section 2.3.   "Closing
-Date" means February 19, 2001.   "Code" means the United States Internal
-Revenue Code of  1986, as amended.   "Companies Act" has the meaning
-specified in the preamble to  this Agreement.   "Damages" mean all
-obligations, claims, liabilities, damages,  penalties, deficiencies, losses,
-investigations, proceedings,  judgments, fines, and reasonable costs and
-expenses (including  reasonable costs and expenses incurred in connection
-with the  performance of obligations, interest, bonding and court costs and 
-attorneys\', accountants\', engineers\', consultants\' and investigators\' 
-fees and disbursements) and disbursements incurred in connection with  any
-investigation or defense of any of the foregoing.   "DCT Business" means (i)
-the research and development  associated with the technology known as Dynamic
-Chaos, which uses  dynamic chaos technology and chaotic oscillations to
-transmit data at a  high speed rate through radio microwave broadband
-signals, together  with the commercial exploitation and licensing of such
-technology and  any patent or other intellectual property owned by DCT and
-associated  with such technology on a worldwide basis (other than within
-the  Russian Federation), (ii) developing, marketing, distributing, or 
-further improving or developing of a related software search engine, 
-currently marketed under the name Forget-Me-Not, together with the 
-commercial   2    exploitation and licensing of such software and any
-patent or other  intellectual property owned by DCT and associated therewith
-on a  worldwide basis (other than within the Russian Federation), (iii) any 
-further developments or spin-offs related to the foregoing technology,  and
-(iv) all activities associated with or incidental to the foregoing.   "DCT
-Disclosure Schedule" means the Disclosure Schedule signed  for identification
-purposes only by the principal executive officer of  DCT, which DCT has
-delivered to, and which has been reviewed and  accepted by, the LASV Parties
-on or before the date of this Agreement,  and which contains information
-relevant to the representations and  warranties made by the DCT Parties in
-Articles IV and V.   "DCT Shares" mean at any date all of the shares of DCT
-Stock  issued and outstanding as of such date.   "DCT Stock" means the
-capital stock of DCT as authorized by  its Charter Documents.   "Effective
-Time" means the time and date when the Merger  becomes effective under the
-Plan of Merger.   "Employment Agreements" mean the Employment Agreements 
-specified in Section 4.4 of the DCT Disclosure Schedule.   "Exchange Act"
-means the U.S. Securities Exchange Act of 1934,  as amended, and the rules
-and regulations of the SEC promulgated under  that Act.   "GAAP" means U.S.
-generally accepted accounting principles  consistently applied throughout the
-specified period and, if  applicable, the immediately preceding comparable
-period.   "Governmental Entity" means any U.S. federal, state, local or 
-foreign court, executive office, legislature, governmental agency or 
-ministry, commission, or administrative, regulatory or self-regulatory 
-authority or instrumentality.   "HSR" means the U.S. Hart-Scott-Rodino
-Antitrust Improvements  Act of 1976, as amended.   "Law" means a law,
-statute, ordinance, rule, code or  regulation enacted or promulgated, or
-order, directive, instruction or  other legally binding guideline or policy
-issued or rendered by, any  Governmental Entity.   "Lien" means a lien,
-mortgage, deed of trust, deed to secure  debt, pledge, hypothecation,
-assignment, deposit arrangement, easement,  preference, priority,
-assessment,   3    security interest, lease, sublease, charge, claim,
-adverse claim, levy,  interest of other Persons, or other encumbrance of any
-kind.   "Mailing Date" has the meaning specified in Section 6.5.  
-"Material Adverse Effect" means when used with reference to a  Party, a
-material adverse effect on the financial condition, business  or results of
-operations of that Party and its Subsidiaries taken as a  whole, without
-giving effect to the consummation of the transactions  contemplated
-hereby.   "Merger" has the meaning specified in the preamble of this 
-Agreement.   "Merger Shares" mean the aggregate of 90,500,000 shares of 
-LASV Common Stock to be issued to the DCT Shareholders as contemplated  in
-Section 2.2 and the Plan of Merger.   "Permitted Liens" mean those Liens
-with respect to (i) current  taxes not yet due and payable and (ii) other
-Liens (including  mechanics, couriers\', workers\', repairers\', landlords\',
-materialmen\'s,  warehousemen\'s and other similar liens) arising in ordinary
-course of  business as would not in the aggregate materially adversely affect
-the  value of, or materially interfere with the use of, the property
-subject  thereto.   "Person" means an individual, corporation,
-partnership,  association, joint stock company, limited liability company, 
-Governmental Entity, business trust, unincorporated organization, or  other
-legal entity.   "LASV Charter Amendments" has the meaning specified in
-Section  6.5.   "LASV Common Stock" means the Common Stock, $.001 par
-value  per share, of LASV.   "LASV SEC Filings" has the meaning specified
-in Section 3.6.   "SEC" means the U.S. Securities and Exchange Commission or
-any  successor agency.   "Securities Act" means the U.S. Securities Act of
-1933, as  amended, and the rules and regulations of the SEC promulgated 
-thereunder.   "Subsidiary" of a Party means an Affiliate of that Party in 
-which 50% or more of its aggregate voting power (or any other voting, 
-membership, partnership or joint venture equity interest in the case of  an
-Affiliate that is not a corporation) is beneficially owned by that  Party
-directly or indirectly through one or more other Persons.   4     "Tax"
-means any tax of any kind, however denominated,  including any interest,
-penalties or other additions to tax that may  become payable in respect
-thereof or in respect of a failure to comply  with any requirement relating
-to any Tax Return, imposed by any U.S.  federal, foreign, state or local
-Governmental Entity, including all  income, gross income, gross receipts,
-profits, goods and services,  social security, old age security, sales and
-use, ad valorem, excise,  franchise, business license, occupation, real
-property gains, payroll  and employee withholding, unemployment insurance,
-real and personal  property, stamp, environmental, transfer, workers\'
-compensation,  severance, alternative minimum, windfall, and capital taxes,
-and other  obligations of the same or a similar nature to any of the
-foregoing.   "Taxing Authority" means any Governmental Entity responsible 
-for the imposition, assessment, enforcement or collection of any Tax.   "Tax
-Returns" mean all Tax returns, declarations, reports,  estimates, information
-returns and statements required to be filed with  any Taxing Authority, or
-provided to any partner, shareholder, joint  venturer or member under U.S.
-federal, foreign, state, or local Laws  (including reports with respect to
-backup withholding and payments to  Persons other than Taxing Authorities),
-and annual tax returns on  behalf of employee benefit plans sponsored by LASV
-or DCT or any of  their respective Subsidiaries.   1.2 Interpretation.
-Capitalized terms defined in this Agreement are equally applicable to both
-their singular and plural forms. References in this Agreement to a designated
-"Article" or "Section" refer to an Article or Section of this Agreement,
-unless otherwise specifically indicated. All pronouns in this Agreement shall
-be construed as including both genders and the neuter. In this Agreement,
-"including" is used only to indicate examples, without limitation to the
-indicated examples, and without limiting any generality which precedes it.  
-1.3 Knowledge. When a representation and warranty in Article III is made to
-the "knowledge" of either LASV Party, it means receipt of notice by or actual
-knowledge of the Chairman of the Board, the President and Chief
-Executive Officer, the Chief Financial Officer or any Vice President of LASV.
-When a representation and warranty in Articles IV and V is made to the
-"knowledge" of DCT, it means receipt of notice by or actual knowledge of any
-officer of DCT. No representation or warranty by any Party may be qualified
-or limited by reference to knowledge of such Party unless due inquiry has
-actually been made by such Party.   ARTICLE II   THE MERGER   2.1 The
-Merger. Subject to satisfaction of the conditions set forth in this Agreement
-at the Effective Time, Merger Subsidiary shall be merged with and into DCT in
-accordance with the Laws of the State of Washington and the Companies
-Act.   5    2.2 Merger Consideration. As more fully provided in, and
-subject to the terms and provisions of, the Plan of Merger, all of the DCT
-Shares issued and outstanding immediately before the Effective Time will, as
-a result of the Merger, be converted into an aggregate of 90,500,000 shares
-of LASV Common Stock.   2.3 Closing and Effective Time of the Merger. The
-closing of the Merger (the "Closing") shall take place in British Columbia,
-Canada, as is mutually agreeable to LASV and DCT, on the Closing Date. As
-soon as practicable after the Closing, DCT and Merger Subsidiary will cause
-Articles of Merger to be executed and filed with the Secretary of State of
-Washington and the Bahamas Registrar as required by the laws of the State of
-Washington and the Companies Act.   ARTICLE III   REPRESENTATIONS AND
-WARRANTIES OF LASV PARTIES   The LASV Parties jointly and severally
-represent and warrant to the DCT Parties that:   3.1 Organization of LASV.
-Each LASV Party is a corporation duly organized, validly existing and in good
-standing under the Laws of the State of Delaware and Washington,
-respectively. Each LASV Party has full corporate power and authority to
-conduct its business as it is currently being conducted. Each LASV Party is
-duly qualified to do business, and in good standing, in each jurisdiction
-where the nature of its properties or business requires such qualification.
-The LASV Parties have delivered to DCT true, correct and complete copies of
-the Charter Documents of each LASV Party.   3.2 Authority Relative to this
-Agreement. Each LASV Party has the requisite corporate power and authority to
-enter into and perform its obligations under this Agreement. The execution
-and delivery of this Agreement, the consummation of the transactions
-contemplated hereunder, and the issuance and delivery of the Merger Shares
-have been duly authorized by the respective Boards of Directors of the LASV
-Parties. No other corporate proceedings on the part of either LASV Party is
-necessary to authorize this Agreement, or the transactions contemplated
-hereunder. This Agreement has been duly executed and delivered by LASV.
-Assuming the valid authorization, execution and delivery of this Agreement by
-DCT, this Agreement is a valid and binding obligation of LASV, enforceable
-against LASV in accordance with its terms, except as enforceability may be
-limited by bankruptcy, insolvency, reorganization, moratorium or other Laws
-relating to or affecting creditors\' rights generally or by
-equitable principles.   3.3 No Violations. The execution, delivery and
-performance of this Agreement by the respective LASV Parties will not:  
-(i) constitute a breach or violation of or default under the  Charter
-Documents of either LASV Party or of any LASV Subsidiaries or,  assuming the
-obtainment of the   6      consents and approvals described in clause
-(i) of Section 3.4, any Law  applicable to either LASV Party; or   (ii)
-except as accurately set forth on Schedule 3.3 of the  LASV Disclosure
-Schedule, violate or conflict with or result in a  breach of, or constitute a
-default (or an event which, with notice or  lapse of time or both, would
-constitute a default) under or result in  the termination of, or accelerate
-the performance by, or result in a  right of termination under, or result in
-the creation of any Lien upon  the assets or properties of LASV or any of its
-Subsidiaries under, any  contract, indenture, loan document, license, permit,
-order, decree or  instrument to which LASV or any of its Subsidiaries is a
-party or by  which any of them or their assets or properties are bound.  
-3.4 Consents and Approval. No consent, order, approval, waiver
-or authorization of, or registration, application, declaration or filing
-with, any Person is required with respect to either LASV Party or any LASV
-Subsidiary in connection with the execution and delivery of this Agreement,
-the issuance of the Merger Shares or the consummation of the transaction
-contemplated hereby except for:   (i) the consents and approvals described
-on Section 3.4 of the  LASV Disclosure Schedule.   3.5 LASV Capitalization.
-The authorized capital stock of LASV consists of (i) 100 million shares of
-LASV Common Stock, $.001 par value, and (ii) 1 million shares of Preferred
-Stock, $.001 par value, of LASV ("LASV Preferred Stock"). As of the date
-hereof 5,921,842 shares of LASV Common Stock, and no shares of LASV Preferred
-Stock, are issued and outstanding. All of the issued and outstanding shares
-of LASV Common Stock are duly and validly issued, fully paid and non-
-assessable, and were issued free of preemptive rights, in compliance with any
-rights of first refusal. No subscription, warrant, option, convertible
-security, stock appreciation or other right (contingent or other) to purchase
-or acquire any shares of any class of capital stock of LASV or any of its
-Subsidiaries is authorized or outstanding, and there is not outstanding
-any commitment of LASV or any of its Subsidiaries to issue any shares,
-warrants, options or other such rights or to distribute to holders of any
-class of its capital stock any evidences of indebtedness or assets. Neither
-LASV nor any of its Subsidiaries has any contingent or other obligation to
-purchase, redeem or otherwise acquire any shares of its capital stock or any
-interest therein or to pay any dividend or make any other distribution in
-respect thereof. LASV is not a party, and has no knowledge that any LASV
-Shareholders are parties, to any voting agreement, voting trust or similar
-agreement or arrangement relating to LASV\'s capital stock.   The
-authorized capital stock of Merger Subsidiary consists of 1,000 shares of
-common stock, par value $.001 per share, all of which shares are issued and
-outstanding and owned by LASV.   Upon their issuance, the Merger Shares will
-be duly authorized, validly issued, fully paid and non-assessable shares of
-LASV Common Stock.   7     3.6 SEC Filings. LASV has filed all forms,
-reports and documents required to be filed by them with the SEC since its
-inception, and LASV has made available to DCT true and complete copies of (i)
-the Annual Report on Form 10-KSB of LASV for the year ended December 31,
-2000, and (ii) all other reports (including any Current Reports on Form 8-K),
-statements and registration statements filed by LASV with the SEC since
-inception (collectively, the "LASV SEC Filings"). The LASV SEC Filings,
-including all financial statements or schedules included in them, (i) comply
-in all material respects with the requirements of the Securities Act or the
-Exchange Act, as the case may be, and (ii) did not at the time of their
-filing (or if amended, supplemented or superseded by a later filing, on the
-date of the later filing) contain any untrue statement of a material fact or
-omit to state a material fact required to be stated therein or necessary in
-order to make the statements therein, in light of the circumstances under
-which they were made, not misleading.   3.7 Absence of Certain Changes.
-Except as set forth in Section 3.7 of LASV Disclosure Schedule, since
-February 1, 2001, LASV and its Subsidiaries have conducted their businesses
-only in the ordinary course, consistent with past practice, and there has not
-occurred a Material Adverse Effect, or any event that could reasonably be
-expected to result in a Material Adverse Effect, on LASV and the Subsidiaries
-considered as a whole.   3.8 Litigation. Except as disclosed in Section 3.8
-of LASV Disclosure Schedule, there is no suit, action, investigation or
-proceeding pending or, to the knowledge of the LASV Parties, threatened
-against LASV or any of its Subsidiaries at Law or in equity before or by any
-Governmental Entity or before any arbitrator or mediator of any kind, and
-there is no judgment, decree, injunction, rule or order of any Governmental
-Entity, arbitrator or mediator to which LASV or any of its Subsidiaries are
-subject. Neither LASV Party has knowledge of any grounds on which any suit,
-action, investigation or proceeding of the nature referred to in this Section
-3.8 might be commenced with any reasonable likelihood of success.   3.9
-Brokers. No broker, finder or investment banker is entitled to any brokerage,
-finder\'s or other fee or commission in connection with this Agreement or the
-transactions contemplated hereby based upon arrangements made by or on behalf
-of the LASV Parties.   ARTICLE IV   REPRESENTATIONS AND WARRANTIES OF
-DCT   DCT represents and warrants to the LASV Parties that:   4.1 General.
-Except as set forth in Section 4.1 of the DCT Disclosure Schedule:   (i)
-DCT is a corporation formed on August 31, 2000 and is duly  organized,
-validly existing and in good standing under the laws of the  Bahamas, has
-full authority and corporate power to conduct its business  as presently
-conducted, and is not required to be qualified to do  business as a foreign
-corporation in any other jurisdiction;   8    (ii) DCT has delivered to
-the LASV true and correct copies of  the DCT Charter Documents;   (iii) DCT
-has the requisite corporate power and authority to  enter into and perform
-its obligations under this Agreement. The  execution and delivery of this
-Agreement and consummation of the  transactions contemplated hereunder have
-been duly authorized by the  Board of Directors of DCT, and no other
-corporate proceedings on the  part of DCT or the DCT shareholders are
-necessary to authorize this  Agreement or the consummation of the
-transactions contemplated  hereunder. Assuming the valid authorization,
-execution and delivery of  this Agreement by the LASV Parties, this Agreement
-is a valid and  binding obligation of DCT, enforceable against DCT in
-accordance with  its terms, except as enforceability may be limited by
-bankruptcy,  insolvency, reorganization, moratorium or other Laws relating to
-or  affecting creditors\' rights generally or by equitable principles;  
-(iv) The execution, delivery and performance of this Agreement  will not (x)
-constitute a breach or violation of or default under the  DCT Charter
-Documents or any Law applicable to the DCT or (y) violate  or conflict with
-or result in a breach of, or constitute a default (or  an event which, with
-notice or lapse of time or both, would constitute  a default) under or result
-in the termination of, or accelerate the  performance by, or result in the
-termination under, or result in the  creation of Lien upon the assets of DCT
-under any contract, agreement,  or instrument to which DCT is a party or by
-which any of its assets are  bound;   (v) No consent, approval, waiver,
-authorization of, or  registration, application, declaration or filing with,
-any Person is  required with respect to DCT in connection with the execution
-and  delivery of this Agreement or consummation of the transactions 
-contemplated hereby;   (vi) DCT does not have any assets, rights or
-properties other  than the assets set forth on Schedule 4.3 of the DCT
-Disclosure  Schedule and its rights under the Employment Agreements;  
-(vii) DCT is not a party to or bound by, nor are its assets or  properties
-subject to any contract or agreement other than the DCT  Charter Documents
-and the Employment Agreements;   (viii) The DCT Shares owned and held by the
-DCT shareholders  and to be exchanged in the Merger under this Agreement
-represent all of  the issued and outstanding shares of DCT, and no
-subscription, warrant,  option, convertible security, stock appreciation or
-other right  (contingent or other) to purchase or acquire any shares of any
-class of  capital stock of DCT is authorized or outstanding and there is
-not  outstanding any commitment of DCT to issue any shares, warrants, 
-options or other such rights or to distribute to holders of any class  of its
-capital stock any evidences of indebtedness or assets;   9    (ix) DCT
-has no Subsidiaries, and does not otherwise have any  equity investment in
-any corporation, partnership or joint venture or  other business entity;  
-(x) There is no suit, action, investigation or proceeding  pending or, to
-DCT\'s knowledge threatened, against DCT at Law or in  equity before or by
-any Governmental Entity or before any arbitrator or  mediator of any kind and
-there is no judgment, decree, injunction, rule  or order of any Governmental
-Entity, arbitrator or mediator to which  DCT is subject; and   (xi) Except
-with respect to persons with Employment  Agreements, DCT does not have, and
-has not had, any employees, and DCT  has not conducted any business or
-operations other than to hold the  assets set forth in Section 4.3 of the DCT
-Disclosure Schedules and to  conduct demonstrations and presentations
-relating thereto.   4.2 Governmental Licenses and Permits; Compliance with
-Laws. DCT has not received notice of any revocation or modification of any
-licence, certification, tariff, permit, registration, exemption, approval or
-other authorization by any Governmental Entity, and DCT is in compliance in
-all material respects with all applicable Laws.   4.3 Intellectual
-Property. DCT owns, or has a valid license or other right to use, all
-patents, trademarks, service marks, trade names, copyrights, trade secrets,
-technology, know-how and other intellectual property (the "Intellectual
-Property") necessary to or used in the conduct of the business of DCT as now
-conducted and as proposed to be conducted. Section 4.3 of the DCT Disclosure
-Schedule contains a complete and accurate list, including the date of grant
-and the expiration date of, all patents, patent applications, trademarks and
-service marks and related applications, trade names and copyrights owned
-by or licensed to DCT. Section 4.3 of the DCT Disclosure Schedule also
-contains a description, including the date of execution, scheduled
-termination date and allowed extension periods, as applicable, of all
-agreements or licenses relating to the acquisition by or license to DCT of
-such Intellectual Property or under which DCT has sold or granted a right to
-use any Intellectual Property. All Intellectual Property owned by DCT is
-owned by it or them free and clear of all Liens, except Permitted Liens. The
-conduct of DCT\'s business does not conflict with or infringe upon any
-Intellectual Property rights of any other person and no claims of conflict or
-infringement are pending or, to the knowledge of DCT threatened, against DCT.
-DCT has made all necessary filings and recordations and has paid all required
-fees and Taxes to maintain ownership of the Intellectual Property.   4.4
-Labor Matters. There is no labor strike, dispute, slowdown, work stoppage,
-unresolved labor union grievance or labor arbitration proceedings pending or,
-to the knowledge of DCT threatened, against DCT, and no current union
-organizing activities among employees of DCT. Except for the employees
-who are parties to those certain Employment Agreements accurately listed on
-Section 4.4 of the DCT Disclosure Schedule, as of the date hereof, DCT has no
-employees.   10    4.5 Undisclosed Liabilities. Except as accurately set
-forth in Section 4.5 of the DCT Disclosure Schedule, DCT has no debts,
-liabilities or obligations, known or unknown, fixed or contingent, other than
-those arising under the Employment Agreements, the Institute Contract and the
-Amendment to the Assignment Agreement, copies of which have been provided to
-the LASV Parties.   4.6 No ERISA Plans. DCT has no benefit plans which are
-subject to provisions of the Employee Retirement Income Security Act of 1974,
-as amended ("ERISA") or the Code or any comparable provision of any non-U.S.
-Law. DCT has not engaged in any transaction with respect to any benefit plan
-for which it could be subject, directly or indirectly, to a material
-liability for either civil penalty assessed pursuant to Section 502(i) of
-ERISA or a material penalty imposed by the Code or any comparable provisions
-of any non-U.S. law.   4.7 Transactions with Affiliates: Except as set forth
-in Section 4.7 of the DCT Disclosure Schedule, no Affiliate of DCT:   (i)
-is a party to or has any interest in any contract or  agreement with DCT;  
-(ii) has any outstanding loan to or receivable from DCT; or   (iii) has any
-ownership interest (other than a stock ownership  interest representing less
-than 1% of the outstanding stock of any  corporation which is publicly
-traded), directly, indirectly, or  beneficially, in any customer of or
-supplier to DCT.   4.8 Brokers. Except as set forth on Section 4.8 of the
-DCT Disclosure Schedule, no broker, finder or investment banker is entitled
-to any brokerage, finder\'s or other fee or commission in connection with
-this Agreement or the transactions contemplated hereby based upon
-arrangements made by or on behalf of any DCT Party.   4.9 Investment
-Representations.   (a) Merger Shares Not Registered. The issuance of the
-Merger  Shares, has not been registered under the Securities Act, or
-registered  or qualified under any applicable state or foreign securities
-laws.   (b) Restrictive Legend. In addition to any other legends  required
-by law or the other agreements entered into in connection  herewith, the
-certificates evidencing the Merger Shares issued pursuant  to this Agreement
-will bear a conspicuous restrictive legend  substantially as follows:   THE
-SECURITIES EVIDENCED HEREBY HAVE NOT BEEN REGISTERED UNDER  THE SECURITIES
-ACT OF 1933, AS AMENDED ("ACT"), OR UNDER ANY  APPLICABLE STATE SECURITIES
-LAWS,   11    AND THEY CANNOT BE OFFERED FOR SALE, SOLD, TRANSFERRED OR 
-OTHERWISE DISPOSED OF EXCEPT IN ACCORDANCE WITH THE  REGISTRATION
-REQUIREMENTS OF THE ACT AND SUCH OTHER STATE LAWS  OR UPON DELIVERY TO THIS
-CORPORATION OF AN OPINION OF LEGAL  COUNSEL REASONABLY SATISFACTORY TO THE
-CORPORATION THAT AN  EXEMPTION FROM REGISTRATION IS AVAILABLE.   ARTICLE
-V   COVENANTS OF LASV PARTIES PENDING CLOSING   The LASV Parties agree
-that pending the Closing:   5.1 Notice of Certain Events. LASV shall notify
-DCT of any matter or event which comes to the knowledge of the LASV Parties
-which makes or could make any representation and warranty made concerning
-LASV or any of its Subsidiaries in Article III untrue.   5.2 Access and
-Information. LASV shall give DCT and its representatives full access during
-normal business hours to all the properties, books, contracts, commitments
-and records of LASV and its Subsidiaries so that DCT and the DCT Shareholders
-may have full opportunity to make such investigation of LASV and its
-Subsidiaries as they shall reasonably request in advance.   5.3 LASV
-Shareholders\' Meeting. LASV hereby represents that in excess of ninety
-percent (90%) of the LASV shareholders have approved this transaction by
-written Resolution in lieu of a shareholders meeting (a copy of which
-has been delivered to DCT), and therefore it is not necessary or required to
-call a special meeting of the LASV shareholders to be held to vote to approve
-(i) the issuance of the Merger Shares in connection with the Merger, (ii) any
-amendments to the LASV Charter Documents to change the corporate name to
-"Dynamic Chaos Technology, Inc." as soon as practicable after the Closing
-(the "LASV Charter Amendments"), or (iii) any other matters related to this
-Agreement or the implementation thereof.   5.4 Confidentiality. Except for
-information required or appropriate for inclusion in any application, filing,
-statement or notice to be filed by the LASV Parties with any Governmental
-Entity, all information and data furnished by the DCT Parties to the LASV
-Parties under this Agreement shall be received, held and treated
-confidentially by LASV, and none of such information shall be used in any
-manner for the benefit of LASV or any of its Subsidiaries or for the benefit
-of any business controlled by it or them.   5.5 No Solicitation. LASV will
-immediately terminate any existing activities, discussions and negotiations
-with third parties concerning any possible Alternative Transaction involving
-LASV. LASV will not, and it will not cause or permit its Subsidiaries and the
-respective officers, directors, representatives, agents or representatives of
-LASV or its Subsidiaries to, directly   12   or indirectly knowingly
-encourage, solicit or initiate any discussions or negotiations with any
-Person concerning any Alternative Transaction involving LASV.   5.6
-Consummation of the Merger. The LASV Parties shall use their commercially
-reasonable best efforts to perform and fulfill all conditions and obligations
-on their part to be performed and fulfilled under this Agreement to the end
-that the Merger is consummated.   ARTICLE VI   COVENANTS OF DCT PENDING
-CLOSING   DCT agrees that pending the Closing:   6.1 Conduct of Business.
-DCT shall conduct its operations according to its ordinary and usual course
-of business, and shall use its commercially reasonable best efforts to
-preserve intact its business organization, keep available the services of its
-officers and employees and maintain normal business relationships with
-customers, clients and others having business relationships with it. DCT
-shall confer on a regular and frequent basis with one or more designated
-representatives of LASV to report on operational matters of materiality and
-to report the general status of ongoing operations of DCT. DCT shall notify
-LASV of:   (i) any unexpected material emergency or other material change 
-in the normal course of business or in the operation of the properties  of
-DCT;   (ii) any significant development in any regulatory  proceedings,
-governmental complaints, investigations or hearings (or  communication
-indicating that any may be contemplated) involving DCT;  and   (iii) any
-matter or event which comes to the knowledge of DCT  and which makes or could
-make any representation and warranty made  concerning DCT in Articles IV or V
-untrue or inaccurate.   DCT shall keep LASV fully informed of such events
-and permit representatives of LASV access to all materials prepared in
-connection with such events.   6.2 Access and Information. DCT shall give
-LASV and its representatives access during normal business hours to all the
-properties, books, contracts, commitments and records of DCT so that LASV may
-have full opportunity to make such investigation of DCT as they shall
-reasonably request in advance. DCT will furnish LASV all information
-concerning DCT required for inclusion in any application, filing, statement
-or notice made by LASV to, or filed or joined in by LASV with, any Government
-Entity in connection with this Agreement or the transactions contemplated
-hereunder. None of the information furnished to LASV under this Section 6.3
-shall, at the date furnished, contain any untrue statement of a material fact
-or omit to state any material   13   fact necessary in order to make the
-statements made therein, in light of the circumstances under which they were
-made, not misleading.   6.3 Confidentiality. All information and data
-furnished to DCT by LASV or any of its Subsidiaries under this Agreement,
-whether furnished orally or in writing, shall be received, held and treated
-confidentially by DCT, and none of such information shall be used in any
-manner for the benefit of DCT or for the benefit of any business controlled
-by it.   6.4 No Solicitation. Except with respect to a Transaction relating
-to the issuance of DCT capital stock permitted by clause (ii) of Section 6.2,
-DCT will immediately terminate any existing activities, discussions and
-negotiations with third parties concerning any possible Alternative
-Transaction involving DCT. DCT will not cause or permit its officers,
-directors, representatives, agents or representatives to, directly or
-indirectly, knowingly encourage, solicit or initiate any discussions or
-negotiations with any Person concerning any such Alternative Transaction. DCT
-will promptly communicate to LASV the terms and conditions of any proposal
-for any such Alternative Transaction that it may receive.   6.5
-Supplemental Information. DCT shall furnish LASV subsequent to the Closing, a
-copy of an audited financial statement as soon as practicable, together with
-any information ordinarily prepared in connection with such financial
-statements. All such financial statements shall be prepared in conformity
-with GAAP, shall present fairly in all material respects in accordance with
-GAAP, the financial position of DCT at the end of the periods covered thereby
-and the results of its operations for the periods covered thereby, subject to
-year-end adjustments (consisting of normal recurring accruals) and the
-omission of explanatory footnote materials required by GAAP.   6.6
-Consummation of the Merger. DCT shall use its commercially reasonable best
-efforts to perform and fulfill all conditions and obligations on its part to
-be performed and fulfilled under this Agreement, to the end that the Merger
-shall be consummated.   ARTICLE VII   CONDITIONS TO OBLIGATIONS OF
-LASV   The obligations of the LASV Parties to consummate the Merger
-are subject to the fulfillment of each of the following conditions on or
-before the Closing Date:   7.1 Representations True at Closing. The LASV
-Parties shall not have discovered any material error, misstatement or
-omission in the representations and warranties made by DCT in Article IV and
-the representations and warranties made by DCT in Article IV shall be deemed
-to have been made again as of the time of the Closing, and shall then be true
-in all material respects.   14    7.2 Opinion of DCT Counsel. LASV shall
-have received an opinion, dated as of the Closing Date, of Daniel M. Boyar,
-Esq., counsel to DCT, in the form attached as Exhibit A to this
-Agreement.   7.3 Consents. LASV shall have received duly executed copies of
-all consents, authorizations, orders or approvals of any Governmental Entity
-or Person required by DCT for execution of this Agreement or consummation of
-the transactions contemplated hereunder including, if required, the
-expiration of any waiting periods required by HSR or any comparable non-U.S.
-law with respect to the transactions contemplated by this Agreement or early
-termination with respect thereto shall have been obtained and without
-imposition of any actions as a precondition to the expiration of any such
-waiting period.   7.4 Other Documents. LASV shall have received the
-certificates, instruments and documents listed below:   (i) the
-certificates representing all of the issued and  outstanding DCT Shares as of
-the Closing Date, duly endorsed to LASV;   (ii) all stock transfer
-registers, minute books and other  corporate records pertaining to DCT;
-and   (iii) such other certificates, instruments and documents as  may be
-reasonably requested by LASV.   ARTICLE VIII   CONDITIONS TO DCT
-OBLIGATIONS   The obligations of DCT to consummate the Merger are subject to
-the fulfillment of each of the following conditions on or before the Closing
-Date:   8.1 LASV Parties Representations True at Closing. DCT shall not
-have discovered any material error, misstatement or omission in the
-representations and warranties made by the LASV Parties in Article III, the
-representations and warranties made by the LASV Parties in Article III shall
-be deemed to have been made again as of the time of the Closing, and shall
-then be true in all material respects; LASV shall have performed and complied
-with all agreements and conditions required to be performed or complied with
-by it at or prior to the Closing; and DCT shall have received certificates,
-each dated the Closing Date, of the President or Vice President of each of
-LASV, to the effects set forth in this Section 10.1.   8.2 Opinion of
-LASV\'s Counsel. DCT shall have received an opinion, dated as of the Closing
-Date, of Warren J. Soloski, Esq., counsel to LASV, in the form attached as
-Exhibit B to this Agreement.   15    8.3 Other Documents. The President
-of DCT, on behalf of all DCT shareholders, shall have received the
-certificates, instruments and documents listed below:   (i) stock
-certificates of LASV Common Stock representing the  Merger Shares; and  
-(ii) such other certificates, instruments and documents as may  be reasonably
-requested by the President of DCT.   ARTICLE IX   ADDITIONAL
-AGREEMENTS   9.1 Consents and Approvals. All Parties shall use their
-commercially reasonable best efforts to obtain, before the Closing, all
-consents and approvals from any Governmental Entity or Person that are
-necessary or required by any Party for the execution of this Agreement or the
-consummation of the transactions contemplated hereunder.   9.2 Publicity.
-No Party other than LASV shall issue any press release or public announcement
-pertaining to this Agreement, the Merger, or any other transactions
-contemplated hereunder. LASV and DCT shall consult with each other concerning
-any such press release or public announcement and shall use their best
-efforts to agree on its text before its public dissemination and
-before making any filings with any Governmental Entity or national securities
-exchange with respect to any such press release or public announcement. In
-cases where LASV and DCT are unable to agree on a press release or public
-announcement, LASV will not issue it unless the proposing Party is required
-to do so by Law, in which case the Party so obligated shall use its best
-efforts to provide a copy of the press release or public announcement to the
-other Party before its filing or public dissemination.   9.3 Expenses. LASV
-shall pay its own costs and expenses incurred in connection with this
-Agreement and the transactions contemplated hereby, and DCT shall pay its
-costs and expenses in connection with this Agreement and the transactions
-contemplated hereby, in each case whether or not the
-transactions contemplated under this Agreement are consummated.   9.4
-Conveyance Taxes. The Parties shall cooperate in the preparation of all Tax
-Returns, questionnaires, applications or other documents regarding any real
-property transfer tax, any stock transfer or stamp tax. This Section 9.4 does
-not apply or extend to any U.S. federal, foreign, state, or local income
-or similar Tax.   9.5 Name/Symbols Reservation and Subsequent Charter
-Amendment. As soon as practicable after the execution of this Agreement, LASV
-shall reserve the corporate name "Dynamic Chaos Technology, Inc." in
-accordance with the the laws of the State of Delaware, if available.  
-16    As soon as practicable after the closing of the Merger
-contemplated hereunder, LASV shall amend its corporate name to "Dynamic Chaos
-Technology, Inc.".   9.6 Anitrust Filings, etc. Each of LASV and DCT shall
-timely file and promptly make any filing required under HSR or comparable
-non-U.S. law in connection with the Merger. LASV and DCT shall furnish to the
-other Party such information and assistance as the other Party may reasonably
-request in connection with the other Party\'s preparation of filings or
-submissions to any Governmental Entity including, without limitation, with
-respect to HSR. As reasonably requested by the other party, LASV and DCT
-shall furnish the other Party with copies of all correspondence, filings,
-communications between LASV and DCT or their respective representatives, on
-the one hand, and the representatives of the U.S. Federal Trade Commission,
-the Antitrust Division of the U.S. Department of Justice, any comparable
-non-U.S. Governmental Entity, any other Governmental Entity or members of
-their respective staffs, on the other hand, with respect to this Agreement or
-the transactions contemplated hereby.   ARTICLE X   NATURE AND SURVIVAL
-OF  REPRESENTATIONS AND WARRANTIES   10.1 Nature of Statements. All, but
-only those, statements contained in this Agreement or any Disclosure Schedule
-or certificate delivered by or on behalf of a Party under this Agreement
-shall be deemed representations and warranties made by that Party in
-connection with the transactions contemplated by this Agreement.   10.2
-Survival of Representations and Warranties. Regardless of any investigation
-made at any time by or on behalf of any Party or of any information any Party
-may have as a result of any such investigation, the representations and
-warranties made by the LASV Parties in Article III, and the representations
-and warranties made by DCT in Article IV, shall not survive, and shall
-terminate upon, the Closing.   ARTICLE XI   INDEMNIFICATION   The
-respective indemnification obligations of the Parties are:   11.1
-Indemnification Regarding Article IV Representations, Warranties and DCT
-Covenants. DCT agrees to pay and to indemnify and hold harmless and defend
-the LASV Parties and their respective Affiliates, and their
-respective successors and assigns from and against any and all Damages caused
-by or arising out of or in respect of:   17    (i) any breach or default
-in the performance by DCT of any  covenant or agreement of DCT contained in
-this Agreement; and   (ii) any breach of warranty or inaccurate or
-erroneous  representation contained in Article IV of this Agreement.   11.2
-Indemnification by LASV. LASV agrees to pay and to indemnify and hold
-harmless and defend DCT, its shareholders and its Affiliates (but not
-DCT after the Closing), and their respective successors and assigns from and
-against any and all Damages caused by or arising out of or in respect of:  
-(i) any breach or default in the performance by LASV of any  covenant or
-agreement of LASV contained in this Agreement; and   (ii) any breach of
-warranty or inaccurate or erroneous  representation contained in Article III
-of this Agreement.   11.3 Requests for Indemnification. If any Party (an
-"Indemnified Party") becomes aware of a fact, circumstance, claim, situation,
-demand or other matter for which it or any other Indemnified Party believes
-it is entitled to be indemnified under this Article XIII (any such item being
-herein called an "Indemnity Matter"), the Indemnified Party shall give prompt
-written notice of the Indemnity Matter to the Indemnifying Party, requesting
-indemnification therefor, specifying the nature of and specific basis for the
-Indemnity Matter and the amount or estimated amount thereof to the extent
-then feasible; provided, however, a failure to give such notice will not
-waive any rights of the Indemnified Party except to the extent the rights of
-the Indemnifying Party are actually materially prejudiced by such failure.
-The Indemnifying Party shall have the right to assume the defense or
-investigation of such Indemnity Matter and to retain counsel and other
-experts to represent the Indemnified Party and shall pay the fees and
-disbursements of such counsel and other experts. If within 30 days after
-receipt of the request (or five days if litigation is pending) the
-Indemnifying Party fails to give notice to the Indemnified Party that the
-Indemnifying Party assumes the defense or investigation of the Indemnity
-Matter, an Indemnified Party may retain counsel and other experts (whose fees
-and disbursements shall be at the expense of the Indemnifying Party) to file
-any motion, answer or other pleading and take such other action which the
-Indemnified Party reasonably deems necessary to protect its interests
-or those of the Indemnifying Party until the date on which the Indemnified
-Party receives such notice from the Indemnifying Party. If an Indemnifying
-Party retains counsel and other experts, any Indemnified Party shall have the
-right to retain its own counsel and other experts, but the fees and expenses
-of such counsel and other experts shall be at the expense of the Indemnified
-Party unless (i) the Indemnifying Party and the Indemnified Party mutually
-agree to the retention of such counsel and other experts or (ii) the named
-parties to any such proceeding (including any impleaded parties) include both
-the Indemnifying Party and the Indemnified Party and representation of both
-parties by the same counsel would, in the opinion of counsel retained by the
-Indemnifying Party, be inappropriate due to actual or potential differing
-interests between them.   18    If requested by the Indemnifying Party,
-the Indemnified Party agrees to cooperate with the Indemnifying Party and its
-counsel in contesting any Indemnity Matter which the Indemnifying Party
-defends, or, if appropriate and related to the Indemnity Matter in question,
-in making any counterclaim against the person asserting the Indemnity Matter,
-or any cross-complaint against any person. No Indemnity Matter may be settled
-by the Indemnified Party without the consent of the Indemnifying Party, which
-consent will not be unreasonably withheld. Unless the Indemnifying Party
-agrees in writing that the Damages to the Indemnified Party resulting from
-such settlement are fully covered by the indemnities provided herein and that
-such Damages are fully compensable in money, no Indemnity Matter may be
-settled without the consent of the Indemnified Party, which consent will not
-be unreasonably withheld. Except with respect to settlements entered without
-the Indemnified Party\'s consent pursuant to the immediately preceding
-sentence, to the extent it is determined that the Indemnified Party has no
-right under this Article XIII to be indemnified by the Indemnifying Party,
-the Indemnified Party shall promptly pay to the Indemnifying Party any
-amounts previously paid or advanced by the Indemnifying Party with respect to
-such matters pursuant to this Article XIII.   After the delivery of a notice
-of an Indemnity Matter hereunder, at the reasonable request of the
-Indemnifying Party the Indemnified Party shall grant the Indemnifying Party
-and its representatives full and complete access to the books, records and
-properties of the Indemnified Party to the extent reasonably related to the
-matters to which the notice relates. The Indemnifying Party will not disclose
-to any third person (except its representatives) any information obtained
-pursuant to the preceding sentence which is designated as confidential by the
-Indemnified Party and which is not otherwise generally available to
-the public or not already within the knowledge of the Indemnifying Party,
-except as may be required by applicable law. The Indemnifying Party shall
-request its representatives not to disclose any such information (unless
-already within its knowledge or as may be required by applicable law). All
-such access shall be subject to the normal safety regulations of the
-Indemnified Party, and shall be granted under conditions which will not
-unreasonably interfere with the business and operations of the Indemnified
-Party.   ARTICLE XII   AMENDMENT AND TERMINATION   12.1 Amendment. This
-Agreement may be amended only by a written instrument executed by LASV and
-DCT.   12.2 Waiver. At any time on or before the Closing Date, each of
-the Parties may (i) extend the time for the performance of any of the
-obligations or other act of any of the other Parties, (ii) waive any
-inaccuracies in the representations and warranties made in this Agreement or
-in a Disclosure Schedule of a Party, (iii) waive compliance with any of the
-agreements or conditions of this Agreement which may be legally waived, and
-(iv) grant consents under this Agreement. Any such extension, waiver or grant
-shall be valid only if evidenced by a written   19   instrument executed
-by the Party giving it. Any such extension, waiver or grant on behalf of (i)
-the LASV Parties need only be executed by LASV and (ii) DCT executed by
-DCT.   12.3 Termination. This Agreement may be terminated at any time
-before the Closing by:   (i)the mutual consent of the Boards of Directors
-of LASV and  DCT;   (ii) by the Boards of Directors of LASV or DCT if the
-Merger  has not been consummated on or before February 21, 2001 (or any
-later  date which may be agreed to by the mutual written consent of the
-Boards  of Directors of LASV and DCT); provided, however, that such right
-to  terminate this Agreement shall not be available to any Party that has 
-breached in any material respect its obligations under this Agreement  in any
-manner that has proximately contributed to the failure of the  Merger to
-occur on or before such date.   12.4 Consequences of Termination. If this
-Agreement is terminated as provided in Section 14.3, it shall become void and
-there shall be no liability or obligation on the part of any Party or their
-respective officers or directors except that the provisions of Sections 6.6,
-7.5, 11.2, shall survive such a termination. Nothing in this Section 14.4
-shall, however, relieve any Party from any liability for any breach of this
-Agreement.   ARTICLE XIII   GENERAL PROVISIONS   13.1 Non-Business Days.
-If the date on which any action (including the delivery of notices) to be
-taken under this Agreement falls on a day which is not a Business Day, the
-action will be deemed timely taken if on the next following Business Day.  
-13.2 Shareholder Consent. By execution and delivery of this Agreement, LASV,
-as the sole shareholder of Merger Subsidiary, hereby approves this Agreement,
-the Merger and the Plan of Merger by written consent in accordance with the
-DBCA.   13.3 Notices. All notices or other communications which are required
-or may be given under this Agreement shall be in writing and shall be deemed
-to have been duly given when delivered in person or transmitted by telecopier
-(with receipt confirmed) to a Party at the address or telecopy number, as
-applicable, set forth below (as any such address or telecopier number may be
-changed from time to time by notice similarly given):   20    (1) if to
-either LASV Party, to:   LASV Enterprises Inc.  1736 152nd Street, Suite
-201  Surrey, British Columbia  Canada V4A 4N4  Attention: Timothy Metz,
-President  Telecopy No.: (604) 541-6254   with a copy to:   Warren J.
-Soloski, Esq.  11300 West Olympic Blvd., Suite 800  Los Angeles, California
-90064  Telecopy No.:   (2) if to DCT, to:   DCT Corporation Ltd.  c/o
-Bannister and Co.  Suite 1, K.S. Darling Building  Dowdeswell Street and School
-Lane  P.O. Box N-8978  Nassau, N.P., Bahamas  Attention: Daniel M. Boyar 
-Telecopy No.: (242) 356-7236   with a copy to:   Daniel M. Boyar, Attorney
-at Law  8365 S.E. 21st Avenue  Ocala, Florida 34480  Telecopy No.: (352)
-402-9304   13.4 Entire Agreement. This Agreement, its Exhibits, the
-Disclosure Schedules, and all documents delivered under this Agreement,
-constitute the entire agreement, and supersede all of the prior agreements
-and undertakings, both written and oral, among the Parties, or any of them,
-with respect to the subject matter of this Agreement.   13.5 Assignment;
-Binding Effect. This Agreement may not be assigned by any of its Parties.
-Subject to the preceding sentence, this Agreement shall be binding upon the
-Parties and their respective successors and assigns.   21     13.6
-Counterparts. This Agreement may be executed in multiple counterparts which
-together shall constitute a single agreement. Delivery by telephonic
-facsimile transmission of a signed counterpart of this Agreement shall be
-effective as delivery of a manually signed counterpart and such signature
-shall be deemed an original hereto.   13.7 Governing Law; Jurisdiction;
-Venue. This Agreement and the rights and obligations of the parties created
-hereby shall be governed by the internal Laws of the State of Delaware
-without regard to its conflict of law rules. Any judicial proceeding brought
-against any Party in connection with any dispute between or among them
-arising under this Agreement or any transactions contemplated hereby shall be
-brought in the state or federal courts of Delaware and, by execution and
-delivery of this Agreement, each Party (i) accepts, generally and
-unconditionally, the exclusive jurisdiction of such courts and any related
-appellate courts and (ii) irrevocably waives any objection such Party may now
-have or hereafter have as to venue of any such proceeding arising out of or
-relating to any dispute arising under this Agreement or the
-transactions contemplated hereby brought in such courts or any defense of
-inconvenient forum for the maintenance of such dispute. Each Party agrees
-that a judgment in any such dispute may be enforced in other jurisdictions by
-suit on the judgment or in any other manner provided by Law.   13.8
-Severability of Provisions. If a provision of this Agreement or its
-application to any Person or circumstance, is held invalid or
-unenforceable in any jurisdiction, to the extent permitted by law, such
-provision or the application of such provision to Persons or circumstances
-other than those as to which it is held invalid or unenforceable and in other
-jurisdictions, and the remaining provisions of this Agreement, shall not be
-affected.   13.9 Specific Performance. Each Party agrees that one or more
-other Parties would be irreparably damaged if any provision of this Agreement
-were not performed in accordance with its specific terms or was otherwise
-breached. Therefore, the Parties agree that each Party shall be entitled to
-an injunction or injunctions to prevent breaches of this Agreement or any of
-its provisions and to specifically enforce this Agreement and its terms and
-provisions in any action instituted in any court of the United States or any
-state thereof having subject matter jurisdiction, in addition to any other
-remedy to which a Party may be entitled, at law or in equity.   13.10 Joint
-Drafting. This Agreement and its Exhibits have been jointly drafted by the
-Parties and their counsel. Neither this Agreement nor any of its Exhibits
-shall be construed against any Party based on its authorship.   13.11
-Captions. The article and section headings in this Agreement are for
-convenience only, and shall not affect the meaning or interpretation of
-this Agreement.   13.12 No Third-Party Beneficiaries. There are no third-
-party beneficiaries of this Agreement, except that the respective Affiliates
-of the Parties are entitled to the benefits of the respective
-indemnification obligations of the Parties under Article XI.   22    
-IN WITNESS WHEREOF, the Parties have duly executed this Agreement, all as of
-the date first written above.  LASV:   LASV ENTERPRISES INC.   By: /s/
-Timothy Metz  --------------------------  Timothy Metz, President   DCT
-COMBINATION, INC.:   By: /s/ authorized signatory  Name:  Title:  
-DCT:   D.C.T. CORPORATION LTD.   By: /s/ authorized signatory  Name: 
-Title:     23    '
+<DOCUMENT>
+<TYPE>EX-99.2
+<SEQUENCE>3
+<FILENAME>0003.txt
+<DESCRIPTION>PLAN AND AGREEMENT OF MERGER
+<TEXT>
 
+
+                                                                    EXHIBIT 99.2
+
+
+
+
+
+
+                          PLAN AND AGREEMENT OF MERGER
+
+                                  BY AND AMONG
+
+                             LASV ENTERPRISES, INC.,
+
+                              DCT COMBINATION, INC.
+
+                                       AND
+
+                             D.C.T. CORPORATION LTD.
+
+
+
+
+
+
+
+
+
+
+
+                                FEBRUARY 19, 2001
+
+
+
+
+
+
+
+<PAGE>
+<TABLE>
+<CAPTION>
+                           TABLE OF CONTENTS
+                                                                                        Page
+<S>              <C>                                                                    <C>
+ARTICLE I        DEFINITIONS AND INTERPRETATION...........................................1
+         1.1     Definitions..............................................................1
+         1.2     Interpretation...........................................................5
+         1.3     Knowledge................................................................5
+
+ARTICLE II       THE MERGER...............................................................6
+         2.1     The Merger...............................................................6
+         2.2     Merger Consideration.....................................................6
+         2.3     Closing and Effective Time of the Merger.................................6
+
+ARTICLE III      REPRESENTATIONS AND WARRANTIES OF
+                 LASV PARTIES.............................................................6
+         3.1     Organization of LASV.....................................................6
+         3.2     Authority Relative to this Agreement.....................................6
+         3.3     No Violations............................................................7
+         3.4     Consents and Approval....................................................7
+         3.5     LASV Capitalization......................................................7
+         3.6     SEC Filings..............................................................8
+         3.7     Absence of Certain Changes...............................................8
+         3.8     Litigation...............................................................8
+         3.9     Brokers..................................................................9
+
+ARTICLE IV       REPRESENTATIONS AND WARRANTIES OF DCT....................................9
+         4.1     General..................................................................9
+         4.2     Governmental Licenses and Permits; Compliance with Laws.................10
+         4.3     Intellectual Property...................................................10
+         4.4     Labor Matters...........................................................11
+         4.5     Undisclosed Liabilities.................................................11
+         4.6     No ERISA Plans..........................................................11
+         4.7     Transactions with Affiliates............................................11
+         4.8     Brokers.................................................................12
+         4.9     Investment Representations..............................................12
+
+ARTICLE V        COVENANTS OF LASV PARTIES PENDING CLOSING...............................12
+         5.1     Notice of Certain Events................................................12
+         5.2     Access and Information..................................................12
+         5.3     LASV Shareholders' Meeting..............................................13
+         5.4     Confidentiality.........................................................13
+         5.5     No Solicitation.........................................................13
+         5.6     Consummation of the Merger..............................................13
+
+ARTICLE VI       COVENANTS OF DCT PENDING CLOSING........................................13
+         6.1     Conduct of Business.....................................................13
+         6.2     Access and Information..................................................14
+         6.3     Confidentiality.........................................................14
+         6.4     No Solicitation.........................................................14
+         6.5     Supplemental Information................................................14
+         6.6     Consummation of the Merger..............................................15
+</TABLE>
+
+                                   i
+<PAGE>
+<TABLE>
+
+<S>              <C>                                                                    <C>
+ARTICLE VII      CONDITIONS TO OBLIGATIONS OF LASV.......................................15
+         7.1     Representations True at Closing.........................................15
+         7.2     Opinion of DCT Counsel..................................................15
+         7.3     Consents................................................................15
+         7.4     Other Documents.........................................................15
+
+ARTICLE VIII     CONDITIONS TO DCT OBLIGATIONS...........................................16
+         8.1     LASV Parties Representations True at Closing............................16
+         8.2     Opinion of LASV's Counsel...............................................16
+         8.3     Other Documents.........................................................16
+
+ARTICLE IX       ADDITIONAL AGREEMENTS...................................................16
+         9.1     Consents and Approvals..................................................16
+         9.2     Publicity...............................................................16
+         9.3     Expenses................................................................17
+         9.4     Conveyance Taxes........................................................17
+         9.5     Name/Symbols Reservation and Charter Amendment..........................17
+         9.6     Anitrust Filings, etc...................................................17
+
+ARTICLE X        NATURE AND SURVIVAL OF
+                 REPRESENTATIONS AND WARRANTIES..........................................17
+         10.1    Nature of Statements....................................................17
+         10.2    Survival of Representations and Warranties..............................18
+
+ARTICLE XI       INDEMNIFICATION.........................................................18
+         11.1    Indemnification Regarding Article IV Representations, Warranties
+                 and DCT Covenants.......................................................18
+         11.2    Indemnification by LASV.................................................18
+         11.3    Requests for Indemnification............................................18
+
+ARTICLE XII      AMENDMENT AND TERMINATION...............................................20
+         12.1    Amendment...............................................................20
+         12.2    Waiver..................................................................20
+         12.3    Termination.............................................................20
+         12.4    Consequences of Termination.............................................20
+
+ARTICLE XIII     GENERAL PROVISIONS......................................................21
+         13.1    Non-Business Days.......................................................21
+         13.2    Shareholder Consent.....................................................21
+         13.3    Notices.................................................................21
+         13.4    Entire Agreement........................................................22
+         13.5    Assignment; Binding Effect..............................................22
+         13.6    Counterparts............................................................22
+         13.7    Governing Law; Jurisdiction; Venue......................................22
+         13.8    Severability of Provisions..............................................22
+         13.9    Specific Performance....................................................23
+         13.10   Joint Drafting..........................................................23
+         13.11   Captions................................................................23
+         13.12   No Third-Party Beneficiaries............................................23
+</TABLE>
+
+                                       ii
+
+<PAGE>
+
+
+
+
+
+
+ANNEX AND EXHIBITS
+
+Annex A - Plan of Merger.
+Exhibit A - Form of Legal  Opinion  relating  to DCT.
+Exhibit B - Form of Legal Opinion relating to LASV.
+
+
+
+                                       iii
+
+<PAGE>
+
+
+                          PLAN AND AGREEMENT OF MERGER
+
+         This PLAN AND AGREEMENT OF MERGER ("Agreement") is entered into on this
+19th day of February,  2001, among LASV Enterprises Inc., a Delaware corporation
+("LASV"),  DCT Combination,  Inc., a State of Washington  corporation and wholly
+owned  subsidiary  of LASV  ("Merger  Subsidiary"),  both of which are  together
+referred to in this  Agreement  as the "LASV  Parties,"  and D.C.T.  Corporation
+Ltd., a Bahamas corporation ("DCT").
+
+                              W I T N E S S E T H:
+
+         WHEREAS, DCT is the legal owner of, among other things, a promising new
+development  in  the  technology  known  as  "Dynamic  Chaos,"  which  has  been
+developed,  patented and demonstrated by DCT's principal shareholders.  This new
+development  in Dynamic  Chaos  technology  has been used to transmit  data at a
+high-speed  rate through radio  microwave  broadband  signals.  DCT is currently
+preparing  patent filings for the  application of this technology and intends to
+license this technology.
+
+         WHEREAS, DCT's other assets include, without limitation,  the exclusive
+ownership and rights to  manufacture,  market and distribute a related  software
+search engine currently known under the name  "Forget-Me-Not" and recorded under
+United States Patent Number 5,774,587,  as well as the rights to an internet web
+site,      which     describes     the      "Forget-Me-Not"      software     at
+http://www.neurosoftdata.com.
+
+         WHEREAS, the parties to this Agreement (the "Parties") wish to effect a
+business  combination in which Merger Subsidiary will merge into DCT in a merger
+(the "Merger") to be  consummated  under the laws of the State of Washington and
+the Companies Act, 1992 of the Bahamas (the "Companies Act").
+
+         NOW,   THEREFORE,   in   consideration  of  the  premises  and  of  the
+representations,  warranties and covenants herein contained, the Parties to this
+Agreement agree as follows:
+
+                                    ARTICLE I
+
+                         DEFINITIONS AND INTERPRETATION
+
+         1.1      Definitions.  In this Agreement:
+
+                  "Affiliate"  means  a  Person  that  directly,  or  indirectly
+         through one or more  intermediaries,  controls,  is controlled by or is
+         under common control with another  Person with the terms  "control" and
+         "controlled"  meaning  for  purposes of this  definition,  the power to
+         direct the management and policies of a Person, directly or indirectly,
+         whether  through the ownership of voting  securities or  partnership or
+         other ownership interests, or by contract or otherwise.
+
+
+                                        1
+
+<PAGE>
+
+                  "Alternate  Transaction"  means with  respect to a given Party
+         any  proposal  or  offer  for  a  merger,  consolidation,  acquisition,
+         business  combination,  sale of all or a substantial portion of assets,
+         liquidation,  recapitalization or other  reorganization  involving that
+         Party,  or any proposal or offer for the acquisition in any manner of a
+         substantial  equity interest in that Party, other than the transactions
+         contemplated hereby.
+
+                  "Business Day" means a day other than Saturday,  Sunday or any
+         day on which  banks  located in the United  States  are  authorized  or
+         obligated to close.
+
+                  "Charter  Documents"  mean (i) in the case of any Person which
+         is a  corporation,  its articles or certificate  of  incorporation  and
+         bylaws, or other similar governing  documents under the jurisdiction in
+         which it is formed,  and each  certificate  or other  document  setting
+         forth the  designation,  amount and relative  rights,  limitations  and
+         preferences of any class or series of the corporation's  capital stock,
+         (ii) in the case of any Person which is a partnership,  its partnership
+         agreement  and,  if it is a limited  partnership,  its  certificate  of
+         limited  partnership,  or other similar  governing  documents under the
+         jurisdiction in which it is formed, and (iii) in the case of any Person
+         which is a limited  liability  company,  its articles or certificate of
+         organization   and  its  regulations  or  limited   liability   company
+         agreement,  or other similar governing documents under the jurisdiction
+         in which it is formed.
+
+                  "Closing" has the meaning specified in Section 2.3.
+
+                  "Closing Date" means February 19, 2001.
+
+                  "Code"  means the United  States  Internal  Revenue  Code of
+         1986, as amended.
+
+                  "Companies Act" has the meaning specified in the  preamble  to
+         this Agreement.
+
+                  "Damages" mean all obligations, claims, liabilities,  damages,
+         penalties,   deficiencies,    losses,   investigations,    proceedings,
+         judgments,   fines,  and  reasonable  costs  and  expenses   (including
+         reasonable   costs  and  expenses   incurred  in  connection  with  the
+         performance  of  obligations,  interest,  bonding  and court  costs and
+         attorneys',  accountants',  engineers', consultants' and investigators'
+         fees and disbursements)  and disbursements  incurred in connection with
+         any investigation or defense of any of the foregoing.
+
+                  "DCT  Business"   means  (i)  the  research  and   development
+         associated  with the  technology  known as  Dynamic  Chaos,  which uses
+         dynamic chaos technology and chaotic oscillations to transmit data at a
+         high speed rate through radio  microwave  broadband  signals,  together
+         with the commercial  exploitation  and licensing of such technology and
+         any patent or other  intellectual  property owned by DCT and associated
+         with such  technology  on a  worldwide  basis  (other  than  within the
+         Russian  Federation),  (ii)  developing,  marketing,  distributing,  or
+         further  improving or developing of a related  software  search engine,
+         currently  marketed  under the name  Forget-Me-Not,  together  with the
+         commercial
+
+                                        2
+<PAGE>
+
+         exploitation  and  licensing  of such  software and any patent or other
+         intellectual  property  owned  by DCT  and  associated  therewith  on a
+         worldwide basis (other than within the Russian  Federation),  (iii) any
+         further developments or spin-offs related to the foregoing  technology,
+         and (iv) all activities associated with or incidental to the foregoing.
+
+                  "DCT Disclosure Schedule" means the Disclosure Schedule signed
+         for identification  purposes only by the principal executive officer of
+         DCT,  which DCT has  delivered  to,  and which  has been  reviewed  and
+         accepted by, the LASV Parties on or before the date of this  Agreement,
+         and which  contains  information  relevant to the  representations  and
+         warranties made by the DCT Parties in Articles IV and V.
+
+                  "DCT  Shares"  mean at any date all of the shares of DCT Stock
+         issued and outstanding as of such date.
+
+                  "DCT Stock" means the  capital stock of  DCT as  authorized by
+         its Charter Documents.
+
+                  "Effective  Time"  means  the time and  date  when the  Merger
+         becomes effective under the Plan of Merger.
+
+                  "Employment   Agreements"   mean  the  Employment   Agreements
+         specified in Section 4.4 of the DCT Disclosure Schedule.
+
+                  "Exchange Act" means the U.S. Securities Exchange Act of 1934,
+         as amended,  and the rules and regulations of the SEC promulgated under
+         that Act.
+
+                  "GAAP" means  U.S. generally  accepted  accounting  principles
+         consistently   applied   throughout   the  specified   period  and,  if
+         applicable, the immediately preceding comparable period.
+
+                  "Governmental Entity" means any U.S. federal,  state, local or
+         foreign court,  executive office,  legislature,  governmental agency or
+         ministry, commission, or administrative,  regulatory or self-regulatory
+         authority or instrumentality.
+
+                  "HSR" means the U.S. Hart-Scott-Rodino  Antitrust Improvements
+         Act of 1976, as amended.
+
+                  "Law"  means  a  law,  statute,   ordinance,   rule,  code  or
+         regulation enacted or promulgated, or order, directive,  instruction or
+         other  legally  binding  guideline or policy issued or rendered by, any
+         Governmental Entity.
+
+                  "Lien" means a lien,  mortgage,  deed of trust, deed to secure
+         debt, pledge, hypothecation, assignment, deposit arrangement, easement,
+         preference, priority, assessment,
+
+                                        3
+<PAGE>
+
+         security interest, lease, sublease, charge, claim, adverse claim, levy,
+         interest of other Persons, or other encumbrance of any kind.
+
+                  "Mailing Date" has the meaning specified in Section 6.5.
+
+                  "Material  Adverse Effect" means when used with reference to a
+         Party, a material adverse effect on the financial  condition,  business
+         or results of operations of that Party and its Subsidiaries  taken as a
+         whole,  without giving effect to the  consummation of the  transactions
+         contemplated hereby.
+
+                  "Merger" has  the  meaning  specified  in the preamble of this
+         Agreement.
+
+                  "Merger  Shares" mean the  aggregate of  90,500,000  shares of
+         LASV Common Stock to be issued to the DCT  Shareholders as contemplated
+         in Section 2.2 and the Plan of Merger.
+
+                  "Permitted Liens" mean those Liens with respect to (i) current
+         taxes  not  yet  due  and  payable  and  (ii)  other  Liens  (including
+         mechanics, couriers', workers', repairers', landlords',  materialmen's,
+         warehousemen's  and other similar liens) arising in ordinary  course of
+         business as would not in the aggregate  materially adversely affect the
+         value of, or materially interfere with the use of, the property subject
+         thereto.
+
+                  "Person"  means  an  individual,   corporation,   partnership,
+         association,   joint  stock   company,   limited   liability   company,
+         Governmental Entity, business trust,  unincorporated  organization,  or
+         other legal entity.
+
+                  "LASV Charter Amendments" has the meaning specified in Section
+         6.5.
+
+                  "LASV Common  Stock" means the Common  Stock,  $.001 par value
+         per share, of LASV.
+
+                  "LASV SEC Filings" has the meaning specified in Section 3.6.
+
+                  "SEC" means the U.S. Securities and Exchange Commission or any
+         successor agency.
+
+                  "Securities Act"  means  the  U.S. Securities  Act of 1933, as
+         amended,  and  the  rules  and  regulations  of  the  SEC   promulgated
+         thereunder.
+
+                  "Subsidiary"  of a Party means an  Affiliate  of that Party in
+         which 50% or more of its  aggregate  voting power (or any other voting,
+         membership, partnership or joint venture equity interest in the case of
+         an Affiliate that is not a corporation) is  beneficially  owned by that
+         Party directly or indirectly through one or more other Persons.
+
+                                        4
+
+<PAGE>
+
+                  "Tax"  means  any  tax  of  any  kind,  however   denominated,
+         including  any interest,  penalties or other  additions to tax that may
+         become payable in respect  thereof or in respect of a failure to comply
+         with any  requirement  relating to any Tax Return,  imposed by any U.S.
+         federal,  foreign,  state or local Governmental  Entity,  including all
+         income,  gross income,  gross  receipts,  profits,  goods and services,
+         social security, old age security,  sales and use, ad valorem,  excise,
+         franchise,  business license,  occupation, real property gains, payroll
+         and employee  withholding,  unemployment  insurance,  real and personal
+         property,  stamp,   environmental,   transfer,  workers'  compensation,
+         severance,  alternative minimum, windfall, and capital taxes, and other
+         obligations of the same or a similar nature to any of the foregoing.
+
+                  "Taxing  Authority" means any Governmental  Entity responsible
+         for the imposition, assessment, enforcement or collection of any Tax.
+
+                  "Tax  Returns"  mean all Tax returns,  declarations,  reports,
+         estimates, information returns and statements required to be filed with
+         any Taxing Authority,  or provided to any partner,  shareholder,  joint
+         venturer or member under U.S.  federal,  foreign,  state, or local Laws
+         (including  reports with respect to backup  withholding and payments to
+         Persons  other than  Taxing  Authorities),  and  annual tax  returns on
+         behalf of employee  benefit  plans  sponsored  by LASV or DCT or any of
+         their respective Subsidiaries.
+
+         1.2  Interpretation.  Capitalized  terms defined in this  Agreement are
+equally  applicable to both their singular and plural forms.  References in this
+Agreement to a designated  "Article" or "Section" refer to an Article or Section
+of this Agreement, unless otherwise specifically indicated. All pronouns in this
+Agreement  shall be construed as including both genders and the neuter.  In this
+Agreement,  "including" is used only to indicate examples, without limitation to
+the indicated examples, and without limiting any generality which precedes it.
+
+         1.3  Knowledge.  When a  representation  and warranty in Article III is
+made to the  "knowledge" of either LASV Party,  it means receipt of notice by or
+actual knowledge of the Chairman of the Board, the President and Chief Executive
+Officer,  the Chief  Financial  Officer or any Vice  President  of LASV.  When a
+representation  and warranty in Articles IV and V is made to the  "knowledge" of
+DCT, it means receipt of notice by or actual knowledge of any officer of DCT. No
+representation or warranty by any Party may be qualified or limited by reference
+to knowledge  of such Party  unless due inquiry has  actually  been made by such
+Party.
+
+                                   ARTICLE II
+
+                                   THE MERGER
+
+         2.1 The Merger.  Subject to satisfaction of the conditions set forth in
+this Agreement at the Effective Time, Merger Subsidiary shall be merged with and
+into  DCT in  accordance  with  the  Laws of the  State  of  Washington  and the
+Companies Act.
+
+                                        5
+<PAGE>
+
+         2.2 Merger Consideration. As more fully provided in, and subject to the
+terms and  provisions  of, the Plan of Merger,  all of the DCT Shares issued and
+outstanding  immediately  before the  Effective  Time  will,  as a result of the
+Merger,  be  converted  into an aggregate  of  90,500,000  shares of LASV Common
+Stock.
+
+         2.3 Closing and Effective Time of the Merger. The closing of the Merger
+(the "Closing")  shall take place in British  Columbia,  Canada,  as is mutually
+agreeable to LASV and DCT, on the Closing Date. As soon as practicable after the
+Closing,  DCT and Merger Subsidiary will cause Articles of Merger to be executed
+and filed with the Secretary of State of Washington and the Bahamas Registrar as
+required by the laws of the State of Washington and the Companies Act.
+
+                                   ARTICLE III
+
+                 REPRESENTATIONS AND WARRANTIES OF LASV PARTIES
+
+         The LASV Parties jointly and severally represent and warrant to the DCT
+Parties that:
+
+         3.1  Organization  of  LASV.  Each  LASV  Party is a  corporation  duly
+organized,  validly existing and in good standing under the Laws of the State of
+Delaware and Washington,  respectively. Each LASV Party has full corporate power
+and authority to conduct its business as it is currently being  conducted.  Each
+LASV Party is duly  qualified  to do  business,  and in good  standing,  in each
+jurisdiction  where the  nature of its  properties  or  business  requires  such
+qualification. The LASV Parties have delivered to DCT true, correct and complete
+copies of the Charter Documents of each LASV Party.
+
+         3.2  Authority  Relative  to this  Agreement.  Each LASV  Party has the
+requisite   corporate  power  and  authority  to  enter  into  and  perform  its
+obligations under this Agreement.  The execution and delivery of this Agreement,
+the consummation of the transactions  contemplated  hereunder,  and the issuance
+and delivery of the Merger Shares have been duly  authorized  by the  respective
+Boards of Directors of the LASV Parties.  No other corporate  proceedings on the
+part of either LASV Party is  necessary  to  authorize  this  Agreement,  or the
+transactions  contemplated hereunder.  This Agreement has been duly executed and
+delivered by LASV. Assuming the valid  authorization,  execution and delivery of
+this Agreement by DCT, this Agreement is a valid and binding obligation of LASV,
+enforceable  against LASV in accordance with its terms, except as enforceability
+may be limited by bankruptcy,  insolvency,  reorganization,  moratorium or other
+Laws  relating to or  affecting  creditors'  rights  generally  or by  equitable
+principles.
+
+         3.3      No Violations. The execution, delivery and performance of this
+Agreement by the respective LASV Parties will not:
+
+                  (i)  constitute a breach or violation of or default  under the
+         Charter  Documents of either LASV Party or of any LASV Subsidiaries or,
+         assuming the obtainment of the
+
+                                        6
+<PAGE>
+
+
+
+         consents and approvals described in clause (i) of Section 3.4, any Law
+         applicable to either LASV Party; or
+
+                  (ii) except as  accurately  set forth on  Schedule  3.3 of the
+         LASV  Disclosure  Schedule,  violate  or  conflict  with or result in a
+         breach of, or  constitute a default (or an event which,  with notice or
+         lapse of time or both,  would  constitute a default) under or result in
+         the  termination  of, or accelerate the  performance by, or result in a
+         right of termination  under, or result in the creation of any Lien upon
+         the assets or properties of LASV or any of its Subsidiaries  under, any
+         contract,  indenture, loan document,  license, permit, order, decree or
+         instrument  to which LASV or any of its  Subsidiaries  is a party or by
+         which any of them or their assets or properties are bound.
+
+         3.4 Consents  and  Approval.  No consent,  order,  approval,  waiver or
+authorization of, or registration,  application, declaration or filing with, any
+Person is required  with respect to either LASV Party or any LASV  Subsidiary in
+connection  with the execution and delivery of this  Agreement,  the issuance of
+the Merger Shares or the  consummation  of the transaction  contemplated  hereby
+except for:
+
+                  (i) the consents and approvals described on Section 3.4 of the
+         LASV Disclosure Schedule.
+
+         3.5 LASV Capitalization.  The authorized capital stock of LASV consists
+of (i) 100 million  shares of LASV  Common  Stock,  $.001 par value,  and (ii) 1
+million shares of Preferred  Stock,  $.001 par value,  of LASV ("LASV  Preferred
+Stock").  As of the date hereof  5,921,842  shares of LASV Common Stock,  and no
+shares of LASV Preferred Stock,  are issued and  outstanding.  All of the issued
+and outstanding  shares of LASV Common Stock are duly and validly issued,  fully
+paid  and  non-assessable,  and  were  issued  free  of  preemptive  rights,  in
+compliance with any rights of first refusal. No subscription,  warrant,  option,
+convertible security, stock appreciation or other right (contingent or other) to
+purchase or acquire  any shares of any class of capital  stock of LASV or any of
+its Subsidiaries is authorized or outstanding,  and there is not outstanding any
+commitment  of LASV or any of its  Subsidiaries  to issue any shares,  warrants,
+options or other  such  rights or to  distribute  to holders of any class of its
+capital stock any evidences of indebtedness  or assets.  Neither LASV nor any of
+its Subsidiaries  has any contingent or other obligation to purchase,  redeem or
+otherwise  acquire any shares of its capital stock or any interest therein or to
+pay any dividend or make any other distribution in respect thereof.  LASV is not
+a party,  and has no knowledge that any LASV  Shareholders  are parties,  to any
+voting agreement,  voting trust or similar agreement or arrangement  relating to
+LASV's capital stock.
+
+         The  authorized  capital stock of Merger  Subsidiary  consists of 1,000
+shares of common  stock,  par value  $.001 per  share,  all of which  shares are
+issued and outstanding and owned by LASV.
+
+         Upon their issuance, the Merger Shares will be duly authorized, validly
+issued, fully paid and non-assessable shares of LASV Common Stock.
+
+                                        7
+
+<PAGE>
+
+         3.6 SEC  Filings.  LASV has  filed all  forms,  reports  and  documents
+required to be filed by them with the SEC since its inception, and LASV has made
+available  to DCT true and  complete  copies  of (i) the  Annual  Report on Form
+10-KSB of LASV for the year ended  December 31, 2000, and (ii) all other reports
+(including  any  Current  Reports  on Form  8-K),  statements  and  registration
+statements filed by LASV with the SEC since inception  (collectively,  the "LASV
+SEC  Filings").  The LASV SEC Filings,  including  all  financial  statements or
+schedules  included  in them,  (i)  comply  in all  material  respects  with the
+requirements  of the Securities Act or the Exchange Act, as the case may be, and
+(ii)  did not at the  time of  their  filing  (or if  amended,  supplemented  or
+superseded  by a later  filing,  on the date of the later  filing)  contain  any
+untrue statement of a material fact or omit to state a material fact required to
+be stated therein or necessary in order to make the statements therein, in light
+of the circumstances under which they were made, not misleading.
+
+         3.7 Absence of Certain  Changes.  Except as set forth in Section 3.7 of
+LASV Disclosure Schedule, since February 1, 2001, LASV and its Subsidiaries have
+conducted  their  businesses only in the ordinary  course,  consistent with past
+practice,  and there has not occurred a Material  Adverse  Effect,  or any event
+that could  reasonably be expected to result in a Material  Adverse  Effect,  on
+LASV and the Subsidiaries considered as a whole.
+
+         3.8  Litigation.  Except as disclosed in Section 3.8 of LASV Disclosure
+Schedule,  there is no suit, action,  investigation or proceeding pending or, to
+the  knowledge  of the  LASV  Parties,  threatened  against  LASV  or any of its
+Subsidiaries at Law or in equity before or by any Governmental  Entity or before
+any  arbitrator  or  mediator  of any kind,  and there is no  judgment,  decree,
+injunction,  rule or order of any Governmental Entity, arbitrator or mediator to
+which  LASV or any of its  Subsidiaries  are  subject.  Neither  LASV  Party has
+knowledge of any grounds on which any suit, action,  investigation or proceeding
+of the  nature  referred  to in this  Section  3.8 might be  commenced  with any
+reasonable likelihood of success.
+
+         3.9 Brokers. No broker,  finder or investment banker is entitled to any
+brokerage, finder's or other fee or commission in connection with this Agreement
+or the transactions  contemplated  hereby based upon  arrangements made by or on
+behalf of the LASV Parties.
+
+                                   ARTICLE IV
+
+                      REPRESENTATIONS AND WARRANTIES OF DCT
+
+         DCT represents and warrants to the LASV Parties that:
+
+         4.1  General.  Except as set forth in Section 4.1 of the DCT Disclosure
+Schedule:
+
+                  (i) DCT is a corporation formed on August 31, 2000 and is duly
+         organized,  validly existing and in good standing under the laws of the
+         Bahamas, has full authority and corporate power to conduct its business
+         as  presently  conducted,  and is not  required to be  qualified  to do
+         business as a foreign corporation in any other jurisdiction;
+
+                                        8
+<PAGE>
+
+                  (ii) DCT has delivered to the LASV true and correct  copies of
+         the DCT Charter Documents;
+
+                  (iii) DCT has the requisite  corporate  power and authority to
+         enter  into and  perform  its  obligations  under this  Agreement.  The
+         execution  and  delivery  of this  Agreement  and  consummation  of the
+         transactions  contemplated  hereunder have been duly  authorized by the
+         Board of Directors of DCT, and no other  corporate  proceedings  on the
+         part of DCT or the DCT  shareholders  are  necessary to authorize  this
+         Agreement  or  the  consummation  of  the   transactions   contemplated
+         hereunder. Assuming the valid authorization,  execution and delivery of
+         this  Agreement  by the LASV  Parties,  this  Agreement  is a valid and
+         binding obligation of DCT,  enforceable  against DCT in accordance with
+         its terms,  except as  enforceability  may be  limited  by  bankruptcy,
+         insolvency,  reorganization,  moratorium  or other Laws  relating to or
+         affecting creditors' rights generally or by equitable principles;
+
+                  (iv) The execution, delivery and performance of this Agreement
+         will not (x)  constitute a breach or violation of or default  under the
+         DCT Charter  Documents or any Law  applicable to the DCT or (y) violate
+         or conflict  with or result in a breach of, or constitute a default (or
+         an event which,  with notice or lapse of time or both, would constitute
+         a default)  under or result in the  termination  of, or accelerate  the
+         performance  by, or result in the  termination  under, or result in the
+         creation of Lien upon the assets of DCT under any contract,  agreement,
+         or instrument to which DCT is a party or by which any of its assets are
+         bound;
+
+                  (v)  No  consent,  approval,  waiver,   authorization  of,  or
+         registration,  application,  declaration  or filing with, any Person is
+         required  with  respect to DCT in  connection  with the  execution  and
+         delivery  of  this  Agreement  or  consummation  of  the   transactions
+         contemplated hereby;
+
+                  (vi) DCT does not have any assets,  rights or properties other
+         than  the  assets  set  forth  on  Schedule  4.3 of the DCT  Disclosure
+         Schedule and its rights under the Employment Agreements;
+
+                  (vii) DCT is not a party to or bound by, nor are its assets or
+         properties  subject to any  contract  or  agreement  other than the DCT
+         Charter Documents and the Employment Agreements;
+
+                  (viii) The DCT Shares  owned and held by the DCT  shareholders
+         and to be exchanged in the Merger under this Agreement represent all of
+         the issued and outstanding shares of DCT, and no subscription, warrant,
+         option,   convertible  security,  stock  appreciation  or  other  right
+         (contingent or other) to purchase or acquire any shares of any class of
+         capital  stock of DCT is  authorized  or  outstanding  and there is not
+         outstanding  any  commitment  of DCT to  issue  any  shares,  warrants,
+         options or other such rights or to  distribute  to holders of any class
+         of its capital stock any evidences of indebtedness or assets;
+
+                                        9
+<PAGE>
+
+                  (ix) DCT has no Subsidiaries,  and does not otherwise have any
+         equity  investment in any corporation,  partnership or joint venture or
+         other business entity;
+
+                  (x)  There is no suit,  action,  investigation  or  proceeding
+         pending  or, to DCT's  knowledge  threatened,  against DCT at Law or in
+         equity before or by any Governmental Entity or before any arbitrator or
+         mediator of any kind and there is no judgment, decree, injunction, rule
+         or order of any  Governmental  Entity,  arbitrator or mediator to which
+         DCT is subject; and
+
+                  (xi)  Except   with   respect  to  persons   with   Employment
+         Agreements,  DCT does not have, and has not had, any employees, and DCT
+         has not  conducted  any business or  operations  other than to hold the
+         assets set forth in Section 4.3 of the DCT Disclosure  Schedules and to
+         conduct demonstrations and presentations relating thereto.
+
+         4.2  Governmental  Licenses and Permits;  Compliance with Laws. DCT has
+not  received   notice  of  any  revocation  or  modification  of  any  licence,
+certification,  tariff,  permit,  registration,  exemption,  approval  or  other
+authorization  by any  Governmental  Entity,  and  DCT is in  compliance  in all
+material respects with all applicable Laws.
+
+         4.3  Intellectual  Property.  DCT owns, or has a valid license or other
+right to use, all patents,  trademarks,  service marks, trade names, copyrights,
+trade  secrets,  technology,  know-how  and  other  intellectual  property  (the
+"Intellectual  Property") necessary to or used in the conduct of the business of
+DCT as now  conducted  and as proposed to be  conducted.  Section 4.3 of the DCT
+Disclosure Schedule contains a complete and accurate list, including the date of
+grant and the expiration date of, all patents,  patent applications,  trademarks
+and service marks and related applications,  trade names and copyrights owned by
+or licensed to DCT.  Section 4.3 of the DCT Disclosure  Schedule also contains a
+description,  including the date of execution,  scheduled  termination  date and
+allowed extension periods, as applicable, of all agreements or licenses relating
+to the acquisition by or license to DCT of such  Intellectual  Property or under
+which DCT has sold or  granted  a right to use any  Intellectual  Property.  All
+Intellectual  Property owned by DCT is owned by it or them free and clear of all
+Liens,  except  Permitted Liens. The conduct of DCT's business does not conflict
+with or infringe upon any  Intellectual  Property rights of any other person and
+no claims of conflict or  infringement  are pending or, to the  knowledge of DCT
+threatened, against DCT. DCT has made all necessary filings and recordations and
+has paid all required fees and Taxes to maintain  ownership of the  Intellectual
+Property.
+
+         4.4 Labor Matters. There is no labor strike,  dispute,  slowdown,  work
+stoppage,  unresolved  labor union  grievance or labor  arbitration  proceedings
+pending or, to the  knowledge  of DCT  threatened,  against  DCT, and no current
+union organizing activities among employees of DCT. Except for the employees who
+are parties to those certain Employment  Agreements accurately listed on Section
+4.4 of the DCT Disclosure Schedule, as of the date hereof, DCT has no employees.
+
+                                       10
+<PAGE>
+
+         4.5 Undisclosed Liabilities.  Except as accurately set forth in Section
+4.5  of  the  DCT  Disclosure  Schedule,  DCT  has  no  debts,   liabilities  or
+obligations,  known or unknown,  fixed or  contingent,  other than those arising
+under the Employment Agreements, the Institute Contract and the Amendment to the
+Assignment Agreement, copies of which have been provided to the LASV Parties.
+
+         4.6 No ERISA  Plans.  DCT has no  benefit  plans  which are  subject to
+provisions of the Employee  Retirement  Income  Security Act of 1974, as amended
+("ERISA") or the Code or any comparable  provision of any non-U.S.  Law. DCT has
+not engaged in any  transaction  with  respect to any benefit  plan for which it
+could be subject,  directly or  indirectly,  to a material  liability for either
+civil penalty assessed pursuant to Section 502(i) of ERISA or a material penalty
+imposed by the Code or any comparable provisions of any non-U.S. law.
+
+         4.7 Transactions with Affiliates: Except as set forth in Section 4.7 of
+the DCT Disclosure Schedule, no Affiliate of DCT:
+
+                  (i)      is a party to or has any interest  in any contract or
+         agreement with DCT;
+
+                  (ii)  has any outstanding loan to or receivable from DCT; or
+
+                  (iii) has any ownership interest (other than a stock ownership
+         interest  representing  less  than 1% of the  outstanding  stock of any
+         corporation  which  is  publicly  traded),  directly,   indirectly,  or
+         beneficially, in any customer of or supplier to DCT.
+
+         4.8 Brokers.  Except as set forth on Section 4.8 of the DCT  Disclosure
+Schedule,  no broker,  finder or investment banker is entitled to any brokerage,
+finder's or other fee or  commission in  connection  with this  Agreement or the
+transactions contemplated hereby based upon arrangements made by or on behalf of
+any DCT Party.
+
+         4.9      Investment Representations.
+
+                  (a) Merger Shares Not  Registered.  The issuance of the Merger
+         Shares, has not been registered under the Securities Act, or registered
+         or qualified under any applicable state or foreign securities laws.
+
+                  (b)  Restrictive  Legend.  In  addition  to any other  legends
+         required  by law or the other  agreements  entered  into in  connection
+         herewith, the certificates evidencing the Merger Shares issued pursuant
+         to  this   Agreement  will  bear  a  conspicuous   restrictive   legend
+         substantially as follows:
+
+                  THE SECURITIES EVIDENCED HEREBY HAVE NOT BEEN REGISTERED UNDER
+                  THE SECURITIES ACT OF 1933, AS AMENDED ("ACT"), OR  UNDER  ANY
+                  APPLICABLE STATE SECURITIES LAWS,
+
+                                       11
+<PAGE>
+
+                  AND THEY  CANNOT BE OFFERED  FOR SALE,  SOLD,  TRANSFERRED  OR
+                  OTHERWISE   DISPOSED   OF  EXCEPT  IN   ACCORDANCE   WITH  THE
+                  REGISTRATION REQUIREMENTS OF THE ACT AND SUCH OTHER STATE LAWS
+                  OR UPON  DELIVERY TO THIS  CORPORATION  OF AN OPINION OF LEGAL
+                  COUNSEL  REASONABLY  SATISFACTORY TO THE  CORPORATION  THAT AN
+                  EXEMPTION FROM REGISTRATION IS AVAILABLE.
+
+                                    ARTICLE V
+
+                    COVENANTS OF LASV PARTIES PENDING CLOSING
+
+         The LASV Parties agree that pending the Closing:
+
+         5.1 Notice of Certain  Events.  LASV shall  notify DCT of any matter or
+event which comes to the knowledge of the LASV Parties which makes or could make
+any  representation and warranty made concerning LASV or any of its Subsidiaries
+in Article III untrue.
+
+         5.2 Access and Information. LASV shall give DCT and its representatives
+full  access  during  normal  business  hours  to  all  the  properties,  books,
+contracts,  commitments and records of LASV and its Subsidiaries so that DCT and
+the DCT  Shareholders  may have full  opportunity to make such  investigation of
+LASV and its Subsidiaries as they shall reasonably request in advance.
+
+         5.3 LASV Shareholders'  Meeting.  LASV hereby represents that in excess
+of ninety percent (90%) of the LASV  shareholders have approved this transaction
+by written  Resolution  in lieu of a  shareholders  meeting (a copy of which has
+been  delivered to DCT), and therefore it is not necessary or required to call a
+special  meeting of the LASV  shareholders to be held to vote to approve (i) the
+issuance of the Merger Shares in connection with the Merger, (ii) any amendments
+to the LASV Charter  Documents to change the  corporate  name to "Dynamic  Chaos
+Technology,  Inc." as soon as  practicable  after the Closing (the "LASV Charter
+Amendments"),  or (iii) any  other  matters  related  to this  Agreement  or the
+implementation thereof.
+
+         5.4 Confidentiality. Except for information required or appropriate for
+inclusion  in any  application,  filing,  statement or notice to be filed by the
+LASV Parties with any Governmental Entity, all information and data furnished by
+the DCT Parties to the LASV Parties under this Agreement shall be received, held
+and treated  confidentially  by LASV, and none of such information shall be used
+in any manner  for the  benefit  of LASV or any of its  Subsidiaries  or for the
+benefit of any business controlled by it or them.
+
+         5.5 No  Solicitation.  LASV will  immediately  terminate  any  existing
+activities,  discussions  and  negotiations  with third parties  concerning  any
+possible Alternative  Transaction involving LASV. LASV will not, and it will not
+cause  or  permit  its  Subsidiaries  and the  respective  officers,  directors,
+representatives,  agents  or  representatives  of LASV or its  Subsidiaries  to,
+directly
+
+                                       12
+<PAGE>
+
+or  indirectly  knowingly  encourage,  solicit or initiate  any  discussions  or
+negotiations  with any Person concerning any Alternative  Transaction  involving
+LASV.
+
+         5.6  Consummation  of the  Merger.  The LASV  Parties  shall  use their
+commercially  reasonable  best efforts to perform and fulfill all conditions and
+obligations on their part to be performed and fulfilled  under this Agreement to
+the end that the Merger is consummated.
+
+                                   ARTICLE VI
+
+                        COVENANTS OF DCT PENDING CLOSING
+
+         DCT agrees that pending the Closing:
+
+         6.1 Conduct of Business.  DCT shall conduct its operations according to
+its  ordinary  and usual  course  of  business,  and shall use its  commercially
+reasonable  best  efforts to preserve  intact its  business  organization,  keep
+available  the  services of its  officers  and  employees  and  maintain  normal
+business  relationships  with  customers,  clients  and others  having  business
+relationships with it. DCT shall confer on a regular and frequent basis with one
+or more designated  representatives of LASV to report on operational  matters of
+materiality  and to report the general status of ongoing  operations of DCT. DCT
+shall notify LASV of:
+
+                  (i) any unexpected material emergency or other material change
+         in the normal course of business or in the operation of the  properties
+         of DCT;
+
+                  (ii)   any   significant   development   in   any   regulatory
+         proceedings,  governmental  complaints,  investigations or hearings (or
+         communication  indicating that any may be contemplated)  involving DCT;
+         and
+
+                  (iii) any matter or event which comes to the  knowledge of DCT
+         and which  makes or could make any  representation  and  warranty  made
+         concerning DCT in Articles IV or V untrue or inaccurate.
+
+         DCT  shall  keep  LASV  fully   informed  of  such  events  and  permit
+representatives of LASV access to all materials prepared in connection with such
+events.
+
+         6.2 Access and Information. DCT shall give LASV and its representatives
+access during normal  business hours to all the  properties,  books,  contracts,
+commitments  and records of DCT so that LASV may have full  opportunity  to make
+such investigation of DCT as they shall reasonably request in advance.  DCT will
+furnish  LASV all  information  concerning  DCT  required  for  inclusion in any
+application,  filing, statement or notice made by LASV to, or filed or joined in
+by LASV with,  any  Government  Entity in connection  with this Agreement or the
+transactions  contemplated hereunder.  None of the information furnished to LASV
+under  this  Section  6.3  shall,  at the date  furnished,  contain  any  untrue
+statement of a material fact or omit to state any material
+
+                                       13
+<PAGE>
+
+fact  necessary in order to make the  statements  made therein,  in light of the
+circumstances under which they were made, not misleading.
+
+         6.3 Confidentiality.  All information and data furnished to DCT by LASV
+or any of its Subsidiaries under this Agreement,  whether furnished orally or in
+writing, shall be received,  held and treated confidentially by DCT, and none of
+such  information  shall be used in any manner for the benefit of DCT or for the
+benefit of any business controlled by it.
+
+         6.4 No Solicitation.  Except with respect to a Transaction  relating to
+the issuance of DCT capital  stock  permitted by clause (ii) of Section 6.2, DCT
+will immediately terminate any existing activities, discussions and negotiations
+with third parties  concerning any possible  Alternative  Transaction  involving
+DCT.  DCT will not cause or permit  its  officers,  directors,  representatives,
+agents or  representatives  to,  directly or  indirectly,  knowingly  encourage,
+solicit or initiate any discussions or negotiations  with any Person  concerning
+any such  Alternative  Transaction.  DCT will promptly  communicate  to LASV the
+terms and conditions of any proposal for any such  Alternative  Transaction that
+it may receive.
+
+         6.5 Supplemental Information.  DCT shall furnish LASV subsequent to the
+Closing,  a copy of an  audited  financial  statement  as  soon as  practicable,
+together  with any  information  ordinarily  prepared  in  connection  with such
+financial  statements.  All  such  financial  statements  shall be  prepared  in
+conformity  with  GAAP,  shall  present  fairly  in  all  material  respects  in
+accordance  with GAAP,  the financial  position of DCT at the end of the periods
+covered  thereby  and the  results of its  operations  for the  periods  covered
+thereby,  subject  to  year-end  adjustments  (consisting  of  normal  recurring
+accruals) and the omission of explanatory footnote materials required by GAAP.
+
+         6.6  Consummation  of  the  Merger.  DCT  shall  use  its  commercially
+reasonable best efforts to perform and fulfill all conditions and obligations on
+its part to be performed and fulfilled under this Agreement, to the end that the
+Merger shall be consummated.
+
+                                   ARTICLE VII
+
+                        CONDITIONS TO OBLIGATIONS OF LASV
+
+         The  obligations  of the LASV  Parties  to  consummate  the  Merger are
+subject to the fulfillment of each of the following  conditions on or before the
+Closing Date:
+
+         7.1  Representations  True at Closing.  The LASV Parties shall not have
+discovered any material error,  misstatement or omission in the  representations
+and warranties made by DCT in Article IV and the  representations and warranties
+made by DCT in Article IV shall be deemed to have been made again as of the time
+of the Closing, and shall then be true in all material respects.
+
+                                       14
+<PAGE>
+
+         7.2 Opinion of DCT Counsel. LASV shall have received an opinion,  dated
+as of the Closing  Date, of Daniel M. Boyar,  Esq.,  counsel to DCT, in the form
+attached as Exhibit A to this Agreement.
+
+         7.3 Consents.  LASV shall have  received  duly  executed  copies of all
+consents,  authorizations,  orders or  approvals of any  Governmental  Entity or
+Person  required by DCT for execution of this Agreement or  consummation  of the
+transactions  contemplated  hereunder including,  if required, the expiration of
+any waiting periods required by HSR or any comparable non-U.S.  law with respect
+to the  transactions  contemplated by this Agreement or early  termination  with
+respect  thereto shall have been obtained and without  imposition of any actions
+as a precondition to the expiration of any such waiting period.
+
+         7.4   Other Documents.  LASV  shall  have  received  the  certificates,
+instruments and documents listed below:
+
+                  (i)      the certificates representing all of  the  issued and
+         outstanding DCT Shares as of the Closing Date, duly endorsed to LASV;
+
+                  (ii) all  stock  transfer  registers,  minute  books and other
+         corporate records pertaining to DCT; and
+
+                  (iii) such other  certificates,  instruments  and documents as
+         may be reasonably requested by LASV.
+
+                                  ARTICLE VIII
+
+                          CONDITIONS TO DCT OBLIGATIONS
+
+         The  obligations  of DCT to  consummate  the Merger are  subject to the
+fulfillment of each of the following conditions on or before the Closing Date:
+
+         8.1 LASV Parties  Representations  True at Closing.  DCT shall not have
+discovered any material error,  misstatement or omission in the  representations
+and warranties made by the LASV Parties in Article III, the  representations and
+warranties  made by the LASV Parties in Article III shall be deemed to have been
+made again as of the time of the Closing, and shall then be true in all material
+respects;  LASV  shall have  performed  and  complied  with all  agreements  and
+conditions  required to be performed  or complied  with by it at or prior to the
+Closing; and DCT shall have received certificates,  each dated the Closing Date,
+of the President or Vice  President of each of LASV, to the effects set forth in
+this Section 10.1.
+
+         8.2  Opinion of LASV's  Counsel.  DCT shall have  received  an opinion,
+dated as of the Closing Date, of Warren J.  Soloski,  Esq.,  counsel to LASV, in
+the form attached as Exhibit B to this Agreement.
+
+                                       15
+<PAGE>
+
+         8.3  Other  Documents.  The  President  of DCT,  on  behalf  of all DCT
+shareholders,  shall have received the  certificates,  instruments and documents
+listed below:
+
+                  (i)   stock certificates of LASV Common Stock representing the
+         Merger Shares; and
+
+                  (ii) such other certificates, instruments and documents as may
+         be reasonably requested by the President of DCT.
+
+                                   ARTICLE IX
+
+                              ADDITIONAL AGREEMENTS
+
+         9.1 Consents and  Approvals.  All Parties shall use their  commercially
+reasonable  best  efforts  to obtain,  before  the  Closing,  all  consents  and
+approvals from any Governmental  Entity or Person that are necessary or required
+by any Party for the  execution  of this  Agreement or the  consummation  of the
+transactions contemplated hereunder.
+
+         9.2  Publicity.  No Party other than LASV shall issue any press release
+or public  announcement  pertaining to this Agreement,  the Merger, or any other
+transactions  contemplated hereunder. LASV and DCT shall consult with each other
+concerning  any such press  release or public  announcement  and shall use their
+best  efforts to agree on its text  before its public  dissemination  and before
+making any filings with any Governmental  Entity or national securities exchange
+with respect to any such press  release or public  announcement.  In cases where
+LASV and DCT are unable to agree on a press release or public announcement, LASV
+will not issue it unless the  proposing  Party is  required  to do so by Law, in
+which case the Party so  obligated  shall use its best efforts to provide a copy
+of the press release or public announcement to the other Party before its filing
+or public dissemination.
+
+         9.3  Expenses.  LASV shall pay its own costs and  expenses  incurred in
+connection with this Agreement and the transactions contemplated hereby, and DCT
+shall pay its costs and  expenses  in  connection  with this  Agreement  and the
+transactions  contemplated  hereby, in each case whether or not the transactions
+contemplated under this Agreement are consummated.
+
+         9.4 Conveyance Taxes. The Parties shall cooperate in the preparation of
+all Tax Returns,  questionnaires,  applications or other documents regarding any
+real property  transfer  tax, any stock  transfer or stamp tax. This Section 9.4
+does not apply or extend to any U.S. federal, foreign, state, or local income or
+similar Tax.
+
+         9.5 Name/Symbols  Reservation and Subsequent Charter Amendment. As soon
+as  practicable  after the execution of this  Agreement,  LASV shall reserve the
+corporate name "Dynamic Chaos Technology,  Inc." in accordance with the the laws
+of the State of Delaware, if available.
+
+                                       16
+<PAGE>
+
+         As soon as  practicable  after the  closing of the Merger  contemplated
+hereunder,  LASV shall amend its corporate  name to "Dynamic  Chaos  Technology,
+Inc.".
+
+         9.6 Anitrust  Filings,  etc. Each of LASV and DCT shall timely file and
+promptly  make any  filing  required  under HSR or  comparable  non-U.S.  law in
+connection  with the Merger.  LASV and DCT shall furnish to the other Party such
+information  and  assistance  as the  other  Party  may  reasonably  request  in
+connection  with the other Party's  preparation of filings or submissions to any
+Governmental  Entity  including,  without  limitation,  with  respect to HSR. As
+reasonably  requested by the other party,  LASV and DCT shall  furnish the other
+Party with copies of all correspondence,  filings,  communications  between LASV
+and  DCT  or  their  respective  representatives,  on  the  one  hand,  and  the
+representatives of the U.S. Federal Trade Commission,  the Antitrust Division of
+the U.S. Department of Justice, any comparable non-U.S. Governmental Entity, any
+other  Governmental  Entity or members of their respective  staffs, on the other
+hand, with respect to this Agreement or the transactions contemplated hereby.
+
+                                    ARTICLE X
+
+                             NATURE AND SURVIVAL OF
+                         REPRESENTATIONS AND WARRANTIES
+
+         10.1 Nature of Statements. All, but only those, statements contained in
+this  Agreement or any  Disclosure  Schedule or  certificate  delivered by or on
+behalf of a Party  under  this  Agreement  shall be deemed  representations  and
+warranties made by that Party in connection with the  transactions  contemplated
+by this Agreement.
+
+         10.2  Survival of  Representations  and  Warranties.  Regardless of any
+investigation  made  at  any  time  by or on  behalf  of  any  Party  or of  any
+information  any  Party  may have as a result  of any  such  investigation,  the
+representations  and warranties made by the LASV Parties in Article III, and the
+representations and warranties made by DCT in Article IV, shall not survive, and
+shall terminate upon, the Closing.
+
+                                   ARTICLE XI
+
+                                 INDEMNIFICATION
+
+         The respective indemnification obligations of the Parties are:
+
+         11.1 Indemnification  Regarding Article IV Representations,  Warranties
+and DCT  Covenants.  DCT agrees to pay and to  indemnify  and hold  harmless and
+defend the LASV Parties and their  respective  Affiliates,  and their respective
+successors and assigns from and against any and all Damages caused by or arising
+out of or in respect of:
+
+                                       17
+<PAGE>
+
+                  (i)   any  breach  or default in the performance by DCT of any
+         covenant or agreement of DCT contained in this Agreement; and
+
+                  (ii)  any  breach  of  warranty  or  inaccurate  or  erroneous
+         representation contained in Article IV of this Agreement.
+
+         11.2  Indemnification  by LASV. LASV agrees to pay and to indemnify and
+hold harmless and defend DCT, its  shareholders  and its Affiliates (but not DCT
+after the Closing), and their respective successors and assigns from and against
+any and all Damages caused by or arising out of or in respect of:
+
+                  (i)   any breach or  default in the performance by LASV of any
+         covenant or agreement of LASV contained in this Agreement; and
+
+                  (ii)  any  breach  of  warranty  or  inaccurate  or  erroneous
+         representation contained in Article III of this Agreement.
+
+         11.3  Requests  for  Indemnification.  If any  Party  (an  "Indemnified
+Party") becomes aware of a fact, circumstance, claim, situation, demand or other
+matter for which it or any other Indemnified Party believes it is entitled to be
+indemnified  under  this  Article  XIII (any such item  being  herein  called an
+"Indemnity  Matter"),  the Indemnified Party shall give prompt written notice of
+the  Indemnity  Matter to the  Indemnifying  Party,  requesting  indemnification
+therefor,  specifying the nature of and specific basis for the Indemnity  Matter
+and the  amount  or  estimated  amount  thereof  to the  extent  then  feasible;
+provided,  however,  a failure to give such  notice will not waive any rights of
+the Indemnified Party except to the extent the rights of the Indemnifying  Party
+are actually materially prejudiced by such failure. The Indemnifying Party shall
+have the right to assume the defense or  investigation  of such Indemnity Matter
+and to retain counsel and other experts to represent the  Indemnified  Party and
+shall pay the fees and  disbursements  of such  counsel  and other  experts.  If
+within 30 days  after  receipt of the  request  (or five days if  litigation  is
+pending) the  Indemnifying  Party fails to give notice to the Indemnified  Party
+that  the  Indemnifying  Party  assumes  the  defense  or  investigation  of the
+Indemnity  Matter,  an  Indemnified  Party may retain  counsel and other experts
+(whose fees and disbursements shall be at the expense of the Indemnifying Party)
+to file any motion,  answer or other  pleading  and take such other action which
+the  Indemnified  Party  reasonably  deems necessary to protect its interests or
+those of the  Indemnifying  Party until the date on which the Indemnified  Party
+receives  such notice from the  Indemnifying  Party.  If an  Indemnifying  Party
+retains counsel and other experts, any Indemnified Party shall have the right to
+retain its own  counsel  and other  experts,  but the fees and  expenses of such
+counsel  and other  experts  shall be at the  expense of the  Indemnified  Party
+unless (i) the  Indemnifying  Party and the Indemnified  Party mutually agree to
+the retention of such counsel and other experts or (ii) the named parties to any
+such proceeding  (including any impleaded parties) include both the Indemnifying
+Party and the Indemnified  Party and  representation of both parties by the same
+counsel would, in the opinion of counsel retained by the Indemnifying  Party, be
+inappropriate due to actual or potential differing interests between them.
+
+                                       18
+<PAGE>
+
+         If requested by the Indemnifying Party, the Indemnified Party agrees to
+cooperate  with  the  Indemnifying  Party  and its  counsel  in  contesting  any
+Indemnity  Matter which the Indemnifying  Party defends,  or, if appropriate and
+related to the Indemnity Matter in question,  in making any counterclaim against
+the person asserting the Indemnity  Matter, or any  cross-complaint  against any
+person.  No Indemnity Matter may be settled by the Indemnified Party without the
+consent  of the  Indemnifying  Party,  which  consent  will not be  unreasonably
+withheld.  Unless the  Indemnifying  Party agrees in writing that the Damages to
+the  Indemnified  Party  resulting from such settlement are fully covered by the
+indemnities  provided  herein and that such  Damages  are fully  compensable  in
+money, no Indemnity Matter may be settled without the consent of the Indemnified
+Party, which consent will not be unreasonably  withheld.  Except with respect to
+settlements  entered  without the Indemnified  Party's  consent  pursuant to the
+immediately  preceding  sentence,  to  the  extent  it is  determined  that  the
+Indemnified  Party has no right under this Article XIII to be indemnified by the
+Indemnifying Party, the Indemnified Party shall promptly pay to the Indemnifying
+Party any amounts  previously  paid or advanced by the  Indemnifying  Party with
+respect to such matters pursuant to this Article XIII.
+
+         After the delivery of a notice of an Indemnity Matter hereunder, at the
+reasonable  request of the Indemnifying  Party the Indemnified Party shall grant
+the Indemnifying Party and its  representatives  full and complete access to the
+books,  records and properties of the Indemnified Party to the extent reasonably
+related to the matters to which the notice relates.  The Indemnifying Party will
+not disclose to any third person (except its  representatives)  any  information
+obtained pursuant to the preceding  sentence which is designated as confidential
+by the Indemnified Party and which is not otherwise  generally  available to the
+public or not already within the knowledge of the Indemnifying  Party, except as
+may be required by  applicable  law. The  Indemnifying  Party shall  request its
+representatives  not to disclose any such information (unless already within its
+knowledge  or as may be required by  applicable  law).  All such access shall be
+subject to the normal safety  regulations of the Indemnified Party, and shall be
+granted under conditions which will not unreasonably interfere with the business
+and operations of the Indemnified Party.
+
+                                   ARTICLE XII
+
+                            AMENDMENT AND TERMINATION
+
+         12.1  Amendment.  This  Agreement  may be  amended  only  by a  written
+instrument executed by LASV and DCT.
+
+         12.2  Waiver.  At any time on or before the Closing  Date,  each of the
+Parties may (i) extend the time for the performance of any of the obligations or
+other act of any of the  other  Parties,  (ii)  waive  any  inaccuracies  in the
+representations  and  warranties  made  in  this  Agreement  or in a  Disclosure
+Schedule  of a Party,  (iii)  waive  compliance  with any of the  agreements  or
+conditions  of this  Agreement  which  may be  legally  waived,  and (iv)  grant
+consents  under this  Agreement.  Any such  extension,  waiver or grant shall be
+valid only if evidenced by a written
+
+                                       19
+<PAGE>
+
+instrument executed by the Party giving it. Any such extension,  waiver or grant
+on behalf of (i) the LASV  Parties  need only be  executed  by LASV and (ii) DCT
+executed by DCT.
+
+         12.3  Termination.  This Agreement may be terminated at any time before
+the Closing by:
+
+                  (i)the mutual consent of the Boards of Directors  of LASV  and
+         DCT;
+
+                  (ii) by the Boards of  Directors  of LASV or DCT if the Merger
+         has not been  consummated on or before  February 21, 2001 (or any later
+         date which may be agreed to by the mutual written consent of the Boards
+         of Directors of LASV and DCT);  provided,  however,  that such right to
+         terminate this  Agreement  shall not be available to any Party that has
+         breached in any material  respect its obligations  under this Agreement
+         in any manner that has  proximately  contributed  to the failure of the
+         Merger to occur on or before such date.
+
+         12.4  Consequences of  Termination.  If this Agreement is terminated as
+provided in Section  14.3,  it shall become void and there shall be no liability
+or obligation on the part of any Party or their respective officers or directors
+except that the  provisions  of Sections 6.6,  7.5,  11.2,  shall survive such a
+termination. Nothing in this Section 14.4 shall, however, relieve any Party from
+any liability for any breach of this Agreement.
+
+                                  ARTICLE XIII
+
+                               GENERAL PROVISIONS
+
+         13.1 Non-Business  Days. If the date on which any action (including the
+delivery of notices)  to be taken under this  Agreement  falls on a day which is
+not a  Business  Day,  the  action  will be deemed  timely  taken if on the next
+following Business Day.
+
+         13.2 Shareholder  Consent. By execution and delivery of this Agreement,
+LASV,  as the sole  shareholder  of  Merger  Subsidiary,  hereby  approves  this
+Agreement,  the Merger and the Plan of Merger by written  consent in  accordance
+with the DBCA.
+
+         13.3 Notices. All notices or other communications which are required or
+may be given  under this  Agreement  shall be in writing  and shall be deemed to
+have been duly given when delivered in person or transmitted by telecopier (with
+receipt  confirmed) to a Party at the address or telecopy number, as applicable,
+set forth below (as any such  address or  telecopier  number may be changed from
+time to time by notice similarly given):
+
+                                       20
+<PAGE>
+
+         (1)      if to either LASV Party, to:
+
+                                    LASV Enterprises Inc.
+                                    1736 152nd Street, Suite 201
+                                    Surrey, British Columbia
+                                    Canada V4A 4N4
+                                    Attention:       Timothy Metz, President
+                                    Telecopy No.: (604) 541-6254
+
+                                    with a copy to:
+
+                                    Warren J. Soloski, Esq.
+                                    11300 West Olympic Blvd., Suite 800
+                                    Los Angeles, California 90064
+                                    Telecopy No.:
+
+         (2)      if to DCT, to:
+
+                                    DCT Corporation Ltd.
+                                    c/o  Bannister & Co.
+                                    Suite 1, K.S. Darling Building
+                                    Dowdeswell Street & School Lane
+                                    P.O. Box N-8978
+                                    Nassau, N.P., Bahamas
+                                    Attention:       Daniel M. Boyar
+                                    Telecopy No.:    (242) 356-7236
+
+                                    with a copy to:
+
+                                    Daniel M. Boyar, Attorney at Law
+                                    8365 S.E. 21st Avenue
+                                    Ocala, Florida 34480
+                                    Telecopy No.:    (352) 402-9304
+
+         13.4 Entire  Agreement.  This Agreement,  its Exhibits,  the Disclosure
+Schedules,  and all documents  delivered  under this  Agreement,  constitute the
+entire  agreement,  and supersede all of the prior agreements and  undertakings,
+both written and oral,  among the Parties,  or any of them,  with respect to the
+subject matter of this Agreement.
+
+         13.5 Assignment;  Binding Effect. This Agreement may not be assigned by
+any of its Parties.  Subject to the preceding sentence,  this Agreement shall be
+binding upon the Parties and their respective successors and assigns.
+
+                                       21
+
+<PAGE>
+
+         13.6   Counterparts.   This  Agreement  may  be  executed  in  multiple
+counterparts  which together shall  constitute a single  agreement.  Delivery by
+telephonic  facsimile  transmission  of a signed  counterpart  of this Agreement
+shall be  effective  as  delivery  of a  manually  signed  counterpart  and such
+signature shall be deemed an original hereto.
+
+         13.7 Governing Law; Jurisdiction;  Venue. This Agreement and the rights
+and  obligations of the parties created hereby shall be governed by the internal
+Laws of the State of Delaware  without regard to its conflict of law rules.  Any
+judicial  proceeding  brought  against any Party in connection  with any dispute
+between  or  among  them  arising  under  this  Agreement  or  any  transactions
+contemplated  hereby shall be brought in the state or federal courts of Delaware
+and, by  execution  and  delivery  of this  Agreement,  each Party (i)  accepts,
+generally and unconditionally, the exclusive jurisdiction of such courts and any
+related  appellate courts and (ii)  irrevocably  waives any objection such Party
+may now have or hereafter have as to venue of any such proceeding arising out of
+or relating to any dispute  arising  under this  Agreement  or the  transactions
+contemplated  hereby brought in such courts or any defense of inconvenient forum
+for the  maintenance  of such dispute.  Each Party agrees that a judgment in any
+such dispute may be enforced in other  jurisdictions  by suit on the judgment or
+in any other manner provided by Law.
+
+         13.8  Severability  of Provisions.  If a provision of this Agreement or
+its application to any Person or circumstance,  is held invalid or unenforceable
+in any  jurisdiction,  to the extent  permitted  by law,  such  provision or the
+application of such provision to Persons or circumstances other than those as to
+which it is held invalid or unenforceable  and in other  jurisdictions,  and the
+remaining provisions of this Agreement, shall not be affected.
+
+         13.9  Specific  Performance.  Each Party  agrees that one or more other
+Parties would be irreparably damaged if any provision of this Agreement were not
+performed in  accordance  with its  specific  terms or was  otherwise  breached.
+Therefore,  the Parties agree that each Party shall be entitled to an injunction
+or  injunctions  to prevent  breaches of this Agreement or any of its provisions
+and to  specifically  enforce this Agreement and its terms and provisions in any
+action  instituted in any court of the United States or any state thereof having
+subject  matter  jurisdiction,  in addition to any other remedy to which a Party
+may be entitled, at law or in equity.
+
+         13.10 Joint Drafting. This Agreement and its Exhibits have been jointly
+drafted by the Parties and their counsel.  Neither this Agreement nor any of its
+Exhibits shall be construed against any Party based on its authorship.
+
+         13.11 Captions.  The article and section headings in this Agreement are
+for convenience only, and shall not affect the meaning or interpretation of this
+Agreement.
+
+         13.12  No   Third-Party   Beneficiaries.   There  are  no   third-party
+beneficiaries  of this Agreement,  except that the respective  Affiliates of the
+Parties  are  entitled  to  the  benefits  of  the  respective   indemnification
+obligations of the Parties under Article XI.
+
+                                       22
+<PAGE>
+
+
+         IN WITNESS WHEREOF, the Parties have duly executed this Agreement,  all
+as of the date first written above.
+                             LASV:
+
+                                            LASV ENTERPRISES INC.
+
+                                            By: /s/ Timothy Metz
+                                            --------------------------
+                                                 Timothy Metz, President
+
+                                            DCT COMBINATION, INC.:
+
+                                            By: /s/ authorized signatory
+                                            Name:
+                                            Title:
+
+                             DCT:
+
+                                            D.C.T. CORPORATION LTD.
+
+                                            By:  /s/ authorized signatory
+                                            Name:
+                                            Title:
+
+
+
+                                       23
+
+</TEXT>
+</DOCUMENT>

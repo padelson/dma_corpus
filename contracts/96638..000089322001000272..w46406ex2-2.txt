@@ -1,1138 +1,1570 @@
- MORTGAGE LOAN PURCHASE and SALE
-AGREEMENT.02/23/2001    1  Exhibit 2.2   MORTGAGE LOAN PURCHASE AND SALE
-AGREEMENT    This Mortgage Loan Purchase and Sale Agreement (this "Loan
-Purchase Agreement" or "MLPA") is made as of February 23, 2001, by and among
-CHASE MANHATTAN BANK USA, NATIONAL ASSOCIATION (the "Purchaser" or "Chase"),
-Chase Manhattan Mortgage Corporation ("CMMC"), ADVANTA CORP. (the "Company"),
-and the selling subsidiaries set forth on Exhibit E (collectively the
-"Selling Subsidiaries" or the "Seller").    BACKGROUND   Purchaser
-wishes to purchase from the Selling Subsidiaries, and the
-Selling Subsidiaries wish to sell to Purchaser, on the terms and conditions
-contained in this Loan Purchase Agreement, the mortgage loans (including
-HELOCs) identified in Exhibit A attached hereto. The Company and Chase
-Manhattan Mortgage Corporation ("CMMC") are parties to a Purchase and Sale
-Agreement (the "Purchase and Sale Agreement"), dated as of January 8, 2001,
-providing for the sale by the Company and the Selling Subsidiaries (as
-defined therein) to CMMC and certain affiliates of CMMC of the Assets and
-certain liabilities relating to the Business.   In consideration of the
-mutual promises, covenants, and agreements contained herein, the parties
-agree as follows:   ARTICLE I  DEFINITIONS   SECTION 1.1. All capitalized
-terms used in this Loan Purchase Agreement but not otherwise defined herein
-shall have the same meanings ascribed to such words in the Purchase and Sale
-Agreement. As used in this Loan Purchase Agreement, the following capitalized
-terms shall have the following meanings, unless the context requires
-otherwise:   "ACCEPTED SERVICING PRACTICES": With respect to any Mortgage
-Loan, those mortgage servicing practices (including collection practices) of
-prudent mortgage banking institutions which service mortgage loans of the
-same type as such Mortgage Loan in the jurisdiction where the related
-Property is located.   "ASSIGNMENT OF MORTGAGE": An assignment of the
-Mortgage, notice of transfer or equivalent instrument (which, in each
-jurisdiction where permitted under applicable law, shall include a blanket
-assignment) sufficient under the laws of the jurisdiction wherein the related
-collateral is located to reflect of record the transfer of the Mortgage Loan
-to Chase or one of its affiliates "in blank."   "CLOSED END PERFORMING
-LOANS": All closed end Mortgage Loans (other than Corporate Finance Loans),
-including the Off-Balance Sheet Loans in the Morgan Stanley Warehouse
-Facility and closed end Mortgage Loans owned by the Company and the  1 
-2 Selling Subsidiaries that, as of the Cut-Off Date are not Non-Performing
-Loans or Unsalable Loans.   "CORPORATE FINANCE LOANS": Mortgage Loans
-acquired by a Selling Subsidiary under the Corporate Finance Agreements.  
-"CORPORATE FINANCE RESERVE AMOUNT": The amount reserved on the balance sheet
-of the Seller on the date of Closing under the Purchase and Sale
-Agreement relating to Corporate Finance Loans, which amount shall, upon the
-Closing under the Purchase and Sale Agreement, become the property of
-Purchaser. Such reserve amount shall, upon any Loss incurred by Purchaser
-relating to a Corporate Finance Loan, be reduced by the amount of such
-Loss.   "CREDIT FILE": All documentation required by Chase for underwriting
-review as set forth in the Exhibit C hereto.   "CREDIT LINE AGREEMENT":
-With respect to any Mortgage Loan that is a HELOC, the related home equity
-line of credit agreement or promissory note executed by the related Mortgagor
-and any amendment or modification thereof.   "CUT-OFF DATE": The close of
-business on January 31, 2001 or such other date as shall be mutually agreed
-upon by the parties hereto.   "ELECTRONIC DATA FILE": An electronic file
-that provides data on a loan level basis with respect to the following
-fields: Loan Number, Alt Loan Number, Pricing Category, Last Name, Current
-UPB, Credit Limit (for HELOCs), Original CLTV, Current Note Rate, Product
-Type or Interest Method, Original Term, Maturity Date, Lien, Funding Date or
-Note Date, Pre-Payment Penalty (Closed-end only)(Y/N) (if applicable), Pre-
-Pay Code (Closed-end only), Life Cap (HELOC only) (if applicable), Life Floor
-(if applicable), State, Maximum Rate (Closed End), Minimum Rate (Closed End),
-Pricing Category, Margin (if applicable), Index (if applicable), Draw Period
-(HELOC only) and such other fields as may be reasonably requested by
-Chase.   "HELOC": A Mortgage Loan that is a home equity line of credit.  
-"HELOC PERFORMING LOANS": All HELOCs, including the Off-Balance Sheet
-Loans in the Morgan Stanley Warehouse Facility, and any HELOCs owned on-
-balance sheet by the Company and the Selling Subsidiaries that, as of the
-Cut-Off Date are not Non-Performing Loans or Unsalable Loans.    "INVESTOR
-RIGHTS": Any and all rights and privileges associated with the ownership of a
-Mortgage Loan, including but not limited to the right to receive all payments
-of principal and interest paid by a Mortgagor.   "LETTER AGREEMENT": The
-Mortgage Loan Purchase Price and Terms Letter, dated as  2  3 of January
-8, 2001, by and between CMMC and the Company.   "LOANS": The Performing
-Loans, the Corporate Finance Loans, the Unsalable Loans and the Non-
-Performing Loans as set forth in the Mortgage Loan Schedule.   "LOAN FILE":
-All documentation required for a Mortgage Loan as set forth in Exhibit D
-hereto.   "LOSSES": Any and all claims, losses, liabilities, costs, fines,
-expenses (including reasonable expenses for attorneys or other expenses of
-litigation, arbitration or other similar proceedings), damages, obligations
-to third parties, expenditures, proceedings, judgements, awards, settlements
-or demands that are imposed upon or otherwise incurred, suffered or sustained
-by the relevant party.   "MLPA CLOSING DATE": February 23, 2001 or such
-other date as shall be mutually agreed upon by the parties hereto, but in no
-event shall the MLPA Closing Date be later than the date on which the
-"Closing" occurs under the Purchase and Sale Agreement.   "MORTGAGE": The
-mortgage, deed of trust or other security instrument creating a first or
-junior lien on an interest in real property securing a Note or, in the case
-of HELOCs, securing each Credit Line Agreement.   "MORTGAGE LOAN(S)": The
-mortgage loans (including HELOCs) identified on the Mortgage Loan Schedule.
-The term "Mortgage Loan" includes any Mortgage Loan which is a Non-Performing
-Mortgage Loan, which relates to a foreclosure or which relates to a Property
-which is an REO Property prior to such Property\'s disposition.   "MORTGAGE
-LOAN SCHEDULE": The schedule of Mortgage Loans set forth in Exhibit A hereto.
-The Mortgage Loan Schedule will contain the following information as to each
-Mortgage Loan: (i) the Mortgage Loan identifying number; (ii) the street
-address of the Property including the city, state and zip code; (iii) an
-indication of whether the Property is owner-occupied; (iv) the property type
-of the Property; (v) the maturity date; (vi) the original loan-to-value ratio
-or combined loan-to-value ratio, as applicable; (vii) the original principal
-balance of the Mortgage Loan or in the case of a HELOC, the maximum amount of
-the line of credit; (viii) the unpaid principal balance of the Mortgage Loan
-as of the close of business on the Cut-off Date; (ix) the current mortgage
-rate; (x) the amount of the current monthly payment (or, in the case of a
-HELOC, the amount of the most recent payment); (xi) the loan type, i.e.,
-fixed rate or adjustable rate; (xii) type of lien, i.e., first or second
-lien; (xiii) whether such Mortgage Loan is a closed end loan or open end
-loan; (xiv) the next due date; (xv) whether such Mortgage Loan is a "Section
-32 loan;" and (xvi) a designation as to which pricing category and
-subcategory identified in Column A of Exhibit B applies to such Mortgage
-Loan.   "MORTGAGOR(S)": The maker(s), obligor(s) and/or guarantor(s) of a
-Note.   "NON-PERFORMING LOANS": All Mortgage Loans (other than Corporate
-Finance  3  4 Loans) that, as of the Cut-off Date (i) are 61 days or more
-delinquent calculated by the number of days elapsed from the last payment
-date to the Cut-Off Date, (ii) have been 61 days delinquent 2 or more times
-in the 12 months immediately prior to the Cut-Off Date, (iii) have been 91
-days delinquent in the 12 months immediately prior to the Cut-Off Date and
-(iv) REO properties. For purposes of clause (i), with respect to any closed
-end Mortgage Loan for which a monthly payment due on December 1, 2000 has not
-been received as of the Cut-Off Date (but for which all monthly payments due
-prior to December 1, 2000 have been received), such Mortgage Loan shall not
-be considered 61 days or more delinquent as of the Cut-Off Date (but shall be
-considered 31-60 days delinquent).   "NOTE" OR "MORTGAGE NOTE": The
-promissory note or, with respect to a HELOC, the Credit Line Agreement, of a
-Mortgagor secured by a Mortgage.   "OFF-BALANCE SHEET LOANS": The meaning
-set forth in the Purchase and Sale Agreement.   "PERFORMING LOANS": All
-Closed End Performing Loans and HELOC Performing Loans.   "PRICING
-CATEGORY": With respect to Closed End Loans and Open-end (HELOC) Loans,
-Morgan Facility Closed-end Loans and Morgan Facility Open-end Loans each of
-the following pricing categories identified in Column A of Exhibit
-B: Performing Loans; Corporate Finance Loans; Unsalable Loans; and Non-
-Performing Loans, and each of the subcategories relating to such categories
-.   "PRICING CATEGORY PRICE PERCENTAGE": As to each Pricing Category,
-the percentage identified in Column B of Exhibit B.   "PRICING CUT-OFF
-DATE": November 30, 2000.   "PROPERTY": The underlying property securing a
-Mortgage Loan.   "PURCHASE AND SALE AGREEMENT": The Purchase and Sale
-Agreement between Advanta Corp. and Chase Manhattan Mortgage Corporation,
-dated as of January 8, 2001.   "SECURITIZABLE LOANS": The Off-Balance Sheet
-Loans, Mortgage Loans held on-balance sheet that satisfy the representations
-and warranties in Section 4.2(a), or other Mortgage Loans held on-balance
-sheet that are similar to mortgage loans securitized by the Selling
-Subsidiaries in recent Company-Sponsored Mortgage Loan Securitization
-Transactions or which meet the criteria established by one or more
-independent rating agencies.   "SERVICING AGREEMENT": As defined in Section
-7.1.   "SERVICING FEE": As defined in Section 7.1.  4  5  "SERVICING
-RIGHTS": All rights to service Mortgage Loans.   "SUBSERVICER": Advanta
-Mortgage Corp. USA.   "UNSALABLE LOANS": All Mortgage Loans that are not
-Securitizable Loans, Corporate Finance Loans or Non-Performing Loans.
-Unsalable Loans shall include bankruptcies which do not meet the definition
-of Non-Performing Loans (i.e., "current bankruptcies") and Mortgage Loans
-that as of the Cut-Off Date have legal deficiencies or credit deficiencies
-which prevent sale to a securitization and which deficiencies remain
-uncorrected through the MLPA Closing Date.    ARTICLE II  SALE OF LOANS;
-PRICING; DUE DILIGENCE   SECTION 2.1. SALE OF LOANS   (a) On the Purchase
-Date, or such other date as may be mutually agreed upon by the parties hereto
-but in no event later than the Closing Date under the Purchase and Sale
-Agreement (the "Settlement Date"), the Selling Subsidiaries shall sell or
-cause to be sold, and Purchaser shall purchase, the Mortgage Loans described
-in Exhibit A attached hereto. If for any reason the Company is unable to sell
-the Off-Balance Sheet Loans, then, at Chase\'s option, either this
-Loan Purchase Agreement may be terminated by Chase giving written notice
-thereof to the Company, without further liability on the part of any party
-hereto, or the Mortgage Loans other than the Off-Balance Sheet Loans shall be
-sold in accordance with the terms of this Loan Purchase Agreement. The
-Corporate Finance Loans which are part of the Mortgage Loans will be sold to
-Buyer subject to the terms of the Corporate Finance Agreements.   (b) The
-aggregate amount of Mortgage Loans that will be purchased by Purchaser will
-be the actual outstanding principal balance at the close of business on the
-Cut-Off Date. In the event that the Closing occurs under the Purchase and
-Sale Agreement on February 28, 2001, the Purchaser shall pay to Seller an
-amount equal to the aggregate additional draws on HELOCs that are funded by
-the Company or a Selling Subsidiary from the Cut-Off Date through
-and including February 28, 2001; in the event that the Closing does not occur
-under the Purchase and Sale Agreement on February 28, 2001, the March, 2001
-remittance from Subservicer to Purchaser pursuant to the Servicing Agreement
-will be reduced by an amount equal to the aggregate additional draws on
-HELOCs that are funded by the Company or a Selling Subsidiary from the Cut-
-Off Date through and including February 28, 2001. In the event that the
-Closing occurs under the Purchase and Sale Agreement on March 31, 2001, the
-Purchaser shall pay to Seller an amount equal to the aggregate additional
-draws on HELOCs that are funded by the Company or a Selling Subsidiary from
-March 1, 2001 through and including March 31, 2001. To the extent that the
-Closing under the Purchase and Sale Agreement does not occur on or before by
-March 31, 2001, each remittance from Subservicer to Purchaser pursuant to the
-Servicing Agreement from April 2001 and thereafter shall be reduced by  5 
-6 an amount equal to the aggregate additional draws on HELOCs that are funded
-by the Company or a Selling Subsidiary during the calendar month
-immediately preceding the month of such remittance date. To the extent that
-the Closing under the Purchase and Sale Agreement does not occur on or before
-March 31, 2001, Purchaser and Seller shall agree on a mutually satisfactory
-arrangement whereby Purchaser shall assume responsibility for funding draws
-on HELOCs made after such date and in any event Purchaser shall assume such
-responsibility not later than June 1, 2001. Purchaser shall be entitled to
-all collections of principal and interest on the Mortgage Loans after the
-Cut-off Date.   SECTION 2.2. PRICING.   (a) The purchase price (the "MLPA
-Purchase Price") for the Mortgage Loans shall be calculated as set forth in
-Schedule 1 attached hereto. On the MLPA Closing Date, in addition to the MLPA
-Purchase Price, Purchaser shall pay to Seller an amount of accrued interest,
-calculated from the date interest was last paid for each Mortgage Loan (other
-than Non-Performing Loans) through and including the day prior to the MLPA
-Closing Date, net of the applicable subservicing fee ("Accrued Interest").
-Seller shall provide to Purchaser a detailed reconciliation of the
-calculation of accrued interest on HELOCs within 30 days of the MLPA Closing
-Date. Purchaser shall not pay Accrued Interest on Non-Performing Loans. On
-the MLPA Closing Date, Purchaser shall pay to Seller an amount equal to the
-MLPA Purchase Price (less applicable amounts subject to the ARM Holdback,
-Document Holdback and CF Holdback pursuant to paragraph 3(b) below) plus
-Accrued Interest (as described above). Seller acknowledges that Purchaser has
-relied upon the Electronic Data File and other supplementary materials
-relating to the Electronic Data File provided by or on behalf of Seller with
-respect to the Mortgage Loans (the "Offering Materials") in connection with
-the transactions contemplated hereby. If at any time prior to the day that is
-one hundred and eighty (180) days following the MLPA Closing Date, either
-Purchaser or Seller believes that the amount paid by Purchaser to Seller on
-the MLPA Closing Date was calculated in error, Purchaser or Seller, as the
-case may be, shall give written notice of such error to the other. In
-the event that the Closing occurs under the Purchase and Sale Agreement, any
-such discrepancy shall be resolved in accordance with Section 1.05 of the
-Purchase and Sale Agreement; in the event that no such Closing occurs, Seller
-and Purchaser agree to attempt to resolve any such discrepancy promptly and
-in good faith, with any agreed to adjustment being paid over to the
-appropriate party promptly in immediately available funds.   (b) An ARM
-Holdback, a Document Holdback and a CF Holdback shall be withheld by
-Purchaser from the MLPA Purchase Price. The amount withheld for the ARM
-holdback shall be $31,185. The amount withheld for the Document
-Holdback shall be determined on the basis of a Document Report (as defined in
-the Purchase and Sale Agreement) relating solely to the Mortgage Loans and
-delivered to Purchaser two Business Days prior to the MLPA Closing Date at
-the rate of $55.00 for each document that is categorized in Schedule 2 as
-being subject to the Document Holdback. With respect to the Corporate Finance
-Loans, there shall be an amount withheld (the "CF Holdback") that is equal to
-the difference between (a) the portion of the MLPA Purchase  6  7 Price
-attributable to the Corporate Finance Loans, as calculated in accordance with
-Schedule 1, and (b) what the purchase price for the Corporate Finance
-Loans would have been if Corporate Finance Loans that would otherwise meet
-the definition of Non-Performing Loans or Unsalable Loans, except for the
-fact that Corporate Finance Loans are excluded from such definitions, had
-been priced in the Pricing Categories for Non-Performing Loans and Unsalable
-Loans, respectively, taking into account that Accrued Interest is not paid by
-the Purchaser on Non-Performing Loans; provided that, for purposes of the
-preceding sentence only, Corporate Finance Loans with a limited or no
-appraisal in the credit file shall be priced as Unsalable Loans and the
-difference shall be included in the CF Holdback..   The provisions of
-Sections 1.05(l) and (m) of the Purchase and Sale Agreement relating to the
-ARM Holdback and the Document Holdback and the release of such holdbacks are
-hereby incorporated by reference into this Loan Purchase Agreement. The
-amount of the CF Holdback plus accrued interest at a rate equal to the "Fed
-Funds" rate shall be paid to Seller on the date that Closing under the
-Purchase and Sale Agreement occurs, if such Closing occurs.   (c)
-Notwithstanding anything to the contrary contained in this Loan Purchase
-Agreement, the Company may, at its sole option, terminate this Loan Purchase
-Agreement by written notice thereof given to CMMC at any time prior to the
-Purchase Date, without any liability, if prior to such time the Purchase
-and Sale Agreement has been terminated for any reason.   SECTION 2.3. DUE
-DILIGENCE.   (a) The Company and the Purchaser acknowledge that the
-classification of the Mortgage Loans on Exhibit B hereto differs from the
-classification of the Mortgage Loans that was attached to the Letter
-Agreement. Such differences reflect the reclassification of certain Mortgage
-Loans which occurred based upon the Purchaser\'s due diligence in accordance
-with Paragraph 8 of the Letter Agreement, together with certain other updated
-information to which the parties hereto shall have agreed.   (b) Based on
-Purchaser\'s due diligence, the parties agree that certain missing or
-defective documentation ("Legal File Exceptions") shall cause a Loan to be
-reclassified into the Unsalable Loan category. The Legal File Exceptions that
-cause such reclassification of a Mortgage Loan are specified in Schedule
-2 and are referred to herein as "Unsalable Exceptions".   (c) Based on
-Purchaser\'s due diligence, Purchaser identified a total of [542] Mortgage
-Loans with missing title policies or title policy exceptions that were
-categorized by Purchaser as "Title Policy Missing/Incorrect"
-(collectively, the "Title Policy Exceptions"). Such Loans are identified on
-Schedule 4. The Company has engaged an independent third party vendor to cure
-the Title Policy Exceptions noted by Purchaser in its due diligence. Two
-Business Days prior to the MLPA Closing Date, the Company will provide
-Purchaser with a status report identifying which title policy  7 
-8 exceptions have been corrected as of such date (the "Corrected Title
-Policies"). On the MLPA Closing Date, the Company shall indicate on Schedule
-4 (i) those Mortgage Loans for which Title Policy Exceptions remain as of the
-MLPA Closing Date and (ii) those Loans which are Corrected Title Policies.
-The parties agree that all loans with Corrected Title Policies and no
-Unsalable Exceptions shall be priced as Performing Loans in accordance with
-Exhibit B. With respect to the remainder of the Mortgage Loans with Title
-Policy Exceptions that have not yet been corrected, the parties agree that
-such Mortgage Loans shall be priced as Unsalable Loans in accordance with
-Exhibit B; provided, however, that the Company shall have 60 days following
-the MLPA Closing Date (the "Post-Closing Cure Period") to correct any Title
-Policy Exceptions that were uncorrected as of the MLPA Closing Date. Upon
-correction of a Title Policy Exception during the Post-Closing Cure Period,
-the Company may, on the twentieth, fortieth, or sixtieth day of such Post-
-Closing Cure Period (or, if any such day is not a Business Day, on the next
-succeeding Business Day), provide documentation in writing to Purchaser
-showing that, with respect to the Mortgage Loans identified in such
-documentation, all exceptions have been cured ("Cure Documentation"). Upon
-receipt of such Cure Documentation, Purchaser shall have 20 days in which to
-verify that such exceptions have been cured to its satisfaction
-(the "Verification Period"). With respect to all Mortgage Loans which the
-Purchaser has verified that all exceptions have been cured to its
-satisfaction, Purchaser shall, not later than the fifth Business Day
-following the end of the applicable Verification Period, pay to the Company
-an amount equal to the difference between what Purchaser paid for such
-Mortgage Loans on the MLPA Closing Date and what Purchaser would have paid
-for such Mortgage Loans if they had been priced as Performing Loans on the
-MLPA Closing Date. To the extent that during the Post-Closing Cure Period
-Purchaser provides documentation satisfactory to the Company in writing that
-with respect to any Mortgage Loan that was deemed to have a Corrected Title
-Policy on the MLPA Closing Date, the exception noted by Purchaser in its due
-diligence had not in fact been cured (such written notice to specifically
-identify the exception that was not corrected), Purchaser shall be entitled
-to offset the amount payable to the Company pursuant to the preceding
-sentence, by an amount equal to the difference between what Purchaser paid
-for such Mortgage Loans on the MLPA Closing Date and what Purchaser
-would have paid for such Mortgage Loans had they been priced as Unsalable
-Loans on the MLPA Closing Date (or, if the funds available for offset are
-insufficient to cover such amount, the Company shall pay the Purchaser any
-shortfall amount within five Business Days of written notice demanding
-payment for such shortfall).   (d) As of the date of this Loan Purchase
-Agreement, there are 128 Mortgage Loans with missing credit files and 79
-Mortgage Loans with missing credit documents (such 207 Mortgage Loans
-referred to herein collectively as, the "Credit File Exception Loans"), and
-32 Mortgage Loans with withdrawn legal files (the "Withdrawn Legal File
-Loans"), which Loans are listed on Schedules 5a, 5b and 5c respectively,
-attached hereto. The parties agree that all Credit File Exception Loans and
-Withdrawn Legal File Loans shall be priced as Unsalable Loans as of the MLPA
-Closing Date. If any of the 207 missing credit files or missing credit
-documents or any of the 32 withdrawn legal files are located during the Post-
-Closing Cure Period, Purchaser shall review the located credit  8  9 files
-or credit documents or legal files, as the case may be, and the
-related Mortgage Loans shall, if applicable, be repriced as Performing Loans
-based on the same criteria that were used to price Mortgage Loans with credit
-files that were reviewed prior to the MLPA Closing Date or Mortgage Loans
-with complete legal files prior to the MLPA Closing Date, as the case may be,
-upon Purchaser\'s satisfaction that such criteria have been met (the Mortgage
-Loans that are to be repriced in accordance with this and the preceding
-sentence being referred to collectively as either, the "Cured Credit File
-Loans" or the "Cured Legal File Loans", as the case may be). On the fifth
-Business Day following the end of the Post-Closing Cure Period, Purchaser
-shall pay to the Company an amount equal to the difference between what
-Purchaser paid for the Credit File Exception Loans and Withdrawn Legal File
-Loans, as the case may be, on the MLPA Closing Date and what Purchaser would
-have paid for the Credit File Exception Loans and Withdrawn Legal File Loans,
-as the case may be, on such date had the Cured Credit File Loans and Cured
-Legal File Loans been priced as Performing Loans on the MLPA Closing Date. In
-addition, on the fifth Business Day following the end of the Post-Closing
-Cure Period, Purchaser shall pay to the Company an amount equal to $220 with
-respect to each Cured Legal File Loan.   (e) With respect to the 30 Loans
-listed on Schedule 6 attached hereto, the Purchase Price for each such Loan
-shall be reduced by $350 to account for missing appraisals.   ARTICLE III 
-DELIVERY AND PAYMENT   SECTION 3.1. DELIVERY OF MORTGAGE LOANS. On the MLPA
-Closing Date and upon payment of the MLPA Purchase Price, ownership of the
-Mortgage Loans and the related Loan Files shall transfer to Chase and Seller
-shall instruct the custodian of the Loan Files to deliver or release such
-Loan Files to Chase whereupon the custodian shall hold such Loan Files as
-custodian for Chase pursuant to a custodian agreement to be entered into
-between Chase and the custodian of the Loan Files.   SECTION 3.2.
-[Reserved]   SECTION 3.3. INVESTOR RIGHTS AND SERVICING RIGHTS. The purchase
-price of each Mortgage Loan shall include all Investor Rights and Servicing
-Rights and benefits pertaining to such Mortgage Loan accruing from and after
-the MLPA Closing Date as well as the right to receive all collections of
-principal and Accrued Interest (together with all accrued interest on any
-Non-Performing Loans) on the Mortgage Loans after the Cut-off Date. Seller
-shall execute and deliver documentation (other than assignments and
-endorsements in accordance with Section 3.6 hereof), as outlined herein, to
-transfer all Investor Rights and Servicing Rights accruing from and after the
-MLPA Closing Date from Seller to Chase free and clear of all claims, liens
-and encumbrances, and to enable Chase (or its designated representative) to
-own, sell and service such Mortgage Loan. Seller hereby covenants to provide
-to Chase any additional documentation reasonably requested by Chase for such
-purposes.  9  10  SECTION 3.4 INSPECTION OF MORTGAGE LOAN FILES. Chase
-reserves the right to inspect all Loan Files and Credit Files and satisfy
-itself that all Mortgage Loans comply with Seller\'s representations
-concerning the Mortgage Loans; however, no such inspection shall minimize any
-rights to recovery under the terms of this Loan Purchase Agreement. All
-Mortgage Loans that are not Unsalable Loans shall have a Loan File and Credit
-File that are complete in all material respects, consistent with Industry
-Practice.   SECTION 3.5 [Reserved]   SECTION 3.6 RECORDATION OF
-ASSIGNMENTS OF MORTGAGE. All Assignments of Mortgage and endorsements will be
-prepared by Purchaser in accordance with commercially reasonable terms and
-conditions. Purchaser will record such assignments in those jurisdictions
-where Purchaser deems appropriate. Seller shall provide one or more powers of
-attorney, in the form of Exhibit A-3 hereto with respect to each of the
-entities listed on Exhibit E hereto, to the Purchaser for the purpose of
-preparing and recording such Assignments of Mortgage. Purchaser shall deduct
-$25 per Mortgage Loan (but only for those Mortgage Loans with respect to
-which the related Property is located in one of the states listed on Exhibit
-F hereto) from the MLPA Purchase Price to cover the cost of the recordation
-referred to in this Section 3.6.    ARTICLE IV  REPRESENTATIONS,
-WARRANTIES AND  COVENANTS OF SELLER    SECTION 4.1 REPRESENTATIONS AND
-WARRANTIES REGARDING THE SELLING SUBSIDIARIES. Except as set forth in the
-Company Disclosure Schedule delivered to CMMC prior to the execution of the
-Purchase and Sale Agreement, as such Disclosure Schedule shall be updated in
-accordance with the requirements of the Purchase and Sale Agreement, each of
-the Selling Subsidiaries represents and warrants to Chase as of the date of
-execution of this Loan Purchase Agreement through and as of the MLPA Closing
-Date, the following:   A. The Company and each Selling Subsidiary is a
-corporation, industrial loan corporation or national banking association, as
-set forth in Section 4.01 of the Company Disclosure Schedule, duly organized
-and validly existing under the laws of the jurisdiction of its formation or a
-banking organization duly chartered by its chartering authority. Each of the
-Company and Selling Subsidiaries is duly qualified as a foreign corporation
-to conduct its business in the states of the United States and any foreign
-jurisdictions where it is required to be so qualified other than those where
-the failure to be so qualified is not material;   B. The Company and each
-Selling Subsidiary has the full power and authority and legal right to hold,
-transfer and convey each Mortgage Loan, to sell each Mortgage Loan, and to
-execute, deliver and perform, and to enter into and consummate all
-transactions contemplated by this Loan Purchase Agreement. The execution and
-delivery  10  11 of this Loan Purchase Agreement and the consummation of
-the transactions contemplated hereby have been duly and validly authorized by
-the Board and no other corporate proceedings on the part of the Company or
-any Selling Subsidiary are necessary to authorize the execution, delivery or
-performance of this Loan Purchase Agreement. The Company and each Selling
-Subsidiary has the full power and authority to conduct its business as
-presently conducted, has duly authorized the execution, delivery and
-performance of this Loan Purchase Agreement and any agreements contemplated
-hereby, has duly executed and delivered this Loan Purchase Agreement, and any
-agreements contemplated hereby, and this Loan Purchase Agreement and any
-agreements contemplated hereby constitutes a legal, valid and binding
-obligation of the Company and each Selling Subsidiary, enforceable against it
-in accordance with its terms, and all requisite corporate action has been
-taken by the Company and each Selling Subsidiary to make this Loan Purchase
-Agreement and all agreements contemplated hereby valid and binding upon the
-Company and each Selling Subsidiary in accordance with their terms;   C.
-Neither the execution and delivery of this Loan Purchase Agreement by the
-Company and each Selling Subsidiary, nor the origination of the
-Mortgage Loans by the Company or the applicable Selling Subsidiary, the sale
-of the Mortgage Loans to Chase, the consummation of the transactions
-contemplated hereby, or the fulfillment of or compliance with the terms and
-conditions of this Loan Purchase Agreement will conflict with or result in
-any breach or violation of any of the terms, conditions or provisions of the
-Company or any Selling Subsidiary\'s charter or by-laws or conflict with or
-result in a material breach or violation of or a material default under (or
-require any consent of or notice to any Person) or give rise to any lien,
-right of termination, unilateral modification or amendment, or cancellation
-of any of the terms, conditions or provisions of any legal restriction or any
-agreement or instrument to which the Company or any Selling Subsidiary is now
-a party or by which they are bound, or constitute a default or result in an
-acceleration under any of the foregoing, or result in the material violation
-of any law, rule, regulation, statute, ordinance, order, judgment or decree
-to which the Company or any Selling Subsidiary or any of their properties are
-subject, or impair the ability of Chase to realize on the Mortgage Loans;  
-D. There is no litigation, suit, action, arbitration proceeding
-or investigation pending or threatened, or any order or decree outstanding,
-with respect to the Company or any Selling Subsidiary which, either in any
-one instance or in the aggregate, is reasonably likely to have a material
-adverse effect on the execution, delivery, performance or enforceability of
-this Loan Purchase Agreement, or which is reasonably likely to have a
-material adverse effect on the Company\'s or any Selling Subsidiary\'s
-ability to perform its obligations under this Loan Purchase Agreement or the
-Subservicer\'s obligations under the Servicing Agreement;   E. No consent,
-approval, authorization or order of any court or governmental or regulatory
-agency or body is required for the execution, delivery and performance by the
-Company or any Selling Subsidiary of or compliance by the Company or any
-Selling Subsidiary with this Loan Purchase Agreement, or the sale of the
-Mortgage Loans and delivery of the Credit Files and Loan Files to Chase or
-the consummation of the  11  12 transactions contemplated by this Loan
-Purchase Agreement, except for consents, approvals, authorizations and orders
-which have been obtained;   F. The Subservicer is an approved servicer of
-residential mortgage loans for FNMA and FHLMC, with such facilities,
-procedures and personnel necessary for servicing of such mortgage loans in
-accordance with Accepted Servicing Practices. The Subservicer has serviced
-the Mortgage Loans in accordance with Accepted Servicing Practices;   G.
-The Offering Materials are true and correct in all material respects; and  
-H. The representations and warranties in Exhibit A-1 hereto are in
-all material respects similar to the representations and warranties which
-the Company or any applicable Affiliate of the Company has made in
-recent Company-Sponsored Mortgage Loan Securitization Transactions (except
-with respect to representations and warranties relating to underwriting).  
-SECTION 4.2 REPRESENTATIONS AND WARRANTIES AS TO INDIVIDUAL
-MORTGAGE LOANS.   (a) With respect to each Securitizable Loan and Corporate
-Finance Loan that is a Securitizable Loan originated or acquired by such
-Selling Subsidiary, as identified in the Mortgage Loan Schedule, such Selling
-Subsidiary shall provide the representations and warranties set forth in
-Exhibit A-1 hereto.   (b) With respect to each Unsalable Loan, each Non-
-Performing Loan and each Corporate Finance Loan that would be an Unsalable
-Loan or a Non-Performing Loan except for the fact that Corporate Finance
-Loans are excluded from the definitions of Unsalable Loan and Non-Performing
-Loan, originated or acquired by such Selling Subsidiary, as identified in the
-Mortgage Loan Schedule, such Selling Subsidiary such Selling Subsidiary shall
-provide the representations and warranties set forth in Exhibit A-2
-hereto.   (c) All of the representations and warranties set forth in this
-Article IV (including the representations and warranties set forth in Exhibit
-A-1 and Exhibit A-2 hereto) shall survive and continue in full force for the
-remaining life of the Mortgage Loan and are made for the benefit of Chase and
-its successors and assigns.   SECTION 4.3 COVENANT OF SELLER. Seller
-covenants and agrees with Chase that Seller shall notify Chase immediately if
-following the sale of any Mortgage Loan to Chase, Seller becomes aware of any
-fact or circumstance regarding any Mortgage Loan which would have caused any
-representation or warranty with respect to any Mortgage Loan to be
-incorrect.   ARTICLE V  REMEDIES/INDEMNIFICATION  12  13  SECTION 5.1
-BREACH OF REPRESENTATION OR WARRANTY.   (a) Except as set forth in paragraph
-5.1(b) below, each Selling Subsidiary shall provide indemnification of
-Purchaser from and against any Losses suffered, incurred or sustained by
-Purchaser resulting from any breach of any representation or warranty on the
-part of such Selling Subsidiary under this Loan Purchase Agreement. Upon
-sustaining a Loss, Purchaser shall give written notice to the Selling
-Subsidiary indicating that the Purchaser has sustained a Loss and specifying
-the amount of such Loss. Upon receipt of such notice, the indemnifying
-Selling Subsidiary shall have 30 days in which to investigate the cause of
-such Loss. The indemnifying Selling Subsidiary shall pay such indemnification
-to the Purchaser by wire transfer of immediately available funds as soon as
-such indemnifying Selling Subsidiary is satisfied as to the cause of such
-Loss and, unless there is a reasonable disagreement as to the cause of
-such Loss, not later than the tenth Business Day after the expiration of the
-30 day period referred to above; provided, however, that in the case of any
-Loss relating to a Corporate Finance Loan, the indemnifying Selling
-Subsidiary shall only be required to indemnify Purchaser as provided in this
-Section if Purchaser has provided written notice to Seller that the Corporate
-Finance Reserve Amount has been reduced to zero. Except as set forth in
-paragraph 5.1(b) below, upon discovery of a breach of any of the
-representations and warranties or of the covenants contained in this Loan
-Purchase Agreement, the party discovering such breach shall give written
-notice to the other. Pursuant to the provisions of Section 8.9 hereof, Chase
-shall reasonably cooperate with the Company\'s or the Selling Subsidiary\'s
-attempt to cure any such breach.   With respect to those representations and
-warranties in Exhibit A-1 or A-2 which include a knowledge qualifier ("to the
-best knowledge of such Selling Subsidiary" or similar language), Seller shall
-indemnify Purchaser for a breach of the underlying representation and
-warranty pursuant to the indemnification provisions as if the knowledge
-qualifier was omitted and did not apply.   (b) On the Cut-Off Date, Seller
-shall deliver to Purchaser a schedule of exceptions to the representations
-and warranties in Exhibit A-2 with respect to the Unsalable Loans and the
-Non-Performing Loans. Such Schedule shall be attached hereto as Schedule 3.
-Any items scheduled as exceptions to the representations and warranties under
-(iii), (iv), (vii) and (xii) of Exhibit A-2 shall be deemed to be
-"Enforceability Exceptions" except to the extent that the scheduled exception
-does not have a material adverse effect on the validity or enforceability of
-the underlying Note or Mortgage. Scheduled exceptions to all other
-representations and warranties on Exhibit A-2 that have a material
-adverse effect on Purchaser\'s ability to realize the value of the Mortgage
-Loan shall be deemed to be "Non-Enforceability Exceptions."   (i) Non-
-Enforceability Exceptions. With respect to Mortgage Loans that are Unsalable
-Loans, Non-Enforceability Exceptions shall be acceptable to Purchaser and
-shall not result in either a request by Purchaser for indemnification or an
-adjustment to the MLPA Purchase Price but only if the total unpaid principal
-balance as of the Cut-Off Date of the affected Unsalable Loans (the "Non-
-Enforceability Exception Loans") does  13  14 not exceed ten percent (10%)
-of the total unpaid principal balances of all Unsalable Loans as of the Cut-
-Off Date (the "Exception Loan Threshold"). If, however, the total unpaid
-principal balances as of the Cut-off Date of the Non-Enforceability Exception
-Loans does exceed the Exception Loan Threshold, then Seller shall indemnify
-Purchaser with respect to the scheduled Non-Enforceability Exceptions in
-excess of the Exception Loan Threshold in accordance with Section 5.4. Non-
-Performing Loans with Non-Enforceability Exceptions shall be acceptable to
-Purchaser and shall not result in either a request by Purchaser for
-indemnification or an adjustment to the Purchase Price.   (ii)
-Enforceability Exceptions. With respect to Unsalable Loans
-with Enforceability Exceptions and Non-Performing Loans with
-Enforceability Exceptions, Seller shall indemnify Purchaser with respect to
-such Enforceability Exceptions in accordance with Section 5.4.   SECTION
-5.2 [Reserved]   SECTION 5.3 [Reserved]   SECTION 5.4 INDEMNIFICATION.  
-(a) Subject to the limitations set forth in Section 5.1, each of Selling
-Subsidiary, on the one hand, and Chase on the other hand, hereby agree to
-indemnify, save, and hold harmless the other, its successors and
-assigns, from and against any and all Losses resulting or arising from its
-breach of any representation or warranty, covenant or agreement. This
-indemnification shall survive any termination or cancellation of this Loan
-Purchase Agreement.   (b) Any and all Losses referred to in this Article V
-shall be computed on a net basis, after taking into account any amounts
-received by any party or its affiliates under any insurance policies or other
-amounts received under contracts, any tax deductions taken or other tax
-benefits received as a result of such Losses. The indemnified party or its
-affiliates shall exercise commercially reasonable good faith efforts to
-pursue all available insurance recoveries or claims or other contractual
-benefits.   (c) If, under any circumstances, a Selling Subsidiary fails to
-fulfill indemnification or other obligations pursuant to this Loan Purchase
-Agreement, the Company shall be obligated to fulfill such indemnification and
-other obligations on behalf of the Selling Subsidiary. If a Selling
-Subsidiary is required by the terms of this Loan Purchase Agreement to
-fulfill an indemnification or other obligation by or within a specific time
-period, and such Selling Subsidiary fails to do so, the Company shall be
-obligated to fulfill such indemnification or other obligation on behalf of
-such Selling Subsidiary within two (2) Business Days of the expiration of
-such time period.   (d) If, under any circumstances, Chase fails to fulfill
-indemnification or other obligations pursuant to this Loan Purchase
-Agreement, CMMC shall be obligated to fulfill such indemnification and other
-obligations on behalf of Chase. If Chase is required  14  15 by the terms
-of this Loan Purchase Agreement to fulfill an indemnification or other
-obligation by or within a specific time period, and Chase fails to do
-so, CMMC shall be obligated to fulfill such indemnification or other
-obligation on behalf of CMMC within two (2) Business Days of the expiration
-of such time period.    SECTION 5.5 REMEDIES NOT EXCLUSIVE. The remedies
-set forth in this Article V and in other sections of this Loan Purchase
-Agreement are in addition to and not to the exclusion of any and all rights
-and remedies available to Chase at law or in equity including specific
-performance.    ARTICLE VI [RESERVED]   ARTICLE VII  SERVICING  
-SECTION 7.1 SELLER TO ASSIGN SERVICING. (a) Seller hereby assigns
-and releases all Servicing Rights and responsibilities including without
-limitation, all rights to receive servicing fees and other servicing-related
-income and benefits, with respect to each Mortgage Loan purchased under this
-Loan Purchase Agreement to and for the benefit of Chase, as of the MLPA
-Closing Date. Seller acknowledges and agrees that Chase shall enjoy such
-Servicing Rights, all freely assignable, with no residual, contingent or
-other claims thereon remaining in Seller. Chase hereby agrees to assume the
-servicing obligations of the assigned Mortgage Loans on the MLPA Closing
-Date; provided, however, that the obligations of the Company and Seller set
-forth in this Loan Purchase Agreement shall survive such assignment as
-obligations of the Company and Seller.   (b) The Subservicer shall
-subservice the Mortgage Loans after the MLPA Closing Date in accordance with
-the terms of that certain Loan Servicing Agreement, dated as of July 17,
-1996, as amended, by and between Chase Manhattan Mortgage Corporation, as
-owner and master servicer, and Advanta Mortgage Corp. USA, as subservicer (as
-amended, the "Servicing Agreement"). In consideration of the Subservicer
-subservicing the Mortgage Loans in accordance with the Servicing Agreement,
-the Subservicer shall receive the Servicing Fee (as defined in the Servicing
-Agreement) in the manner and amount set forth in the Servicing Agreement (the
-"Servicing Fee"). Notwithstanding the foregoing, the set up fees in Section
-4.10(c) of the Servicing Agreement and the termination fees in Section
-6.15(c) of the Servicing Agreement shall not apply to the parties hereto.  
-SECTION 7.2 NON-SOLICITATION. The Seller and the Company each hereby agrees
-not to take any action or allow any action to be taken by any of
-its affiliates to solicit prepayment by any borrower. This non-
-solicitation provision shall be deemed to be on terms consistent with the
-non-solicitation provisions of Section 6.14 of the Purchase and Sale
-Agreement.  15  16  ARTICLE VIII  MISCELLANEOUS PROVISIONS   SECTION
-8.1 ASSIGNMENT. This Loan Purchase Agreement shall be binding upon and inure
-to the benefit of the parties hereto and any permitted assignees. Seller may
-not assign, or delegate any of its rights, duties, and/or
-obligations hereunder without the written permission of Chase which may be
-withheld in its sole discretion. Chase may assign this Loan Purchase
-Agreement to any affiliate without consent; provided that such affiliate
-agrees in writing to be bound by all of the terms, conditions and provisions
-contained in this Loan Purchase Agreement.   SECTION 8.2 RELATIONSHIP
-BETWEEN PARTIES. No exclusive relationship between Seller and Chase shall
-result from this agreement. Seller is an independent contractor and nothing
-herein shall be construed to make Seller a partner, joint venture, employee
-or agent of Chase. Seller shall not make any statement which leads any third
-party to reasonably believe that it is an agent of Chase, and shall have no
-authority to bind or make any representations on behalf of Chase. Seller
-shall not use or refer to Chase\'s name in any form of advertising, written
-materials or circulars except as may be required by law.   SECTION 8.3 NO
-THIRD PARTY BENEFITS. This Loan Purchase Agreement is made for the express
-benefit of Seller and Chase, not for the benefit or interest of any other
-persons or entities, and accordingly, no third party shall obtain or acquire
-any rights or interest in this Loan Purchase Agreement or by reason of the
-performance or failure of performance of either of the parties hereto or of
-their respective rights, privileges, duties or obligations
-arising hereunder.   SECTION 8.4 ENTIRE AGREEMENT. This Loan Purchase
-Agreement, the Purchase and Sale Agreement and the Servicing Agreement,
-including all exhibits and schedules attached hereto or thereto together with
-any addendum(s) attached hereto or thereto and executed by all parties
-constitute the entire understanding of the parties regarding the subject
-matter hereof and supersede all other prior disclosures, agreements and
-understandings, both written and oral, among the parties with respect to the
-subject matter hereof. Any additions, changes, amendments or modifications of
-this Loan Purchase Agreement must be in writing and executed by all of the
-parties hereto. The invalidity of any portion of this Loan Purchase Agreement
-shall not affect the remaining provisions.    SECTION 8.5 NOTICE. Any
-notice required to be given to a party hereto under the provisions of this
-Loan Purchase Agreement must be in writing and delivered either personally,
-by telecopy transmission, or by certified mail to the other party at the
-following addresses, or such other address as may hereafter be furnished to
-the other party by like notice:   If to Chase or CMMC:  c/o Chase Manhattan
-Mortgage Corporation  300 Tice Boulevard  16  17  Woodcliff Lake, New
-Jersey 07675  Facsimile: (201) 782-9084  Attention: Michael Katz   If to
-the Company or Seller:  c/o Advanta Corp.  Welsh and McKean Roads  Spring
-House, Pennsylvania 19477  Facsimile: 215-444-6403  Attention: Michael
-Coco  Any such demand, notice or communication hereunder shall be deemed to
-have been received on the date delivered to or received at the premises of
-the addressee (as evidenced, in the case of registered or certified mail, by
-the date noted on the return receipt).   SECTION 8.6 CAPTIONS. Paragraph or
-other headings contained in this Loan Purchase Agreement are for reference
-purposes only and shall not affect in any way the meaning or interpretation
-of this Loan Purchase Agreement.   SECTION 8.7 GOVERNING LAW. This Loan
-Purchase Agreement and the interpretation of its terms shall be governed by
-the laws of the State of Delaware without giving effect to its principles of
-conflicts of law. THE PARTIES WAIVE THEIR RIGHTS TO A JURY TRIAL IN ANY
-ACTION UNDER THIS LOAN PURCHASE AGREEMENT.   SECTION 8.8 COUNTERPARTS. This
-Loan Purchase Agreement may be executed in two or more counterparts, each of
-which shall be deemed to be an original and all of which, taken together,
-shall be deemed to be one Loan Purchase Agreement.   SECTION 8.9 COOPERATION
-IN CURING BREACHES OF REPRESENTATIONS AND WARRANTIES; ACCESS TO INFORMATION.
-After the closing under the Purchase and Sale Agreement Purchaser shall
-reasonably cooperate with the Company\'s or any Selling Subsidiary\'s attempt
-to cure any breach of a representation or warranty with respect to any
-Mortgage Loan. After the closing under the Purchase and Sale Agreement, the
-parties hereto shall comply with the provisions of Section 6.15 of the
-Purchase and Sale Agreement.   SECTION 8.10 CONFIDENTIALITY. Seller shall
-not, at any time during or following termination of this Loan Purchase
-Agreement, regardless of the manner, reason, time or cause of such
-termination, directly or indirectly disclose or furnish to any person not
-entitled to receive the same for the immediate benefit of Chase (except to
-the extent actually required in connection with any litigation between
-parties arising out of this Loan Purchase Agreement or by applicable law),
-any trade secrets or confidential information including, but not limited to,
-information related to Chase business operations, credit policies, procedures
-and customers. Once the Closing has occurred  17  18 under the Purchase
-and Sale Agreement, this Section 8.10 shall be subject to Section 6.14(d) of
-the Purchase and Sale Agreement which governs the use of "Confidential
-Business Information" and such Section 6.14(d) is incorporated herein by
-reference in its entirety.   18  19  IN WITNESS WHEREOF, each of the
-parties below has Loan Purchase Agreement to be executed as of the date and
-year first above written.    CHASE MANHATTAN BANK USA,  NATIONAL
-ASSOCIATION    BY: /s/ Eileen A. Lindblom 
-------------------------------  NAME: Eileen A. Lindblom  TITLE: Vice
-President    CHASE MANHATTAN MORTGAGE CORPORATION    BY: /s/ Eileen A.
-Lindblom  --------------------------------  NAME: Eileen A. Lindblom 
-TITLE: Vice President    ADVANTA CORP., FOR ITSELF AND ON BEHALF  OF THE
-SELLING SUBSIDIARIES    BY: /s/ William A. Rosoff 
---------------------------------  NAME: William A. Rosoff  TITLE: President
-and Vice Chairman    ADVANTA MORTGAGE CORP. USA,  AS SUBSERVICER   BY:
-/s/ William A. Rosoff  --------------------------------  NAME: William A.
-Rosoff  TITLE: President   19  20  Exhibit A-1  Representations and
-Warranties for Securitizable Loans and Corporate Finance Loans   With
-respect to each Securitizable Loan and Corporate Finance Loan originated or
-acquired by such Selling Subsidiary, as identified in the Mortgage Loan
-Schedule, such Selling Subsidiary hereby represents, warrants and covenants,
-as of the MLPA Closing Date, as follows:   (i) the information with respect
-to each Mortgage Loan set  forth in the Mortgage Loan Schedule is true and
-correct in all material  respects;   (ii) all of the original or certified
-documentation required  to be delivered to Purchaser pursuant to this Loan
-Purchase Agreement  (including all material documents related thereto) with
-respect to each  Mortgage Loan has been or will be delivered to Purchaser in
-accordance  with the terms of the Loan Purchase Agreement; each of the
-documents  and instruments specified to be included therein has been duly
-executed  and is in due and proper form, and each such document or instrument
-is  in a form generally acceptable to prudent mortgage lenders that 
-regularly originate or purchase mortgage loans comparable to the  Mortgage
-Loans for sale to prudent investors in the secondary market  that invest in
-mortgage loans such as the Mortgage Loans;   (iii) each Property is improved
-by a one-to-four family  residential dwelling, condominium or townhouse,
-which may include a  manufactured home which qualifies as eligible for
-inclusion in a REMIC;  provided, however, that no more than 10.0% by
-aggregate principal  balance of the Securitizable Loans and Corporate Finance
-Loans as of  the Cut-Off Date are leasehold mortgages;   (iv) each Mortgage
-is either a valid and subsisting first,  second or third lien of record on
-the Property, as reflected on the  Mortgage Loan Schedule, (subject in the
-case of any Junior Mortgage  Loan only to a Senior Lien on such Property) and
-subject in all cases  to the exceptions to title set forth in the Mortgage
-Loan\'s title  insurance policy, which exceptions are generally acceptable to
-banking  institutions in connection with their regular mortgage lending 
-activities, and such other exceptions to which similar properties are 
-commonly subject and which do not individually, or in the aggregate, 
-materially and adversely affect the benefits of the security intended  to be
-provided by such Mortgage;   (v) immediately prior to the transfer and
-assignment herein  contemplated, each Selling Subsidiary held good and
-indefeasible title  to, and was the owner of, each Mortgage Loan originated
-or acquired by  such Selling Subsidiary and conveyed by such Selling
-Subsidiary to  Purchaser; the Mortgage Loan was not subject to liens,
-charges,  mortgages, encumbrances or rights of others except liens which will
-be  released simultaneously with such transfer and assignment; and 
-immediately upon the transfer and assignment herein contemplated,  Purchaser
-will hold good and indefeasible title to, and be the sole  owner of, each
-Mortgage   21  21  Loan subject to no liens, charges, mortgages,
-encumbrances or rights of  others except liens which will be released
-simultaneously with such  transfer and assignment (and except, in the case of
-the Corporate  Finance Loans, subject to the Corporate Finance
-Agreements);   (vi) no Securitizable Loans and Corporate Finance Loans are 
-Non-Performing Loans as of the Cut-Off Date;   (vii) to the best knowledge
-of such Selling Subsidiary, there  is no delinquent tax or assessment lien on
-any Property, and each  Property is free of substantial damage and is in good
-repair;   (viii) to the best knowledge of such Selling Subsidiary, there 
-is no valid and enforceable right of rescission, offset, defense or 
-counterclaim to any Note or Mortgage, including the obligation of the 
-related Mortgagor to pay the unpaid principal balance of or interest on  such
-Note or the defense of usury, nor will the operation of any of the  terms of
-the Note or the Mortgage, or the exercise of any right  thereunder, render
-either the Note or the Mortgage unenforceable in  whole or in part, or
-subject to any right of rescission, set-off,  counterclaim or defense,
-including the defense of usury, and no such  right of rescission, set-off,
-counterclaim or defense has been asserted  with respect thereto;   (ix) to
-the best knowledge of such Selling Subsidiary, there  is no mechanics\' lien
-or claim for work, labor or material affecting  any Property which is or may
-be a lien prior to, or equal with, the  lien of the related Mortgage except
-those which are insured against by  any title insurance policy referred to in
-paragraph (xi) below;   (x) each Mortgage Loan at the time it was made
-complied in all  material respects with all applicable state and federal laws
-and  regulations, including, without limitation, the federal  Truth-in-
-Lending Act and other consumer protection laws, real estate  settlement
-procedure, usury, equal credit opportunity, disclosure and  recording
-laws;   (xi) with respect to each Mortgage Loan, a title search or a 
-lender\'s title insurance policy, issued in standard California Land  Title
-Association form or American Land Title Association form, or  other form
-acceptable in a particular jurisdiction by a title insurance  company
-authorized to transact business in the state in which the  related Property
-is situated, in an amount at least equal to the  original principal amount of
-such Securitizable Loan insuring the  mortgagee\'s interest under the related
-Securitizable Loan as the holder  of a valid first, second or third mortgage
-lien of record on the  Property described in the related Mortgage, as the
-case may be, subject  only to exceptions of the character referred to in
-paragraph (iv)  above, was effective on the date of the origination of such
-Mortgage  Loan, and, as of the Cut-Off Date such policy, if issued or upon
-its  issuance, will be valid and thereafter such policy shall continue in 
-full force and effect;   (xii) the improvements upon each Property are
-covered by a  valid and existing   22  22  hazard insurance policy (which
-may be a blanket policy) with a  generally acceptable carrier that provides
-for fire and extended  coverage representing coverage not less than the least
-of (A) the  outstanding principal balance of the related Mortgage Loan
-(together,  in the case of a Junior Mortgage Loan, with the outstanding
-principal  balance of the Senior Lien), (B) the minimum amount required to 
-compensate for damage or loss on a replacement cost basis or (C) the  full
-insurable value of the Property;   (xiii) each Mortgage and Note, including
-any Prepayment  Penalty, is the legal, valid and binding obligation of the
-maker  thereof and is enforceable in accordance with its terms, except only
-as  such enforcement may be limited by bankruptcy, insolvency, 
-reorganization, moratorium or other similar laws affecting the  enforcement
-of creditors\' rights generally and by general principles of  equity (whether
-considered in a proceeding or action in equity or at  law), and all parties
-to each Mortgage Loan had full legal capacity to  execute all documents
-relating to such Mortgage Loan and convey the  estate therein purported to be
-conveyed and the Note and Mortgage have  been duly and properly executed by
-such parties;   (xiv) each original Mortgage was recorded or is in the
-process  of being recorded, and all subsequent assignments of the original 
-Mortgage have been or are in the process of being recorded in the 
-appropriate jurisdictions wherein such recordation is necessary to  perfect
-the lien thereof for the benefit of the applicable Selling  Subsidiary;  
-(xv) the terms of each Note and each Mortgage have not been  impaired,
-altered or modified in any respect, except by a written  instrument which has
-been recorded, if necessary, to protect the  interest of the owners; the
-substance of each Note and/or Mortgage as  modified or altered, if
-applicable, is reflected on the Mortgage Loan  Schedule;   (xvi) the
-proceeds of each Mortgage Loan (other than HELOCs)  have been fully
-disbursed, and there is no obligation on the part of  the mortgagee to make
-future advances thereunder; any and all  requirements as to completion of any
-on-site or off-site improvements  and as to disbursements of any escrow funds
-therefor have been complied  with; all costs, fees and expenses incurred in
-making or closing or  recording such Mortgage Loans were paid;   (xvii)
-except as otherwise required by law or pursuant to the  statute under which
-the related Mortgage Loan was made, the related  Note is not and has not been
-secured by any collateral, pledged account  or other security except the lien
-of the corresponding Mortgage;   (xviii) to the best knowledge of such
-Selling Subsidiary, no  Mortgage Loan was originated under a buydown
-plan;   (xix) to the best knowledge of such Selling Subsidiary, no 
-Mortgage Loan provides for negative amortization, has a shared  appreciation
-feature, or other contingent   23  23  interest feature;   (xx) each
-Property is located in the state identified in the  Mortgage Loan Schedule
-and consists of one or more parcels of real  Property with a residential
-dwelling erected thereon;   (xxi) each Mortgage contains a provision for the
-acceleration  of the payment of the unpaid principal balance of the related
-Mortgage  Loan in the event the related Property is sold without the prior 
-consent of the mortgagee thereunder;   (xxii) any advances made after the
-date of origination of a  Mortgage Loan but prior to the Cut-Off Date, have
-been consolidated  with the outstanding principal amount secured by the
-related Mortgage,  and the secured principal amount, as consolidated, bears a
-single  interest rate and single repayment term reflected on the Mortgage
-Loan  Schedule. No Note (other than Credit Line Agreements for HELOCs) 
-permits or obligates the Servicer or the Sub-Servicer to make future 
-advances to the related Mortgagor at the option of the Mortgagor;   (xxiii)
-to the best knowledge of such Selling Subsidiary,  there is no proceeding
-pending or threatened for the total or partial  condemnation of any Property,
-nor is such a proceeding currently  occurring, and each Property is undamaged
-by waste, fire, earthquake or  earth movement, flood, tornado or other
-casualty, so as to affect  adversely the value of the Property as security
-for the Mortgage Loan  or the use for which the premises were intended;  
-(xxiv) all of the improvements which were included for the  purposes of
-determining the appraised value of any Property lie wholly  within the
-boundaries and building restriction lines of such Property,  and no
-improvements on adjoining properties encroach upon such  Property, and, if a
-title insurance policy exists or upon its issuance  with respect to such
-Property, are stated in such title insurance  policy and affirmatively
-insured;   (xxv) to the best knowledge of such Selling Subsidiary, no 
-improvement located on or being part of any Property is in violation of  any
-applicable zoning law or regulation; all inspections, licenses and 
-certificates required to be made or issued with respect to all occupied 
-portions of each Property and, with respect to the use and occupancy of  the
-same, including but not limited to certificates of occupancy and  fire
-underwriting certificates, have been made or obtained from the  appropriate
-authorities and such Property is lawfully occupied under  the applicable
-law;   (xxvi) with respect to each Junior Mortgage Loan, either (A)  no
-consent for such Mortgage Loan was required by the holder of the  related
-Senior Lien prior to the making of such Mortgage Loan or (B)  such consent
-has been obtained and is contained in the related Mortgage  File;   (xxvii)
-each Mortgage contains customary and enforceable  provisions which render the
-rights and remedies of the holder thereof  adequate for the realization
-against   24  24  the related Property of the benefits of the security,
-including (A) in  the case of a Mortgage designated as a deed of trust, by
-trustee\'s sale  and (B) otherwise by judicial foreclosure. To the best
-knowledge of  such Selling Subsidiary, there is no homestead or other
-exemption  available which materially interferes with the right to sell the 
-related Property at a trustee\'s sale or the right to foreclose the  related
-Mortgage;   (xxviii) except as provided by paragraph (vi) above, there is 
-no default, breach, violation or event of acceleration existing under  any
-Mortgage or the related Note and no event which, with the passage  of time or
-with notice and the expiration of any grace or cure period,  would constitute
-a default, breach, violation or event of acceleration;  and the applicable
-Selling Subsidiary has not waived any default,  breach, violation or event of
-acceleration;   (xxix) to the best knowledge of such Selling Subsidiary,
-no  instrument of release or waiver has been executed in connection with 
-any Mortgage Loan, and no Mortgagor has been released, in whole or in  part,
-except in connection with an assumption agreement and which has  been
-delivered to the Trustee;   (xxx) the related Selling Subsidiary has no
-actual knowledge  that there exist on any Property any hazardous substances,
-hazardous  wastes or solid wastes, as such terms are defined in the
-Comprehensive  Environmental Response Compensation and Liability Act, the
-Resource  Conservation and Recovery Act of 1976, or other federal, state or
-local  environmental legislation.    25  25  Exhibit A-2  
-Representations and Warranties for Unsalable Loans and Non-Performing 
-Loans   With respect to each Unsalable Loan and each Non-Performing
-Loan originated or acquired by such Selling Subsidiary, as identified in the
-Mortgage Loan Schedule, such Selling Subsidiary hereby represents, warrants
-and covenants, as of the MLPA Closing Date, as follows:   (i) the
-information with respect to each Mortgage Loan set  forth in the Mortgage
-Loan Schedule is true and correct in all material  respects;   (ii) other
-than with respect to the Unsalable Loans, all of  the original or certified
-documentation required to be delivered to  Purchaser pursuant to this Loan
-Purchase Agreement (including all  material documents related thereto) with
-respect to each Mortgage Loan  has been or will be delivered to Purchaser in
-accordance with the terms  of this Loan Purchase Agreement; each of the
-documents and instruments  specified to be included therein has been duly
-executed and is in due  and proper form, and each such document or instrument
-is in a form  generally acceptable to prudent mortgage lenders that
-regularly  originate or purchase mortgage loans comparable to the Mortgage
-Loans  for sale to prudent investors in the secondary market that invest in 
-mortgage loans such as the Mortgage Loans;   (iii) each Mortgage is either a
-valid and subsisting first,  second or third lien of record on the Property,
-as reflected on the  Mortgage Loan Schedule (subject in the case of any
-Junior Mortgage Loan  only to a Senior Lien on such Property) and subject in
-all cases to the  exceptions to title set forth in the Mortgage Loan\'s title
-insurance  policy, which exceptions are generally acceptable to banking 
-institutions in connection with their regular mortgage lending  activities,
-and such other exceptions to which similar properties are  commonly subject
-and which do not individually, or in the aggregate,  materially and adversely
-affect the benefits of the security intended  to be provided by such
-Mortgage;   (iv) immediately prior to the transfer and assignment herein 
-contemplated, each Selling Subsidiary held good and indefeasible title  to,
-and was the owner of, each Mortgage Loan originated or acquired by  such
-Selling Subsidiary and conveyed by such Selling Subsidiary to  Purchaser; the
-Mortgage Loan was not subject to liens, charges,  mortgages, encumbrances or
-rights of others except liens which will be  released simultaneously with
-such transfer and assignment; and  immediately upon the transfer and
-assignment herein contemplated,  Purchaser will hold good and indefeasible
-title to, and be the sole  owner of, each Mortgage Loan subject to no liens,
-charges, mortgages,  encumbrances or rights of others except liens which will
-be released  simultaneously with such transfer and assignment;   (v) other
-than Non-Performing Loans, no Mortgage Loans is a  Non-   26  26 
-Performing Loan as of the Cut-Off Date;   (vi) except as set forth in
-Sections 4.07-6(b) and 4.31 of the  Company Disclosure Schedule to the
-Purchase and Sale Agreement, to the  best knowledge of such Selling
-Subsidiary, there is no delinquent tax  or assessment lien on any Property,
-and each Property is free of  substantial damage and is in good repair;  
-(vii) to the best knowledge of such Selling Subsidiary, there  is no valid
-and enforceable right of rescission, offset, defense or  counterclaim to any
-Note or Mortgage, including the obligation of the  related Mortgagor to pay
-the unpaid principal balance of or interest on  such Note or the defense of
-usury, nor will the operation of any of the  terms of the Note or the
-Mortgage, or the exercise of any right  thereunder, render either the Note or
-the Mortgage unenforceable in  whole or in part, or subject to any right of
-rescission, set-off,  counterclaim or defense, including the defense of
-usury, and no such  right of rescission, set-off, counterclaim or defense has
-been asserted  with respect thereto;   (viii) to the best knowledge of such
-Selling Subsidiary, there  is no mechanics\' lien or claim for work, labor or
-material affecting  any Property which is or may be a lien prior to, or equal
-with, the  lien of the related Mortgage except those which are insured
-against by  any title insurance policy referred to in paragraph (x)
-below;   (ix) each Mortgage Loan at the time it was made complied in  all
-material respects with all applicable state and federal laws and 
-regulations, including, without limitation, the federal  Truth-in-Lending Act
-and other consumer protection laws, real estate  settlement procedure, usury,
-equal credit opportunity, disclosure and  recording laws;   (x) with
-respect to each Mortgage Loan, a title search or a  lender\'s title insurance
-policy, issued in standard California Land  Title Association form or
-American Land Title Association form, or  other form acceptable in a
-particular jurisdiction by a title insurance  company authorized to transact
-business in the state in which the  related Property is situated, in an
-amount at least equal to the  original principal amount of such Mortgage Loan
-insuring the  mortgagee\'s interest under the related Unsalable Loan as the
-holder of  a valid first, second or third mortgage lien of record as set
-forth in  the Mortgage Loan Schedule on the Property described in the
-related  Mortgage, as the case may be, subject only to exceptions of the 
-character referred to in paragraph (iii) above, was effective on the  date of
-the origination of such Mortgage Loan, and, as of the Cut-Off  Date such
-policy, if issued or upon its issuance, will be valid and  thereafter such
-policy shall continue in full force and effect;   (xi) the improvements upon
-each Property are covered by a  valid and existing hazard insurance policy
-(which may be a blanket  policy) with a generally acceptable carrier that
-provides for fire and  extended coverage representing coverage not less than
-the least of (A)  the outstanding principal balance of the   27  27 
-related Mortgage Loan (together, in the case of a Junior Mortgage Loan,  with
-the outstanding principal balance of the Senior Lien), (B) the  minimum
-amount required to compensate for damage or loss on a  replacement cost basis
-or (C) the full insurable value of the Property;   (xii) each Mortgage and
-Note, including any Prepayment  Penalty, is the legal, valid and binding
-obligation of the maker  thereof and is enforceable in accordance with its
-terms, except only as  such enforcement may be limited by bankruptcy,
-insolvency,  reorganization, moratorium or other similar laws affecting the 
-enforcement of creditors\' rights generally and by general principles of 
-equity (whether considered in a proceeding or action in equity or at  law),
-and all parties to each Mortgage Loan had full legal capacity to  execute all
-documents relating to such Mortgage Loan and convey the  estate therein
-purported to be conveyed and the Note and Mortgage have  been duly and
-properly executed by such parties;   (xiii) each original Mortgage was
-recorded or is in the  process of being recorded, and all subsequent
-assignments of the  original Mortgage have been or are in the process of
-being recorded in  the appropriate jurisdictions wherein such recordation is
-necessary to  perfect the lien thereof for the benefit of the applicable
-Selling  Subsidiary;   (xiv) the terms of each Note and each Mortgage have
-not been  materially impaired, altered or modified in any respect, except by
-a  written instrument which has been recorded, if necessary, to protect  the
-interest of the owners; the substance of each Note and/or Mortgage  as
-modified or altered, if applicable, is reflected on the Mortgage  Loan
-Schedule.   (xv) the proceeds of each Mortgage Loan (other than HELOCs) 
-have been fully disbursed, and there is no obligation on the part of  the
-mortgagee to make future advances thereunder; any and all  requirements as to
-completion of any on-site or off-site improvements  and as to disbursements
-of any escrow funds therefor have been complied  with; all costs, fees and
-expenses incurred in making or closing or  recording such Mortgage Loans were
-paid;   (xvi) except as otherwise required by law or pursuant to the 
-statute under which the related Mortgage Loan was made, the related  Note is
-not and has not been secured by any collateral, pledged account  or other
-security except the lien of the corresponding Mortgage;   (xvii) to the best
-knowledge of such Selling Subsidiary, no  Mortgage Loan was originated under
-a buydown plan;   (xviii) to the best knowledge of such Selling Subsidiary,
-no  Loan provides for negative amortization, has a shared appreciation 
-feature, or other contingent interest feature;   (xix) each Property is
-located in the state identified in the  Mortgage Loan Schedule   28  28 
-and consists of one or more parcels of real Property with a residential 
-dwelling erected thereon;   (xx) each Mortgage contains a provision for the
-acceleration  of the payment of the unpaid principal balance of the related
-Mortgage  Loan in the event the related Property is sold without the prior 
-consent of the mortgagee thereunder;   (xxi) any advances made after the
-date of origination of a  Mortgage Loan but prior to the Cut-Off Date, have
-been consolidated  with the outstanding principal amount secured by the
-related Mortgage,  and the secured principal amount, as consolidated, bears a
-single  interest rate and single repayment term reflected on the Mortgage
-Loan  Schedule. No Note (other than Credit Line Agreements for HELOCs) 
-permits or obligates the Servicer or the Sub-Servicer to make future 
-advances to the related Mortgagor at the option of the Mortgagor;   (xxii)
-to the best knowledge of the Selling Subsidiary, there  is no proceeding
-pending or threatened for the total or partial  condemnation of any Property,
-nor is such a proceeding currently  occurring, and each Property is undamaged
-by waste, fire, earthquake or  earth movement, flood, tornado or other
-casualty, so as to affect  adversely the value of the Property as security
-for the Mortgage Loan  or the use for which the premises were intended;  
-(xxiii) all of the improvements which were included for the  purposes of
-determining the appraised value of any Property lie wholly  within the
-boundaries and building restriction lines of such Property,  and no
-improvements on adjoining properties encroach upon such  Property, and, if a
-title insurance policy exists or upon its issuance  with respect to such
-Property, are stated in such title insurance  policy and affirmatively
-insured;   (xxiv) to the best knowledge of such Selling Subsidiary, no 
-improvement located on or being part of any Property is in violation of  any
-applicable zoning law or regulation; all inspections, licenses and 
-certificates required to be made or issued with respect to all occupied 
-portions of each Property and, with respect to the use and occupancy of  the
-same, including but not limited to certificates of occupancy and  fire
-underwriting certificates, have been made or obtained from the  appropriate
-authorities and such Property is lawfully occupied under  the applicable
-law;   (xxv) with respect to each Junior Mortgage Loan, either (A) no 
-consent for such Unsalable Loan was required by the holder of the  related
-Senior Lien prior to the making of such Mortgage Loan or (B)  such consent
-has been obtained and is contained in the related Mortgage  File;   (xxvi)
-each Mortgage contains customary and enforceable  provisions which render the
-rights and remedies of the holder thereof  adequate for the realization
-against the related Property of the  benefits of the security, including (A)
-in the case of a Mortgage  designated as a deed of trust, by trustee\'s sale
-and   29  29  (B) otherwise by judicial foreclosure. To the best knowledge
-of such  Selling Subsidiary, there is no homestead or other exemption
-available  which materially interferes with the right to sell the related
-Property  at a trustee\'s sale or the right to foreclose the related
-Mortgage;   (xxvii) other than with respect to the Non-Performing Loans, 
-except as provided by paragraph (v) above, there is no default, breach, 
-violation or event of acceleration existing under any Mortgage or the 
-related Note and no event which, with the passage of time or with  notice and
-the expiration of any grace or cure period, would constitute  a default,
-breach, violation or event of acceleration; and the  applicable Selling
-Subsidiary has not waived any default, breach,  violation or event of
-acceleration;   (xxviii) to the best knowledge of such Selling Subsidiary,
-no  instrument of release or waiver has been executed in connection with 
-any Mortgage Loan, and no Mortgagor has been released, in whole or in  part,
-except in connection with an assumption agreement and which has  been
-delivered to the Trustee;   (xxix) the related Selling Subsidiary has no
-actual knowledge  that there exist on any Property any hazardous substances,
-hazardous  wastes or solid wastes, as such terms are defined in the
-Comprehensive  Environmental Response Compensation and Liability Act, the
-Resource  Conservation and Recovery Act of 1976, or other federal, state or
-local  environmental legislation.    30  30  SCHEDULE 1  MLPA PURCHASE
-PRICE  On the MLPA Closing Date, the purchase price for the Mortgage Loans
-within a Pricing Category shall be equal to the product of (i) the Pricing
-Category Price (as set forth in Column B under "New Price" on Exhibit B) for
-the applicable Pricing Category (as set forth under Column A of Exhibit B)
-and, (ii) the unpaid principal balance as of the Cut-Off Date of all Mortgage
-Loans within the applicable Pricing Category. The aggregate purchase price to
-be paid by Purchaser on the MLPA Closing Date (the "MLPA Purchase Price") for
-the Mortgage Loans shall be the sum of the products calculated in accordance
-with the preceding sentence. The MLPA Purchase Price (less the applicable ARM
-holdback, document holdback and CF holdback) plus Accrued Interest (exclusive
-of accrued interest on Non-Performing Loans) shall be payable by Chase to
-Selling Subsidiaries on the MLPA Closing Date, by wire transfer of
-immediately available federal funds to such bank account or accounts as shall
-be designated by the Seller in writing two (2) Business Days prior to the
-MLPA Closing Date.  Exhibit "B" sets forth the MLPA Purchase Price of the
-Mortgage Loans determined based on the unpaid principal balance as of
-November 30, 2000 (the "Pricing Cut-Off Date"). The MLPA Purchase Price as of
-the Pricing Cut-Off Date may be adjusted between the Pricing Cut-Off Date and
-the MLPA Closing Date only to the extent that Purchaser\'s due diligence
-performed in accordance with paragraph 8 of the Letter Agreement,
-conclusively reveals that any of the Mortgage Loans were improperly
-categorized with respect to the Pricing Categories or as described in
-paragraph 6(c) of the Letter Agreement, with respect to Non-Enforceability
-Exceptions in excess of the Exception Loan Threshold and with respect to
-Enforceability Exceptions. In the event that any Mortgage Loan
-is recategorized into a different Pricing Category as a result of
-Purchaser\'s due diligence in accordance with paragraph 8 of the Letter
-Agreement or due to the Exception Loan Threshold having been exceeded, only
-the amount reflected as the unpaid principal balance associated with the
-applicable Pricing Categories shall be impacted.  With respect to each of
-the Closed End Performing, and Open End Performing subcategories, a pricing
-adjustment, shown on Exhibit B, shall be made with respect to the portion of
-each such subcategory which constitutes Mortgage Loans 31-60 days delinquent
-as of the Cut-off Date in excess of 1.5% of the aggregate outstanding
-principal balance of all of the Mortgage Loans in such subcategory. Such
-pricing adjustments shall cause a reduction in the purchase price for
-the Mortgage Loans in each such subcategory equal to, with respect to any
-such subcategory, one half of the product of (i) an amount equal to the
-amount of the aggregate outstanding principal balance of the Mortgage Loans
-in the related subcategory that were 31-60 days delinquent as of the Cut-off
-Date which exceeds 1.5% of the aggregate outstanding principal balance of all
-of the Mortgage Loans in such subcategory and (ii) the percentage which is
-equal to the difference between (A) the weighted average purchase price
-percentage for the Mortgage Loans in such subcategory and (B) the weighted
-average purchase price percentage for the nonperforming loans corresponding
-to such subcategory (e.g., the difference between (A)   31 the weighted
-average purchase price percentage for all Closed End Performing Mortgage
-Loans and (B) the weighted average purchase price percentage for all Closed
-End Nonperforming Mortgage Loans).  Notwithstanding anything to the contrary
-in this Loan Purchase Agreement, it shall be a condition precedent to
-Seller\'s obligation to sell the Mortgage Loans under this Loan Purchase
-Agreement and the Company\'s obligation to close under the Purchase and Sale
-Agreement that the MLPA Purchase Price payable to Seller on the MLPA Closing
-Date for the Mortgage Loans identified in Exhibit A attached to this Loan
-Purchase Agreement not be less than $829,432,130 by $10,000,000 or more
-(including by reason of the removal of any loans by Seller from the Mortgage
-Loans as a result of Non-Enforceability Exceptions or
-Enforceability Exceptions, or any recategorization attributable to
-Purchaser\'s due diligence or to Seller\'s representations or warranties, but
-exclusive of amounts related to Mortgage Loan principal payments and payoffs
-between the Pricing Cut-off Date and the Cut-off Date, the ARM holdback,
-document holdback and the CF Holdback).  All Corporate Finance Loans shall
-be categorized on Exhibit B hereto in the following Pricing Category:
-"Corporate Finance Loans."    32 Copies of the following exhibits and
-schedules are omitted from filing herewith in accordance with paragraph
-(b)(2) of Item 601 of Regulation S-K, but will be furnished to the Securities
-and Exchange Commission upon request of the staff:  Exhibit A Mortgage Loan
-Schedule Exhibit A-3 Limited Power of Attorney Exhibit B Mortgage
-Loans Exhibit C Credit File Documentation Exhibit D Loan File
-Documentation Exhibit E Selling Subsidiaries Exhibit F Priority
-States  Schedule 2 Legal File Exceptions Schedule 3 Representation and
-Warranty Exceptions Schedule 4 Title Policy Missing/Incorrect
-Exceptions Schedule 5(a) Credit File Exception Loans: Missing Credit
-Files Schedule 5(b) Credit File Exception Loans: Missing Credit
-Documents Schedule 5(c) Withdrawn Legal File Loans Schedule 6 Missing
-Appraisals Company Disclosure Schedule   '
+<DOCUMENT>
+<TYPE>EX-2.2
+<SEQUENCE>2
+<FILENAME>w46406ex2-2.txt
+<DESCRIPTION>MORTGAGE LOAN PURCHASE & SALE AGREEMENT.02/23/2001
+<TEXT>
 
+<PAGE>   1
+                                                                     Exhibit 2.2
+
+                    MORTGAGE LOAN PURCHASE AND SALE AGREEMENT
+
+
+     This Mortgage Loan Purchase and Sale Agreement (this "Loan Purchase
+Agreement" or "MLPA") is made as of February 23, 2001, by and among CHASE
+MANHATTAN BANK USA, NATIONAL ASSOCIATION (the "Purchaser" or "Chase"), Chase
+Manhattan Mortgage Corporation ("CMMC"), ADVANTA CORP. (the "Company"), and the
+selling subsidiaries set forth on Exhibit E (collectively the "Selling
+Subsidiaries" or the "Seller").
+
+
+                                   BACKGROUND
+
+     Purchaser wishes to purchase from the Selling Subsidiaries, and the Selling
+Subsidiaries wish to sell to Purchaser, on the terms and conditions contained in
+this Loan Purchase Agreement, the mortgage loans (including HELOCs) identified
+in Exhibit A attached hereto. The Company and Chase Manhattan Mortgage
+Corporation ("CMMC") are parties to a Purchase and Sale Agreement (the "Purchase
+and Sale Agreement"), dated as of January 8, 2001, providing for the sale by the
+Company and the Selling Subsidiaries (as defined therein) to CMMC and certain
+affiliates of CMMC of the Assets and certain liabilities relating to the
+Business.
+
+     In consideration of the mutual promises, covenants, and agreements
+contained herein, the parties agree as follows:
+
+                                   ARTICLE I
+                                   DEFINITIONS
+
+     SECTION 1.1. All capitalized terms used in this Loan Purchase Agreement but
+not otherwise defined herein shall have the same meanings ascribed to such words
+in the Purchase and Sale Agreement. As used in this Loan Purchase Agreement, the
+following capitalized terms shall have the following meanings, unless the
+context requires otherwise:
+
+     "ACCEPTED SERVICING PRACTICES": With respect to any Mortgage Loan, those
+mortgage servicing practices (including collection practices) of prudent
+mortgage banking institutions which service mortgage loans of the same type as
+such Mortgage Loan in the jurisdiction where the related Property is located.
+
+     "ASSIGNMENT OF MORTGAGE": An assignment of the Mortgage, notice of transfer
+or equivalent instrument (which, in each jurisdiction where permitted under
+applicable law, shall include a blanket assignment) sufficient under the laws of
+the jurisdiction wherein the related collateral is located to reflect of record
+the transfer of the Mortgage Loan to Chase or one of its affiliates "in blank."
+
+         "CLOSED END PERFORMING LOANS": All closed end Mortgage Loans (other
+than Corporate Finance Loans), including the Off-Balance Sheet Loans in the
+Morgan Stanley Warehouse Facility and closed end Mortgage Loans owned by the
+Company and the
+
+1
+<PAGE>   2
+Selling Subsidiaries that, as of the Cut-Off Date are not Non-Performing Loans
+or Unsalable Loans.
+
+     "CORPORATE FINANCE LOANS": Mortgage Loans acquired by a Selling Subsidiary
+under the Corporate Finance Agreements.
+
+     "CORPORATE FINANCE RESERVE AMOUNT": The amount reserved on the balance
+sheet of the Seller on the date of Closing under the Purchase and Sale Agreement
+relating to Corporate Finance Loans, which amount shall, upon the Closing under
+the Purchase and Sale Agreement, become the property of Purchaser. Such reserve
+amount shall, upon any Loss incurred by Purchaser relating to a Corporate
+Finance Loan, be reduced by the amount of such Loss.
+
+     "CREDIT FILE": All documentation required by Chase for underwriting review
+as set forth in the Exhibit C hereto.
+
+     "CREDIT LINE AGREEMENT": With respect to any Mortgage Loan that is a HELOC,
+the related home equity line of credit agreement or promissory note executed by
+the related Mortgagor and any amendment or modification thereof.
+
+     "CUT-OFF DATE": The close of business on January 31, 2001 or such other
+date as shall be mutually agreed upon by the parties hereto.
+
+     "ELECTRONIC DATA FILE": An electronic file that provides data on a loan
+level basis with respect to the following fields: Loan Number, Alt Loan Number,
+Pricing Category, Last Name, Current UPB, Credit Limit (for HELOCs), Original
+CLTV, Current Note Rate, Product Type or Interest Method, Original Term,
+Maturity Date, Lien, Funding Date or Note Date, Pre-Payment Penalty (Closed-end
+only)(Y/N) (if applicable), Pre-Pay Code (Closed-end only), Life Cap (HELOC
+only) (if applicable), Life Floor (if applicable), State, Maximum Rate (Closed
+End), Minimum Rate (Closed End), Pricing Category, Margin (if applicable), Index
+(if applicable), Draw Period (HELOC only) and such other fields as may be
+reasonably requested by Chase.
+
+     "HELOC":  A Mortgage Loan that is a home equity line of credit.
+
+     "HELOC PERFORMING LOANS": All HELOCs, including the Off-Balance Sheet Loans
+in the Morgan Stanley Warehouse Facility, and any HELOCs owned on-balance sheet
+by the Company and the Selling Subsidiaries that, as of the Cut-Off Date are not
+Non-Performing Loans or Unsalable Loans.
+
+
+     "INVESTOR RIGHTS": Any and all rights and privileges associated with the
+ownership of a Mortgage Loan, including but not limited to the right to receive
+all payments of principal and interest paid by a Mortgagor.
+
+     "LETTER AGREEMENT": The Mortgage Loan Purchase Price and Terms Letter,
+dated as
+
+2
+<PAGE>   3
+of January 8, 2001, by and between CMMC and the Company.
+
+     "LOANS": The Performing Loans, the Corporate Finance Loans, the Unsalable
+Loans and the Non-Performing Loans as set forth in the Mortgage Loan Schedule.
+
+     "LOAN FILE": All documentation required for a Mortgage Loan as set forth in
+Exhibit D hereto.
+
+     "LOSSES": Any and all claims, losses, liabilities, costs, fines, expenses
+(including reasonable expenses for attorneys or other expenses of litigation,
+arbitration or other similar proceedings), damages, obligations to third
+parties, expenditures, proceedings, judgements, awards, settlements or demands
+that are imposed upon or otherwise incurred, suffered or sustained by the
+relevant party.
+
+     "MLPA CLOSING DATE": February 23, 2001 or such other date as shall be
+mutually agreed upon by the parties hereto, but in no event shall the MLPA
+Closing Date be later than the date on which the "Closing" occurs under the
+Purchase and Sale Agreement.
+
+     "MORTGAGE": The mortgage, deed of trust or other security instrument
+creating a first or junior lien on an interest in real property securing a Note
+or, in the case of HELOCs, securing each Credit Line Agreement.
+
+     "MORTGAGE LOAN(S)": The mortgage loans (including HELOCs) identified on the
+Mortgage Loan Schedule. The term "Mortgage Loan" includes any Mortgage Loan
+which is a Non-Performing Mortgage Loan, which relates to a foreclosure or which
+relates to a Property which is an REO Property prior to such Property's
+disposition.
+
+     "MORTGAGE LOAN SCHEDULE": The schedule of Mortgage Loans set forth in
+Exhibit A hereto. The Mortgage Loan Schedule will contain the following
+information as to each Mortgage Loan: (i) the Mortgage Loan identifying number;
+(ii) the street address of the Property including the city, state and zip code;
+(iii) an indication of whether the Property is owner-occupied; (iv) the property
+type of the Property; (v) the maturity date; (vi) the original loan-to-value
+ratio or combined loan-to-value ratio, as applicable; (vii) the original
+principal balance of the Mortgage Loan or in the case of a HELOC, the maximum
+amount of the line of credit; (viii) the unpaid principal balance of the
+Mortgage Loan as of the close of business on the Cut-off Date; (ix) the current
+mortgage rate; (x) the amount of the current monthly payment (or, in the case of
+a HELOC, the amount of the most recent payment); (xi) the loan type, i.e., fixed
+rate or adjustable rate; (xii) type of lien, i.e., first or second lien; (xiii)
+whether such Mortgage Loan is a closed end loan or open end loan; (xiv) the next
+due date; (xv) whether such Mortgage Loan is a "Section 32 loan;" and (xvi) a
+designation as to which pricing category and subcategory identified in Column A
+of Exhibit B applies to such Mortgage Loan.
+
+     "MORTGAGOR(S)":  The maker(s), obligor(s) and/or guarantor(s) of a Note.
+
+     "NON-PERFORMING LOANS": All Mortgage Loans (other than Corporate Finance
+
+3
+<PAGE>   4
+Loans) that, as of the Cut-off Date (i) are 61 days or more delinquent
+calculated by the number of days elapsed from the last payment date to the
+Cut-Off Date, (ii) have been 61 days delinquent 2 or more times in the 12 months
+immediately prior to the Cut-Off Date, (iii) have been 91 days delinquent in the
+12 months immediately prior to the Cut-Off Date and (iv) REO properties. For
+purposes of clause (i), with respect to any closed end Mortgage Loan for which a
+monthly payment due on December 1, 2000 has not been received as of the Cut-Off
+Date (but for which all monthly payments due prior to December 1, 2000 have been
+received), such Mortgage Loan shall not be considered 61 days or more delinquent
+as of the Cut-Off Date (but shall be considered 31-60 days delinquent).
+
+     "NOTE" OR "MORTGAGE NOTE": The promissory note or, with respect to a HELOC,
+the Credit Line Agreement, of a Mortgagor secured by a Mortgage.
+
+     "OFF-BALANCE SHEET LOANS": The meaning set forth in the Purchase and Sale
+Agreement.
+
+     "PERFORMING LOANS": All Closed End Performing Loans and HELOC Performing
+Loans.
+
+     "PRICING CATEGORY": With respect to Closed End Loans and Open-end (HELOC)
+Loans, Morgan Facility Closed-end Loans and Morgan Facility Open-end Loans each
+of the following pricing categories identified in Column A of Exhibit B:
+Performing Loans; Corporate Finance Loans; Unsalable Loans; and Non-Performing
+Loans, and each of the subcategories relating to such categories .
+
+     "PRICING CATEGORY PRICE PERCENTAGE": As to each Pricing Category, the
+percentage identified in Column B of Exhibit B.
+
+     "PRICING CUT-OFF DATE": November 30, 2000.
+
+     "PROPERTY": The underlying property securing a Mortgage Loan.
+
+     "PURCHASE AND SALE AGREEMENT": The Purchase and Sale Agreement between
+Advanta Corp. and Chase Manhattan Mortgage Corporation, dated as of January 8,
+2001.
+
+     "SECURITIZABLE LOANS": The Off-Balance Sheet Loans, Mortgage Loans held
+on-balance sheet that satisfy the representations and warranties in Section
+4.2(a), or other Mortgage Loans held on-balance sheet that are similar to
+mortgage loans securitized by the Selling Subsidiaries in recent
+Company-Sponsored Mortgage Loan Securitization Transactions or which meet the
+criteria established by one or more independent rating agencies.
+
+     "SERVICING AGREEMENT":  As defined in Section 7.1.
+
+     "SERVICING FEE": As defined in Section 7.1.
+
+4
+<PAGE>   5
+     "SERVICING RIGHTS": All rights to service Mortgage Loans.
+
+     "SUBSERVICER": Advanta Mortgage Corp. USA.
+
+     "UNSALABLE LOANS": All Mortgage Loans that are not Securitizable Loans,
+Corporate Finance Loans or Non-Performing Loans. Unsalable Loans shall include
+bankruptcies which do not meet the definition of Non-Performing Loans (i.e.,
+"current bankruptcies") and Mortgage Loans that as of the Cut-Off Date have
+legal deficiencies or credit deficiencies which prevent sale to a securitization
+and which deficiencies remain uncorrected through the MLPA Closing Date.
+
+
+                                   ARTICLE II
+                      SALE OF LOANS; PRICING; DUE DILIGENCE
+
+     SECTION 2.1. SALE OF LOANS
+
+     (a) On the Purchase Date, or such other date as may be mutually agreed upon
+by the parties hereto but in no event later than the Closing Date under the
+Purchase and Sale Agreement (the "Settlement Date"), the Selling Subsidiaries
+shall sell or cause to be sold, and Purchaser shall purchase, the Mortgage Loans
+described in Exhibit A attached hereto. If for any reason the Company is unable
+to sell the Off-Balance Sheet Loans, then, at Chase's option, either this Loan
+Purchase Agreement may be terminated by Chase giving written notice thereof to
+the Company, without further liability on the part of any party hereto, or the
+Mortgage Loans other than the Off-Balance Sheet Loans shall be sold in
+accordance with the terms of this Loan Purchase Agreement. The Corporate Finance
+Loans which are part of the Mortgage Loans will be sold to Buyer subject to the
+terms of the Corporate Finance Agreements.
+
+     (b) The aggregate amount of Mortgage Loans that will be purchased by
+Purchaser will be the actual outstanding principal balance at the close of
+business on the Cut-Off Date. In the event that the Closing occurs under the
+Purchase and Sale Agreement on February 28, 2001, the Purchaser shall pay to
+Seller an amount equal to the aggregate additional draws on HELOCs that are
+funded by the Company or a Selling Subsidiary from the Cut-Off Date through and
+including February 28, 2001; in the event that the Closing does not occur under
+the Purchase and Sale Agreement on February 28, 2001, the March, 2001 remittance
+from Subservicer to Purchaser pursuant to the Servicing Agreement will be
+reduced by an amount equal to the aggregate additional draws on HELOCs that are
+funded by the Company or a Selling Subsidiary from the Cut-Off Date through and
+including February 28, 2001. In the event that the Closing occurs under the
+Purchase and Sale Agreement on March 31, 2001, the Purchaser shall pay to Seller
+an amount equal to the aggregate additional draws on HELOCs that are funded by
+the Company or a Selling Subsidiary from March 1, 2001 through and including
+March 31, 2001. To the extent that the Closing under the Purchase and Sale
+Agreement does not occur on or before by March 31, 2001, each remittance from
+Subservicer to Purchaser pursuant to the Servicing Agreement from April 2001 and
+thereafter shall be reduced by
+
+5
+<PAGE>   6
+an amount equal to the aggregate additional draws on HELOCs that are funded by
+the Company or a Selling Subsidiary during the calendar month immediately
+preceding the month of such remittance date. To the extent that the Closing
+under the Purchase and Sale Agreement does not occur on or before March 31,
+2001, Purchaser and Seller shall agree on a mutually satisfactory arrangement
+whereby Purchaser shall assume responsibility for funding draws on HELOCs made
+after such date and in any event Purchaser shall assume such responsibility not
+later than June 1, 2001. Purchaser shall be entitled to all collections of
+principal and interest on the Mortgage Loans after the Cut-off Date.
+
+     SECTION 2.2. PRICING.
+
+     (a) The purchase price (the "MLPA Purchase Price") for the Mortgage Loans
+shall be calculated as set forth in Schedule 1 attached hereto. On the MLPA
+Closing Date, in addition to the MLPA Purchase Price, Purchaser shall pay to
+Seller an amount of accrued interest, calculated from the date interest was last
+paid for each Mortgage Loan (other than Non-Performing Loans) through and
+including the day prior to the MLPA Closing Date, net of the applicable
+subservicing fee ("Accrued Interest"). Seller shall provide to Purchaser a
+detailed reconciliation of the calculation of accrued interest on HELOCs within
+30 days of the MLPA Closing Date. Purchaser shall not pay Accrued Interest on
+Non-Performing Loans. On the MLPA Closing Date, Purchaser shall pay to Seller an
+amount equal to the MLPA Purchase Price (less applicable amounts subject to the
+ARM Holdback, Document Holdback and CF Holdback pursuant to paragraph 3(b)
+below) plus Accrued Interest (as described above). Seller acknowledges that
+Purchaser has relied upon the Electronic Data File and other supplementary
+materials relating to the Electronic Data File provided by or on behalf of
+Seller with respect to the Mortgage Loans (the "Offering Materials") in
+connection with the transactions contemplated hereby. If at any time prior to
+the day that is one hundred and eighty (180) days following the MLPA Closing
+Date, either Purchaser or Seller believes that the amount paid by Purchaser to
+Seller on the MLPA Closing Date was calculated in error, Purchaser or Seller, as
+the case may be, shall give written notice of such error to the other. In the
+event that the Closing occurs under the Purchase and Sale Agreement, any such
+discrepancy shall be resolved in accordance with Section 1.05 of the Purchase
+and Sale Agreement; in the event that no such Closing occurs, Seller and
+Purchaser agree to attempt to resolve any such discrepancy promptly and in good
+faith, with any agreed to adjustment being paid over to the appropriate party
+promptly in immediately available funds.
+
+     (b) An ARM Holdback, a Document Holdback and a CF Holdback shall be
+withheld by Purchaser from the MLPA Purchase Price. The amount withheld for the
+ARM holdback shall be $31,185. The amount withheld for the Document Holdback
+shall be determined on the basis of a Document Report (as defined in the
+Purchase and Sale Agreement) relating solely to the Mortgage Loans and delivered
+to Purchaser two Business Days prior to the MLPA Closing Date at the rate of
+$55.00 for each document that is categorized in Schedule 2 as being subject to
+the Document Holdback. With respect to the Corporate Finance Loans, there shall
+be an amount withheld (the "CF Holdback") that is equal to the difference
+between (a) the portion of the MLPA Purchase
+
+6
+<PAGE>   7
+Price attributable to the Corporate Finance Loans, as calculated in accordance
+with Schedule 1, and (b) what the purchase price for the Corporate Finance Loans
+would have been if Corporate Finance Loans that would otherwise meet the
+definition of Non-Performing Loans or Unsalable Loans, except for the fact that
+Corporate Finance Loans are excluded from such definitions, had been priced in
+the Pricing Categories for Non-Performing Loans and Unsalable Loans,
+respectively, taking into account that Accrued Interest is not paid by the
+Purchaser on Non-Performing Loans; provided that, for purposes of the preceding
+sentence only, Corporate Finance Loans with a limited or no appraisal in the
+credit file shall be priced as Unsalable Loans and the difference shall be
+included in the CF Holdback..
+
+         The provisions of Sections 1.05(l) and (m) of the Purchase and Sale
+Agreement relating to the ARM Holdback and the Document Holdback and the release
+of such holdbacks are hereby incorporated by reference into this Loan Purchase
+Agreement. The amount of the CF Holdback plus accrued interest at a rate equal
+to the "Fed Funds" rate shall be paid to Seller on the date that Closing under
+the Purchase and Sale Agreement occurs, if such Closing occurs.
+
+         (c) Notwithstanding anything to the contrary contained in this Loan
+Purchase Agreement, the Company may, at its sole option, terminate this Loan
+Purchase Agreement by written notice thereof given to CMMC at any time prior to
+the Purchase Date, without any liability, if prior to such time the Purchase and
+Sale Agreement has been terminated for any reason.
+
+         SECTION  2.3. DUE DILIGENCE.
+
+         (a) The Company and the Purchaser acknowledge that the classification
+of the Mortgage Loans on Exhibit B hereto differs from the classification of the
+Mortgage Loans that was attached to the Letter Agreement. Such differences
+reflect the reclassification of certain Mortgage Loans which occurred based upon
+the Purchaser's due diligence in accordance with Paragraph 8 of the Letter
+Agreement, together with certain other updated information to which the parties
+hereto shall have agreed.
+
+         (b) Based on Purchaser's due diligence, the parties agree that certain
+missing or defective documentation ("Legal File Exceptions") shall cause a Loan
+to be reclassified into the Unsalable Loan category. The Legal File Exceptions
+that cause such reclassification of a Mortgage Loan are specified in Schedule 2
+and are referred to herein as "Unsalable Exceptions".
+
+         (c) Based on Purchaser's due diligence, Purchaser identified a total of
+[542] Mortgage Loans with missing title policies or title policy exceptions that
+were categorized by Purchaser as "Title Policy Missing/Incorrect" (collectively,
+the "Title Policy Exceptions"). Such Loans are identified on Schedule 4. The
+Company has engaged an independent third party vendor to cure the Title Policy
+Exceptions noted by Purchaser in its due diligence. Two Business Days prior to
+the MLPA Closing Date, the Company will provide Purchaser with a status report
+identifying which title policy
+
+7
+<PAGE>   8
+exceptions have been corrected as of such date (the "Corrected Title Policies").
+On the MLPA Closing Date, the Company shall indicate on Schedule 4 (i) those
+Mortgage Loans for which Title Policy Exceptions remain as of the MLPA Closing
+Date and (ii) those Loans which are Corrected Title Policies. The parties agree
+that all loans with Corrected Title Policies and no Unsalable Exceptions shall
+be priced as Performing Loans in accordance with Exhibit B. With respect to the
+remainder of the Mortgage Loans with Title Policy Exceptions that have not yet
+been corrected, the parties agree that such Mortgage Loans shall be priced as
+Unsalable Loans in accordance with Exhibit B; provided, however, that the
+Company shall have 60 days following the MLPA Closing Date (the "Post-Closing
+Cure Period") to correct any Title Policy Exceptions that were uncorrected as of
+the MLPA Closing Date. Upon correction of a Title Policy Exception during the
+Post-Closing Cure Period, the Company may, on the twentieth, fortieth, or
+sixtieth day of such Post-Closing Cure Period (or, if any such day is not a
+Business Day, on the next succeeding Business Day), provide documentation in
+writing to Purchaser showing that, with respect to the Mortgage Loans identified
+in such documentation, all exceptions have been cured ("Cure Documentation").
+Upon receipt of such Cure Documentation, Purchaser shall have 20 days in which
+to verify that such exceptions have been cured to its satisfaction (the
+"Verification Period"). With respect to all Mortgage Loans which the Purchaser
+has verified that all exceptions have been cured to its satisfaction, Purchaser
+shall, not later than the fifth Business Day following the end of the applicable
+Verification Period, pay to the Company an amount equal to the difference
+between what Purchaser paid for such Mortgage Loans on the MLPA Closing Date and
+what Purchaser would have paid for such Mortgage Loans if they had been priced
+as Performing Loans on the MLPA Closing Date. To the extent that during the
+Post-Closing Cure Period Purchaser provides documentation satisfactory to the
+Company in writing that with respect to any Mortgage Loan that was deemed to
+have a Corrected Title Policy on the MLPA Closing Date, the exception noted by
+Purchaser in its due diligence had not in fact been cured (such written notice
+to specifically identify the exception that was not corrected), Purchaser shall
+be entitled to offset the amount payable to the Company pursuant to the
+preceding sentence, by an amount equal to the difference between what Purchaser
+paid for such Mortgage Loans on the MLPA Closing Date and what Purchaser would
+have paid for such Mortgage Loans had they been priced as Unsalable Loans on the
+MLPA Closing Date (or, if the funds available for offset are insufficient to
+cover such amount, the Company shall pay the Purchaser any shortfall amount
+within five Business Days of written notice demanding payment for such
+shortfall).
+
+         (d) As of the date of this Loan Purchase Agreement, there are 128
+Mortgage Loans with missing credit files and 79 Mortgage Loans with missing
+credit documents (such 207 Mortgage Loans referred to herein collectively as,
+the "Credit File Exception Loans"), and 32 Mortgage Loans with withdrawn legal
+files (the "Withdrawn Legal File Loans"), which Loans are listed on Schedules
+5a, 5b and 5c respectively, attached hereto. The parties agree that all Credit
+File Exception Loans and Withdrawn Legal File Loans shall be priced as Unsalable
+Loans as of the MLPA Closing Date. If any of the 207 missing credit files or
+missing credit documents or any of the 32 withdrawn legal files are located
+during the Post-Closing Cure Period, Purchaser shall review the located credit
+
+8
+<PAGE>   9
+files or credit documents or legal files, as the case may be, and the related
+Mortgage Loans shall, if applicable, be repriced as Performing Loans based on
+the same criteria that were used to price Mortgage Loans with credit files that
+were reviewed prior to the MLPA Closing Date or Mortgage Loans with complete
+legal files prior to the MLPA Closing Date, as the case may be, upon Purchaser's
+satisfaction that such criteria have been met (the Mortgage Loans that are to be
+repriced in accordance with this and the preceding sentence being referred to
+collectively as either, the "Cured Credit File Loans" or the "Cured Legal File
+Loans", as the case may be). On the fifth Business Day following the end of the
+Post-Closing Cure Period, Purchaser shall pay to the Company an amount equal to
+the difference between what Purchaser paid for the Credit File Exception Loans
+and Withdrawn Legal File Loans, as the case may be, on the MLPA Closing Date and
+what Purchaser would have paid for the Credit File Exception Loans and Withdrawn
+Legal File Loans, as the case may be, on such date had the Cured Credit File
+Loans and Cured Legal File Loans been priced as Performing Loans on the MLPA
+Closing Date. In addition, on the fifth Business Day following the end of the
+Post-Closing Cure Period, Purchaser shall pay to the Company an amount equal to
+$220 with respect to each Cured Legal File Loan.
+
+         (e) With respect to the 30 Loans listed on Schedule 6 attached hereto,
+the Purchase Price for each such Loan shall be reduced by $350 to account for
+missing appraisals.
+
+                                  ARTICLE III
+                              DELIVERY AND PAYMENT
+
+         SECTION 3.1. DELIVERY OF MORTGAGE LOANS. On the MLPA Closing Date and
+upon payment of the MLPA Purchase Price, ownership of the Mortgage Loans and the
+related Loan Files shall transfer to Chase and Seller shall instruct the
+custodian of the Loan Files to deliver or release such Loan Files to Chase
+whereupon the custodian shall hold such Loan Files as custodian for Chase
+pursuant to a custodian agreement to be entered into between Chase and the
+custodian of the Loan Files.
+
+         SECTION 3.2. [Reserved]
+
+         SECTION 3.3. INVESTOR RIGHTS AND SERVICING RIGHTS. The purchase price
+of each Mortgage Loan shall include all Investor Rights and Servicing Rights and
+benefits pertaining to such Mortgage Loan accruing from and after the MLPA
+Closing Date as well as the right to receive all collections of principal and
+Accrued Interest (together with all accrued interest on any Non-Performing
+Loans) on the Mortgage Loans after the Cut-off Date. Seller shall execute and
+deliver documentation (other than assignments and endorsements in accordance
+with Section 3.6 hereof), as outlined herein, to transfer all Investor Rights
+and Servicing Rights accruing from and after the MLPA Closing Date from Seller
+to Chase free and clear of all claims, liens and encumbrances, and to enable
+Chase (or its designated representative) to own, sell and service such Mortgage
+Loan. Seller hereby covenants to provide to Chase any additional documentation
+reasonably requested by Chase for such purposes.
+
+9
+<PAGE>   10
+         SECTION 3.4 INSPECTION OF MORTGAGE LOAN FILES. Chase reserves the right
+to inspect all Loan Files and Credit Files and satisfy itself that all Mortgage
+Loans comply with Seller's representations concerning the Mortgage Loans;
+however, no such inspection shall minimize any rights to recovery under the
+terms of this Loan Purchase Agreement. All Mortgage Loans that are not Unsalable
+Loans shall have a Loan File and Credit File that are complete in all material
+respects, consistent with Industry Practice.
+
+         SECTION 3.5  [Reserved]
+
+         SECTION 3.6 RECORDATION OF ASSIGNMENTS OF MORTGAGE. All Assignments of
+Mortgage and endorsements will be prepared by Purchaser in accordance with
+commercially reasonable terms and conditions. Purchaser will record such
+assignments in those jurisdictions where Purchaser deems appropriate. Seller
+shall provide one or more powers of attorney, in the form of Exhibit A-3 hereto
+with respect to each of the entities listed on Exhibit E hereto, to the
+Purchaser for the purpose of preparing and recording such Assignments of
+Mortgage. Purchaser shall deduct $25 per Mortgage Loan (but only for those
+Mortgage Loans with respect to which the related Property is located in one of
+the states listed on Exhibit F hereto) from the MLPA Purchase Price to cover the
+cost of the recordation referred to in this Section 3.6.
+
+
+                                   ARTICLE IV
+                         REPRESENTATIONS, WARRANTIES AND
+                               COVENANTS OF SELLER
+
+
+         SECTION 4.1 REPRESENTATIONS AND WARRANTIES REGARDING THE SELLING
+SUBSIDIARIES. Except as set forth in the Company Disclosure Schedule delivered
+to CMMC prior to the execution of the Purchase and Sale Agreement, as such
+Disclosure Schedule shall be updated in accordance with the requirements of the
+Purchase and Sale Agreement, each of the Selling Subsidiaries represents and
+warrants to Chase as of the date of execution of this Loan Purchase Agreement
+through and as of the MLPA Closing Date, the following:
+
+         A. The Company and each Selling Subsidiary is a corporation, industrial
+loan corporation or national banking association, as set forth in Section 4.01
+of the Company Disclosure Schedule, duly organized and validly existing under
+the laws of the jurisdiction of its formation or a banking organization duly
+chartered by its chartering authority. Each of the Company and Selling
+Subsidiaries is duly qualified as a foreign corporation to conduct its business
+in the states of the United States and any foreign jurisdictions where it is
+required to be so qualified other than those where the failure to be so
+qualified is not material;
+
+         B. The Company and each Selling Subsidiary has the full power and
+authority and legal right to hold, transfer and convey each Mortgage Loan, to
+sell each Mortgage Loan, and to execute, deliver and perform, and to enter into
+and consummate all transactions contemplated by this Loan Purchase Agreement.
+The execution and delivery
+
+10
+<PAGE>   11
+of this Loan Purchase Agreement and the consummation of the transactions
+contemplated hereby have been duly and validly authorized by the Board and no
+other corporate proceedings on the part of the Company or any Selling Subsidiary
+are necessary to authorize the execution, delivery or performance of this Loan
+Purchase Agreement. The Company and each Selling Subsidiary has the full power
+and authority to conduct its business as presently conducted, has duly
+authorized the execution, delivery and performance of this Loan Purchase
+Agreement and any agreements contemplated hereby, has duly executed and
+delivered this Loan Purchase Agreement, and any agreements contemplated hereby,
+and this Loan Purchase Agreement and any agreements contemplated hereby
+constitutes a legal, valid and binding obligation of the Company and each
+Selling Subsidiary, enforceable against it in accordance with its terms, and all
+requisite corporate action has been taken by the Company and each Selling
+Subsidiary to make this Loan Purchase Agreement and all agreements contemplated
+hereby valid and binding upon the Company and each Selling Subsidiary in
+accordance with their terms;
+
+         C. Neither the execution and delivery of this Loan Purchase Agreement
+by the Company and each Selling Subsidiary, nor the origination of the Mortgage
+Loans by the Company or the applicable Selling Subsidiary, the sale of the
+Mortgage Loans to Chase, the consummation of the transactions contemplated
+hereby, or the fulfillment of or compliance with the terms and conditions of
+this Loan Purchase Agreement will conflict with or result in any breach or
+violation of any of the terms, conditions or provisions of the Company or any
+Selling Subsidiary's charter or by-laws or conflict with or result in a material
+breach or violation of or a material default under (or require any consent of or
+notice to any Person) or give rise to any lien, right of termination, unilateral
+modification or amendment, or cancellation of any of the terms, conditions or
+provisions of any legal restriction or any agreement or instrument to which the
+Company or any Selling Subsidiary is now a party or by which they are bound, or
+constitute a default or result in an acceleration under any of the foregoing, or
+result in the material violation of any law, rule, regulation, statute,
+ordinance, order, judgment or decree to which the Company or any Selling
+Subsidiary or any of their properties are subject, or impair the ability of
+Chase to realize on the Mortgage Loans;
+
+         D. There is no litigation, suit, action, arbitration proceeding or
+investigation pending or threatened, or any order or decree outstanding, with
+respect to the Company or any Selling Subsidiary which, either in any one
+instance or in the aggregate, is reasonably likely to have a material adverse
+effect on the execution, delivery, performance or enforceability of this Loan
+Purchase Agreement, or which is reasonably likely to have a material adverse
+effect on the Company's or any Selling Subsidiary's ability to perform its
+obligations under this Loan Purchase Agreement or the Subservicer's obligations
+under the Servicing Agreement;
+
+         E. No consent, approval, authorization or order of any court or
+governmental or regulatory agency or body is required for the execution,
+delivery and performance by the Company or any Selling Subsidiary of or
+compliance by the Company or any Selling Subsidiary with this Loan Purchase
+Agreement, or the sale of the Mortgage Loans and delivery of the Credit Files
+and Loan Files to Chase or the consummation of the
+
+11
+<PAGE>   12
+transactions contemplated by this Loan Purchase Agreement, except for consents,
+approvals, authorizations and orders which have been obtained;
+
+         F. The Subservicer is an approved servicer of residential mortgage
+loans for FNMA and FHLMC, with such facilities, procedures and personnel
+necessary for servicing of such mortgage loans in accordance with Accepted
+Servicing Practices. The Subservicer has serviced the Mortgage Loans in
+accordance with Accepted Servicing Practices;
+
+         G. The Offering Materials are true and correct in all material
+respects; and
+
+         H. The representations and warranties in Exhibit A-1 hereto are in all
+material respects similar to the representations and warranties which the
+Company or any applicable Affiliate of the Company has made in recent
+Company-Sponsored Mortgage Loan Securitization Transactions (except with respect
+to representations and warranties relating to underwriting).
+
+         SECTION 4.2 REPRESENTATIONS AND WARRANTIES AS TO INDIVIDUAL MORTGAGE
+LOANS.
+
+         (a) With respect to each Securitizable Loan and Corporate Finance Loan
+that is a Securitizable Loan originated or acquired by such Selling Subsidiary,
+as identified in the Mortgage Loan Schedule, such Selling Subsidiary shall
+provide the representations and warranties set forth in Exhibit A-1 hereto.
+
+         (b) With respect to each Unsalable Loan, each Non-Performing Loan and
+each Corporate Finance Loan that would be an Unsalable Loan or a Non-Performing
+Loan except for the fact that Corporate Finance Loans are excluded from the
+definitions of Unsalable Loan and Non-Performing Loan, originated or acquired by
+such Selling Subsidiary, as identified in the Mortgage Loan Schedule, such
+Selling Subsidiary such Selling Subsidiary shall provide the representations and
+warranties set forth in Exhibit A-2 hereto.
+
+         (c) All of the representations and warranties set forth in this Article
+IV (including the representations and warranties set forth in Exhibit A-1 and
+Exhibit A-2 hereto) shall survive and continue in full force for the remaining
+life of the Mortgage Loan and are made for the benefit of Chase and its
+successors and assigns.
+
+         SECTION 4.3 COVENANT OF SELLER. Seller covenants and agrees with Chase
+that Seller shall notify Chase immediately if following the sale of any Mortgage
+Loan to Chase, Seller becomes aware of any fact or circumstance regarding any
+Mortgage Loan which would have caused any representation or warranty with
+respect to any Mortgage Loan to be incorrect.
+
+                                   ARTICLE V
+                            REMEDIES/INDEMNIFICATION
+
+12
+<PAGE>   13
+         SECTION 5.1  BREACH OF REPRESENTATION OR WARRANTY.
+
+     (a) Except as set forth in paragraph 5.1(b) below, each Selling Subsidiary
+shall provide indemnification of Purchaser from and against any Losses suffered,
+incurred or sustained by Purchaser resulting from any breach of any
+representation or warranty on the part of such Selling Subsidiary under this
+Loan Purchase Agreement. Upon sustaining a Loss, Purchaser shall give written
+notice to the Selling Subsidiary indicating that the Purchaser has sustained a
+Loss and specifying the amount of such Loss. Upon receipt of such notice, the
+indemnifying Selling Subsidiary shall have 30 days in which to investigate the
+cause of such Loss. The indemnifying Selling Subsidiary shall pay such
+indemnification to the Purchaser by wire transfer of immediately available funds
+as soon as such indemnifying Selling Subsidiary is satisfied as to the cause of
+such Loss and, unless there is a reasonable disagreement as to the cause of such
+Loss, not later than the tenth Business Day after the expiration of the 30 day
+period referred to above; provided, however, that in the case of any Loss
+relating to a Corporate Finance Loan, the indemnifying Selling Subsidiary shall
+only be required to indemnify Purchaser as provided in this Section if Purchaser
+has provided written notice to Seller that the Corporate Finance Reserve Amount
+has been reduced to zero. Except as set forth in paragraph 5.1(b) below, upon
+discovery of a breach of any of the representations and warranties or of the
+covenants contained in this Loan Purchase Agreement, the party discovering such
+breach shall give written notice to the other. Pursuant to the provisions of
+Section 8.9 hereof, Chase shall reasonably cooperate with the Company's or the
+Selling Subsidiary's attempt to cure any such breach.
+
+     With respect to those representations and warranties in Exhibit A-1 or A-2
+which include a knowledge qualifier ("to the best knowledge of such Selling
+Subsidiary" or similar language), Seller shall indemnify Purchaser for a breach
+of the underlying representation and warranty pursuant to the indemnification
+provisions as if the knowledge qualifier was omitted and did not apply.
+
+     (b) On the Cut-Off Date, Seller shall deliver to Purchaser a schedule of
+exceptions to the representations and warranties in Exhibit A-2 with respect to
+the Unsalable Loans and the Non-Performing Loans. Such Schedule shall be
+attached hereto as Schedule 3. Any items scheduled as exceptions to the
+representations and warranties under (iii), (iv), (vii) and (xii) of Exhibit A-2
+shall be deemed to be "Enforceability Exceptions" except to the extent that the
+scheduled exception does not have a material adverse effect on the validity or
+enforceability of the underlying Note or Mortgage. Scheduled exceptions to all
+other representations and warranties on Exhibit A-2 that have a material adverse
+effect on Purchaser's ability to realize the value of the Mortgage Loan shall be
+deemed to be "Non-Enforceability Exceptions."
+
+         (i) Non-Enforceability Exceptions. With respect to Mortgage Loans that
+are Unsalable Loans, Non-Enforceability Exceptions shall be acceptable to
+Purchaser and shall not result in either a request by Purchaser for
+indemnification or an adjustment to the MLPA Purchase Price but only if the
+total unpaid principal balance as of the Cut-Off Date of the affected Unsalable
+Loans (the "Non-Enforceability Exception Loans") does
+
+13
+<PAGE>   14
+not exceed ten percent (10%) of the total unpaid principal balances of all
+Unsalable Loans as of the Cut-Off Date (the "Exception Loan Threshold"). If,
+however, the total unpaid principal balances as of the Cut-off Date of the
+Non-Enforceability Exception Loans does exceed the Exception Loan Threshold,
+then Seller shall indemnify Purchaser with respect to the scheduled
+Non-Enforceability Exceptions in excess of the Exception Loan Threshold in
+accordance with Section 5.4. Non-Performing Loans with Non-Enforceability
+Exceptions shall be acceptable to Purchaser and shall not result in either a
+request by Purchaser for indemnification or an adjustment to the Purchase Price.
+
+         (ii) Enforceability Exceptions. With respect to Unsalable Loans with
+Enforceability Exceptions and Non-Performing Loans with Enforceability
+Exceptions, Seller shall indemnify Purchaser with respect to such Enforceability
+Exceptions in accordance with Section 5.4.
+
+         SECTION 5.2 [Reserved]
+
+         SECTION 5.3 [Reserved]
+
+         SECTION 5.4  INDEMNIFICATION.
+
+         (a) Subject to the limitations set forth in Section 5.1, each of
+Selling Subsidiary, on the one hand, and Chase on the other hand, hereby agree
+to indemnify, save, and hold harmless the other, its successors and assigns,
+from and against any and all Losses resulting or arising from its breach of any
+representation or warranty, covenant or agreement. This indemnification shall
+survive any termination or cancellation of this Loan Purchase Agreement.
+
+         (b) Any and all Losses referred to in this Article V shall be computed
+on a net basis, after taking into account any amounts received by any party or
+its affiliates under any insurance policies or other amounts received under
+contracts, any tax deductions taken or other tax benefits received as a result
+of such Losses. The indemnified party or its affiliates shall exercise
+commercially reasonable good faith efforts to pursue all available insurance
+recoveries or claims or other contractual benefits.
+
+         (c) If, under any circumstances, a Selling Subsidiary fails to fulfill
+indemnification or other obligations pursuant to this Loan Purchase Agreement,
+the Company shall be obligated to fulfill such indemnification and other
+obligations on behalf of the Selling Subsidiary. If a Selling Subsidiary is
+required by the terms of this Loan Purchase Agreement to fulfill an
+indemnification or other obligation by or within a specific time period, and
+such Selling Subsidiary fails to do so, the Company shall be obligated to
+fulfill such indemnification or other obligation on behalf of such Selling
+Subsidiary within two (2) Business Days of the expiration of such time period.
+
+         (d) If, under any circumstances, Chase fails to fulfill indemnification
+or other obligations pursuant to this Loan Purchase Agreement, CMMC shall be
+obligated to fulfill such indemnification and other obligations on behalf of
+Chase. If Chase is required
+
+14
+<PAGE>   15
+by the terms of this Loan Purchase Agreement to fulfill an indemnification or
+other obligation by or within a specific time period, and Chase fails to do so,
+CMMC shall be obligated to fulfill such indemnification or other obligation on
+behalf of CMMC within two (2) Business Days of the expiration of such time
+period.
+
+
+     SECTION 5.5 REMEDIES NOT EXCLUSIVE. The remedies set forth in this Article
+V and in other sections of this Loan Purchase Agreement are in addition to and
+not to the exclusion of any and all rights and remedies available to Chase at
+law or in equity including specific performance.
+
+
+                                   ARTICLE VI
+[RESERVED]
+
+                                   ARTICLE VII
+                                    SERVICING
+
+         SECTION 7.1 SELLER TO ASSIGN SERVICING. (a) Seller hereby assigns and
+releases all Servicing Rights and responsibilities including without limitation,
+all rights to receive servicing fees and other servicing-related income and
+benefits, with respect to each Mortgage Loan purchased under this Loan Purchase
+Agreement to and for the benefit of Chase, as of the MLPA Closing Date. Seller
+acknowledges and agrees that Chase shall enjoy such Servicing Rights, all freely
+assignable, with no residual, contingent or other claims thereon remaining in
+Seller. Chase hereby agrees to assume the servicing obligations of the assigned
+Mortgage Loans on the MLPA Closing Date; provided, however, that the obligations
+of the Company and Seller set forth in this Loan Purchase Agreement shall
+survive such assignment as obligations of the Company and Seller.
+
+         (b) The Subservicer shall subservice the Mortgage Loans after the MLPA
+Closing Date in accordance with the terms of that certain Loan Servicing
+Agreement, dated as of July 17, 1996, as amended, by and between Chase Manhattan
+Mortgage Corporation, as owner and master servicer, and Advanta Mortgage Corp.
+USA, as subservicer (as amended, the "Servicing Agreement"). In consideration of
+the Subservicer subservicing the Mortgage Loans in accordance with the Servicing
+Agreement, the Subservicer shall receive the Servicing Fee (as defined in the
+Servicing Agreement) in the manner and amount set forth in the Servicing
+Agreement (the "Servicing Fee"). Notwithstanding the foregoing, the set up fees
+in Section 4.10(c) of the Servicing Agreement and the termination fees in
+Section 6.15(c) of the Servicing Agreement shall not apply to the parties
+hereto.
+
+         SECTION 7.2 NON-SOLICITATION. The Seller and the Company each hereby
+agrees not to take any action or allow any action to be taken by any of its
+affiliates to solicit prepayment by any borrower. This non-solicitation
+provision shall be deemed to be on terms consistent with the non-solicitation
+provisions of Section 6.14 of the Purchase and Sale Agreement.
+
+15
+<PAGE>   16
+                                  ARTICLE VIII
+                            MISCELLANEOUS PROVISIONS
+
+         SECTION 8.1 ASSIGNMENT. This Loan Purchase Agreement shall be binding
+upon and inure to the benefit of the parties hereto and any permitted assignees.
+Seller may not assign, or delegate any of its rights, duties, and/or obligations
+hereunder without the written permission of Chase which may be withheld in its
+sole discretion. Chase may assign this Loan Purchase Agreement to any affiliate
+without consent; provided that such affiliate agrees in writing to be bound by
+all of the terms, conditions and provisions contained in this Loan Purchase
+Agreement.
+
+         SECTION 8.2 RELATIONSHIP BETWEEN PARTIES. No exclusive relationship
+between Seller and Chase shall result from this agreement. Seller is an
+independent contractor and nothing herein shall be construed to make Seller a
+partner, joint venture, employee or agent of Chase. Seller shall not make any
+statement which leads any third party to reasonably believe that it is an agent
+of Chase, and shall have no authority to bind or make any representations on
+behalf of Chase. Seller shall not use or refer to Chase's name in any form of
+advertising, written materials or circulars except as may be required by law.
+
+         SECTION 8.3 NO THIRD PARTY BENEFITS. This Loan Purchase Agreement is
+made for the express benefit of Seller and Chase, not for the benefit or
+interest of any other persons or entities, and accordingly, no third party shall
+obtain or acquire any rights or interest in this Loan Purchase Agreement or by
+reason of the performance or failure of performance of either of the parties
+hereto or of their respective rights, privileges, duties or obligations arising
+hereunder.
+
+         SECTION 8.4 ENTIRE AGREEMENT. This Loan Purchase Agreement, the
+Purchase and Sale Agreement and the Servicing Agreement, including all exhibits
+and schedules attached hereto or thereto together with any addendum(s) attached
+hereto or thereto and executed by all parties constitute the entire
+understanding of the parties regarding the subject matter hereof and supersede
+all other prior disclosures, agreements and understandings, both written and
+oral, among the parties with respect to the subject matter hereof. Any
+additions, changes, amendments or modifications of this Loan Purchase Agreement
+must be in writing and executed by all of the parties hereto. The invalidity of
+any portion of this Loan Purchase Agreement shall not affect the remaining
+provisions.
+
+
+         SECTION 8.5 NOTICE. Any notice required to be given to a party hereto
+under the provisions of this Loan Purchase Agreement must be in writing and
+delivered either personally, by telecopy transmission, or by certified mail to
+the other party at the following addresses, or such other address as may
+hereafter be furnished to the other party by like notice:
+
+         If to Chase or CMMC:
+         c/o Chase Manhattan Mortgage Corporation
+         300 Tice Boulevard
+
+16
+<PAGE>   17
+         Woodcliff Lake, New Jersey 07675
+         Facsimile: (201) 782-9084
+         Attention: Michael Katz
+
+         If to the Company or Seller:
+         c/o Advanta Corp.
+         Welsh & McKean Roads
+         Spring House, Pennsylvania  19477
+         Facsimile:  215-444-6403
+         Attention:  Michael Coco
+
+Any such demand, notice or communication hereunder shall be deemed to have been
+received on the date delivered to or received at the premises of the addressee
+(as evidenced, in the case of registered or certified mail, by the date noted on
+the return receipt).
+
+         SECTION 8.6 CAPTIONS. Paragraph or other headings contained in this
+Loan Purchase Agreement are for reference purposes only and shall not affect in
+any way the meaning or interpretation of this Loan Purchase Agreement.
+
+         SECTION 8.7 GOVERNING LAW. This Loan Purchase Agreement and the
+interpretation of its terms shall be governed by the laws of the State of
+Delaware without giving effect to its principles of conflicts of law. THE
+PARTIES WAIVE THEIR RIGHTS TO A JURY TRIAL IN ANY ACTION UNDER THIS LOAN
+PURCHASE AGREEMENT.
+
+         SECTION 8.8 COUNTERPARTS. This Loan Purchase Agreement may be executed
+in two or more counterparts, each of which shall be deemed to be an original and
+all of which, taken together, shall be deemed to be one Loan Purchase Agreement.
+
+         SECTION 8.9 COOPERATION IN CURING BREACHES OF REPRESENTATIONS AND
+WARRANTIES; ACCESS TO INFORMATION. After the closing under the Purchase and Sale
+Agreement Purchaser shall reasonably cooperate with the Company's or any Selling
+Subsidiary's attempt to cure any breach of a representation or warranty with
+respect to any Mortgage Loan. After the closing under the Purchase and Sale
+Agreement, the parties hereto shall comply with the provisions of Section 6.15
+of the Purchase and Sale Agreement.
+
+         SECTION 8.10 CONFIDENTIALITY. Seller shall not, at any time during or
+following termination of this Loan Purchase Agreement, regardless of the manner,
+reason, time or cause of such termination, directly or indirectly disclose or
+furnish to any person not entitled to receive the same for the immediate benefit
+of Chase (except to the extent actually required in connection with any
+litigation between parties arising out of this Loan Purchase Agreement or by
+applicable law), any trade secrets or confidential information including, but
+not limited to, information related to Chase business operations, credit
+policies, procedures and customers. Once the Closing has occurred
+
+17
+<PAGE>   18
+under the Purchase and Sale Agreement, this Section 8.10 shall be subject to
+Section 6.14(d) of the Purchase and Sale Agreement which governs the use of
+"Confidential Business Information" and such Section 6.14(d) is incorporated
+herein by reference in its entirety.
+
+
+18
+<PAGE>   19
+     IN WITNESS WHEREOF, each of the parties below has Loan Purchase Agreement
+to be executed as of the date and year first above written.
+
+
+                                       CHASE MANHATTAN BANK USA,
+                                       NATIONAL ASSOCIATION
+
+
+                                       BY:   /s/ Eileen A. Lindblom
+                                             ------------------------------
+                                       NAME: Eileen A. Lindblom
+                                       TITLE: Vice President
+
+
+                                       CHASE MANHATTAN MORTGAGE CORPORATION
+
+
+                                       BY:  /s/ Eileen A. Lindblom
+                                            --------------------------------
+                                       NAME: Eileen A. Lindblom
+                                       TITLE: Vice President
+
+
+                                       ADVANTA CORP., FOR ITSELF AND ON BEHALF
+                                       OF THE SELLING SUBSIDIARIES
+
+
+                                       BY:  /s/ William A. Rosoff
+                                            --------------------------------
+                                       NAME: William A. Rosoff
+                                       TITLE: President and Vice Chairman
+
+
+                                       ADVANTA MORTGAGE CORP. USA,
+                                       AS SUBSERVICER
+
+                                       BY:  /s/ William A. Rosoff
+                                            --------------------------------
+                                       NAME: William A. Rosoff
+                                       TITLE: President
+
+
+19
+<PAGE>   20
+                               Exhibit A-1
+
+Representations and Warranties for Securitizable Loans and Corporate Finance
+Loans
+
+         With respect to each Securitizable Loan and Corporate Finance Loan
+originated or acquired by such Selling Subsidiary, as identified in the Mortgage
+Loan Schedule, such Selling Subsidiary hereby represents, warrants and
+covenants, as of the MLPA Closing Date, as follows:
+
+                  (i) the information with respect to each Mortgage Loan set
+         forth in the Mortgage Loan Schedule is true and correct in all material
+         respects;
+
+                  (ii) all of the original or certified documentation required
+         to be delivered to Purchaser pursuant to this Loan Purchase Agreement
+         (including all material documents related thereto) with respect to each
+         Mortgage Loan has been or will be delivered to Purchaser in accordance
+         with the terms of the Loan Purchase Agreement; each of the documents
+         and instruments specified to be included therein has been duly executed
+         and is in due and proper form, and each such document or instrument is
+         in a form generally acceptable to prudent mortgage lenders that
+         regularly originate or purchase mortgage loans comparable to the
+         Mortgage Loans for sale to prudent investors in the secondary market
+         that invest in mortgage loans such as the Mortgage Loans;
+
+                  (iii) each Property is improved by a one-to-four family
+         residential dwelling, condominium or townhouse, which may include a
+         manufactured home which qualifies as eligible for inclusion in a REMIC;
+         provided, however, that no more than 10.0% by aggregate principal
+         balance of the Securitizable Loans and Corporate Finance Loans as of
+         the Cut-Off Date are leasehold mortgages;
+
+                  (iv) each Mortgage is either a valid and subsisting first,
+         second or third lien of record on the Property, as reflected on the
+         Mortgage Loan Schedule, (subject in the case of any Junior Mortgage
+         Loan only to a Senior Lien on such Property) and subject in all cases
+         to the exceptions to title set forth in the Mortgage Loan's title
+         insurance policy, which exceptions are generally acceptable to banking
+         institutions in connection with their regular mortgage lending
+         activities, and such other exceptions to which similar properties are
+         commonly subject and which do not individually, or in the aggregate,
+         materially and adversely affect the benefits of the security intended
+         to be provided by such Mortgage;
+
+                  (v) immediately prior to the transfer and assignment herein
+         contemplated, each Selling Subsidiary held good and indefeasible title
+         to, and was the owner of, each Mortgage Loan originated or acquired by
+         such Selling Subsidiary and conveyed by such Selling Subsidiary to
+         Purchaser; the Mortgage Loan was not subject to liens, charges,
+         mortgages, encumbrances or rights of others except liens which will be
+         released simultaneously with such transfer and assignment; and
+         immediately upon the transfer and assignment herein contemplated,
+         Purchaser will hold good and indefeasible title to, and be the sole
+         owner of, each Mortgage
+
+                                       21
+<PAGE>   21
+         Loan subject to no liens, charges, mortgages, encumbrances or rights of
+         others except liens which will be released simultaneously with such
+         transfer and assignment (and except, in the case of the Corporate
+         Finance Loans, subject to the Corporate Finance Agreements);
+
+                  (vi) no Securitizable Loans and Corporate Finance Loans are
+         Non-Performing Loans as of the Cut-Off Date;
+
+                  (vii) to the best knowledge of such Selling Subsidiary, there
+         is no delinquent tax or assessment lien on any Property, and each
+         Property is free of substantial damage and is in good repair;
+
+                  (viii) to the best knowledge of such Selling Subsidiary, there
+         is no valid and enforceable right of rescission, offset, defense or
+         counterclaim to any Note or Mortgage, including the obligation of the
+         related Mortgagor to pay the unpaid principal balance of or interest on
+         such Note or the defense of usury, nor will the operation of any of the
+         terms of the Note or the Mortgage, or the exercise of any right
+         thereunder, render either the Note or the Mortgage unenforceable in
+         whole or in part, or subject to any right of rescission, set-off,
+         counterclaim or defense, including the defense of usury, and no such
+         right of rescission, set-off, counterclaim or defense has been asserted
+         with respect thereto;
+
+                  (ix) to the best knowledge of such Selling Subsidiary, there
+         is no mechanics' lien or claim for work, labor or material affecting
+         any Property which is or may be a lien prior to, or equal with, the
+         lien of the related Mortgage except those which are insured against by
+         any title insurance policy referred to in paragraph (xi) below;
+
+                  (x) each Mortgage Loan at the time it was made complied in all
+         material respects with all applicable state and federal laws and
+         regulations, including, without limitation, the federal
+         Truth-in-Lending Act and other consumer protection laws, real estate
+         settlement procedure, usury, equal credit opportunity, disclosure and
+         recording laws;
+
+                  (xi) with respect to each Mortgage Loan, a title search or a
+         lender's title insurance policy, issued in standard California Land
+         Title Association form or American Land Title Association form, or
+         other form acceptable in a particular jurisdiction by a title insurance
+         company authorized to transact business in the state in which the
+         related Property is situated, in an amount at least equal to the
+         original principal amount of such Securitizable Loan insuring the
+         mortgagee's interest under the related Securitizable Loan as the holder
+         of a valid first, second or third mortgage lien of record on the
+         Property described in the related Mortgage, as the case may be, subject
+         only to exceptions of the character referred to in paragraph (iv)
+         above, was effective on the date of the origination of such Mortgage
+         Loan, and, as of the Cut-Off Date such policy, if issued or upon its
+         issuance, will be valid and thereafter such policy shall continue in
+         full force and effect;
+
+                  (xii) the improvements upon each Property are covered by a
+         valid and existing
+
+                                       22
+<PAGE>   22
+         hazard insurance policy (which may be a blanket policy) with a
+         generally acceptable carrier that provides for fire and extended
+         coverage representing coverage not less than the least of (A) the
+         outstanding principal balance of the related Mortgage Loan (together,
+         in the case of a Junior Mortgage Loan, with the outstanding principal
+         balance of the Senior Lien), (B) the minimum amount required to
+         compensate for damage or loss on a replacement cost basis or (C) the
+         full insurable value of the Property;
+
+                  (xiii) each Mortgage and Note, including any Prepayment
+         Penalty, is the legal, valid and binding obligation of the maker
+         thereof and is enforceable in accordance with its terms, except only as
+         such enforcement may be limited by bankruptcy, insolvency,
+         reorganization, moratorium or other similar laws affecting the
+         enforcement of creditors' rights generally and by general principles of
+         equity (whether considered in a proceeding or action in equity or at
+         law), and all parties to each Mortgage Loan had full legal capacity to
+         execute all documents relating to such Mortgage Loan and convey the
+         estate therein purported to be conveyed and the Note and Mortgage have
+         been duly and properly executed by such parties;
+
+                  (xiv) each original Mortgage was recorded or is in the process
+         of being recorded, and all subsequent assignments of the original
+         Mortgage have been or are in the process of being recorded in the
+         appropriate jurisdictions wherein such recordation is necessary to
+         perfect the lien thereof for the benefit of the applicable Selling
+         Subsidiary;
+
+                  (xv) the terms of each Note and each Mortgage have not been
+         impaired, altered or modified in any respect, except by a written
+         instrument which has been recorded, if necessary, to protect the
+         interest of the owners; the substance of each Note and/or Mortgage as
+         modified or altered, if applicable, is reflected on the Mortgage Loan
+         Schedule;
+
+                  (xvi) the proceeds of each Mortgage Loan (other than HELOCs)
+         have been fully disbursed, and there is no obligation on the part of
+         the mortgagee to make future advances thereunder; any and all
+         requirements as to completion of any on-site or off-site improvements
+         and as to disbursements of any escrow funds therefor have been complied
+         with; all costs, fees and expenses incurred in making or closing or
+         recording such Mortgage Loans were paid;
+
+                  (xvii) except as otherwise required by law or pursuant to the
+         statute under which the related Mortgage Loan was made, the related
+         Note is not and has not been secured by any collateral, pledged account
+         or other security except the lien of the corresponding Mortgage;
+
+                  (xviii) to the best knowledge of such Selling Subsidiary, no
+         Mortgage Loan was originated under a buydown plan;
+
+                  (xix) to the best knowledge of such Selling Subsidiary, no
+         Mortgage Loan provides for negative amortization, has a shared
+         appreciation feature, or other contingent
+
+                                       23
+<PAGE>   23
+         interest feature;
+
+                  (xx) each Property is located in the state identified in the
+         Mortgage Loan Schedule and consists of one or more parcels of real
+         Property with a residential dwelling erected thereon;
+
+                  (xxi) each Mortgage contains a provision for the acceleration
+         of the payment of the unpaid principal balance of the related Mortgage
+         Loan in the event the related Property is sold without the prior
+         consent of the mortgagee thereunder;
+
+                  (xxii) any advances made after the date of origination of a
+         Mortgage Loan but prior to the Cut-Off Date, have been consolidated
+         with the outstanding principal amount secured by the related Mortgage,
+         and the secured principal amount, as consolidated, bears a single
+         interest rate and single repayment term reflected on the Mortgage Loan
+         Schedule. No Note (other than Credit Line Agreements for HELOCs)
+         permits or obligates the Servicer or the Sub-Servicer to make future
+         advances to the related Mortgagor at the option of the Mortgagor;
+
+                  (xxiii) to the best knowledge of such Selling Subsidiary,
+         there is no proceeding pending or threatened for the total or partial
+         condemnation of any Property, nor is such a proceeding currently
+         occurring, and each Property is undamaged by waste, fire, earthquake or
+         earth movement, flood, tornado or other casualty, so as to affect
+         adversely the value of the Property as security for the Mortgage Loan
+         or the use for which the premises were intended;
+
+                  (xxiv) all of the improvements which were included for the
+         purposes of determining the appraised value of any Property lie wholly
+         within the boundaries and building restriction lines of such Property,
+         and no improvements on adjoining properties encroach upon such
+         Property, and, if a title insurance policy exists or upon its issuance
+         with respect to such Property, are stated in such title insurance
+         policy and affirmatively insured;
+
+                  (xxv) to the best knowledge of such Selling Subsidiary, no
+         improvement located on or being part of any Property is in violation of
+         any applicable zoning law or regulation; all inspections, licenses and
+         certificates required to be made or issued with respect to all occupied
+         portions of each Property and, with respect to the use and occupancy of
+         the same, including but not limited to certificates of occupancy and
+         fire underwriting certificates, have been made or obtained from the
+         appropriate authorities and such Property is lawfully occupied under
+         the applicable law;
+
+                  (xxvi) with respect to each Junior Mortgage Loan, either (A)
+         no consent for such Mortgage Loan was required by the holder of the
+         related Senior Lien prior to the making of such Mortgage Loan or (B)
+         such consent has been obtained and is contained in the related Mortgage
+         File;
+
+                  (xxvii) each Mortgage contains customary and enforceable
+         provisions which render the rights and remedies of the holder thereof
+         adequate for the realization against
+
+                                       24
+<PAGE>   24
+         the related Property of the benefits of the security, including (A) in
+         the case of a Mortgage designated as a deed of trust, by trustee's sale
+         and (B) otherwise by judicial foreclosure. To the best knowledge of
+         such Selling Subsidiary, there is no homestead or other exemption
+         available which materially interferes with the right to sell the
+         related Property at a trustee's sale or the right to foreclose the
+         related Mortgage;
+
+                  (xxviii) except as provided by paragraph (vi) above, there is
+         no default, breach, violation or event of acceleration existing under
+         any Mortgage or the related Note and no event which, with the passage
+         of time or with notice and the expiration of any grace or cure period,
+         would constitute a default, breach, violation or event of acceleration;
+         and the applicable Selling Subsidiary has not waived any default,
+         breach, violation or event of acceleration;
+
+                  (xxix) to the best knowledge of such Selling Subsidiary, no
+         instrument of release or waiver has been executed in connection with
+         any Mortgage Loan, and no Mortgagor has been released, in whole or in
+         part, except in connection with an assumption agreement and which has
+         been delivered to the Trustee;
+
+                  (xxx) the related Selling Subsidiary has no actual knowledge
+         that there exist on any Property any hazardous substances, hazardous
+         wastes or solid wastes, as such terms are defined in the Comprehensive
+         Environmental Response Compensation and Liability Act, the Resource
+         Conservation and Recovery Act of 1976, or other federal, state or local
+         environmental legislation.
+
+
+                                       25
+<PAGE>   25
+                                   Exhibit A-2
+
+         Representations and Warranties for Unsalable Loans and Non-Performing
+         Loans
+
+         With respect to each Unsalable Loan and each Non-Performing Loan
+originated or acquired by such Selling Subsidiary, as identified in the Mortgage
+Loan Schedule, such Selling Subsidiary hereby represents, warrants and
+covenants, as of the MLPA Closing Date, as follows:
+
+                  (i) the information with respect to each Mortgage Loan set
+         forth in the Mortgage Loan Schedule is true and correct in all material
+         respects;
+
+                  (ii) other than with respect to the Unsalable Loans, all of
+         the original or certified documentation required to be delivered to
+         Purchaser pursuant to this Loan Purchase Agreement (including all
+         material documents related thereto) with respect to each Mortgage Loan
+         has been or will be delivered to Purchaser in accordance with the terms
+         of this Loan Purchase Agreement; each of the documents and instruments
+         specified to be included therein has been duly executed and is in due
+         and proper form, and each such document or instrument is in a form
+         generally acceptable to prudent mortgage lenders that regularly
+         originate or purchase mortgage loans comparable to the Mortgage Loans
+         for sale to prudent investors in the secondary market that invest in
+         mortgage loans such as the Mortgage Loans;
+
+                  (iii) each Mortgage is either a valid and subsisting first,
+         second or third lien of record on the Property, as reflected on the
+         Mortgage Loan Schedule (subject in the case of any Junior Mortgage Loan
+         only to a Senior Lien on such Property) and subject in all cases to the
+         exceptions to title set forth in the Mortgage Loan's title insurance
+         policy, which exceptions are generally acceptable to banking
+         institutions in connection with their regular mortgage lending
+         activities, and such other exceptions to which similar properties are
+         commonly subject and which do not individually, or in the aggregate,
+         materially and adversely affect the benefits of the security intended
+         to be provided by such Mortgage;
+
+                  (iv) immediately prior to the transfer and assignment herein
+         contemplated, each Selling Subsidiary held good and indefeasible title
+         to, and was the owner of, each Mortgage Loan originated or acquired by
+         such Selling Subsidiary and conveyed by such Selling Subsidiary to
+         Purchaser; the Mortgage Loan was not subject to liens, charges,
+         mortgages, encumbrances or rights of others except liens which will be
+         released simultaneously with such transfer and assignment; and
+         immediately upon the transfer and assignment herein contemplated,
+         Purchaser will hold good and indefeasible title to, and be the sole
+         owner of, each Mortgage Loan subject to no liens, charges, mortgages,
+         encumbrances or rights of others except liens which will be released
+         simultaneously with such transfer and assignment;
+
+                  (v) other than Non-Performing Loans, no Mortgage Loans is a
+         Non-
+
+                                       26
+<PAGE>   26
+         Performing Loan as of the Cut-Off Date;
+
+                  (vi) except as set forth in Sections 4.07-6(b) and 4.31 of the
+         Company Disclosure Schedule to the Purchase and Sale Agreement, to the
+         best knowledge of such Selling Subsidiary, there is no delinquent tax
+         or assessment lien on any Property, and each Property is free of
+         substantial damage and is in good repair;
+
+                  (vii) to the best knowledge of such Selling Subsidiary, there
+         is no valid and enforceable right of rescission, offset, defense or
+         counterclaim to any Note or Mortgage, including the obligation of the
+         related Mortgagor to pay the unpaid principal balance of or interest on
+         such Note or the defense of usury, nor will the operation of any of the
+         terms of the Note or the Mortgage, or the exercise of any right
+         thereunder, render either the Note or the Mortgage unenforceable in
+         whole or in part, or subject to any right of rescission, set-off,
+         counterclaim or defense, including the defense of usury, and no such
+         right of rescission, set-off, counterclaim or defense has been asserted
+         with respect thereto;
+
+                  (viii) to the best knowledge of such Selling Subsidiary, there
+         is no mechanics' lien or claim for work, labor or material affecting
+         any Property which is or may be a lien prior to, or equal with, the
+         lien of the related Mortgage except those which are insured against by
+         any title insurance policy referred to in paragraph (x) below;
+
+                  (ix) each Mortgage Loan at the time it was made complied in
+         all material respects with all applicable state and federal laws and
+         regulations, including, without limitation, the federal
+         Truth-in-Lending Act and other consumer protection laws, real estate
+         settlement procedure, usury, equal credit opportunity, disclosure and
+         recording laws;
+
+                  (x) with respect to each Mortgage Loan, a title search or a
+         lender's title insurance policy, issued in standard California Land
+         Title Association form or American Land Title Association form, or
+         other form acceptable in a particular jurisdiction by a title insurance
+         company authorized to transact business in the state in which the
+         related Property is situated, in an amount at least equal to the
+         original principal amount of such Mortgage Loan insuring the
+         mortgagee's interest under the related Unsalable Loan as the holder of
+         a valid first, second or third mortgage lien of record as set forth in
+         the Mortgage Loan Schedule on the Property described in the related
+         Mortgage, as the case may be, subject only to exceptions of the
+         character referred to in paragraph (iii) above, was effective on the
+         date of the origination of such Mortgage Loan, and, as of the Cut-Off
+         Date such policy, if issued or upon its issuance, will be valid and
+         thereafter such policy shall continue in full force and effect;
+
+                  (xi) the improvements upon each Property are covered by a
+         valid and existing hazard insurance policy (which may be a blanket
+         policy) with a generally acceptable carrier that provides for fire and
+         extended coverage representing coverage not less than the least of (A)
+         the outstanding principal balance of the
+
+                                       27
+<PAGE>   27
+         related Mortgage Loan (together, in the case of a Junior Mortgage Loan,
+         with the outstanding principal balance of the Senior Lien), (B) the
+         minimum amount required to compensate for damage or loss on a
+         replacement cost basis or (C) the full insurable value of the Property;
+
+                  (xii) each Mortgage and Note, including any Prepayment
+         Penalty, is the legal, valid and binding obligation of the maker
+         thereof and is enforceable in accordance with its terms, except only as
+         such enforcement may be limited by bankruptcy, insolvency,
+         reorganization, moratorium or other similar laws affecting the
+         enforcement of creditors' rights generally and by general principles of
+         equity (whether considered in a proceeding or action in equity or at
+         law), and all parties to each Mortgage Loan had full legal capacity to
+         execute all documents relating to such Mortgage Loan and convey the
+         estate therein purported to be conveyed and the Note and Mortgage have
+         been duly and properly executed by such parties;
+
+                  (xiii) each original Mortgage was recorded or is in the
+         process of being recorded, and all subsequent assignments of the
+         original Mortgage have been or are in the process of being recorded in
+         the appropriate jurisdictions wherein such recordation is necessary to
+         perfect the lien thereof for the benefit of the applicable Selling
+         Subsidiary;
+
+                  (xiv) the terms of each Note and each Mortgage have not been
+         materially impaired, altered or modified in any respect, except by a
+         written instrument which has been recorded, if necessary, to protect
+         the interest of the owners; the substance of each Note and/or Mortgage
+         as modified or altered, if applicable, is reflected on the Mortgage
+         Loan Schedule.
+
+                  (xv) the proceeds of each Mortgage Loan (other than HELOCs)
+         have been fully disbursed, and there is no obligation on the part of
+         the mortgagee to make future advances thereunder; any and all
+         requirements as to completion of any on-site or off-site improvements
+         and as to disbursements of any escrow funds therefor have been complied
+         with; all costs, fees and expenses incurred in making or closing or
+         recording such Mortgage Loans were paid;
+
+                  (xvi) except as otherwise required by law or pursuant to the
+         statute under which the related Mortgage Loan was made, the related
+         Note is not and has not been secured by any collateral, pledged account
+         or other security except the lien of the corresponding Mortgage;
+
+                  (xvii) to the best knowledge of such Selling Subsidiary, no
+         Mortgage Loan was originated under a buydown plan;
+
+                  (xviii) to the best knowledge of such Selling Subsidiary, no
+         Loan provides for negative amortization, has a shared appreciation
+         feature, or other contingent interest feature;
+
+                  (xix) each Property is located in the state identified in the
+         Mortgage Loan Schedule
+
+                                       28
+<PAGE>   28
+         and consists of one or more parcels of real Property with a residential
+         dwelling erected thereon;
+
+                  (xx) each Mortgage contains a provision for the acceleration
+         of the payment of the unpaid principal balance of the related Mortgage
+         Loan in the event the related Property is sold without the prior
+         consent of the mortgagee thereunder;
+
+                  (xxi) any advances made after the date of origination of a
+         Mortgage Loan but prior to the Cut-Off Date, have been consolidated
+         with the outstanding principal amount secured by the related Mortgage,
+         and the secured principal amount, as consolidated, bears a single
+         interest rate and single repayment term reflected on the Mortgage Loan
+         Schedule. No Note (other than Credit Line Agreements for HELOCs)
+         permits or obligates the Servicer or the Sub-Servicer to make future
+         advances to the related Mortgagor at the option of the Mortgagor;
+
+                  (xxii) to the best knowledge of the Selling Subsidiary, there
+         is no proceeding pending or threatened for the total or partial
+         condemnation of any Property, nor is such a proceeding currently
+         occurring, and each Property is undamaged by waste, fire, earthquake or
+         earth movement, flood, tornado or other casualty, so as to affect
+         adversely the value of the Property as security for the Mortgage Loan
+         or the use for which the premises were intended;
+
+                  (xxiii) all of the improvements which were included for the
+         purposes of determining the appraised value of any Property lie wholly
+         within the boundaries and building restriction lines of such Property,
+         and no improvements on adjoining properties encroach upon such
+         Property, and, if a title insurance policy exists or upon its issuance
+         with respect to such Property, are stated in such title insurance
+         policy and affirmatively insured;
+
+                  (xxiv) to the best knowledge of such Selling Subsidiary, no
+         improvement located on or being part of any Property is in violation of
+         any applicable zoning law or regulation; all inspections, licenses and
+         certificates required to be made or issued with respect to all occupied
+         portions of each Property and, with respect to the use and occupancy of
+         the same, including but not limited to certificates of occupancy and
+         fire underwriting certificates, have been made or obtained from the
+         appropriate authorities and such Property is lawfully occupied under
+         the applicable law;
+
+                  (xxv) with respect to each Junior Mortgage Loan, either (A) no
+         consent for such Unsalable Loan was required by the holder of the
+         related Senior Lien prior to the making of such Mortgage Loan or (B)
+         such consent has been obtained and is contained in the related Mortgage
+         File;
+
+                  (xxvi) each Mortgage contains customary and enforceable
+         provisions which render the rights and remedies of the holder thereof
+         adequate for the realization against the related Property of the
+         benefits of the security, including (A) in the case of a Mortgage
+         designated as a deed of trust, by trustee's sale and
+
+                                       29
+<PAGE>   29
+         (B) otherwise by judicial foreclosure. To the best knowledge of such
+         Selling Subsidiary, there is no homestead or other exemption available
+         which materially interferes with the right to sell the related Property
+         at a trustee's sale or the right to foreclose the related Mortgage;
+
+                  (xxvii) other than with respect to the Non-Performing Loans,
+         except as provided by paragraph (v) above, there is no default, breach,
+         violation or event of acceleration existing under any Mortgage or the
+         related Note and no event which, with the passage of time or with
+         notice and the expiration of any grace or cure period, would constitute
+         a default, breach, violation or event of acceleration; and the
+         applicable Selling Subsidiary has not waived any default, breach,
+         violation or event of acceleration;
+
+                  (xxviii) to the best knowledge of such Selling Subsidiary, no
+         instrument of release or waiver has been executed in connection with
+         any Mortgage Loan, and no Mortgagor has been released, in whole or in
+         part, except in connection with an assumption agreement and which has
+         been delivered to the Trustee;
+
+                  (xxix) the related Selling Subsidiary has no actual knowledge
+         that there exist on any Property any hazardous substances, hazardous
+         wastes or solid wastes, as such terms are defined in the Comprehensive
+         Environmental Response Compensation and Liability Act, the Resource
+         Conservation and Recovery Act of 1976, or other federal, state or local
+         environmental legislation.
+
+
+                                       30
+<PAGE>   30
+                                   SCHEDULE 1
+                               MLPA PURCHASE PRICE
+
+On the MLPA Closing Date, the purchase price for the Mortgage Loans within a
+Pricing Category shall be equal to the product of (i) the Pricing Category Price
+(as set forth in Column B under "New Price" on Exhibit B) for the applicable
+Pricing Category (as set forth under Column A of Exhibit B) and, (ii) the unpaid
+principal balance as of the Cut-Off Date of all Mortgage Loans within the
+applicable Pricing Category. The aggregate purchase price to be paid by
+Purchaser on the MLPA Closing Date (the "MLPA Purchase Price") for the Mortgage
+Loans shall be the sum of the products calculated in accordance with the
+preceding sentence. The MLPA Purchase Price (less the applicable ARM holdback,
+document holdback and CF holdback) plus Accrued Interest (exclusive of accrued
+interest on Non-Performing Loans) shall be payable by Chase to Selling
+Subsidiaries on the MLPA Closing Date, by wire transfer of immediately available
+federal funds to such bank account or accounts as shall be designated by the
+Seller in writing two (2) Business Days prior to the MLPA Closing Date.
+
+Exhibit "B" sets forth the MLPA Purchase Price of the Mortgage Loans determined
+based on the unpaid principal balance as of November 30, 2000 (the "Pricing
+Cut-Off Date"). The MLPA Purchase Price as of the Pricing Cut-Off Date may be
+adjusted between the Pricing Cut-Off Date and the MLPA Closing Date only to the
+extent that Purchaser's due diligence performed in accordance with paragraph 8
+of the Letter Agreement, conclusively reveals that any of the Mortgage Loans
+were improperly categorized with respect to the Pricing Categories or as
+described in paragraph 6(c) of the Letter Agreement, with respect to
+Non-Enforceability Exceptions in excess of the Exception Loan Threshold and with
+respect to Enforceability Exceptions. In the event that any Mortgage Loan is
+recategorized into a different Pricing Category as a result of Purchaser's due
+diligence in accordance with paragraph 8 of the Letter Agreement or due to the
+Exception Loan Threshold having been exceeded, only the amount reflected as the
+unpaid principal balance associated with the applicable Pricing Categories shall
+be impacted.
+
+With respect to each of the Closed End Performing, and Open End Performing
+subcategories, a pricing adjustment, shown on Exhibit B, shall be made with
+respect to the portion of each such subcategory which constitutes Mortgage Loans
+31-60 days delinquent as of the Cut-off Date in excess of 1.5% of the aggregate
+outstanding principal balance of all of the Mortgage Loans in such subcategory.
+Such pricing adjustments shall cause a reduction in the purchase price for the
+Mortgage Loans in each such subcategory equal to, with respect to any such
+subcategory, one half of the product of (i) an amount equal to the amount of the
+aggregate outstanding principal balance of the Mortgage Loans in the related
+subcategory that were 31-60 days delinquent as of the Cut-off Date which exceeds
+1.5% of the aggregate outstanding principal balance of all of the Mortgage Loans
+in such subcategory and (ii) the percentage which is equal to the difference
+between (A) the weighted average purchase price percentage for the Mortgage
+Loans in such subcategory and (B) the weighted average purchase price percentage
+for the nonperforming loans corresponding to such subcategory (e.g., the
+difference between (A)
+
+<PAGE>   31
+the weighted average purchase price percentage for all Closed End Performing
+Mortgage Loans and (B) the weighted average purchase price percentage for all
+Closed End Nonperforming Mortgage Loans).
+
+Notwithstanding anything to the contrary in this Loan Purchase Agreement, it
+shall be a condition precedent to Seller's obligation to sell the Mortgage Loans
+under this Loan Purchase Agreement and the Company's obligation to close under
+the Purchase and Sale Agreement that the MLPA Purchase Price payable to Seller
+on the MLPA Closing Date for the Mortgage Loans identified in Exhibit A attached
+to this Loan Purchase Agreement not be less than $829,432,130 by $10,000,000 or
+more (including by reason of the removal of any loans by Seller from the
+Mortgage Loans as a result of Non-Enforceability Exceptions or Enforceability
+Exceptions, or any recategorization attributable to Purchaser's due diligence or
+to Seller's representations or warranties, but exclusive of amounts related to
+Mortgage Loan principal payments and payoffs between the Pricing Cut-off Date
+and the Cut-off Date, the ARM holdback, document holdback and the CF Holdback).
+
+All Corporate Finance Loans shall be categorized on Exhibit B hereto in the
+following Pricing Category: "Corporate Finance Loans."
+
+
+<PAGE>   32
+Copies of the following exhibits and schedules are omitted from filing herewith
+in accordance with paragraph (b)(2) of Item 601 of Regulation S-K, but will be
+furnished to the Securities and Exchange Commission upon request of the staff:
+
+Exhibit A      Mortgage Loan Schedule
+Exhibit A-3    Limited Power of Attorney
+Exhibit B      Mortgage Loans
+Exhibit C      Credit File Documentation
+Exhibit D      Loan File Documentation
+Exhibit E      Selling Subsidiaries
+Exhibit F      Priority States
+
+Schedule 2     Legal File Exceptions
+Schedule 3     Representation and Warranty Exceptions
+Schedule 4     Title Policy Missing/Incorrect Exceptions
+Schedule 5(a)  Credit File Exception Loans: Missing Credit Files
+Schedule 5(b)  Credit File Exception Loans: Missing Credit Documents
+Schedule 5(c)  Withdrawn Legal File Loans
+Schedule 6     Missing Appraisals
+Company Disclosure Schedule
+</TEXT>
+</DOCUMENT>

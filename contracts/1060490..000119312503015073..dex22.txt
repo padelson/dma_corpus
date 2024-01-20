@@ -1,905 +1,1376 @@
- EXHIBIT 2.2     Exhibit 2.2   EXECUTION
-COPY   AMENDMENT NO. 1 TO  AGREEMENT FOR THE PURCHASE AND SALE OF
-ASSETS   This Amendment No. 1 (this "Amendment") to the Agreement for
-the Purchase and Sale of Assets dated as of February 22, 2003 (the "Asset
-Purchase Agreement") by and between Broadwing Communications Services Inc., a
-Delaware corporation, Broadwing Communications Services of Virginia, Inc., a
-Virginia corporation, Broadwing Communications Real Estate Services LLC, a
-Delaware limited liability company, Broadwing Services LLC, a Delaware
-limited liability company, IXC Business Services LLC, a Delaware limited
-liability company, Broadwing Logistics LLC, a Delaware limited liability
-company, Broadwing Telecommunications Inc., a Delaware corporation, IXC
-Internet Services, Inc., a Delaware corporation, and MSM Associates, Limited
-Partnership, a Delaware limited partnership (individually, a "Seller" and
-collectively, "Sellers"), on the one side, and C III Communications, LLC, a
-Delaware limited liability company, and C III Communications Operations, LLC,
-a Delaware limited liability company (individually, a "Buyer" and
-collectively, "Buyers"), on the other side, is made as of June 6, 2003 by and
-among each of the parties referred to above.   WHEREAS, Sellers and Buyers
-desire to amend the Asset Purchase Agreement to reflect their agreement with
-respect to certain modifications to the Asset Purchase Agreement and certain
-of the Collateral Agreements as set forth in this Amendment;   NOW,
-THEREFORE, in consideration of the mutual covenants, agreements and
-warranties contained herein and in the Asset Purchase Agreement, the parties
-hereto agree as follows:   SECTION 1. Definitions; References. Each
-capitalized term used herein which is not defined herein shall have the
-meaning assigned to such term in the Asset Purchase Agreement. Each reference
-to "hereof", "hereunder", "herein" and "hereby" and each other similar
-reference and each reference to "this Agreement" and each other similar
-reference contained in the Asset Purchase Agreement shall from and after the
-date hereof refer to the Asset Purchase Agreement as amended hereby.  
-SECTION 2. Amendment of Asset Purchase Agreement. The Asset
-Purchase Agreement shall be amended as follows:   (a) Section 1.1 shall be
-amended by adding the following definitions in their alphabetically
-determined positions:   ""BCRES" shall mean Broadwing Communications Real
-Estate Services  LLC, a Delaware limited liability company."   "BCRES
-Assets" shall mean (a) BCRES Contracts, (b) all BCRES  fee-owned property,
-easements, and permits, and (c) those certain  assets of BCRES which are
-listed in the appropriate schedule to the  BCRES Bill of Sale, Assignment and
-Assumption     Agreement as being conveyed from various Affiliates of
-BCRES to BCRES  prior to, and following (as necessary), the First Stage
-Closing Date."   ""BCRES Assumed Liabilities" shall mean the obligations
-under BCRES  Contracts, all BCRES fee-owned property, easements, and permits,
-and  the other Assumed Liabilities listed in the appropriate schedule to
-the  BCRES Bill of Sale, Assignment and Assumption Agreement, in each case 
-to the extent arising out of, or resulting from, facts, events and 
-circumstances occurring, or which accrue, after the First Stage Closing  Date
-(other than due to any failure to comply or breach by any Sellers  or any of
-their Affiliates, whether before, on or after the First Stage  Closing
-Date)."   """BCRES Bill of Sale, Assignment and Assumption Agreement"
-shall  mean the bill of sale, assignment and assumption agreement in 
-substantially the form of the Bill of Sale, which shall be entered into  by
-and between BCRES and the other party(ies) thereto, including the  schedule
-of any assets to be conveyed in or out of BCRES and the  schedule of any
-liabilities and obligations to be transferred by a  Seller into BCRES or by
-BCRES to a Seller (or Seller Affiliate)."   ""BCRES Contracts" shall mean
-the Contracts related to the Business  (including the Network) to which BCRES
-is a party and which are listed  on Schedule 1.1(g)."   ""BCRES Excluded
-Assets" shall mean all assets of BCRES other than  BCRES Assets."   ""BCRES
-Excluded Liabilities" shall mean, other than BCRES Assumed  Liabilities, all
-liabilities of BCRES, including any debt (including  long-term debt, debt
-payable to any member of BCRES, all other interest  bearing liabilities and
-amounts distributable to members of BCRES),  claim, obligation or other
-liability (including any litigation or  potential litigation to which BCRES
-is or may be a party, and any other  liability, undisclosed liability,
-contingent liability or unknown  liability) of BCRES whatsoever, and those
-certain liabilities of BCRES  which are listed in the appropriate schedule to
-the BCRES Bill of Sale,  Assignment and Assumption Agreement as being
-assigned from BCRES to  various Affiliates of BCRES prior to the First Stage
-Closing Date."   ""BCRES Units" shall mean all of the limited liability
-company  interests of BCRES."   "Working Capital Promissory Note" shall
-mean that certain  promissory note in the form attached hereto as Exhibit U
-to be issued  by the Buyers to Broadwing Communications Services Inc., or
-an  Affiliate of Broadwing Communications Services Inc. to be designated by 
-the Sellers to the Buyers prior to the First Stage Closing, on the  First
-Stage Closing Date.   (b) Section 1.1 shall be further amended by amending
-and restating the following definitions:   2     "Business Records"
-means, collectively, all business books,  records, ledgers and files or other
-similar business information of  Sellers (in any form or medium) related to
-the Business, except the  general ledger (other than the Oracle software on
-which the general  ledger is kept containing a copy of the general ledger),
-stock ledgers,  corporate minute books, litigation files, Tax Returns and
-other  corporate level information and all information with respect to the 
-Excluded Assets, Excluded Liabilities and the Retained Business 
-(collectively, the "Excluded Business Records"); provided that the  Excluded
-Business Records shall not include the Business Records of  BCRES.  
-"Collateral Agreements" means the Bill of Sale, Assignment and  Assumption
-Agreement, Help Desk Agreement, APTIS Software Agreement,  Intercompany
-Agreements, Intellectual Property Rights Assignment  Agreement, C III LLC
-Agreement, Escrow Agreement (Working  Capital/Indemnity), Escrow Agreement
-(Closing Adjustment Receivables),  Escrow Agreement (Second Stage Closing),
-Working Capital Promissory  Note, Transition Services Agreement, Sellers\'
-Parent Guaranty, Buyers\'  Parent Guaranty, and the other documents and
-instruments to be executed  and delivered to effectuate the transfer of the
-Acquired Assets and the  assumption of the Assumed Liabilities and the other
-transactions  contemplated hereby, and any other agreement or instrument
-entered into  at or prior to the First Stage Closing Date and/or the Second
-Stage  Closing Dates pursuant to the provisions of this Agreement, each as 
-amended, supplemented or otherwise modified in accordance with the  terms
-herein and/or therein.   "Escrow Agreement (Second Stage Closing)" has the
-meaning assigned  to it in Section 5.11(f).   "Escrow Amount (Second Stage
-Closing)" means an amount equal to  Eighty Two Million Seven Hundred Fifty
-Thousand U.S. Dollars  ($82,750,000) less the First Stage Closing Cash
-Amount.   "Staged Closing Dates" means, collectively, the First Stage
-Closing  Date, the Second Stage Closing Date and the Third Stage Closing
-Date.   "Staged Closings" means, collectively, the First Stage Closing,
-the  Second Stage Closing and the Third Stage Closing.   "Title and
-Authorization Warranties" shall mean the representations  and warranties in
-Sections 3.1, 3.2, 3.4(a), 3.18, 4.1 and 4.2.   (c) Section 1.1 shall be
-further amended by deleting in their entirety the following
-definitions:    "Buyers\' Covenant Failure"   "Buyers\' RandW; Breach"  
-"Cranberry Plan Adjustment Amount"   "Cranberry Plan Adjustment
-Statement"   3     "Escrow Agreement (Cranberry Adjustment)"   "Escrow
-Amount (Cranberry Adjustment)"   "Key Employees"   "Preliminary Adjustment
-Amount"   "Preliminary Disagreement Notice"   "Preliminary Working
-Capital"   "Preliminary Working Capital Statement"   "Sellers\' Covenant
-Failure"   "Sellers\' RandW; Breach"   (d) Section 2.1(a) shall be amended
-by adding immediately after the word "including"contained therein the words
-"and the BCRES Units, and".   (e) Section 2.1 shall be further amended by
-amending and restating Section 2.1(b) as follows:   (b) Second Stage and
-Third Stage Closings. (i) Upon the terms and  subject to the conditions of
-this Agreement, Sellers shall sell and  transfer, assign, convey and deliver
-to Buyers, and Buyers shall  purchase, acquire and accept from Sellers, all
-of Sellers\' right, title  and interest in, to and under, each Asset not
-transferred pursuant to  the First Stage Closing as to which State PUC
-Consents have been  obtained as of the Second Stage Closing Date, but
-excluding the  Excluded Assets (the "Second Stage Purchased Assets"),
-including the  applicable Assets listed on Schedule 2.1, when and as the
-Second Stage  Closing Date shall occur.   (ii) Upon the terms and subject
-to the conditions of this  Agreement, Sellers shall sell and transfer,
-assign, convey and deliver  to Buyers, and Buyers shall purchase, acquire and
-accept from Sellers,  all of Sellers\' right, title and interest in, to and
-under, all  remaining Assets not transferred pursuant to the First Stage
-Closing  and the Second Stage Closing, but excluding the Excluded Assets 
-(collectively the "Third Stage Purchased Assets", and collectively with  the
-First Stage Purchased Assets and the Second Stage Purchased Assets,  the
-"Purchased Assets"), including the applicable Assets listed on  Schedule 2.1,
-when and as the last remaining State PUC Consent(s)  (including customer
-notices) required to sell, transfer, assign, convey  and deliver such Assets
-is obtained.   (f) Section 2.1 shall be further amended by adding a new
-Section 2.1(c) to read as follows: "(c) BCRES Assets. Notwithstanding the
-foregoing, no BCRES Assets shall be conveyed by this Section 2.1 (but the
-terms "First Stage Purchased Assets", "Purchased Assets" and "Acquired
-Assets" shall include BCRES Assets for all other purposes of this
-Agreement)."   4     (g) Section 2.2 shall be amended by amending and
-restating Section 2.2(b) as follows:   (b) Second Stage and Third Stage
-Closings. (i) Upon the terms  and subject to the conditions of this
-Agreement, when and as the Second  Stage Closing Date shall occur, Sellers
-shall assign and transfer to  Buyers all of Sellers\' right, title and
-interest in and to, and Buyers  shall take assignment of all of the
-following: (a) each of the  Contracts related to the Business to which one or
-more Sellers is a  party and that are related to the State PUC Consents that
-have been  obtained by the Second Stage Closing, excluding Contracts that
-comprise  Excluded Assets, but including all of the Contracts with customers
-of  the Business ("Second Stage Customer Contracts") and each of the other 
-Contracts listed on Schedule 2.2 related to the State PUC Consents that  have
-been obtained by the Second Stage Closing (collectively, including  the
-Second Stage Customer Contracts, the "Second Stage Purchased  Contracts");
-(b) each of the Permits of Sellers related to the Business  set forth on
-Schedule 2.2 which are transferable and that are related  to the State PUC
-Consents that have been obtained by the Second Stage  Closing, excluding
-Permits that comprise Excluded Assets, but including  each of the applicable
-Permits listed on Schedule 2.2 (the "Second  Stage Purchased Permits"; and
-together with the Second Stage Purchased  Contracts); and (c) each of the
-Communications Licenses of Sellers  related to the Business that are
-transferable and that are related to  the State PUC Consents that have been
-obtained by the Second Stage  Closing, excluding Communications Licenses that
-comprise Excluded  Assets (the "Second Stage Transferred Communications
-Licenses").   (ii) Upon the terms and subject to the conditions of this 
-Agreement, when and as the last remaining State PUC Consent(s)  (including
-customer notices) required to assign and transfer the  following are
-obtained, Sellers shall assign and transfer to Buyers all  of Sellers\'
-right, title and interest in and to, and Buyers shall take  assignment of all
-of the following: (a) each of the remaining Contracts  related to the
-Business to which one or more Sellers is a party,  excluding Contracts that
-comprise Excluded Assets, but including all of  the remaining Contracts with
-customers of the Business (collectively,  the "Third Stage Customer
-Contracts", and collectively with the First  Stage Customer Contracts and the
-Second Stage Customer Contracts, the  "Customer Contracts") and each of the
-other remaining Contracts listed  on Schedule 2.2 (collectively with the
-Third Stage Customer Contracts,  the "Third Stage Purchased Contracts", and
-collectively including the  Customer Contracts, the "Purchased Contracts");
-(b) each of the  remaining Permits of Sellers related to the Business set
-forth on  Schedule 2.2 which are transferable, excluding Permits that
-comprise  Excluded Assets, but including each of the remaining Permits listed
-on  Schedule 2.2 (collectively, the "Third Stage Purchased Permits", and 
-collectively with the First Stage Purchased Permits and the Second  Stage
-Purchased Permits, the "Purchased Permits"; and together with the  Purchased
-Contracts, the "Purchased Contracts and Permits"); and (c)  each of the
-remaining Communications Licenses of Sellers related to the  Business that
-are transferable, excluding Communications Licenses that  comprise Excluded
-Assets (collectively, the "Third Stage Transferred  Communications Licenses",
-and collectively with the First Stage  Transferred Communications Licenses
-and the Second Stage Transferred  Communications Licenses, the "Transferred
-Communications Licenses").   5     (h) Section 2.2 shall be further
-amended by adding a new Section 2.2(c) to read as follows: "(c) BCRES
-Contracts. Notwithstanding the foregoing, no BCRES Contracts shall be
-conveyed by this Section 2.2 (but the terms "First Stage Purchased Contracts"
-and "Purchased Contracts" shall include BCRES Contracts for all other
-purposes of this Agreement)."   (i) Section 2.3 shall be amended by adding
-at the end thereof the following proviso: "provided, however, that,
-notwithstanding the foregoing, the BCRES Units shall not be an Excluded
-Asset."   (j) Section 2.4 shall be amended by deleting Section 2.4(a) in
-its entirety.   (k) Section 2.4 shall be further amended by amending and
-restating Section 2.4(b) as follows:   (b) In consideration of the sale,
-transfer, assignment,  conveyance and delivery by Sellers of the Business and
-the Acquired  Assets, Buyers shall (i) (A) pay an aggregate amount equal to
-(1)  Fifty-Six Million Two Hundred Seventy Thousand U.S. Dollars 
-($56,270,000) (which the Sellers and Buyers agree represents 68% of the 
-revenues of the Business (as set forth in the Revenues Statement) as to 
-which State PUC Consents have been obtained on June 6, 2003 and 68% of 
-$82,750,000) plus (2) an amount equal to the product of $82,750,000 
-multiplied by the percentage of revenues of the Business (as set forth  in
-the Revenues Statement) represented by any additional State PUC  Consent(s)
-received between June 5, 2003 and the First Stage Closing  Date (such
-aggregate amount collectively, the "First Stage Closing Cash  Amount") in
-cash to Sellers at the First Stage Closing Date, which  amount shall be
-increased by the product of (x) Two Hundred Five  Thousand Eight Hundred
-Eighty-Two and 35/100 U.S. Dollars ($205,882.35)  multiplied by (y) the
-number of calendar days that the First Stage  Closing Date occurs after June
-13, 2003 up to and including June 30,  2003 (such amount, the "Delayed
-Closing Amount") provided that the  conditions in Section 7.1(a)(ii) have
-been satisfied and the failure of  the First Stage Closing to occur on or
-before such date did not result  from the failure of the Sellers to fulfill
-any undertaking or agreement  or satisfy any condition provided for herein
-that is required to be  fulfilled or satisfied by the Sellers prior to First
-Stage Closing, (B)  place the Escrow Amount (Second Stage Closing) in an
-interest bearing  escrow account in which it will be held pursuant to the
-terms of the  Escrow Agreement (Second Stage Closing) to support Buyers\'
-obligation  to pay the amount Buyers\' are obligated to pay at the Second
-Stage  Closing, (C) place the Escrow Amount (Working Capital/Indemnity) in
-an  interest bearing escrow account in which it will be held pursuant to 
-the terms of the Escrow Agreement (Working Capital/Indemnity) to  support
-Sellers\' obligations to pay any amount required to be paid by  Sellers under
-Section 2.4(g) regarding the difference between Closing  Working Capital and
-the estimate of the Closing Working Capital  described in the last sentence
-of this Section 2.4(b) and Sellers\'  indemnification obligations in
-accordance with Article 8, and (D) place  the Escrow Amount (Closing
-Adjustment Receivables) in an interest  bearing account in which it will be
-held pursuant to the terms of the  Escrow Agreement (Closing Adjustment
-Receivables) to support Sellers\'  obligation to pay amounts, if any,
-required to be paid by Sellers under  Section 2.4(h) and (ii) assume the
-First Stage Assumed Liabilities. The  First Stage Closing Cash Amount, as
-adjusted by the Delayed Closing  Amount, if any,   6     plus the
-Escrow Amount (Working Capital/Indemnity) and the Escrow  Amount (Closing
-Adjustment Receivables) (the two such escrow amounts in  the preceding
-clauses (C) and (D) referred to herein collectively as  the "Total Escrow
-Amount") constitutes the "Initial Purchase Price".  Buyers and Sellers agree
-that they shall, prior to the First Stage  Closing Date, in good faith
-estimate and mutually agree upon the amount  that Buyers may owe Sellers, if
-any, as a result of the adjustments for  Closing Working Capital in Section
-2.4 (the "Closing Working Capital  Estimate") and that Buyers will deliver,
-at the First Stage Closing  Date, a Working Capital Promissory Note in a
-principal amount equal to  the Closing Working Capital Estimate. The amount
-of the Working Capital  Promissory Note delivered pursuant to hereto shall
-increase the Initial  Purchase Price.   (l) Section 2.4 shall be further
-amended by amending and restating Section 2.4(c) as follows:   (c) All
-payments of the Purchase Price, except for the Total  Escrow Amount, the
-Escrow Amount (Second Stage Closing) and the Working  Capital Promissory
-Note, shall be made by wire transfer in immediately  available funds to an
-account designated by Sellers in written  instructions to be delivered to
-Buyers on or prior to the payment date.   (m) Section 2.4 shall be further
-amended by amending and restating Section 2.4(d) as follows:   (d) (i)
-Within thirty (30) days after the First Stage Closing  Date, Sellers shall
-deliver to Buyers a statement (the "Closing Working  Capital Statement"),
-setting forth the Working Capital as of the close  of business on the First
-Stage Closing Date (the "Closing Working  Capital"). The Closing Working
-Capital Statement shall be prepared by  the Sellers, and the Sellers\'
-independent accountants shall provide an  attestation thereof, in accordance
-with the terms of this Agreement.   (ii) Within sixty (60) days following
-the First Stage Closing  Date, the Sellers shall provide the Buyers with a
-copy of the unaudited  consolidated financial results for BCI, which shall
-set explicitly  forth, among other things, the aggregate amount of capital
-expenditures  made by the Sellers, solely in respect of the Business and the
-portion  of the first two quarters of 2003 prior to the First Stage Closing
-Date  (the "Cap Ex Statement"; the amount of such capital expenditures
-shown  on such statement, "Actual Capital Expenditures"). Such unaudited 
-consolidated financial results shall be prepared by Sellers, and the 
-Sellers\' independent accountants shall provide an attestation thereof,  in
-accordance with the terms of this Agreement. During the thirty (30)  day
-period following Buyers\' receipt of the Cap Ex Statement, Sellers  shall
-cause Sellers\' independent accountants to provide Buyers\'  independent
-accountants with such access, upon reasonable prior notice  and during normal
-business hours, to the work papers of Sellers\'  independent accountants as
-is reasonably necessary to verify the  calculation of the Cap Ex Statement.
-The Cap Ex Statement shall be  final and shall be accepted by and be binding
-on the parties on the  thirtieth (30th) day following delivery thereof unless
-Buyers give  written notice to Sellers of their disagreement with the Cap
-Ex  Statement (such notice, a "Cap Ex Statement Disagreement Notice") prior 
-to such date. Any Cap Ex   7     Statement Disagreement Notice shall
-specify in reasonable detail the  nature of any disagreement so asserted. If
-a Cap Ex Statement  Disagreement Notice is received by Sellers on or prior to
-such date,  then the Cap Ex Statement (as revised in accordance with
-Section  2.4(d)(iii)) shall become final and binding upon each Seller and
-each  Buyer, on the earlier of (1) the date Sellers and Buyers resolve in 
-writing any differences they have with respect to the matters specified  in
-such Cap Ex Statement Disagreement Notice, and (2) the date that an 
-Accounting Firm (as defined below) delivers to the Sellers and Buyers  its
-written determination of all disputed matters submitted to it  pursuant to
-Section 2.4(d) (the "Accounting Firm Cap Ex  Determination").   (iii)
-During the thirty (30) day period following delivery of  a Cap Ex Statement
-Disagreement Notice, Sellers and Buyers shall seek  in good faith to resolve
-in writing any differences which they may have  with respect to the matters
-set forth in such Cap Ex Statement  Disagreement Notice. If any disagreement
-included in the Cap Ex  Statement Disagreement Notice is not resolved in
-writing within such  thirty (30) day period, Sellers and Buyers shall submit
-to the  Accounting Firm for review and determination of any and all matters 
-which remain in dispute. The scope of the Accounting Firm\'s review  shall be
-limited to only those matters which have not been resolved in  writing within
-such thirty (30) day period. Sellers and Buyers shall  use all reasonable
-efforts to cause the Accounting Firm to deliver the  Accounting Firm Cap Ex
-Determination within thirty (30) days of the  receipt of such submission.
-Sellers and Buyers agree that the  Accounting Firm Cap Ex Determination shall
-be final and binding on the  parties and that judgment may be entered upon
-the Accounting Firm Cap  Ex Determination in any court having jurisdiction
-over the party  against which such determination is to be enforced. The
-Accounting Firm  Cap Ex Determination shall be accompanied by a certificate
-of the  Accounting Firm that it reached the Accounting Firm Cap Ex 
-Determination in accordance with the provisions of this Section 2.4.  The
-cost incurred in connection with the Accounting Firm Cap Ex  Determination
-(including the fees and expenses of the Accounting Firm  and of any
-enforcement of the Accounting Firm Cap Ex Determination)  pursuant to this
-Section 2.4 shall be borne by Buyers and Sellers in  inverse proportion as
-they may prevail on matters resolved by the  Accounting Firm, which
-proportionate allocation shall be calculated on  an aggregate basis based on
-the relative dollar values of the amounts  in dispute and shall be determined
-by the Accounting Firm at the time  the Accounting Firm Cap Ex Determination
-is rendered on the merits of  the matter submitted.   (iv) If the aggregate
-amount of capital expenditures set  forth in the Cranberry Capital
-Expenditure budget for the first two  quarters of 2003 as set forth on
-Schedule 2.4(d)(ii) exceeds the Actual  Capital Expenditures (as adjusted, if
-necessary pursuant to this  Section 2.4(d)) by more than $10,000,000, then
-the Sellers shall  promptly, but in no event later than five (5) Business
-Days after the  final determination of the Actual Capital Expenditures, pay
-such amount  in excess of $10,000,000 to the Buyers in cash. If the aggregate
-amount  of capital expenditures set forth in the Cranberry Capital
-Expenditure  budget for the first two quarters of 2003 as set forth on
-Schedule  2.4(d)(ii) does not exceed the Actual Capital Expenditures (as 
-adjusted, if necessary pursuant to this Section 2.4(d)) by more than 
-$10,000,000, then the Buyers shall promptly, but in no event later than  five
-(5) Business Days after the final determination of the Actual  Capital  
-8     Expenditures, pay such amount less than $10,000,000 to the Sellers
-in  cash. The Actual Capital Expenditures amount shall be calculated in 
-accordance with Generally Accepted Accounting Principles as  consistently
-applied with historical methods, provided that the Actual  Capital
-Expenditures amount shall include the $500,000 of actual  expenditures
-relating to the purchase of Corvis equipment or services  to create a route
-in Florida.   (n) Section 2.4 shall be further amended by replacing each use
-of the term "Adjustment Statements" in Section 2.4(e) with the term "Closing
-Working Capital Statement", and by deleting each use of the term "Cranberry
-Plan Adjustment Amount".   (o) Section 2.4 shall be further amended by
-amending and restating Section 2.4(g) as follows:   (g) The Initial
-Purchase Price shall be (i) increased by the  amount, if any, by which the
-Closing Working Capital, as finally  determined pursuant to this Section 2.4,
-exceeds $0 (or the principal  amount, if any, of any Working Capital
-Promissory Note delivered at the  First Stage Closing), and (ii) decreased by
-the amount, if any, by  which the Closing Working Capital, as finally
-determined pursuant to  this Section 2.4, is less than $0 (or the principal
-amount, if any, of  any Working Capital Promissory Note delivered at the
-First Stage  Closing) (the Initial Purchase Price as so increased or
-decreased shall  hereinafter be referred to as the "Adjusted CWC Purchase
-Price").  Within five (5) Business Days after the Closing Working Capital
-has  been finally determined in accordance with this Section 2.4, (I) if
-the  Closing Working Capital is in excess of $0 (or the principal amount,
-if  any, of any Working Capital Promissory Note delivered at the First 
-Stage Closing), Buyers shall deliver the Working Capital Promissory  Note to
-the Sellers (or increase the principal amount of such Note if  it was already
-delivered at the First Stage Closing) in an amount equal  to such excess, and
-(II) if the Closing Working Capital is less than $0  (or the principal
-amount, if any, of any Working Capital Promissory  Note delivered at the
-First Stage Closing), Buyers shall receive from  the Escrow Amount (Working
-Capital/Indemnity) pursuant to the Escrow  Agreement (Working
-Capital/Indemnity) (and/or decrease the principal  amount of any Working
-Capital Promissory Note delivered at the First  Stage Closing), and from
-Sellers to the extent such Escrow Amount  (Working Capital/Indemnity) is
-insufficient, an amount equal to such  deficit, together with interest
-thereon at a rate per annum equal to  the rate of interest from time to time
-publicly announced by Citibank,  N.A., in its New York office as its prime or
-base rate (the "Prime  Rate"), calculated on the basis of the actual number
-of days elapsed  over 365 from the date of delivery of the Closing Working
-Capital  Statement pursuant to Section 2.4(d)(i) to the date of payment. 
-Payments in respect of this Section 2.4, other than payments by an  increase
-or decrease in the Working Capital Promissory Note, shall be  made by wire
-transfer in immediately available funds to an account that  is designated by
-the party entitled to payment at least two (2)  Business Days prior to the
-date of payment.   (p) Section 2.4 shall be further amended by deleting the
-last sentence of Section 2.4(i) thereof and replacing it in its entirety with
-the following sentence: "Notwithstanding anything in this Agreement to the
-contrary, Working Capital shall not include any Excluded Assets, BCRES
-Excluded Assets, Excluded Liabilities or BCRES Excluded Liabilities."  
-9     (q) Section 2.4 shall be further amended by amending and
-restating Section 2.4(j) as follows:   (j) Upon the receipt of additional
-State PUC Consents following  the First Stage Closing Date (each, an
-"Additional State PUC Consent")  that represent in the aggregate one-half or
-more of the percentage of  revenues of the Business (as set forth in the
-Revenues Statement) that  were not the basis for the First Stage Cash Amount
-(the "Second Stage  Closing", and the date that the Second Stage Closing
-shall occur, the  "Second Stage Closing Date"), the Buyers shall release from
-the Escrow  Agreement (Second Stage Closing) to the Sellers an amount equal
-to one  half of the Escrow Amount (Second Stage Closing). Upon the receipt
-of  the last remaining State PUC Consent necessary to effectuate the 
-transfer of the Acquired Assets, the Buyers shall release the remaining 
-amount of the Escrow Amount (Second Stage Closing) to the Sellers (the 
-"Third Stage Closing", and the date that the Third Stage Closing shall 
-occur, the "Third Stage Closing Date").   (q) Section 2.4 shall be further
-amended by inserting a new Section 2.4(k) as follows:   (k) (i) For each
-month ending after the First Stage Closing Date  and prior to the twelve (12)
-month anniversary of the First Stage  Closing Date, as soon as available but
-in any event within twenty (20)  days after the end of each such month,
-Buyers shall deliver to Sellers  a written statement of the monthly Cash
-EBITDA Minus Capital  Expenditures of the Business (each a "Monthly Cash
-EBITDA Statement").  The Sellers shall have ten (10) days to review each
-Monthly Cash EBITDA  Statement. Upon the Sellers\' request, the Buyers shall
-meet with the  Sellers on any Business Day within the five Business Days
-following  such review to discuss such Monthly Cash EBITDA Statement;
-provided,  however, that the Buyers\' shall not be required to meet with
-the  Sellers for more than one-half (1/2) of one Business Day at any such 
-meeting.   (ii) On or before thirty (30) days following July 1, 2004, the 
-Buyers shall provide the Sellers with a written statement of Cash  EBITDA
-Minus Capital Expenditures of the Business for the period  between July 1,
-2003 through and including June 30, 2004 (the "Annual  Cash EBITDA
-Statement"). During the thirty (30) day period following  Sellers\' receipt
-of the Annual Cash EBITDA Statement, Buyers shall  provide access to the
-Business Records and Business Employees and shall  cause Buyers\' independent
-accountants to provide Sellers\' independent  accountants with such access,
-upon reasonable prior notice and during  normal business hours, to the work
-papers of Buyers\' independent  accountants as is reasonably necessary to
-verify the calculation of the  Annual Cash EBITDA Statement. The Annual Cash
-EBITDA Statement shall be  final and shall be accepted by and be binding on
-the parties on the  thirtieth (30th) day following delivery thereof unless
-Sellers give  written notice to Buyers of their disagreement with the Annual
-Cash  EBITDA Statement (such notice, a "Cash EBITDA Statement Disagreement 
-Notice") prior to such date. Any Cash EBITDA Statement Disagreement  Notice
-shall specify in reasonable detail the nature of any  disagreement so
-asserted. If a Cash EBITDA Statement Disagreement  Notice is received by
-Buyers on or prior to such date, then the Annual  Cash EBITDA Statement (as
-revised in accordance with Section  2.4(k)(iii)) shall become final and
-binding upon each Seller and each  Buyer,   10     on the earlier of
-(1) the date Sellers and Buyers resolve in writing  any differences they have
-with respect to the matters specified in such  Cash EBITDA Statement
-Disagreement Notice, and (2) the date that an  Accounting Firm delivers to
-the Sellers and Buyers its written  determination of all disputed matters
-submitted to it pursuant to  Section 2.4(k) (the "Accounting Firm Cash EBITDA
-Determination").   (iii) During the thirty (30) day period following
-delivery of  a Cash EBITDA Statement Disagreement Notice, Sellers and Buyers
-shall  seek in good faith to resolve in writing any differences which they
-may  have with respect to the matters set forth in such Cash EBITDA 
-Statement Disagreement Notice. If any disagreement included in the Cash 
-EBITDA Statement Disagreement Notice `is not resolved in writing within  such
-thirty (30) day period, Sellers and Buyers shall submit to the  Accounting
-Firm for review and determination of any and all matters  which remain in
-dispute. The scope of the Accounting Firm\'s review  shall be limited to only
-those matters which have not been resolved in  writing within such thirty
-(30) day period. Sellers and Buyers shall  use all reasonable efforts to
-cause the Accounting Firm to deliver the  Accounting Firm Cash EBITDA
-Determination within thirty (30) days of  the receipt of such submission.
-Sellers and Buyers agree that the  Accounting Firm Cash EBITDA Determination
-shall be final and binding on  the parties and that judgment may be entered
-upon the Accounting Firm  Cash EBITDA Determination in any court having
-jurisdiction over the  party against which such determination is to be
-enforced. The  Accounting Firm Cash EBITDA Determination shall be accompanied
-by a  certificate of the Accounting Firm that it reached the Accounting
-Firm  Cash EBITDA Determination in accordance with the provisions of this 
-Section 2.4. The cost incurred in connection with the Accounting Firm  Cash
-EBITDA Determination (including the fees and expenses of the  Accounting Firm
-and of any enforcement of the Accounting Firm Cash  EBITDA Determination)
-pursuant to this Section 2.4 shall be borne by  Buyers and Sellers in inverse
-proportion as they may prevail on matters  resolved by the Accounting Firm,
-which proportionate allocation shall  be calculated on an aggregate basis
-based on the relative dollar values  of the amounts in dispute and shall be
-determined by the Accounting  Firm at the time the Accounting Firm Cash
-EBITDA Determination is  rendered on the merits of the matter submitted. The
-Cash EBITDA Minus  Capital Expenditures of the Business for the period
-between July 1,  2003 through and including June 30, 2004, as set forth in
-the Annual  Cash EBITDA Statement and adjusted, if necessary pursuant to
-this  Section 2.4(k), shall be referred to herein as the "Annual Cash 
-EBITDA".   (iv) If the Annual Cash EBITDA as finally determined by this 
-Section 2.4(k) is less than $0 by a margin of $48,000,000 (the "Annual  Cash
-EBITDA Threshold") or more, then the Sellers shall pay to the  Buyers an
-amount in cash equal to the product of (x) 0.35, multiplied  by (y) the
-difference between negative $48,000,000 and the Annual Cash  EBITDA,
-provided, however, that under no circumstances shall the  Sellers be required
-to pay to the Buyers more than $10,000,000 in  connection with this Section
-2.4(k) (such amount, the "Annual Cash  EBITDA Payment"). The Sellers shall
-make the Annual Cash EBITDA Payment  promptly, but in no event later than
-five (5) Business Days of the  final determination of the Annual Cash EBITDA
-as set forth in this  Section 2.4(k). An illustration of the operation of
-this Section 2.4(k)  is set forth on Exhibit V attached hereto.  
-11     (v) Notwithstanding anything else to the contrary contained  in
-this Section 2.4(k), the Sellers shall have no obligation to make  the Annual
-Cash EBITDA Payment if, after the First Stage Closing, the  Buyers consummate
-a "sale transaction", which shall be defined as a  sale of fifty-one percent
-(51%) or more of the equity, voting control  or the assets acquired by the
-Buyers hereunder. If the ratio of  selling, general and administrative
-expenses ("SGandA;") to revenues  (calculated in accordance past practice) of
-the Business acquired by  the Buyers exceeds fifty-two percent (52%) for the
-period between July  1, 2003 and June 30, 2004, Sellers are not responsible
-for any negative  Cash EBITDA Minus Capital Expenditures attributable to such
-ratio being  in excess of fifty-two percent (52%).   (vi) The term "Cash
-EBITDA Minus Capital Expenditures" shall  mean EBITDA plus any allocated
-management fee, less Non-Cash Revenues,  less capital expenditures, and plus
-non-cash expenses; provided,  however, that capital expenditures for purposes
-of this calculation (x)  shall not exceed the lesser of the amount of actual
-capital  expenditures for the period between July 1, 2003 through and
-including  June 30, 2004 or $36,960,000 for such period, and (y) shall not
-include  any capital expenditures arising from transactions between
-Buyers\'  Parent or any of its Affiliates, on the one hand, and any of the 
-Buyers, on the other, that include financial terms that are more  favorable
-to Buyers\' Parent or any of its Affiliates than financial  terms that would
-be available to an unaffiliated third-party in an  arms-length transaction on
-fair-market value terms. The term "EBITDA"  means net income (loss) from
-continuing operations before interest,  income tax expense (benefit),
-depreciation, amortization, restructuring  and asset impairments, minority
-interest expense (income), equity loss  in unconsolidated entities, loss
-(gain) on investments, other expense  (income), extraordinary items and the
-effect of changes in accounting  principles. The term "Non-Cash Revenues"
-means revenue included in  Buyers\' consolidated income statement related to
-the amortization of  IRU contracts where the Buyers have previously received
-cash or revenue  included in Buyers\' consolidated income statement related
-to barter  agreements.   (r) Section 2.5(b) shall be amended and restated
-as follows:   (b) (i) Upon the terms and subject to the conditions in this 
-Agreement, at and as of (a) the Second Stage Closing Date, Sellers  shall
-assign, and Buyers shall assume and agree to honor, pay and  discharge when
-due, all of the following liabilities and obligations of  Sellers: the
-obligations under the Second Stage Purchased Contracts,  Second Stage
-Purchased Permits and the Second Stage Transferred  Communications Licenses,
-to the extent arising out of, or resulting  from, facts, events and
-circumstances occurring, or which accrue, after  the Second Stage Closing
-Date (other than due to any failure to comply  or breach of any of Sellers or
-any of their Affiliates, whether before,  on or after the Second Stage
-Closing Date), in each case except any  Excluded Liabilities (collectively,
-the "Second Stage Assumed  Liabilities").   (ii) Upon the terms and subject
-to the conditions in this  Agreement, at and as of (a) the Third Stage
-Closing Date, Sellers shall  assign, and Buyers shall assume and agree to
-honor, pay and discharge  when due, all of the following liabilities and
-obligations of Sellers:  the obligations under the Third Stage Purchased
-Contracts, Third Stage   12     Purchased Permits and the Third Stage
-Transferred Communications  Licenses, to the extent arising out of, or
-resulting from, facts,  events and circumstances occurring, or which accrue,
-after the Third  Stage Closing Date (other than due to any failure to comply
-or breach  of any of Sellers or any of their Affiliates, whether before, on
-or  after the Second Stage Closing Date), in each case except any Excluded 
-Liabilities (collectively, the "Third Stage Assumed Liabilities", and 
-collectively with the First Stage Assumed Liabilities and the Second  Stage
-Assumed Liabilities, the "Assumed Liabilities").   (s) Section 2.5 shall be
-amended by adding to the end of Section 2.5(c) thereof the following:
-"Notwithstanding the foregoing, BCRES Assumed Liabilities shall not be
-assigned or assumed pursuant to this Section 2.5 (but the term "Assumed
-Liabilities" shall include BCRES Assumed Liabilities for all other purposes
-of this Agreement), and BCRES Assumed Liabilities shall not
-constitute Excluded Liabilities."   (t) Section 2.7 shall be amended by
-adding a new Section 2.7(c) to read as follows: "(c) Notwithstanding anything
-contained herein to the contrary, Sellers shall sell, convey, transfer and
-deliver to Buyers by instruments of sale, conveyance, transfer and assignment
-effective to vest in Buyers, and Buyers shall have good and marketable title
-to, all of the BCRES Units, free and clear of all Encumbrances."   (u)
-Section 2 shall be further amended by adding a new Section 2.9
-as follows:   2.9 Agreement Regarding Certain Receivables of the
-Business   (a) All accounts receivable and the accounts payable owing from
-or  owing to, respectively, MCI Worldcom Network Services, Inc., and its 
-various affiliates and subsidiaries (collectively, "MCI") that arose  prior
-to and including March 31, 2003, whether or not reflected on the  Sellers
-Financial Statements, are Excluded Assets and Excluded  Liabilities,
-respectively. Upon the receipt by Sellers of any proceeds  from the MCI
-global settlement, the Sellers shall promptly, but in no  event later than
-five (5) Business Days after Sellers receipt thereof,  deliver fifty percent
-(50%) of such proceeds to the Buyers.   (b) Upon the receipt by Sellers of
-any payments from the Texas DOT  claim (meaning the claim for reimbursement
-of expenses related to the  I-10 relocation), the Sellers shall promptly, but
-in no event later  than five (5) Business Days after Sellers receipt thereof,
-deliver  fifty percent (50%) of such proceeds to the Buyers. If the Sellers 
-shall prevail in the Sellers\' arbitration with El Paso Global Networks,  or
-settle and receive a twenty (20) year IRU agreement on the  Houston-to-
-Austin-to-San Antonio route (the "EPGN Route"), without cost  to Buyers
-(other than maintenance costs at market rates and otherwise  consistent with
-industry practices) thereunder, entitling Sellers to  use twelve (12) fibers,
-then the Sellers shall provide to the Buyers,  without cost to Buyers, a
-twenty (20) year IRU agreement to use twelve  (12) fibers on such Route. If
-the Sellers do not prevail in the  Sellers\' arbitration with El Paso Global
-Networks or so settle, the  Buyers and the Sellers shall each bear fifty
-percent (50%) of the costs  of Buyers obtaining a twenty (20) year IRU
-agreement to receive,  without cost to Buyers (other than   13    
-maintenance costs at market rates and otherwise consistent with  industry
-practices), for up to, at the Buyers\' election, twelve (12)  fibers on the
-EPGN Route.   (v) Section 2 shall be further amended by adding a new Section
-2.10 as follows:   2.10 Agreement Regarding Newark Data Center   The
-Buyers and Sellers agree that to the extent that the Newark  data center
-owned by BCRES (the "BCRES Data Center"), which is an  Excluded Asset and an
-Excluded Liability hereunder, is not permitted to  be transferred from BCRES
-to an Affiliate of BCRES on or prior to the  First Stage Closing Date, the
-Sellers shall continue to receive the  benefits of and be subject to the
-obligations of the BCRES Data Center,  until the necessary Consent(s) is
-obtained to permit such transfer and  such transferee shall thereafter
-receive the benefits of the BCRES Data  Center (to the extent set forth in
-the Consent(s)) and be subject to  the obligations of the BCRES Data
-Center.   (w) Section 3 shall be amended by amending and restating the
-first clause of Section 3.8 as follows:   Schedule 3.8 contains a complete
-and accurate list of all Contracts  to which one or more of the Sellers are a
-party and that are related to  the Business as follows (which list shall be
-updated as of the  applicable Staged Closing Date and no such update is
-deemed to be an  inaccuracy if in compliance with Section 5.2).   (x)
-Section 3 shall be amended by adding a new Section 3.18 thereto
-as follows:   "3.18 BCRES   BCRES was formed on May 20, 2002. Other than
-holding BCRES  Contracts and BCRES Assets, and operations associated with
-holding the  BCRES Contracts and BCRES Assets, BCRES has conducted no
-operations  since its formation, and, except for any assets being conveyed
-out of  BCRES pursuant to the BCRES Bill of Sale, Assignment and Assumption 
-Agreement, holds and has held no assets other than BCRES Contracts and  BCRES
-Assets. BCRES does not have and never has had, any employees or  any Benefit
-Plans. Other than BCRES Assumed Liabilities, and except for  any liabilities
-or obligations to be transferred to a Seller (or Seller  Affiliate) pursuant
-to the BCRES Bill of Sale, Assignment and  Assumption Agreement, BCRES has no
-liabilities, debts, claims or  obligations, whether accrued, absolute,
-contingent or otherwise,  whether due or to become due. Notwithstanding
-anything to the contrary  contained in this Agreement, all of the BCRES Units
-are owned by  Broadwing Communications Services, Inc. free and clear of any 
-Encumbrance except for Encumbrances arising pursuant to the Credit  Agreement
-(which Sellers shall cause to be released on or prior to the  First Stage
-Closing), and all of the BCRES Units are validly issued  pursuant to the
-BCRES\' certificate of formation and limited liability  company agreement.
-The transfer of the BCRES Units to Buyers by Sellers  is not subject to any
-restriction or condition other than such  restrictions and conditions as will
-have been satisfied, waived,  released or terminated prior to the First Stage
-Closing. Except for the  right of the Buyers\' to purchase the BCRES Units as
-provided herein,  neither Sellers nor Broadwing   14     Communications
-Services, Inc. has granted any option, warrant or  similar right to any
-Person to purchase or acquire any rights with  respect to any BCRES Units.
-BCRES has made no election to be treated as  other than a disregarded entity
-for tax purposes and is not treated as  other than a disregarded entity for
-tax purposes by any state, local or  other taxing authority."   (y) Section
-5.4(a) shall be amended and restated as follows:   (a) Sellers shall provide
-Buyers with an update to Schedule 3.7(a)  immediately prior to the First
-Stage Closing Date. Unless otherwise  agreed in writing prior to the First
-Stage Closing Date, Buyers shall  make offers of employment to all of the
-Business Employees of Sellers  as of the First Stage Closing Date.
-Notwithstanding the foregoing  sentence, the Buyers shall not be required to
-make offers of employment  to the Business Employees denoted as "A" and "B"
-on Schedule 5.4(a),  and Buyers may request Sellers to terminate on or prior
-to the First  Stage Closing Date or Buyers may terminate, within ninety (90)
-after  the First Stage Closing Date (provided that Buyers shall provide 
-Sellers with at least five (5) Business Days advance notice prior to  the
-termination of any Business Employee that has an Employment  Agreement set
-forth on Schedule 3.8(a)), the employment of, up to ten  (10) Business
-Employees to be identified in writing by the Buyers to  the Sellers (the
-"Non-Transferred Employees"), two of whom shall be  deemed to be the Business
-Employees denoted as "A" and "B" on Schedule  5.4(a); provided that under no
-circumstances shall the Buyers or any of  the Buyers\' Affiliates extend an
-offer of employment or hire in any  capacity employee "A" set forth on
-Schedule 5.4(a), whether as an  employee, consultant, independent contractor
-or otherwise. Business  Employees who accept such offer of employment, as of
-the effective date  of their employment with Buyers or one of its Affiliates
-(the "Transfer  Date"), shall be referred to as "Transferred Employees."
-All  liabilities, costs and Actions related to Business Employees who do
-not  accept such offers of employment shall be Excluded Liabilities 
-hereunder. The Buyers may not employ any vice-president or higher of 
-Sellers, as set forth on Part II of Schedule 5.4(a) (each, a "Seller  Vice-
-President"), to whom they extend an offer, but which such Seller  Vice
-President declines such offer, for two (2) years after the First  Stage
-Closing Date, unless the Buyers agree to compensate Sellers for  the
-severance costs associated with such Seller Vice President. The  Sellers
-shall be responsible for all liabilities, costs and Actions  related to the
-Non-Transferred Employees; provided, however, that if  the amount of
-severance paid to the Non-Transferred Employees exceeds  in the aggregate
-$2,000,000, then the Buyers shall pay to the Sellers  the amount of severance
-in excess of $2,000,000 that is paid by the  Sellers to the Non-Transferred
-Employees. Each offer of employment  shall provide for a base salary no less
-than their base salary as an  employee of Sellers as of the First Stage
-Closing Date and health,  welfare, retirement and severance benefits as shall
-be applicable to  comparable Buyers\' employees generally.   (z) Section
-5.4 shall be further amended by inserting in Section 5.4(d)(i) the words
-"(excluding the Non-Transferred Employees, to the extent set forth in Section
-5.4(a))" following the word "Employees" and inserting in Section 5.4(d)(ii)
-the words "(excluding the Non-Transferred Employees, to the extent set forth
-in Section 5.4(a))" following the words "as required under Section 5.4(a)"
-and before the words "and whose employment".   15     (aa) Sections
-5.7(a), 5.7(b), 5.7(c) and 5.7(d) shall be deleted in their entirety.  
-(bb) Section 5.11(e) shall be amended and restated as follows:   (e) C III
-and Broadwing Communications Services Inc. ("BCSI")  shall have entered into
-a limited liability agreement prior to or on  the First Stage Closing Date,
-substantially on the terms and conditions  contained in Exhibit H hereto
-relating to Broadwing Communications  Services Inc. becoming a member of C
-III (the "C III LLC Agreement");  provided, however, that any transfer
-restrictions that apply to the  equity interests of C III that are held by
-BCSI, as set forth in the C  III LLC Agreement, shall also apply to a
-transfer of the equity  interests of BCSI; provided further, however, that
-such transfer  restrictions shall not apply to a transfer of the equity
-interests of  BCSI to any of its Affiliates.   (cc) Section 5.11(f) shall
-be amended by amending and restating clause (x) thereof as follows:   (x)
-intentionally omitted   (dd) Section 5.11(i) shall be amended and restated
-as follows:   (i) Buyers and Sellers and Sellers\' Parent shall have
-entered  into an agreement prior to or on the First Stage Closing Date, 
-substantially on the terms and conditions contained in Exhibit L hereto 
-relating to the management services to be provided by Buyers to Sellers 
-during the period subsequent to the First Stage Closing (the  "Management
-Services Agreement").   (ee) Section 5.15 shall be amended by deleting in
-their entirety Sections 5.15(a), 5.15(b) and 5.15(c).   (ff) Section
-5.16(c) shall be amended by deleting the last sentence thereof.   (gg)
-Section 5.23 shall be amended and restated as follows:   5.23 Commitment
-Letters    Prior to the First Stage Closing Date, Buyers shall meet with
-each  Business Employee who has an Employment Agreement set forth on
-Schedule  3.8(a) (other than those set forth on Schedule 5.4(a)), explain to
-such  Business Employee his or her contemplated position within Buyers and 
-make a corresponding offer of employment. Buyers shall assume the  Employment
-Agreement of each such Business Employee (other than those  set forth on
-Schedule 5.4(a)) who agrees to accept such offer  (including such position)
-and executes a letter agreeing to the  assumption of such Employment Contract
-and that such assumption (and  the position to be held by such Business
-Employee, other than those set  forth on Schedule 5.4(a)) is not a
-constructive termination under such  Employment Contract (a "Commitment
-Letter").   (hh) Section 6.1 shall be amended and restated as follows:  
-16     6.1 Closing   The closing of the transactions contemplated by
-this Agreement  (the "Closing") shall take place in three (3) stages at the
-offices of  Gibson, Dunn and Crutcher LLP in New York City. The first closing
-stage  (the "First Stage Closing"), at which the Initial Purchase Price
-shall  be paid in full, shall commence at 9:00 a.m. local time on June 13, 
-2003 (the "First Stage Closing Date"), or such later date as the  parties
-shall mutually agree upon; provided that any such adjournment  of the First
-Stage Closing Date that is not due to the failure to  satisfy the conditions
-in Section 7.1(a)(ii) and that results from the  failure of Sellers to
-fulfill any undertaking or agreement or to  satisfy any condition provided
-for herein that is required to be  fulfilled or satisfied by Sellers prior to
-the First Stage Closing Date  shall result in the payment by the Buyers to
-the Sellers of the Delayed  Closing Amount as set forth and in accordance
-with Section 2.4(b). The  Second Stage Closing and the Third Stage Closing
-shall occur as set  forth in Section 2.4(j).   (ii) Section 6.2 shall be
-amended by deleting the period at the end of Section 6.2(g) thereof,
-inserting a semi-colon in its place and inserting new Sections 6.2(h) and
-6.2(i) as follows:   "(h) a counterpart of the BCRES Bill of Sale,
-Assignment and  Assumption Agreement, duly executed by BCRES and the other 
-party(ies) thereto."   (jj) Section 6.3 shall be amended by inserting a new
-Section 6.3(f) as follows:   (f) the Working Capital Promissory Note.  
-(kk) Section 7.1(a) shall be amended by amending and restating clause (i)
-thereof as follows:   (i) intentionally omitted;   (ll) Section 7.2(a)
-shall be deleted in its entirety, provided that such deletion of Section
-7.2(a) shall not affect the Sellers indemnification obligations set forth in
-Article 8 of this Agreement.   (mm) Section 7.2(c) shall be amended and
-restated as follows:   (c) Intentionally omitted.   (nn) Section 7.2(d)
-shall be amended and restated as follows:   (d) Intentionally omitted.  
-(oo) Section 7.2(e) shall be amended and restated as follows:   (e) (i) The
-Sellers\' Consents set forth on Schedule 3.3(b)  received as of the First
-Stage Closing Date (as so indicated on the  Schedule 3.3(b) on the date
-hereof) shall be in full force and effect.   17     (ii) The Sellers
-shall have received an Amendment to the Credit  Agreement, or Consent under
-the Credit Agreement, that permits the  consummation of the transactions
-contemplated by this Agreement and the  Collateral Agreements.   (pp)
-Section 7.3(a) shall be shall be deleted in its entirety, provided that such
-deletion of Section 7.3(a) shall not affect the Buyers
-indemnification obligations set forth in Article 8 of this Agreement.  
-(qq) Section 7.4 shall be amended and restated as follows:   7.4 Second
-Stage and Third Stage General Conditions   The respective obligations of
-Buyers and Sellers to effect the  Second Stage Closing and the Third Stage
-Closing of the transactions  contemplated hereby are subject to (i) there not
-being an injunction or  other court order prohibiting the consummation of the
-transactions  contemplated by this Agreement to occur on the Second Stage
-Closing  Date or on the Third Stage Closing Date and (ii) Sellers shall
-have  changed their corporate or company name to a name that does not
-include  the word "Broadwing" or any name intended or likely to be confused
-or  associated with any Broadwing Name and have caused the registration of 
-the new name with the appropriate Governmental Body.   (rr) Section 8.2
-shall be amended by inserting in a the following sentence after the last
-sentence of Section 8.2(a):   Notwithstanding anything else to the contrary
-contained in this  Article 8 or elsewhere in this Agreement or in the
-Collateral  Agreements, or elsewhere, none of the Sellers or any of their 
-Affiliates shall be obligated to indemnify, defend and/or hold harmless  the
-Buyers, the Buyers\' Affiliates, or any of their employees,  representatives,
-agents, directors, officers, partners, members,  principals or assigns
-relating to or arising out of or resulting from  any of the matters set forth
-on Schedule 8.2(a).   (ss) Section 8.2 shall be further amended by inserting
-into Section 8.2(b) thereof the words "and BCRES Excluded Assets" after the
-words "Excluded Assets (including the Retained Business)" and the words "and
-BCRES Excluded Liabilities" after the words "Excluded Liabilities (including
-those related to the Retained Business)".   (tt) Section 8.2(c) shall be
-amended and restated as follows:   (c) Buyers further agree to jointly and
-severally indemnify,  defend and hold harmless Sellers and any other
-Indemnified Party of  Sellers from and against any Losses incurred by such
-party arising out  of, resulting from, or relating to: (1) any of the First
-Stage Assumed  Liabilities after the First Stage Closing, the Second Stage
-Assumed  Liabilities after the Second Stage Closing and the Third Stage
-Assumed  Liabilities after the Third Stage Closing; (2) any claim, demand
-or  liability for the Taxes for which Buyers are responsible pursuant to 
-Section 5.3; (3) any other liability or obligation with respect to the 
-conduct of the Business transferred on the First Stage Closing Date  after
-such Closing Date and with respect to the conduct of the Business 
-transferred after the First Stage Closing, to the extent arising out  of, or
-resulting from, facts, events or   18     circumstances occurring, or
-which accrue, after the applicable Staged  Closing Date (other than due to
-any failure to comply or breach of any  of Sellers or any of their
-Affiliates, whether before, on or after the  applicable Staged Closing Date);
-and (iv) any Third Party Claims  arising out of the Two Stage Waiver Notice
-(if any).   (uu) Section 8.2 shall be further amended by amending and
-restating the first clause of Section 8.2(f) as follows:   Sellers\' and
-Buyers\' respective liability for all Claims under  Section 8.2(a)(i) and all
-Claims under Section 8.2(b)(ii) with respect  to the indemnification for
-Consents identified in Schedule 8.2(b) (the  "Consents Indemnity") only shall
-be subject to the following  limitations:   (vv) Section 8.2 shall be
-further amended by adding a new Section 8.2(j) as follows:   (j) The
-Consents Indemnity shall not be effective for any periods  for which the
-Management Services Agreement is effective, or a lease of  use or other means
-of providing the Buyers the benefit of the Contract  subject to such Consent
-is provided by Sellers, without cost to Buyers,  is effective to avoid the
-necessity of a Consent to assignment with  respect to a Contract.
-Furthermore, such Consents Indemnity is not  payable to the extent that
-Losses are mitigated by Seller\'s provision  of an alternative means to
-provide to Buyers, without cost to Buyers,  the benefits of the related
-Contracts or Buyer\'s commercially  reasonable efforts to mitigate Losses in
-respect of such Contract(s).  The Consents Indemnity is not subject to the
-Threshold, but shall be  subject to the General Cap, notwithstanding anything
-to the contrary  contained in Section 8.2(f).   (ww) Section 9.1(c) shall
-be amended and restated as follows:   (c) Buyers or Sellers, if the First
-Stage Closing Date shall not  have occurred by June 30, 2003; provided that
-the failure of the First  Stage Closing to occur on or before such date did
-not result from the  failure by the party seeking termination of this
-Agreement to fulfill  any undertaking or agreement or satisfy any condition
-provided for  herein that is required to be fulfilled or satisfied by it
-prior to  First Stage Closing.   (xx) Sections 9.1(d) and 9.1(e) shall be
-deleted in their entirety.   (yy) Exhibit A to the Asset Purchase Agreement
-shall be deleted in its entirety.   (zz) A new Exhibit S shall be added to
-the Asset Purchase Agreement in the form attached hereto as Exhibit A.  
-(aaa) A new Schedule 1.1(g) shall be added to the Asset Purchase Agreement as
-attached hereto as Exhibit B.   (bbb) A new Exhibit U shall be added to the
-Asset Purchase Agreement in the form attached hereto as Exhibit C.  
-19     (ccc) The Asset Purchase Agreement shall be further amended by
-adding a new item 8 to Schedule 2.1 as follows:   8. The Business Records
-of BCRES.   (ddd) An amended and restated Schedule 2.3 shall be added to the
-Asset Purchase Agreement in the form attached hereto as Exhibit D.   (eee)
-The Asset Purchase Agreement shall be further amended by adding a new item 13
-to Schedule 2.5(c) as follows:   13. MCI accounts payable, in accordance
-with Section 2.9(a).   (fff) A new Schedule 2.4(d)(ii) shall be added to the
-Asset Purchase Agreement in the form attached hereto as Exhibit E.   (ggg)
-A new Exhibit V shall be added to the Asset Purchase Agreement in the form
-attached hereto as Exhibit F.   (hhh) An amended and restated Schedule
-3.3(b) shall be added to the Asset Purchase Agreement in the form attached
-hereto as Exhibit G.   (iii) A new Schedule 5.4(a) shall be added to the
-Asset Purchase Agreement in the form attached hereto as Exhibit H.   (jjj)
-A new Schedule 8.2(a) shall be added to the Asset Purchase Agreement in the
-form attached hereto as Exhibit I.   (kkk) The Asset Purchase Agreement
-shall be further amended by inserting a new Item in Schedule 8.2(b), which
-amendment to Schedule 8.2(b) is set forth in Exhibit J attached hereto.  
-(lll) The Asset Purchase Agreement shall be amended by replacing the term
-"Second Stage Closing Date" with the term "Third Stage Closing Date"
-in Sections 5.1(c), 5.2(d), 5.8, 5.9, 5.11(j), 5.17, 5.20 and 7.2(i).  
-(mmm) The Asset Purchase Agreement is hereby amended by deleting Section 9 of
-the Management Agreement and by amending and restating Section 1 of the
-Management Agreement as follows:   Section 1 of the Management Agreement
-shall take effect on the  First Stage Closing. This Management Agreement
-shall have a term  ("Management Term") which ends upon the receipt of the
-last Consent  required the Purchase Agreement, unless Managers elect to
-terminate the  Management Agreement for convenience by written notice to
-Licensees.   (nnn) The Asset Purchase Agreement shall be further amended by
-removing BCRES as a party thereto, provided that the representations,
-warranties and covenants made by BCRES contained in the Asset Purchase
-Agreement shall be deemed made by the other Sellers under the  
-20    Asset Purchase Agreement. The parties acknowledge and agree that
-BCRES is executing and delivering this Amendment solely to reflect its
-agreement with respect to this Section.   SECTION 3. Representations and
-Warranties of the Sellers. Each Seller, as of the date hereof, hereby makes
-the representations and warranties in Section 3.2 of the Asset Purchase
-Agreement as if set forth herein with respect to this Amendment. For purposes
-of clarity, all references in such section to "this Agreement" shall mean the
-Asset Purchase Agreement, as amended by this Amendment.   SECTION 4.
-Representations and Warranties of the Buyers. Each Buyer, as of the date
-hereof, hereby makes the representations and warranties in Section 4.2 of the
-Asset Purchase Agreement as if set forth herein with respect to
-this Amendment. For purposes of clarity, all references in such section to
-"this Agreement" shall mean the Asset Purchase Agreement, as amended by
-this Amendment.   SECTION 5. Applicable Law. This Amendment shall be
-construed in accordance with and governed by the internal laws of the State
-of New York applicable to agreements made and to be performed entirely within
-such State without regard to conflicts of laws principles thereof.  
-SECTION 6. Counterparts. This Amendment may be executed simultaneously in two
-or more counterparts, each of which will be deemed to be an original copy of
-this Amendment and all of which together will be deemed, respectively,
-to constitute one and the same agreement.   [REMAINDER OF PAGE
-INTENTIONALLY LEFT BLANK]   21     IN WITNESS WHEREOF, each party has
-caused this Amendment to be duly executed on its behalf by its duly
-authorized officers as of the date first written above.   BROADWING
-COMMUNICATIONS  SERVICES INC.    By: /s/ Kevin W. Mooney 
--------------------------------------------------  Name: Kevin W. Mooney 
-Title: Chief Executive Officer    BROADWING COMMUNICATIONS SERVICES  OF
-VIRGINIA INC.    By: /s/ Kevin W. Mooney 
--------------------------------------------------  Name: Kevin W. Mooney 
-Title: Chief Executive Officer    BROADWING COMMUNICATIONS REAL  ESTATE
-SERVICES LLC    By: /s/ Thomas L. Schilling 
--------------------------------------------------  Name: Thomas L.
-Schilling  Title: Manager    BROADWING SERVICES LLC    By: /s/ Kevin W.
-Mooney  -------------------------------------------------  Name: Kevin W.
-Mooney  Title: Chief Executive Officer    IXC BUSINESS SERVICES, LLC   
-By: /s/ Thomas L. Schilling 
--------------------------------------------------  Name: Thomas L.
-Schilling  Title: Manager   22      BROADWING TELECOMMUNICATIONS
-INC.    By: /s/ Kevin W. Mooney 
---------------------------------------------------  Name: Kevin W. Mooney 
-Title: Chief Executive Officer    IXC INTERNET SERVICES, INC.    By: /s/
-Kevin W. Mooney  --------------------------------------------------  Name:
-Kevin W. Mooney  Title: Chief Executive Officer    BROADWING LOGISTICS
-LLC    By: /s/ Kevin W. Mooney 
---------------------------------------------------  Name: Kevin W. Mooney 
-Title: Chief Executive Officer    MSM ASSOCIATES, LIMITED PARTNERSHIP  
-By: MUTUAL SIGNAL CORPORATION OF  MICHIGAN, its General Partner    By: /s/
-Kevin W. Mooney  ------------------------------------------------  Name:
-Kevin W. Mooney  Title: Chief Executive Officer   23     C III
-COMMUNICATIONS, LLC    By: /s/ Martin Kerckhoff 
------------------------------------  Name:  Title:   C III COMMUNICATIONS
-OPERATIONS, LLC    By: /s/ Martin Kerckhoff 
-------------------------------------  Name:  Title:   24    '
+<DOCUMENT>
+<TYPE>EX-2.2
+<SEQUENCE>3
+<FILENAME>dex22.txt
+<DESCRIPTION>EXHIBIT 2.2
+<TEXT>
+<PAGE>
 
+                                                                     Exhibit 2.2
+
+                                                                  EXECUTION COPY
+
+                               AMENDMENT NO. 1 TO
+                  AGREEMENT FOR THE PURCHASE AND SALE OF ASSETS
+
+             This Amendment No. 1 (this "Amendment") to the Agreement for the
+Purchase and Sale of Assets dated as of February 22, 2003 (the "Asset Purchase
+Agreement") by and between Broadwing Communications Services Inc., a Delaware
+corporation, Broadwing Communications Services of Virginia, Inc., a Virginia
+corporation, Broadwing Communications Real Estate Services LLC, a Delaware
+limited liability company, Broadwing Services LLC, a Delaware limited liability
+company, IXC Business Services LLC, a Delaware limited liability company,
+Broadwing Logistics LLC, a Delaware limited liability company, Broadwing
+Telecommunications Inc., a Delaware corporation, IXC Internet Services, Inc., a
+Delaware corporation, and MSM Associates, Limited Partnership, a Delaware
+limited partnership (individually, a "Seller" and collectively, "Sellers"), on
+the one side, and C III Communications, LLC, a Delaware limited liability
+company, and C III Communications Operations, LLC, a Delaware limited liability
+company (individually, a "Buyer" and collectively, "Buyers"), on the other side,
+is made as of June 6, 2003 by and among each of the parties referred to above.
+
+             WHEREAS, Sellers and Buyers desire to amend the Asset Purchase
+Agreement to reflect their agreement with respect to certain modifications to
+the Asset Purchase Agreement and certain of the Collateral Agreements as set
+forth in this Amendment;
+
+             NOW, THEREFORE, in consideration of the mutual covenants,
+agreements and warranties contained herein and in the Asset Purchase Agreement,
+the parties hereto agree as follows:
+
+         SECTION 1. Definitions; References. Each capitalized term used herein
+which is not defined herein shall have the meaning assigned to such term in the
+Asset Purchase Agreement. Each reference to "hereof", "hereunder", "herein" and
+"hereby" and each other similar reference and each reference to "this Agreement"
+and each other similar reference contained in the Asset Purchase Agreement shall
+from and after the date hereof refer to the Asset Purchase Agreement as amended
+hereby.
+
+         SECTION 2. Amendment of Asset Purchase Agreement. The Asset Purchase
+Agreement shall be amended as follows:
+
+         (a) Section 1.1 shall be amended by adding the following definitions in
+their alphabetically determined positions:
+
+             ""BCRES" shall mean Broadwing Communications Real Estate Services
+         LLC, a Delaware limited liability company."
+
+             "BCRES Assets" shall mean (a) BCRES Contracts, (b) all BCRES
+         fee-owned property, easements, and permits, and (c) those certain
+         assets of BCRES which are listed in the appropriate schedule to the
+         BCRES Bill of Sale, Assignment and Assumption
+
+<PAGE>
+
+         Agreement as being conveyed from various Affiliates of BCRES to BCRES
+         prior to, and following (as necessary), the First Stage Closing Date."
+
+             ""BCRES Assumed Liabilities" shall mean the obligations under BCRES
+         Contracts, all BCRES fee-owned property, easements, and permits, and
+         the other Assumed Liabilities listed in the appropriate schedule to the
+         BCRES Bill of Sale, Assignment and Assumption Agreement, in each case
+         to the extent arising out of, or resulting from, facts, events and
+         circumstances occurring, or which accrue, after the First Stage Closing
+         Date (other than due to any failure to comply or breach by any Sellers
+         or any of their Affiliates, whether before, on or after the First Stage
+         Closing Date)."
+
+             """BCRES Bill of Sale, Assignment and Assumption Agreement" shall
+         mean the bill of sale, assignment and assumption agreement in
+         substantially the form of the Bill of Sale, which shall be entered into
+         by and between BCRES and the other party(ies) thereto, including the
+         schedule of any assets to be conveyed in or out of BCRES and the
+         schedule of any liabilities and obligations to be transferred by a
+         Seller into BCRES or by BCRES to a Seller (or Seller Affiliate)."
+
+             ""BCRES Contracts" shall mean the Contracts related to the Business
+         (including the Network) to which BCRES is a party and which are listed
+         on Schedule 1.1(g)."
+
+             ""BCRES Excluded Assets" shall mean all assets of BCRES other than
+         BCRES Assets."
+
+             ""BCRES Excluded Liabilities" shall mean, other than BCRES Assumed
+         Liabilities, all liabilities of BCRES, including any debt (including
+         long-term debt, debt payable to any member of BCRES, all other interest
+         bearing liabilities and amounts distributable to members of BCRES),
+         claim, obligation or other liability (including any litigation or
+         potential litigation to which BCRES is or may be a party, and any other
+         liability, undisclosed liability, contingent liability or unknown
+         liability) of BCRES whatsoever, and those certain liabilities of BCRES
+         which are listed in the appropriate schedule to the BCRES Bill of Sale,
+         Assignment and Assumption Agreement as being assigned from BCRES to
+         various Affiliates of BCRES prior to the First Stage Closing Date."
+
+             ""BCRES Units" shall mean all of the limited liability company
+         interests of BCRES."
+
+             "Working Capital Promissory Note" shall mean that certain
+         promissory note in the form attached hereto as Exhibit U to be issued
+         by the Buyers to Broadwing Communications Services Inc., or an
+         Affiliate of Broadwing Communications Services Inc. to be designated by
+         the Sellers to the Buyers prior to the First Stage Closing, on the
+         First Stage Closing Date.
+
+         (b) Section 1.1 shall be further amended by amending and restating the
+following definitions:
+
+                                        2
+
+<PAGE>
+
+             "Business Records" means, collectively, all business books,
+         records, ledgers and files or other similar business information of
+         Sellers (in any form or medium) related to the Business, except the
+         general ledger (other than the Oracle software on which the general
+         ledger is kept containing a copy of the general ledger), stock ledgers,
+         corporate minute books, litigation files, Tax Returns and other
+         corporate level information and all information with respect to the
+         Excluded Assets, Excluded Liabilities and the Retained Business
+         (collectively, the "Excluded Business Records"); provided that the
+         Excluded Business Records shall not include the Business Records of
+         BCRES.
+
+             "Collateral Agreements" means the Bill of Sale, Assignment and
+         Assumption Agreement, Help Desk Agreement, APTIS Software Agreement,
+         Intercompany Agreements, Intellectual Property Rights Assignment
+         Agreement, C III LLC Agreement, Escrow Agreement (Working
+         Capital/Indemnity), Escrow Agreement (Closing Adjustment Receivables),
+         Escrow Agreement (Second Stage Closing), Working Capital Promissory
+         Note, Transition Services Agreement, Sellers' Parent Guaranty, Buyers'
+         Parent Guaranty, and the other documents and instruments to be executed
+         and delivered to effectuate the transfer of the Acquired Assets and the
+         assumption of the Assumed Liabilities and the other transactions
+         contemplated hereby, and any other agreement or instrument entered into
+         at or prior to the First Stage Closing Date and/or the Second Stage
+         Closing Dates pursuant to the provisions of this Agreement, each as
+         amended, supplemented or otherwise modified in accordance with the
+         terms herein and/or therein.
+
+             "Escrow Agreement (Second Stage Closing)" has the meaning assigned
+         to it in Section 5.11(f).
+
+             "Escrow Amount (Second Stage Closing)" means an amount equal to
+         Eighty Two Million Seven Hundred Fifty Thousand U.S. Dollars
+         ($82,750,000) less the First Stage Closing Cash Amount.
+
+             "Staged Closing Dates" means, collectively, the First Stage Closing
+         Date, the Second Stage Closing Date and the Third Stage Closing Date.
+
+             "Staged Closings" means, collectively, the First Stage Closing, the
+         Second Stage Closing and the Third Stage Closing.
+
+             "Title and Authorization Warranties" shall mean the representations
+         and warranties in Sections 3.1, 3.2, 3.4(a), 3.18, 4.1 and 4.2.
+
+         (c) Section 1.1 shall be further amended by deleting in their entirety
+the following definitions:
+
+
+             "Buyers' Covenant Failure"
+
+             "Buyers' R&W Breach"
+
+             "Cranberry Plan Adjustment Amount"
+
+             "Cranberry Plan Adjustment Statement"
+
+                                        3
+
+<PAGE>
+
+             "Escrow Agreement (Cranberry Adjustment)"
+
+             "Escrow Amount (Cranberry Adjustment)"
+
+             "Key Employees"
+
+             "Preliminary Adjustment Amount"
+
+             "Preliminary Disagreement Notice"
+
+             "Preliminary Working Capital"
+
+             "Preliminary Working Capital Statement"
+
+             "Sellers' Covenant Failure"
+
+             "Sellers' R&W Breach"
+
+         (d) Section 2.1(a) shall be amended by adding immediately after the
+word "including"contained therein the words "and the BCRES Units, and".
+
+         (e) Section 2.1 shall be further amended by amending and restating
+Section 2.1(b) as follows:
+
+             (b)  Second Stage and Third Stage Closings. (i) Upon the terms and
+         subject to the conditions of this Agreement, Sellers shall sell and
+         transfer, assign, convey and deliver to Buyers, and Buyers shall
+         purchase, acquire and accept from Sellers, all of Sellers' right, title
+         and interest in, to and under, each Asset not transferred pursuant to
+         the First Stage Closing as to which State PUC Consents have been
+         obtained as of the Second Stage Closing Date, but excluding the
+         Excluded Assets (the "Second Stage Purchased Assets"), including the
+         applicable Assets listed on Schedule 2.1, when and as the Second Stage
+         Closing Date shall occur.
+
+             (ii) Upon the terms and subject to the conditions of this
+         Agreement, Sellers shall sell and transfer, assign, convey and deliver
+         to Buyers, and Buyers shall purchase, acquire and accept from Sellers,
+         all of Sellers' right, title and interest in, to and under, all
+         remaining Assets not transferred pursuant to the First Stage Closing
+         and the Second Stage Closing, but excluding the Excluded Assets
+         (collectively the "Third Stage Purchased Assets", and collectively with
+         the First Stage Purchased Assets and the Second Stage Purchased Assets,
+         the "Purchased Assets"), including the applicable Assets listed on
+         Schedule 2.1, when and as the last remaining State PUC Consent(s)
+         (including customer notices) required to sell, transfer, assign, convey
+         and deliver such Assets is obtained.
+
+         (f) Section 2.1 shall be further amended by adding a new Section 2.1(c)
+to read as follows: "(c) BCRES Assets. Notwithstanding the foregoing, no BCRES
+Assets shall be conveyed by this Section 2.1 (but the terms "First Stage
+Purchased Assets", "Purchased Assets" and "Acquired Assets" shall include BCRES
+Assets for all other purposes of this Agreement)."
+
+                                        4
+
+<PAGE>
+
+         (g)   Section 2.2 shall be amended by amending and restating Section
+2.2(b) as follows:
+
+               (b)  Second Stage and Third Stage Closings. (i) Upon the terms
+         and subject to the conditions of this Agreement, when and as the Second
+         Stage Closing Date shall occur, Sellers shall assign and transfer to
+         Buyers all of Sellers' right, title and interest in and to, and Buyers
+         shall take assignment of all of the following: (a) each of the
+         Contracts related to the Business to which one or more Sellers is a
+         party and that are related to the State PUC Consents that have been
+         obtained by the Second Stage Closing, excluding Contracts that comprise
+         Excluded Assets, but including all of the Contracts with customers of
+         the Business ("Second Stage Customer Contracts") and each of the other
+         Contracts listed on Schedule 2.2 related to the State PUC Consents that
+         have been obtained by the Second Stage Closing (collectively, including
+         the Second Stage Customer Contracts, the "Second Stage Purchased
+         Contracts"); (b) each of the Permits of Sellers related to the Business
+         set forth on Schedule 2.2 which are transferable and that are related
+         to the State PUC Consents that have been obtained by the Second Stage
+         Closing, excluding Permits that comprise Excluded Assets, but including
+         each of the applicable Permits listed on Schedule 2.2 (the "Second
+         Stage Purchased Permits"; and together with the Second Stage Purchased
+         Contracts); and (c) each of the Communications Licenses of Sellers
+         related to the Business that are transferable and that are related to
+         the State PUC Consents that have been obtained by the Second Stage
+         Closing, excluding Communications Licenses that comprise Excluded
+         Assets (the "Second Stage Transferred Communications Licenses").
+
+               (ii) Upon the terms and subject to the conditions of this
+         Agreement, when and as the last remaining State PUC Consent(s)
+         (including customer notices) required to assign and transfer the
+         following are obtained, Sellers shall assign and transfer to Buyers all
+         of Sellers' right, title and interest in and to, and Buyers shall take
+         assignment of all of the following: (a) each of the remaining Contracts
+         related to the Business to which one or more Sellers is a party,
+         excluding Contracts that comprise Excluded Assets, but including all of
+         the remaining Contracts with customers of the Business (collectively,
+         the "Third Stage Customer Contracts", and collectively with the First
+         Stage Customer Contracts and the Second Stage Customer Contracts, the
+         "Customer Contracts") and each of the other remaining Contracts listed
+         on Schedule 2.2 (collectively with the Third Stage Customer Contracts,
+         the "Third Stage Purchased Contracts", and collectively including the
+         Customer Contracts, the "Purchased Contracts"); (b) each of the
+         remaining Permits of Sellers related to the Business set forth on
+         Schedule 2.2 which are transferable, excluding Permits that comprise
+         Excluded Assets, but including each of the remaining Permits listed on
+         Schedule 2.2 (collectively, the "Third Stage Purchased Permits", and
+         collectively with the First Stage Purchased Permits and the Second
+         Stage Purchased Permits, the "Purchased Permits"; and together with the
+         Purchased Contracts, the "Purchased Contracts and Permits"); and (c)
+         each of the remaining Communications Licenses of Sellers related to the
+         Business that are transferable, excluding Communications Licenses that
+         comprise Excluded Assets (collectively, the "Third Stage Transferred
+         Communications Licenses", and collectively with the First Stage
+         Transferred Communications Licenses and the Second Stage Transferred
+         Communications Licenses, the "Transferred Communications Licenses").
+
+                                        5
+
+<PAGE>
+
+         (h)   Section 2.2 shall be further amended by adding a new Section
+2.2(c) to read as follows: "(c) BCRES Contracts. Notwithstanding the foregoing,
+no BCRES Contracts shall be conveyed by this Section 2.2 (but the terms "First
+Stage Purchased Contracts" and "Purchased Contracts" shall include BCRES
+Contracts for all other purposes of this Agreement)."
+
+         (i)   Section 2.3 shall be amended by adding at the end thereof the
+following proviso: "provided, however, that, notwithstanding the foregoing, the
+BCRES Units shall not be an Excluded Asset."
+
+         (j)   Section 2.4 shall be amended by deleting Section 2.4(a) in its
+entirety.
+
+         (k)   Section 2.4 shall be further amended by amending and restating
+Section 2.4(b) as follows:
+
+               (b) In consideration of the sale, transfer, assignment,
+         conveyance and delivery by Sellers of the Business and the Acquired
+         Assets, Buyers shall (i) (A) pay an aggregate amount equal to (1)
+         Fifty-Six Million Two Hundred Seventy Thousand U.S. Dollars
+         ($56,270,000) (which the Sellers and Buyers agree represents 68% of the
+         revenues of the Business (as set forth in the Revenues Statement) as to
+         which State PUC Consents have been obtained on June 6, 2003 and 68% of
+         $82,750,000) plus (2) an amount equal to the product of $82,750,000
+         multiplied by the percentage of revenues of the Business (as set forth
+         in the Revenues Statement) represented by any additional State PUC
+         Consent(s) received between June 5, 2003 and the First Stage Closing
+         Date (such aggregate amount collectively, the "First Stage Closing Cash
+         Amount") in cash to Sellers at the First Stage Closing Date, which
+         amount shall be increased by the product of (x) Two Hundred Five
+         Thousand Eight Hundred Eighty-Two and 35/100 U.S. Dollars ($205,882.35)
+         multiplied by (y) the number of calendar days that the First Stage
+         Closing Date occurs after June 13, 2003 up to and including June 30,
+         2003 (such amount, the "Delayed Closing Amount") provided that the
+         conditions in Section 7.1(a)(ii) have been satisfied and the failure of
+         the First Stage Closing to occur on or before such date did not result
+         from the failure of the Sellers to fulfill any undertaking or agreement
+         or satisfy any condition provided for herein that is required to be
+         fulfilled or satisfied by the Sellers prior to First Stage Closing, (B)
+         place the Escrow Amount (Second Stage Closing) in an interest bearing
+         escrow account in which it will be held pursuant to the terms of the
+         Escrow Agreement (Second Stage Closing) to support Buyers' obligation
+         to pay the amount Buyers' are obligated to pay at the Second Stage
+         Closing, (C) place the Escrow Amount (Working Capital/Indemnity) in an
+         interest bearing escrow account in which it will be held pursuant to
+         the terms of the Escrow Agreement (Working Capital/Indemnity) to
+         support Sellers' obligations to pay any amount required to be paid by
+         Sellers under Section 2.4(g) regarding the difference between Closing
+         Working Capital and the estimate of the Closing Working Capital
+         described in the last sentence of this Section 2.4(b) and Sellers'
+         indemnification obligations in accordance with Article 8, and (D) place
+         the Escrow Amount (Closing Adjustment Receivables) in an interest
+         bearing account in which it will be held pursuant to the terms of the
+         Escrow Agreement (Closing Adjustment Receivables) to support Sellers'
+         obligation to pay amounts, if any, required to be paid by Sellers under
+         Section 2.4(h) and (ii) assume the First Stage Assumed Liabilities. The
+         First Stage Closing Cash Amount, as adjusted by the Delayed Closing
+         Amount, if any,
+
+                                        6
+
+<PAGE>
+
+         plus the Escrow Amount (Working Capital/Indemnity) and the Escrow
+         Amount (Closing Adjustment Receivables) (the two such escrow amounts in
+         the preceding clauses (C) and (D) referred to herein collectively as
+         the "Total Escrow Amount") constitutes the "Initial Purchase Price".
+         Buyers and Sellers agree that they shall, prior to the First Stage
+         Closing Date, in good faith estimate and mutually agree upon the amount
+         that Buyers may owe Sellers, if any, as a result of the adjustments for
+         Closing Working Capital in Section 2.4 (the "Closing Working Capital
+         Estimate") and that Buyers will deliver, at the First Stage Closing
+         Date, a Working Capital Promissory Note in a principal amount equal to
+         the Closing Working Capital Estimate. The amount of the Working Capital
+         Promissory Note delivered pursuant to hereto shall increase the Initial
+         Purchase Price.
+
+         (l)   Section 2.4 shall be further amended by amending and restating
+Section 2.4(c) as follows:
+
+               (c)  All payments of the Purchase Price, except for the Total
+         Escrow Amount, the Escrow Amount (Second Stage Closing) and the Working
+         Capital Promissory Note, shall be made by wire transfer in immediately
+         available funds to an account designated by Sellers in written
+         instructions to be delivered to Buyers on or prior to the payment date.
+
+         (m)   Section 2.4 shall be further amended by amending and restating
+Section 2.4(d) as follows:
+
+               (d)  (i) Within thirty (30) days after the First Stage Closing
+         Date, Sellers shall deliver to Buyers a statement (the "Closing Working
+         Capital Statement"), setting forth the Working Capital as of the close
+         of business on the First Stage Closing Date (the "Closing Working
+         Capital"). The Closing Working Capital Statement shall be prepared by
+         the Sellers, and the Sellers' independent accountants shall provide an
+         attestation thereof, in accordance with the terms of this Agreement.
+
+               (ii) Within sixty (60) days following the First Stage Closing
+         Date, the Sellers shall provide the Buyers with a copy of the unaudited
+         consolidated financial results for BCI, which shall set explicitly
+         forth, among other things, the aggregate amount of capital expenditures
+         made by the Sellers, solely in respect of the Business and the portion
+         of the first two quarters of 2003 prior to the First Stage Closing Date
+         (the "Cap Ex Statement"; the amount of such capital expenditures shown
+         on such statement, "Actual Capital Expenditures"). Such unaudited
+         consolidated financial results shall be prepared by Sellers, and the
+         Sellers' independent accountants shall provide an attestation thereof,
+         in accordance with the terms of this Agreement. During the thirty (30)
+         day period following Buyers' receipt of the Cap Ex Statement, Sellers
+         shall cause Sellers' independent accountants to provide Buyers'
+         independent accountants with such access, upon reasonable prior notice
+         and during normal business hours, to the work papers of Sellers'
+         independent accountants as is reasonably necessary to verify the
+         calculation of the Cap Ex Statement. The Cap Ex Statement shall be
+         final and shall be accepted by and be binding on the parties on the
+         thirtieth (30th) day following delivery thereof unless Buyers give
+         written notice to Sellers of their disagreement with the Cap Ex
+         Statement (such notice, a "Cap Ex Statement Disagreement Notice") prior
+         to such date. Any Cap Ex
+
+                                        7
+
+<PAGE>
+
+         Statement Disagreement Notice shall specify in reasonable detail the
+         nature of any disagreement so asserted. If a Cap Ex Statement
+         Disagreement Notice is received by Sellers on or prior to such date,
+         then the Cap Ex Statement (as revised in accordance with Section
+         2.4(d)(iii)) shall become final and binding upon each Seller and each
+         Buyer, on the earlier of (1) the date Sellers and Buyers resolve in
+         writing any differences they have with respect to the matters specified
+         in such Cap Ex Statement Disagreement Notice, and (2) the date that an
+         Accounting Firm (as defined below) delivers to the Sellers and Buyers
+         its written determination of all disputed matters submitted to it
+         pursuant to Section 2.4(d) (the "Accounting Firm Cap Ex
+         Determination").
+
+                  (iii) During the thirty (30) day period following delivery of
+         a Cap Ex Statement Disagreement Notice, Sellers and Buyers shall seek
+         in good faith to resolve in writing any differences which they may have
+         with respect to the matters set forth in such Cap Ex Statement
+         Disagreement Notice. If any disagreement included in the Cap Ex
+         Statement Disagreement Notice is not resolved in writing within such
+         thirty (30) day period, Sellers and Buyers shall submit to the
+         Accounting Firm for review and determination of any and all matters
+         which remain in dispute. The scope of the Accounting Firm's review
+         shall be limited to only those matters which have not been resolved in
+         writing within such thirty (30) day period. Sellers and Buyers shall
+         use all reasonable efforts to cause the Accounting Firm to deliver the
+         Accounting Firm Cap Ex Determination within thirty (30) days of the
+         receipt of such submission. Sellers and Buyers agree that the
+         Accounting Firm Cap Ex Determination shall be final and binding on the
+         parties and that judgment may be entered upon the Accounting Firm Cap
+         Ex Determination in any court having jurisdiction over the party
+         against which such determination is to be enforced. The Accounting Firm
+         Cap Ex Determination shall be accompanied by a certificate of the
+         Accounting Firm that it reached the Accounting Firm Cap Ex
+         Determination in accordance with the provisions of this Section 2.4.
+         The cost incurred in connection with the Accounting Firm Cap Ex
+         Determination (including the fees and expenses of the Accounting Firm
+         and of any enforcement of the Accounting Firm Cap Ex Determination)
+         pursuant to this Section 2.4 shall be borne by Buyers and Sellers in
+         inverse proportion as they may prevail on matters resolved by the
+         Accounting Firm, which proportionate allocation shall be calculated on
+         an aggregate basis based on the relative dollar values of the amounts
+         in dispute and shall be determined by the Accounting Firm at the time
+         the Accounting Firm Cap Ex Determination is rendered on the merits of
+         the matter submitted.
+
+                  (iv)  If the aggregate amount of capital expenditures set
+         forth in the Cranberry Capital Expenditure budget for the first two
+         quarters of 2003 as set forth on Schedule 2.4(d)(ii) exceeds the Actual
+         Capital Expenditures (as adjusted, if necessary pursuant to this
+         Section 2.4(d)) by more than $10,000,000, then the Sellers shall
+         promptly, but in no event later than five (5) Business Days after the
+         final determination of the Actual Capital Expenditures, pay such amount
+         in excess of $10,000,000 to the Buyers in cash. If the aggregate amount
+         of capital expenditures set forth in the Cranberry Capital Expenditure
+         budget for the first two quarters of 2003 as set forth on Schedule
+         2.4(d)(ii) does not exceed the Actual Capital Expenditures (as
+         adjusted, if necessary pursuant to this Section 2.4(d)) by more than
+         $10,000,000, then the Buyers shall promptly, but in no event later than
+         five (5) Business Days after the final determination of the Actual
+         Capital
+
+                                        8
+
+<PAGE>
+
+         Expenditures, pay such amount less than $10,000,000 to the Sellers in
+         cash. The Actual Capital Expenditures amount shall be calculated in
+         accordance with Generally Accepted Accounting Principles as
+         consistently applied with historical methods, provided that the Actual
+         Capital Expenditures amount shall include the $500,000 of actual
+         expenditures relating to the purchase of Corvis equipment or services
+         to create a route in Florida.
+
+         (n)   Section 2.4 shall be further amended by replacing each use of the
+term "Adjustment Statements" in Section 2.4(e) with the term "Closing Working
+Capital Statement", and by deleting each use of the term "Cranberry Plan
+Adjustment Amount".
+
+         (o)   Section 2.4 shall be further amended by amending and restating
+Section 2.4(g) as follows:
+
+               (g) The Initial Purchase Price shall be (i) increased by the
+         amount, if any, by which the Closing Working Capital, as finally
+         determined pursuant to this Section 2.4, exceeds $0 (or the principal
+         amount, if any, of any Working Capital Promissory Note delivered at the
+         First Stage Closing), and (ii) decreased by the amount, if any, by
+         which the Closing Working Capital, as finally determined pursuant to
+         this Section 2.4, is less than $0 (or the principal amount, if any, of
+         any Working Capital Promissory Note delivered at the First Stage
+         Closing) (the Initial Purchase Price as so increased or decreased shall
+         hereinafter be referred to as the "Adjusted CWC Purchase Price").
+         Within five (5) Business Days after the Closing Working Capital has
+         been finally determined in accordance with this Section 2.4, (I) if the
+         Closing Working Capital is in excess of $0 (or the principal amount, if
+         any, of any Working Capital Promissory Note delivered at the First
+         Stage Closing), Buyers shall deliver the Working Capital Promissory
+         Note to the Sellers (or increase the principal amount of such Note if
+         it was already delivered at the First Stage Closing) in an amount equal
+         to such excess, and (II) if the Closing Working Capital is less than $0
+         (or the principal amount, if any, of any Working Capital Promissory
+         Note delivered at the First Stage Closing), Buyers shall receive from
+         the Escrow Amount (Working Capital/Indemnity) pursuant to the Escrow
+         Agreement (Working Capital/Indemnity) (and/or decrease the principal
+         amount of any Working Capital Promissory Note delivered at the First
+         Stage Closing), and from Sellers to the extent such Escrow Amount
+         (Working Capital/Indemnity) is insufficient, an amount equal to such
+         deficit, together with interest thereon at a rate per annum equal to
+         the rate of interest from time to time publicly announced by Citibank,
+         N.A., in its New York office as its prime or base rate (the "Prime
+         Rate"), calculated on the basis of the actual number of days elapsed
+         over 365 from the date of delivery of the Closing Working Capital
+         Statement pursuant to Section 2.4(d)(i) to the date of payment.
+         Payments in respect of this Section 2.4, other than payments by an
+         increase or decrease in the Working Capital Promissory Note, shall be
+         made by wire transfer in immediately available funds to an account that
+         is designated by the party entitled to payment at least two (2)
+         Business Days prior to the date of payment.
+
+         (p)   Section 2.4 shall be further amended by deleting the last
+sentence of Section 2.4(i) thereof and replacing it in its entirety with the
+following sentence: "Notwithstanding anything in this Agreement to the contrary,
+Working Capital shall not include any Excluded Assets, BCRES Excluded Assets,
+Excluded Liabilities or BCRES Excluded Liabilities."
+
+                                        9
+
+<PAGE>
+
+         (q)   Section 2.4 shall be further amended by amending and restating
+Section 2.4(j) as follows:
+
+               (j)  Upon the receipt of additional State PUC Consents following
+         the First Stage Closing Date (each, an "Additional State PUC Consent")
+         that represent in the aggregate one-half or more of the percentage of
+         revenues of the Business (as set forth in the Revenues Statement) that
+         were not the basis for the First Stage Cash Amount (the "Second Stage
+         Closing", and the date that the Second Stage Closing shall occur, the
+         "Second Stage Closing Date"), the Buyers shall release from the Escrow
+         Agreement (Second Stage Closing) to the Sellers an amount equal to one
+         half of the Escrow Amount (Second Stage Closing). Upon the receipt of
+         the last remaining State PUC Consent necessary to effectuate the
+         transfer of the Acquired Assets, the Buyers shall release the remaining
+         amount of the Escrow Amount (Second Stage Closing) to the Sellers (the
+         "Third Stage Closing", and the date that the Third Stage Closing shall
+         occur, the "Third Stage Closing Date").
+
+         (q)   Section 2.4 shall be further amended by inserting a new Section
+2.4(k) as follows:
+
+               (k)  (i) For each month ending after the First Stage Closing Date
+         and prior to the twelve (12) month anniversary of the First Stage
+         Closing Date, as soon as available but in any event within twenty (20)
+         days after the end of each such month, Buyers shall deliver to Sellers
+         a written statement of the monthly Cash EBITDA Minus Capital
+         Expenditures of the Business (each a "Monthly Cash EBITDA Statement").
+         The Sellers shall have ten (10) days to review each Monthly Cash EBITDA
+         Statement. Upon the Sellers' request, the Buyers shall meet with the
+         Sellers on any Business Day within the five Business Days following
+         such review to discuss such Monthly Cash EBITDA Statement; provided,
+         however, that the Buyers' shall not be required to meet with the
+         Sellers for more than one-half (1/2) of one Business Day at any such
+         meeting.
+
+               (ii) On or before thirty (30) days following July 1, 2004, the
+         Buyers shall provide the Sellers with a written statement of Cash
+         EBITDA Minus Capital Expenditures of the Business for the period
+         between July 1, 2003 through and including June 30, 2004 (the "Annual
+         Cash EBITDA Statement"). During the thirty (30) day period following
+         Sellers' receipt of the Annual Cash EBITDA Statement, Buyers shall
+         provide access to the Business Records and Business Employees and shall
+         cause Buyers' independent accountants to provide Sellers' independent
+         accountants with such access, upon reasonable prior notice and during
+         normal business hours, to the work papers of Buyers' independent
+         accountants as is reasonably necessary to verify the calculation of the
+         Annual Cash EBITDA Statement. The Annual Cash EBITDA Statement shall be
+         final and shall be accepted by and be binding on the parties on the
+         thirtieth (30th) day following delivery thereof unless Sellers give
+         written notice to Buyers of their disagreement with the Annual Cash
+         EBITDA Statement (such notice, a "Cash EBITDA Statement Disagreement
+         Notice") prior to such date. Any Cash EBITDA Statement Disagreement
+         Notice shall specify in reasonable detail the nature of any
+         disagreement so asserted. If a Cash EBITDA Statement Disagreement
+         Notice is received by Buyers on or prior to such date, then the Annual
+         Cash EBITDA Statement (as revised in accordance with Section
+         2.4(k)(iii)) shall become final and binding upon each Seller and each
+         Buyer,
+
+                                       10
+
+<PAGE>
+
+         on the earlier of (1) the date Sellers and Buyers resolve in writing
+         any differences they have with respect to the matters specified in such
+         Cash EBITDA Statement Disagreement Notice, and (2) the date that an
+         Accounting Firm delivers to the Sellers and Buyers its written
+         determination of all disputed matters submitted to it pursuant to
+         Section 2.4(k) (the "Accounting Firm Cash EBITDA Determination").
+
+                  (iii) During the thirty (30) day period following delivery of
+         a Cash EBITDA Statement Disagreement Notice, Sellers and Buyers shall
+         seek in good faith to resolve in writing any differences which they may
+         have with respect to the matters set forth in such Cash EBITDA
+         Statement Disagreement Notice. If any disagreement included in the Cash
+         EBITDA Statement Disagreement Notice `is not resolved in writing within
+         such thirty (30) day period, Sellers and Buyers shall submit to the
+         Accounting Firm for review and determination of any and all matters
+         which remain in dispute. The scope of the Accounting Firm's review
+         shall be limited to only those matters which have not been resolved in
+         writing within such thirty (30) day period. Sellers and Buyers shall
+         use all reasonable efforts to cause the Accounting Firm to deliver the
+         Accounting Firm Cash EBITDA Determination within thirty (30) days of
+         the receipt of such submission. Sellers and Buyers agree that the
+         Accounting Firm Cash EBITDA Determination shall be final and binding on
+         the parties and that judgment may be entered upon the Accounting Firm
+         Cash EBITDA Determination in any court having jurisdiction over the
+         party against which such determination is to be enforced. The
+         Accounting Firm Cash EBITDA Determination shall be accompanied by a
+         certificate of the Accounting Firm that it reached the Accounting Firm
+         Cash EBITDA Determination in accordance with the provisions of this
+         Section 2.4. The cost incurred in connection with the Accounting Firm
+         Cash EBITDA Determination (including the fees and expenses of the
+         Accounting Firm and of any enforcement of the Accounting Firm Cash
+         EBITDA Determination) pursuant to this Section 2.4 shall be borne by
+         Buyers and Sellers in inverse proportion as they may prevail on matters
+         resolved by the Accounting Firm, which proportionate allocation shall
+         be calculated on an aggregate basis based on the relative dollar values
+         of the amounts in dispute and shall be determined by the Accounting
+         Firm at the time the Accounting Firm Cash EBITDA Determination is
+         rendered on the merits of the matter submitted. The Cash EBITDA Minus
+         Capital Expenditures of the Business for the period between July 1,
+         2003 through and including June 30, 2004, as set forth in the Annual
+         Cash EBITDA Statement and adjusted, if necessary pursuant to this
+         Section 2.4(k), shall be referred to herein as the "Annual Cash
+         EBITDA".
+
+                  (iv)  If the Annual Cash EBITDA as finally determined by this
+         Section 2.4(k) is less than $0 by a margin of $48,000,000 (the "Annual
+         Cash EBITDA Threshold") or more, then the Sellers shall pay to the
+         Buyers an amount in cash equal to the product of (x) 0.35, multiplied
+         by (y) the difference between negative $48,000,000 and the Annual Cash
+         EBITDA, provided, however, that under no circumstances shall the
+         Sellers be required to pay to the Buyers more than $10,000,000 in
+         connection with this Section 2.4(k) (such amount, the "Annual Cash
+         EBITDA Payment"). The Sellers shall make the Annual Cash EBITDA Payment
+         promptly, but in no event later than five (5) Business Days of the
+         final determination of the Annual Cash EBITDA as set forth in this
+         Section 2.4(k). An illustration of the operation of this Section 2.4(k)
+         is set forth on Exhibit V attached hereto.
+
+                                       11
+
+<PAGE>
+
+                  (v)  Notwithstanding anything else to the contrary contained
+         in this Section 2.4(k), the Sellers shall have no obligation to make
+         the Annual Cash EBITDA Payment if, after the First Stage Closing, the
+         Buyers consummate a "sale transaction", which shall be defined as a
+         sale of fifty-one percent (51%) or more of the equity, voting control
+         or the assets acquired by the Buyers hereunder. If the ratio of
+         selling, general and administrative expenses ("SG&A") to revenues
+         (calculated in accordance past practice) of the Business acquired by
+         the Buyers exceeds fifty-two percent (52%) for the period between July
+         1, 2003 and June 30, 2004, Sellers are not responsible for any negative
+         Cash EBITDA Minus Capital Expenditures attributable to such ratio being
+         in excess of fifty-two percent (52%).
+
+                  (vi) The term "Cash EBITDA Minus Capital Expenditures" shall
+         mean EBITDA plus any allocated management fee, less Non-Cash Revenues,
+         less capital expenditures, and plus non-cash expenses; provided,
+         however, that capital expenditures for purposes of this calculation (x)
+         shall not exceed the lesser of the amount of actual capital
+         expenditures for the period between July 1, 2003 through and including
+         June 30, 2004 or $36,960,000 for such period, and (y) shall not include
+         any capital expenditures arising from transactions between Buyers'
+         Parent or any of its Affiliates, on the one hand, and any of the
+         Buyers, on the other, that include financial terms that are more
+         favorable to Buyers' Parent or any of its Affiliates than financial
+         terms that would be available to an unaffiliated third-party in an
+         arms-length transaction on fair-market value terms. The term "EBITDA"
+         means net income (loss) from continuing operations before interest,
+         income tax expense (benefit), depreciation, amortization, restructuring
+         and asset impairments, minority interest expense (income), equity loss
+         in unconsolidated entities, loss (gain) on investments, other expense
+         (income), extraordinary items and the effect of changes in accounting
+         principles. The term "Non-Cash Revenues" means revenue included in
+         Buyers' consolidated income statement related to the amortization of
+         IRU contracts where the Buyers have previously received cash or revenue
+         included in Buyers' consolidated income statement related to barter
+         agreements.
+
+         (r)      Section 2.5(b) shall be amended and restated as follows:
+
+                  (b)  (i) Upon the terms and subject to the conditions in this
+         Agreement, at and as of (a) the Second Stage Closing Date, Sellers
+         shall assign, and Buyers shall assume and agree to honor, pay and
+         discharge when due, all of the following liabilities and obligations of
+         Sellers: the obligations under the Second Stage Purchased Contracts,
+         Second Stage Purchased Permits and the Second Stage Transferred
+         Communications Licenses, to the extent arising out of, or resulting
+         from, facts, events and circumstances occurring, or which accrue, after
+         the Second Stage Closing Date (other than due to any failure to comply
+         or breach of any of Sellers or any of their Affiliates, whether before,
+         on or after the Second Stage Closing Date), in each case except any
+         Excluded Liabilities (collectively, the "Second Stage Assumed
+         Liabilities").
+
+                  (ii) Upon the terms and subject to the conditions in this
+         Agreement, at and as of (a) the Third Stage Closing Date, Sellers shall
+         assign, and Buyers shall assume and agree to honor, pay and discharge
+         when due, all of the following liabilities and obligations of Sellers:
+         the obligations under the Third Stage Purchased Contracts, Third Stage
+
+                                       12
+
+<PAGE>
+
+         Purchased Permits and the Third Stage Transferred Communications
+         Licenses, to the extent arising out of, or resulting from, facts,
+         events and circumstances occurring, or which accrue, after the Third
+         Stage Closing Date (other than due to any failure to comply or breach
+         of any of Sellers or any of their Affiliates, whether before, on or
+         after the Second Stage Closing Date), in each case except any Excluded
+         Liabilities (collectively, the "Third Stage Assumed Liabilities", and
+         collectively with the First Stage Assumed Liabilities and the Second
+         Stage Assumed Liabilities, the "Assumed Liabilities").
+
+         (s) Section 2.5 shall be amended by adding to the end of Section 2.5(c)
+thereof the following: "Notwithstanding the foregoing, BCRES Assumed Liabilities
+shall not be assigned or assumed pursuant to this Section 2.5 (but the term
+"Assumed Liabilities" shall include BCRES Assumed Liabilities for all other
+purposes of this Agreement), and BCRES Assumed Liabilities shall not constitute
+Excluded Liabilities."
+
+         (t) Section 2.7 shall be amended by adding a new Section 2.7(c) to read
+as follows: "(c) Notwithstanding anything contained herein to the contrary,
+Sellers shall sell, convey, transfer and deliver to Buyers by instruments of
+sale, conveyance, transfer and assignment effective to vest in Buyers, and
+Buyers shall have good and marketable title to, all of the BCRES Units, free and
+clear of all Encumbrances."
+
+         (u) Section 2 shall be further amended by adding a new Section 2.9 as
+follows:
+
+             2.9  Agreement Regarding Certain Receivables of the Business
+
+             (a)  All accounts receivable and the accounts payable owing from or
+         owing to, respectively, MCI Worldcom Network Services, Inc., and its
+         various affiliates and subsidiaries (collectively, "MCI") that arose
+         prior to and including March 31, 2003, whether or not reflected on the
+         Sellers Financial Statements, are Excluded Assets and Excluded
+         Liabilities, respectively. Upon the receipt by Sellers of any proceeds
+         from the MCI global settlement, the Sellers shall promptly, but in no
+         event later than five (5) Business Days after Sellers receipt thereof,
+         deliver fifty percent (50%) of such proceeds to the Buyers.
+
+             (b)  Upon the receipt by Sellers of any payments from the Texas DOT
+         claim (meaning the claim for reimbursement of expenses related to the
+         I-10 relocation), the Sellers shall promptly, but in no event later
+         than five (5) Business Days after Sellers receipt thereof, deliver
+         fifty percent (50%) of such proceeds to the Buyers. If the Sellers
+         shall prevail in the Sellers' arbitration with El Paso Global Networks,
+         or settle and receive a twenty (20) year IRU agreement on the
+         Houston-to-Austin-to-San Antonio route (the "EPGN Route"), without cost
+         to Buyers (other than maintenance costs at market rates and otherwise
+         consistent with industry practices) thereunder, entitling Sellers to
+         use twelve (12) fibers, then the Sellers shall provide to the Buyers,
+         without cost to Buyers, a twenty (20) year IRU agreement to use twelve
+         (12) fibers on such Route. If the Sellers do not prevail in the
+         Sellers' arbitration with El Paso Global Networks or so settle, the
+         Buyers and the Sellers shall each bear fifty percent (50%) of the costs
+         of Buyers obtaining a twenty (20) year IRU agreement to receive,
+         without cost to Buyers (other than
+
+                                       13
+
+<PAGE>
+
+         maintenance costs at market rates and otherwise consistent with
+         industry practices), for up to, at the Buyers' election, twelve (12)
+         fibers on the EPGN Route.
+
+         (v) Section 2 shall be further amended by adding a new Section 2.10 as
+follows:
+
+             2.10  Agreement Regarding Newark Data Center
+
+             The Buyers and Sellers agree that to the extent that the Newark
+         data center owned by BCRES (the "BCRES Data Center"), which is an
+         Excluded Asset and an Excluded Liability hereunder, is not permitted to
+         be transferred from BCRES to an Affiliate of BCRES on or prior to the
+         First Stage Closing Date, the Sellers shall continue to receive the
+         benefits of and be subject to the obligations of the BCRES Data Center,
+         until the necessary Consent(s) is obtained to permit such transfer and
+         such transferee shall thereafter receive the benefits of the BCRES Data
+         Center (to the extent set forth in the Consent(s)) and be subject to
+         the obligations of the BCRES Data Center.
+
+         (w) Section 3 shall be amended by amending and restating the first
+clause of Section 3.8 as follows:
+
+             Schedule 3.8 contains a complete and accurate list of all Contracts
+         to which one or more of the Sellers are a party and that are related to
+         the Business as follows (which list shall be updated as of the
+         applicable Staged Closing Date and no such update is deemed to be an
+         inaccuracy if in compliance with Section 5.2).
+
+         (x) Section 3 shall be amended by adding a new Section 3.18 thereto as
+follows:
+
+             "3.18 BCRES
+
+             BCRES was formed on May 20, 2002. Other than holding BCRES
+         Contracts and BCRES Assets, and operations associated with holding the
+         BCRES Contracts and BCRES Assets, BCRES has conducted no operations
+         since its formation, and, except for any assets being conveyed out of
+         BCRES pursuant to the BCRES Bill of Sale, Assignment and Assumption
+         Agreement, holds and has held no assets other than BCRES Contracts and
+         BCRES Assets. BCRES does not have and never has had, any employees or
+         any Benefit Plans. Other than BCRES Assumed Liabilities, and except for
+         any liabilities or obligations to be transferred to a Seller (or Seller
+         Affiliate) pursuant to the BCRES Bill of Sale, Assignment and
+         Assumption Agreement, BCRES has no liabilities, debts, claims or
+         obligations, whether accrued, absolute, contingent or otherwise,
+         whether due or to become due. Notwithstanding anything to the contrary
+         contained in this Agreement, all of the BCRES Units are owned by
+         Broadwing Communications Services, Inc. free and clear of any
+         Encumbrance except for Encumbrances arising pursuant to the Credit
+         Agreement (which Sellers shall cause to be released on or prior to the
+         First Stage Closing), and all of the BCRES Units are validly issued
+         pursuant to the BCRES' certificate of formation and limited liability
+         company agreement. The transfer of the BCRES Units to Buyers by Sellers
+         is not subject to any restriction or condition other than such
+         restrictions and conditions as will have been satisfied, waived,
+         released or terminated prior to the First Stage Closing. Except for the
+         right of the Buyers' to purchase the BCRES Units as provided herein,
+         neither Sellers nor Broadwing
+
+                                       14
+
+<PAGE>
+
+         Communications Services, Inc. has granted any option, warrant or
+         similar right to any Person to purchase or acquire any rights with
+         respect to any BCRES Units. BCRES has made no election to be treated as
+         other than a disregarded entity for tax purposes and is not treated as
+         other than a disregarded entity for tax purposes by any state, local or
+         other taxing authority."
+
+         (y)  Section 5.4(a) shall be amended and restated as follows:
+
+              (a) Sellers shall provide Buyers with an update to Schedule 3.7(a)
+         immediately prior to the First Stage Closing Date. Unless otherwise
+         agreed in writing prior to the First Stage Closing Date, Buyers shall
+         make offers of employment to all of the Business Employees of Sellers
+         as of the First Stage Closing Date. Notwithstanding the foregoing
+         sentence, the Buyers shall not be required to make offers of employment
+         to the Business Employees denoted as "A" and "B" on Schedule 5.4(a),
+         and Buyers may request Sellers to terminate on or prior to the First
+         Stage Closing Date or Buyers may terminate, within ninety (90) after
+         the First Stage Closing Date (provided that Buyers shall provide
+         Sellers with at least five (5) Business Days advance notice prior to
+         the termination of any Business Employee that has an Employment
+         Agreement set forth on Schedule 3.8(a)), the employment of, up to ten
+         (10) Business Employees to be identified in writing by the Buyers to
+         the Sellers (the "Non-Transferred Employees"), two of whom shall be
+         deemed to be the Business Employees denoted as "A" and "B" on Schedule
+         5.4(a); provided that under no circumstances shall the Buyers or any of
+         the Buyers' Affiliates extend an offer of employment or hire in any
+         capacity employee "A" set forth on Schedule 5.4(a), whether as an
+         employee, consultant, independent contractor or otherwise. Business
+         Employees who accept such offer of employment, as of the effective date
+         of their employment with Buyers or one of its Affiliates (the "Transfer
+         Date"), shall be referred to as "Transferred Employees." All
+         liabilities, costs and Actions related to Business Employees who do not
+         accept such offers of employment shall be Excluded Liabilities
+         hereunder. The Buyers may not employ any vice-president or higher of
+         Sellers, as set forth on Part II of Schedule 5.4(a) (each, a "Seller
+         Vice-President"), to whom they extend an offer, but which such Seller
+         Vice President declines such offer, for two (2) years after the First
+         Stage Closing Date, unless the Buyers agree to compensate Sellers for
+         the severance costs associated with such Seller Vice President. The
+         Sellers shall be responsible for all liabilities, costs and Actions
+         related to the Non-Transferred Employees; provided, however, that if
+         the amount of severance paid to the Non-Transferred Employees exceeds
+         in the aggregate $2,000,000, then the Buyers shall pay to the Sellers
+         the amount of severance in excess of $2,000,000 that is paid by the
+         Sellers to the Non-Transferred Employees. Each offer of employment
+         shall provide for a base salary no less than their base salary as an
+         employee of Sellers as of the First Stage Closing Date and health,
+         welfare, retirement and severance benefits as shall be applicable to
+         comparable Buyers' employees generally.
+
+         (z)  Section 5.4 shall be further amended by inserting in Section
+5.4(d)(i) the words "(excluding the Non-Transferred Employees, to the extent set
+forth in Section 5.4(a))" following the word "Employees" and inserting in
+Section 5.4(d)(ii) the words "(excluding the Non-Transferred Employees, to the
+extent set forth in Section 5.4(a))" following the words "as required under
+Section 5.4(a)" and before the words "and whose employment".
+
+                                       15
+
+<PAGE>
+
+         (aa) Sections 5.7(a), 5.7(b), 5.7(c) and 5.7(d) shall be deleted in
+their entirety.
+
+         (bb) Section 5.11(e) shall be amended and restated as follows:
+
+              (e)  C III and Broadwing Communications Services Inc. ("BCSI")
+         shall have entered into a limited liability agreement prior to or on
+         the First Stage Closing Date, substantially on the terms and conditions
+         contained in Exhibit H hereto relating to Broadwing Communications
+         Services Inc. becoming a member of C III (the "C III LLC Agreement");
+         provided, however, that any transfer restrictions that apply to the
+         equity interests of C III that are held by BCSI, as set forth in the C
+         III LLC Agreement, shall also apply to a transfer of the equity
+         interests of BCSI; provided further, however, that such transfer
+         restrictions shall not apply to a transfer of the equity interests of
+         BCSI to any of its Affiliates.
+
+         (cc) Section 5.11(f) shall be amended by amending and restating clause
+(x) thereof as follows:
+
+              (x)  intentionally omitted
+
+         (dd) Section 5.11(i) shall be amended and restated as follows:
+
+              (i)  Buyers and Sellers and Sellers' Parent shall have entered
+         into an agreement prior to or on the First Stage Closing Date,
+         substantially on the terms and conditions contained in Exhibit L hereto
+         relating to the management services to be provided by Buyers to Sellers
+         during the period subsequent to the First Stage Closing (the
+         "Management Services Agreement").
+
+         (ee) Section 5.15 shall be amended by deleting in their entirety
+Sections 5.15(a), 5.15(b) and 5.15(c).
+
+         (ff) Section 5.16(c) shall be amended by deleting the last sentence
+thereof.
+
+         (gg) Section 5.23 shall be amended and restated as follows:
+
+              5.23 Commitment Letters
+
+
+              Prior to the First Stage Closing Date, Buyers shall meet with each
+         Business Employee who has an Employment Agreement set forth on Schedule
+         3.8(a) (other than those set forth on Schedule 5.4(a)), explain to such
+         Business Employee his or her contemplated position within Buyers and
+         make a corresponding offer of employment. Buyers shall assume the
+         Employment Agreement of each such Business Employee (other than those
+         set forth on Schedule 5.4(a)) who agrees to accept such offer
+         (including such position) and executes a letter agreeing to the
+         assumption of such Employment Contract and that such assumption (and
+         the position to be held by such Business Employee, other than those set
+         forth on Schedule 5.4(a)) is not a constructive termination under such
+         Employment Contract (a "Commitment Letter").
+
+         (hh) Section 6.1 shall be amended and restated as follows:
+
+                                       16
+
+<PAGE>
+
+                   6.1      Closing
+
+              The closing of the transactions contemplated by this Agreement
+         (the "Closing") shall take place in three (3) stages at the offices of
+         Gibson, Dunn & Crutcher LLP in New York City. The first closing stage
+         (the "First Stage Closing"), at which the Initial Purchase Price shall
+         be paid in full, shall commence at 9:00 a.m. local time on June 13,
+         2003 (the "First Stage Closing Date"), or such later date as the
+         parties shall mutually agree upon; provided that any such adjournment
+         of the First Stage Closing Date that is not due to the failure to
+         satisfy the conditions in Section 7.1(a)(ii) and that results from the
+         failure of Sellers to fulfill any undertaking or agreement or to
+         satisfy any condition provided for herein that is required to be
+         fulfilled or satisfied by Sellers prior to the First Stage Closing Date
+         shall result in the payment by the Buyers to the Sellers of the Delayed
+         Closing Amount as set forth and in accordance with Section 2.4(b). The
+         Second Stage Closing and the Third Stage Closing shall occur as set
+         forth in Section 2.4(j).
+
+         (ii) Section 6.2 shall be amended by deleting the period at the end of
+Section 6.2(g) thereof, inserting a semi-colon in its place and inserting new
+Sections 6.2(h) and 6.2(i) as follows:
+
+              "(h) a counterpart of the BCRES Bill of Sale, Assignment and
+              Assumption Agreement, duly executed by BCRES and the other
+              party(ies) thereto."
+
+         (jj) Section 6.3 shall be amended by inserting a new Section 6.3(f) as
+follows:
+
+              (f)  the Working Capital Promissory Note.
+
+         (kk) Section 7.1(a) shall be amended by amending and restating clause
+(i) thereof as follows:
+
+              (i)  intentionally omitted;
+
+         (ll) Section 7.2(a) shall be deleted in its entirety, provided that
+such deletion of Section 7.2(a) shall not affect the Sellers indemnification
+obligations set forth in Article 8 of this Agreement.
+
+         (mm) Section 7.2(c) shall be amended and restated as follows:
+
+              (c)  Intentionally omitted.
+
+         (nn) Section 7.2(d) shall be amended and restated as follows:
+
+              (d)  Intentionally omitted.
+
+         (oo) Section 7.2(e) shall be amended and restated as follows:
+
+              (e)  (i) The Sellers' Consents set forth on Schedule 3.3(b)
+         received as of the First Stage Closing Date (as so indicated on the
+         Schedule 3.3(b) on the date hereof) shall be in full force and effect.
+
+                                       17
+
+<PAGE>
+
+              (ii) The Sellers shall have received an Amendment to the Credit
+         Agreement, or Consent under the Credit Agreement, that permits the
+         consummation of the transactions contemplated by this Agreement and the
+         Collateral Agreements.
+
+         (pp) Section 7.3(a) shall be shall be deleted in its entirety, provided
+that such deletion of Section 7.3(a) shall not affect the Buyers indemnification
+obligations set forth in Article 8 of this Agreement.
+
+         (qq) Section 7.4 shall be amended and restated as follows:
+
+              7.4  Second Stage and Third Stage General Conditions
+
+              The respective obligations of Buyers and Sellers to effect the
+         Second Stage Closing and the Third Stage Closing of the transactions
+         contemplated hereby are subject to (i) there not being an injunction or
+         other court order prohibiting the consummation of the transactions
+         contemplated by this Agreement to occur on the Second Stage Closing
+         Date or on the Third Stage Closing Date and (ii) Sellers shall have
+         changed their corporate or company name to a name that does not include
+         the word "Broadwing" or any name intended or likely to be confused or
+         associated with any Broadwing Name and have caused the registration of
+         the new name with the appropriate Governmental Body.
+
+         (rr) Section 8.2 shall be amended by inserting in a the following
+sentence after the last sentence of Section 8.2(a):
+
+              Notwithstanding anything else to the contrary contained in this
+         Article 8 or elsewhere in this Agreement or in the Collateral
+         Agreements, or elsewhere, none of the Sellers or any of their
+         Affiliates shall be obligated to indemnify, defend and/or hold harmless
+         the Buyers, the Buyers' Affiliates, or any of their employees,
+         representatives, agents, directors, officers, partners, members,
+         principals or assigns relating to or arising out of or resulting from
+         any of the matters set forth on Schedule 8.2(a).
+
+         (ss) Section 8.2 shall be further amended by inserting into Section
+8.2(b) thereof the words "and BCRES Excluded Assets" after the words "Excluded
+Assets (including the Retained Business)" and the words "and BCRES Excluded
+Liabilities" after the words "Excluded Liabilities (including those related to
+the Retained Business)".
+
+         (tt) Section 8.2(c) shall be amended and restated as follows:
+
+              (c) Buyers further agree to jointly and severally indemnify,
+         defend and hold harmless Sellers and any other Indemnified Party of
+         Sellers from and against any Losses incurred by such party arising out
+         of, resulting from, or relating to: (1) any of the First Stage Assumed
+         Liabilities after the First Stage Closing, the Second Stage Assumed
+         Liabilities after the Second Stage Closing and the Third Stage Assumed
+         Liabilities after the Third Stage Closing; (2) any claim, demand or
+         liability for the Taxes for which Buyers are responsible pursuant to
+         Section 5.3; (3) any other liability or obligation with respect to the
+         conduct of the Business transferred on the First Stage Closing Date
+         after such Closing Date and with respect to the conduct of the Business
+         transferred after the First Stage Closing, to the extent arising out
+         of, or resulting from, facts, events or
+
+                                       18
+
+<PAGE>
+
+         circumstances occurring, or which accrue, after the applicable Staged
+         Closing Date (other than due to any failure to comply or breach of any
+         of Sellers or any of their Affiliates, whether before, on or after the
+         applicable Staged Closing Date); and (iv) any Third Party Claims
+         arising out of the Two Stage Waiver Notice (if any).
+
+         (uu)  Section 8.2 shall be further amended by amending and restating
+the first clause of Section 8.2(f) as follows:
+
+               Sellers' and Buyers' respective liability for all Claims under
+         Section 8.2(a)(i) and all Claims under Section 8.2(b)(ii) with respect
+         to the indemnification for Consents identified in Schedule 8.2(b) (the
+         "Consents Indemnity") only shall be subject to the following
+         limitations:
+
+         (vv)  Section 8.2 shall be further amended by adding a new Section
+8.2(j) as follows:
+
+               (j) The Consents Indemnity shall not be effective for any periods
+         for which the Management Services Agreement is effective, or a lease of
+         use or other means of providing the Buyers the benefit of the Contract
+         subject to such Consent is provided by Sellers, without cost to Buyers,
+         is effective to avoid the necessity of a Consent to assignment with
+         respect to a Contract. Furthermore, such Consents Indemnity is not
+         payable to the extent that Losses are mitigated by Seller's provision
+         of an alternative means to provide to Buyers, without cost to Buyers,
+         the benefits of the related Contracts or Buyer's commercially
+         reasonable efforts to mitigate Losses in respect of such Contract(s).
+         The Consents Indemnity is not subject to the Threshold, but shall be
+         subject to the General Cap, notwithstanding anything to the contrary
+         contained in Section 8.2(f).
+
+         (ww)  Section 9.1(c) shall be amended and restated as follows:
+
+               (c) Buyers or Sellers, if the First Stage Closing Date shall not
+         have occurred by June 30, 2003; provided that the failure of the First
+         Stage Closing to occur on or before such date did not result from the
+         failure by the party seeking termination of this Agreement to fulfill
+         any undertaking or agreement or satisfy any condition provided for
+         herein that is required to be fulfilled or satisfied by it prior to
+         First Stage Closing.
+
+         (xx)  Sections 9.1(d) and 9.1(e) shall be deleted in their entirety.
+
+         (yy)  Exhibit A to the Asset Purchase Agreement shall be deleted in its
+entirety.
+
+         (zz)  A new Exhibit S shall be added to the Asset Purchase Agreement in
+the form attached hereto as Exhibit A.
+
+         (aaa) A new Schedule 1.1(g) shall be added to the Asset Purchase
+Agreement as attached hereto as Exhibit B.
+
+         (bbb) A new Exhibit U shall be added to the Asset Purchase Agreement in
+the form attached hereto as Exhibit C.
+
+                                       19
+
+<PAGE>
+
+         (ccc) The Asset Purchase Agreement shall be further amended by adding a
+new item 8 to Schedule 2.1 as follows:
+
+               8.  The Business Records of BCRES.
+
+         (ddd) An amended and restated Schedule 2.3 shall be added to the Asset
+Purchase Agreement in the form attached hereto as Exhibit D.
+
+         (eee) The Asset Purchase Agreement shall be further amended by adding a
+new item 13 to Schedule 2.5(c) as follows:
+
+               13. MCI accounts payable, in accordance with Section 2.9(a).
+
+         (fff) A new Schedule 2.4(d)(ii) shall be added to the Asset Purchase
+Agreement in the form attached hereto as Exhibit E.
+
+         (ggg) A new Exhibit V shall be added to the Asset Purchase Agreement in
+the form attached hereto as Exhibit F.
+
+         (hhh) An amended and restated Schedule 3.3(b) shall be added to the
+Asset Purchase Agreement in the form attached hereto as Exhibit G.
+
+         (iii) A new Schedule 5.4(a) shall be added to the Asset Purchase
+Agreement in the form attached hereto as Exhibit H.
+
+         (jjj) A new Schedule 8.2(a) shall be added to the Asset Purchase
+Agreement in the form attached hereto as Exhibit I.
+
+         (kkk) The Asset Purchase Agreement shall be further amended by
+inserting a new Item in Schedule 8.2(b), which amendment to Schedule 8.2(b) is
+set forth in Exhibit J attached hereto.
+
+         (lll) The Asset Purchase Agreement shall be amended by replacing the
+term "Second Stage Closing Date" with the term "Third Stage Closing Date" in
+Sections 5.1(c), 5.2(d), 5.8, 5.9, 5.11(j), 5.17, 5.20 and 7.2(i).
+
+         (mmm) The Asset Purchase Agreement is hereby amended by deleting
+Section 9 of the Management Agreement and by amending and restating Section 1 of
+the Management Agreement as follows:
+
+               Section 1 of the Management Agreement shall take effect on the
+         First Stage Closing. This Management Agreement shall have a term
+         ("Management Term") which ends upon the receipt of the last Consent
+         required the Purchase Agreement, unless Managers elect to terminate the
+         Management Agreement for convenience by written notice to Licensees.
+
+         (nnn) The Asset Purchase Agreement shall be further amended by removing
+BCRES as a party thereto, provided that the representations, warranties and
+covenants made by BCRES contained in the Asset Purchase Agreement shall be
+deemed made by the other Sellers under the
+
+                                       20
+
+<PAGE>
+
+Asset Purchase Agreement. The parties acknowledge and agree that BCRES is
+executing and delivering this Amendment solely to reflect its agreement with
+respect to this Section.
+
+         SECTION 3. Representations and Warranties of the Sellers. Each Seller,
+as of the date hereof, hereby makes the representations and warranties in
+Section 3.2 of the Asset Purchase Agreement as if set forth herein with respect
+to this Amendment. For purposes of clarity, all references in such section to
+"this Agreement" shall mean the Asset Purchase Agreement, as amended by this
+Amendment.
+
+         SECTION 4. Representations and Warranties of the Buyers. Each Buyer, as
+of the date hereof, hereby makes the representations and warranties in Section
+4.2 of the Asset Purchase Agreement as if set forth herein with respect to this
+Amendment. For purposes of clarity, all references in such section to "this
+Agreement" shall mean the Asset Purchase Agreement, as amended by this
+Amendment.
+
+         SECTION 5. Applicable Law. This Amendment shall be construed in
+accordance with and governed by the internal laws of the State of New York
+applicable to agreements made and to be performed entirely within such State
+without regard to conflicts of laws principles thereof.
+
+         SECTION 6. Counterparts. This Amendment may be executed simultaneously
+in two or more counterparts, each of which will be deemed to be an original copy
+of this Amendment and all of which together will be deemed, respectively, to
+constitute one and the same agreement.
+
+                  [REMAINDER OF PAGE INTENTIONALLY LEFT BLANK]
+
+                                       21
+
+<PAGE>
+
+                  IN WITNESS WHEREOF, each party has caused this Amendment to be
+duly executed on its behalf by its duly authorized officers as of the date first
+written above.
+
+                            BROADWING COMMUNICATIONS
+                            SERVICES INC.
+
+
+                            By:   /s/ Kevin W. Mooney
+                               -------------------------------------------------
+                                  Name:    Kevin W. Mooney
+                                  Title:   Chief Executive Officer
+
+
+                            BROADWING COMMUNICATIONS SERVICES
+                            OF VIRGINIA INC.
+
+
+                            By:   /s/ Kevin W. Mooney
+                               -------------------------------------------------
+                                  Name:    Kevin W. Mooney
+                                  Title:   Chief Executive Officer
+
+
+                            BROADWING COMMUNICATIONS REAL
+                            ESTATE SERVICES LLC
+
+
+                            By:   /s/ Thomas L. Schilling
+                               -------------------------------------------------
+                                  Name:    Thomas L. Schilling
+                                  Title:   Manager
+
+
+                            BROADWING SERVICES LLC
+
+
+                            By:   /s/ Kevin W. Mooney
+                               -------------------------------------------------
+                                  Name:    Kevin W. Mooney
+                                  Title:   Chief Executive Officer
+
+
+                            IXC BUSINESS SERVICES, LLC
+
+
+                            By:   /s/ Thomas L. Schilling
+                               -------------------------------------------------
+                                  Name:    Thomas L. Schilling
+                                  Title:   Manager
+
+                                       22
+
+<PAGE>
+
+
+                           BROADWING TELECOMMUNICATIONS INC.
+
+
+                           By:   /s/ Kevin W. Mooney
+                              --------------------------------------------------
+                                 Name:    Kevin W. Mooney
+                                 Title:   Chief Executive Officer
+
+
+                           IXC INTERNET SERVICES, INC.
+
+
+                           By:   /s/ Kevin W. Mooney
+                              --------------------------------------------------
+                                 Name:    Kevin W. Mooney
+                                 Title:   Chief Executive Officer
+
+
+                           BROADWING LOGISTICS LLC
+
+
+                           By:   /s/ Kevin W. Mooney
+                              --------------------------------------------------
+                                 Name:    Kevin W. Mooney
+                                 Title:   Chief Executive Officer
+
+
+                           MSM ASSOCIATES, LIMITED PARTNERSHIP
+
+                             By:   MUTUAL SIGNAL CORPORATION OF
+                                   MICHIGAN, its General Partner
+
+
+                             By: /s/ Kevin W. Mooney
+                                ------------------------------------------------
+                                 Name:    Kevin W. Mooney
+                                 Title:   Chief Executive Officer
+
+                                       23
+
+<PAGE>
+
+                            C III COMMUNICATIONS, LLC
+
+
+                            By: /s/ Martin Kerckhoff
+                                -----------------------------------
+                            Name:
+                            Title:
+
+                            C III COMMUNICATIONS OPERATIONS, LLC
+
+
+                            By: /s/ Martin Kerckhoff
+                                ------------------------------------
+                            Name:
+                            Title:
+
+                                       24
+
+</TEXT>
+</DOCUMENT>

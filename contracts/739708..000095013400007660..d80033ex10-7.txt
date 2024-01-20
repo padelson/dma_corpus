@@ -1,1097 +1,1570 @@
- ASSET EXCHANGE AGREEMENT    1  EXHIBIT
-10.7   ASSET EXCHANGE AGREEMENT   THIS ASSET EXCHANGE AGREEMENT (this
-"Agreement") is made as of March 5, 2000, among the company or companies
-designated as Clear Channel on the signature page hereto (collectively,
-"Clear Channel") and the company or companies designated as Exchange Party on
-the signature page hereto (collectively, "Exchange Party").   Recitals  
-A. Clear Channel owns and operates the following radio broadcast
-stations (collectively, the "Clear Channel Stations") pursuant to certain
-authorizations issued by the Federal Communications Commission (the
-"FCC"):   WNCE-FM, Palmyra, Pennsylvania  WNNK-FM, Harrisburg,
-Pennsylvania  WTCY(AM), Harrisburg, Pennsylvania  WTPA(FM), Mechanicsburg,
-Pennsylvania   KMJJ-FM, Shreveport, Louisiana  KRMD(AM), Shreveport,
-Louisiana  KRMD-FM, Shreveport, Louisiana   B. Exchange Party owns and
-operates the following radio broadcast stations (collectively, the "Exchange
-Party Stations") pursuant to certain authorizations issued by the FCC:  
-WUSY(FM), Cleveland, Tennessee WLOV-FM,  South Pittsburg, Tennessee WKXJ(FM),
-Signal  Mountain, Tennessee WKXJ-FM1, Chattanooga,  Tennessee WRXR-FM
-(formerly WLMX-FM),  Rossville, Georgia WUUS(AM) (formerly  WLMX),
-Rossville, Georgia   C. Subject to the terms and conditions set forth
-herein, the parties desire to exchange the Clear Channel Station Assets
-(defined below) and the Exchange Party Station Assets (defined below). The
-parties intend the transaction contemplated by this Agreement to be a like-
-kind exchange in accordance with the provisions of Section 1031 of the
-Internal Revenue Code of 1986, as amended (the "Code").   D. Clear Channel
-Communications, Inc. (Clear Channel\'s parent), CCU Merger Sub, Inc. and AMFM
-Inc. are parties to an Agreement and Plan of Merger dated October 2, 1999
-(the "AMFM Agreement").    2   Agreement   NOW, THEREFORE, taking the
-foregoing into account, and in consideration of the mutual covenants and
-agreements set forth herein, the parties, intending to be legally bound,
-hereby agree as follows:  ARTICLE 1: EXCHANGE OF ASSETS   1.1. Clear
-Channel Station Assets. On the terms and subject to the conditions hereof, on
-the Closing Date (defined below), Clear Channel shall assign, transfer,
-convey and deliver to Exchange Party, and Exchange Party shall acquire from
-Clear Channel, all of the right, title and interest of Clear Channel in and
-to all of the assets, properties, interests and rights of Clear Channel of
-whatsoever kind and nature, real and personal, tangible and intangible, which
-are used exclusively in the operation of the Clear Channel Stations and
-specifically described in this Section 1.1, but excluding the Clear Channel
-Excluded Assets as hereafter defined (the "Clear Channel
-Station Assets"):   (a) all licenses, permits and other authorizations
-which are issued to Clear Channel by the FCC with respect to the Clear
-Channel Stations (the "Clear Channel FCC Licenses") and described on Schedule
-1.1(a), including any renewals or modifications thereof between the date
-hereof and Closing;   (b) all equipment, electrical devices, antennae,
-cables, tools, hardware, office furniture and fixtures, office materials and
-supplies, inventory, motor vehicles, spare parts and other tangible personal
-property of every kind and description which are used exclusively in the
-operation of the Clear Channel Stations and listed on Schedule 1.1(b), except
-any retirements or dispositions thereof made between the date hereof and
-Closing in the ordinary course of business and consistent with past practices
-of Clear Channel (the "Clear Channel Tangible Personal Property");   (c)
-all Clear Channel Time Sales Agreements and Clear Channel Trade Agreements
-(both defined in Section 2.3), Clear Channel Real Property Leases (defined in
-Section 6.7), and other contracts, agreements, and leases which are used in
-the operation of the Clear Channel Stations and listed on Schedule 1.1(c),
-together with all contracts, agreements, and leases made between the date
-hereof and Closing in the ordinary course of business that are used in
-the operation of the Clear Channel Stations (the "Clear Channel Station
-Contracts");   (d) all of Clear Channel\'s rights in and to the Clear
-Channel Stations\' call letters and Clear Channel\'s rights in and to the
-trademarks, trade names, domain names, domain name registrations, service
-marks, franchises, copyrights, computer software, programs and programming
-material, jingles, slogans, logos, and other intangible property which are
-used exclusively in the operation of the Clear Channel Stations and listed on
-Schedule 1.1(d) (the "Clear Channel Intangible Property");     -2- 
-3   (e) Clear Channel\'s rights in and to all the files, documents,
+<DOCUMENT>
+<TYPE>EX-10.7
+<SEQUENCE>8
+<FILENAME>d80033ex10-7.txt
+<DESCRIPTION>ASSET EXCHANGE AGREEMENT
+<TEXT>
+
+<PAGE>   1
+                                                                    EXHIBIT 10.7
+
+                            ASSET EXCHANGE AGREEMENT
+
+     THIS ASSET EXCHANGE AGREEMENT (this "Agreement") is made as of March 5,
+2000, among the company or companies designated as Clear Channel on the
+signature page hereto (collectively, "Clear Channel") and the company or
+companies designated as Exchange Party on the signature page hereto
+(collectively, "Exchange Party").
+
+                                    Recitals
+
+     A. Clear Channel owns and operates the following radio broadcast stations
+(collectively, the "Clear Channel Stations") pursuant to certain authorizations
+issued by the Federal Communications Commission (the "FCC"):
+
+                        WNCE-FM, Palmyra, Pennsylvania
+                        WNNK-FM, Harrisburg, Pennsylvania
+                        WTCY(AM), Harrisburg, Pennsylvania
+                        WTPA(FM), Mechanicsburg, Pennsylvania
+
+                        KMJJ-FM, Shreveport, Louisiana
+                        KRMD(AM), Shreveport, Louisiana
+                        KRMD-FM, Shreveport, Louisiana
+
+     B. Exchange Party owns and operates the following radio broadcast stations
+(collectively, the "Exchange Party Stations") pursuant to certain authorizations
+issued by the FCC:
+
+                        WUSY(FM), Cleveland, Tennessee WLOV-FM,
+                        South Pittsburg, Tennessee WKXJ(FM), Signal
+                        Mountain, Tennessee WKXJ-FM1, Chattanooga,
+                        Tennessee WRXR-FM (formerly WLMX-FM),
+                        Rossville, Georgia WUUS(AM) (formerly
+                        WLMX), Rossville, Georgia
+
+     C. Subject to the terms and conditions set forth herein, the parties desire
+to exchange the Clear Channel Station Assets (defined below) and the Exchange
+Party Station Assets (defined below). The parties intend the transaction
+contemplated by this Agreement to be a like-kind exchange in accordance with the
+provisions of Section 1031 of the Internal Revenue Code of 1986, as amended (the
+"Code").
+
+     D. Clear Channel Communications, Inc. (Clear Channel's parent), CCU Merger
+Sub, Inc. and AMFM Inc. are parties to an Agreement and Plan of Merger dated
+October 2, 1999 (the "AMFM Agreement").
+
+
+<PAGE>   2
+
+                                    Agreement
+
+     NOW, THEREFORE, taking the foregoing into account, and in consideration of
+the mutual covenants and agreements set forth herein, the parties, intending to
+be legally bound, hereby agree as follows:
+
+ARTICLE 1: EXCHANGE OF ASSETS
+
+     1.1. Clear Channel Station Assets. On the terms and subject to the
+conditions hereof, on the Closing Date (defined below), Clear Channel shall
+assign, transfer, convey and deliver to Exchange Party, and Exchange Party shall
+acquire from Clear Channel, all of the right, title and interest of Clear
+Channel in and to all of the assets, properties, interests and rights of Clear
+Channel of whatsoever kind and nature, real and personal, tangible and
+intangible, which are used exclusively in the operation of the Clear Channel
+Stations and specifically described in this Section 1.1, but excluding the Clear
+Channel Excluded Assets as hereafter defined (the "Clear Channel Station
+Assets"):
+
+         (a) all licenses, permits and other authorizations which are issued to
+Clear Channel by the FCC with respect to the Clear Channel Stations (the "Clear
+Channel FCC Licenses") and described on Schedule 1.1(a), including any renewals
+or modifications thereof between the date hereof and Closing;
+
+         (b) all equipment, electrical devices, antennae, cables, tools,
+hardware, office furniture and fixtures, office materials and supplies,
+inventory, motor vehicles, spare parts and other tangible personal property of
+every kind and description which are used exclusively in the operation of the
+Clear Channel Stations and listed on Schedule 1.1(b), except any retirements or
+dispositions thereof made between the date hereof and Closing in the ordinary
+course of business and consistent with past practices of Clear Channel (the
+"Clear Channel Tangible Personal Property");
+
+         (c) all Clear Channel Time Sales Agreements and Clear Channel Trade
+Agreements (both defined in Section 2.3), Clear Channel Real Property Leases
+(defined in Section 6.7), and other contracts, agreements, and leases which are
+used in the operation of the Clear Channel Stations and listed on Schedule
+1.1(c), together with all contracts, agreements, and leases made between the
+date hereof and Closing in the ordinary course of business that are used in the
+operation of the Clear Channel Stations (the "Clear Channel Station Contracts");
+
+         (d) all of Clear Channel's rights in and to the Clear Channel Stations'
+call letters and Clear Channel's rights in and to the trademarks, trade names,
+domain names, domain name registrations, service marks, franchises, copyrights,
+computer software, programs and programming material, jingles, slogans, logos,
+and other intangible property which are used exclusively in the operation of the
+Clear Channel Stations and listed on Schedule 1.1(d) (the "Clear Channel
+Intangible Property");
+
+
+
+                                      -2-
+<PAGE>   3
+
+         (e) Clear Channel's rights in and to all the files, documents, records,
+and books of account (or copies thereof) relating exclusively to the operation
+of the Clear Channel Stations, including the Clear Channel Stations' local
+public files, programming information and studies, blueprints, technical
+information and engineering data, advertising studies, marketing and demographic
+data, sales correspondence, lists of advertisers, credit and sales reports, and
+logs, but excluding records relating to the Clear Channel Excluded Assets
+(defined below); and
+
+         (f) any real property which is used exclusively in the operation of the
+Clear Channel Stations (including any of Clear Channel's appurtenant easements
+and improvements located thereon) and described on Schedule 1.1(f) (the "Clear
+Channel Real Property").
+
+         The Clear Channel Station Assets shall be transferred to Exchange Party
+free and clear of liens, claims and encumbrances ("Liens") except for (i)
+Exchange Party Assumed Obligations (defined below), (ii) liens for taxes not yet
+due and payable and for which Exchange Party receives a credit pursuant to
+Section 3.3, (iii) such liens, easements, rights of way, building and use
+restrictions, exceptions, reservations and limitations that do not in any
+material respect detract from the value of the property subject thereto or
+impair the use thereof in the ordinary course of the business of the Clear
+Channel Stations, and (iv) any items listed on Schedule 1.1(b) (collectively,
+"Clear Channel Permitted Liens").
+
+     1.2. Clear Channel Excluded Assets. Notwithstanding anything to the
+contrary contained herein, the Clear Channel Station Assets shall not include
+the following assets along with all rights, title and interest therein (the
+"Clear Channel Excluded Assets"):
+
+         (a) all cash and cash equivalents of Clear Channel, including without
+limitation certificates of deposit, commercial paper, treasury bills, marketable
+securities, asset or money market accounts and all such similar accounts or
+investments;
+
+         (b) all accounts receivable or notes receivable arising in the
+operation of the Clear Channel Stations prior to Closing;
+
+         (c) all tangible and intangible personal property of Clear Channel
+disposed of or consumed in the ordinary course of business of Clear Channel
+between the date of this Agreement and Closing;
+
+         (d) all Clear Channel Station Contracts that terminate or expire prior
+to Closing in the ordinary course of business of Clear Channel;
+
+         (e) Clear Channel's name, corporate minute books, charter documents,
+corporate stock record books and such other books and records as pertain to the
+organization, existence or share capitalization of Clear Channel, duplicate
+copies of the records of the Clear Channel Stations, and all records not
+relating exclusively to the operation of the Clear Channel Stations;
+
+                                      -3-
+<PAGE>   4
+
+         (f) contracts of insurance, and all insurance proceeds or claims made
+thereunder;
+
+         (g) all pension, profit sharing or cash or deferred (Section 401(k))
+plans and trusts and the assets thereof and any other employee benefit plan or
+arrangement and the assets thereof, if any, maintained by Clear Channel; and
+
+         (h) all rights, properties and assets described on Schedule 1.2(h), and
+all rights, properties and assets not specifically described in Section 1.1.
+
+     1.3. Exchange Party Station Assets. On the terms and subject to the
+conditions hereof, on the Closing Date (defined below), Exchange Party shall
+assign, transfer, convey and deliver to Clear Channel, and Clear Channel shall
+acquire from Exchange Party, all of the right, title and interest of Exchange
+Party in and to all of the assets, properties, interests and rights of Exchange
+Party of whatsoever kind and nature, real and personal, tangible and intangible,
+which are used exclusively in the operation of the Exchange Party Stations and
+specifically described in this Section 1.3, but excluding the Exchange Party
+Excluded Assets as hereafter defined (the "Exchange Party Station Assets"):
+
+         (a) all licenses, permits and other authorizations which are issued to
+Exchange Party by the FCC with respect to the Exchange Party Stations (the
+"Exchange Party FCC Licenses") and described on Schedule 1.3(a), including any
+renewals or modifications thereof between the date hereof and Closing;
+
+         (b) all equipment, electrical devices, antennae, cables, tools,
+hardware, office furniture and fixtures, office materials and supplies,
+inventory, motor vehicles, spare parts and other tangible personal property of
+every kind and description which are used exclusively in the operation of the
+Exchange Party Stations and listed on Schedule 1.3(b), except any retirements or
+dispositions thereof made between the date hereof and Closing in the ordinary
+course of business and consistent with past practices of Exchange Party (the
+"Exchange Party Tangible Personal Property");
+
+         (c) all Exchange Party Time Sales Agreements and Exchange Party Trade
+Agreements (both defined in Section 2.1), Exchange Party Real Property Leases
+(defined in Section 7.7), and other contracts, agreements, and leases which are
+used in the operation of the Exchange Party Stations and listed on Schedule
+1.3(c), together with all contracts, agreements, and leases made between the
+date hereof and Closing in the ordinary course of business that are used in the
+operation of the Exchange Party Stations (the "Exchange Party Station
+Contracts");
+
+         (d) all of Exchange Party's rights in and to the Exchange Party
+Stations' call letters and Exchange Party's rights in and to the trademarks,
+trade names, domain names, domain name registrations, service marks, franchises,
+copyrights, computer software, programs and programming material, jingles,
+slogans, logos, and other intangible property
+
+
+
+                                      -4-
+<PAGE>   5
+which are used exclusively in the operation of the Exchange Party Stations and
+listed on Schedule 1.3(d) (the "Exchange Party Intangible Property");
+
+         (e) Exchange Party's rights in and to all the files, documents,
 records, and books of account (or copies thereof) relating exclusively to the
-operation of the Clear Channel Stations, including the Clear Channel
-Stations\' local public files, programming information and studies,
-blueprints, technical information and engineering data, advertising studies,
-marketing and demographic data, sales correspondence, lists of advertisers,
-credit and sales reports, and logs, but excluding records relating to the
-Clear Channel Excluded Assets (defined below); and   (f) any real property
-which is used exclusively in the operation of the Clear Channel Stations
-(including any of Clear Channel\'s appurtenant easements and improvements
-located thereon) and described on Schedule 1.1(f) (the "Clear Channel Real
-Property").   The Clear Channel Station Assets shall be transferred to
-Exchange Party free and clear of liens, claims and encumbrances ("Liens")
-except for (i) Exchange Party Assumed Obligations (defined below), (ii) liens
-for taxes not yet due and payable and for which Exchange Party receives a
-credit pursuant to Section 3.3, (iii) such liens, easements, rights of way,
-building and use restrictions, exceptions, reservations and limitations that
-do not in any material respect detract from the value of the property subject
-thereto or impair the use thereof in the ordinary course of the business of
-the Clear Channel Stations, and (iv) any items listed on Schedule 1.1(b)
-(collectively, "Clear Channel Permitted Liens").   1.2. Clear Channel
-Excluded Assets. Notwithstanding anything to the contrary contained herein,
-the Clear Channel Station Assets shall not include the following assets along
-with all rights, title and interest therein (the "Clear Channel Excluded
-Assets"):   (a) all cash and cash equivalents of Clear Channel, including
-without limitation certificates of deposit, commercial paper, treasury bills,
-marketable securities, asset or money market accounts and all such similar
-accounts or investments;   (b) all accounts receivable or notes receivable
-arising in the operation of the Clear Channel Stations prior to Closing;  
-(c) all tangible and intangible personal property of Clear Channel disposed
-of or consumed in the ordinary course of business of Clear Channel between
-the date of this Agreement and Closing;   (d) all Clear Channel Station
-Contracts that terminate or expire prior to Closing in the ordinary course of
-business of Clear Channel;   (e) Clear Channel\'s name, corporate minute
-books, charter documents, corporate stock record books and such other books
-and records as pertain to the organization, existence or share capitalization
-of Clear Channel, duplicate copies of the records of the Clear Channel
-Stations, and all records not relating exclusively to the operation of the
-Clear Channel Stations;   -3-  4   (f) contracts of insurance, and all
-insurance proceeds or claims made thereunder;   (g) all pension, profit
-sharing or cash or deferred (Section 401(k)) plans and trusts and the assets
-thereof and any other employee benefit plan or arrangement and the assets
-thereof, if any, maintained by Clear Channel; and   (h) all rights,
-properties and assets described on Schedule 1.2(h), and all rights,
-properties and assets not specifically described in Section 1.1.   1.3.
-Exchange Party Station Assets. On the terms and subject to the conditions
-hereof, on the Closing Date (defined below), Exchange Party shall assign,
-transfer, convey and deliver to Clear Channel, and Clear Channel
-shall acquire from Exchange Party, all of the right, title and interest of
-Exchange Party in and to all of the assets, properties, interests and rights
-of Exchange Party of whatsoever kind and nature, real and personal, tangible
-and intangible, which are used exclusively in the operation of the Exchange
-Party Stations and specifically described in this Section 1.3, but excluding
-the Exchange Party Excluded Assets as hereafter defined (the "Exchange Party
-Station Assets"):   (a) all licenses, permits and other authorizations which
-are issued to Exchange Party by the FCC with respect to the Exchange Party
-Stations (the "Exchange Party FCC Licenses") and described on Schedule
-1.3(a), including any renewals or modifications thereof between the date
-hereof and Closing;   (b) all equipment, electrical devices, antennae,
-cables, tools, hardware, office furniture and fixtures, office materials and
-supplies, inventory, motor vehicles, spare parts and other tangible personal
-property of every kind and description which are used exclusively in the
-operation of the Exchange Party Stations and listed on Schedule 1.3(b),
-except any retirements or dispositions thereof made between the date hereof
-and Closing in the ordinary course of business and consistent with past
-practices of Exchange Party (the "Exchange Party Tangible Personal
-Property");   (c) all Exchange Party Time Sales Agreements and Exchange
-Party Trade Agreements (both defined in Section 2.1), Exchange Party Real
-Property Leases (defined in Section 7.7), and other contracts, agreements,
-and leases which are used in the operation of the Exchange Party Stations and
-listed on Schedule 1.3(c), together with all contracts, agreements, and
-leases made between the date hereof and Closing in the ordinary course of
-business that are used in the operation of the Exchange Party Stations (the
-"Exchange Party Station Contracts");   (d) all of Exchange Party\'s rights
-in and to the Exchange Party Stations\' call letters and Exchange Party\'s
-rights in and to the trademarks, trade names, domain names, domain name
-registrations, service marks, franchises, copyrights, computer software,
-programs and programming material, jingles, slogans, logos, and other
-intangible property     -4-  5 which are used exclusively in the
-operation of the Exchange Party Stations and listed on Schedule 1.3(d) (the
-"Exchange Party Intangible Property");   (e) Exchange Party\'s rights in and
-to all the files, documents, records, and books of account (or copies
-thereof) relating exclusively to the operation of the Exchange Party
-Stations, including the Exchange Party Stations\' local public files,
-programming information and studies, blueprints, technical information and
-engineering data, advertising studies, marketing and demographic data, sales
-correspondence, lists of advertisers, credit and sales reports, and logs, but
-excluding records relating to the Exchange Party Excluded Assets (defined
-below); and   (f) any real property which is used exclusively in the
-operation of the Exchange Party Stations (including any of Exchange Party\'s
-appurtenant easements and improvements located thereon) and described on
-Schedule 1.3(f) (the "Exchange Party Real Property").   The Exchange Party
-Station Assets shall be transferred to Clear Channel free and clear of Liens
-except for (i) Clear Channel Assumed Obligations (defined below), (ii) liens
-for taxes not yet due and payable and for which Clear Channel receives a
-credit pursuant to Section 3.3, (iii) such liens, easements, rights of way,
-building and use restrictions, exceptions, reservations and limitations that
-do not in any material respect detract from the value of the property subject
-thereto or impair the use thereof in the ordinary course of the business of
-the Exchange Party Stations, and (iv) any items listed on Schedule 1.3(b)
-(collectively, "Exchange Party Permitted Liens").   1.4. Exchange Party
-Excluded Assets. Notwithstanding anything to the contrary contained herein,
-the Exchange Party Station Assets shall not include the following assets
-along with all rights, title and interest therein (the "Exchange Party
-Excluded Assets"):   (a) all cash and cash equivalents of Exchange Party,
-including without limitation certificates of deposit, commercial paper,
-treasury bills, marketable securities, asset or money market accounts and all
-such similar accounts or investments;   (b) all accounts receivable or
-notes receivable arising in the operation of the Exchange Party Stations
-prior to Closing;   (c) all tangible and intangible personal property of
-Exchange Party disposed of or consumed in the ordinary course of business of
-Exchange Party between the date of this Agreement and Closing;   (d) all
-Exchange Party Station Contracts that terminate or expire prior to Closing in
-the ordinary course of business of Exchange Party;   (e) Exchange Party\'s
-name, corporate minute books, charter documents, corporate stock record books
-and such other books and records as pertain to the organization,    
--5-  6  existence or share capitalization of Exchange Party, duplicate
-copies of the records of the Exchange Party Stations, and all records not
-relating exclusively to the operation of the Exchange Party Stations;   (f)
-contracts of insurance, and all insurance proceeds or claims
-made thereunder;   (g) all pension, profit sharing or cash or deferred
-(Section 401(k)) plans and trusts and the assets thereof and any other
-employee benefit plan or arrangement and the assets thereof, if any,
-maintained by Exchange Party; and   (h) any rights, properties or assets
-described on Schedule 1.4(h), and all rights, properties and assets not
-specifically described in Section 1.3.   1.5. Lease Agreements. At Closing,
-Clear Channel and the Exchange Party shall enter into the lease agreements
-described on Schedule 1.2(h) pursuant to leases in the form of Exhibit A
-attached hereto (for each tower space lease), Exhibit B-1 attached hereto
-(for any single tenant studio lease) and Exhibit B-2 attached hereto (for any
-multi-tenant studio lease).  ARTICLE 2: ASSUMPTION OF OBLIGATIONS   2.1.
-Clear Channel Assumed Obligations. On the Closing Date, Clear Channel shall
-assume the obligations of Exchange Party (the "Clear Channel
-Assumed Obligations") arising after Closing under the Exchange Party Station
-Contracts, including without limitation all agreements for the sale of
-advertising time on the Exchange Party Stations for cash in the ordinary
-course of business ("Exchange Party Time Sales Agreements") and all
-agreements for the sale of advertising time on the Exchange Party Stations
-for non-cash consideration ("Exchange Party Trade Agreements").   2.2.
-Exchange Party Retained Obligations. Clear Channel does not assume or agree
-to discharge or perform and will not be deemed by reason of the execution and
-delivery of this Agreement or any agreement, instrument or document delivered
-pursuant to or in connection with this Agreement or otherwise by reason of
-the consummation of the transactions contemplated hereby, to have assumed or
-to have agreed to discharge or perform, any liabilities, obligations or
-commitments of Exchange Party of any nature whatsoever whether
-accrued, absolute, contingent or otherwise and whether or not disclosed to
-Clear Channel, other than the Clear Channel Assumed Obligations (the
-"Exchange Party Retained Obligations").   2.3. Exchange Party Assumed
-Obligations. On the Closing Date, Exchange Party shall assume the obligations
-of Clear Channel (the "Exchange Party Assumed Obligations") arising after
-Closing under the Clear Channel Station Contracts, including without
-limitation all agreements for the sale of advertising time on the Clear
-Channel Stations for cash in the ordinary course of business ("Clear Channel
-Time Sales Agreements") and all agreements for     -6-  7  the sale of
-advertising time on the Clear Channel Stations for non-cash consideration
-("Clear Channel Trade Agreements").   2.4. Clear Channel Retained
-Obligations. Exchange Party does not assume or agree to discharge or perform
-and will not be deemed by reason of the execution and delivery of this
-Agreement or any agreement, instrument or document delivered pursuant to or
-in connection with this Agreement or otherwise by reason of the consummation
-of the transactions contemplated hereby, to have assumed or to have agreed to
-discharge or perform, any liabilities, obligations or commitments of Clear
-Channel of any nature whatsoever whether accrued, absolute, contingent or
-otherwise and whether or not disclosed to Exchange Party, other than the
-Exchange Party Assumed Obligations (the "Clear Channel Retained
-Obligations").  ARTICLE 3: CASH PAYMENT   3.1. Cash Payment. The parties
-agree that the aggregate value of the Clear Channel Station Assets exceeds
-the aggregate value of the Exchange Party Station Assets by an amount equal
-to One Hundred Five Million Five Hundred Thousand Dollars ($105,500,000) (the
-"Cash Amount"). Exchange Party shall at Closing (defined below) deliver to
-Clear Channel by wire transfer of immediately available funds the Cash
-Amount, subject to adjustment pursuant to Sections 3.3 (the "Cash
-Payment").   3.2. Deposit. Within three (3) business days of the date of
-this Agreement (with no Cure Period (defined below)), Exchange Party shall
-deposit an amount equal to 10% of the Cash Amount (the "Deposit") with Bank
-of America (the "Escrow Agent") pursuant to the Escrow Agreement (the "Escrow
-Agreement") of even date herewith among Clear Channel, Exchange Party and the
-Escrow Agent. At Closing, the Deposit shall be applied to the Cash Payment
-and any interest accrued thereon shall be disbursed to Exchange Party (if in
-cash) or returned to Exchange Party (if a letter of credit). If this
-Agreement is terminated by Clear Channel due to Exchange Party\'s failure to
-consummate the Closing on the Closing Date in accordance with this Agreement
-or if this Agreement is otherwise terminated by Clear Channel pursuant to
-Section 16.1(b), the Deposit and any interest accrued thereon shall be
-disbursed to Clear Channel as partial payment of liquidated damages pursuant
-to Section 16.3. If this Agreement is terminated for any other reason, the
-Deposit and any interest accrued thereon shall be disbursed to Exchange
-Party. Exchange Party may make the Deposit by delivering to the Escrow Agent
-(as beneficiary) a letter of credit (the "L/C") issued by Bank of Nova Scotia
-(the "Issuing Bank") in the stated amount of 10% of the Purchase Price,
-without draw conditions and with an expiry date of not less than 6 months
-(and otherwise in a form reasonably satisfactory to Seller). If the Deposit
-is to be disbursed to Clear Channel as provided in this Agreement, then the
-Escrow Agent shall present the L/C to the Issuing Bank and draw the
-entire stated amount and such proceeds shall be disbursed to Clear Channel.
-If the L/C is not extended prior to the date one month before its expiry
-date, then the Escrow Agent shall present the L/C to the Issuing Bank and
-draw the entire stated amount and such proceeds shall be held by the Escrow
-Agent as a cash deposit.     -7-  8   3.3. Prorations and Adjustments.
-Except as otherwise provided herein, all deposits, reserves and prepaid and
-deferred income and expenses arising from the conduct of the business and
-operations of the Clear Channel Stations and Exchange Party Stations shall be
-prorated in accordance with generally accepted accounting principles as of
-11:59 p.m. on the date immediately preceding the Closing Date. Such
-prorations shall include, without limitation, all ad valorem, real estate and
-other property taxes (but excluding transfer taxes which shall be paid as set
-forth in Section 13.1), business and license fees, music and other license
-fees (including any retroactive adjustments thereof), utility expenses,
-amounts due or to become due under contracts, rents, lease payments and
-similar prepaid and deferred items. Real estate taxes shall be apportioned on
-the basis of taxes assessed for the preceding year, with a
-reapportionment, if any, as soon as the new tax rate and valuation can be
-ascertained. Except as otherwise provided herein, the prorations and
-adjustments contemplated by this Section 3.3, to the extent practicable,
-shall be made on the Closing Date. As to those prorations and adjustments not
-capable of being ascertained on the Closing Date, an adjustment and proration
-shall be made within ninety (90) calendar days of the Closing Date. In the
-event of any disputes between the parties as to such adjustments, the amounts
-not in dispute shall nonetheless be paid at the time provided herein and such
-disputes shall be determined by an independent certified public accountant
-mutually acceptable to the parties, and the fees and expenses of such
-accountant shall be paid one-half by Clear Channel and one-half by Exchange
-Party.   3.4. Allocation.   (a) The values of the assets comprising the
-Clear Channel Station Assets and the Exchange Party Station Assets shall be
-determined by an appraisal (the "Appraisal") prepared by Bond and Pecaro (whose
-fees shall be paid one-half by Clear Channel and one-half by Exchange Party).
-Prior to Closing, Clear Channel shall prepare and provide to Exchange Party
-schedules which, for each party to this Agreement, show the respective Clear
-Channel Station Assets and Exchange Party Station Assets to be conveyed and
-acquired and Cash Payment to be made and received at Closing under this
-Agreement.   (b) Before or after Closing, Clear Channel shall prepare
-schedules (the "Exchange Group Schedules") which (i) divide the Exchange
-Party Station Assets and the Clear Channel Station Assets into both "exchange
-groups" (in accordance with the like-kind exchange rules covering exchanges
-of multiple properties under Treas. Reg. Section 1.1031(j)-1) and residual
-groups and (ii) set forth the total value of the assets making up each such
-exchange group and residual group (based upon the Appraisal). For tax
-purposes, the parties shall report the exchange of assets under this
-Agreement consistently with the Exchange Group Schedules and the Appraisal,
-including without limitation filing when due IRS Form 8594 and (if
-applicable) IRS Form 8824 on the basis of the Exchange Group Schedules and
-the Appraisal.     -8-  9  ARTICLE 4: CLOSING   4.1. Closing. The
-consummation of the exchange of assets under this Agreement (the "Closing")
-shall occur on a date (the "Closing Date") and at a time and place designated
-solely by Clear Channel after FCC Consent (defined below), subject to
-satisfaction or waiver of the conditions to Closing contained herein (other
-than those to be satisfied at Closing). If requested by Clear Channel, prior
-to Closing the parties shall hold a pre-closing conference at a time and
-place designated by Clear Channel, at which the parties shall provide (for
-review only) all documents to be delivered at Closing under this
-Agreement, each duly executed but undated, and otherwise confirm their
-ability to timely consummate the Closing.  ARTICLE 5: GOVERNMENTAL
-CONSENTS   Closing is subject to and conditioned upon (i) prior FCC consent
-(the "FCC Consent") to the assignment of the Clear Channel FCC Licenses to
-Exchange Party and the Exchange Party FCC Licenses to Clear Channel, (ii)
-United States Department of Justice ("DOJ") prior approval (the "DOJ
-Consent") of the transactions contemplated hereby, including without
-limitation any such approval as may be necessary to enable Clear Channel to
-consummate the merger under the AMFM Agreement, and (iii) expiration or
-termination of any applicable waiting period ("HSR Clearance") under the HSR
-Act (defined below).   5.1. FCC. On a date designated by Clear Channel,
-Clear Channel and Exchange Party shall file applications with the FCC (the
-"FCC Application") requesting the FCC Consent. Clear Channel and Exchange
-Party shall diligently prosecute the FCC Application and otherwise use their
-best efforts to obtain the FCC Consent as soon as possible. If the FCC
-Consent imposes upon Exchange Party any condition (including without
-limitation in any divestiture condition), Exchange Party shall timely comply
-therewith.   5.2. HSR. If not previously filed, then within five (5)
-business days after the execution of this Agreement, Clear Channel and
-Exchange Party shall make any required filings with the Federal Trade
-Commission and the DOJ pursuant to the Hart-Scott-Rodino Antitrust
-Improvements Act of 1976, as amended (the "HSR Act") with respect to the
-transactions contemplated hereby (including a request for early termination
-of the waiting period thereunder), and shall thereafter promptly respond to
-all requests received from such agencies for additional information or
-documentation.   5.3. General. Clear Channel and Exchange Party shall notify
-each other of all documents filed with or received from any governmental
-agency with respect to this Agreement or the transactions contemplated
-hereby. Clear Channel and Exchange Party shall furnish each other with such
-information and assistance as such the other may reasonably request in
-connection with their preparation of any governmental filing hereunder. If
-Exchange Party becomes aware of any fact relating to it which would prevent
-or delay the FCC Consent, the DOJ Consent or HSR Clearance, Exchange Party
-shall promptly notify Clear Channel thereof and take such steps as necessary
-to remove such impediment, including      -9-  10  but not limited to
-divesting any stations and terminating any agreements to acquire or program
-or market any stations.  ARTICLE 6: REPRESENTATIONS AND WARRANTIES OF CLEAR
-CHANNEL   Clear Channel makes the following representations and warranties
-to Exchange Party:   6.1. Organization. Clear Channel is duly organized,
-validly existing and in good standing under the laws of the jurisdiction of
-its organization, and is qualified to do business in each jurisdiction in
-which the Clear Channel Station Assets and the Exchange Party Station Assets
-are located. Clear Channel has the requisite power and authority to execute
-and deliver this Agreement and all of the other agreements and instruments to
-be executed and delivered by Clear Channel pursuant hereto (collectively, the
-"Clear Channel Ancillary Agreements"), to consummate the transactions
-contemplated hereby and thereby and to comply with the terms, conditions and
-provisions hereof and thereof.   6.2. Authorization. The execution, delivery
-and performance of this Agreement and the Clear Channel Ancillary Agreements
-by Clear Channel have been duly authorized and approved by all necessary
-action of Clear Channel and do not require any further authorization or
-consent of Clear Channel. This Agreement is, and each Clear Channel Ancillary
-Agreement when executed and delivered by Clear Channel and the other parties
-thereto will be, a legal, valid and binding agreement of Clear Channel
-enforceable in accordance with its respective terms, except in each case as
-such enforceability may be limited by bankruptcy, moratorium, insolvency,
-reorganization or other similar laws affecting or limiting the enforcement of
-creditors\' rights generally and except as such enforceability is subject to
-general principles of equity (regardless of whether such enforceability is
-considered in a proceeding in equity or at law).   6.3. No Conflicts.
-Neither the execution and delivery by Clear Channel of this Agreement and the
-Clear Channel Ancillary Agreements or the consummation by Clear Channel of
-any of the transactions contemplated hereby or thereby nor compliance by
-Clear Channel with or fulfillment by Clear Channel of the terms, conditions
-and provisions hereof or thereof will: (i) conflict with any organizational
-documents of Clear Channel or any law, judgment, order, or decree to which
-Clear Channel is subject or, except as set forth on Schedule 1.1(c), any
-Clear Channel Station Contract; or (ii) require the approval,
-consent, authorization or act of, or the making by Clear Channel of any
+operation of the Exchange Party Stations, including the Exchange Party Stations'
+local public files, programming information and studies, blueprints, technical
+information and engineering data, advertising studies, marketing and demographic
+data, sales correspondence, lists of advertisers, credit and sales reports, and
+logs, but excluding records relating to the Exchange Party Excluded Assets
+(defined below); and
+
+         (f) any real property which is used exclusively in the operation of the
+Exchange Party Stations (including any of Exchange Party's appurtenant easements
+and improvements located thereon) and described on Schedule 1.3(f) (the
+"Exchange Party Real Property").
+
+         The Exchange Party Station Assets shall be transferred to Clear Channel
+free and clear of Liens except for (i) Clear Channel Assumed Obligations
+(defined below), (ii) liens for taxes not yet due and payable and for which
+Clear Channel receives a credit pursuant to Section 3.3, (iii) such liens,
+easements, rights of way, building and use restrictions, exceptions,
+reservations and limitations that do not in any material respect detract from
+the value of the property subject thereto or impair the use thereof in the
+ordinary course of the business of the Exchange Party Stations, and (iv) any
+items listed on Schedule 1.3(b) (collectively, "Exchange Party Permitted
+Liens").
+
+     1.4. Exchange Party Excluded Assets. Notwithstanding anything to the
+contrary contained herein, the Exchange Party Station Assets shall not include
+the following assets along with all rights, title and interest therein (the
+"Exchange Party Excluded Assets"):
+
+         (a) all cash and cash equivalents of Exchange Party, including without
+limitation certificates of deposit, commercial paper, treasury bills, marketable
+securities, asset or money market accounts and all such similar accounts or
+investments;
+
+         (b) all accounts receivable or notes receivable arising in the
+operation of the Exchange Party Stations prior to Closing;
+
+         (c) all tangible and intangible personal property of Exchange Party
+disposed of or consumed in the ordinary course of business of Exchange Party
+between the date of this Agreement and Closing;
+
+         (d) all Exchange Party Station Contracts that terminate or expire prior
+to Closing in the ordinary course of business of Exchange Party;
+
+         (e) Exchange Party's name, corporate minute books, charter documents,
+corporate stock record books and such other books and records as pertain to the
+organization,
+
+
+
+                                      -5-
+<PAGE>   6
+
+existence or share capitalization of Exchange Party, duplicate copies of the
+records of the Exchange Party Stations, and all records not relating exclusively
+to the operation of the Exchange Party Stations;
+
+         (f) contracts of insurance, and all insurance proceeds or claims made
+thereunder;
+
+         (g) all pension, profit sharing or cash or deferred (Section 401(k))
+plans and trusts and the assets thereof and any other employee benefit plan or
+arrangement and the assets thereof, if any, maintained by Exchange Party; and
+
+         (h) any rights, properties or assets described on Schedule 1.4(h), and
+all rights, properties and assets not specifically described in Section 1.3.
+
+     1.5. Lease Agreements. At Closing, Clear Channel and the Exchange Party
+shall enter into the lease agreements described on Schedule 1.2(h) pursuant to
+leases in the form of Exhibit A attached hereto (for each tower space lease),
+Exhibit B-1 attached hereto (for any single tenant studio lease) and Exhibit B-2
+attached hereto (for any multi-tenant studio lease).
+
+ARTICLE 2:  ASSUMPTION OF OBLIGATIONS
+
+     2.1. Clear Channel Assumed Obligations. On the Closing Date, Clear Channel
+shall assume the obligations of Exchange Party (the "Clear Channel Assumed
+Obligations") arising after Closing under the Exchange Party Station Contracts,
+including without limitation all agreements for the sale of advertising time on
+the Exchange Party Stations for cash in the ordinary course of business
+("Exchange Party Time Sales Agreements") and all agreements for the sale of
+advertising time on the Exchange Party Stations for non-cash consideration
+("Exchange Party Trade Agreements").
+
+     2.2. Exchange Party Retained Obligations. Clear Channel does not assume or
+agree to discharge or perform and will not be deemed by reason of the execution
+and delivery of this Agreement or any agreement, instrument or document
+delivered pursuant to or in connection with this Agreement or otherwise by
+reason of the consummation of the transactions contemplated hereby, to have
+assumed or to have agreed to discharge or perform, any liabilities, obligations
+or commitments of Exchange Party of any nature whatsoever whether accrued,
+absolute, contingent or otherwise and whether or not disclosed to Clear Channel,
+other than the Clear Channel Assumed Obligations (the "Exchange Party Retained
+Obligations").
+
+     2.3. Exchange Party Assumed Obligations. On the Closing Date, Exchange
+Party shall assume the obligations of Clear Channel (the "Exchange Party Assumed
+Obligations") arising after Closing under the Clear Channel Station Contracts,
+including without limitation all agreements for the sale of advertising time on
+the Clear Channel Stations for cash in the ordinary course of business ("Clear
+Channel Time Sales Agreements") and all agreements for
+
+
+
+                                      -6-
+<PAGE>   7
+
+the sale of advertising time on the Clear Channel Stations for non-cash
+consideration ("Clear Channel Trade Agreements").
+
+     2.4. Clear Channel Retained Obligations. Exchange Party does not assume or
+agree to discharge or perform and will not be deemed by reason of the execution
+and delivery of this Agreement or any agreement, instrument or document
+delivered pursuant to or in connection with this Agreement or otherwise by
+reason of the consummation of the transactions contemplated hereby, to have
+assumed or to have agreed to discharge or perform, any liabilities, obligations
+or commitments of Clear Channel of any nature whatsoever whether accrued,
+absolute, contingent or otherwise and whether or not disclosed to Exchange
+Party, other than the Exchange Party Assumed Obligations (the "Clear Channel
+Retained Obligations").
+
+ARTICLE 3:  CASH PAYMENT
+
+     3.1. Cash Payment. The parties agree that the aggregate value of the Clear
+Channel Station Assets exceeds the aggregate value of the Exchange Party Station
+Assets by an amount equal to One Hundred Five Million Five Hundred Thousand
+Dollars ($105,500,000) (the "Cash Amount"). Exchange Party shall at Closing
+(defined below) deliver to Clear Channel by wire transfer of immediately
+available funds the Cash Amount, subject to adjustment pursuant to Sections 3.3
+(the "Cash Payment").
+
+     3.2. Deposit. Within three (3) business days of the date of this Agreement
+(with no Cure Period (defined below)), Exchange Party shall deposit an amount
+equal to 10% of the Cash Amount (the "Deposit") with Bank of America (the
+"Escrow Agent") pursuant to the Escrow Agreement (the "Escrow Agreement") of
+even date herewith among Clear Channel, Exchange Party and the Escrow Agent. At
+Closing, the Deposit shall be applied to the Cash Payment and any interest
+accrued thereon shall be disbursed to Exchange Party (if in cash) or returned to
+Exchange Party (if a letter of credit). If this Agreement is terminated by Clear
+Channel due to Exchange Party's failure to consummate the Closing on the Closing
+Date in accordance with this Agreement or if this Agreement is otherwise
+terminated by Clear Channel pursuant to Section 16.1(b), the Deposit and any
+interest accrued thereon shall be disbursed to Clear Channel as partial payment
+of liquidated damages pursuant to Section 16.3. If this Agreement is terminated
+for any other reason, the Deposit and any interest accrued thereon shall be
+disbursed to Exchange Party. Exchange Party may make the Deposit by delivering
+to the Escrow Agent (as beneficiary) a letter of credit (the "L/C") issued by
+Bank of Nova Scotia (the "Issuing Bank") in the stated amount of 10% of the
+Purchase Price, without draw conditions and with an expiry date of not less than
+6 months (and otherwise in a form reasonably satisfactory to Seller). If the
+Deposit is to be disbursed to Clear Channel as provided in this Agreement, then
+the Escrow Agent shall present the L/C to the Issuing Bank and draw the entire
+stated amount and such proceeds shall be disbursed to Clear Channel. If the L/C
+is not extended prior to the date one month before its expiry date, then the
+Escrow Agent shall present the L/C to the Issuing Bank and draw the entire
+stated amount and such proceeds shall be held by the Escrow Agent as a cash
+deposit.
+
+
+
+                                      -7-
+<PAGE>   8
+
+     3.3. Prorations and Adjustments. Except as otherwise provided herein, all
+deposits, reserves and prepaid and deferred income and expenses arising from the
+conduct of the business and operations of the Clear Channel Stations and
+Exchange Party Stations shall be prorated in accordance with generally accepted
+accounting principles as of 11:59 p.m. on the date immediately preceding the
+Closing Date. Such prorations shall include, without limitation, all ad valorem,
+real estate and other property taxes (but excluding transfer taxes which shall
+be paid as set forth in Section 13.1), business and license fees, music and
+other license fees (including any retroactive adjustments thereof), utility
+expenses, amounts due or to become due under contracts, rents, lease payments
+and similar prepaid and deferred items. Real estate taxes shall be apportioned
+on the basis of taxes assessed for the preceding year, with a reapportionment,
+if any, as soon as the new tax rate and valuation can be ascertained. Except as
+otherwise provided herein, the prorations and adjustments contemplated by this
+Section 3.3, to the extent practicable, shall be made on the Closing Date. As to
+those prorations and adjustments not capable of being ascertained on the Closing
+Date, an adjustment and proration shall be made within ninety (90) calendar days
+of the Closing Date. In the event of any disputes between the parties as to such
+adjustments, the amounts not in dispute shall nonetheless be paid at the time
+provided herein and such disputes shall be determined by an independent
+certified public accountant mutually acceptable to the parties, and the fees and
+expenses of such accountant shall be paid one-half by Clear Channel and one-half
+by Exchange Party.
+
+     3.4. Allocation.
+
+         (a) The values of the assets comprising the Clear Channel Station
+Assets and the Exchange Party Station Assets shall be determined by an appraisal
+(the "Appraisal") prepared by Bond & Pecaro (whose fees shall be paid one-half
+by Clear Channel and one-half by Exchange Party). Prior to Closing, Clear
+Channel shall prepare and provide to Exchange Party schedules which, for each
+party to this Agreement, show the respective Clear Channel Station Assets and
+Exchange Party Station Assets to be conveyed and acquired and Cash Payment to be
+made and received at Closing under this Agreement.
+
+         (b) Before or after Closing, Clear Channel shall prepare schedules (the
+"Exchange Group Schedules") which (i) divide the Exchange Party Station Assets
+and the Clear Channel Station Assets into both "exchange groups" (in accordance
+with the like-kind exchange rules covering exchanges of multiple properties
+under Treas. Reg. Section 1.1031(j)-1) and residual groups and (ii) set forth
+the total value of the assets making up each such exchange group and residual
+group (based upon the Appraisal). For tax purposes, the parties shall report the
+exchange of assets under this Agreement consistently with the Exchange Group
+Schedules and the Appraisal, including without limitation filing when due IRS
+Form 8594 and (if applicable) IRS Form 8824 on the basis of the Exchange Group
+Schedules and the Appraisal.
+
+
+
+                                      -8-
+<PAGE>   9
+
+ARTICLE 4:  CLOSING
+
+     4.1. Closing. The consummation of the exchange of assets under this
+Agreement (the "Closing") shall occur on a date (the "Closing Date") and at a
+time and place designated solely by Clear Channel after FCC Consent (defined
+below), subject to satisfaction or waiver of the conditions to Closing contained
+herein (other than those to be satisfied at Closing). If requested by Clear
+Channel, prior to Closing the parties shall hold a pre-closing conference at a
+time and place designated by Clear Channel, at which the parties shall provide
+(for review only) all documents to be delivered at Closing under this Agreement,
+each duly executed but undated, and otherwise confirm their ability to timely
+consummate the Closing.
+
+ARTICLE 5:  GOVERNMENTAL CONSENTS
+
+     Closing is subject to and conditioned upon (i) prior FCC consent (the "FCC
+Consent") to the assignment of the Clear Channel FCC Licenses to Exchange Party
+and the Exchange Party FCC Licenses to Clear Channel, (ii) United States
+Department of Justice ("DOJ") prior approval (the "DOJ Consent") of the
+transactions contemplated hereby, including without limitation any such approval
+as may be necessary to enable Clear Channel to consummate the merger under the
+AMFM Agreement, and (iii) expiration or termination of any applicable waiting
+period ("HSR Clearance") under the HSR Act (defined below).
+
+     5.1. FCC. On a date designated by Clear Channel, Clear Channel and Exchange
+Party shall file applications with the FCC (the "FCC Application") requesting
+the FCC Consent. Clear Channel and Exchange Party shall diligently prosecute the
+FCC Application and otherwise use their best efforts to obtain the FCC Consent
+as soon as possible. If the FCC Consent imposes upon Exchange Party any
+condition (including without limitation in any divestiture condition), Exchange
+Party shall timely comply therewith.
+
+     5.2. HSR. If not previously filed, then within five (5) business days after
+the execution of this Agreement, Clear Channel and Exchange Party shall make any
+required filings with the Federal Trade Commission and the DOJ pursuant to the
+Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended (the "HSR Act")
+with respect to the transactions contemplated hereby (including a request for
+early termination of the waiting period thereunder), and shall thereafter
+promptly respond to all requests received from such agencies for additional
+information or documentation.
+
+     5.3. General. Clear Channel and Exchange Party shall notify each other of
+all documents filed with or received from any governmental agency with respect
+to this Agreement or the transactions contemplated hereby. Clear Channel and
+Exchange Party shall furnish each other with such information and assistance as
+such the other may reasonably request in connection with their preparation of
+any governmental filing hereunder. If Exchange Party becomes aware of any fact
+relating to it which would prevent or delay the FCC Consent, the DOJ Consent or
+HSR Clearance, Exchange Party shall promptly notify Clear Channel thereof and
+take such steps as necessary to remove such impediment, including
+
+
+
+
+                                      -9-
+<PAGE>   10
+
+but not limited to divesting any stations and terminating any agreements to
+acquire or program or market any stations.
+
+ARTICLE 6:  REPRESENTATIONS AND WARRANTIES OF CLEAR CHANNEL
+
+     Clear Channel makes the following representations and warranties to
+Exchange Party:
+
+     6.1. Organization. Clear Channel is duly organized, validly existing and in
+good standing under the laws of the jurisdiction of its organization, and is
+qualified to do business in each jurisdiction in which the Clear Channel Station
+Assets and the Exchange Party Station Assets are located. Clear Channel has the
+requisite power and authority to execute and deliver this Agreement and all of
+the other agreements and instruments to be executed and delivered by Clear
+Channel pursuant hereto (collectively, the "Clear Channel Ancillary
+Agreements"), to consummate the transactions contemplated hereby and thereby and
+to comply with the terms, conditions and provisions hereof and thereof.
+
+     6.2. Authorization. The execution, delivery and performance of this
+Agreement and the Clear Channel Ancillary Agreements by Clear Channel have been
+duly authorized and approved by all necessary action of Clear Channel and do not
+require any further authorization or consent of Clear Channel. This Agreement
+is, and each Clear Channel Ancillary Agreement when executed and delivered by
+Clear Channel and the other parties thereto will be, a legal, valid and binding
+agreement of Clear Channel enforceable in accordance with its respective terms,
+except in each case as such enforceability may be limited by bankruptcy,
+moratorium, insolvency, reorganization or other similar laws affecting or
+limiting the enforcement of creditors' rights generally and except as such
+enforceability is subject to general principles of equity (regardless of whether
+such enforceability is considered in a proceeding in equity or at law).
+
+     6.3. No Conflicts. Neither the execution and delivery by Clear Channel of
+this Agreement and the Clear Channel Ancillary Agreements or the consummation by
+Clear Channel of any of the transactions contemplated hereby or thereby nor
+compliance by Clear Channel with or fulfillment by Clear Channel of the terms,
+conditions and provisions hereof or thereof will: (i) conflict with any
+organizational documents of Clear Channel or any law, judgment, order, or decree
+to which Clear Channel is subject or, except as set forth on Schedule 1.1(c),
+any Clear Channel Station Contract; or (ii) require the approval, consent,
+authorization or act of, or the making by Clear Channel of any declaration,
+filing or registration with, any third party or any foreign, federal, state or
+local court, governmental or regulatory authority or body, except the FCC
+Consent and DOJ Consent, and, if applicable, HSR Clearance.
+
+     6.4. FCC Licenses. Clear Channel (or one of the companies comprising Clear
+Channel) is the holder of the Clear Channel FCC Licenses described on Schedule
+1.1(a). The Clear Channel FCC Licenses are in full force and effect and have not
+been revoked, suspended, canceled, rescinded or terminated and have not expired.
+There is not pending any action by or before the FCC to revoke, suspend, cancel,
+rescind or materially adversely
+
+
+
+
+                                      -10-
+<PAGE>   11
+
+modify any of the Clear Channel FCC Licenses (other than proceedings to amend
+FCC rules of general applicability), and there is not now issued or outstanding,
+by or before the FCC, any order to show cause, notice of violation, notice of
+apparent liability, or notice of forfeiture against Clear Channel with respect
+to the Clear Channel Stations. The Clear Channel Stations are operating in
+compliance in all material respects with the Clear Channel FCC Licenses, the
+Communications Act of 1934, as amended (the "Communications Act"), and the
+rules, regulations and policies of the FCC.
+
+     6.5. Taxes. Clear Channel has, in respect of the Clear Channel Stations'
+business, filed all foreign, federal, state, county and local income, excise,
+property, sales, use, franchise and other tax returns and reports which are
+required to have been filed by it under applicable law and has paid all taxes
+which have become due pursuant to such returns or pursuant to any assessments
+which have become payable.
+
+     6.6. Personal Property. Schedule 1.1(b) contains a list of all material
+items of Clear Channel Tangible Personal Property included in the Clear Channel
+Station Assets. Clear Channel has title to the Clear Channel Tangible Personal
+Property free and clear of Liens other than Clear Channel Permitted Liens.
+
+     6.7. Real Property. Schedule 1.1(f) contains a description of all Clear
+Channel Real Property included in the Clear Channel Station Assets. Clear
+Channel has fee simple title to the owned Clear Channel Real Property ("Clear
+Channel Owned Real Property") free and clear of Liens other than Clear Channel
+Permitted Liens. Schedule 1.1(f) includes a description of each real property
+lease or similar agreement included in the Clear Channel Station Assets (the
+"Clear Channel Real Property Leases"). The Clear Channel Owned Real Property
+includes, and the Clear Channel Real Property Leases provide, access to the
+Clear Channel Stations' facilities. To Clear Channel's knowledge, the Clear
+Channel Real Property is not subject to any suit for condemnation or other
+taking by any public authority.
+
+     6.8. Contracts. Each of the Clear Channel Station Contracts (including
+without limitation each of the Clear Channel Real Property Leases) is in effect
+and is binding upon Clear Channel and, to Clear Channel's knowledge, the other
+parties thereto (subject to bankruptcy, insolvency, reorganization or other
+similar laws relating to or affecting the enforcement of creditors' rights
+generally). Clear Channel has performed its obligations under each of the Clear
+Channel Station Contracts in all material respects, and is not in material
+default thereunder, and to Clear Channel's knowledge, no other party to any of
+the Clear Channel Station Contracts is in default thereunder in any material
+respect.
+
+     6.9. Environmental. Except as set forth in any environmental report
+delivered by Clear Channel to Exchange Party prior to the date of this Agreement
+and except as set forth on Schedule 1.1(f), to Clear Channel's knowledge, no
+hazardous or toxic substance or waste regulated under any applicable
+environmental, health or safety law has been generated, stored, transported or
+released on, in, from or to the Clear Channel Real Property included in the
+Clear Channel Station Assets. Except as set forth in any environmental report
+delivered by Clear Channel to Exchange Party prior to the date of this Agreement
+and except as set forth on
+
+
+
+                                      -11-
+<PAGE>   12
+
+Schedule 1.1(f), to Clear Channel's knowledge, Clear Channel has complied in all
+material respects with all environmental, health and safety laws applicable to
+the Clear Channel Stations.
+
+     6.10. Intangible Property. Schedule 1.1(d) contains a description of the
+material Clear Channel Intangible Property included in the Clear Channel Station
+Assets. Except as set forth on Schedule 1.1(d), Clear Channel has received no
+notice of any claim that its use of the Clear Channel Intangible Property
+infringes upon any third party rights. . Except as set forth on Schedule 1.1(d),
+Clear Channel owns or has the right to use the Clear Channel Intangible Property
+free and clear of Liens other than Clear Channel Permitted Liens.
+
+     6.11. Compliance with Law. Clear Channel has complied in all material
+respects with all laws, regulations, rules, writs, injunctions, ordinances,
+franchises, decrees or orders of any court or of any foreign, federal, state,
+municipal or other governmental authority which are applicable to the operation
+of the Clear Channel Stations. There is no action, suit or proceeding pending or
+threatened against Clear Channel in respect of the Clear Channel Stations that
+will subject Exchange Party to liability or which questions the legality or
+propriety of the transactions contemplated by this Agreement. To Clear Channel's
+knowledge, there are no governmental claims or investigations pending or
+threatened against Clear Channel in respect of the Clear Channel Stations
+(except those affecting the industry generally).
+
+     6.12. No Finder. No broker, finder or other person is entitled to a
+commission, brokerage fee or other similar payment in connection with this
+Agreement or the transactions contemplated hereby as a result of any agreement
+or action of Clear Channel or any party acting on Clear Channel's behalf.
+
+     6.13. Qualification. Clear Channel is legally, financially and otherwise
+qualified to be the licensee of, acquire, own and operate the Exchange Party
+Stations under the Communications Act and the rules, regulations and policies of
+the FCC. There are no facts that would, under existing law and the existing
+rules, regulations, policies and procedures of the FCC, disqualify Clear Channel
+as an assignee of the Exchange Party FCC Licenses or as the owner and operator
+of the Exchange Party Stations. No request by Clear Channel for waiver of any
+FCC rule or policy is necessary for the FCC Consent to be obtained. There is no
+action, suit or proceeding pending or threatened against Clear Channel which
+could materially adversely affect Clear Channel's ability to perform its
+obligations hereunder.
+
+ARTICLE 7:  REPRESENTATIONS AND WARRANTIES OF EXCHANGE PARTY
+
+     Exchange Party makes the following representations and warranties to Clear
+Channel:
+
+     7.1. Organization. Exchange Party is duly organized, validly existing and
+in good standing under the laws of the jurisdiction of its organization, and is
+qualified to do business in each jurisdiction in which the Exchange Party
+Station Assets and the Clear Channel Station Assets are located. Exchange Party
+has the requisite power and authority to execute and deliver this Agreement and
+all of the other agreements and instruments to be executed and
+
+
+
+
+                                      -12-
+<PAGE>   13
+
+delivered by Exchange Party pursuant hereto (collectively, the "Exchange Party
+Ancillary Agreements"), to consummate the transactions contemplated hereby and
+thereby and to comply with the terms, conditions and provisions hereof and
+thereof.
+
+     7.2. Authorization. The execution, delivery and performance of this
+Agreement and the Exchange Party Ancillary Agreements by Exchange Party have
+been duly authorized and approved by all necessary action of Exchange Party and
+do not require any further authorization or consent of Exchange Party. This
+Agreement is, and each Exchange Party Ancillary Agreement when executed and
+delivered by Exchange Party and the other parties thereto will be, a legal,
+valid and binding agreement of Exchange Party enforceable in accordance with its
+respective terms, except in each case as such enforceability may be limited by
+bankruptcy, moratorium, insolvency, reorganization or other similar laws
+affecting or limiting the enforcement of creditors' rights generally and except
+as such enforceability is subject to general principles of equity (regardless of
+whether such enforceability is considered in a proceeding in equity or at law).
+
+     7.3. No Conflicts. Neither the execution and delivery by Exchange Party of
+this Agreement and the Exchange Party Ancillary Agreements or the consummation
+by Exchange Party of any of the transactions contemplated hereby or thereby nor
+compliance by Exchange Party with or fulfillment by Exchange Party of the terms,
+conditions and provisions hereof or thereof will: (i) conflict with any
+organizational documents of Exchange Party or any law, judgment, order, or
+decree to which Exchange Party is subject or, except as set forth on Schedule
+1.3(c), any Exchange Party Station Contract; or (ii) require the approval,
+consent, authorization or act of, or the making by Exchange Party of any
 declaration, filing or registration with, any third party or any foreign,
 federal, state or local court, governmental or regulatory authority or body,
-except the FCC Consent and DOJ Consent, and, if applicable, HSR
-Clearance.   6.4. FCC Licenses. Clear Channel (or one of the companies
-comprising Clear Channel) is the holder of the Clear Channel FCC Licenses
-described on Schedule 1.1(a). The Clear Channel FCC Licenses are in full
-force and effect and have not been revoked, suspended, canceled, rescinded or
-terminated and have not expired. There is not pending any action by or before
-the FCC to revoke, suspend, cancel, rescind or materially adversely     
--10-  11  modify any of the Clear Channel FCC Licenses (other than
-proceedings to amend FCC rules of general applicability), and there is not
-now issued or outstanding, by or before the FCC, any order to show cause,
-notice of violation, notice of apparent liability, or notice of forfeiture
-against Clear Channel with respect to the Clear Channel Stations. The Clear
-Channel Stations are operating in compliance in all material respects with
-the Clear Channel FCC Licenses, the Communications Act of 1934, as amended
-(the "Communications Act"), and the rules, regulations and policies of the
-FCC.   6.5. Taxes. Clear Channel has, in respect of the Clear Channel
-Stations\' business, filed all foreign, federal, state, county and local
-income, excise, property, sales, use, franchise and other tax returns and
-reports which are required to have been filed by it under applicable law and
-has paid all taxes which have become due pursuant to such returns or pursuant
-to any assessments which have become payable.   6.6. Personal Property.
-Schedule 1.1(b) contains a list of all material items of Clear Channel
-Tangible Personal Property included in the Clear Channel Station Assets.
-Clear Channel has title to the Clear Channel Tangible Personal Property free
-and clear of Liens other than Clear Channel Permitted Liens.   6.7. Real
-Property. Schedule 1.1(f) contains a description of all Clear Channel Real
-Property included in the Clear Channel Station Assets. Clear Channel has fee
-simple title to the owned Clear Channel Real Property ("Clear Channel Owned
-Real Property") free and clear of Liens other than Clear Channel Permitted
-Liens. Schedule 1.1(f) includes a description of each real property lease or
-similar agreement included in the Clear Channel Station Assets (the "Clear
-Channel Real Property Leases"). The Clear Channel Owned Real
-Property includes, and the Clear Channel Real Property Leases provide, access
-to the Clear Channel Stations\' facilities. To Clear Channel\'s knowledge,
-the Clear Channel Real Property is not subject to any suit for condemnation
-or other taking by any public authority.   6.8. Contracts. Each of the
-Clear Channel Station Contracts (including without limitation each of the
-Clear Channel Real Property Leases) is in effect and is binding upon Clear
-Channel and, to Clear Channel\'s knowledge, the other parties thereto
-(subject to bankruptcy, insolvency, reorganization or other similar laws
-relating to or affecting the enforcement of creditors\' rights generally).
-Clear Channel has performed its obligations under each of the Clear Channel
-Station Contracts in all material respects, and is not in material default
-thereunder, and to Clear Channel\'s knowledge, no other party to any of the
-Clear Channel Station Contracts is in default thereunder in any
-material respect.   6.9. Environmental. Except as set forth in any
-environmental report delivered by Clear Channel to Exchange Party prior to
-the date of this Agreement and except as set forth on Schedule 1.1(f), to
-Clear Channel\'s knowledge, no hazardous or toxic substance or waste
-regulated under any applicable environmental, health or safety law has been
-generated, stored, transported or released on, in, from or to the Clear
-Channel Real Property included in the Clear Channel Station Assets. Except as
-set forth in any environmental report delivered by Clear Channel to Exchange
-Party prior to the date of this Agreement and except as set forth on    
--11-  12  Schedule 1.1(f), to Clear Channel\'s knowledge, Clear Channel has
-complied in all material respects with all environmental, health and safety
-laws applicable to the Clear Channel Stations.   6.10. Intangible Property.
-Schedule 1.1(d) contains a description of the material Clear Channel
-Intangible Property included in the Clear Channel Station Assets. Except as
-set forth on Schedule 1.1(d), Clear Channel has received no notice of any
-claim that its use of the Clear Channel Intangible Property infringes upon
-any third party rights. . Except as set forth on Schedule 1.1(d), Clear
-Channel owns or has the right to use the Clear Channel Intangible
-Property free and clear of Liens other than Clear Channel Permitted
-Liens.   6.11. Compliance with Law. Clear Channel has complied in all
-material respects with all laws, regulations, rules, writs, injunctions,
-ordinances, franchises, decrees or orders of any court or of any foreign,
-federal, state, municipal or other governmental authority which are
-applicable to the operation of the Clear Channel Stations. There is no
-action, suit or proceeding pending or threatened against Clear Channel in
-respect of the Clear Channel Stations that will subject Exchange Party to
-liability or which questions the legality or propriety of the transactions
-contemplated by this Agreement. To Clear Channel\'s knowledge, there are no
-governmental claims or investigations pending or threatened against Clear
-Channel in respect of the Clear Channel Stations (except those affecting the
-industry generally).   6.12. No Finder. No broker, finder or other person is
-entitled to a commission, brokerage fee or other similar payment in
-connection with this Agreement or the transactions contemplated hereby as a
-result of any agreement or action of Clear Channel or any party acting on
-Clear Channel\'s behalf.   6.13. Qualification. Clear Channel is legally,
-financially and otherwise qualified to be the licensee of, acquire, own and
-operate the Exchange Party Stations under the Communications Act and the
-rules, regulations and policies of the FCC. There are no facts that would,
-under existing law and the existing rules, regulations, policies and
-procedures of the FCC, disqualify Clear Channel as an assignee of the
-Exchange Party FCC Licenses or as the owner and operator of the Exchange
-Party Stations. No request by Clear Channel for waiver of any FCC rule or
-policy is necessary for the FCC Consent to be obtained. There is no action,
-suit or proceeding pending or threatened against Clear Channel which could
-materially adversely affect Clear Channel\'s ability to perform
-its obligations hereunder.  ARTICLE 7: REPRESENTATIONS AND WARRANTIES OF
-EXCHANGE PARTY   Exchange Party makes the following representations and
-warranties to Clear Channel:   7.1. Organization. Exchange Party is duly
-organized, validly existing and in good standing under the laws of the
-jurisdiction of its organization, and is qualified to do business in each
-jurisdiction in which the Exchange Party Station Assets and the Clear Channel
-Station Assets are located. Exchange Party has the requisite power and
-authority to execute and deliver this Agreement and all of the other
-agreements and instruments to be executed and      -12-  13  delivered
-by Exchange Party pursuant hereto (collectively, the "Exchange
-Party Ancillary Agreements"), to consummate the transactions contemplated
-hereby and thereby and to comply with the terms, conditions and provisions
-hereof and thereof.   7.2. Authorization. The execution, delivery and
-performance of this Agreement and the Exchange Party Ancillary Agreements by
-Exchange Party have been duly authorized and approved by all necessary action
-of Exchange Party and do not require any further authorization or consent of
-Exchange Party. This Agreement is, and each Exchange Party Ancillary
-Agreement when executed and delivered by Exchange Party and the other parties
-thereto will be, a legal, valid and binding agreement of Exchange Party
-enforceable in accordance with its respective terms, except in each case as
-such enforceability may be limited by bankruptcy, moratorium, insolvency,
-reorganization or other similar laws affecting or limiting the enforcement of
-creditors\' rights generally and except as such enforceability is subject to
-general principles of equity (regardless of whether such enforceability is
-considered in a proceeding in equity or at law).   7.3. No Conflicts.
-Neither the execution and delivery by Exchange Party of this Agreement and
-the Exchange Party Ancillary Agreements or the consummation by Exchange Party
-of any of the transactions contemplated hereby or thereby nor compliance by
-Exchange Party with or fulfillment by Exchange Party of the terms, conditions
-and provisions hereof or thereof will: (i) conflict with any organizational
-documents of Exchange Party or any law, judgment, order, or decree to which
-Exchange Party is subject or, except as set forth on Schedule 1.3(c), any
-Exchange Party Station Contract; or (ii) require the approval, consent,
-authorization or act of, or the making by Exchange Party of any declaration,
-filing or registration with, any third party or any foreign, federal, state
-or local court, governmental or regulatory authority or body, except the FCC
-Consent and DOJ Consent and, if applicable, HSR Clearance.   7.4. FCC
-Licenses. Exchange Party is the holder of the Exchange Party FCC Licenses
-described on Schedule 1.3(a). The Exchange Party FCC Licenses are in full
-force and effect and have not been revoked, suspended, canceled, rescinded or
-terminated and have not expired. There is not pending any action by or
-before the FCC to revoke, suspend, cancel, rescind or materially adversely
-modify any of the Exchange Party FCC Licenses (other than proceedings to
-amend FCC rules of general applicability), and there is not now issued or
-outstanding, by or before the FCC, any order to show cause, notice of
-violation, notice of apparent liability, or notice of forfeiture against
-Exchange Party with respect to the Exchange Party Stations. The Exchange
-Party Stations are operating in compliance in all material respects with the
-Exchange Party FCC Licenses, the Communications Act, and the rules,
-regulations and policies of the FCC.   7.5. Taxes. Exchange Party has, in
-respect of the Exchange Party Stations\' business, filed all foreign,
-federal, state, county and local income, excise, property, sales, use,
-franchise and other tax returns and reports which are required to have been
-filed by it under applicable law and has paid all taxes which have become due
-pursuant to such returns or pursuant to any assessments which have become
-payable.     -13-  14   7.6. Personal Property. Schedule 1.3(b)
-contains a list of all material items of Exchange Party Tangible Personal
-Property included in the Exchange Party Station Assets. Exchange Party has
-title to the Exchange Party Tangible Personal Property free and clear of
-Liens other than Exchange Party Permitted Liens.   7.7. Real Property.
-Schedule 1.3(f) contains a description of all Exchange Party Real Property
-included in the Exchange Party Station Assets. Exchange Party has fee simple
-title to the owned Exchange Party Real Property ("Exchange Party Owned Real
-Property") free and clear of Liens other than Exchange Party Permitted Liens.
-Schedule 1.3(f) includes a description of each real property lease or similar
-agreement included in the Exchange Party Station Assets (the "Exchange Party
-Real Property Leases"). The Exchange Party Owned Real Property includes, and
-the Exchange Party Real Property Leases provide, access to the Exchange Party
-Stations\' facilities. To Exchange Party\'s knowledge, the Exchange Party
-Real Property is not subject to any suit for condemnation or other taking by
-any public authority.   7.8. Contracts. Each of the Exchange Party Station
-Contracts (including without limitation each of the Exchange Party Real
-Property Leases) is in effect and is binding upon Exchange Party and, to
-Exchange Party\'s knowledge, the other parties thereto (subject to
-bankruptcy, insolvency, reorganization or other similar laws relating to or
-affecting the enforcement of creditors\' rights generally). Exchange Party
-has performed its obligations under each of the Exchange Party Station
-Contracts in all material respects, and is not in material default
-thereunder, and to Exchange Party\'s knowledge, no other party to any of the
-Exchange Party Station Contracts is in default thereunder in any material
-respect.   7.9. Environmental. Except as set forth in any environmental
-report delivered by Exchange Party to Clear Channel prior to the date of this
-Agreement and except as set forth on Schedule 1.3(f), to Exchange Party\'s
-knowledge, no hazardous or toxic substance or waste regulated under any
-applicable environmental, health or safety law has been generated, stored,
-transported or released on, in, from or to the Exchange Party Real Property
-included in the Exchange Party Station Assets. Except as set forth in any
-environmental report delivered by Exchange Party to Clear Channel prior to
-the date of this Agreement and except as set forth on Schedule 1.3(f), to
-Exchange Party\'s knowledge, Exchange Party has complied in all material
-respects with all environmental, health and safety laws applicable to the
-Exchange Party Stations.   7.10. Intangible Property. Schedule 1.3(d)
-contains a description of the material Exchange Party Intangible Property
-included in the Exchange Party Station Assets. Except as set forth on
-Schedule 1.3(d), Exchange Party has received no notice of any claim that its
-use of the Exchange Party Intangible Property infringes upon any third party
-rights. . Except as set forth on Schedule 1.3(d), Exchange Party owns or has
-the right to use the Exchange Party Intangible Property free and clear of
-Liens other than Exchange Party Permitted Liens.   7.11. Compliance with
-Law. Exchange Party has complied in all material respects with all laws,
-regulations, rules, writs, injunctions, ordinances, franchises, decrees or
-orders     -14-  15  of any court or of any foreign, federal, state,
-municipal or other governmental authority which are applicable to the
-operation of the Exchange Party Stations. There is no action, suit or
-proceeding pending or threatened against Exchange Party in respect of the
-Exchange Party Stations that will subject Clear Channel to liability or which
-questions the legality or propriety of the transactions contemplated by this
-Agreement. To Exchange Party `s knowledge, there are no governmental claims
-or investigations pending or threatened against Exchange Party in respect of
-the Exchange Party Stations (except those affecting the industry
-generally).   7.12. No Finder. No broker, finder or other person is entitled
-to a commission, brokerage fee or other similar payment in connection with
-this Agreement or the transactions contemplated hereby as a result of any
-agreement or action of Exchange Party or any party acting on Exchange Party
-`s behalf.   7.13. Qualification. Exchange Party is legally, financially and
-otherwise qualified to be the licensee of, acquire, own and operate the Clear
-Channel Stations under the Communications Act and the rules, regulations and
-policies of the FCC. There are no facts that would, under existing law and
-the existing rules, regulations, policies and procedures of the FCC,
-disqualify Exchange Party as an assignee of the Clear Channel FCC Licenses or
-as the owner and operator of the Clear Channel Stations. No request by
-Exchange Party for waiver of any FCC rule or policy is necessary for the FCC
-Consent to be obtained. There is no action, suit or proceeding pending or
-threatened against Exchange Party which could materially adversely affect
-Exchange Party\'s ability to perform its obligations hereunder. Exchange
-Party has and will have available on the Closing Date sufficient funds to
-enable it to consummate the transactions contemplated hereby.  ARTICLE 8:
-ACCOUNTS RECEIVABLE   8.1. Clear Channel Accounts Receivable. All accounts
-receivable arising prior to the Closing Date in connection with the operation
-of the Clear Channel Stations, including but not limited to accounts
-receivable for advertising revenues for programs and announcements performed
-prior to the Closing Date and other broadcast revenues for services performed
-prior to the Closing Date, shall remain the property of Clear Channel (the
-"Clear Channel Accounts Receivable") and Exchange Party shall not acquire any
-right or interest therein. For a period of six months from Closing (the
-"Collection Period"), Exchange Party shall collect the Clear Channel Accounts
-Receivable in the normal and ordinary course of Exchange Party\'s business
-and shall apply all such amounts collected to the debtor\'s oldest account
-receivable first. Exchange Party\'s obligation shall not extend to the
-institution of litigation, employment of counsel or a collection agency or
-any other extraordinary means of collection. During the Collection Period,
-neither Clear Channel or its agents shall make any direct solicitation of any
-such account debtor for collection purposes or institute litigation for the
-collection of amounts due. Any amounts relating to the Clear Channel Accounts
-Receivable that are paid directly to Clear Channel shall be retained by Clear
-Channel. Within ten calendar days after the end of each month, Exchange Party
-shall make a payment to Clear Channel equal to the amount of all collections
-of Clear Channel Accounts Receivable during the preceding month. At the end
-of     -15-  16  the Collection Period, any remaining Clear Channel
-Accounts Receivable shall be returned to Clear Channel for collection.  
-8.2. Exchange Party Accounts Receivable. All accounts receivable
-arising prior to the Closing Date in connection with the operation of the
-Exchange Party Stations, including but not limited to accounts receivable for
-advertising revenues for programs and announcements performed prior to the
-Closing Date and other broadcast revenues for services performed prior to the
-Closing Date, shall remain the property of Exchange Party (the "Exchange
-Party Accounts Receivable") and Clear Channel shall not acquire any right or
-interest therein. During the Collection Period, Clear Channel shall collect
-the Exchange Party Accounts Receivable in the normal and ordinary course of
-Clear Channel\'s business and shall apply all such amounts collected to the
-debtor\'s oldest account receivable first. Clear Channel\'s obligation shall
-not extend to the institution of litigation, employment of counsel or a
-collection agency or any other extraordinary means of collection. During the
-Collection Period, neither Exchange Party or its agents shall make any direct
-solicitation of any such account debtor for collection purposes or institute
-litigation for the collection of amounts due. Any amounts relating to the
-Exchange Party Accounts Receivable that are paid directly to Exchange Party
-shall be retained by Exchange Party. Within ten calendar days after the end
-of each month, Clear Channel shall make a payment to Exchange Party equal to
-the amount of all collections of Exchange Party Accounts Receivable during
-the preceding month. At the end of the Collection Period, any remaining
-Exchange Party Accounts Receivable shall be returned to Exchange Party for
-collection.  ARTICLE 9: COVENANTS   9.1. Clear Channel\'s Covenants. Clear
-Channel covenants and agrees with respect to the Clear Channel Stations that,
-between the date hereof and Closing, except as permitted by this Agreement or
-with the prior written consent of Exchange Party, which shall not be
-unreasonably withheld, Clear Channel shall:   (a) operate the Clear Channel
-Stations in the ordinary course of business consistent with past practice and
-in all material respects in accordance with FCC rules and regulations and
-with all other applicable laws, regulations, rules and orders;   (b) not,
-other than in the ordinary course of business in accordance with past
-practice, sell, lease or dispose of or agree to sell, lease or dispose of any
-of the Clear Channel Station Assets, or create, assume or permit to exist any
-Liens upon the Clear Channel Station Assets, except for Clear
-Channel Permitted Liens; and,   (c) furnish Exchange Party with such
-information relating to the Clear Channel Station Assets as Exchange Party
-may reasonably request, at Exchange Party\'s expense and provided such
-request does not interfere unreasonably with the business of the Clear
-Channel Stations.     -16-  17   9.2. Exchange Party\'s Covenants.
-Exchange Party covenants and agrees with respect to the Exchange Party
-Stations that, between the date hereof and Closing, except as permitted by
-this Agreement or with the prior written consent of Clear Channel, which
-shall not be unreasonably withheld, Exchange Party shall:   (a) operate the
-Exchange Party Stations in the ordinary course of business consistent with
-past practice and in all material respects in accordance with FCC rules and
-regulations and with all other applicable laws, regulations, rules and
-orders;   (b) not, other than in the ordinary course of business in
-accordance with past practice, sell, lease or dispose of or agree to sell,
-lease or dispose of any of the Exchange Party Station Assets, or create,
-assume or permit to exist any Liens upon the Exchange Party Station Assets,
-except for Exchange Party Permitted Liens; and,   (c) furnish Clear Channel
-with such information relating to the Exchange Party Station Assets as Clear
-Channel may reasonably request, at Clear Channel\'s expense and provided such
-request does not unreasonably with the business of the Exchange Party
-Stations.  ARTICLE 10: JOINT COVENANTS   Clear Channel and Exchange Party
-hereby covenant and agree that between the date hereof and Closing:   10.1.
-Cooperation. Subject to express limitations contained elsewhere herein, each
-party (i) shall cooperate fully with one another in taking any reasonable
-actions (including without limitation, reasonable actions to obtain the
-required consent of any governmental instrumentality or any third
-party) necessary or helpful to accomplish the transactions contemplated by
-this Agreement, including but not limited to the prompt satisfaction of any
-condition to Closing set forth herein, and (ii) shall not take any action
-that conflicts with its obligations hereunder or that causes its
-representations and warranties to become untrue in any material respect.  
-10.2. Control of Stations. Neither party shall, directly or
-indirectly, control, supervise or direct the operations of the other party\'s
-stations prior to Closing. Such operations, including complete control and
-supervision of all programs, employees and policies, shall be the sole
-responsibility of the FCC licensee thereof.   10.3. Consents to Assignment.
-The parties shall use commercially reasonable efforts to obtain any third
-party consents necessary for the assignment of any Clear Channel Station
-Contract or Exchange Party Station Contract (which shall not require any
-payment to any such third party). To the extent that any such contract may
-not be assigned without the consent of any third party, and such consent is
-not obtained prior to Closing, this Agreement and any assignment executed
-pursuant hereto shall not constitute an assignment thereof, but to the extent
-permitted by law shall constitute an equitable assignment and assumption of
-rights and obligations thereunder, with the conveying party making
-available to the acquiring party the      -17-  18  benefits thereof
-and the acquiring party performing the obligations thereunder on the
-conveying party\'s behalf.   10.4. Employee Matters. Prior to Closing, each
-party shall deliver to the other a list of employees of its stations that it
-does not intend to retain after Closing. The acquiring party may interview
-and elect to hire such listed employees, but not any other employees of the
-conveying party. The acquiring party is obligated to hire only those
-employees that are under employment contracts (and assume the obligations and
-liabilities under such employment contracts) which are included in the Clear
-Channel Station Contracts or Exchange Party Station Contracts. With respect
-to employees potentially to be hired by the acquiring party, to the extent
-permitted by law the conveying party shall provide access to its personnel
-records and such other information as may be reasonably requested prior to
-Closing. With respect to employees hired by the acquiring party ("Transferred
-Employees"), the conveying party shall be responsible for the payment of all
-compensation and accrued employee benefits payable by it until Closing and
-thereafter the acquiring party shall be responsible for all such obligations
-payable by it. The acquiring party shall cause all Transferred Employees to
-be eligible to participate in its "employee welfare benefit plans" and
-"employee pension benefit plans" (as defined in Sections 3(1) and 3(2) of
-ERISA, respectively) in which the acquiring party\'s similarly-situated
-employees are generally eligible to participate; provided, however, that all
-Transferred Employees and their spouses and dependents shall be eligible for
-coverage immediately after Closing (and shall not be excluded from coverage
-under any employee welfare benefit plan that is a group health plan on
-account of any pre-existing condition) to the extent provided under
-such employee welfare benefit plans. For purposes of any length of
-service requirements, waiting periods, vesting periods or differential
-benefits based on length of service in any such employee welfare benefit
-plans for which Transferred Employees may be eligible after Closing, the
-acquiring party shall ensure, to the extent permitted by applicable law
-(including, without limitation, ERISA and the Code), that service with the
-conveying party shall be deemed to have been service with the acquiring
-party. No such service credit must be granted with respect to participation
-or eligibility in any employee pension benefit plan. In addition, the
-acquiring party shall ensure, to the extent permitted by applicable law
-(including, without limitation, ERISA and the Code), that Transferred
-Employees receive credit under any welfare benefit plan of the acquiring
-party for any deductibles or co-payments paid by Transferred Employees and
-their spouses and dependents for the current plan year under a plan
-maintained by the conveying party. Notwithstanding any other
-provision contained herein, the acquiring party shall grant credit for all
-unused sick leave accrued by Transferred Employees on the basis of their
-service during the current calendar year as employees of the conveying party.
-Notwithstanding any other provision contained herein, the acquiring party
-shall assume and discharge the conveying party\'s liabilities for the payment
-of all unused vacation leave accrued by Transferred Employees on the basis of
-their service during the current calendar year as employees of the conveying
-party. From and after Closing, Exchange Party shall cooperate with the
-reasonable requests of Clear Channel to continue to withhold from the pay
-checks of Transferred Employees who have outstanding loan balances in Clear
-Channel\'s 401(k) Savings Plan, and Exchange Party shall remit such withheld
-amounts to Clear Channel in a timely fashion such that the outstanding loans
-do not go into default.     -18-  19   10.5. 1031 Exchange. At or prior
-to Closing, Clear Channel may assign its rights under this Agreement (in
-whole or in part) to a qualified intermediary (as defined in Treasury
-regulation section 1.1031(k)-1(g)(4)) or similar entity or arrangement
-("Qualified Intermediary"). Upon any such assignment, Clear Channel shall
-promptly give written notice thereof to Exchange Party and Exchange Party
-shall cooperate with the reasonable requests of Clear Channel and any
-Qualified Intermediary in connection therewith. Without limiting
-the generality of the foregoing, if Clear Channel gives notice of such
-agreement, Exchange Party shall (i) promptly provide Clear Channel with
-written acknowledgment of such notice and (ii) at Closing, convey all or part
-of the Exchange Party Station Assets and make all or part of the Cash Payment
-(each as designated in writing by the Qualified Intermediary) to or on behalf
-of the Qualified Intermediary (which payment and conveyance shall, to the
-extent thereof, satisfy the obligation of Exchange Party to make such
-conveyance and payment hereunder). Clear Channel\'s assignment to a Qualified
-Intermediary will not relieve Clear Channel of any of its duties or
-obligations herein. Except for the obligations of Exchange Party set forth in
-this Section, Exchange Party shall not have any liability or obligation to
-Clear Channel for the failure of such other exchange to qualify as a like
-kind exchange under Section 1031 of the Code unless such failure is the
-result of the material breach or default by Exchange Party under this
-Agreement.   10.6. Trust. Notwithstanding anything in this Agreement to the
-contrary, Clear Channel may at it option assign this Agreement (in whole or
-part) and assign and transfer the Clear Channel Station Assets (in whole or
-in part) to a trustee to hold and operate pursuant to a trust agreement,
-provided such trustee assumes Clear Channel\'s duties and obligations
-hereunder with respect to the Clear Channel Station Assets held in such
-trust.  ARTICLE 11: CONDITIONS OF CLOSING BY CLEAR CHANNEL   The
-obligations of Clear Channel hereunder are, at its option, subject
-to satisfaction, at or prior to Closing, of each of the following
-conditions:   11.1. Representations, Warranties and Covenants. The
-representations and warranties of Exchange Party made in this Agreement shall
-be true and correct in all material respects as of the Closing Date except
-for changes permitted or contemplated by the terms of this Agreement, and the
-covenants and agreements to be complied with and performed by Exchange Party
-at or prior to Closing shall have been complied with or performed in all
-material respects. Clear Channel shall have received a certificate dated as
-of the Closing Date from Exchange Party, executed by an authorized officer of
-Exchange Party to the effect that the conditions set forth in this Section
-have been satisfied.   11.2. Governmental Consents. The FCC Consent and DOJ
-Consent, and, if applicable, HSR Clearance, shall have been obtained, and no
-court or governmental order prohibiting Closing shall be in effect.    
--19-  20   11.3. AMFM Closing. The closing under the AMFM Agreement shall
-have been consummated.  ARTICLE 12: CONDITIONS OF CLOSING BY EXCHANGE
-PARTY   The obligations of Exchange Party hereunder are, at its option,
-subject to satisfaction, at or prior to Closing, of each of the following
-conditions:   12.1. Representations, Warranties and Covenants. The
-representations and warranties of Clear Channel made in this Agreement shall
-be true and correct in all material respects as of the Closing Date except
-for changes permitted or contemplated by the terms of this Agreement, and the
-covenants and agreements to be complied with and performed by Clear Channel
-at or prior to Closing shall have been complied with or performed in all
-material respects. Exchange Party shall have received a certificate dated as
-of the Closing Date from Clear Channel, executed by an authorized officer of
-Clear Channel, to the effect that the conditions set forth in this Section
-have been satisfied.   12.2. Governmental Consents. The FCC Consent and DOJ
-Consent, and, if applicable, HSR Clearance, shall have been obtained, and no
-court or governmental order prohibiting Closing shall be in
-effect.  ARTICLE 13: EXPENSES   13.1. Expenses. Each party shall be solely
-responsible for all costs and expenses incurred by it in connection with the
-negotiation, preparation and performance of and compliance with the terms of
-this Agreement, except that (i) all recordation, transfer and documentary
-taxes, fees and charges, and any excise, sales or use taxes, applicable to
-the transfer of the Clear Channel Station Assets and Exchange Party Station
-Assets shall be paid by Exchange Party, (ii) all FCC filing fees shall be
-paid equally by Clear Channel and Exchange Party, and (iii) all HSR Act
-filing fees and expenses shall be paid by Exchange Party.  ARTICLE 14:
-DOCUMENTS TO BE DELIVERED AT CLOSING   14.1. Clear Channel\'s Documents. At
-Closing, Clear Channel shall deliver or cause to be delivered to Exchange
-Party:   (i) certified copies of resolutions authorizing its execution,
-delivery and performance of this Agreement, including the consummation of
-the transactions contemplated hereby;   (ii) the certificate described in
-Section 12.1;   (iii) such bills of sale, assignments, special warranty
-deeds, documents of title and other instruments of conveyance, assignment and
-transfer as may be necessary to    -20-  21 convey, transfer and assign
-the Clear Channel Station Assets to Exchange Party, free and clear of Liens,
-except for Clear Channel Permitted Liens; and   (iv) such documents and
-instruments of assumption as may be necessary to assume the Clear Channel
-Assumed Obligations.   14.2. Exchange Party\'s Documents. At Closing,
-Exchange Party shall deliver or cause to be delivered to Clear Channel:  
-(i) the certified copies of resolutions authorizing its execution, delivery
-and performance of this Agreement, including the consummation of
-the transactions contemplated hereby;   (ii) the certificate described in
-Section 11.1;   (iii) such bills of sale, assignments, special warranty
-deeds, documents of title and other instruments of conveyance, assignment and
-transfer as may be necessary to convey, transfer and assign the Exchange
-Party Station Assets to Clear Channel, free and clear of Liens, except for
-Exchange Party Permitted Liens;   (iv) such documents and instruments of
-assumption as may be necessary to assume the Clear Channel Assumed
-Obligations; and   (v) the Cash Payment in accordance with Section 3.1
-hereof.  ARTICLE 15: SURVIVAL; INDEMNIFICATION.   15.1. Survival. The
-covenants, agreements, representations and warranties in this Agreement shall
-survive Closing for a period of six (6) months from the Closing Date
-whereupon they shall expire and be of no further force or effect, except
-those under (i) this Article 15 that relate to Damages (defined below) for
-which written notice is given by the indemnified party to the
-indemnifying party prior to the expiration, which shall survive until
-resolved and (ii) the following provisions (the "Expense Provisions"):
-Sections 2.1 and 2.3 (Assumed Obligations), 3.3 (Adjustments), 3.4
-(Allocation), 8.1 and 8.2 (Accounts Receivable) and 13.1 (Expenses), and
-indemnification obligations with respect to such provisions, which shall
-survive until performed.   15.2. Indemnification.   (a) From and after the
-Closing, Clear Channel shall defend, indemnify and hold harmless Exchange
-Party from and against any and all losses, costs, damages, liabilities and
-expenses, including reasonable attorneys\' fees and expenses ("Damages")
-incurred by Exchange Party arising out of or resulting from: (i) any breach
-or default by Clear Channel under this Agreement; (ii) the Clear Channel
-Retained Obligations or the business or operation of the Clear Channel
-Stations before Closing; or (iii) the Clear Channel Assumed Obligations or
-the business or operation of the Exchange Party Stations after
-Closing; provided, however,        -21-  22  that, except for the
-Expense Provisions (which shall not be subject to such limitations), (i)
-Clear Channel shall have no liability to Exchange Party hereunder until, and
-only to the extent that, Exchange Party\'s aggregate Damages exceed $500,000
-and (ii) the maximum liability of Clear Channel hereunder shall be
-$11,000,000.   (b) From and after the Closing, Exchange Party shall defend,
-indemnify and hold harmless Clear Channel from and against any and all
-Damages incurred by Clear Channel arising out of or resulting from: (i) any
-breach or default by Exchange Party under this Agreement; (ii) the Exchange
-Party Retained Obligations or the business or operation of the Exchange Party
-Stations before Closing or (iii) the Exchange Party Assumed Obligations or
-the business or operation of the Clear Channel Stations after Closing;
-provided, however, that, except for the Expense Provisions (which shall not
-be subject to such limitations) and the Cash Payment, (i) Exchange Party
-shall have no liability to Clear Channel hereunder until, and only to the
-extent that, Clear Channel\'s aggregate Damages exceed $500,000 and (ii) the
-maximum liability of Exchange Party hereunder shall be $15,000,000.   15.3.
-Procedures. The indemnified party shall give prompt written notice to the
-indemnifying party of any demand, suit, claim or assertion of liability
-by third parties or other circumstances that could give rise to an
-indemnification obligation hereunder against the indemnifying party (a
-"Claim"), but a failure to give such notice or delaying such notice shall not
-affect the indemnified party\'s right to indemnification and the indemnifying
-party\'s obligation to indemnify as set forth in this Agreement, except to
-the extent the indemnifying party\'s ability to remedy, contest, defend or
-settle with respect to such Claim is thereby prejudiced. The obligations and
-liabilities of the parties with respect to any Claim shall be subject to the
-following additional terms and conditions:   (a) The indemnifying party
-shall have the right to undertake, by counsel or other representatives of its
-own choosing, the defense or opposition to such Claim.   (b) In the event
-that the indemnifying party shall elect not to undertake such defense or
-opposition, or, within twenty (20) days after written notice (which shall
-include sufficient description of background information explaining the basis
-for such Claim) of any such Claim from the indemnified party, the
-indemnifying party shall fail to undertake to defend or oppose,
-the indemnified party (upon further written notice to the indemnifying party)
-shall have the right to undertake the defense, opposition, compromise or
-settlement of such Claim, by counsel or other representatives of its own
-choosing, on behalf of and for the account and risk of the indemnifying party
-(subject to the right of the indemnifying party to assume defense of or
-opposition to such Claim at any time prior to settlement, compromise or final
-determination thereof).   (c) Anything herein to the contrary
-notwithstanding: (i) the indemnified party shall have the right, at its own
-cost and expense, to participate in the defense, opposition, compromise or
-settlement of the Claim; (ii) the indemnifying party shall not, without the
-indemnified party\'s written consent, settle or compromise any Claim or
-consent to entry of any judgment which does not include as an unconditional
-term thereof the giving by     -22-  23  the claimant or the plaintiff
-to the indemnified party of a release from all liability in respect of such
-Claim; and (iii) in the event that the indemnifying party undertakes defense
-of or opposition to any Claim, the indemnified party, by counsel or other
-representative of its own choosing and at its sole cost and expense, shall
-have the right to consult with the indemnifying party and its counsel or
-other representatives concerning such Claim and the indemnifying party and
-the indemnified party and their respective counsel or other representatives
-shall cooperate in good faith with respect to such Claim.   (d) All claims
-not disputed shall be paid by the indemnifying party within thirty (30) days
-after receiving notice of the Claim. "Disputed Claims" shall mean claims for
-Damages by an indemnified party which the indemnifying party objects to in
-writing within thirty (30) days after receiving notice of the Claim. In the
-event there is a Disputed Claim with respect to any Damages, the indemnifying
-party shall be required to pay the indemnified party the amount of such
-Damages for which the indemnifying party has, pursuant to a
-final determination, been found liable within ten (10) days after there is a
-final determination with respect to such Disputed Claim. A final
-determination of a Disputed Claim shall be (i) a judgment of any court
-determining the validity of a Disputed Claim, if no appeal is pending from
-such judgment and if the time to appeal therefrom has elapsed; (ii) an award
-of any arbitration determining the validity of such disputed claim, if there
-is not pending any motion to set aside such award and if the time within
-which to move to set aside such award has elapsed; (iii) a written
-termination of the dispute with respect to such claim signed by the parties
-thereto or their attorneys; (iv) a written acknowledgment of the indemnifying
-party that it no longer disputes the validity of such claim; or (v) such
-other evidence of final determination of a disputed claim as shall be
-acceptable to the parties. No undertaking of defense or opposition to a
-Claim shall be construed as an acknowledgment by such party that it is liable
-to the party claiming indemnification with respect to the Claim at issue or
-other similar Claims.  ARTICLE 16: TERMINATION   16.1. Termination. This
-Agreement may be terminated at any time prior to Closing as follows:   (a)
-by mutual written consent of Clear Channel and Exchange Party;   (b) by
-written notice of Clear Channel to Exchange Party if Exchange Party (i) does
-not satisfy the conditions or perform the obligations to be satisfied or
-performed by it on the Closing Date; or (ii) otherwise breaches in any
-material respect any of its representations or warranties or defaults in
-any material respect in the performance of any of its covenants or agreements
-herein contained and such breach or default is not cured within the Cure
-Period (defined below)   (c) by written notice of Exchange Party to Clear
-Channel if Clear Channel (i) does not satisfy the conditions or perform the
-obligations to be satisfied or performed by it on the Closing Date; or (ii)
-otherwise breaches in any material respect any of its representations or
-warranties or defaults in any material respect in the performance of any
-of     -23-  24  its covenants or agreements herein contained and such
-breach or default is not cured within the Cure Period (defined below)   (d)
-by written notice of either party to the other if the FCC denies the FCC
-Application;   (e) by written notice of Clear Channel to Exchange Party if
-the Closing shall not have been consummated on or before the date four months
-after the date of this Agreement; or   (f) by written notice of Clear
-Channel to Exchange Party if the AMFM Agreement is terminated or expires.  
-The term "Cure Period" as used herein means a period commencing the date
-a party receives from the other written notice of breach or default hereunder
-and continuing until the earlier of (i) thirty (30) days thereafter or (ii)
-the Closing Date; provided, however, that if the breach or default cannot
-reasonably be cured within such period but can be cured before the Closing
-Date, and if diligent efforts to cure promptly commence, then the Cure Period
-shall continue as long as such diligent efforts to cure continue, but not
-beyond the Closing Date. Except as set forth below, the termination of this
-Agreement shall not relieve any party of any liability for breach or default
-under this Agreement prior to the date of termination. Notwithstanding
-anything contained herein to the contrary, Section 13.1 shall survive any
-termination of this Agreement.   16.2. Remedies. The parties recognize that
-if either party refuses to consummate the Closing pursuant to the provisions
-of this Agreement or either party otherwise breaches or defaults such that
-the Closing has not occurred ("Breaching Party"), monetary damages alone will
-not be adequate to compensate the non-breaching party ("Non-Breaching Party")
-for its injury. Such Non-Breaching Party shall therefore be entitled to
-obtain specific performance of the terms of this Agreement in lieu of, and
-not in addition to, any other remedies, including but not limited to monetary
-damages, that may be available to it; provided however, that Clear Channel
-may elect to recover liquidated damages in lieu of obtaining specific
-performance. If any action is brought by the Non-Breaching Party to enforce
-this Agreement, the Breaching Party shall waive the defense that there is an
-adequate remedy at law. In the event of a default by the Breaching Party
-which results in the filing of a lawsuit for damages, specific performance,
-or other remedy, the Non-Breaching Party shall be entitled to reimbursement
-by the Breaching Party of reasonable legal fees and expenses incurred by the
-Non-Breaching Party, provided that the Non-Breaching Party is successful in
-such lawsuit.   16.3. Liquidated Damages. If this Agreement is terminated by
-Clear Channel due to Exchange Party\'s failure to consummate the Closing on
-the Closing Date in accordance with this Agreement or if this Agreement is
-otherwise terminated by Clear Channel pursuant to Section 16.1(b), then
-Exchange Part shall pay Clear Channel as liquidated damages an amount equal
-to 25% of the Cash Amount. It is understood and agreed that such liquidated
-damages      -24-  25  amount represents the parties\' reasonable
-estimate of actual damages and does not constitute a penalty.   ARTICLE
-17: MISCELLANEOUS PROVISIONS   17.1. Casualty Loss. In the event any loss or
-damage of the Clear Channel Tangible Personal Property or Clear Channel Real
-Property or the Exchange Party Tangible Personal Property or Exchange Party
-Real Property exists on the Closing Date, the parties shall consummate the
-Closing and assign as appropriate the proceeds of any insurance payable on
-account of such damage or loss.   17.2. Further Assurances. After the
-Closing, each party shall from time to time, at the request of and without
-further cost or expense to the other, execute and deliver such other
-instruments and take such other actions as may reasonably be requested in
-order to more effectively consummate the transactions contemplated hereby to
-exchange assets and assume obligations as contemplated by this Agreement.  
-17.3. Assignment. Except as set forth in Sections 10.5 (1031 Exchange)
-and 10.6 (Trust), neither party may assign this Agreement without the prior
-written consent of the other party hereto. With respect to any permitted
-assignment, the parties shall take all such actions as are reasonably
-necessary to effectuate such assignment, including but not limited to
-cooperating in any appropriate filings with the FCC or other governmental
-authorities. All covenants, agreements, statements, representations,
-warranties and indemnities in this Agreement by and on behalf of any of the
-parties hereto shall bind and inure to the benefit of their respective
-successors and permitted assigns of the parties hereto.   17.4. Amendments.
-No amendment, waiver of compliance with any provision or condition hereof or
-consent pursuant to this Agreement shall be effective unless evidenced by an
-instrument in writing signed by the party against whom enforcement of any
-waiver, amendment, change, extension or discharge is sought.   17.5.
-Headings. The headings set forth in this Agreement are for convenience only
-and will not control or affect the meaning or construction of the provisions
-of this Agreement.   17.6. Governing Law. The construction and performance
-of this Agreement shall be governed by the laws of the State of Texas without
-giving effect to the choice of law provisions thereof.   17.7. Notices. Any
-notice, demand or request required or permitted to be given under the
-provisions of this Agreement shall be in writing, including by facsimile, and
-shall be deemed to have been received on the date of personal delivery, on
-the third day after deposit in the U.S. mail if mailed by registered or
-certified mail, postage prepaid and return receipt requested, on the day
-after delivery to a nationally recognized overnight courier service if sent
-by an overnight delivery service for next morning delivery or when delivered
-by facsimile      -25-  26  transmission, and shall be addressed as
-follows (or to such other address as any party may request by written
-notice):   if to Clear Channel: c/o Clear Channel Broadcasting, Inc.  200
-Concord Plaza, Suite 600  San Antonio, Texas 78216  Attention: President 
-Facsimile: (210) 822-2299  with a copy (which shall not constitute notice)
-to: Wiley, Rein and Fielding  1776 K Street, N.W.  Washington, D.C. 20006 
-Attention: Richard J. Bodorff, Esq.  Facsimile: (202) 719-7049  if to
-Exchange Party: Cumulus Broadcasting, Inc.  111 E. Kilbourn Avenue, Suite
-2700  Milwaukee, WI 53211  Attention: Terrence J. Leahy, Esq.  Facsimile:
-(414) 615-2880  with a copy (which shall not constitute notice) to: Cumulus
-Broadcasting, Inc.  875 N. Michigan Avenue, Suite 1460  Chicago, IL 60011 
-Attention: Jorge Garcia  Facsimile: (312) 867-0098    17.8. Counterparts.
-This Agreement may be executed in one or more counterparts, each of which
-will be deemed an original and all of which together will constitute one and
-the same instrument.   17.9. No Third Party Beneficiaries. Nothing herein
-expressed or implied is intended or shall be construed to confer upon or give
-to any person or entity other than the parties hereto and their successors or
-permitted assigns, any rights or remedies under or by reason of this
-Agreement.   17.10. Severability. The parties agree that if one or more
-provisions contained in this Agreement shall be deemed or held to be invalid,
-illegal or unenforceable in any respect under any applicable law, this
-Agreement shall be construed with the invalid, illegal or unenforceable
-provision deleted, and the validity, legality and enforceability of the
-remaining provisions contained herein shall not be affected or impaired
-thereby.   -26-  27   17.11. Entire Agreement. This Agreement embodies
-the entire agreement and understanding of the parties hereto and supersedes
-any and all prior agreements, arrangements and understandings relating to the
-matters provided for herein. This Agreement does not supersede any
-confidentiality agreement relating to the Clear Channel Stations.   17.12.
-Exchange Party Station Schedules. This Agreement is being executed prior to
-delivery of schedules for the Exchange Party Stations, and is subject to and
-contingent upon delivery of all such schedules by Exchange Party in form and
-substance reasonably satisfactory to Clear Channel (the "Schedule Condition")
-within five business days after the date hereof. If the schedules delivered
-by Exchange Party are not satisfactory to Clear Channel, then Clear Channel
-may terminate this Agreement by written notice to Exchange Party.   
-[SIGNATURE PAGE FOLLOWS]      -27-  28   SIGNATURE PAGE TO ASSET
-EXCHANGE AGREEMENT   IN WITNESS WHEREOF, the parties have executed this
-Agreement as of the date first set forth above.   CLEAR CHANNEL: CAPSTAR
-RADIO OPERATING COMPANY    By: 
-------------------------------------------  Name:  Title:    CAPSTAR TX
-LIMITED PARTNERSHIP    By:  ------------------------------------------ 
-Name:  Title:   EXCHANGE PARTY: CUMULUS BROADCASTING, INC.    By: 
-------------------------------------------  Richard Weening, Executive
-Chairman    CUMULUS LICENSING CORP.    By: 
-------------------------------------------  Richard Weening, Executive
-Chairman     29   Clear Channel Schedules  1.1(a) - FCC
-Licenses  1.1(b) - Tangible Personal Property  1.1(c) - Station
-Contracts  1.1(d) - Intangible Property  1.1(f) - Real Property  1.2(h)
-- Excluded Assets    Exchange Party Schedules  1.3(a) - FCC
-Licenses  1.3(b) - Tangible Personal Property  1.3(c) - Station
-Contracts  1.3(d) - Intangible Property  1.3(f) - Real Property  1.4(h)
-- Excluded Assets    Exhibits  A - Tower Lease Form  B-1 - Studio
-Lease Form (Single Tenant)  B-2 - Studio Lease Form (Multi-Tenant)    '
+except the FCC Consent and DOJ Consent and, if applicable, HSR Clearance.
 
+     7.4. FCC Licenses. Exchange Party is the holder of the Exchange Party FCC
+Licenses described on Schedule 1.3(a). The Exchange Party FCC Licenses are in
+full force and effect and have not been revoked, suspended, canceled, rescinded
+or terminated and have not expired. There is not pending any action by or before
+the FCC to revoke, suspend, cancel, rescind or materially adversely modify any
+of the Exchange Party FCC Licenses (other than proceedings to amend FCC rules of
+general applicability), and there is not now issued or outstanding, by or before
+the FCC, any order to show cause, notice of violation, notice of apparent
+liability, or notice of forfeiture against Exchange Party with respect to the
+Exchange Party Stations. The Exchange Party Stations are operating in compliance
+in all material respects with the Exchange Party FCC Licenses, the
+Communications Act, and the rules, regulations and policies of the FCC.
+
+     7.5. Taxes. Exchange Party has, in respect of the Exchange Party Stations'
+business, filed all foreign, federal, state, county and local income, excise,
+property, sales, use, franchise and other tax returns and reports which are
+required to have been filed by it under applicable law and has paid all taxes
+which have become due pursuant to such returns or pursuant to any assessments
+which have become payable.
+
+
+
+                                      -13-
+<PAGE>   14
+
+     7.6. Personal Property. Schedule 1.3(b) contains a list of all material
+items of Exchange Party Tangible Personal Property included in the Exchange
+Party Station Assets. Exchange Party has title to the Exchange Party Tangible
+Personal Property free and clear of Liens other than Exchange Party Permitted
+Liens.
+
+     7.7. Real Property. Schedule 1.3(f) contains a description of all Exchange
+Party Real Property included in the Exchange Party Station Assets. Exchange
+Party has fee simple title to the owned Exchange Party Real Property ("Exchange
+Party Owned Real Property") free and clear of Liens other than Exchange Party
+Permitted Liens. Schedule 1.3(f) includes a description of each real property
+lease or similar agreement included in the Exchange Party Station Assets (the
+"Exchange Party Real Property Leases"). The Exchange Party Owned Real Property
+includes, and the Exchange Party Real Property Leases provide, access to the
+Exchange Party Stations' facilities. To Exchange Party's knowledge, the Exchange
+Party Real Property is not subject to any suit for condemnation or other taking
+by any public authority.
+
+     7.8. Contracts. Each of the Exchange Party Station Contracts (including
+without limitation each of the Exchange Party Real Property Leases) is in effect
+and is binding upon Exchange Party and, to Exchange Party's knowledge, the other
+parties thereto (subject to bankruptcy, insolvency, reorganization or other
+similar laws relating to or affecting the enforcement of creditors' rights
+generally). Exchange Party has performed its obligations under each of the
+Exchange Party Station Contracts in all material respects, and is not in
+material default thereunder, and to Exchange Party's knowledge, no other party
+to any of the Exchange Party Station Contracts is in default thereunder in any
+material respect.
+
+     7.9. Environmental. Except as set forth in any environmental report
+delivered by Exchange Party to Clear Channel prior to the date of this Agreement
+and except as set forth on Schedule 1.3(f), to Exchange Party's knowledge, no
+hazardous or toxic substance or waste regulated under any applicable
+environmental, health or safety law has been generated, stored, transported or
+released on, in, from or to the Exchange Party Real Property included in the
+Exchange Party Station Assets. Except as set forth in any environmental report
+delivered by Exchange Party to Clear Channel prior to the date of this Agreement
+and except as set forth on Schedule 1.3(f), to Exchange Party's knowledge,
+Exchange Party has complied in all material respects with all environmental,
+health and safety laws applicable to the Exchange Party Stations.
+
+     7.10. Intangible Property. Schedule 1.3(d) contains a description of the
+material Exchange Party Intangible Property included in the Exchange Party
+Station Assets. Except as set forth on Schedule 1.3(d), Exchange Party has
+received no notice of any claim that its use of the Exchange Party Intangible
+Property infringes upon any third party rights. . Except as set forth on
+Schedule 1.3(d), Exchange Party owns or has the right to use the Exchange Party
+Intangible Property free and clear of Liens other than Exchange Party Permitted
+Liens.
+
+     7.11. Compliance with Law. Exchange Party has complied in all material
+respects with all laws, regulations, rules, writs, injunctions, ordinances,
+franchises, decrees or orders
+
+
+
+                                      -14-
+<PAGE>   15
+
+of any court or of any foreign, federal, state, municipal or other governmental
+authority which are applicable to the operation of the Exchange Party Stations.
+There is no action, suit or proceeding pending or threatened against Exchange
+Party in respect of the Exchange Party Stations that will subject Clear Channel
+to liability or which questions the legality or propriety of the transactions
+contemplated by this Agreement. To Exchange Party `s knowledge, there are no
+governmental claims or investigations pending or threatened against Exchange
+Party in respect of the Exchange Party Stations (except those affecting the
+industry generally).
+
+     7.12. No Finder. No broker, finder or other person is entitled to a
+commission, brokerage fee or other similar payment in connection with this
+Agreement or the transactions contemplated hereby as a result of any agreement
+or action of Exchange Party or any party acting on Exchange Party `s behalf.
+
+     7.13. Qualification. Exchange Party is legally, financially and otherwise
+qualified to be the licensee of, acquire, own and operate the Clear Channel
+Stations under the Communications Act and the rules, regulations and policies of
+the FCC. There are no facts that would, under existing law and the existing
+rules, regulations, policies and procedures of the FCC, disqualify Exchange
+Party as an assignee of the Clear Channel FCC Licenses or as the owner and
+operator of the Clear Channel Stations. No request by Exchange Party for waiver
+of any FCC rule or policy is necessary for the FCC Consent to be obtained. There
+is no action, suit or proceeding pending or threatened against Exchange Party
+which could materially adversely affect Exchange Party's ability to perform its
+obligations hereunder. Exchange Party has and will have available on the Closing
+Date sufficient funds to enable it to consummate the transactions contemplated
+hereby.
+
+ARTICLE 8:  ACCOUNTS RECEIVABLE
+
+     8.1. Clear Channel Accounts Receivable. All accounts receivable arising
+prior to the Closing Date in connection with the operation of the Clear Channel
+Stations, including but not limited to accounts receivable for advertising
+revenues for programs and announcements performed prior to the Closing Date and
+other broadcast revenues for services performed prior to the Closing Date, shall
+remain the property of Clear Channel (the "Clear Channel Accounts Receivable")
+and Exchange Party shall not acquire any right or interest therein. For a period
+of six months from Closing (the "Collection Period"), Exchange Party shall
+collect the Clear Channel Accounts Receivable in the normal and ordinary course
+of Exchange Party's business and shall apply all such amounts collected to the
+debtor's oldest account receivable first. Exchange Party's obligation shall not
+extend to the institution of litigation, employment of counsel or a collection
+agency or any other extraordinary means of collection. During the Collection
+Period, neither Clear Channel or its agents shall make any direct solicitation
+of any such account debtor for collection purposes or institute litigation for
+the collection of amounts due. Any amounts relating to the Clear Channel
+Accounts Receivable that are paid directly to Clear Channel shall be retained by
+Clear Channel. Within ten calendar days after the end of each month, Exchange
+Party shall make a payment to Clear Channel equal to the amount of all
+collections of Clear Channel Accounts Receivable during the preceding month. At
+the end of
+
+
+
+                                      -15-
+<PAGE>   16
+
+the Collection Period, any remaining Clear Channel Accounts Receivable shall be
+returned to Clear Channel for collection.
+
+     8.2. Exchange Party Accounts Receivable. All accounts receivable arising
+prior to the Closing Date in connection with the operation of the Exchange Party
+Stations, including but not limited to accounts receivable for advertising
+revenues for programs and announcements performed prior to the Closing Date and
+other broadcast revenues for services performed prior to the Closing Date, shall
+remain the property of Exchange Party (the "Exchange Party Accounts Receivable")
+and Clear Channel shall not acquire any right or interest therein. During the
+Collection Period, Clear Channel shall collect the Exchange Party Accounts
+Receivable in the normal and ordinary course of Clear Channel's business and
+shall apply all such amounts collected to the debtor's oldest account receivable
+first. Clear Channel's obligation shall not extend to the institution of
+litigation, employment of counsel or a collection agency or any other
+extraordinary means of collection. During the Collection Period, neither
+Exchange Party or its agents shall make any direct solicitation of any such
+account debtor for collection purposes or institute litigation for the
+collection of amounts due. Any amounts relating to the Exchange Party Accounts
+Receivable that are paid directly to Exchange Party shall be retained by
+Exchange Party. Within ten calendar days after the end of each month, Clear
+Channel shall make a payment to Exchange Party equal to the amount of all
+collections of Exchange Party Accounts Receivable during the preceding month. At
+the end of the Collection Period, any remaining Exchange Party Accounts
+Receivable shall be returned to Exchange Party for collection.
+
+ARTICLE 9:  COVENANTS
+
+     9.1. Clear Channel's Covenants. Clear Channel covenants and agrees with
+respect to the Clear Channel Stations that, between the date hereof and Closing,
+except as permitted by this Agreement or with the prior written consent of
+Exchange Party, which shall not be unreasonably withheld, Clear Channel shall:
+
+         (a) operate the Clear Channel Stations in the ordinary course of
+business consistent with past practice and in all material respects in
+accordance with FCC rules and regulations and with all other applicable laws,
+regulations, rules and orders;
+
+         (b) not, other than in the ordinary course of business in accordance
+with past practice, sell, lease or dispose of or agree to sell, lease or dispose
+of any of the Clear Channel Station Assets, or create, assume or permit to exist
+any Liens upon the Clear Channel Station Assets, except for Clear Channel
+Permitted Liens; and,
+
+         (c) furnish Exchange Party with such information relating to the Clear
+Channel Station Assets as Exchange Party may reasonably request, at Exchange
+Party's expense and provided such request does not interfere unreasonably with
+the business of the Clear Channel Stations.
+
+
+
+                                      -16-
+<PAGE>   17
+
+     9.2. Exchange Party's Covenants. Exchange Party covenants and agrees with
+respect to the Exchange Party Stations that, between the date hereof and
+Closing, except as permitted by this Agreement or with the prior written consent
+of Clear Channel, which shall not be unreasonably withheld, Exchange Party
+shall:
+
+         (a) operate the Exchange Party Stations in the ordinary course of
+business consistent with past practice and in all material respects in
+accordance with FCC rules and regulations and with all other applicable laws,
+regulations, rules and orders;
+
+         (b) not, other than in the ordinary course of business in accordance
+with past practice, sell, lease or dispose of or agree to sell, lease or dispose
+of any of the Exchange Party Station Assets, or create, assume or permit to
+exist any Liens upon the Exchange Party Station Assets, except for Exchange
+Party Permitted Liens; and,
+
+         (c) furnish Clear Channel with such information relating to the
+Exchange Party Station Assets as Clear Channel may reasonably request, at Clear
+Channel's expense and provided such request does not unreasonably with the
+business of the Exchange Party Stations.
+
+ARTICLE 10:  JOINT COVENANTS
+
+     Clear Channel and Exchange Party hereby covenant and agree that between the
+date hereof and Closing:
+
+     10.1. Cooperation. Subject to express limitations contained elsewhere
+herein, each party (i) shall cooperate fully with one another in taking any
+reasonable actions (including without limitation, reasonable actions to obtain
+the required consent of any governmental instrumentality or any third party)
+necessary or helpful to accomplish the transactions contemplated by this
+Agreement, including but not limited to the prompt satisfaction of any condition
+to Closing set forth herein, and (ii) shall not take any action that conflicts
+with its obligations hereunder or that causes its representations and warranties
+to become untrue in any material respect.
+
+     10.2. Control of Stations. Neither party shall, directly or indirectly,
+control, supervise or direct the operations of the other party's stations prior
+to Closing. Such operations, including complete control and supervision of all
+programs, employees and policies, shall be the sole responsibility of the FCC
+licensee thereof.
+
+     10.3. Consents to Assignment. The parties shall use commercially reasonable
+efforts to obtain any third party consents necessary for the assignment of any
+Clear Channel Station Contract or Exchange Party Station Contract (which shall
+not require any payment to any such third party). To the extent that any such
+contract may not be assigned without the consent of any third party, and such
+consent is not obtained prior to Closing, this Agreement and any assignment
+executed pursuant hereto shall not constitute an assignment thereof, but to the
+extent permitted by law shall constitute an equitable assignment and assumption
+of rights and obligations thereunder, with the conveying party making available
+to the acquiring party the
+
+
+
+
+                                      -17-
+<PAGE>   18
+
+benefits thereof and the acquiring party performing the obligations thereunder
+on the conveying party's behalf.
+
+     10.4. Employee Matters. Prior to Closing, each party shall deliver to the
+other a list of employees of its stations that it does not intend to retain
+after Closing. The acquiring party may interview and elect to hire such listed
+employees, but not any other employees of the conveying party. The acquiring
+party is obligated to hire only those employees that are under employment
+contracts (and assume the obligations and liabilities under such employment
+contracts) which are included in the Clear Channel Station Contracts or Exchange
+Party Station Contracts. With respect to employees potentially to be hired by
+the acquiring party, to the extent permitted by law the conveying party shall
+provide access to its personnel records and such other information as may be
+reasonably requested prior to Closing. With respect to employees hired by the
+acquiring party ("Transferred Employees"), the conveying party shall be
+responsible for the payment of all compensation and accrued employee benefits
+payable by it until Closing and thereafter the acquiring party shall be
+responsible for all such obligations payable by it. The acquiring party shall
+cause all Transferred Employees to be eligible to participate in its "employee
+welfare benefit plans" and "employee pension benefit plans" (as defined in
+Sections 3(1) and 3(2) of ERISA, respectively) in which the acquiring party's
+similarly-situated employees are generally eligible to participate; provided,
+however, that all Transferred Employees and their spouses and dependents shall
+be eligible for coverage immediately after Closing (and shall not be excluded
+from coverage under any employee welfare benefit plan that is a group health
+plan on account of any pre-existing condition) to the extent provided under such
+employee welfare benefit plans. For purposes of any length of service
+requirements, waiting periods, vesting periods or differential benefits based on
+length of service in any such employee welfare benefit plans for which
+Transferred Employees may be eligible after Closing, the acquiring party shall
+ensure, to the extent permitted by applicable law (including, without
+limitation, ERISA and the Code), that service with the conveying party shall be
+deemed to have been service with the acquiring party. No such service credit
+must be granted with respect to participation or eligibility in any employee
+pension benefit plan. In addition, the acquiring party shall ensure, to the
+extent permitted by applicable law (including, without limitation, ERISA and the
+Code), that Transferred Employees receive credit under any welfare benefit plan
+of the acquiring party for any deductibles or co-payments paid by Transferred
+Employees and their spouses and dependents for the current plan year under a
+plan maintained by the conveying party. Notwithstanding any other provision
+contained herein, the acquiring party shall grant credit for all unused sick
+leave accrued by Transferred Employees on the basis of their service during the
+current calendar year as employees of the conveying party. Notwithstanding any
+other provision contained herein, the acquiring party shall assume and discharge
+the conveying party's liabilities for the payment of all unused vacation leave
+accrued by Transferred Employees on the basis of their service during the
+current calendar year as employees of the conveying party. From and after
+Closing, Exchange Party shall cooperate with the reasonable requests of Clear
+Channel to continue to withhold from the pay checks of Transferred Employees who
+have outstanding loan balances in Clear Channel's 401(k) Savings Plan, and
+Exchange Party shall remit such withheld amounts to Clear Channel in a timely
+fashion such that the outstanding loans do not go into default.
+
+
+
+                                      -18-
+<PAGE>   19
+
+     10.5. 1031 Exchange. At or prior to Closing, Clear Channel may assign its
+rights under this Agreement (in whole or in part) to a qualified intermediary
+(as defined in Treasury regulation section 1.1031(k)-1(g)(4)) or similar entity
+or arrangement ("Qualified Intermediary"). Upon any such assignment, Clear
+Channel shall promptly give written notice thereof to Exchange Party and
+Exchange Party shall cooperate with the reasonable requests of Clear Channel and
+any Qualified Intermediary in connection therewith. Without limiting the
+generality of the foregoing, if Clear Channel gives notice of such agreement,
+Exchange Party shall (i) promptly provide Clear Channel with written
+acknowledgment of such notice and (ii) at Closing, convey all or part of the
+Exchange Party Station Assets and make all or part of the Cash Payment (each as
+designated in writing by the Qualified Intermediary) to or on behalf of the
+Qualified Intermediary (which payment and conveyance shall, to the extent
+thereof, satisfy the obligation of Exchange Party to make such conveyance and
+payment hereunder). Clear Channel's assignment to a Qualified Intermediary will
+not relieve Clear Channel of any of its duties or obligations herein. Except for
+the obligations of Exchange Party set forth in this Section, Exchange Party
+shall not have any liability or obligation to Clear Channel for the failure of
+such other exchange to qualify as a like kind exchange under Section 1031 of the
+Code unless such failure is the result of the material breach or default by
+Exchange Party under this Agreement.
+
+     10.6. Trust. Notwithstanding anything in this Agreement to the contrary,
+Clear Channel may at it option assign this Agreement (in whole or part) and
+assign and transfer the Clear Channel Station Assets (in whole or in part) to a
+trustee to hold and operate pursuant to a trust agreement, provided such trustee
+assumes Clear Channel's duties and obligations hereunder with respect to the
+Clear Channel Station Assets held in such trust.
+
+ARTICLE 11:  CONDITIONS OF CLOSING BY CLEAR CHANNEL
+
+     The obligations of Clear Channel hereunder are, at its option, subject to
+satisfaction, at or prior to Closing, of each of the following conditions:
+
+     11.1. Representations, Warranties and Covenants. The representations and
+warranties of Exchange Party made in this Agreement shall be true and correct in
+all material respects as of the Closing Date except for changes permitted or
+contemplated by the terms of this Agreement, and the covenants and agreements to
+be complied with and performed by Exchange Party at or prior to Closing shall
+have been complied with or performed in all material respects. Clear Channel
+shall have received a certificate dated as of the Closing Date from Exchange
+Party, executed by an authorized officer of Exchange Party to the effect that
+the conditions set forth in this Section have been satisfied.
+
+     11.2. Governmental Consents. The FCC Consent and DOJ Consent, and, if
+applicable, HSR Clearance, shall have been obtained, and no court or
+governmental order prohibiting Closing shall be in effect.
+
+
+
+                                      -19-
+<PAGE>   20
+
+     11.3. AMFM Closing. The closing under the AMFM Agreement shall have been
+consummated.
+
+ARTICLE 12:  CONDITIONS OF CLOSING BY EXCHANGE PARTY
+
+     The obligations of Exchange Party hereunder are, at its option, subject to
+satisfaction, at or prior to Closing, of each of the following conditions:
+
+     12.1. Representations, Warranties and Covenants. The representations and
+warranties of Clear Channel made in this Agreement shall be true and correct in
+all material respects as of the Closing Date except for changes permitted or
+contemplated by the terms of this Agreement, and the covenants and agreements to
+be complied with and performed by Clear Channel at or prior to Closing shall
+have been complied with or performed in all material respects. Exchange Party
+shall have received a certificate dated as of the Closing Date from Clear
+Channel, executed by an authorized officer of Clear Channel, to the effect that
+the conditions set forth in this Section have been satisfied.
+
+     12.2. Governmental Consents. The FCC Consent and DOJ Consent, and, if
+applicable, HSR Clearance, shall have been obtained, and no court or
+governmental order prohibiting Closing shall be in effect.
+
+ARTICLE 13: EXPENSES
+
+     13.1. Expenses. Each party shall be solely responsible for all costs and
+expenses incurred by it in connection with the negotiation, preparation and
+performance of and compliance with the terms of this Agreement, except that (i)
+all recordation, transfer and documentary taxes, fees and charges, and any
+excise, sales or use taxes, applicable to the transfer of the Clear Channel
+Station Assets and Exchange Party Station Assets shall be paid by Exchange
+Party, (ii) all FCC filing fees shall be paid equally by Clear Channel and
+Exchange Party, and (iii) all HSR Act filing fees and expenses shall be paid by
+Exchange Party.
+
+ARTICLE 14:  DOCUMENTS TO BE DELIVERED AT CLOSING
+
+     14.1. Clear Channel's Documents. At Closing, Clear Channel shall deliver or
+cause to be delivered to Exchange Party:
+
+         (i) certified copies of resolutions authorizing its execution, delivery
+and performance of this Agreement, including the consummation of the
+transactions contemplated hereby;
+
+         (ii) the certificate described in Section 12.1;
+
+         (iii) such bills of sale, assignments, special warranty deeds,
+documents of title and other instruments of conveyance, assignment and transfer
+as may be necessary to
+
+
+                                      -20-
+<PAGE>   21
+convey, transfer and assign the Clear Channel Station
+Assets to Exchange Party, free and clear of Liens, except for Clear Channel
+Permitted Liens; and
+
+         (iv) such documents and instruments of assumption as may be necessary
+to assume the Clear Channel Assumed Obligations.
+
+     14.2. Exchange Party's Documents. At Closing, Exchange Party shall deliver
+or cause to be delivered to Clear Channel:
+
+         (i) the certified copies of resolutions authorizing its execution,
+delivery and performance of this Agreement, including the consummation of the
+transactions contemplated hereby;
+
+         (ii) the certificate described in Section 11.1;
+
+         (iii) such bills of sale, assignments, special warranty deeds,
+documents of title and other instruments of conveyance, assignment and transfer
+as may be necessary to convey, transfer and assign the Exchange Party Station
+Assets to Clear Channel, free and clear of Liens, except for Exchange Party
+Permitted Liens;
+
+         (iv) such documents and instruments of assumption as may be necessary
+to assume the Clear Channel Assumed Obligations; and
+
+         (v) the Cash Payment in accordance with Section 3.1 hereof.
+
+ARTICLE 15:  SURVIVAL; INDEMNIFICATION.
+
+     15.1. Survival. The covenants, agreements, representations and warranties
+in this Agreement shall survive Closing for a period of six (6) months from the
+Closing Date whereupon they shall expire and be of no further force or effect,
+except those under (i) this Article 15 that relate to Damages (defined below)
+for which written notice is given by the indemnified party to the indemnifying
+party prior to the expiration, which shall survive until resolved and (ii) the
+following provisions (the "Expense Provisions"): Sections 2.1 and 2.3 (Assumed
+Obligations), 3.3 (Adjustments), 3.4 (Allocation), 8.1 and 8.2 (Accounts
+Receivable) and 13.1 (Expenses), and indemnification obligations with respect to
+such provisions, which shall survive until performed.
+
+     15.2. Indemnification.
+
+         (a) From and after the Closing, Clear Channel shall defend, indemnify
+and hold harmless Exchange Party from and against any and all losses, costs,
+damages, liabilities and expenses, including reasonable attorneys' fees and
+expenses ("Damages") incurred by Exchange Party arising out of or resulting
+from: (i) any breach or default by Clear Channel under this Agreement; (ii) the
+Clear Channel Retained Obligations or the business or operation of the Clear
+Channel Stations before Closing; or (iii) the Clear Channel Assumed Obligations
+or the business or operation of the Exchange Party Stations after Closing;
+provided, however,
+
+
+
+
+
+
+                                      -21-
+<PAGE>   22
+
+that, except for the Expense Provisions (which shall not be subject to such
+limitations), (i) Clear Channel shall have no liability to Exchange Party
+hereunder until, and only to the extent that, Exchange Party's aggregate Damages
+exceed $500,000 and (ii) the maximum liability of Clear Channel hereunder shall
+be $11,000,000.
+
+         (b) From and after the Closing, Exchange Party shall defend, indemnify
+and hold harmless Clear Channel from and against any and all Damages incurred by
+Clear Channel arising out of or resulting from: (i) any breach or default by
+Exchange Party under this Agreement; (ii) the Exchange Party Retained
+Obligations or the business or operation of the Exchange Party Stations before
+Closing or (iii) the Exchange Party Assumed Obligations or the business or
+operation of the Clear Channel Stations after Closing; provided, however, that,
+except for the Expense Provisions (which shall not be subject to such
+limitations) and the Cash Payment, (i) Exchange Party shall have no liability to
+Clear Channel hereunder until, and only to the extent that, Clear Channel's
+aggregate Damages exceed $500,000 and (ii) the maximum liability of Exchange
+Party hereunder shall be $15,000,000.
+
+     15.3. Procedures. The indemnified party shall give prompt written notice to
+the indemnifying party of any demand, suit, claim or assertion of liability by
+third parties or other circumstances that could give rise to an indemnification
+obligation hereunder against the indemnifying party (a "Claim"), but a failure
+to give such notice or delaying such notice shall not affect the indemnified
+party's right to indemnification and the indemnifying party's obligation to
+indemnify as set forth in this Agreement, except to the extent the indemnifying
+party's ability to remedy, contest, defend or settle with respect to such Claim
+is thereby prejudiced. The obligations and liabilities of the parties with
+respect to any Claim shall be subject to the following additional terms and
+conditions:
+
+         (a) The indemnifying party shall have the right to undertake, by
+counsel or other representatives of its own choosing, the defense or opposition
+to such Claim.
+
+         (b) In the event that the indemnifying party shall elect not to
+undertake such defense or opposition, or, within twenty (20) days after written
+notice (which shall include sufficient description of background information
+explaining the basis for such Claim) of any such Claim from the indemnified
+party, the indemnifying party shall fail to undertake to defend or oppose, the
+indemnified party (upon further written notice to the indemnifying party) shall
+have the right to undertake the defense, opposition, compromise or settlement of
+such Claim, by counsel or other representatives of its own choosing, on behalf
+of and for the account and risk of the indemnifying party (subject to the right
+of the indemnifying party to assume defense of or opposition to such Claim at
+any time prior to settlement, compromise or final determination thereof).
+
+         (c) Anything herein to the contrary notwithstanding: (i) the
+indemnified party shall have the right, at its own cost and expense, to
+participate in the defense, opposition, compromise or settlement of the Claim;
+(ii) the indemnifying party shall not, without the indemnified party's written
+consent, settle or compromise any Claim or consent to entry of any judgment
+which does not include as an unconditional term thereof the giving by
+
+
+
+                                      -22-
+<PAGE>   23
+
+the claimant or the plaintiff to the indemnified party of a release from all
+liability in respect of such Claim; and (iii) in the event that the indemnifying
+party undertakes defense of or opposition to any Claim, the indemnified party,
+by counsel or other representative of its own choosing and at its sole cost and
+expense, shall have the right to consult with the indemnifying party and its
+counsel or other representatives concerning such Claim and the indemnifying
+party and the indemnified party and their respective counsel or other
+representatives shall cooperate in good faith with respect to such Claim.
+
+         (d) All claims not disputed shall be paid by the indemnifying party
+within thirty (30) days after receiving notice of the Claim. "Disputed Claims"
+shall mean claims for Damages by an indemnified party which the indemnifying
+party objects to in writing within thirty (30) days after receiving notice of
+the Claim. In the event there is a Disputed Claim with respect to any Damages,
+the indemnifying party shall be required to pay the indemnified party the amount
+of such Damages for which the indemnifying party has, pursuant to a final
+determination, been found liable within ten (10) days after there is a final
+determination with respect to such Disputed Claim. A final determination of a
+Disputed Claim shall be (i) a judgment of any court determining the validity of
+a Disputed Claim, if no appeal is pending from such judgment and if the time to
+appeal therefrom has elapsed; (ii) an award of any arbitration determining the
+validity of such disputed claim, if there is not pending any motion to set aside
+such award and if the time within which to move to set aside such award has
+elapsed; (iii) a written termination of the dispute with respect to such claim
+signed by the parties thereto or their attorneys; (iv) a written acknowledgment
+of the indemnifying party that it no longer disputes the validity of such claim;
+or (v) such other evidence of final determination of a disputed claim as shall
+be acceptable to the parties. No undertaking of defense or opposition to a Claim
+shall be construed as an acknowledgment by such party that it is liable to the
+party claiming indemnification with respect to the Claim at issue or other
+similar Claims.
+
+ARTICLE 16:  TERMINATION
+
+     16.1. Termination. This Agreement may be terminated at any time prior to
+Closing as follows:
+
+         (a) by mutual written consent of Clear Channel and Exchange Party;
+
+         (b) by written notice of Clear Channel to Exchange Party if Exchange
+Party (i) does not satisfy the conditions or perform the obligations to be
+satisfied or performed by it on the Closing Date; or (ii) otherwise breaches in
+any material respect any of its representations or warranties or defaults in any
+material respect in the performance of any of its covenants or agreements herein
+contained and such breach or default is not cured within the Cure Period
+(defined below)
+
+         (c) by written notice of Exchange Party to Clear Channel if Clear
+Channel (i) does not satisfy the conditions or perform the obligations to be
+satisfied or performed by it on the Closing Date; or (ii) otherwise breaches in
+any material respect any of its representations or warranties or defaults in any
+material respect in the performance of any of
+
+
+
+                                      -23-
+<PAGE>   24
+
+its covenants or agreements herein contained and such breach or default is not
+cured within the Cure Period (defined below)
+
+         (d) by written notice of either party to the other if the FCC denies
+the FCC Application;
+
+         (e) by written notice of Clear Channel to Exchange Party if the Closing
+shall not have been consummated on or before the date four months after the date
+of this Agreement; or
+
+         (f) by written notice of Clear Channel to Exchange Party if the AMFM
+Agreement is terminated or expires.
+
+     The term "Cure Period" as used herein means a period commencing the date a
+party receives from the other written notice of breach or default hereunder and
+continuing until the earlier of (i) thirty (30) days thereafter or (ii) the
+Closing Date; provided, however, that if the breach or default cannot reasonably
+be cured within such period but can be cured before the Closing Date, and if
+diligent efforts to cure promptly commence, then the Cure Period shall continue
+as long as such diligent efforts to cure continue, but not beyond the Closing
+Date. Except as set forth below, the termination of this Agreement shall not
+relieve any party of any liability for breach or default under this Agreement
+prior to the date of termination. Notwithstanding anything contained herein to
+the contrary, Section 13.1 shall survive any termination of this Agreement.
+
+     16.2. Remedies. The parties recognize that if either party refuses to
+consummate the Closing pursuant to the provisions of this Agreement or either
+party otherwise breaches or defaults such that the Closing has not occurred
+("Breaching Party"), monetary damages alone will not be adequate to compensate
+the non-breaching party ("Non-Breaching Party") for its injury. Such
+Non-Breaching Party shall therefore be entitled to obtain specific performance
+of the terms of this Agreement in lieu of, and not in addition to, any other
+remedies, including but not limited to monetary damages, that may be available
+to it; provided however, that Clear Channel may elect to recover liquidated
+damages in lieu of obtaining specific performance. If any action is brought by
+the Non-Breaching Party to enforce this Agreement, the Breaching Party shall
+waive the defense that there is an adequate remedy at law. In the event of a
+default by the Breaching Party which results in the filing of a lawsuit for
+damages, specific performance, or other remedy, the Non-Breaching Party shall be
+entitled to reimbursement by the Breaching Party of reasonable legal fees and
+expenses incurred by the Non-Breaching Party, provided that the Non-Breaching
+Party is successful in such lawsuit.
+
+     16.3. Liquidated Damages. If this Agreement is terminated by Clear Channel
+due to Exchange Party's failure to consummate the Closing on the Closing Date in
+accordance with this Agreement or if this Agreement is otherwise terminated by
+Clear Channel pursuant to Section 16.1(b), then Exchange Part shall pay Clear
+Channel as liquidated damages an amount equal to 25% of the Cash Amount. It is
+understood and agreed that such liquidated damages
+
+
+
+
+                                      -24-
+<PAGE>   25
+
+amount represents the parties' reasonable estimate of actual damages and does
+not constitute a penalty.
+
+
+ARTICLE 17: MISCELLANEOUS PROVISIONS
+
+     17.1. Casualty Loss. In the event any loss or damage of the Clear Channel
+Tangible Personal Property or Clear Channel Real Property or the Exchange Party
+Tangible Personal Property or Exchange Party Real Property exists on the Closing
+Date, the parties shall consummate the Closing and assign as appropriate the
+proceeds of any insurance payable on account of such damage or loss.
+
+     17.2. Further Assurances. After the Closing, each party shall from time to
+time, at the request of and without further cost or expense to the other,
+execute and deliver such other instruments and take such other actions as may
+reasonably be requested in order to more effectively consummate the transactions
+contemplated hereby to exchange assets and assume obligations as contemplated by
+this Agreement.
+
+     17.3. Assignment. Except as set forth in Sections 10.5 (1031 Exchange) and
+10.6 (Trust), neither party may assign this Agreement without the prior written
+consent of the other party hereto. With respect to any permitted assignment, the
+parties shall take all such actions as are reasonably necessary to effectuate
+such assignment, including but not limited to cooperating in any appropriate
+filings with the FCC or other governmental authorities. All covenants,
+agreements, statements, representations, warranties and indemnities in this
+Agreement by and on behalf of any of the parties hereto shall bind and inure to
+the benefit of their respective successors and permitted assigns of the parties
+hereto.
+
+     17.4. Amendments. No amendment, waiver of compliance with any provision or
+condition hereof or consent pursuant to this Agreement shall be effective unless
+evidenced by an instrument in writing signed by the party against whom
+enforcement of any waiver, amendment, change, extension or discharge is sought.
+
+     17.5. Headings. The headings set forth in this Agreement are for
+convenience only and will not control or affect the meaning or construction of
+the provisions of this Agreement.
+
+     17.6. Governing Law. The construction and performance of this Agreement
+shall be governed by the laws of the State of Texas without giving effect to the
+choice of law provisions thereof.
+
+     17.7. Notices. Any notice, demand or request required or permitted to be
+given under the provisions of this Agreement shall be in writing, including by
+facsimile, and shall be deemed to have been received on the date of personal
+delivery, on the third day after deposit in the U.S. mail if mailed by
+registered or certified mail, postage prepaid and return receipt requested, on
+the day after delivery to a nationally recognized overnight courier service if
+sent by an overnight delivery service for next morning delivery or when
+delivered by facsimile
+
+
+
+
+                                      -25-
+<PAGE>   26
+
+transmission, and shall be addressed as follows (or to such other address as any
+party may request by written notice):
+
+
+if to Clear Channel:          c/o Clear Channel Broadcasting, Inc.
+                              200 Concord Plaza, Suite 600
+                              San Antonio, Texas 78216
+                              Attention: President
+                              Facsimile: (210) 822-2299
+
+with a copy (which shall not
+constitute notice) to:        Wiley, Rein & Fielding
+                              1776 K Street, N.W.
+                              Washington, D.C. 20006
+                              Attention: Richard J. Bodorff, Esq.
+                              Facsimile: (202) 719-7049
+
+if to Exchange Party:         Cumulus Broadcasting, Inc.
+                              111 E. Kilbourn Avenue, Suite 2700
+                              Milwaukee, WI 53211
+                              Attention: Terrence J. Leahy, Esq.
+                              Facsimile: (414) 615-2880
+
+with a copy (which shall not
+constitute notice) to:        Cumulus Broadcasting, Inc.
+                              875 N. Michigan Avenue, Suite 1460
+                              Chicago, IL  60011
+                              Attention: Jorge Garcia
+                              Facsimile: (312) 867-0098
+
+
+     17.8. Counterparts. This Agreement may be executed in one or more
+counterparts, each of which will be deemed an original and all of which together
+will constitute one and the same instrument.
+
+     17.9. No Third Party Beneficiaries. Nothing herein expressed or implied is
+intended or shall be construed to confer upon or give to any person or entity
+other than the parties hereto and their successors or permitted assigns, any
+rights or remedies under or by reason of this Agreement.
+
+     17.10. Severability. The parties agree that if one or more provisions
+contained in this Agreement shall be deemed or held to be invalid, illegal or
+unenforceable in any respect under any applicable law, this Agreement shall be
+construed with the invalid, illegal or unenforceable provision deleted, and the
+validity, legality and enforceability of the remaining provisions contained
+herein shall not be affected or impaired thereby.
+
+                                      -26-
+<PAGE>   27
+
+     17.11. Entire Agreement. This Agreement embodies the entire agreement and
+understanding of the parties hereto and supersedes any and all prior agreements,
+arrangements and understandings relating to the matters provided for herein.
+This Agreement does not supersede any confidentiality agreement relating to the
+Clear Channel Stations.
+
+     17.12. Exchange Party Station Schedules. This Agreement is being executed
+prior to delivery of schedules for the Exchange Party Stations, and is subject
+to and contingent upon delivery of all such schedules by Exchange Party in form
+and substance reasonably satisfactory to Clear Channel (the "Schedule
+Condition") within five business days after the date hereof. If the schedules
+delivered by Exchange Party are not satisfactory to Clear Channel, then Clear
+Channel may terminate this Agreement by written notice to Exchange Party.
+
+
+                            [SIGNATURE PAGE FOLLOWS]
+
+
+
+
+                                      -27-
+<PAGE>   28
+
+                   SIGNATURE PAGE TO ASSET EXCHANGE AGREEMENT
+
+     IN WITNESS WHEREOF, the parties have executed this Agreement as of the date
+first set forth above.
+
+
+CLEAR CHANNEL:                   CAPSTAR RADIO OPERATING COMPANY
+
+
+                                 By:
+                                     ------------------------------------------
+                                     Name:
+                                     Title:
+
+
+                                 CAPSTAR TX LIMITED PARTNERSHIP
+
+
+                                 By:
+                                     ------------------------------------------
+                                     Name:
+                                     Title:
+
+
+EXCHANGE PARTY:                  CUMULUS BROADCASTING, INC.
+
+
+                                 By:
+                                     ------------------------------------------
+                                     Richard Weening, Executive Chairman
+
+
+                                     CUMULUS LICENSING CORP.
+
+
+                                 By:
+                                     ------------------------------------------
+                                     Richard Weening, Executive Chairman
+
+
+
+<PAGE>   29
+
+
+Clear Channel Schedules
+
+1.1(a)            -        FCC Licenses
+
+1.1(b)            -        Tangible Personal Property
+
+1.1(c)            -        Station Contracts
+
+1.1(d)            -        Intangible Property
+
+1.1(f)            -        Real Property
+
+1.2(h)            -        Excluded Assets
+
+
+
+Exchange Party Schedules
+
+1.3(a)            -        FCC Licenses
+
+1.3(b)            -        Tangible Personal Property
+
+1.3(c)            -        Station Contracts
+
+1.3(d)            -        Intangible Property
+
+1.3(f)            -        Real Property
+
+1.4(h)            -        Excluded Assets
+
+
+
+Exhibits
+
+A                 -        Tower Lease Form
+
+B-1               -        Studio Lease Form (Single Tenant)
+
+B-2               -        Studio Lease Form (Multi-Tenant)
+
+</TEXT>
+</DOCUMENT>

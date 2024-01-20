@@ -1,97 +1,207 @@
- AMENDMENT #1 DATED 12/3/02    EXHIBIT
-2.2   AMENDMENT No. 1 TO STOCK PURCHASE AGREEMENT    THIS AMENDMENT No.1
-(this "Amendment") to that certain Stock Purchase Agreement entered into as
-of November 27, 2002, by and among Tecumseh Products Company, a corporation
-organized and existing under the laws of the State of Michigan (the
-"Purchaser"), BTR Industries Limited, a corporation organized and existing
-under the laws of England and Wales ("BTRI"), BTR (European Holdings) BV, a
-corporation organized and existing under the laws of the Netherlands
-("BTR Holdings"), CPN Holdings Pty Limited, a corporation organized and
-existing under the laws of Australia ("CPN"), Invensys Controls Mexican
-Holding, L.L.C., a limited liability company organized and existing under the
-laws of Mexico ("ICMH") and BTR (USA) Finance Company, a Massachusetts
-business trust ("BTR Finance" and collectively with BTRI, BTR Holdings, CPN
-and ICMH, the "Sellers"), and Invensys plc, a corporation organized and
-existing under the laws of England and Wales ("Invensys") (together with the
-Annexes, Schedules and Exhibits thereto, the "Agreement") is entered into as
-of the 3rd day of December, 2002.   WHEREAS, capitalized terms used and not
-defined herein shall have the meanings ascribed to such terms in the
-Agreement; and   WHEREAS, the parties desire to amend Sections 2.3.1, 2.4.1
-and 10.1 of the Agreement as described herein and to add a new Section 9.6.7
-to the Agreement.   NOW THEREFORE, in consideration of the mutual premises
-herein contained and for other good and valuable consideration, the receipt
-and sufficiency of which are hereby acknowledged, Purchaser, Sellers and
-Invensys agree to amend the Agreement as follows:  1. Section 2.3.1 is
-hereby amended by adding, immediately after the phrase "minus the Escrow
-Funds", the following:   "and, if a certificate from the Canadian Minister
-of National Revenue  under Section 116 of the Income Tax Act (Canada) with a
-limit at least  equal to the allocation to Fasco Motors Limited (set forth in
-Section  2.4.1) is not received on or prior to the Closing Date, minus the 
-Canadian Withholding Amount"  2. Section 2.4.1 is hereby replaced in its
-entirety with the following:   Sellers and Purchaser agree to allocate (i)
-39,250,000 Canadian dollars  to Fasco Motors Limited (Canada) and (ii) the
-balance of the Initial  Purchase Price (which shall be determined by
-subtracting the amount  described in clause (i) as converted to US dollars at
-the closing  mid-point US dollar spot rate shown in the Financial Times
-published on  the second Business Day before the Closing) among the
-remaining  Companies at or prior to Closing. Within thirty (30) days
-following the  later of the determination of the Adjustment Amount or the
-Pension Plan  Assets Adjustment, Sellers and Purchaser shall agree upon a
-revised  purchase price       allocation to reflect such adjustments in
-accordance with the character  of each such adjustment and in a manner that
-is consistent with the  allocation of the Initial Purchase Price; provided,
-that, for purposes  of Section 2.4, no such adjustments shall be allocable to
-Fasco Motors  Limited (Canada).  3. The following is added to the Agreement
-as a new Section 9.6.7:   9.6.7 Notwithstanding the issuance of a
-certificate from the Canadian Minister of National Revenue as described in
-Section 2.3.1, in the event that the Canadian authorities reject, challenge,
-or invalidate such certificate or seek an adjustment of any kind from
-Purchaser with regard to the Canadian Withholding Amount, such rejection,
-challenge, invalidation, or adjustment shall constitute a Seller Tax Act
-subject to the indemnification provisions of Section 9.6.1.  4. Section
-10.1 of the Agreement is hereby amended by inserting the following defined
-term in alphabetical order:   "Canadian Withholding Amount" shall mean the
-amount that is required to be withheld by the Purchaser (or any Affiliate of
-the Purchaser that purchases the shares of Fasco Motors Limited (Canada))
-pursuant to Section 116 of the Income Tax Act (Canada) (based upon the
-allocation to Fasco Motors Limited (Canada) set forth in Section 2.4)
-converted to US dollars at the closing mid-point US dollar spot rate shown in
-the Financial Times published on the first Business Day before the
-Closing.  5. Notwithstanding any other provision of the Agreement, the
-failure to obtain a certificate under Section 116 of the Income Tax Act
-(Canada) shall not constitute a condition to Closing.  6. Except as set
-forth herein, the Agreement is not otherwise amended in any respect.  7.
-This Amendment shall be governed by and construed in accordance with the
-laws of the State of Delaware regardless of the laws that might otherwise
-govern under applicable principles of conflicts of laws thereof.  8. This
-Amendment may be executed in one or more counterparts, and by the different
-parties hereto in separate counterparts, each of which when executed shall be
-deemed to be an original but all of which taken together shall constitute one
-and the same agreement.       2   IN WITNESS WHEREOF, the parties
-hereto have caused this Amendment to be executed by their respective officers
-thereunto duly authorized, as of the date first written above.   TECUMSEH
-PRODUCTS COMPANY    By: /s/ TODD W. HERRICK 
------------------------------------------  Name: Todd W. Herrick  Title:
-President and Chief Executive Officer   BTR INDUSTRIES LIMITED    By: /s/
-VICTORIA HULL  ------------------------------------------  Name: Victoria
-Hull  ----------------------------------------  Title: General Counsel 
----------------------------------------   BTR (EUROPEAN HOLDINGS) BV   
-By: /s/ VICTORIA HULL  ------------------------------------------  Name:
-Victoria Hull  ----------------------------------------  Title: General
-Counsel  ---------------------------------------   CPN HOLDINGS PTY
-LIMITED    By: /s/ VICTORIA HULL 
-------------------------------------------  Name: Victoria Hull 
-----------------------------------------  Title: General Counsel 
----------------------------------------   INVENSYS CONTROLS MEXICAN HOLDING,
-L.L.C.    By: /s/ VICTORIA HULL 
-------------------------------------------  Name: Victoria Hull 
-----------------------------------------  Title: General Counsel 
----------------------------------------   BTR (USA) FINANCE COMPANY   
-By: /s/ VICTORIA HULL  ------------------------------------------  Name:
-Victoria Hull  ----------------------------------------  Title: General
-Counsel  ---------------------------------------     3    INVENSYS
-PLC    By: /s/ VICTORIA HULL  ------------------------------------------ 
-Name: Victoria Hull  ----------------------------------------  Title:
-General Counsel 
----------------------------------------              4    '
+<DOCUMENT>
+<TYPE>EX-2.2
+<SEQUENCE>4
+<FILENAME>k73591exv2w2.txt
+<DESCRIPTION>AMENDMENT #1  DATED 12/3/02
+<TEXT>
+<PAGE>
+                                                                     EXHIBIT 2.2
 
+                   AMENDMENT No. 1 TO STOCK PURCHASE AGREEMENT
+
+
+         THIS AMENDMENT No.1 (this "Amendment") to that certain Stock Purchase
+Agreement entered into as of November 27, 2002, by and among Tecumseh Products
+Company, a corporation organized and existing under the laws of the State of
+Michigan (the "Purchaser"), BTR Industries Limited, a corporation organized and
+existing under the laws of England and Wales ("BTRI"), BTR (European Holdings)
+BV, a corporation organized and existing under the laws of the Netherlands ("BTR
+Holdings"), CPN Holdings Pty Limited, a corporation organized and existing under
+the laws of Australia ("CPN"), Invensys Controls Mexican Holding, L.L.C., a
+limited liability company organized and existing under the laws of Mexico
+("ICMH") and BTR (USA) Finance Company, a Massachusetts business trust ("BTR
+Finance" and collectively with BTRI, BTR Holdings, CPN and ICMH, the "Sellers"),
+and Invensys plc, a corporation organized and existing under the laws of England
+and Wales ("Invensys") (together with the Annexes, Schedules and Exhibits
+thereto, the "Agreement") is entered into as of the 3rd day of December, 2002.
+
+         WHEREAS, capitalized terms used and not defined herein shall have the
+meanings ascribed to such terms in the Agreement; and
+
+         WHEREAS, the parties desire to amend Sections 2.3.1, 2.4.1 and 10.1 of
+the Agreement as described herein and to add a new Section 9.6.7 to the
+Agreement.
+
+         NOW THEREFORE, in consideration of the mutual premises herein contained
+and for other good and valuable consideration, the receipt and sufficiency of
+which are hereby acknowledged, Purchaser, Sellers and Invensys agree to amend
+the Agreement as follows:
+
+1.       Section 2.3.1 is hereby amended by adding, immediately after the phrase
+"minus the Escrow Funds", the following:
+
+         "and, if a certificate from the Canadian Minister of National Revenue
+         under Section 116 of the Income Tax Act (Canada) with a limit at least
+         equal to the allocation to Fasco Motors Limited (set forth in Section
+         2.4.1) is not received on or prior to the Closing Date, minus the
+         Canadian Withholding Amount"
+
+2.       Section 2.4.1 is hereby replaced in its entirety with the following:
+
+         Sellers and Purchaser agree to allocate (i) 39,250,000 Canadian dollars
+         to Fasco Motors Limited (Canada) and (ii) the balance of the Initial
+         Purchase Price (which shall be determined by subtracting the amount
+         described in clause (i) as converted to US dollars at the closing
+         mid-point US dollar spot rate shown in the Financial Times published on
+         the second Business Day before the Closing) among the remaining
+         Companies at or prior to Closing. Within thirty (30) days following the
+         later of the determination of the Adjustment Amount or the Pension Plan
+         Assets Adjustment, Sellers and Purchaser shall agree upon a revised
+         purchase price
+
+
+
+<PAGE>
+
+         allocation to reflect such adjustments in accordance with the character
+         of each such adjustment and in a manner that is consistent with the
+         allocation of the Initial Purchase Price; provided, that, for purposes
+         of Section 2.4, no such adjustments shall be allocable to Fasco Motors
+         Limited (Canada).
+
+3. The following is added to the Agreement as a new Section 9.6.7:
+
+                  9.6.7 Notwithstanding the issuance of a certificate from the
+Canadian Minister of National Revenue as described in Section 2.3.1, in the
+event that the Canadian authorities reject, challenge, or invalidate such
+certificate or seek an adjustment of any kind from Purchaser with regard to the
+Canadian Withholding Amount, such rejection, challenge, invalidation, or
+adjustment shall constitute a Seller Tax Act subject to the indemnification
+provisions of Section 9.6.1.
+
+4. Section 10.1 of the Agreement is hereby amended by inserting the following
+defined term in alphabetical order:
+
+                  "Canadian Withholding Amount" shall mean the amount that is
+required to be withheld by the Purchaser (or any Affiliate of the Purchaser that
+purchases the shares of Fasco Motors Limited (Canada)) pursuant to Section 116
+of the Income Tax Act (Canada) (based upon the allocation to Fasco Motors
+Limited (Canada) set forth in Section 2.4) converted to US dollars at the
+closing mid-point US dollar spot rate shown in the Financial Times published on
+the first Business Day before the Closing.
+
+5. Notwithstanding any other provision of the Agreement, the failure to obtain a
+certificate under Section 116 of the Income Tax Act (Canada) shall not
+constitute a condition to Closing.
+
+6. Except as set forth herein, the Agreement is not otherwise amended in any
+respect.
+
+7. This Amendment shall be governed by and construed in accordance with the laws
+of the State of Delaware regardless of the laws that might otherwise govern
+under applicable principles of conflicts of laws thereof.
+
+8. This Amendment may be executed in one or more counterparts, and by the
+different parties hereto in separate counterparts, each of which when executed
+shall be deemed to be an original but all of which taken together shall
+constitute one and the same agreement.
+
+
+
+
+
+                                       2
+<PAGE>
+
+IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be executed
+by their respective officers thereunto duly authorized, as of the date first
+written above.
+
+                                TECUMSEH PRODUCTS COMPANY
+
+
+                                By:     /s/ TODD W. HERRICK
+                                    -----------------------------------------
+                                Name:  Todd W. Herrick
+                                Title:  President and Chief Executive Officer
+
+                                BTR INDUSTRIES LIMITED
+
+
+                                By:     /s/ VICTORIA HULL
+                                   ------------------------------------------
+                                Name:   Victoria Hull
+                                     ----------------------------------------
+                                Title:  General Counsel
+                                      ---------------------------------------
+
+                                BTR (EUROPEAN HOLDINGS) BV
+
+
+                                By:     /s/ VICTORIA HULL
+                                   ------------------------------------------
+                                Name:   Victoria Hull
+                                     ----------------------------------------
+                                Title:  General Counsel
+                                      ---------------------------------------
+
+                                CPN HOLDINGS PTY LIMITED
+
+
+                                By:     /s/ VICTORIA HULL
+                                   ------------------------------------------
+                                Name:   Victoria Hull
+                                     ----------------------------------------
+                                Title:  General Counsel
+                                      ---------------------------------------
+
+                                INVENSYS CONTROLS MEXICAN HOLDING, L.L.C.
+
+
+                                By:     /s/ VICTORIA HULL
+                                   ------------------------------------------
+                                Name:   Victoria Hull
+                                     ----------------------------------------
+                                Title:  General Counsel
+                                      ---------------------------------------
+
+                                BTR (USA) FINANCE COMPANY
+
+
+                                By:     /s/ VICTORIA HULL
+                                   ------------------------------------------
+                                Name:   Victoria Hull
+                                     ----------------------------------------
+                                Title:  General Counsel
+                                      ---------------------------------------
+
+
+
+                                       3
+<PAGE>
+
+                                INVENSYS PLC
+
+
+                                By:     /s/ VICTORIA HULL
+                                   ------------------------------------------
+                                Name:   Victoria Hull
+                                     ----------------------------------------
+                                Title:  General Counsel
+                                      ---------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+                                       4
+
+</TEXT>
+</DOCUMENT>
