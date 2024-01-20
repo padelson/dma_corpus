@@ -1,0 +1,1813 @@
+ PURCHASE AGREEMENT, DATED NOVEMBER 6, 2001    
+Exhibit 10.1  * Certain confidential information contained in this document,
+marked by brackets, has been omitted and filed with the Securities and
+Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as
+amended. The omitted portions of this exhibit have been filed separately with
+the Securities and Exchange Commission.   PURCHASE AGREEMENT   among  
+AMERICAN HOME PRODUCTS CORPORATION   AHP SUBSIDIARY HOLDING CORPORATION  
+and   IMMUNEX CORPORATION     TABLE OF CONTENTS   Page 
+----  ARTICLE I.
+DEFINITIONS........................................................1  ARTICLE
+II. THE SALE; PURCHASE PRICE..........................................8  2.1.
+PURCHASE AND SALE...................................8  2.2. NET ASSETS AND
+OTHER PAYMENTS.......................8  2.3 TRANSFER
+TAXES.....................................10  2.4 ADDITIONAL
+COSTS...................................11  ARTICLE III.
+CLOSING.........................................................11  3.1. THE
+CLOSING........................................11  3.2. DELIVERIES BY
+BUYER................................11  3.3. DELIVERIES BY
+SELLERS..............................12  3.4. FURTHER
+ASSURANCES.................................12  ARTICLE IV. REPRESENTATIONS
+AND WARRANTIES OF SELLERS........................13  4.1
+ORGANIZATION.......................................13  4.2 CAPITALIZATION OF
+GREENWICH........................13  4.3 CORPORATE
+AUTHORITY................................13  4.4 NO
+VIOLATION.......................................14  4.5
+LITIGATION.........................................14  4.6 FINANCIAL
+STATEMENTS; ABSENCE OF CERTAIN  CHANGES OR
+EVENTS..................................14  4.7 TITLE TO PROPERTIES; ABSENCE
+OF LIENS..............15  4.8 CONDITION OF PHYSICAL ASSETS; INTELLECTUAL 
+PROPERTY...........................................17  4.9 EMPLOYEE
+MATTERS...................................17  4.10 COMPLIANCE WITH
+LAW................................18  4.11 CONTRACTS AND COMMITMENTS.
+(a).....................18  4.12 BROKERS AND
+INTERMEDIARIES.........................19  4.13 LICENSES AND
+PERMITS...............................19  4.14 ENVIRONMENTAL
+MATTERS..............................19  4.15
+TAXES..............................................20  4.16
+DISCLAIMER.........................................21  4.17 DISCLOSURE IN
+SCHEDULES............................21    (i)    ARTICLE V
+REPRESENTATIONS AND WARRANTIES OF BUYER............................21  5.1
+ORGANIZATION.......................................21  5.2 CORPORATE
+AUTHORITY................................21  5.3 NO
+VIOLATION.......................................21  5.4 FINANCIAL ABILITY TO
+PERFORM.......................22  5.5 BROKERS AND
+INTERMEDIARIES.........................22  ARTICLE VI CONDUCT OF BUSINESS
+PENDING THE CLOSING...........................23  6.1. OPERATION OF FACILITY
+PRIOR TO THE CLOSING DATE....23  6.2. PERMITTED
+ACTIONS..................................24  6.3 ACCOUNTING
+RECORDS.................................26  ARTICLE VII ADDITIONAL
+AGREEMENTS............................................27  7.1 ANCILLARY
+AGREEMENTS...............................27  7.2 ACCESS TO INFORMATION AND
+CONFIDENTIALITY..........27  7.3 REGULATORY
+FILINGS.................................28  7.4 COMMERCIALLY REASONABLE
+EFFORTS....................29  7.5 NOTICES OF CERTAIN
+EVENTS..........................29  7.6 START-UP AND OPERATION OF THE
+FACILITY.............29  7.7 CAPITAL IMPROVEMENT
+CONTRACTS......................30  7.8 BUYER PERSONNEL
+COSTS..............................30  7.9
+STAFFING...........................................30  7.10 FACILITY
+USE.......................................30  7.11 TRANSFER OF SELLER
+EMPLOYEES.......................31  7.12 ASSIGNMENT OF BUYER
+EMPLOYEES......................31  7.13 TRANSFER OF PERMITS; CONTRACTS
+....................32  7.14 TAX
+MATTERS........................................32  ARTICLE VIII AGREEMENTS
+WITH RESPECT TO EMPLOYEES AND EMPLOYEE MATTERS.......35  8.1 BUYER\'S
+OBLIGATIONS TO EMPLOYEES...................35  ARTICLE IX.
+CONDITIONS.......................................................38  9.1.
+CONDITIONS TO OBLIGATION OF EACH PARTY TO  EFFECT THE TRANSACTIONS
+CONTEMPLATED BY THIS  AGREEMENT..........................................38 
+9.2. CONDITIONS TO THE OBLIGATION OF SELLERS............39  9.3. CONDITIONS
+TO THE OBLIGATION OF BUYER..............39  ARTICLE X. TERMINATION,
+AMENDMENT AND WAIVER.................................40  10.1
+TERMINATION........................................40    (ii)     10.2
+EFFECT OF TERMINATION..............................40  ARTICLE XI.
+INDEMNIFICATION..................................................41  11.1
+INDEMNIFICATION BY SELLER..........................41  11.2 INDEMNIFICATION
+BY BUYER...........................42  11.3 CERTAIN
+LIMITATIONS................................42  ARTICLE XII. GENERAL
+PROVISIONS..............................................43  12.1 SURVIVAL OF
+REPRESENTATIONS AND WARRANTIES.........43  12.2
+COOPERATION........................................44  12.3
+WAIVER.............................................44  12.4
+NOTICES............................................44  12.5 GOVERNING LAW AND
+CONSENT TO JURISDICTION..........44  12.6
+COUNTERPARTS.......................................45  12.7
+HEADINGS...........................................45  12.8 ENTIRE
+AGREEMENT...................................45  12.9 AMENDMENT AND
+MODIFICATION.........................45  12.10 BINDING EFFECT;
+BENEFITS...........................45  12.11
+ASSIGNABILITY......................................45  12.12 SELLERS\'
+KNOWLEDGE.................................46  12.13
+SEVERABILITY.......................................46    (iii)    
+PURCHASE AGREEMENT   This PURCHASE AGREEMENT dated as of November 6, 2001
+(the "Agreement") by and among AMERICAN HOME PRODUCTS CORPORATION, a
+Delaware corporation ("AHP"), AHP SUBSIDIARY HOLDING CORPORATION, a Delaware
+corporation ("Holdings", and together with AHP, the "Sellers") and IMMUNEX
+CORPORATION, a Washington corporation ("Buyer").   W I T N E S S E T H:  
+WHEREAS, Sellers desire to sell to Buyer and Buyer desires to acquire from
+Holdings one thousand (1,000) shares (the "Shares") of common stock, no par
+value per share, of GREENWICH HOLDINGS INC., a Delaware corporation
+("Greenwich"), which shares constitute all of the issued and outstanding
+shares of capital stock of Greenwich, all on the terms and subject to the
+conditions set forth herein; and   WHEREAS, in connection with such sale
+Buyer shall pay to Holdings certain costs incurred by Sellers related to
+readying the Facility (as defined below) for approval by the Food and Drug
+Administration (the "FDA") and EMEA (as defined below); and   WHEREAS, this
+Agreement shall govern the parties\' management of the Facility from the date
+first written above to the Closing Date (as defined below);   NOW,
+THEREFORE, in consideration of the foregoing premises and
+the representations, warranties, covenants and agreements herein contained,
+the parties hereto, intending to be legally bound, agree as follows:  
+ARTICLE I.   DEFINITIONS   Whenever used in this Agreement, unless
+otherwise clearly indicated by the context, the terms defined below shall
+have the indicated meanings:   1.1 "Accountants" shall have the meaning set
+forth in Section 2.2(e) hereof.   1.2 "Affiliate" shall mean, with respect
+to any Person, any Person which directly or indirectly through stock
+ownership or through other arrangements either controls, or is controlled by
+or is under common control with, such Person, provided, however, for purposes
+of this Agreement the term "Affiliate" shall not include subsidiaries or
+other entities in which a Person owns a majority of the ordinary voting power
+to elect the majority of the board of directors or other governing board but
+is restricted from electing such majority by contract or otherwise, until
+such time as such restrictions are no longer in effect. For purposes of this
+Agreement, Buyer    1    shall not be deemed to be an Affiliate of
+Greenwich or either Seller, and AHP, Greenwich and Holdings shall not be
+deemed to be Affiliates of Buyer.   1.3 "Applicable Laws" shall mean all
+laws, statutes, regulations, interpretations, publicly available policies
+which are published by a Governmental Authority, decrees, injunctions,
+judgments, orders, rulings, assessments, writs, directives, rules, codes of
+conduct and ordinances of any Governmental Authority.   1.4 "Applicable
+Permits" shall mean any waiver, exemption, variance, permit, certificate of
+occupancy, authorization, membership, approval, consent, clearance,
+franchise, orders, license or similar approval or notification required to be
+obtained, maintained or made under Applicable Laws in connection with the
+Facility or the Assets or necessary to the operation of the Facility
+as presently conducted.   1.5 "Assets" shall mean collectively, all of the
+assets (both tangible and intangible), rights, interests, privileges,
+appurtenances, easements, reservations, estates, awards and properties of any
+kind, nature and description owned by Greenwich, including, without
+limitation:   (i) the Real Property, including the Facility;   (ii)
+Personal Property;   (iii) Transferred Books and Records;   (iv)
+Applicable Permits;   (v) all Contracts, including without limitation the
+EDC Ground Lease  and the Phase B Ground Lease; and   (vi) all of Sellers\'
+or Greenwich\'s rights, claims, causes of action  or rights of set-off
+against third parties relating to the foregoing,  including, without
+limitation, unliquidated rights under manufacturers\'  and vendors\'
+warranties.   1.6 "Buyer Indemnified Claims" shall have the meaning set
+forth in Section 11.1 hereof.   1.7 "Buyer Indemnitees" shall have the
+meaning set forth in Section 11.1 hereof.   1.8 "Buyer Losses" shall have
+the meaning set forth in Section 11.1 hereof.   1.9 "Catalytica Facility"
+shall have the meaning set forth in Section 1.8 of the Supply Agreement among
+AHP, Buyer and Catalytica Pharmaceuticals, Inc. effective as of October 16,
+2000.   1.10 "Closing" shall have the meaning set forth in Section 3.1
+hereof.    2     1.11 "Closing Date" shall have the meaning set forth
+in Section 3.1 hereof.   1.12 "Code" shall mean the Internal Revenue Code
+of 1986, as amended.   1.13 "Collaboration Agreement" shall mean that
+certain agreement entered into between AHP and/or one or more of its
+Affiliates and Buyer simultaneously with the execution of this Agreement
+regarding the management, inventory and allocation of Enbrel supplies
+substantially in the form of Exhibit A, attached hereto.   1.14 "Contracts"
+shall mean each contract, agreement, understanding, arrangement or commitment
+outstanding as of the date hereof (a) to which Greenwich is a party, or (b)
+to which one or more Sellers is a party and which relates primarily to the
+Assets.   1.15 "Disclosure Schedule" shall mean that certain schedule
+identified as such and delivered by Sellers to Buyer pursuant to the
+Agreement as the same may be supplemented and updated from time to time
+pursuant to the Agreement.   1.16 "EDC Ground Lease" shall mean (i) the
+ground lease dated March 7, 2001 with Greenwich as lessor and the EDC as
+lessee for the portion of the Real Property identified therein, and (ii) the
+subground lease dated March 7, 2001 with the EDC as lessor and Greenwich as
+lessee for such portion of the Real Property.   1.17 "EMEA" shall mean the
+European Medicines Evaluation Agency.   1.18 [*]   1.19 "Encumbrances"
+shall mean all claims, security interests, liens, pledges, charges, escrows,
+options, proxies, rights of first refusal, preemptive rights, mortgages,
+deeds of trust, hypothecations, prior assignments, rights-of-way, easements,
+encroachments, title retention agreements, indentures, security agreements or
+any other encumbrances of any kind.   1.20 "Environmental Laws" shall mean
+all Applicable Laws relating to the protection or pollution of the
+environment, including, but not limited to, laws protecting natural
+resources, laws protecting plant and animal species or habitat, and laws
+relating to the protection of public health or occupational health, including
+but not limited to the Comprehensive Environmental Response, Compensation and
+Liability Act, Clean Air Act, the Federal Water Pollution Control Act, the
+Hazardous Materials Transportation Act, the Resource Conservation and
+Recovery Act of 1976 and the Toxic Substances Control Act, and analogous
+state statutes.   1.21 "ERISA" shall mean the Employee Retirement Income
+Security Act, as amended from time to time, and related regulations.   1.22
+"ERISA Affiliate" shall mean any corporation, partnership, limited liability
+company, sole proprietorship, trade, business, or other entity
+or organization that, together with  * Confidential Treatment
+Requested.    3    Greenwich, is or was treated as a single employer
+under Section 414(b), (c), (m), or (o) of the Code.   1.23 "Excluded Assets
+and Liabilities" shall mean the following assets and liabilities of
+Greenwich:   (i) intercompany receivables and payables;  (ii) deferred tax
+assets and deferred tax liabilities;  (iii) any personnel costs for employees
+of a Seller or Greenwich  whose responsibilities at the Facility are for
+training only  to eventually be transferred to another facility and other 
+employee costs where such personnel costs are not related to  (A) the Real
+Property, (B) the Project, (C) readying the  Facility and the Catalytica
+Facility for approval by the FDA  and/or EMEA or (D) production of Enbrel;
+and  (iv) any costs already paid by Buyer pursuant to the Phase B Ground 
+Lease between Buyer and Greenwich.   1.24 "Facility" shall mean Greenwich\'s
+biopharmaceutical manufacturing facility located at 40 Technology Way, West
+Greenwich, Rhode Island, which such Facility is under renovation in
+accordance with plans approved by Sellers and Buyer.   1.25 "Facility
+Costs" shall mean any costs incurred directly or indirectly by Sellers or
+Greenwich (other than the purchase price paid by Sellers for the Facility)
+after September 24, 1999 related to (i) the Real Property, (ii) the Project,
+(iii) readying the Facility and the Catalytica Facility for approval by the
+FDA and/or EMEA, and (iv) manufacturing Enbrel at the Facility. All
+Facility Costs shall be reflected within Net Assets.   1.26 "Facility
+Employees" shall have the meaning set forth in Section 4.9 hereof.   1.27
+"GAAP" shall mean United States of America generally accepted accounting
+principles.   1.28 "Governmental Authority" shall mean any governmental
+department, commission, board, bureau, agency, regulatory or revenue
+authority, court or other instrumentality (including non-statutory
+authorities) of the United States, or any other nation or international body,
+or of any state, county, or any jurisdiction, municipality, territory
+(including, without limitation, Puerto Rico) or other political subdivision
+thereof or of any supranational authority.   1.29 "Greenwich" shall have the
+meaning set forth in the first WHEREAS clause of this Agreement.   1.30
+"Hazardous Materials" shall mean any hazardous materials, hazardous wastes,
+hazardous constituents or hazardous or toxic substances defined or regulated
+as such in or under any Environmental Laws.    4     1.31 "HSR Act"
+shall mean Title II of the Hart-Scott-Rodino Antitrust Improvements Act of
+1976, as amended, and the related regulations.   1.32 "Inventory" shall mean
+all manufactured etanercept (finished product bulk drug substance and drug
+product), work in-process and all raw materials.   1.33 "Material Adverse
+Effect" shall mean, assuming full utilization of the Facility, (i) a material
+adverse effect on the operation or the use of the Assets (including the cost
+thereof, whether or not considered as an expense under GAAP) in the manner
+currently operated or used and (ii) any material adverse effect on the
+ability of Sellers or Buyer to consummate and perform their obligations under
+this Agreement (without, in the case of this clause (ii), giving effect to
+any change in the manner that the Assets are currently operated or used, or
+are intended to be used by Buyer, assuming full utilization of the
+Facility).   1.34 "Material Permit" shall have the meaning set forth in
+Section 4.13 hereof.   1.35 "Material Contract" shall mean each Contract
+set forth in Section 4.11(a) of the Disclosure Schedule.   1.36 "MOU" shall
+mean the Memorandum of Understanding Regarding Greenwich\'s West Greenwich,
+RI Biopharmaceutical Facility executed by Buyer and AHP dated August 9, 2000,
+as amended.   1.37 "Multiemployer Plan" means each employee benefit plan
+described in Article VIII hereof that is a multiemployer plan, as defined in
+Section 3(37) of ERISA.   1.38 "Net Assets" shall mean, collectively, (i)
+the sum of the book value of all the Assets of any kind, nature and
+description, (ii) minus the sum of the book value of the liabilities of
+Greenwich, each so determined in accordance with GAAP. Net Assets shall
+include, but not be limited to,   1) fees of any legal counsel, accountants
+and other advisors,  excluding any fees or costs of legal counsel and
+accountants  directly related to the negotiations for the purchase and sale 
+of the Shares contemplated herein, or for legal counsel who  are employees of
+Greenwich, or for legal counsel and  accountants of a Seller, or an Affiliate
+of a Seller other  than Greenwich;  2) Inventory;  3) the Real Property; 
+4) the Personal Property;  5) the cost of obtaining approvals and Applicable
+Permits;  6) the cost of obtaining agreements or cooperation from 
+Governmental Authorities;  7) deposits;  8) prepaid expenses;  9) accounts
+payable and accrued expenses; and    5     10) all Facility
+Costs.  Regardless of the above, the Net Assets shall not include the
+Excluded Assets and Liabilities.   1.39 "Permitted Encumbrances" shall have
+the meaning set forth in Section 4.7 hereof.   1.40 "Person" shall mean an
+individual, a corporation, a partnership, an association, limited liability
+company or partnership, a trust or other entity, joint venture or
+organization, including a government or political subdivision or an agency or
+instrumentality thereof.   1.41 "Personal Property" shall mean (i) all
+tangible personal property of Greenwich, including without limitation all
+machinery, equipment, furniture, office equipment, communications equipment,
+vehicles, storage tanks, spare and replacement parts, fuel and other tangible
+property and all warranties and guaranties relating thereto (all of such
+warranties and guaranties are transferred to Buyer without recourse to
+Sellers).   1.42 "Phase B" shall mean Buyer\'s planned construction of
+additional biotechnology manufacturing capacity on the land leased by
+Greenwich to Buyer under the Phase B Ground Lease.   1.43 "Phase B Ground
+Lease" shall mean that ground lease, dated March 9, 2001, between Greenwich,
+as lessor, and Immunex Manufacturing Corporation, a wholly-owned subsidiary
+of Buyer, as lessee.   1.44 "Project" shall have the meaning set forth in
+Section 6.2(a) hereof.   1.45 "Purchase Price" shall have the meaning set
+forth in Section 2.1 hereof.   1.46 "Real Property" shall mean all real
+property of Greenwich, as more fully described on Section 4.7(a) of the
+Disclosure Schedule, including the Facility and any other buildings,
+structures and improvements thereon, all off street parking rights and
+spaces, all fixtures, equipment and machinery attached thereto, all oil, gas
+and mineral rights related to the foregoing, all development rights, land use
+entitlements and rights in any off-site facilities and amenities servicing
+the land or any improvements located thereon, all air rights, water, water
+rights, and riparian rights, all rights in and to all strips and gores, all
+alleys adjoining the land, and all right in and to the land lying in the bed
+of any street, road or avenue, open or proposed adjoining the land, all
+right, title and interest in and to any condemnation award or to any payment
+in lieu thereof for any taking or for any change in grade of any street, road
+or avenue thereto and all easements, rights of way, reservations, privileges,
+appurtenances and other estates and rights pertaining thereto owned by
+Greenwich and primarily related to the Facility and all warranties
+and guaranties relating thereto (all of such warranties and guaranties
+are transferred without recourse to Sellers).   1.47 "Returns" shall mean
+all returns, declarations, reports, statements, and other documents required
+to be filed in respect of Taxes (as defined below), and any claims for
+refund    6    of Taxes, including any amendments or supplements to any
+of the foregoing. The term "Return" shall mean any one of the foregoing
+Returns.   1.48 "Seller Employees" shall have the meaning set forth in
+Section 7.11 hereof.   1.49 "Sellers\' Employee Benefit Plans" shall mean
+all employee benefit plans applicable to Sellers\' employees, including the
+Facility Employees, including but not limited to Sellers\' Savings Plan,
+Sellers\' Retirement Plan, Sellers\' Retiree Benefits Plans, Sellers\'
+Spending Account Plans, as well as Sellers\' medical, insurance, holiday,
+vacation, stock option, stock incentive plans, and any other employee benefit
+plan, fund, policy or program.   1.50 "Sellers Indemnified Claims" shall
+have the meaning set forth in Section 11.2 hereof.   1.51 "Seller
+Indemnitees" shall have the meaning set forth in Section 11.2 hereof.  
+1.52 "Sellers Losses" shall have the meaning set forth in Section
+11.2 hereof.   1.53 "Shares" shall have the meaning set forth in the first
+WHEREAS clause of this Agreement.   1.54 "Signing" shall mean the date of
+execution of this Agreement.   1.55 "Steering Committee" shall have the
+meaning set forth in Section 6.2(b) hereof.   1.56 "Successfully
+Manufactured" shall mean bulk drug substance Enbrel that has been produced at
+the Facility and meets (i) all applicable Enbrel bulk drug substance
+specifications, and (ii) applicable FDA regulatory requirements.   1.57
+"Suite A" shall mean Suites A and D of the Facility.   1.58 "Suite A-3"
+shall mean Suite B of the Facility.   1.59 "Tax" or "Taxes" shall mean any
+income, corporation gross receipts, profits, gains, capital stock, capital
+duty, franchise, withholding social security, unemployment, disability,
+property, wealth, welfare, stamp, excise, occupation, sales, use, value
+added, alternative minimum, estimated or other similar tax (including any
+fee, assessment or other charge in the nature of or in lieu of any tax)
+imposed by any Governmental Authority (whether national, local, municipal or
+otherwise) or political subdivision thereof, and any interest, penalties,
+additions to tax or additional amounts in respect of the foregoing, and
+including any transferee or secondary liability in respect of any tax
+(whether imposed by law, contractual agreement or otherwise) and
+any liability in respect of any tax as a result of being a member of an
+affiliated, consolidated, combined, unitary or similar group.   1.60
+"Technology Transfer Agreement" shall mean that certain technology transfer
+agreement between AHP and Buyer, to be entered into simultaneously with the
+Signing, substantially in the form of Exhibit B hereto.    7     1.61
+"Termination Date" shall have the meaning set forth in Section
+10.1 hereof.   1.62 "Transferred Books and Records" shall mean owner or use
+guides, all construction records and invoices related to the Facility,
+engineering and other manuals and drawings for operation of the Facility and
+the machinery and equipment contained therein, as well as all Applicable
+Permits, Contracts, utility bills and documents evidencing ownership of the
+Assets; provided, that Transferred Books and Records shall also include all
+books and records relating to the Assets or the manufacture of Enbrel (or
+copies thereof) including, but not limited to, all regulatory documents,
+Facility inspection records, validation records, protocols and standard
+operating procedures related thereto. Sellers shall be entitled to keep
+copies of any Transferred Books and Records, subject to confidentiality
+obligations to which Sellers are subject under this Agreement or other
+applicable agreements.   1.63 "Transferred Employees" shall have the meaning
+set forth in Section 8.1 hereof.   1.64 "WARN Act" shall mean the Worker
+Adjustment and Retraining Notification Act.   Certain other terms are
+defined as indicated throughout this Agreement.   ARTICLE II.   THE SALE;
+PURCHASE PRICE   2.1. PURCHASE AND SALE.   Upon the terms and subject to
+the conditions of this Agreement, (i) Holdings shall sell, assign, transfer
+and deliver to Buyer the Shares, effective as of Closing, and (ii) Buyer
+shall purchase and accept the Shares from Holdings for an aggregate purchase
+price (the "Purchase Price") equal to the sum of (x) Sixty Million Dollars
+($60,000,000), payable at Closing, (y) the Interest Payments, and (z) an
+amount equal to the book value of the Net Assets as of the Closing Date,
+payable as provided for herein. Sellers shall not charge or otherwise pass
+through to Immunex any cost of capital for any portion of the Purchase Price
+or Net Assets except as provided for in Section 2.2(c).   2.2. NET ASSETS
+AND OTHER PAYMENTS.   (a) Within one (1) day of Signing, Buyer shall pay
+Holdings fifty  percent (50%) of the book value of the Net Assets as of the
+last day of  the calendar quarter ending immediately prior to the Signing for
+which  financial statements of Greenwich have been prepared and are
+available.  Payment of the book value of the Net Assets shall be based upon
+an invoice  furnished by Sellers to Buyer prior to the Signing, which invoice
+is  accompanied by an unaudited statement of Net Assets and a calculation
+of  the payment    8     due under this Section 2.2(a). Buyer shall
+have dispute and audit rights  as set forth in Section 2.2(e).   (b) Buyer
+shall pay Holdings fifty percent (50%) of the sum of the  book value of the
+Net Assets as of the last day of each calendar quarter  following the quarter
+for which the book value of the Net Assets was  calculated in Section 2.2(a)
+until the Closing, minus amounts previously  paid by Buyer under this Section
+2.2(b) of the Agreement or Section  2.2(a), within thirty (30) days after
+receipt of Sellers\' invoice, which  invoice shall be accompanied by an
+unaudited statement of Net Assets and a  calculation of the payment due under
+this Section 2.2(b). Buyer shall have  dispute and audit rights as set forth
+in Section 2.2(e).   (c) Sellers shall invoice Buyer at the Signing, or as
+soon as  practicable thereafter, for the "Interest Payment," as detailed
+below, and  Buyer shall pay Holdings the Interest Payment within thirty (30)
+days  after receiving the invoice. Interest at the Interest Rate began
+accruing  on May 1, 2001 (as if the Signing had occurred on such date) on
+one-half  (1/2) of the book value of the Net Assets as of such date and,
+thereafter,  interest at the "Interest Rate" accrued as of the last day of
+each month  with respect to one-half (1/2) of the book value of the Net
+Assets at the  end of such month, up to and until the date of payment
+pursuant to  subsection (a) above. So long as the Interest Payment is paid
+within such  thirty (30) day period, no interest shall accrue after the
+payment  pursuant to subsection (a) above. "Interest Rate" shall be defined
+as "the  three-month LIBOR rate as published in the Wall Street Journal on
+May 1,  2001 plus 50 basis points and then on the first date of each
+calendar  quarter plus 50 basis points, which shall be the interest rate for
+that  calendar quarter. Buyer shall have dispute and audit rights as set
+forth  in Section 2.2(e). Notwithstanding the foregoing, between November 8,
+2001  and the date of the payment due under subsection (a) above, the
+Interest  Rate shall be the applicable LIBOR rate plus 250 basis points, and
+if not  paid prior to December 1, 2001, such rate shall be the applicable
+LIBOR  rate plus 600 basis points.   (d) On the Closing Date, Buyer shall
+pay Holdings (i) the Sixty  Million Dollars ($60,000,000) referred to in
+Section 2.1(ii)(x) above,  plus (ii) an amount equal to the estimated book
+value of the Net Assets as  of the Closing Date, or another date mutually
+agreed to by the parties,  minus the sum of all of the amounts previously
+paid by Buyer pursuant to  Sections 2.2(a) and 2.2(b) above. Not less than
+five (5) days prior to the  Closing, Sellers shall provide Buyer an invoice
+detailing the amounts that  will be payable at the Closing. As soon as
+practicable after the Closing,  Sellers shall provide Buyer with an invoice
+detailing the actual book  value of the Net Assets as of Closing and any
+amount due the Sellers or  Buyer as a result of finalizing the actual book
+value of the Net Assets or  the amounts previously paid by the Buyer. In
+addition, if Sellers pay any  Facility Costs to any third party after the
+Closing, Sellers shall  promptly provide Buyer with an invoice detailing such
+payment. Buyer shall  pay all invoices provided by Sellers after the Closing
+within thirty (30)  days after Buyer\'s receipt thereof. Buyer shall have
+dispute and audit  rights as set forth in Section 2.2(e).    9     (e)
+With each invoice submitted by Sellers to Buyer pursuant to  Section 2.2(b)
+through (d), Sellers shall submit the applicable supporting  documentation
+set forth in Exhibit C attached hereto, unless otherwise  agreed by the
+parties. With respect to the invoice submitted pursuant to  Section 2.2(a),
+Sellers shall submit such supporting documentation within  twenty (20) days
+of Signing. Buyer may, upon reasonable advance notice to  Sellers and during
+Sellers\' usual business hours, examine or have Buyer\'s  independent public
+accountants examine Sellers\' books and records related  to any invoice
+delivered pursuant to Section 2.2 and Section 2.4. Buyer  may, in good faith,
+dispute amounts invoiced under Section 2.2 and Section  2.4 by paying such
+invoice and thereafter raising the dispute after the  Closing Date and within
+one hundred twenty (120) days after the Closing  Date or, in the case of
+invoices provided pursuant to the third or fourth  sentence of Section
+2.2(d), the receipt of such invoice. In the event that  Buyer disputes any
+invoiced amount, Buyer shall notify Seller in writing  that Buyer disputes
+the accuracy or appropriateness of such invoiced  amount and specify the
+particular respects by balance sheet line item in  which Buyer believes that
+such invoiced amount is inaccurate or  inappropriate. The parties shall
+negotiate in good faith to resolve any  such dispute and shall exchange any
+documentation reasonably required to  assist in such resolution.   If
+Sellers agree with Buyer that the results of Buyer\'s review of  such
+invoices properly indicates that that Buyer has been overcharged (net  of any
+undercharges disclosed by such examination), Sellers shall pay  Buyer the
+amount of the net overcharge, plus interest at the Interest Rate  between the
+date of payment and thirty (30) days prior to the date of  payment of the
+overcharge. In the event Sellers do not agree with Buyer\'s  calculation, the
+parties shall negotiate in good faith to resolve any such  dispute and shall
+exchange any documentation reasonably required to assist  in such resolution.
+In the event that the parties cannot agree on the  proper amount of the
+disputed calculation, the parties agree to select a  mutually acceptable firm
+of nationally recognized independent public  accountants to determine
+disputed amounts. If the parties cannot agree on  an acceptable firm, each
+party shall submit the name of its independent  public accountant, who shall
+mutually select the nationally recognized  independent public accountants to
+resolve the dispute. (The firm chosen by  the parties or their
+representatives to resolve the dispute shall be  referred to herein as the
+"Accountants"). The parties agree to submit  disputed items to the
+Accountants, pursuant to procedures established by  the Accountants, whose
+determination shall be binding on the parties. In  the event that the amount
+in the aggregate invoiced to Buyer exceeds by  ten percent (10%) or more the
+amount owed to Sellers in the aggregate, as  finally determined by the
+Accountant, the Sellers shall bear the cost of  the review and determination
+by the Accountant. In all other cases, Buyer  shall bear such costs.   2.3
+TRANSFER TAXES.   All sales tax and assignment or transfer fees and taxes
+(exclusive of federal or state taxes on or measured by income) payable in
+connection with the transactions contemplated hereby shall be paid one-half
+by Sellers and one-half by Buyer.    10     2.4. ADDITIONAL COSTS.  
+If the Closing occurs after manufacture of commercial Enbrel at the Facility
+has begun, and Greenwich or a Seller has incurred costs associated with such
+manufacture prior to the Closing, and such costs cannot, in
+Sellers\' opinion, be included within the book value of the Net Assets
+payable by Buyer hereunder in accordance with GAAP, such costs shall
+nevertheless be deemed to be included within Net Assets payable by Buyer in
+accordance with the terms hereof. Buyer shall have the dispute and audit
+rights set forth in Section 2.2(e) with respect to any such costs.  
+ARTICLE III.   CLOSING   3.1. THE CLOSING.   Unless this Agreement shall
+have been terminated in accordance with the terms hereof, on the terms and
+subject to the conditions of this Agreement, the closing of the sale and
+purchase of the Shares and the Assets and the consummation of the other
+transactions contemplated hereby (the "Closing") shall take place at the
+offices of American Home Products Corporation, Five Giralda Farms, Madison,
+New Jersey 07940 on (a) the later of (i) January 3, 2002 (it being understood
+that the parties intend to work together to have the Closing deemed effective
+January 1, 2002); or (ii) the next succeeding business day on which the last
+to be fulfilled or waived of the conditions set forth in Article 9 shall be
+fulfilled or waived in accordance with this Agreement or (b) at such other
+time, date or place as the parties may mutually agree upon in writing
+(the "Closing Date"). At the Closing, the parties to this Agreement will
+exchange funds, certificates and other documents specified in this Agreement.
+For purposes of this Agreement, the Closing will be treated as if it occurred
+at 12:01 a.m. on the Closing Date.   3.2. DELIVERIES BY BUYER   At the
+Closing, Buyer shall deliver, or cause to be delivered, to Sellers the
+following:   (a) the amounts specified in Sections 2.1 and 2.2
+hereof, respectively, to be paid at Closing, payable by wire transfer of
+immediately available funds on the Closing Date to an account specified in
+writing by Sellers, with such notice of such account to be delivered to Buyer
+no less than two (2) business days prior to the Closing Date;   (b) the
+certificate by an officer of Buyer required to be delivered pursuant to
+Section 9.2(c) hereof;   (c) a certificate, signed by an authorized officer
+of Buyer, certifying (i)    11    Buyer\'s due organization and the
+fact that Buyer is current in payment of its franchise taxes, (ii) the
+corporate resolutions of Buyer authorizing the transactions contemplated by
+this Agreement, and (iii) the incumbency of officers of Buyer executing this
+Agreement and the other agreements, instruments or certificates delivered
+upon the Closing; and   (d) such other instruments and documents, in form
+and substance reasonably acceptable to Buyer and Sellers, as may be
+reasonably necessary to effect the Closing.   3.3. DELIVERIES BY
+SELLERS.   At the Closing, Sellers shall deliver to Buyer the following:  
+(a) certificates representing the Shares duly endorsed for transfer to Buyer
+or accompanied by stock powers duly executed in blank;   (b) the certificate
+by officers of Sellers required to be delivered pursuant to Section 9.3(c)
+hereof;   (c) a certificate, signed by authorized officers of
+Sellers, certifying (i) the due organization and good standing of Sellers,
+(ii) the corporate resolutions of Sellers authorizing the transactions
+contemplated by this Agreement, and (iii) the incumbency of officers of
+Sellers executing this Agreement and the other agreements, instruments or
+certificates delivered upon the Closing;   (d) the stock books, stock
+ledgers, minute books and corporate seals of Greenwich;   (e) all consents
+and approvals of third parties (including Governmental Agencies) that are
+required to transfer the Shares;   (f) a Foreign Investment in Real Property
+Tax Act Affidavit pursuant to Section 1445(b)(2) of the Code duly executed by
+Holdings, which affidavit shall indicate that no federal withholding shall be
+required;   (g) such other instruments and documents, in form and
+substance reasonably acceptable to Buyer and Sellers, as may be reasonably
+necessary to effect the Closing; and   (h) letters of resignation executed
+by the directors and officers of Greenwich.   3.4. FURTHER ASSURANCES.  
+From time to time, at Buyer\'s or Sellers\' request, whether at or after the
+Closing Date, Buyer or Sellers, as the case may be, shall execute and deliver
+such further instruments of conveyance, transfer and assignment, cooperate
+and assist in providing information for making and completing regulatory
+filings, and take such other actions as Buyer or Sellers, as the case   
+12    may be, may reasonably require of the other party to more
+effectively assign, convey and transfer to such party the Shares, as
+contemplated by this Agreement.   ARTICLE IV.   REPRESENTATIONS AND
+WARRANTIES OF SELLERS   Sellers hereby represent and warrant to Buyer as
+follows (except to the extent that any representations or warranties are
+affected by conduct of Buyer, its employees, agents or advisors, and Sellers
+are not aware of such conduct):   4.1 ORGANIZATION.   (a) Greenwich is a
+corporation duly organized, validly existing and  in good standing under the
+laws of Delaware. Greenwich has the requisite  corporate power and authority
+to own, operate or lease the properties that  it purports to own, operate or
+lease and to carry on its business as it is  now being conducted and is duly
+licensed or qualified as a foreign  corporation and is in good standing in
+each domestic or foreign  jurisdiction in which the nature of the business
+conducted by it or the  character or location of the properties owned or
+leased by it makes such  licensing or qualification necessary.   (b) Each
+of Sellers is a corporation duly organized, validly  existing and in good
+standing under the laws of the State of Delaware.   (c) Holdings is not, and
+as of the Closing shall not be, a "foreign  person" as defined in Section
+1445 of the Code and any related  regulations.   4.2. CAPITALIZATION OF
+GREENWICH.   The authorized and issued capital stock of Greenwich consists
+of one thousand (1,000) shares of common stock, no par value per share, all
+of which are validly issued, outstanding, fully paid and non-assessable. All
+of the Shares are owned by Holdings, free and clear of any security
+interests, liens, claims, pledges, rights of first refusal or other
+encumbrances of any nature whatsoever. There are no outstanding rights of
+first refusal or offer, preemptive rights, options, warrants, conversion
+rights, stock purchase rights or other agreements, either directly or
+indirectly, for the purchase or acquisition from Greenwich or the Sellers of
+any securities of Greenwich. Greenwich is not a party or subject to any
+agreement or understanding and, to the knowledge of Greenwich or the Sellers,
+there is no agreement or understanding between any Persons that affects or
+relates to the voting or giving of written consents with respect to any
+securities of Greenwich or the voting by any director of Greenwich.   4.3.
+CORPORATE AUTHORITY. Each of the Sellers has the full corporate power and
+authority to enter into this Agreement and to consummate the transactions
+contemplated hereby. The execution, delivery and performance by Sellers of
+the Agreement have been duly authorized by all requisite corporate action of
+Sellers. This Agreement has been duly    13    executed and delivered
+by Sellers, and (assuming due execution and delivery by Buyer) this Agreement
+constitutes a valid and binding obligation of Sellers, enforceable in
+accordance with its terms, except as such enforceability may be limited by
+bankruptcy, insolvency, reorganization or similar laws affecting creditors\'
+rights generally or by general equitable principles.   4.4. NO VIOLATION.
+Except as disclosed in Section 4.4 of the Disclosure Schedule, the execution,
+delivery and performance by Sellers of this Agreement do not and will not
+contravene or conflict with (a) in any material respect any Applicable Laws
+(assuming compliance with the applicable requirements of the HSR Act), (b)
+the articles or certificate of incorporation or by-laws of Sellers or
+Greenwich, (c) in any material respect any mortgage, deed of trust, lease,
+note, contract, agreement, bond, indenture, license, permit, or trust to
+which Sellers or Greenwich are or any one of them is a party, or (d) in any
+material respect, any judgment, order, writ, injunction, consent decree or
+decree of any court, Governmental Authority, administrative agency or
+arbitrator to which Sellers or Greenwich are or any one of them is
+a party;  that in any case would prevent or be violated by or under which
+there would be a default as a result of, the execution, delivery and
+performance by either of the Sellers of this Agreement and the consummation
+of the transactions contemplated hereby. Except as disclosed in Section 4.4
+of the Disclosure Schedule, and assuming material compliance with any
+applicable requirements of the HSR Act, no material consent, approval, or
+authorization of or declaration or filing with any Person or Governmental
+Agency is required for the valid execution, delivery and performance by
+Sellers of the Agreement and the consummation by Sellers of the transactions
+contemplated hereby.   4.5 LITIGATION.   Except as disclosed in Section
+4.5 of the Disclosure Schedule attached hereto, as of the date hereof, there
+is no in rem proceeding with respect to the Assets or any action, suit,
+dispute or governmental, administrative, arbitration or regulatory proceeding
+pending or, to Sellers\' knowledge, threatened against Greenwich.   4.6.
+FINANCIAL STATEMENTS; ABSENCE OF CERTAIN CHANGES OR EVENTS.   (a) Sellers
+and Greenwich have delivered to Buyer (a) unaudited  balance sheets of
+Greenwich as of December 31, 2000 and (b) an unaudited  balance sheet of
+Greenwich as of September 30, 2001. All the foregoing  financial statements
+are herein referred to as the "Greenwich Balance  Sheets." The account
+balances (assets and liabilities) of the Greenwich  Balance Sheets have been
+determined in accordance with GAAP on a basis  consistent with Sellers\'
+accounting practices for capital projects and  fairly present the Net Assets
+of Greenwich as of the dates indicated. All  of the assets primarily related
+to the Project and the Facility are assets  of Greenwich and not of Seller,
+or any other Affiliate of Seller.  Greenwich has no liabilities or
+obligations of any nature (absolute,  contingent or otherwise) that are
+required by GAAP to be included in the  Greenwich Balance Sheet and that are
+not fully reflected or reserved  against therein, except liabilities or
+obligations incurred since the date  of the Greenwich Balance Sheet in   
+14     the ordinary course of business. Greenwich is not a guarantor,
+indemnitor,  surety or other obligor of any indebtedness for borrowed money
+of any  other Person.   (b) Except for transactions specifically
+contemplated in this  Agreement, since September 30, 2001 and except for
+actions taken in the  ordinary course of business, neither Greenwich nor any
+of its officers or  directors in their representative capacities on behalf of
+Greenwich have:   (i) taken any action or entered into or agreed to enter
+into  any transaction, agreement or commitment other than in the ordinary 
+course of business;   (ii) granted any increase in the compensation of
+employees;   (iii) suffered any change having a Material Adverse Effect;  
+(iv) borrowed or agreed to borrow any funds except  intercompany
+transactions;   (v) except to the extent related to the construction of
+the  Facility, purchased or sold, transferred or otherwise disposed of  any
+of its material properties or Assets (real, personal or mixed,  tangible or
+intangible);   (vi) made any change in accounting methods or practices or 
+internal control procedure;   (vii) issued any capital stock or other
+securities; or   (viii) agreed, whether in writing or otherwise, to take
+any  action described in this Section 4.6 (b).   4.7. TITLE TO PROPERTIES;
+ABSENCE OF LIENS.   (a) Section 4.7 of the Disclosure Schedule lists all
+Real Property  and includes a legal description thereof. Greenwich represents
+and  warrants that it (1) has fee simple title to the Real Property and (2)
+has  good title to all of the Personal Property, in the case of clauses (1)
+and  (2), free and clear of any Encumbrances, except for the following,
+which  are referred to collectively as "Permitted Encumbrances":   (i)
+Encumbrances set forth in Section 4.7(a) of the Disclosure  Schedule;  
+(ii) Encumbrances of record;   (iii) Encumbrances related to the Phase B
+construction project  or otherwise caused by Buyer;    15     (iv)
+Encumbrances for taxes, assessments or governmental  charges (including,
+without limitation, any assessments relating to  the Real Property), or
+mechanics\', workmen\'s, materialmen\'s or  similar liens, in each case that
+are (A) not delinquent or (B) which  are being contested in good faith and
+are listed on Section  4.7(a)(iii) of the Disclosure Schedule.   (v)
+Encumbrances that are reflected in the following: Title  Policy No.
+5312-669278 dated September 27, 1999 issued by Fidelity  National Title
+Insurance Company of New York; and   (vi) Encumbrances that an accurate
+survey of the Real Property  would disclose; provided, however, that any such
+Encumbrance  described in this clause (vi) shall not constitute a Permitted 
+Encumbrance if (x) such Encumbrance is not shown or disclosed on  that survey
+of the Real Property entitled "Plan of Land in West  Greenwich and Coventry
+Rhode Island surveyed for American Home  Products Corporation by Marrier
+Surveying Inc. August 1999" and (y)  such Encumbrance has or would reasonably
+be expected to have, a  Material Adverse Effect.   Greenwich has no
+leasehold interest in any real property  related to the Facility nor has
+Greenwich leased (as lessor) or  pledged all or any part of the Assets,
+except in connection with the  Phase B Ground Lease, License and Indemnity
+Agreement, Easement  Agreement and the EDC Ground Lease.   (b) The Real
+Property contains approximately seventy-three (73)  acres and the Facility on
+the Real Property contains a total of at least  two hundred thousand
+(200,000) square feet of floor area. To Sellers\'  knowledge, except as shown
+in a survey referred to in Section (a) above,  all buildings, structures and
+other material improvements, including, but  not limited to, any driveways,
+garages, parking areas and stalls, fences,  overhangs, storage, docking and
+loading areas, landscaped areas and sewer  systems, and all means of access
+to the Real Property are located  completely within the boundary lines of the
+Real Property and do not  encroach upon or under the property of any other
+Person in any material  respect. Except as disclosed in Section 4.7(b) of the
+Disclosure Schedule,  no improvements constructed on the property of any
+other Person encroaches  upon or under the Real Property in a manner that
+would be reasonably  likely to cause a Material Adverse Effect. To Sellers\'
+knowledge, except  as shown on the survey referred to in Section 4.7(a)
+above, there is no  other Person or any property of any other Person that
+encroaches upon the  Real Property such that any such encroachments, either
+alone or in the  aggregate, would be reasonably likely to have a Material
+Adverse Effect.  The Real Property abuts a public way or a private way to
+which the Buyer  shall have both pedestrian and vehicular access and such
+private way is  duly laid out or accepted as such by the city or town in
+which the Real  Property is located.   (c) Upon consummation of the
+transactions contemplated hereby,  Buyer, by purchasing the Shares, will have
+acquired fee simple title to  the Real Property, the Personal Property, and
+all other Assets owned by  Greenwich free and clear of all    16    
+Encumbrances other than Permitted Encumbrances (and other than  Encumbrances
+or other defects in title attributable to facts or  circumstances related to,
+or actions taken by, Buyer).   4.8. CONDITION OF PHYSICAL ASSETS;
+INTELLECTUAL PROPERTY.   (a) Except as disclosed in Section 4.8 of the
+Disclosure Schedule,  to Sellers\' knowledge, the buildings, structures, and
+improvements on the  Real Property (including the Facility) and the Personal
+Property (in the  aggregate) are in good working order, normal wear and tear
+excepted,  taking into account that the Facility remains under construction
+and no  representation is being given as to the operational effectiveness of
+the  Facility. No costs referred to in Section 2.4 have been incurred to
+date,  and assuming a Closing of January 3, 2001, no such costs are
+reasonably  foreseeable prior to Closing.   (b) Greenwich does not own any
+registered trademarks, tradenames,  copyrights or patents, nor does a Seller
+own any such intellectual  property rights primarily related to the
+Assets.   4.9. EMPLOYEE MATTERS. (a) Section 4.9(a) of the Disclosure
+Schedule  sets forth the name, title and present salary of each present
+employee of  Greenwich listed on the payroll for the Facility as of the date
+hereof  ("Facility Employees"). Except as set forth in Section 4.9(a) of
+the  Disclosure Schedule, neither Greenwich nor Sellers are a party to or
+bound  by any collective bargaining or other labor agreement with respect to
+the  Facility Employees, and there are no labor unions or other
+organizations  representing or, to the knowledge of the Sellers, purporting
+to represent  or attempting to represent, any Facility Employees.   (b)
+Neither the Sellers nor any of their Affiliates are currently  required to
+contribute to any Multiemployer Plan, nor have they been  assessed liability
+for any Multiemployer Plan. The Sellers are not subject  to and do no
+reasonably expect to incur any withdrawal liability under  Title IV of ERISA
+which Sellers or their Affiliates will not be able to  satisfy.   (c)
+Sellers maintain the Sellers\' Savings Plan which is intended to  be tax-
+qualified under Section 401(a) of the Code (and the trust related  thereto)
+and such Plan is intended to be tax exempt under Section 501(a)  of the Code.
+The Sellers\' Savings Plan has a favorable determination  letter from the
+Internal Revenue Service covering the Tax Reform Act of  1986 and, to the
+knowledge of Sellers, such letter has not been revoked  nor has such Plan
+been amended in any respect or any actions taken or  operational defects
+occurred since the receipt of such letter which would  result in the
+disqualification of Sellers\' Savings Plan by the Internal  Revenue
+Service.   (d) Except for any routine contributions owed by Greenwich on
+behalf  of the Transferred Employees to one or more of Sellers\' Employee
+Benefit  Plans for a period preceding the Closing Date, and except as set
+forth in  Article VIII, Buyer shall not incur any liability with respect to
+the  Sellers\' Employee Benefit Plans as a result of (i) the    17    
+Transferred Employees\' cessation of participation in such Sellers\' 
+Employee Benefit Plans on the Closing Date, (ii) any claims under such 
+Sellers\' Employee Benefit Plans arising on, prior to, or after the Closing 
+Date, (iii) any failure by the Sellers, Greenwich, any ERISA Affiliate of  a
+Seller or Greenwich, or any third party to comply with any provision of 
+ERISA or the Code or any other Applicable Law; or (iv) the imposition of  any
+term under a Sellers\' Employee Benefit Plan which is triggered by the 
+consummation of the transactions described in this Agreement.   4.10.
+COMPLIANCE WITH LAW. Except as disclosed in Section 4.10 of the Disclosure
+Schedule attached hereto, (a) the operation of the Facility is being
+conducted in compliance with, and the Real Property and all Assets
+comply with all Applicable Laws, as of the date hereof, except for
+violations, if any, which singly or in the aggregate have not had, and would
+not reasonably be expected to have, a Material Adverse Effect, (b) to the
+knowledge of Sellers, the operation of the Facility has been conducted in
+compliance with, and the Real Property and all Assets have complied with, all
+Applicable Laws, from September 24, 1999 up to the date hereof, except for
+violations, if any, which singly or in the aggregate have not had, and would
+not reasonably be expected to have, a Material Adverse Effect. Except as
+disclosed in Section 4.10 of the Disclosure Schedule, all Applicable Permits
+required in connection with the operation of the Facility as currently
+operated, have been obtained and are in full force and effect and are being
+complied with in all material respects, except for such failures which singly
+or in the aggregate have not had, and would not reasonably be expected to
+have, a Material Adverse Effect.   4.11. CONTRACTS AND COMMITMENTS. (a)
+Section 4.11(a) of the Disclosure Schedule attached hereto sets forth a
+complete and accurate list of each contract, agreement, understanding,
+arrangement or commitment relating to the Facility or the Assets outstanding
+as of the date hereof to which Sellers or Greenwich is a party and which:  
+(i) imposes a right of first refusal, option or other  restriction with
+respect to any Asset; or   (ii) is or contains a lease, license (other than
+software,  shrinkwrap licenses), joint venture agreement, partnership
+agreement or  similar contract or arrangement, or confidentiality
+agreement;   (iii) is or contains a non-competition agreement or other 
+agreement which limits the freedom of Sellers or Greenwich to own,  operate,
+sell, transfer, pledge, or otherwise dispose of or encumber any  Asset or
+that would bind any other assets of Buyer now or in the future;   (iv) is a
+contract involving more than $100,000 in payments or  receipts annually,
+except for purchase orders entered into in connection  with the construction
+of the Facility or entered into in the ordinary  course of business; or  
+(v) is a contract that guarantees any indebtedness of any  other Person in
+excess of $100,000 in the aggregate.    18    The contracts,
+agreements, understandings, arrangements, and commitments set forth on
+Section 4.11(a) of the Disclosure Schedule are hereinafter
+collectively referred to as the "Material Contracts".   (b) Each Material
+Contract is a valid and binding agreement of Sellers or Greenwich, as the
+case may be. There is no material default by the Sellers or Greenwich or, to
+the knowledge of the Sellers, by any third party, under any Material
+Contract. A true and complete copy of each Material Contract will be made
+available to Buyer and as of the Closing will have been made available to
+Buyer.   4.12. BROKERS AND INTERMEDIARIES. Neither the Sellers nor
+their Affiliates or any of them has employed or dealt with any broker or
+finder in connection with the transactions contemplated by this Agreement
+which would be entitled to a broker\'s or finder\'s, or similar fee or
+commission in connection therewith or upon the consummation thereof.  
+4.13. LICENSES AND PERMITS. Section 4.13 of the Disclosure Schedule attached
+hereto correctly describes each material Applicable Permit, together with the
+name of the Governmental Authority issuing such license or permit
+(the "Material Permits"). Except as set forth in Section 4.13 of the
+Disclosure Schedule, to Sellers\' knowledge, such Material Permits are valid
+and in full force and effect.   4.14. ENVIRONMENTAL MATTERS.   To the
+knowledge of Sellers, each of the representations and warranties set forth in
+subsections (a) through (e) of this Section 4.14 is true and correct with
+respect to the Assets, except to the extent that the facts and circumstances
+giving rise to any such failure to be so true and correct would not
+reasonably be expected to have a Material Adverse Effect.   (a) Except as
+set forth in Section 4.14(a) of the Disclosure Schedule, no Hazardous
+Materials are present in, on, or under the Real Property, including, without
+limitation, the soil and groundwater thereunder;   (b) Except as set forth
+in Section 4.14(b) of the Disclosure Schedule, the Real Property and all
+operations and facilities at the Real Property as operated since September
+24, 1999 have been in compliance in all material respects with all
+Environmental Laws, and all governmental approvals, Applicable Permits and
+licenses required under Environmental Laws for the Real Property and all
+operations and facilities of the Real Property as operated since September
+24, 1999 have been obtained and are in full force and effect and are being
+complied with in all material respects;   (c) Except as set forth in Section
+4.14 (c) of the Disclosure Schedule, neither the Sellers, Greenwich nor any
+of their Affiliates have received any written governmental complaint, notice
+of violation, alleged violation, or investigation or notice of potential
+liability or of potential responsibility regarding environmental protection
+matters or permit compliance with regard to the Real Property which either
+singly or in the aggregate would constitute a Material Adverse Effect;   
+19     (d) Except as set forth in Section 4.14(d) of the
+Disclosure Schedule, Hazardous Materials have not been generated, stored,
+transported, treated or disposed of on the Real Property or transferred from
+the Real Property to any other location except in compliance in all material
+respects with all Environmental Laws in effect at the time of such
+activities, and   (e) Except as set forth in Section 4.14(e) of the
+Disclosure Schedule, since September 24, 1999 there have been no
+governmental, administrative actions or judicial proceedings pending or
+threatened under any Environmental Laws to which the Sellers or Greenwich are
+named or to be named as a party with respect to the Real Property or any
+Hazardous Materials transferred from the Real Property, nor have there been
+any consent decrees or other decrees, consent orders, administrative orders
+or other orders, under any Environmental Law with respect to any of the Real
+Property.  Anything in this Agreement to the contrary notwithstanding, this
+Section 4.14 and Section 4.5 hereof shall be the exclusive representation and
+warranty of Sellers under this Agreement relating to environmental
+matters.   4.15. TAXES.   (a) On or prior to the date hereof, Sellers and
+Greenwich have  properly completed and filed on a timely basis and in the
+correct form all  Returns with respect to Greenwich or the Assets required to
+be filed on or  prior to the date hereof (taking into account any extensions)
+that a  reasonable person would deem material. As of the time of filing,
+the  foregoing Returns correctly reflected, in all respects that a
+reasonable  person would deem material, the facts regarding income, business,
+assets,  operations, activities, status or other matters therein or any
+other  information required to be shown thereon. In particular, and without
+in  any manner limiting the foregoing, none of the foregoing Returns
+contains  any position which is or would subject Greenwich, a Seller, or
+Buyer to  penalties under section 6662 of the Code (or any corresponding
+provision  of state, local or foreign tax law).   (b) With respect to all
+amounts in respect of Taxes imposed upon  Greenwich, or for which Sellers or
+Greenwich are or could be liable  related to the Assets, with respect to all
+taxable periods (or portions  thereof) ending on or before the Signing or the
+Closing Date, as  applicable, all material applicable tax laws and agreements
+have been  fully complied with, and all such amounts required to be paid to
+taxing  authorities or others on or before the date hereof have been fully
+and  timely paid.   (c) Except as set forth on Section 4.15(c) of the
+Disclosure  Schedule, (i) other than with respect to Returns for which AHP
+files on a  consolidated, combined or unitary basis, no issues have been
+raised (and  are currently pending) by any taxing authority in connection
+with any  Returns of Greenwich or Sellers related to the Assets, (ii) other
+than  with respect to Returns for which AHP files on a consolidated, combined
+or  unitary basis, no extensions or waivers of statutes of limitation with 
+respect to any Returns of Greenwich or Sellers related to the Assets have 
+been given by or requested by Greenwich    20     or Sellers, and (iii)
+there are no liens for Taxes (other than Permitted  Encumbrances) upon the
+Assets.   4.16. DISCLAIMER. Except as expressly set forth in this
+Agreement, SELLERS MAKE NO REPRESENTATIONS OR WARRANTIES (WHETHER EXPRESS OR
+IMPLIED) OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR USE OR
+OTHERWISE IN REGARD TO THE ASSETS.   4.17. DISCLOSURE IN SCHEDULES. Any
+disclosure contained in any section of the Disclosure Schedule to this
+Agreement shall, should the disclosure be relevant to any other section of
+the Disclosure Schedule to this Agreement, be deemed to be disclosed with
+respect to that other Schedule to the Agreement where such disclosure and its
+significance would be reasonably obvious to the party to whom the disclosure
+is made. Certain information set forth in the Schedules is included solely
+for informational purposes and may not be required to be disclosed pursuant
+to this Agreement. The disclosure of any information shall not be deemed to
+constitute an acknowledgment that such information is required to be
+disclosed in connection with the representations and warranties made by
+Sellers in this Agreement or is material, nor shall such information be
+deemed to establish a standard of materiality.   ARTICLE V  
+REPRESENTATIONS AND WARRANTIES OF BUYER   Buyer represents and warrants to
+Sellers that:   5.1. ORGANIZATION. Buyer is a corporation duly organized and
+validly existing under the laws of the State of Washington and has paid all
+excise taxes required by the Washington Department of Revenue.   5.2.
+CORPORATE AUTHORITY. Buyer has full corporate power and authority to enter
+into the Agreement and to consummate the transactions contemplated hereby.
+The execution, delivery and performance by Buyer of this Agreement have been
+duly authorized by all requisite corporate action on the part of Buyer. This
+Agreement has been duly executed and delivered by Buyer, and (assuming due
+execution and delivery by Sellers) this Agreement constitutes a valid and
+binding obligation of Buyer, enforceable in accordance with its terms, except
+as such enforceability may be limited by bankruptcy,
+insolvency, reorganization or similar laws affecting creditors\' rights
+generally or by general equitable principles.   5.3. NO VIOLATION. The
+execution, delivery and performance by Buyer of this Agreement do not and
+will not contravene or conflict with:   (a) assuming compliance with the
+applicable requirements of the HSR Act, in any material respect, any
+Applicable Laws;   (b) the articles or certificate of incorporation or by-
+laws of Buyer;    21     (c) in any material respect, any mortgage,
+deed of trust, lease, note, contract, agreement, bond, indenture, license,
+permit or trust to which Buyer or any of its Affiliates is a party; or  
+(d) in any material respect, any judgment, order, writ, injunction or decree
+of any court, governmental body, Governmental Authority, or arbitrator, to
+which Buyer or any of its Affiliates is a party, that, in any case, would
+prevent or be violated by, or under which there would be a default as a
+result of, the execution, delivery and performance by Buyer of this Agreement
+and the consummation of the transactions contemplated hereby.
+Assuming compliance with any applicable requirements of the HSR Act, no
+material consent, approval or authorization of or declaration or filing with
+any Person or Governmental Authority is required for the valid execution,
+delivery and performance by Buyer of this Agreement and the consummation of
+the transactions contemplated hereby.   5.4. FINANCIAL ABILITY TO PERFORM.
+As of the Closing Date, the Buyer will have sufficient funds to pay the
+Purchase Price on the terms and conditions contemplated by this Agreement.
+The Buyer acknowledges and agrees that the Buyer\'s performance of its
+obligations under this Agreement is not in any way contingent upon the
+availability of financing to the Buyer.   5.5. BROKERS AND INTERMEDIARIES.
+Neither the Buyer nor its Affiliates or any of them has employed any broker
+or finder in connection with the transactions contemplated by this Agreement
+which would be entitled to a broker\'s or finder\'s, or similar fee or
+commission in connection therewith or upon the consummation thereof.   5.6
+DUE DILIGENCE. Prior to the Closing, Sellers and Greenwich shall afford to
+Buyer, its employees, accountants, counsel and other representatives full
+access to (a) all of the Assets, books, Contracts, commitments, records
+and other document of Greenwich, and (b) all books, contracts, commitments,
+records and other documents of Sellers that are reasonably necessary for
+Buyer to evaluate and undertake the transaction contemplated by this
+Agreement. Sellers and Greenwich shall, prior to Closing, furnish promptly to
+Buyer all other information concerning the business, Assets, records and
+Facility Employees as Buyer may reasonably request for such purpose. In
+connection with such due diligence, as well as Buyer\'s participation in the
+operation of the Steering Committee and its management of the Assets
+(including the Facility) Buyer will, as of Closing, have performed a
+comprehensive due diligence investigation of the Assets and obtained a
+thorough understanding of the operation of the Assets. In the course of these
+activities, nothing has come to the attention of Buyer as of the Signing
+(that Sellers do not have actual knowledge of) that there is a material
+inaccuracy in any representation or warranty of Sellers contained herein and
+Buyer shall disclose to Sellers any such findings between Signing and Closing
+(that Sellers do not have actual knowledge of). Provided that Buyer has not
+breached the representation and warranty set forth above in this Section 5.6,
+no investigation conducted pursuant to this Section 5.6 or prior to
+the Closing shall be deemed to modify any representation or warranty made by
+Sellers or Greenwich herein or any obligation of Sellers or Greenwich
+hereunder.    22     ARTICLE VI   CONDUCT OF BUSINESS PENDING THE
+CLOSING   6.1. OPERATION OF FACILITY PRIOR TO THE CLOSING DATE.   Sellers
+agree that, between the date hereof and the Closing, except as (i)
+contemplated by this Agreement, (ii) permitted by the prior consent of Buyer
+or as permitted pursuant to Section 6.2 hereof, (iii) a result of
+actions directly or indirectly under the authority or supervision of the Site
+Manger so long as the Site Manager is an employee of Buyer or its Affiliates,
+or (iv) pursuant to the approval or instructions of the Steering
+Committee:   (a) Sellers shall cause Greenwich to use commercially
+reasonable efforts to maintain the Assets in their as-is condition,
+reasonable wear and tear excepted (it being understood that the facility is
+under ongoing construction). Sellers shall cause Greenwich to continue the
+construction of the facility in the ordinary course of business.   (b)
+Sellers shall cause Greenwich to operate the Facility in compliance with all
+Applicable Laws in all material respects.   (c) Sellers shall cause
+Greenwich not to do the following except in the ordinary course of
+business:   (i) enter into a legally binding commitment to sell, transfer, 
+pledge or lease (as lessor) any asset that is or would be, had such  asset
+not been sold or transferred, an Asset (or commit to do any of  the
+foregoing) if such asset had a fair market value in excess of  One Million
+Dollars ($1,000,000);   (ii) impose or permit to be imposed any
+Encumbrances, other  than Permitted Encumbrances, upon the Shares or any of
+the Assets;   (iii) make any change in the amount of salary or other 
+compensation of any Facility Employee;   (iv) Enter into any employment or
+severance agreement with any  Facility Employee, or enter into any collective
+bargaining  agreements or arrangements for the benefit of Facility
+Employees,  except as may be required pursuant to existing agreements or 
+Applicable Law;   (v) amend or otherwise change Greenwich\'s certificate
+of  incorporation or by-laws;   (vi) issue, sell, contract to issue or
+sell, pledge, dispose  of, grant, encumber or authorize the issuance, sale,
+pledge,  disposition, grant or Encumbrance of (i) any shares of capital
+stock  of Greenwich, or (ii) any options,    23     warrants,
+convertible securities or other rights of any kind to  acquire any shares of
+such capital stock, or any other ownership  interest (including, without
+limitation, any phantom interest) of  Greenwich;   (vii) reclassify,
+combine, split, subdivide, redeem, purchase  or otherwise acquire, directly
+or indirectly, any of Greenwich\'s  capital stock or other securities;  
+(viii) acquire (including, without limitation, by merger,  consolidation, or
+acquisition of stock or assets) any corporation,  partnership, other business
+organization or division thereof or any  material amount of assets not
+related to the ongoing construction of  the Facility;   (ix) incur any
+indebtedness for borrowed money or issue any  debt securities or guarantee
+the payment obligations for borrowed  money of any third party Person,;  
+(x) take any action, other than reasonable and usual actions  in the ordinary
+course of business and consistent with past  practice, with respect to
+accounting methods, policies or procedures  (including, without limitation,
+procedures with respect to the  payment of accounts payable and collection of
+accounts receivable);   (xi) make any Tax election or settle or compromise
+any Tax  liability;   (xii) enter into any contract not related to the
+Project or  the Facility, except any contract entered into in the ordinary 
+course of business and consistent with past practice;   (xiii) authorize any
+single capital expenditure by Greenwich  not related to the Project or the
+Facility which is in excess of one  hundred thousand dollars ($100,000) or
+capital expenditures not  related to the Project or the Facility which are,
+in the aggregate,  in excess of five hundred thousand dollars ($500,000);  
+(xiv) agree to do any of the foregoing in this Section 6.1(c).   6.2.
+PERMITTED ACTIONS.   (a) Between the date hereof and the Closing Date, Buyer
+and Sellers,  together with their respective Affiliates, shall retrofit Suite
+A of the  Facility to accommodate the commercial manufacture of Enbrel, to
+perform  the initial validation runs for Enbrel and to commence commercial 
+production of Enbrel. Further, the parties have determined that, in lieu  of
+building out Suite A-3, they will undertake the "Greenwich Project", 
+pursuant to which Greenwich shall construct the administration building  and
+parking facility planned to be located on the Real Property. (The  retrofit
+of Suite A and the Greenwich Project are hereinafter collectively  referred
+to as the "Project".) The Project shall be    24     overseen by a
+Steering Committee, whose objective is to recognize and  utilize the
+strengths and competencies of each party to perform the  Project. All costs
+incurred by Sellers or Greenwich in performing their  obligations under this
+Section 6.2(a) shall be reflected in the book value  of the Net Assets even
+if not appropriate under GAAP to be included  because such Greenwich Project
+is discontinued at the direction of the  Steering Committee or the Buyer.  
+(b) If not formed before the Signing, a Steering Committee shall be  formed
+following the date hereof, which shall have six (6) members, with  Buyer and
+Sellers each having the right to appoint three (3) members (the  "Steering
+Committee"). The Steering Committee shall oversee the Project  through the
+Closing Date and shall have the following powers and duties:   (i) The
+Steering Committee shall approve an annual budget  for the Facility,
+including a capital budget;   (ii) the Steering Committee shall approve in
+advance any  capital expenditures by any third party or by Sellers 
+associated with the fill and finish of bulk drug  substance Enbrel
+manufactured at the Facility;   (iii) the Steering Committee shall meet on
+at least a  quarterly basis or more frequently as necessary, and  decisions
+of the Steering Committee shall be made by  consensus. The Steering Committee
+shall endeavor to  reach a consensus on all matters within its authority 
+which are in dispute within a period of ten (10) days  after receiving
+notification from either Buyer or  Sellers that such dispute has been
+referred to the  Steering Committee for resolution. If such a resolution 
+cannot be reached in that time period (or earlier at the  election of either
+party), the matter shall be referred  to the Chief Operating Officer of Buyer
+and the  President of AHP\'s Wyeth-Ayerst Division, or their  designees, for
+resolution in a period of ten (10) days  (or such other time period agreed by
+the parties)  through good faith discussions, or if still unresolved,  the
+parties shall endeavor in good faith to promptly  agree upon a binding third
+party dispute resolution  mechanism intended promptly and fairly to resolve
+the  matter in dispute.   (iv) The Steering Committee shall be disbanded
+upon the  Closing Date.   (c) Sellers shall be permitted to cause Greenwich
+to transfer to  Holdings by way of a distribution or otherwise all cash and
+cash  equivalents held by Greenwich from time to time up to and including
+the  Closing Date. In the event all such cash or cash equivalents are not 
+transferred to Sellers at Closing, Sellers shall include such cash or cash 
+equivalents in the invoice to be provided by Sellers to Buyer as soon as 
+practicable    25     after the Closing, pursuant to Section 2.2(c) of
+this Agreement.   (d) Buyer may perform or have performed a construction
+cost audit of  the Project. Sellers shall pay the costs of any such audit
+that occurs  prior to Closing and include such cost in the book value of the
+Net Assets  whether or not appropriate under GAAP to be included.   (e)
+Buyer may perform or have performed a cost segregation analysis  and state
+tax analysis of the Project. Sellers shall pay the costs of any  such
+analyses that occur prior to Closing and include such costs in the  book
+value of the Net Assets.   (f) Buyer may take actions prior to Closing in
+order to facilitate  the smooth transition of ownership and operation of
+Greenwich Holdings to  Buyer. Such actions may include, but are not limited
+to, hiring of support  and administrative staff and implementation of systems
+and processes  consistent with those of Buyer. Any costs of such actions that
+are  incurred by Sellers prior to Closing shall be included in the book
+value  of the Net Assets whether or not appropriate under GAAP to be
+included.   6.3. ACCOUNTING RECORDS.   The accounting records supporting
+all expenditures of Greenwich shall include a classification of expenditures
+into the following categories:   (a) Construction and make-ready Costs;
+(such costs shall further be  supported by detailed listing of individual
+assets and related costs);   (b) Facility testing costs (including all costs
+to test and validate  the manufacturing processes and systems including the
+costs of performing  the test production runs);   (c) FDA filing costs
+(including all costs of preparing and filing  the facility license
+application with the FDA);   (d) FDA conformance runs (the cost of producing
+the lots of Enbrel  that will be used to support the FDA filing);   (e)
+Catalytica Facility validation costs; and   (f) Start-up and operating costs
+(all costs incurred following  completion of the FDA conformance runs).   
+26     ARTICLE VII   ADDITIONAL AGREEMENTS   7.1. ANCILLARY
+AGREEMENTS.   Simultaneous with the Signing, AHP and Buyer will enter into
+the Collaboration Agreement, the Technology Transfer Agreement, [*]. Between
+Signing and Closing, it is anticipated that a Seller and Buyer will enter
+into a transition services agreement for certain services related to the
+operation of the Facility.   7.2 ACCESS TO INFORMATION AND
+CONFIDENTIALITY.   (a) During the period commencing on the date hereof and
+continuing  through the Closing Date and, provided that the Closing occurs,
+for a  period of at least six (6) years after the Closing Date or, with
+respect  to any Taxes, the applicable statute of limitations, with respect to
+books  and records reasonably deemed by Sellers to be necessary in
+connection  with (i) the preparation or examination of Tax Returns, (ii) the
+Excluded  Assets and Liabilities, and (iii) financial reporting, Buyer shall
+afford  to the Sellers and to Sellers\' accountants, counsel, and other 
+representatives, reasonable access to all of the Assets, books, Contracts, 
+commitments, records, facilities, technical and personnel information,  and,
+during such period, shall furnish reasonably promptly to Sellers all 
+documents and information concerning the Assets and Transferred Employees  as
+Sellers may reasonably request; provided that the above activities do  not
+interfere unreasonably with the conduct of the business of Buyer and 
+provided further that Buyer shall not be required to disclose any  documents
+or information related to Transferred Employees that would  violate any
+Applicable Law.   (b) Any information that Buyer discloses to Sellers, or to
+which  Sellers have access, as a result of Section 7.2(a) above shall be
+deemed  "Buyer Confidential Information" if such information (i) is
+designated as  "Confidential" in writing at the time of any written
+disclosure or (ii)  even if not so identified as "Confidential", would
+reasonably be  identified or understood by Sellers as the confidential or
+proprietary  information of Buyer. Buyer Confidential Information shall not,
+however,  include:   (1) information which was already known by the Sellers
+at the time  of its disclosure hereunder, as evidenced by Sellers\' written 
+records;   (2) information disclosed to Sellers by a third party lawfully
+in  possession of such information and not under an obligation of 
+nondisclosure to Buyer in respect thereof;  * Confidential Treatment
+Requested.    27     (3) information which at the time of disclosure is
+or subsequently  becomes patented, published or otherwise part of the public
+domain,  except by breach of this Agreement by Sellers;   (4) information
+developed by Sellers independently of information  obtained from Buyer;
+or   (5) information which is required to be disclosed by law, regulation 
+or the order of a judicial or administrative authority; provided,  however,
+that Sellers (A) give Buyer prompt written notice prior to  disclosure by
+Sellers to permit Buyer to seek a protective order or  other similar order
+with respect to Buyer Confidential Information,  and (B) thereafter disclose
+only the minimum Buyer Confidential  Information required to be disclosed in
+order to comply, whether or  not a protective order or other similar order is
+obtained by Buyer.   Unless Sellers have obtained Buyer\'s prior written
+consent, Sellers shall  hold confidential all Buyer Confidential Information,
+shall not disclose  it to any third party, and shall use it only for purposes
+consistent with  this Agreement. The provisions of this Section 7.2(b) shall
+survive the  expiration or termination of this Agreement or the Closing,
+whichever  occurs first, for a period of four (4) years from the each such
+disclosure  of Confidential Information; provided, however, that with respect
+to Buyer  Confidential Information related to the Facility Employees, the
+provisions  of this Section 7.2(b) shall survive indefinitely; and provided
+further  that this Agreement shall not be deemed to alter any prior
+confidentiality  obligations among the parties, including those related to
+Enbrel or the  manufacture thereof.   (c) During the period commencing on
+the Signing and continuing  through the Closing Date, Sellers (i) will give
+and will cause Greenwich  to give to Buyer, its counsel, financial advisors,
+auditors and other  authorized representatives reasonable access to all of
+the offices,  properties, books, records, Contracts, commitments, facilities,
+technical  information, and personnel of Sellers or Greenwich relating to the
+Assets,  (ii) will permit and facilitate any reasonable interview process
+for  potential continued employment of the Facility Employees with Buyer,
+and  (iii) will give and will cause Greenwich to give to Buyer reasonable 
+access to Greenwich\'s engineering and other Facility Employees to provide 
+planning and technical assistance related to Buyer\'s intended use of the 
+Assets after the Closing as Buyer may reasonably request.   7.3 REGULATORY
+FILINGS.   Each of the parties hereto will furnish to the other party
+hereto such necessary information and reasonable assistance as such other
+party may reasonably request in connection with its preparation of necessary
+filings or submissions to any Governmental Authority. Buyer and Sellers each
+agree to file any information required by the HSR Act as soon as reasonably
+practicable after the date hereof and each agrees promptly to supplement such
+information and promptly use commercially reasonable efforts to effect
+compliance with the conditions specified    28    in Article 9 hereof
+and shall cooperate with one another to furnish promptly to Governmental
+Authorities any additional information reasonably requested by them in
+connection with such filings. Neither party shall be required, however,
+to divest or outlicense products or assets or change its business or intended
+use of the Facility if doing so is a condition of obtaining approval under
+the HSR Act or other governmental approvals of the transaction contemplated
+by this Agreement. Each of the parties shall use commercially reasonable good
+faith efforts to eliminate any concerns on the part of federal or state
+antitrust authorities, including, without limitation, cooperating in good
+faith with any government investigation, including prompt production of
+documents and information demanded by a second request for documents and of
+witnesses if requested. Each party will consult and cooperate with the other
+party and will consider in good faith the view of the other party in
+connection with any analysis, appearance, presentation, memorandum, brief,
+opinion or proposal made or submitted in connection with any action, request
+or investigation under or relating to the HSR Act or any other national,
+federal or state antitrust, competition or fair trade law.   7.4
+COMMERCIALLY REASONABLE EFFORTS.   Each of the parties hereto shall use
+commercially reasonable efforts to fulfill or obtain the fulfillment of the
+conditions of the Closing, including, without limitation, the execution and
+delivery of all agreements contemplated hereunder to be so executed and
+delivered.   7.5 NOTICES OF CERTAIN EVENTS.   Sellers shall promptly
+notify Buyer, and Buyer shall promptly notify Sellers, as the case may be,
+of:   (a) any notice or other communication from any Person alleging
+that the consent of such Person is or may be required in connection with
+the transactions contemplated by this Agreement;   (b) any notice or other
+communication from any Governmental Authority in connection with the
+transactions contemplated by this Agreement; and   (c) any actions, suits,
+claims, investigations or proceedings commenced or, to the best of the
+notifying party\'s knowledge threatened against, relating to or involving or
+otherwise affecting Sellers, Buyer, the Shares or the Assets that, if pending
+on the date of this Agreement, would have been required to have been
+disclosed hereunder or that relate to the consummation of the transactions
+contemplated by this Agreement.   7.6 START-UP AND OPERATION OF THE
+FACILITY.   During the period of Sellers\' ownership of the Shares,
+and thereafter for such transition period as may be agreed to by the parties
+(which period shall not be longer than the period set forth in the Technology
+Transfer Agreement), a reasonable number of Buyer and Sellers and Sellers\'
+Affiliates personnel shall be involved in all aspects of start-up and
+operation    29    of the Facility as are agreed by the parties, and
+shall also have access to all engineering, manufacturing, quality assurance,
+quality control, regulatory, and all other documentation related to the
+Facility and the Enbrel product(s) manufactured at the Facility to facilitate
+Sellers\' and its Affiliates\' knowledge and understanding of manufacturing
+commercial quantities of Enbrel; provided, however, that the above activities
+do not interfere unreasonably with the business of Buyer, and provided
+further that, during the term of either party\'s ownership of the Shares, and
+consistent with the terms hereunder, such party will have ultimate decision
+making authority with respect to day-to-day operations of the Facility.  
+7.7 CAPITAL IMPROVEMENT CONTRACTS.   Sellers shall allow Buyer to (a) review
+and approve each contract entered into after the Signing involving capital
+improvements to the Facility which would reasonably be expected to result in
+payments by or on behalf of Sellers or Greenwich greater than Three Million
+Dollars ($3,000,000) in the aggregate, (b) review and consult with Sellers on
+all contracts involving the Facility and its operation of duration greater
+than one (1) year which would reasonably be expected to require payments by
+or on behalf of Sellers or Greenwich in an amount greater than Two Hundred
+Fifty Thousand Dollars ($250,000) in the aggregate under such contract and
+(c) review and approve each contract involving the fill and finish of Enbrel
+produced at the Facility. Buyer shall be a party to each such contract under
+clause (c) of this Section 7.7, and to the extent practicable, Sellers shall
+name or shall cause Greenwich to name Buyer a third party beneficiary under
+each such contract under clauses (a) and (b) of this Section 7.7.   7.8
+BUYER PERSONNEL COSTS.   Technical assistance provided by Buyer to Sellers
+related to the Enbrel manufacturing process shall be governed by the
+Technology Transfer Agreement.   7.9 STAFFING.   For periods prior to the
+Closing, and then following the Closing, Sellers and Buyers shall enter into
+the respective [*]. Between the Signing and the Closing Date, Buyer and
+Sellers shall consult with each other in good faith on all hires at or
+relating to the Facility for the position of manager and above and for key
+technical positions. Neither Sellers nor Greenwich shall hire any such
+prospective employee whose titles are Manager or above who is likely
+to become a Transferred Employee if Buyer has a good faith reasonable
+objection to such employee that does not violate any Applicable Law.   7.10
+FACILITY USE.   Buyer will have complete access to the Facility through the
+Closing Date, subject to standard safety and security procedures, to
+facilitate Buyer\'s participation in the Project. As  * Confidential
+Treatment Requested.    30    between the parties, Buyer shall have the
+final authority with respect to decisions related to Phase B, including
+general timelines relating thereto, and with respect to conceptual design,
+basic engineering and detailed engineering. Such general timelines for Phase
+B shall be conducted in a manner which does not materially impact the
+schedule for the retrofit of Suite A.   7.11 TRANSFER OF SELLER
+EMPLOYEES.   Buyer acknowledges that as of the Signing, there are
+approximately [*] of Sellers or their Affiliates working at the Facility.
+Such employees are not deemed to be Facility Employees, and will not be
+deemed to be Transferred Employees at the Closing. Notwithstanding the
+proceeding sentence, the parties agree that coincident with, or prior to
+Closing, Sellers may transfer the number of persons (having the job titles
+indicated) preliminarily set forth in Section 7.11(a) of the Disclosure
+Schedule (which such Disclosure Schedule may be updated until Closing) from
+the Facility to one or more of Sellers\' biopharmaceutical manufacturing
+facilities to ensure their successful construction, start-up and operation
+(collectively, the "Sellers Employees"). The total number of Seller Employees
+shall not, under any circumstances, exceed [*] percent ([*]%) of the total
+number of Facility Employees at the time of the Signing. Sellers shall, not
+later than the Closing, provide Buyer written notice of each such Seller
+Employee, and in all cases, shall give Buyer at least [*] months\' written
+notice of the transfer of each Seller Employee, in order to allow Buyer
+sufficient time to recruit and to train replacement personnel at
+the Facility; provided, however, that upon Buyer\'s written consent, such
+consent not to be unreasonably withheld, such written notice period may be
+shortened.   Seller Employees shall not become Transferred Employees
+pursuant to Section 8.1(a) hereof, but shall remain or become employees of
+one of the Sellers or their Affiliates. Seller Employees shall remain on the
+payroll of Sellers and be covered by Sellers\' Employee Benefit Plans and
+insurance coverage, including workers compensation, after the Closing. Seller
+Employees shall remain employed at the Facility until the earlier of the date
+Seller Employees are no longer needed upon mutual agreement between Buyer and
+Seller, or the end of the written notice period. If any Seller Employees are
+performing activities or services at the Facility that contribute to the
+operation of the Facility or the manufacture of Enbrel at the Facility, Buyer
+shall reimburse Seller for the full allocated costs associated with the
+Seller Employees after the Closing Date [*].   7.12 ASSIGNMENT OF BUYER
+EMPLOYEES   [*]. In addition, prior to Closing, Buyer may assign one
+or more of its employees to the Facility to ensure the successful transition
+of the business. Buyer may also, after being notified by Sellers of the
+identity of Seller Employees in Section 7.11, hire replacement workers.
+Buyer\'s employees assigned to work at the Facility, and replacement workers
+Buyer hires to work with Seller Employees prior to Closing (collectively
+"Buyer  * Confidential Treatment Requested.    31    Transition
+Employees") shall remain on or be assigned to the payroll of Buyer and shall
+not be covered by Sellers\' Employee Benefit Plans and insurance coverage,
+including workers compensation. If any Buyer Transition Employees
+are performing activities or services at the Facility that contribute to
+the operation of the Facility or the manufacture of Enbrel at the Facility,
+Sellers shall reimburse Buyer for the full allocated costs associated with
+the Buyer Transition Employees prior to the Closing Date [*].   7.13
+TRANSFER OF PERMITS; CONTRACTS .   Before and, to the extent necessary
+after, the Closing, Sellers shall use, and shall cause Greenwich to use,
+commercially reasonable efforts to assist Buyer (without any obligation to
+make any payment of consideration) in effectuating transfer or reissuance of
+Applicable Permits required for operation of the Facility under any
+Environmental Laws or other Applicable Laws and Sellers shall use, and shall
+cause Greenwich to use, commercially reasonable efforts (without any
+obligation to make any payment of consideration) to obtain any necessary
+consents to assignment of the Contracts from Sellers or Greenwich to
+Buyer.   7.14 TAX MATTERS   (a) AHP shall have the exclusive authority and
+obligation to prepare  and execute on behalf of Greenwich and timely file all
+Returns with  respect to Greenwich or the Assets for any taxable period
+ending on or  prior to the Closing Date. Buyer shall have the exclusive
+authority and  obligation to prepare and timely file all Returns with respect
+to  Greenwich or the Assets for all other taxable periods.   (b) AHP shall
+be responsible for the timely payment of all Taxes  imposed on or with
+respect to Greenwich or the Assets for all taxable  periods ending on or
+prior to the Closing Date, including without  limitation (a) any federal
+income Tax liability imposed on Sellers or  Greenwich resulting from the
+Section 338(h)(10) Election, as defined in  Section 7.14(e)(i) below, and (b)
+any state, local, or foreign tax imposed  on Sellers or Greenwich
+attributable to an election under the state, local  or foreign law similar to
+the election available under Section 338(h)(10)  of the Code; provided,
+however, that if a state, local or foreign  jurisdiction does not have
+provisions similar to the election available  under Section 338(h)(10) of the
+Code, Sellers shall be liable for any Tax  based on income imposed on Sellers
+by such state, local and/or foreign  jurisdiction resulting from the
+transaction contemplated by this  Agreement. Buyer shall be responsible for
+the timely payment of all Taxes  imposed on or with respect to Greenwich or
+the Assets for all other  taxable periods, except to the extent otherwise
+expressly set forth  herein. With respect to any taxable period beginning
+before and ending  after the Closing Date (an "Overlap Period"), Taxes shall
+be apportioned  between Sellers and Buyer as follows: (x) in the case of
+Taxes other than  income, sales and use and withholding Taxes, on a per  *
+Confidential Treatment Requested.    32     diem basis; and (y) in the
+case of income, sales and use and withholding  Taxes, as determined as though
+the taxable period ended on the Closing  Date. The parties agree to consult
+in good faith regarding the calculation  of such Taxes and apportionment.  
+(c) Except as otherwise provided in this Section 7.14(c), AHP shall  have the
+exclusive authority to control any audit or examination by any  taxing
+authority, initiate any claim for refund, amend any Return, and  contest,
+resolve and defend against any assessment for additional Taxes,  notice of
+tax deficiency or other adjustment of Taxes ("Tax  Controversies") with
+respect to Greenwich or the Assets for any taxable  period ending on or prior
+to the Closing Date. Buyer shall have the  exclusive authority over Tax
+Controversies with respect to Greenwich or  the Assets for all other taxable
+periods and Tax Controversies which (x)  arise after the Closing Date and (y)
+relate to Taxes for which Buyer has  paid Sellers under Article 2 hereof as
+Net Assets or otherwise..  Notwithstanding the foregoing, with respect to any
+Overlap Period and with  respect to any Tax Controversies that could possibly
+affect the Tax  liability of both (a) Buyer or its Affiliates and (b) one or
+more Sellers  or their Affiliates):   (i) no party shall, without the prior
+written consent of the  other parties, which consent shall not be
+unreasonably  withheld or delayed, enter into any settlement of any  contest
+or otherwise compromise any issue that affects  or may affect the Tax
+liability of the other parties or  any of their Affiliates;   (ii) with
+respect to any Overlap Period, any additional Taxes  determined to be payable
+and any refund of Taxes shall  be apportioned as provided in Section 7.14(b)
+hereof;  and   (iii) the parties agree to consult in good faith regarding
+any  Tax Controversies with respect to Greenwich or the  Assets, including
+to provide each other draft copies of  proposed audit adjustments and other
+documents with  respect to Tax Controversies for review and comment.   (d)
+Notwithstanding anything to the contrary contained in this  Section 7.14,
+Buyer shall be liable for all Taxes (including Taxes arising  from Tax
+Controversies) other than Income Taxes, which constitute either  Facility
+Costs or amounts of Net Assets and shall pay such Taxes to the  appropriate
+taxing authorities or to Sellers in accordance with the  provisions of
+Sections 2.2 or 11.2 hereof, as the case may be.   (e) Section 338(h)(10)
+election.   (i) Sellers represent that they filed a consolidated income 
+tax return with Greenwich for the taxable year  immediately preceding the
+current taxable year and that  Sellers are eligible to make an election under
+section  338(h)(10) of the Code (and any comparable    33     election
+under state, local or foreign law) (the  "338(h)(10) Election") with respect
+to Greenwich.   (ii) Buyer and Sellers shall jointly make an election
+under  section 338(h)(10) of the Code (and any comparable  election under
+state, local or foreign tax law) with  respect to the acquisition of
+Greenwich by Buyer. Buyer  and Sellers shall cooperate fully with each other
+in the  making of such election. Not withstanding any language  contained in
+this Agreement, Sellers and Buyer agree  that for Tax purposes, all monies or
+consideration paid  under this Agreement by Buyer are for the express 
+purpose of purchasing the Shares.   (iii) Buyer shall initially prepare a
+complete IRS Form 8023  (and any comparable forms required to be filed
+under  state, local or foreign tax laws) and any additional  data or
+materials required to be attached to Form 8023  pursuant to the Treasury
+Regulations promulgated under  Section 338 of the Code (the "Section 338
+Forms"). AHP  shall deliver to Buyer, no later than one hundred twenty 
+(120) days prior to the date the Section 338 Forms are  required to be filed,
+such documents and other  information as reasonably requested by Buyer to
+complete  the Section 338 Forms. Buyer shall deliver said forms to  AHP for
+review no later than sixty (60) days prior to  the date the Section 338 Forms
+are required to be filed.  In the event AHP objects to the manner in which
+the  Section 338 Forms have been prepared, AHP shall notify  Buyer within
+thirty (30) days of receipt of the Section  338 Forms of such objection, and
+the parties shall  endeavor within the next fifteen (15) days in good faith 
+to resolve such dispute. If the parties are unable to  resolve such dispute
+within said fifteen (15) day  period, Buyer and AHP shall submit such dispute
+to an  independent accounting firm chosen in the manner  described in
+Section 2.2(e) above (the "Allocation  Arbiter") selected by Buyer and AHP.
+Promptly, but not  later than fifteen (15) days after its acceptance of 
+appointment hereunder, the Allocation Arbiter will  determine (based solely
+on presentations of Buyer and  AHP and not by independent review) only those
+matters in  dispute and will render a written report as to the  disputed
+matters and the resulting preparation of the  Section 338 Forms shall be
+conclusive and binding upon  the parties.    34     ARTICLE VIII  
+AGREEMENTS WITH RESPECT TO EMPLOYEES   AND EMPLOYEE MATTERS   8.1 BUYER\'S
+OBLIGATIONS TO EMPLOYEES.   (a) Effective on the Closing Date, Buyer shall
+be obligated to  continue the employment of all Facility Employees (except
+Seller  Employees) at [*] salary [*] such Facility Employee immediately prior
+to  the Closing Date (hereinafter referred to as "Transferred Employees") 
+(assuming Seller\'s compliance with Section 7.2(c)(ii)), subject to Buyer\'s 
+ability to discontinue employment of Transferred Employees pursuant to 
+Sections 8.1(h) and (l) below. [*]. All Transferred Employees shall be 
+entitled to participate in the benefit plans, programs and arrangements of 
+Buyer on the day after the Closing Date as set forth below.   (b) Buyer
+maintains a defined contribution 401(k) plan on behalf of  its employees
+("Buyer\'s Tax-Deferred Savings Plan"). Buyer agrees that  effective
+immediately after the Closing Date, Buyer shall promptly take  all action
+necessary to extend coverage under Buyer\'s Tax-Deferred Savings  Plan to the
+Transferred Employees who have satisfied such plan\'s  eligibility
+requirements. Buyer shall credit all service completed by  Transferred
+Employees with Greenwich or Sellers, as the case may be, prior  to the
+Closing Date for eligibility and vesting purposes under Buyer\'s  Tax-
+Deferred Savings Plan. Sellers shall amend its defined contribution  401(k)
+savings plan and nonqualified supplemental savings plan ("Sellers\'  Savings
+Plans") to provide that Transferred Employees shall be fully  vested in all
+employer matching contributions as of the Closing Date.  Sellers agree and
+acknowledge that the consummation of the transactions  contemplated by this
+Agreement will result in, and constitute, a  distributable event pursuant to
+Code Section 401(k)(10)(A)(iii) (the  "Distributable Event") with respect to
+Sellers\' Savings Plans for all  Transferred Employees. Buyer\'s Tax-Deferred
+Savings Plan shall accept  elective transfers of distributions of benefits,
+including notes  representing participant\'s loans from Sellers\' Savings
+Plan. Sellers shall  amend its defined benefit pension plan and non-qualified
+supplemental  pension plan ("Sellers\' Retirement Plans") to provide that
+service with  Buyer after the Closing Date shall continue to be credited
+under Sellers\'  Retirement Plans for purposes of vesting and eligibility for
+early  retirement subsidies but not for benefit accrual purposes.
+Transferred  Employees shall not be eligible to commence receipt of
+retirement benefits  under Sellers\' Retirement Plans until they have
+satisfied the age and  service requirements under Sellers\' Retirement Plans
+and terminated  employment with Buyer or any successor thereto.   (c) Buyer
+provides to its employees medical (including prescription  drugs), dental,
+vacation, life insurance, accidental death and  dismemberment, spending
+account plans, short-term disability and long-term  disability benefit plans
+("Buyer\'s Welfare Plans") for its employees; [*].  Immediately after the
+Closing Date, Transferred Employees shall be  eligible to participate in such
+Buyer\'s Welfare Plans in accordance  * Confidential Treatment
+Requested.    35     with the terms of such plans, and employment with
+Sellers or any  predecessor shall be taken into account for purposes of
+determining  eligibility for participation and benefits under such Buyer\'s
+Welfare  Plans; provided, however, the Transferred Employees shall
+participate in  such Buyer\'s Welfare Plans that are core plans provided to
+all Buyer\'s  employees (and not optional or supplemental plans) (i) without
+any waiting  periods, pre-existing condition restrictions or evidence of
+insurability  [*]; and (ii) Buyer shall count claims arising on or prior to
+the Closing  Date, during the calendar year of the Closing, for purposes of
+satisfying  deductibles, out-of-pocket maximums, lifetime maximums, and other
+similar  limitations, and (iii) Transferred Employees shall participate in
+Buyer\'s  vacation plan according to the terms set forth in Section 8.1(g)
+below.  Prior to the Closing Date, according to a schedule agreed upon by
+Sellers  and Buyer, Sellers shall provide Buyer with all of the information 
+necessary to facilitate the Transferred Employees\' participation in 
+Buyer\'s Welfare Plans on the day after the Closing in accordance with the 
+terms of this Agreement, including without limitation information  regarding
+claims arising on or prior to the Closing Date. Sellers and  Buyer shall
+cooperate as necessary after the Closing to ensure that such  information is
+complete and updated.   (d) Sellers maintain a program of medical and life
+insurance  benefits for certain retired employees ("Sellers\' Retiree Benefit
+Plans").  All Transferred Employees who satisfy the eligibility criteria
+for  benefits under Sellers\' Retiree Benefit Plans on or prior to the
+Closing  Date shall be entitled to benefits from Sellers\' Retiree Benefit
+Plans  following termination from Buyer or any successor thereto or its 
+Affiliates, in accordance with the terms of Sellers\' Retiree Benefit  Plans.
+However, Transferred Employees shall not be eligible to receive  medical and
+life insurance benefits under Sellers\' Retiree Benefit Plans  while the
+Transferred Employees are eligible for coverage under Buyer\'s  Welfare
+Benefit Plans. Transferred Employees shall receive primary  coverage under
+Buyer\'s retiree welfare plans, if Buyer institutes any such  plans in the
+future, ("Buyer\'s Retiree Welfare Plans") upon termination of  employment if
+the Transferred Employees are eligible for coverage under  Buyer\'s Retiree
+Welfare Plans, with Sellers\' Retiree Welfare Plans being  responsible for
+secondary coverage. Transferred Employees shall  participate in Buyer\'s
+Retiree Welfare Plans, if any, in accordance with  the terms of such plans
+(but only to the extent Transferred Employees  elect to participate therein)
+and Buyer shall recognize service with  Sellers or its Affiliates or
+predecessors for purposes of Buyer\'s Retiree  Welfare Plans.   (e) Sellers
+agree that any claims for welfare benefits arising on or  before the Closing
+Date with respect to any Transferred Employees (or  their covered dependents
+or beneficiaries) shall be the responsibility of  Sellers, and Buyer agrees
+that any claims arising subsequent to the  Closing Date with respect to any
+Transferred Employees (or their covered  dependents or beneficiaries) shall
+be the responsibility of Buyer. A claim  is deemed to have arisen when the
+event giving rise to the claim occurred  or, with respect to health
+coverages, when the related health services  were rendered. Notwithstanding
+the foregoing, however, a Transferred  Employee\'s claim for long-term
+disability coverage  * Confidential Treatment Requested.    36    
+shall be deemed to have arisen when the initial claim for such disability 
+was submitted if such employee (a) is already on long-term disability 
+coverage on the Closing Date, or (b) is on short-term disability coverage  on
+the Closing Date.   (f) Sellers shall be responsible for any legally-
+mandated  continuation of health care coverage for Facility Employees and/or
+their  covered dependents who have a loss of health care coverage due to a 
+"qualifying event" (as defined in Section 4980B of the Code or any  successor
+thereto and the regulations thereunder) that occurs on or prior  to the
+Closing Date, including any Facility Employee or covered dependent  who is
+receiving health care coverage under COBRA on the Closing Date.  Buyer shall
+be responsible for any legally-mandated continuation of health  care coverage
+for Transferred Employees and/or their covered dependents  who have a loss of
+health coverage due to a qualifying event that occurs  after the Closing Date
+as described in Exhibit F.   (g) Effective as of the Closing Date, all
+service completed by  Transferred Employees with the Sellers, Greenwich or a
+predecessor thereof  on or prior to the Closing Date shall be recognized by
+Buyer for purposes  of determining the Transferred Employees\' [*]. [*].
+Sellers shall, within  a reasonable time prior to Closing, provide Buyer with
+a schedule of  accrued vacation time and completed service for each
+Transferred Employee.   (h) Buyer shall be free to terminate the employment
+of any  Transferred Employee in accordance with Buyer\'s policies and
+practices  generally applicable to all of its employees, as well as
+Applicable Laws.  Buyer shall be responsible for severance liabilities, in
+accordance with  the severance policy set forth in Exhibit F, attached
+hereto, only to  Transferred Employees who meet the following criteria whose
+employment is  terminated by Buyer after the Closing Date:   (i) [*]  
+(ii) [*]   Severance payments hereunder shall include [*]. [*]. Such
+extension  shall represent the first six (6) months of any COBRA
+continuation  coverage.   (i) Sellers maintain spending account plans for
+the benefit of their  employees ("Sellers\' Spending Account Plans"). For a
+period of ninety (90)  days following the Closing Date, Transferred Employees
+who are  participants in Sellers\' Spending Accounts Plans shall be permitted
+to  submit claims for expenses incurred during the plan year on or prior to 
+the Closing Date. At the end of the ninety (90)-day period, Sellers shall 
+cause the account balances remaining in the accounts of Transferred 
+Employees to be transferred in cash to the spending account plans of Buyer 
+("Buyer\'s Spending Account Plans"). Following such transfer, Buyer (or one 
+of its Affiliates) shall be responsible for all liabilities for  Transferred
+Employees under Buyer\'s Spending Account Plans and shall be  * Confidential
+Treatment Requested.    37     entitled to all funds forfeited from
+such plans.   (j) If, after the Closing, a bonus plan established by Sellers
+for  Facility Employees prior to Closing is still in effect, Buyer shall
+assume  liability for payments to Transferred Employees under such bonus plan
+that  have not yet been made as of Closing and shall make all such payments
+in  accordance with the plan. At the conclusion of such bonus plan, Buyer 
+shall then be free to implement a different bonus plan for Transferred 
+Employees.   (k) Buyer shall not have taken any action on the Closing Date
+or  within ninety (90) days on or after the Closing Date the result of
+which  would be to effectuate a "plant closing" or "mass layoff" as those
+terms  are defined in the WARN Act. Buyer shall assume all liabilities
+arising  under any state law related to severance for actions taken on or
+after  Closing.   (l) No provision of this Agreement shall create any third
+party  beneficiary or other rights to any Facility Employee or Transferred 
+Employee (including any beneficiary or dependent thereof) or any other 
+Persons in respect of continued employment with Buyer, with Sellers or any 
+of their Affiliates and no provisions of this Agreement shall create any 
+rights in any such persons in respect of any benefits which may be  provided,
+directly or indirectly, under any benefit plans, programs or  arrangements
+which may be operated or maintained by either Buyers or any  of its
+Affiliates. Notwithstanding anything herein seemingly to the  contrary,
+subject to the provisions of this Article VIII, no provision of  this
+Agreement shall constitute a limitation on the right of Buyer or any  of its
+Affiliates, in its sole discretion, to terminate any Transferred  Employee at
+will, to modify the terms of employment or salary of any  Transferred
+Employee, or to change the terms of any of Buyer\'s Welfare  Plans or other
+employee benefit plans.   (m) [*]   (n) All Transferred Employees shall
+become eligible to enroll in  Buyer\'s employee stock purchase plan during
+the next open enrollment  period following the Closing.   ARTICLE IX.  
+CONDITIONS   9.1. CONDITIONS TO OBLIGATION OF EACH PARTY TO EFFECT
+THE TRANSACTIONS CONTEMPLATED BY THIS AGREEMENT.   The obligation of each
+party to effect the transactions contemplated by this  * Confidential
+Treatment Requested.    38    Agreement shall be subject to the
+fulfillment by such party or written waiver by the other party at or prior to
+the Closing Date of the following conditions:   (a) all governmental and
+other consents and approvals, if any, necessary to permit the consummation of
+the transactions contemplated by this Agreement shall have been obtained and
+any waiting period (and any extension thereof) applicable to the consummation
+of the Agreement under the HSR Act or under other Applicable Laws shall have
+expired or been terminated; and   (b) no preliminary or permanent injunction
+or other order, decree or ruling issued by a court of competent jurisdiction
+or by a Governmental Authority nor any Applicable Law shall be in effect as
+of the Closing Date that would restrain or otherwise prevent the consummation
+of the transactions contemplated by this Agreement.   9.2. CONDITIONS TO
+THE OBLIGATION OF SELLERS.   The obligation of Sellers to effect the
+transactions contemplated by this Agreement is subject to the fulfillment by
+Buyer or written waiver by Sellers at or prior to the Closing Date of the
+following conditions:   (a) Buyer shall have performed in all material
+respects each obligation and agreement and complied in all material respects
+with each covenant to be performed and complied with by it hereunder at or
+prior to the Closing Date, including without limitation Buyer\'s delivery
+obligations as set forth in Section 3.2; and   (b) the representations and
+warranties of Buyer in this Agreement shall be true and correct in all
+material respects as of the Closing Date with the same force and effect as
+though made at such time except (i) for changes expressly permitted by this
+Agreement and (ii) to the extent that any representation and warranty is made
+as of a specified date (other than Signing), in which case such
+representation and warranty shall be true in all material respects as of such
+date and (iii) for results of actions directly or indirectly under the
+authority or supervision of the Plant Manager so long as the Plant Manager is
+an employee of Buyer or its Affiliates; and   (c) Buyer shall have furnished
+to Sellers a certificate, dated as of the Closing Date, signed by a duly
+authorized officer of Buyer to the effect that all conditions set forth in
+Sections 9.2(a) and (b) above have been satisfied.   9.3. CONDITIONS TO THE
+OBLIGATION OF BUYER.   The obligation of Buyer to effect the transactions
+contemplated by this Agreement is subject to the fulfillment by Sellers or
+written waiver by Buyer at or prior to the Closing Date of the following
+conditions:   (a) Sellers shall have performed in all respects each of
+their respective obligations and agreements required by this Agreement to be
+performed or complied with by    39    them prior to or at the
+Closing, including without limitation Sellers\' delivery obligations as set
+forth in Section 3.3;   (b) the representations and warranties of Sellers in
+this Agreement shall be true and correct in all material respects as of the
+Closing Date with the same force and effect as though made at such time
+except (i) for changes expressly permitted by this Agreement and (ii) to the
+extent that any representation and warranty is made as of a specified date
+(other than Signing), in which case such representation and warranty shall be
+true in all material respects as of such date; and   (c) Sellers shall have
+furnished to Buyer a certificate, dated as of the Closing Date, signed by a
+duly authorized officer of each of the Sellers to the effect that all
+conditions set forth in Sections 9.3(a) and (b) above have been
+satisfied.   ARTICLE X.   TERMINATION, AMENDMENT AND WAIVER   10.1
+TERMINATION.   This Agreement may be terminated at any time prior to the
+Closing Date:   (a) without liability on the part of any party hereto
+(unless occasioned by reason of a breach by any party hereto of any of
+its representations, warranties or obligations hereunder) by mutual written
+consent of Buyer and Sellers;   (b) subject to Section 7.3 hereof, by Buyer
+or Sellers if a court of competent jurisdiction, Governmental Authority, or
+other regulatory or administrative agency or commission shall have issued an
+order, decree or ruling or taken any other action, in each case permanently
+restraining, enjoining or otherwise prohibiting the transactions contemplated
+by this Agreement, and such order, decree, ruling or other action shall have
+become final and nonappealable; or   (c) by Buyer or Sellers if the Closing
+has not been consummated by [*]; provided, however, that the right to
+terminate this Agreement under Section 10.1(c) shall not be available to any
+party whose willful failure to fulfill any obligation under this Agreement
+has been the cause of, or resulted in, the failure of the Closing to
+occur.   The date on which this Agreement is terminated pursuant to any
+of the foregoing subsections of this Section 10.1 is herein referred to as
+the "Termination Date."   10.2 EFFECT OF TERMINATION.  * Confidential
+Treatment Requested.    40     Except as set forth in Section 7.2 and
+this Section 10.2 hereof, upon the termination of this Agreement pursuant to
+Section 10.1 above, all further obligations of the parties under this
+Agreement shall terminate without further liability of any party to the
+others, except that nothing herein shall relieve any party from liability for
+breach of any provision of, or for any misrepresentation under this Agreement
+or be deemed to constitute a waiver of any available remedy for any such
+breach or misrepresentation. If this Agreement is terminated by Buyer in
+accordance with Section 10.1, Sellers and Greenwich shall repay all payments
+made by Buyer to a Seller or Greenwich under this Agreement on or before the
+Termination Date. Such repayment shall be made by wire transfer in
+immediately available funds, no later than thirty (30) days after the
+Termination Date, to an account designated in writing by Buyer.   ARTICLE
+XI.   INDEMNIFICATION   11.1 INDEMNIFICATION BY SELLER.   Sellers hereby
+agree to defend, indemnify and hold harmless Buyer, its Affiliates and its
+successors and assigns and their respective officers, directors, employees,
+attorneys, consultants and agents (collectively, the "Buyer Indemnitees")
+from and against any and all losses, deficiencies, liabilities, damages,
+assessments, judgments, costs and expenses, including reasonable attorneys\',
+consultants\', and experts\' fees (collectively, "Buyer Losses"), to the
+extent caused by, resulting from or arising out of:   (a) any breach of a
+representation or warranty hereunder on the part of Greenwich or either or
+both Sellers in this Agreement;   (b) any failure by Greenwich or either or
+both Sellers to perform or otherwise fulfill, any undertaking or other
+agreement or obligation hereunder;   (c) any Excluded Assets and
+Liabilities; and/or   (d) any and all actions, suits, proceedings, claims,
+and demands incident to any of the foregoing or such
+indemnification;  provided, however, that if any claim, liability, demand,
+assessment, action, suit or proceeding shall be asserted against a Buyer
+Indemnitee in respect of which a Buyer Indemnitee proposes to demand
+indemnification ("Buyer Indemnified Claims"), Buyer or such other Buyer
+Indemnitee shall notify Sellers in writing thereof as promptly as
+practicable, provided further, however, that the failure or delay to so
+notify Sellers of such a claim shall not reduce or affect Sellers\'
+obligations with respect thereto except to the extent that Sellers
+are prejudiced thereby. Sellers shall have the right promptly upon receipt of
+such notice to assume the control of the defense, compromise or settlement of
+any such Buyer Indemnified Claims including, at their own expense, employment
+of counsel reasonably satisfactory to Buyer; provided, however, that if
+Sellers shall have exercised their right to assume such control, Buyer may,
+in its sole discretion    41    and at its expense, employ counsel to
+represent it (in addition to counsel employed by Sellers) in any such matter,
+and in such event counsel selected by Sellers shall be required to cooperate
+with such counsel of Buyer, counsel selected by Buyer shall be required to
+cooperate with such counsel of Sellers and each of Buyer and Sellers shall be
+required to cooperate with such other party and its counsel in such defense,
+compromise or settlement. Sellers shall not settle or compromise any Buyer
+Indemnified Claim that does not result in a full release without any
+obligation of Buyer and Buyer Indemnitees without the prior written consent
+of Buyer, which consent shall not be unreasonably withheld or delayed.  
+11.2 INDEMNIFICATION BY BUYER. Buyer hereby agrees to defend, indemnify and
+hold harmless Sellers, their Affiliates and their successors and assigns and
+their respective officers, directors, employees, attorneys, consultants and
+agents (collectively, "Seller Indemnitees") from and against any and all
+losses, deficiencies, liabilities, damages, assessments, judgments, costs and
+expenses, including reasonable attorneys\', consultants\', and experts\' fees
+(collectively, "Sellers Losses"), to the extent caused by, resulting from or
+arising out of:   (a) any breach of a representation or warranty hereunder
+on the part of Buyer in this Agreement;   (b) any failure by Buyer to
+perform or otherwise fulfill, in whole or in part, any undertaking or
+agreement or obligation hereunder; and/or   (c) any and all actions, suits,
+proceedings, claims and demands incident to any of the foregoing or such
+indemnification.  provided, however, that if any claim, liability, demand,
+assessment, action, suit or proceeding shall be asserted in respect of which
+a Seller Indemnitee proposes to demand indemnification ("Sellers Indemnified
+Claims"), Sellers or such other Seller Indemnitee shall notify Buyer in
+writing thereof as promptly as practicable, provided further, however, that
+the failure or delay to so notify Buyer of such a claim shall not reduce or
+affect Buyer\'s obligations with respect thereto except to the extent that
+Buyer is prejudiced thereby. Buyer shall have the right promptly upon receipt
+of such notice to assume the control of the defense, compromise or settlement
+of any such Sellers Indemnified Claims including, at its own expense,
+employment of counsel reasonably satisfactory to Sellers; provided, however,
+that if Buyer shall have exercised its right to assume such control, Sellers
+may, in their sole discretion and at their expense, employ counsel to
+represent them (in addition to counsel employed by Buyer) in any such matter,
+and in such event counsel selected by Sellers shall be required to cooperate
+with such counsel of Buyer, counsel of Buyer shall be required to cooperate
+with counsel of Sellers and each of Buyer and Sellers shall be required to
+cooperate with such other party and its counsel in such defense, compromise
+or settlement. Buyer shall not settle or compromise any Sellers Indemnified
+Claim that does not result in a full release without any obligation of
+Sellers and Seller Indemnitees without the prior written consent of
+Sellers, which consent shall not be unreasonably withheld or delayed.  
+11.3 CERTAIN LIMITATIONS.    42     (a) Other than Sellers\' obligation
+to indemnify for Buyer Losses  under Section 11.1(a) of this Agreement
+arising out of a breach of  representation or warranty contained in Section
+4.2 (capitalization) or  Section 4.12 (brokers), Sellers\' obligation to
+indemnify for Buyer Losses  under Section 11.1(a) of this Agreement shall not
+accrue until the  aggregate of all such Buyer Losses exceeds [*] Dollars
+($[*]) (the "Loss  Threshold") and then Sellers shall be liable for all such
+Buyer Losses in  excess of such initial $[*] and shall be limited to [*]
+Dollars ($[*]) in  the aggregate. There shall be no Loss Threshold or limit
+on liability with  respect to Sellers\' obligations to indemnify under
+Sections 11.1(b)  through (d).   (b) In no event shall any punitive,
+exemplary, special, indirect,  incidental or consequential damages whatsoever
+be recoverable by any  indemnitee under Article 11 hereof; except that, if
+punitive, exemplary,  special, indirect, incidental or consequential damages
+have been asserted  by a third party against a Seller Indemnitee or Buyer
+Indemnitee, the  indemnifying party shall be liable therefor under the
+provisions of this  Article 11.   (c) Any payment required under this
+Article 11 paid to any Buyer  Indemnitee or any Seller Indemnitee, as the
+case may be, shall be treated  by the Buyer and the Sellers as an adjustment
+of the Purchase Price;  provided, however, that no Buyer Losses indemnified
+hereunder shall be  considered payment by Sellers for Net Assets or Facility
+Costs, and Buyer  shall have no obligation to pay any amounts to Sellers
+under Article 2  with respect to such Buyer Losses.   (d) This Article 11
+sets forth the exclusive rights and remedies of  Buyer and Sellers for breach
+of this Agreement or any of the transactions  contemplated hereby, including,
+without limitation, the right to obtain  compensation or otherwise seek
+indemnity pursuant to any cause of action  including, but not limited to, a
+claim for breach of contract, for any  loss directly or indirectly related to
+the Facility, including without  limitation, any Buyer Losses or Sellers
+Losses, but without prejudice to  the right of any party hereto to seek
+specific performance of the other  party\'s obligations hereunder.  
+ARTICLE XII.   GENERAL PROVISIONS   12.1 SURVIVAL OF REPRESENTATIONS AND
+WARRANTIES.   The covenants contained in this Agreement shall survive the
+Closing Date without limitation except as expressly set forth herein.
+The representations and warranties contained herein shall survive the Closing
+Date for a period of [*], except for (i) the representations and warranties
+contained in Section 4.15 (taxes), which shall survive until the expiration
+of the applicable statute of limitations, and (ii) the representations and
+warranties contained in Sections 4.2 (capitalization), 4.3 (corporate
+authority), 4.12 (brokers and intermediaries), 5.2 (corporate  *
+Confidential Treatment Requested.    43    authority) and 5.5 (brokers
+and intermediaries), which shall survive the Closing Date without limitation.
+Buyer\'s and Sellers\' right to make a claim for indemnification under
+Section 11.1(a) or Section 11.2(a), respectively for a breach of any
+representation or warranty expires upon the expiration of the applicable
+period set forth above, it being understood that claims made on or prior to
+such expiration date shall survive such expiration date.   12.2 COOPERATION.
+Each of the parties hereto shall use commercially reasonable efforts to take
+or cause to be taken all actions, to cooperate with the other party hereto,
+with respect to all actions, and to do, or cause to be done all things
+necessary, proper or advisable to consummate and make effective the
+transactions contemplated by this Agreement.   12.3 WAIVER. Any failure of
+Sellers to comply with any of their obligations or agreements herein
+contained may be waived only in writing by Buyer. Any failure of Buyer to
+comply with any of its obligations or agreements herein contained may be
+waived only in writing by Sellers.   12.4 NOTICES. All notices and other
+communications hereunder shall be in writing and shall be deemed to have been
+duly given upon receipt of: hand delivery; certified or registered mail,
+return receipt requested; or telefax transmission with confirmation of
+receipt:   (a) If to Sellers, to:   American Home Products Corporation 
+Five Giralda Farms  Madison, New Jersey 07940  Telefax: (973) 660-7156 
+Telephone: (973) 660-5000   Attention: General Counsel   (b) If to Buyer,
+to   Immunex Corporation  51 University Avenue  Seattle, Washington
+98101  Attention: General Counsel  Telefax: (206) 292-9271  Telephone:
+(206) 587-0430  Such names and addresses may be changed by written notice to
+each person listed above.   12.5 GOVERNING LAW AND CONSENT TO
+JURISDICTION.   (a) This Agreement shall be governed by and construed in
+accordance  with the internal substantive laws and not the choice of law
+rules of the  State of New York.    44     (b) Any judicial proceeding
+brought with respect to this Agreement  must be brought in any court of
+competent jurisdiction in (i) if brought  by Buyer, in the State of New York
+and (ii) if brought by any Seller, in  the State of Washington. By execution
+and delivery of this Agreement, each  party (x) accepts, generally and
+unconditionally, the exclusive  jurisdiction of such courts and any related
+appellate court, and  irrevocably agrees to be bound by any judgment rendered
+thereby in  connection with this Agreement and (y) irrevocably waives any
+objection it  may now or hereafter have as to the venue of any such suit,
+action or  proceeding brought in such a court or that such court is an
+inconvenient  forum.   THE PARTIES HEREBY WAIVE TRIAL BY JURY IN ANY
+JUDICIAL PROCEEDING TO WHICH THEY ARE BOTH PARTIES INVOLVING, DIRECTLY OR
+INDIRECTLY, ANY MATTER IN ANY WAY ARISING OUT OF, RELATED TO, OR CONNECTED
+WITH THIS AGREEMENT.   12.6 COUNTERPARTS. This Agreement may be executed
+simultaneously in two (2) or more counterparts, each of which shall be deemed
+an original but all of which together shall constitute one and the same
+instrument.   12.7 HEADINGS. The section headings contained in this
+Agreement are for reference purposes only and shall not affect in any way the
+meaning or interpretation of this Agreement.   12.8 ENTIRE AGREEMENT. This
+Agreement, including the Schedules and Exhibits hereto and the documents
+referred to herein, embodies the entire agreement and understanding of the
+parties hereto in respect of the subject matter contained herein. This
+Agreement supersedes all prior agreements and understandings between the
+parties with respect to such subject matter, including, without limitation,
+the MOU.   12.9 AMENDMENT AND MODIFICATION. This Agreement may be amended
+or modified only by written agreement of the parties hereto.   12.10
+BINDING EFFECT; BENEFITS. This Agreement shall inure to the benefit of and be
+binding upon the parties hereto and their respective successors and assigns;
+nothing in this Agreement, express or implied, is intended to confer on any
+Person other than the parties hereto and their respective successors and
+assigns (and, to the extent provided in Sections 11.1 and 11.2, the other
+Buyer Indemnitees and Seller Indemnitees) any rights, remedies, obligations
+or liabilities under or by reason of this Agreement.   12.11 ASSIGNABILITY.
+This Agreement and the rights and obligations hereunder shall not be
+assignable or transferable by the Buyer or the Sellers without the prior
+written consent of the other party hereto; provided, however, that either
+party may assign its rights and obligations hereunder, without the prior
+written consent of the other party, to an Affiliate of such party or to
+a successor of the assigning party\'s business by reason of merger,   
+45    sale of all or substantially all of its assets, or other form of
+acquisition; provided that such successor agrees in writing to be bound by
+this Agreement, and provided further, however, that no assignment shall limit
+or affect the assignor\'s obligations hereunder. Any attempted assignment in
+violation of this Section 12.11 shall be void.   12.12 SELLERS\'
+KNOWLEDGE.   When "to the knowledge of Sellers" or similar phrase is used
+herein it shall refer to (a) the actual knowledge of any employee of Sellers
+and the actual knowledge of the individuals employed by Affiliates of Sellers
+contained in Section 12.12 of the Disclosure Schedule after reasonable
+investigation of such matters.   12.13 SEVERABILITY.   If any provision
+of this Agreement is held to be invalid or unenforceable by a court of
+competent jurisdiction, all other provisions shall continue in full force and
+effect.   12.14 The Parties shall be entitled to specific performance of
+the payment terms of this Agreement and the transfer of the Shares,
+respectively, in addition to any other remedy at law or equity.   
+46     IN WITNESS WHEREOF, the parties hereto have caused this Agreement
+to be executed as of the date first written above.   AMERICAN HOME PRODUCTS
+CORPORATION   By: /s/ Kenneth J. Martin 
+-------------------------------------  Name: Kenneth J. Martin  Title:
+Senior Vice President Finance    AHP SUBSIDIARY HOLDING CORPORATION   By:
+/s/ Timothy T. Slater  -------------------------------------  Name: Timothy
+T. Slater  Title: Vice President and  Assistant Secretary    IMMUNEX
+CORPORATION   By: /s/ David A. Mann 
+-------------------------------------  Name: David A. Mann  Title: Executive
+Vice President and  Chief Financial Officer    47    '
+

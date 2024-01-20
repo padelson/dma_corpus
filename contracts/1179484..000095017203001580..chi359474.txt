@@ -1,0 +1,1110 @@
+ EXHIBIT 10.1   EXHIBIT
+10.1   =============================================================================     
+AMENDED SHARE PURCHASE AGREEMENT     BETWEEN     COMDISCO FACTORING
+(NEDERLAND) B.V.   AND   COMPRENDIUM INVESTMENT (DEUTSCHLAND)
+GMBH           =============================================================================   ARTICLE
+I DEFINITIONS.....................................................  1.1
+Definitions................................................. ARTICLE II SALE
+AND PURCHASE OF THE SHARES................................  2.1 Sale and
+Purchase...........................................  2.2 Purchase
+Price..............................................  2.3 Payments in Relation
+to the Contracts....................... ARTICLE III CONDITIONS; FURTHER
+ASSURANCES................................  3.1 Seller\'s
+Covenants..........................................  3.2 Purchaser\'s
+Covenants.......................................  3.3 (Intentionally left
+blank)..................................  3.4
+Publicity...................................................  3.5 Further
+Assurances by the Parties...........................  3.6 Title
+Covenant.............................................. ARTICLE IV
+REPRESENTATIONS AND WARRANTIES OF SELLER.......................  4.1 General
+Warranty............................................  4.2 Due Incorporation
+of Seller.................................  4.3 Due Incorporation of
+Seller\'s Guarantor.....................  4.4 Due Incorporation of the
+Company............................  4.5
+Ownership...................................................  4.6
+Capitalization..............................................  4.7 Authority;
+Validity of Agreement............................  4.8 Execution; Validity of
+Agreement............................  4.9 Consent and
+Approvals.......................................  4.10 Public
+Law..................................................  4.11 Financial
+Statements, Accounts..............................  4.12 No Undisclosed
+Liabilities..................................  4.13 Events Since the Balance
+Sheet Date ........................  4.14 Title to Properties;
+Encumbrances...........................  4.15 Contracts and
+Commitments...................................  4.16 Change of
+Control...........................................  4.17 Intellectual
+Property.......................................  4.18 Employees and Employee
+Benefits.............................  4.19
+Litigation..................................................  4.20
+Insurance...................................................  4.21 No Other
+Representations or Warranties...................... ARTICLE V REPRESENTATIONS
+AND WARRANTIES OF PURCHASER.....................  5.1 Power, Authority and
+Consents...............................  5.2 Due Incorporation of Purchaser
+and Purchaser\'s Guarantor....  5.3 Due
+Authorization........................................... ARTICLE VI
+COVENANTS......................................................  6.1
+Cooperation after Closing...................................  6.2 Reasonable
+Inspection after Closing.........................  6.3
+Software....................................................  6.4 Comdisco
+Trademark..........................................  6.5
+Confidentiality............................................. ARTICLE VII
+(Intentionally left blank).................................... ARTICLE VIII
+REMEDIES, LIMITATIONS ON LIABILITY...........................  8.1 Exclusion
+of Certain Provisions.............................  8.2 Sole and Exclusive
+Remedy...................................  8.3 Purchaser\'s
+Rights..........................................  8.4 Special
+Indemnification.....................................  8.5 Exclusion of
+Liability......................................  8.6 Further Limitations on
+Liability............................  8.7 Indemnification
+Proceedings.................................  8.8 Change of
+Law...............................................  8.9 Purchaser\'s
+Knowledge.......................................  8.10 Seller\'s
+Rights.............................................  8.11 Tax
+Indemnification.........................................  8.12 Tax
+Indemnification Procedures..............................  8.13 Assistance and
+Cooperation Related to Taxes................. ARTICLE IX
+MISCELLANEOUS..................................................  9.1
+(Intentionally left blank)..................................  9.2
+Expenses....................................................  9.3
+Amendment...................................................  9.4
+Notices.....................................................  9.5
+Waivers.....................................................  9.6
+Interpretation..............................................  9.7 Governing
+Law, Arbitration..................................  9.8
+Assignment..................................................  9.9 No Third
+Party Beneficiaries................................  9.10 Further
+Assurances..........................................  9.11
+Severability................................................  9.12 Entire
+Understanding........................................      AMENDED SHARE
+PURCHASE AGREEMENT    THIS AMENDED SHARE PURCHASE AGREEMENT is made by and
+between COMDISCO FACTORING (NEDERLAND) B.V., a corporation duly established
+and validly existing under the laws of The Netherlands, with its corporate
+seat in Strawinskylaan 3105 7e etage, 1077 ZX Amsterdam, The Netherlands
+and registered with the Chamber of Commerce for Amsterdam under number
+33213969 (the "Seller") and COMPRENDIUM INVESTMENT (DEUTSCHLAND) GMBH
+(formerly FRANZISKA 2002 VERMOGENSVERWALTUNG GMBH, a limited liability
+company duly established and validly existing under the laws of Germany, with
+its corporate seat in Munich, Germany (the "Purchaser"). Certain capitalized
+terms used herein are defined in Article I.     W I T N E S S E T
+H:     WHEREAS, the Seller\'s group is engaged in the business of
+leasing and providing remarketing services for distributed computing systems
+(servers, workstations, personal computers, local area networks and other
+high technology equipment);     WHEREAS, Comprendium Leasing
+(Deutschland) GmbH, formerly known as Comdisco Deutschland GmbH, is a limited
+liability company (Gesellschaft mit beschrankter Haftung) duly established
+and validly existing under the laws of Germany with its corporate seat in
+Oskar-Messter-Strabe 24, 85737 Ismaning/Munchen, Germany and registered with
+the commercial register of the Amtsgericht Munchen under HRB 96654 (the
+"Company"). The stated share capital of the Company amounts to DEM 51,100,000
+(fifty one million one hundred thousand);     WHEREAS, Seller is the
+legal and beneficial owner of five share quotas in the company with an
+aggregate nominal value of DEM 51,100,000 (fifty one million one hundred
+thousand) divided into share quotas with a nominal value of DEM 50,000,000
+(fifty million), DEM 1,000,000 (one million), DEM 80,000 (eighty thousand),
+DEM 10,000 (ten thousand) and DEM 10,000 (ten thousand), respectively (the
+"Shares"). The stated share capital of the Company is fully paid in;    
+WHEREAS, Seller and Purchaser have the mutual understanding that the Purchase
+Price shall exclusively be based (i) on US-GAAP book values and (ii) the
+legal, financial and factual condition of the Company as disclosed in the
+Data Room Documents, except as expressly set forth in this Agreement,
+and that there shall be no guarantee, representation or other form of
+statement with respect to the profitability or the value of the Company
+except as expressly set forth in this Agreement;     WHEREAS, subject to
+the terms and conditions set forth in this Agreement, Seller desires to sell
+all of its rights, title and interest in the Shares and Purchaser desires to
+purchase such rights, title and interest in the Shares from Seller.    
+NOW, THEREFORE, the parties agree as follows:   ARTICLE I  
+DEFINITIONS   1.1. Definitions. The following terms shall have the
+following meanings for the purposes of this Agreement:       ~~
+ "Accounts" shall have the meaning set forth in Section
+4.11(a);  "Affiliate" shall mean an entity in which Seller\'s or
+Purchaser\'s  Guarantor holds, directly or indirectly, more than 50%  of the
+shares and effectively controls more than 50% of  the voting
+rights;  "Agreement" shall mean this Amended Share Purchase Agreement, 
+including all Schedules hereto;  "Balance Sheet Date" shall have the meaning
+set forth in Section 4.13;  "Bank" shall mean ABN AMRO and
+affiliates;  "Basket" shall have the meaning set forth in Section
+8.6(a)(i);  "Betapulse Documents" shall have the meaning set forth in
+Section 3.6;  "Betapulse Share" shall have the meaning set forth in Section
+3.6;  "Business Day" shall mean any day of the year other than (i) any 
+Saturday or Sunday or (ii) any other day on which banks  located in Munich,
+Germany generally are closed for  business; "Cap" shall have the meaning set
+forth in  Section 8.6(a)(ii);  "Closing" shall mean the obligation of the
+parties to consummate  the transactions contemplated in this
+Agreement;  "Closing Date" shall mean the date on which the Closing occurs
+or is to  occur as set forth in Section 2.1(a);  "Closing Memorandum" shall
+mean the closing memorandum between Comdisco  Factoring (Nederland) B.V. and
+Franziska 2002  Vermogensverwaltung GmbH dated 29 April 2003, including  all
+Schedules and Annexes thereto;  "Chapter 11 Case" shall mean that Seller\'s
+ultimate parent company, along  with certain of its affiliates, has filed a
+voluntary  petition for relief commencing a case under Chapter 11  of Title
+11 of the United States Code, 11  U.S.C.ss.ss.101 et seq., as amended
+("Chapter 11"), in  the United States Bankruptcy Court for the Northern 
+District of Illinois; Comdisco Holding Company, Inc., as  successor company
+to Seller\'s ultimate parent company,  emerged from bankruptcy under a
+confirmed plan of  reorganization ("Plan") that became effective on August 
+12, 2002; Comdisco Holding Company, Inc.\'s business  purpose under the Plan
+is limited to the orderly sale or  run-off of all its remaining
+assets;  "Comdisco Trademark" shall have the meaning set forth in Section
+6.4;  "Company" shall have the meaning set forth in the recitals to this 
+Agreement;  "Contract" shall mean an agreement listed in Schedule 2.3(a) 
+including any amendment, replacement, novation or other  alteration of such
+agreement;  "Cure Period" shall have the meaning set forth in Section
+8.7(b);  "Data Room" shall mean the data room put together by the Seller
+for  purposes of providing potential investors with  information about the
+Company, which data room was  located at Carl-Zeiss Ring 5, 85737
+Ismaning/Munchen,  Germany, access to which was granted to the Purchaser, 
+the Bank and their respective advisors;  "Data Room Documents" shall mean
+(i) all the documents, including - without  limitation - the Accounts, which
+were made available to  the Purchaser, the Bank and their respective advisors
+in  the Data Room, as listed in the data room index attached  hereto as
+Schedule A/I and (a) sealed by Skadden and  Linklaters and stored by Dr. Paul
+Thalmann, Reichlin and  Hess, Hofstr. 1a, CH-6300 Zug, and (b) delivered to
+the  Purchaser and the Seller, respectively in their full  text on the date
+of this Agreement; and (ii) all other  documentation made available to the
+Purchaser, the Bank  and their respective advisors prior to the Closing
+Date  and attached hereto as Schedule A/II. In the event of a  dispute as to
+whether or not a document has been  disclosed in the Data Room, the set of
+documents sealed  by Skadden and Linklaters and stored by Dr. Paul  Thalmann
+shall be authoritative and the fact that a  document is contained in such set
+shall be deemed  conclusive evidence of its disclosure to the Purchaser; 
+(Numbers preceded by the symbol) "DEM" shall mean  amounts in Deutsche
+Mark;  "Discount Amount" shall mean, in relation to each Contract, (a) the 
+difference between the Full Contract Value and the Full  Early Termination
+Fee, as measured on the Termination  Date; less (b) the amount equivalent to
+70% of the  resale value (minus remarketing costs) of the equipment 
+returned by a customer under a Contract;   (Numbers preceded by the symbol)
+"(euro)" shall mean amounts in Euros;  "Early Termination" shall mean the
+final, irrevocable termination by a  customer, as such term is defined in a
+Contract, after  the Closing Date and prior to the end of the contractual 
+period of any one of the Contracts in accordance with  the early termination
+provision of such Contract; for  purposes of this Agreement and the Closing
+Memorandum, a  termination of a Contract other than by a customer, as  such
+term is defined in a Contract, and other than in  accordance with the early
+termination provision of such  Contract shall not constitute and shall under
+no  circumstances be deemed to constitute an Early  Termination of a
+Contract;  "Full Contract Value" shall mean, in relation to each Contract,
+the amount  that is derived if when calculating the Full Early  Termination
+Fee the number "89%" is replaced with "100%"  in the Termination Fee Formula,
+but all other variables  are kept the same;  "Full Early Termination Fee"
+shall mean the amount that a customer, as such term is  defined in the
+Contract, must pay to the Company in the  event of an Early Termination,
+calculated in accordance  with the Termination Fee Formula;  "Governmental
+Authority" shall mean the government of the United States or any  foreign
+country or any state or political subdivision  thereof and any entity, body
+or authority exercising  executive, legislative, judicial, regulatory or 
+administrative functions of or pertaining to a  government, including quasi-
+governmental entities  established to perform such functions; "HGB-
+Accounts"  shall have the meaning set forth in Section 4.11(a); 
+"Information Memorandum" shall mean the information  memorandum dated May
+2002 prepared by Goldman Sachs and  provided to the Purchaser in connection
+with the  transaction contemplated by this Agreement;  "Inter-Company
+Payables" shall have the meaning set  forth in Section 2.2(a); "Material
+Adverse Change" shall  mean any change (or series of related changes) that, 
+individually or in the aggregate, has resulted in, or is  reasonably likely
+to result in the future, a material  adverse change in the business,
+financial condition, or  results of operations of the Company, which shall
+not be  deemed to have occurred unless such adverse change  results in a
+Material Adverse Effect; "Material Adverse  Effect" means a material adverse
+effect on the business  of the Company, financial condition, or results of 
+operations of the Company or on the ability of the  Company to perform its
+obligations under this Agreement;  "Payment" shall mean any one of the
+payments set forth  in Section 2.3(a)(i) through (iv);  "Payment Date"
+shall mean any one of the payment dates set forth in  Section 2.3(a)(i)
+through (iv);  "Post Signing Disclosure" shall mean any additional fact
+disclosed to Purchaser by  Seller by written notice at any time no later
+two  Business Days before Closing; "Pre-Closing Periods"  shall have the
+meaning set forth in Section 8.11(a);  "Pre-Closing Taxes" shall have the
+meaning set forth in Section 8.11(a);  "Purchase Price" shall have the
+meaning set forth in Section 2.2;  "Purchaser" shall have the meaning set
+forth in the recitals to this  Agreement;  "Purchaser\'s Group" shall mean
+the Purchaser\'s Guarantor and its Affiliates;  "Purchaser\'s Guarantor"
+shall mean Comprendium Investment S.A.  "Seller" shall have the meaning set
+forth in the recitals to this  Agreement;  "Seller\'s Group" shall mean
+Comdisco Global Holding Company, Inc. and its  Affiliates, other than the
+Company;  "Seller\'s Guarantor" shall mean Comdisco Global Holding Company,
+Inc., whose  corporate seat is at 60018 Rosemont, 6111 North River  Road,
+Illinois, USA;  "Shares" shall have the meaning set forth in the recitals to
+this  Agreement;  "Signing" shall mean February 27, 2003;  "Tax Accruals"
+shall have the meaning set forth in Section 8.11(c);  "Tax Claim" shall have
+the meaning set forth in Section 8.11(b);  "Termination Date" shall mean the
+date on which a Contract has been  terminated by a customer, as such term is
+defined in a  Contract, after the Closing Date and in accordance with  the
+early termination provision of such Contract, and  either (i) the Company,
+the Purchaser or any of their  affiliates has received, in full (or, in case
+the  customer goes bankrupt, has an acknowledged claim  against the
+bankruptcy estate of the customer), from the  customer, as such term is
+defined in the Contract, the  Full Early Termination Fee due and payable as a
+result  of the Early Termination; and the Company has used  reasonable best
+efforts to obtain the equipment, to the  extent not acquired by a bona fide
+purchaser; or (ii)  the Company has received a court order holding or 
+implying that the customer has not complied with its  obligation under the
+early termination clause;  "Termination Fee Formula" shall mean the formula
+set forth in each Contract used  to calculate the amount that a customer, as
+such term is  defined in the Contract, must pay to the Company in the  event
+of an Early Termination;  "Trademark" shall mean U.S. and foreign registered
+and unregistered  trademarks, service marks, logos, trade names, corporate 
+names and all registrations and applications to register  the same;  "US-
+GAAP" shall mean United States Generally Accepted Accounting 
+Principles;  "US-GAAP-Accounts" shall have the meaning set forth in Section
+4.11(a);  "Waiver Letters" shall have the meaning set forth in Section
+2.2(a);  "Warranty Date" shall have the meaning set forth in Article
+IV.      ARTICLE II   SALE AND PURCHASE OF THE SHARES   2.1. Sale and
+Purchase.   (a) Seller hereby sells to the Purchaser and Purchaser
+hereby purchases from the Seller all rights, title and interest in the Shares
+with all the rights (including the right to any undistributed profits at
+the Closing Date) and obligations attached or accruing to such Shares at
+the Closing Date. The Shares, with the exception of the Betapulse Share,
+shall be transferred at the Closing. As soon as practicable after the Closing
+Date, Seller shall transfer to the Purchaser and Purchaser shall accept from
+the Seller all rights, title and interest in the Betapulse Share with all
+the rights and obligations attached or accruing to the Betapulse Share at
+such date.   (b) (Intentionally left blank).   2.2. Purchase Price.  
+(a) At the Closing Date and in consideration for the Shares (including, for
+the avoidance of doubt, the Betapulse Share), Purchaser shall pay (euro)
+42,114,000 (Euro forty two million one hundred forty thousand) (plus interest
+for the period starting on January 1, 2003 up to the Closing Date at a rate
+of 4.569% (four point five six nine per cent)) in the amount of (euro)
+641,000 (Euro six hundred forty one thousand) (the "Purchase Price"). The
+Purchase Price shall be paid by transfer of immediately available funds
+to the Seller\'s account at ABN AMRO Bank NV, Amsterdam, account name
+Comdisco Factoring (Nederland) B.V., account number 54.02.31.746, bank SWIFT
+code ABNANL2A. The parties acknowledge and agree that the Purchase Price is
+fair and determined on the basis of the US-GAAP book value of the Company\'s
+net assets as of December 31, 2002 in accordance with the method of
+determination (e.g. adjustments) accepted by the parties for the time period
+between December 31, 2002 and the Closing Date. Purchaser hereby expressly
+waives any and all claims he may have relating to the determination of the
+Purchase Price; Purchaser further acknowledges that it has independently
+verified the nature, legal status and amount of inter-company payables,
+insofar as they are disclosed in the documents attached hereto (Schedule 2.1)
+(the "Inter-Company Payables"), and hereby expressly waives, subject to and
+effective as of the Closing, any and all claims it and/or the Company have
+had have (now or in the future) against the Seller and/or any member of the
+Seller\'s Group relating to the Inter-Company Payables or any other
+obligations between the Company and the Seller\'s Group provided, however,
+that such obligations or at least the basis for such obligations are already
+existing at the Closing Date. At Closing Date, Seller will deliver to
+purchaser declarations of the Seller and of all relevant creditors in the
+Seller\'s Group (the "Waiver Letters") by which it and any such creditor
+waive, subject to and effective as of the Closing, any and all claims the
+Seller or any such creditor has had or has against the Company relating to
+the Inter-Company Payables or any other obligations between the Company and
+the Seller or any such creditor, apart from obligations set forth in this
+Agreement and provided, however, that such obligations or at least the basis
+for such obligations are already existing at the Closing Date.   (b) Seller
+shall not be obligated to transfer the Shares unless it receives written
+confirmation from ABN AMRO Bank NV that the full amount of the Purchase Price
+and all other payments as described in more detail in the Closing Memorandum
+(with the exception of the payments provided for in Section 2.3(a)) have been
+received and credited to its account.   2.3 Payments in Relation to the
+Contracts.   (a) Purchaser has serious doubts that the Contracts are likely
+to perform in the foreseeable future. Notwithstanding this fact and subject
+to the terms of this Section 2.3, Purchaser will pay to an account designated
+by the Seller (i) on or prior to the first anniversary of the Closing Date,
+the amount of (euro) 9,544,250.00 (Euro nine million five hundred fourty-four
+thousand two hundred fifty), (ii) on or prior to the second anniversary of
+the Closing Date, the amount of (euro) 9,544,250.00 (Euro nine million five
+hundred fourty-four thousand two hundred fifty), (iii) on or prior to the
+third anniversary of the Closing Date, the amount of (euro) 9,544,250.00
+(Euro nine million five hundred fourty-four thousand two hundred fifty) and
+(iv) on or prior to the fifth Business Day of the 43rd (forty third) month
+following the Closing Date, the amount of (euro) 9,544,250.00 (Euro nine
+million five hundred fourty-four thousand two hundred fifty) (each a
+"Payment", and each date specified in Section 2.3(a) (i) through (iv) a
+"Payment Date").   (b) If and to the extent any Contract is terminated by a
+customer, as such term is defined in a Contract, in whole or in part in
+accordance with the section headed "Early Termination" in the Contract within
+a period of 42 months following the Closing Date and either (i) the Company,
+the Purchaser or any of their Affiliates has received, in full (or, in case
+the customer goes bankrupt, has an acknowledged claim against the bankruptcy
+estate of the customer), from the customer, as such term is defined in the
+Contract, the Full Early Termination Fee due and payable as a result of the
+Early Termination; and the Company has used reasonable best efforts to obtain
+the equipment, to the extent not acquired by a bona fide purchaser; or (ii)
+the Company has received a court order holding or implying that the customer
+has not complied with its obligation under the early termination clause; and
+neither the Company nor the Purchaser nor the Purchaser\'s Guarantor (or any
+of their respective Affiliates or subsidiaries) nor the Bank has entered into
+any new agreement, modified an existing agreement or entered into a new
+business relationship with such customer, the amounts listed under Section
+2.3(a) (i) through (iv) above shall be adjusted as follows: In the event of
+an Early Termination (or Early Terminations), the next Future Payment
+occurring on a Payment Date after the Termination Date (or Termination Dates)
+shall be reduced in an amount equivalent to the Discount Amount (or Discount
+Amounts) and if the Discount Amount (or sum of Discount Amounts) is greater
+than such next Future Payment, then such Future Payment shall be reduced to
+zero and the difference shall be applied to the following Future Payments
+sequentially until the Future Payments have all been reduced to zero. For the
+avoidance of doubt, a Discount Amount shall only be applied to Future
+Payments and nothing contained herein shall entitle the Purchaser to seek a
+refund of Payments made prior to the Termination Date, even if the Discount
+Amount is greater than the sum total of the Future Payments.   (c) Once a
+Contract has been terminated by a customer, as such term is defined in a
+Contract, in whole or in part in accordance with the section headed "Early
+Termination" in the Contract, neither the Company, nor the Purchaser, nor the
+Purchaser\'s Guarantor (or any of their respective affiliates or
+subsidiaries) may sell or lease any of the equipment back to the customer for
+a period of 90 days from the date the Company has received the Full Early
+Termination Fee without the prior written approval of the Seller, such
+approval not to be unreasonably withheld.   (d) On each of the Payment
+Dates, Purchaser shall transfer the specified amounts in immediately
+available funds to an account designated by the Seller in writing at least
+five Business Days prior to the Payment Date (free of any bank charges or
+other costs to Seller) which amounts shall be received in full and fully
+credited to such account by the close of business on each respective Payment
+Date at the latest.   (e) If the Purchaser fails to make any Payment,
+subject to Section 2.3(b), on a Payment Date, Purchaser shall pay interest on
+such amount from the respective Payment Date up to the date of actual payment
+at an interest rate of 10.5% (ten point five per cent) per annum.   (f)
+Notwithstanding any law, rule or regulation to the contrary, Purchaser hereby
+expressly waives (i) any right to set-off any of its payment obligations
+under this Agreement against any claims it may have (now or in the future)
+against the Seller and (ii) any retention rights it may have (now or in the
+future) against the Seller unless Purchaser\'s claim (i) has been
+acknowledged by Seller, (ii) is an indemnity claim under Section 8.4 or the
+tax indemnity provided that the Company is obliged to pay under
+an enforceable (vollstreckbar) title or (iii) has been awarded in
+arbitration proceedings pursuant to Section 9.7.    ARTICLE III  
+CONDITIONS; FURTHER ASSURANCES   3.1 Seller\'s Covenants. From Signing until
+Closing the Seller shall cause the Company to, other than in connection with,
+or as a result of, the transactions contemplated by this Agreement or as
+otherwise consented to by the Purchaser (in particular, without limitation,
+all actions taken by the Company at the Closing, as described in more detail
+in the Closing Memorandum), which consent shall not be unreasonably withheld,
+delayed or conditioned:   (a) conduct its business in the ordinary course
+and not take any action that has a Material Adverse Effect;   (b) not enter
+into, renew, amend, terminate or extend any contracts other than in the
+ordinary course of business;   (c) not hire any new employee or
+consultant;   (d) not dispose of any assets other than in the ordinary
+course of business;   (e) not change the level of compensation of any
+employee or consultant except in the case of employees pursuant to (i)
+standard annual review, or (ii) legal requirements;   (f) not enter into
+any agreements with its works council except as required by applicable law;
+or   (g) not enter into, modify, renew, extend, amend, or terminate
+any severance arrangements or benefit plans for employees;   (h) to resolve
+the distribution of retained earnings in the balance sheet of the Company as
+of September 30, 2002 in the amount of (euro) 32,238,000 (Euro thirty two
+million two hundred thirty eight thousand);   (i) Seller shall cause the
+Seller\'s Guarantor to guarantee the proper and timely fulfillment of all
+contractual obligations of the Seller under and in connection with this
+Agreement and the Closing Memorandum.   3.2 Purchaser\'s Covenants.   (a)
+(Intentionally left blank).   (b) Purchaser shall cause the Purchaser\'s
+Guarantor and the Company to guarantee the proper and timely fulfillment of
+all contractual obligations of the Purchaser under and in connection with
+this Agreement and the Closing Memorandum.   3.3 (Intentionally left
+blank)   3.4 Publicity. No press release or public announcement related to
+this Agreement, or the transactions contemplated hereby, shall be issued or
+made before Purchaser has given Closing Notice to the Seller, and, once
+Closing Notice has been given, without the joint approval of the Seller and
+the Purchaser, such approval not to be unreasonably withheld, unless required
+by law, in which case the Seller and Purchaser shall have the right to review
+such press release or announcement (for a period of no less than 24 hours)
+prior to publication.   3.5 Further Assurances by the Parties. The
+parties acknowledge that time shall be of the essence in this Agreement and
+the parties will take all reasonable actions and do all reasonable
+things necessary in order to consummate the transactions contemplated by
+this Agreement.   3.6 Title Covenant. The parties are aware of the fact
+that it is doubtful whether the share quota with a nominal value of DEM
+1,000,000 in the Company (the "Betapulse Share") was validly transferred from
+Betapulse Limited, an English company with business address at The Mondrean
+Building, Herschel Street, Slough, Berks., England to the Seller pursuant to
+(i) that certain agreement dated October 1, 1993, signed before Notary Public
+George Andrew Lewis in the United Kingdom; and (ii) that certain Deed of
+Transfer (Ubertragungsurkunde) (notarial deed of Notary Public Dr. Rudolf Jan
+Cornelis van Helden, Amsterdam, The Netherlands, deed no 3446/1-10-93) dated
+October 1, 1993 (the agreement and the Deed of Transfer together, the
+"Betapulse Documents"). The Betapulse Documents are included in the Data Room
+Documents. Betapulse Limited was dissolved voluntarily in 1994 for the
+avoidance of doubt and for confirmatory reasons the Seller will use its best
+efforts to obtain title to the Betapulse Share as soon as possible after the
+date hereof. For the avoidance of doubt and for confirmatory reasons, the
+Seller has already initiated commercially reasonable measures to confirm the
+acquisition and obtain title to the Betapulse Share with the help of Dr.
+Hanno Goltz, Linklaters and Alliance Cologne, and will continue to take any
+commercially reasonable steps reasonable or necessary for such purpose.
+Purchaser shall cause Comprendium Finance S.A. to cooperate with Seller to
+the extent necessary and possible in its effort to confirm the acquisition
+and obtain title to the Betapulse Share and with the help of Purchaser, if
+needed, the Seller shall do all the repair work necessary at the Seller\'s
+cost and expense.    ARTICLE IV   REPRESENTATIONS AND WARRANTIES OF
+SELLER  Except as disclosed in this Agreement, the Data Room Documents,
+the Information Memorandum and the Post Signing Disclosure, if any,
+Seller represents and warrants to Purchaser (Article VIII) that all of the
+statements contained in this Article IV are true and complete as of 23:59 hrs
+of the day preceding the Closing Date (the "Warranty Date") and shall not be
+deemed to have been given as of any prior or later date (except for Section
+4.5 second paragraph). The representations and warranties contained in this
+Article IV shall be limited or qualified by the Data Room Documents and
+Information Memorandum and Post Signing Disclosures only to the extent that
+an average attorney with average data room and due diligence experience
+proceeding with the usual and customary standard of diligence and care would
+recognize the extent to which such representations and warranties are limited
+or qualified by such disclosures.   4.1 General Warranty. To its best
+knowledge, Seller has disclosed to Purchaser all significant matters relating
+to the Company and has not intentionally omitted any material information
+from the Data Room. All documents, or copies thereof, listed on the data room
+index attached hereto as Schedule A/I or A/II, were provided to Purchaser
+and/or its advisors for inspection in the Data Room.   4.2 Due
+Incorporation of Seller. Seller is duly organized and validly existing under
+the laws of The Netherlands, with all requisite power and authority to own
+foreign investments and to carry on its respective businesses as it is now
+being owned and conducted.   4.3 Due Incorporation of Seller\'s Guarantor.
+Seller\'s Guarantor is duly organized and validly existing under the laws of
+the state of Delaware with its corporate seat at 60018 Rosemont, 6111 North
+River Road, Illinois, USA, with all requisite power and authority to own
+foreign investments and to carry on its respective businesses as it is now
+being owned and conducted.   4.4 Due Incorporation of the Company. The
+Company is duly organized and validly existing under the laws of Germany and
+has full right and authority to own its properties and to operate its
+business as currently conducted.   4.5 Ownership.   (a) Except as set
+forth in Section 3.6 above, Seller is the sole legal, beneficial and record
+owner of and has good and valid title to the Shares, except for the Betapulse
+Share. The Shares, except for the Betapulse Share, are free and clear of any
+liens, similar encumbrances, options, and claims arising from any privilege,
+pledge or security arrangement. Except for any restrictions resulting from
+the facts described in Section 3.6 above, Seller has full right and capacity
+to sell and transfer title to the Shares.   (b) Upon the confirmation of the
+transfer and the transfer of title to the Betapulse Share to the Purchaser
+pursuant to Sections 3.6 and 2.1 above, the Seller (i) will be the sole
+legal, beneficial and record owner of and will have good and valid title to
+the Betapulse Share, and (ii) the Betapulse Share will be free and clear of
+any liens, similar encumbrances, options, and claims arising from any
+privilege, pledge or security arrangement.   4.6 Capitalization. Except as
+set forth in Section 3.6 above, Seller is the legal and beneficial owner of
+five shares in the Company with an aggregate nominal value of DEM 51,100,000
+(fifty one million one hundred thousand) divided into share quotas with a
+nominal value of DEM 50,000,000, DEM 1,000,000, DEM 80,000, DEM 10,000 and
+DEM 10,000, respectively. The stated share capital of the Company is fully
+paid in. Comdisco Continuity Services (Deutschland) GmbH is not a subsidiary
+of the Company.   4.7 Authority; Validity of Agreement.   (a) The Seller
+and the Seller\'s Guarantor have the corporate power and authority to enter
+into this Agreement and to carry out their obligations hereunder. The
+execution, delivery and performance of this Agreement by the Seller and the
+Seller\'s Guarantor and the consummation by the Seller of the transactions
+contemplated hereby have been duly authorized by all requisite corporate
+action. All entities of the Seller\'s Group which have provided Waiver
+Letters have the corporate power and authority to waive the claims as
+provided for in the Waiver Letters and the Waiver Letters have been duly
+authorized by all requisite corporate actions.   (b) The Company has not
+received notification from any Governmental Authority (i) asserting a
+violation of any law, statute, ordinance or regulation or the terms of any
+judgments orders, decrees, injunctions or writs applicable to the conduct of
+its business, (ii) threatening to revoke any license, franchise, permit or
+government authorization or (iii) restricting or in any way limiting its
+operations as currently conducted.   4.8 Execution; Validity of Agreement.
+This Agreement has been duly and validly executed by the Seller and (assuming
+this Agreement constitutes a valid and binding obligation of the Purchaser)
+constitutes a valid and binding agreement of the Seller, enforceable against
+the Seller in accordance with its terms.   4.9 Consent and Approvals. No
+consent, approval, or authorization of, or declaration, filing or
+registration with, any Governmental Authority is required to be made or
+obtained by the Seller or the Seller\'s Guarantor in connection with the
+execution, delivery and performance of this Agreement and the consummation of
+the transactions contemplated hereby, except (i) for consents, approvals or
+authorizations of the Seller\'s board of directors and/or of the
+shareholders\' meeting of the
+Company (Gesellschafterversammlungsbeschlub).   4.10 Public Law. The
+Company has not violated any public law rules and has complied in a timely
+manner and in all material respects with all material laws, rules and
+regulations, ordinances, judgments, decrees, orders, writs and injunctions of
+all German Federal, Bavarian state, local or foreign governments and agencies
+thereof that specifically apply to the business, properties or assets of the
+Company.   4.11 Financial Statements, Accounts.   (a) The Seller has
+provided to the Buyer the following financial statements (collectively, the
+"Accounts"): (i) audited balance sheets, profit and loss accounts of the
+Company and notes thereto, together with auditors\' and directors\' reports
+as of and for the fiscal years ended 1998, 1999, 2000 and 2001 for the
+Company (collectively the "HGB-Accounts"); and (ii) unaudited balance sheets
+and profit and loss accounts of the Company as of and for the fiscal year
+ended 2002 (the "US-GAAP-Accounts"). The HGB-Accounts with respect to the
+Company have been (i) prepared in accordance with generally accepted
+accounting principles applicable in the Federal Republic of Germany applied
+on a consistent basis throughout the periods covered thereby and (ii) present
+a true and fair view of the financial condition of the Company as of such
+dates, as well as its profits and losses for the financial periods ended on
+such dates. The US-GAAP-Accounts with respect to the Company have been (i)
+prepared in accordance with generally accepted accounting principles
+applicable in the United States of America and (ii) applied on a consistent
+basis with the accounts of the previous fiscal years and (iii) present a true
+and fair view of the financial condition of the Company as of such dates, as
+well as its profits and losses for the financial periods ended on such
+dates.   (b) The accounts receivable of the Company, as reflected in the
+Accounts, to the extent uncollected on the Warranty Date, are valid
+and existing, and the Company has allocated bad debt allowances it
+reasonably considers adequate in light of past performance for receivables
+not collectible in the ordinary course of business, if any.   (c) To the
+best knowledge of the Seller, all of the Company\'s assets have been acquired
+and/or leased on arm\'s length terms and conditions.   4.12 No Undisclosed
+Liabilities. To the best knowledge of the Seller, the Company has no debt,
+surety, guarantee, service or other contingent obligations other than those
+reflected in the Accounts. The documentation provided to the Purchaser with
+regard to the Inter-Company Payables as attached hereto in Schedule 2.1 is
+true and complete and the rights and obligations created thereunder are
+legally binding.   4.13 Events Since the Balance Sheet Date. From the end of
+the business year 2002 (i.e. September 30, 2002 or the "Balance Sheet Date")
+up to the Warranty Date,   (a) the business of the Company has been carried
+on in the ordinary and usual course and in a manner consistent with the
+Chapter 11 Case;   (b) except for the distributions provided for in this
+Agreement and the Closing Memorandum, the Company has not declared, paid or
+set aside for payment any dividend or other distribution in respect of its
+capital stock or redeemed, purchased or otherwise acquired, directly or
+indirectly, any shares of capital stock or other securities of other
+companies,   (c) except (i) as disclosed in the Accounts or (ii) for
+liabilities and obligations incurred in the ordinary course of business since
+the Balance Sheet Date, the Company has not incurred any liability or
+obligation of any nature, whether or not accrued, contingent or
+otherwise.   4.14 Title to Properties; Encumbrances. Except for property
+sold since the Balance Sheet Date in the ordinary course of business, the
+Company has good title to each of the properties and assets reflected on the
+Accounts, free and clear of all material encumbrances not disclosed on the
+Accounts.   4.15 Contracts and Commitments.   (a) All contracts with the
+parties listed in Schedule 4.15(a) (i) are effective and legally binding for
+the parties thereof, and (ii) have not been terminated. At the Warranty Date
+there are no circumstances known by the Company or Seller which gave or would
+have given either party thereof the right to terminate any of the contracts
+listed in Schedule 4.15 (a) (i) for cause (auberordentliche Kundigung);  
+(b) Except as disclosed in Schedule 4.15(b), the Company is not in default of
+any material obligations under any contract not covered under Section 4.15(a)
+and, to the best knowledge of the Seller, no other party to any such contract
+is in such default of its material obligations thereunder;   (c) The
+Company is not restricted by agreement from carrying on its business in
+Germany, except for such restrictions which would not have a Material Adverse
+Effect.   4.16 Change of Control. The Company is not a party to
+any agreement under the terms of which any other party will by reason of
+any change of control of the Company (either through a change in the
+ownership of the shares in the Company, a change in management of the Company
+or otherwise), be entitled to terminate the agreement. For purposes of
+this Section 4.16, the term "Change of Control" shall exclusively refer to
+changes of ownership which are greater than 50% (fifty per cent) and shall
+not include assignment clauses of any sort.   4.17 Intellectual Property.
+Except (i) as provided for in Section 6.3 and (ii) disclosed in Schedule
+4.17, the Company may for its business rightfully use the intellectual
+property, including software, it is currently using and does not violate any
+rights of third parties by doing so. There is no claim, law suit, arbitration
+or other adversarial proceeding before any court, agency, arbitral tribunal
+or registration authority in any jurisdiction involving the intellectual
+property owned or licensed by the Company pending or to the knowledge of the
+Company threatened against or affecting the Company.   4.18 Employees and
+Employee Benefits.   (a) Except as disclosed in Schedule 4.18(a), the
+Company does not maintain employment agreements, consultancy agreements or
+service agreements (Dienstvertraege) with individuals. The material
+conditions of employment applying to the employees of the Company were
+disclosed in the Data Room.   (b) The Company is not subject to any
+collective bargaining agreements, company works agreements
+(Betriebsvereinbarungen), material shop practices (betriebliche Uebung) or
+similar material commitments applying to several employees.   (c) The
+Company does not maintain any pension plans, stock options or stock purchase
+plans, nor is it bound by any individual pension promises, stock options or
+stock purchase offers.   (d) To the best knowledge of the Seller, no
+individual claims for wages, salaries commissions, bonuses or other direct
+compensation for any services payable through the date hereof or amounts
+required to be reimbursed to them to the date hereof other than claims by
+Otto Harder, Wilfried Carl and [...] (see Schedule 8.4) have been raised
+against the Company.   (e) There is no labor strike, dispute, slow-down,
+stoppage or lock-out actually pending, or to the best knowledge of Seller,
+threatened against the Company.   (f) The Company has not experienced any
+material work stoppage or other material labor difficulty during the two-year
+period ending on the date hereof.   4.19 Litigation. Except as disclosed in
+Schedules 4.17 and 8.4, there is no claim, action, proceeding, law suit,
+inquiry, arbitration or investigation before or by any court, public board,
+arbitrator, governmental body, agency or official pending or to the knowledge
+of the Company threatened against or affecting the Company. The Company is
+not subject to any outstanding order, ruling, judgment or decree that would
+have a Material Adverse Effect or could prevent or materially delay the
+consummation of the transaction contemplated hereby.   4.20 Insurance.  
+(a) The Company maintains insurance coverage, customary for businesses
+engaged in a similar business as the Company and of similar scope and size as
+the Company, subject to exclusions, deductibles and self-retention amounts
+that are customary for insurance coverage of businesses such as the Company.
+The Company has fulfilled all its contractual obligations to
+procure insurance coverage, either itself or through its affiliates or its
+customers.   (b) As of the date hereof, no material insurance claim
+is outstanding under any of the insurance policies of the Company or the
+Seller, to the extent such claims relate to the business of the Company.  
+4.21 No Other Representations or Warranties. Except as specifically and
+expressly set forth in this Article IV, (i) the Seller makes no
+representation or warranty, express or implied, in law or in equity, relating
+to the transferred Shares or otherwise, including without limitation, any
+representation or warranty as to value, merchantability, fitness for
+a particular purpose or for ordinary purposes, or any other matter and (ii)
+the Seller makes no, and hereby disclaims any, other representation and
+warranty regarding the transferred Shares. Without limiting the generality of
+the foregoing, the Seller makes no representation or warranty regarding any
+assets other than expressly set forth above, and none shall be implied by law
+or in equity.    ARTICLE V   REPRESENTATIONS AND WARRANTIES OF
+PURCHASER  Purchaser represents and warrants to Seller that all of the
+statements contained in this Article V are true and complete as of Signing
+and as of the Closing Date.   5.1 Power, Authority and Consents. Purchaser
+has the requisite power and authority to enter into this Agreement and to
+consummate the transactions contemplated by this Agreement. This Agreement
+has been duly executed and delivered by Purchaser and constitutes a valid and
+binding obligation of Purchaser, enforceable against Purchaser in accordance
+with and subject to its terms.   5.2 Due Incorporation of Purchaser and
+Purchaser\'s Guarantor. Purchaser is duly organized and validly existing
+under the laws of Germany, with all requisite power and authority to own
+foreign investments and to carry on its respective businesses as it is now
+being owned and conducted. Purchaser\'s Guarantor is duly organized and
+validly existing under the laws of Switzerland with all requisite power and
+authority to own foreign investments and to carry on its respective
+businesses as it is now being owned and conducted.   5.3 Due Authorization.
+The execution, delivery and performance of this Agreement by the Purchaser
+and the Purchaser\'s Guarantor and the consummation by the Purchaser and the
+Purchaser\'s Guarantor of the transactions contemplated hereby have been duly
+authorized by all requisite corporate action.    ARTICLE VI  
+COVENANTS   6.1 Cooperation after Closing. Seller and Purchaser agree to
+use commercially reasonable efforts to cooperate after Closing. In
+particular, but without limitation:   (a) For a period of 6 (six) months
+following the Closing Date, Seller shall grant Company read-only access to
+its information technology systems for the limited purpose of accessing the
+Company\'s financial accounts, to the extent they are currently stored in
+Seller\'s information technology systems. Seller and the Company will enter
+into a separate agreement with respect to this read-only access. Seller shall
+use commercially reasonable efforts to provide read-only access to its
+information technology system (as provided for above) and shall in no event
+be liable for any damage caused to the Company as a result of such access.
+Purchaser shall indemnify and hold Seller harmless for any damage and cost
+caused by this information technology access. Purchaser shall not and shall
+cause the Company to not allow any third party access to Seller\'s
+information technology systems and will treat all information obtained
+through their access strictly confidential. Purchaser and the Company may not
+use any information obtained through their access for any purpose other than
+the processing of the Company\'s accounts. Purchaser and the Company
+acknowledge and agree that access to the Seller\'s information technology
+systems remains subject to the policies and instructions of the Seller which
+Purchaser and the Company will fully comply with at all times.   (b) Seller
+shall provide Purchaser or the Company with electronic and hard copies of the
+Company\'s financial accounts and certain information relating thereto in
+connection with the last 10 (ten) business years preceding the Closing Date,
+if and to the extent such information is in the possession of Seller and not
+in the possession of Company. If such information is neither in the
+possession of the Seller or the Company, the Seller shall use reasonable
+efforts to obtain such information.   6.2 Reasonable Inspection after
+Closing. For a period of 7 (seven) years after the Closing Date, Purchaser
+shall afford Seller and its agents such as, but not limited to, its lawyers
+and certified accountants, reasonable access to the Company\'s books of
+account, financial and other records, information, employees and
+auditors.   6.3 Software. Certain intellectual property rights required to
+run the software currently used by the Company (a list of the
+software currently used by the Company is attached in Schedule 6.3) are owned
+by the Seller\'s Group. Seller\'s Group shall allow Company and - provided
+Seller has received in full all Payments of the deferred consideration
+pursuant to Section 2.3 (a) as they become due and payable - , a subsidiary
+of the Bank solely for the purpose of servicing leases of the Company and its
+affilited entities, to continue to use this software and the Company and -
+provided Seller has received in full all Payments of the deferred
+consideration pursuant to Section 2.3 (a) due and payable - such subsidiary
+of the bank shall have the right to the relevant source-code for as long as
+Purchaser controls the Company. This right shall expire in the event that a
+direct competitor of the Seller\'s Group holds, directly or indirectly, more
+than a 10% percent interest in the equity of the Company. Purchaser
+acknowledges and agrees that neither it nor Company nor such subsidiary of
+the bank may sell, assign, sublicense or otherwise dispose of this right to
+continue to use such software without the prior written approval of the
+Seller and the relevant entity of the Seller\'s Group. Seller\'s Group shall
+in no event have an obligation to maintain or upgrade the software currently
+used by the Company. For the avoidance of doubt, any further developments of
+such software by the Company shall be the property of the Company (but only
+such developments).   6.4 Comdisco Trademark. Notwithstanding anything
+contained in this Agreement to the contrary, it is expressly agreed that
+Purchaser is not purchasing, acquiring or otherwise obtaining any right,
+title or interest in any Trademark employing Seller\'s name or any part or
+variation of such name or anything confusingly similar thereto (the "Comdisco
+Trademark"). The Company shall, however, for a transition period of not more
+than two months after the Closing Date have the right to deplete the existing
+stock of stationary, brochures, marketing material or other similar papers or
+documents currently in existence, any of which may incidentally bear the
+Comdisco Trademark and to complete the rebranding of the Company\'s external
+appearance. Otherwise, neither Purchaser, Company nor any of their affiliates
+shall be entitled to retain nor to make any use of the Comdisco Trademark
+after the Closing Date. For the avoidance of doubt, nothing in this Agreement
+shall grant the Company any right or license of whatsoever nature to use the
+Comdisco Trademark for any purpose whatsoever. Purchaser will hold Seller
+fully harmless and fully indemnify Seller from any and all damages of
+whatsoever nature resulting from any use by Purchaser (except as specifically
+provided for herein), the Company or any of their respective affiliates of
+the Comdisco Trademark after the Closing Date. To the extent that the
+Comdisco Trademark has been attached to any equipment prior to the Closing
+Date, Purchaser and Company shall not be obliged to remove such attachments
+or pay any consequential damages.   6.5 Confidentiality. Each party to this
+Agreement will not disclose to any third party any confidential or
+proprietary information concerning the other party or its processes,
+inventions, formulae, customers, suppliers, or any trade secret and Seller
+will not use or disclose to any third party any confidential or proprietary
+information to the extent such information directly relates and is unique to
+the Company or its processes, inventions, formulae, customers, suppliers, or
+any trade secret, unless the disclosure is expressly assented to in writing,
+provided, however, that nothing in this Section 6.5 shall prevent either
+party from disclosing such confidential or proprietary information (i) to its
+employees, agents and/or advisors who are subject to a confidentiality
+obligation covering the same scope as this Section 6.5 and on a strict "need
+to know" basis or (ii) if required by any law, rule or regulation applicable
+to such party, provided that the disclosing party shall promptly inform the
+other party of the disclosure and its contents. All information furnished to
+one party by the other party will be considered confidential or proprietary
+information, unless otherwise indicated in writing by the party furnishing
+the information, as the case may be. The confidentiality obligations
+contained in this Section 6.5 (with the exception of Seller\'s
+confidentiality obligation with respect to the Company) shall survive the
+termination of this Agreement for a period of 5 (five) years. Purchaser
+acknowledges that nothing in this Agreement shall prevent Seller and/or any
+other member of the Seller\'s Group from taking any action, including - but
+not limited to - the disclosure of certain information which would otherwise
+be deemed confidential to third parties, that is necessary or useful to
+comply with requirements relating to the Chapter 11 Case.    ARTICLE
+VII   (INTENTIONALLY LEFT BLANK)     ARTICLE VIII   REMEDIES,
+LIMITATIONS ON LIABILITY   8.1 Exclusion of Certain Provisions. The parties
+hereby expressly exclude any and all statutory warranty claims pursuant to
+Sections 434 et seq. of the German Civil Code (Burgerliches Gesetzbuch, BGB)
+and agree that the representations and warranties made by the Seller in
+Article IV above in particular - but without limitation - do not qualify as
+guarantees (Beschaffenheitsgarantien) within the meaning of Sections 443, 444
+of the German Civil Code and that the consequences of any breach of
+the representations and warranties set forth in Article IV above, except in
+the case of intentional or willful misconduct, shall exclusively be governed
+by the terms and conditions of this Agreement.   In addition, the parties
+hereto confirm that the limitations to the representations and warranties as
+specified in this Article VIII shall form an integral part of the
+representations and warranties and that the representations and warranties
+set forth in Article IV above are only provided subject to such provisions
+and limitations.   8.2 Sole and Exclusive Remedy. Except for claims based on
+the breach of the representations and warranties set forth in Article IV
+above and except for claims for specific performance (Erfullungsanspruche),
+all other claims of the Purchaser with respect to the sale and transfer of
+the Shares - e.g. any right of contestation (Anfechtung), rescission
+(Rucktritt), reduction of purchase price (Minderung), breach of contractual
+and pre-contractual duties (positive Forderungsverletzung, culpa in
+contrahendo), frustration of contract (Wegfall der Geschaftsgrundlage) - are
+hereby excluded. Sections 123 and 826 of the German Civil Code and any other
+liability for intentional or willful misconduct shall not be affected. If any
+third party raises a claim against the Seller or its Affiliates as a result
+of or in connection with the transactions contemplated by this Agreement
+and/or the Closing Memorandum (including, without limitation, tax claims and
+claims for special indemnification), Purchaser shall be obligated to (i)
+assume the defense of such claim (the co-operation provisions of Section
+8.4(ii) shall apply mutatis mutandis) and (ii) pay all amounts due to be paid
+by the Seller and/or its Affiliates as a result of such claim. Nothing in
+this Section 8.2 shall limit the Purchaser\'s right to exercise any of its
+rights or pursue any of its remedies hereunder.   8.3 Purchaser\'s Rights.
+The Purchaser shall be entitled to claim damages resulting from a breach by
+the Seller of the Seller\'s representations and warranties subject to the
+limitations set forth in Section 4.21 and this Article VIII. If the Purchaser
+becomes aware that there has been a material breach of the representations
+and warranties set forth in Article IV above or any other term of this
+Agreement, the Purchaser shall - except in the case of a breach of Sections
+4.2, 4.4, 4.5 and 4.7 - not be entitled to rescind or avoid this Agreement or
+treat this Agreement as terminated but shall only be entitled to claim
+damages or exercise any other right, power or remedy under this Agreement.
+For the avoidance of doubt, the fact that a third party raises a claim under
+Section 8.2 against or successfully claims payment under Section 8.2 from the
+Seller or its Affiliates shall not constitute or be deemed to constitute
+evidence of a breach of a representation or warranty hereunder. Without
+otherwise establishing a breach of a representation or warranty in accordance
+with the terms hereof, Purchaser shall not be entitled to claim reimbursement
+of any amounts paid by it under Section 8.2.   The legal principles as to
+the calculation of damages, mitigation of damages, compensation of lost
+profit and off-setting of losses by advantages due to the damaging event
+(Schadensberechnung, Schadensminderung, Ausgleich entgangenen Gewinns,
+Vorteilsausgleichung) pursuant to Sections 249 et seq. of the German Civil
+Code shall apply to all claims raised in connection with a breach of any of
+the representations and warranties set forth in Article IV above.   8.4
+Special Indemnification. Notwithstanding anything to the contrary contained
+in this Agreement, Purchaser shall be entitled to indemnification related to
+the claims set forth in Schedule 8.4 provided that in any such case (i)
+Seller has the right to assume the defense (at the Seller\'s expense) of any
+such claim through counsel of Seller\'s own choosing, and (ii) the payment to
+be made, provided such payment is legally enforceable (auf Grund eines
+rechtsgultigen Titels vollstreckbar) against the Company, exceeds the
+accruals, provisions, allowances or reserves allocated for these claims in
+the Accounts. If Seller assumes such defense, Purchaser shall have the right
+and the obligation to cause the Company to participate and to cooperate in
+the defense thereof. Such cooperation shall include, to the extent reasonably
+requested by Seller, the retention and the provision to Seller of records and
+information reasonably relevant to such claims and making employees of the
+Company available on a mutually convenient basis to provide additional
+information, depositions and explanation of any materials provided
+hereunder.   8.5 Exclusion of Liability. Any liability of the Seller
+based on a breach of any of the representations and warranties set forth in
+Article IV above or any other provision of this Agreement shall be excluded
+to the extent that claims of the Purchaser have already been (i) considered
+in the determination of the Purchase Price (a complete list of all such
+liabilities is attached hereto as Schedule 8.5) and/or (ii) paid under any
+other indemnification or compensation undertaking set forth in this
+Agreement. Any payments actually made by the Seller in order to discharge a
+liability that is or becomes excluded under this Section 8.5 shall be
+refunded by the Purchaser to the Seller immediately upon the occurrence of
+the event resulting in such exclusion of liability.   8.6 Further
+Limitations on Liability.   (a) With respect to any breach of the
+representations and warranties set forth in Article IV and all other claims
+Purchaser and/or the Company may have against the Seller under this
+Agreement, but with the exception that (x) the Basket shall not apply to
+claims directly relating to the amount of (euro) 32,238,000 (Euro thirty-two
+million two-hundred thirty-eight thousand) to be distributed to the Seller
+according to Clause 5 of the Closing Memorandum, the tax indemnification
+pursuant to Section 8.11 and the Special Indemnifications provided for in
+Section 8.4; and (y) the Basket and the Cap shall not apply to the
+representations and warranties set forth in Sections 4.2, 4.4 through 4.9,
+the Purchaser shall not be entitled in any event to claim any   (i) damages
+of whatsoever nature unless and until the aggregate amount of all claims
+exceeds (euro) 3,000,000 (three million) (the "Basket"), in which case
+recovery can be made for the full amount, subject to all other limitations
+provided for in this agreement;   (ii) damages of whatsoever nature if such
+damages when aggregated with other damages previously claimed hereunder would
+exceed an aggregate amount equivalent to (euro) 50,000,000 (fifty million);
+for the avoidance of doubt, Seller\'s liability hereunder is capped at and
+shall in no event and under no circumstances whatsoever exceed an aggregate
+amount of (euro) 50,000,000 (fifty million) (the "Cap").   (b) With the
+exception of claims in respect of the representations and warranties provided
+for in Sections 4.2, 4.4 through 4.9, no claim shall be brought against the
+Seller in respect of any of the Seller\'s representations and warranties
+unless the Purchaser shall have given to the Seller written notice of such
+claim on or before the date which is 18 (eighteen) months after the Closing
+Date. With respect to the Seller\'s representations and warranties provided
+for in Sections 4.2, 4.4 through 4.9, the statutory limitation period
+applies.   8.7 Indemnification Proceedings.   (a) With the exception of
+claims in respect of the representations and warranties provided for in
+Sections 4.2, 4.4 through 4.9 as well as any claims otherwise barred by the
+provisions of this Article VIII, Purchaser shall without undue delay but in
+no event later than 18 (eighteen) months after the Closing Date give Seller
+written notice of an alleged breach of the representations and warranties of
+the Seller setting forth in reasonable detail, as known to Purchaser at the
+time, the matter which gives rise to the claim, the nature of the claim and
+the amount claimed in respect thereof and demanding its cure or satisfaction
+in case of an alleged breach. If Purchaser fails to give notice of a claim
+within the time period set forth in the preceding sentence and this results
+in the Seller having less than 10 (ten) Business Days to assume control and
+prepare its defense, such claim shall be precluded and Purchaser shall not
+have any remedy hereunder with respect to such claim.    (b) During the
+period of up to 60 (sixty) days following receipt of such notice (the "Cure
+Period") the Seller shall use commercially reasonable efforts to cure or
+satisfy the alleged breach. During the Cure Period the Purchaser shall or
+shall cause the Company to use all reasonable efforts to cooperate with the
+Seller in curing the alleged breach at the Seller\'s cost.   (c) If the
+Cure Period elapses without the alleged breach being cured or satisfied,
+Purchaser shall be entitled to claim damages in accordance with and subject
+to the provisions of this Article VIII (other than this Section 8.7).   8.8
+Change of Law. No liability shall arise for the Seller in respect of a claim
+to the extent that liability for such claim occurs or is increased directly
+or indirectly as a result of any applicable law not in force on or prior to
+the Closing Date or as a result of the withdrawal of any extra-statutory
+concession or other agreement or arrangement currently granted by or made
+with any governmental authority or as a result of any change after the
+Closing Date of any generally accepted interpretation or application of any
+applicable law.   8.9 Purchaser\'s Knowledge. The Purchaser shall not
+be entitled to claim that any fact, matter or circumstance which would
+otherwise give rise to a claim where, in relation to any fact, matter or
+circumstance forming the basis of the claim:   (a) the Purchaser had actual
+knowledge of the breach of a representation and warranty on or before the
+Signing; or   (b) such fact, matter or circumstance was fairly disclosed in
+(i) the Information Memorandum and/or (ii) the Data Room Documents and/or
+(iii) in the Post Signing Disclosure and/or (iv) a written response to
+written queries raised by the Purchaser and/or its advisers, and for this
+purpose the terms "fairly disclosed" shall mean disclosed in such manner and
+in such detail as to place a commercially experienced purchaser on notice of
+the breach of the representation and warranty; or   (c) it was a matter or
+thing hereafter done or omitted to be done by the Seller necessary to comply
+with the terms and conditions of this Agreement (or any document referred to
+herein or subsequently agreed between the Purchaser and the Seller, entered
+into or to be entered into) or otherwise done at the express request in
+writing or with the express approval in writing of, or on behalf of, the
+Purchaser.   8.10 Seller\'s Rights. The Seller shall be entitled to claim
+damages resulting from a breach by the Purchaser of the Purchaser\'s
+representations and warranties. If the Seller becomes aware that there has
+been a breach of the Purchaser\'s representations and warranties or any other
+term of this Agreement, the Seller shall not be entitled to rescind or avoid
+this Agreement or treat this Agreement as terminated but shall only be
+entitled to claim damages or exercise any other right, power or remedy under
+this Agreement.  The legal principles as to the calculation of damages,
+mitigation of damages, compensation of lost profit and off-setting of losses
+by advantages due to the damaging event (Schadensberechnung,
+Schadensminderung, Ausgleich entgangenen Gewinns, Vorteilsausgleichung)
+pursuant to Sections 249 et seq. of the German Civil Code shall apply to all
+claims raised in connection with a breach of any of the representations and
+warranties set forth in Article V above.   8.11 Tax Indemnification.   (a)
+Subject only to the limitations set forth in Section 8.6(a)(ii) and until the
+earlier to occur of (x) the receipt by Company of a final decree on the
+results of a tax audit of the Company covering the Pre-Closing Periods (as
+such term is defined below) or (y) the third anniversary of the Closing Date,
+Seller shall indemnify the Purchaser or the Company, at the
+Purchaser\'s discretion, for direct losses, resulting to Company from taxes
+imposed upon the Company (i) with respect to any taxable period (or any
+portion thereof) starting on or after January 1, 1999 and ending on or before
+December 31, 2002 (such taxes are hereinafter referred to as "Pre-Closing
+Taxes" and such periods as "Pre-Closing Periods") and specifically relating
+to social security contributions, VAT and withholding tax related to salaries
+(Lohnsteuer) and (ii) as a direct result of Seller having breached its
+obligations under Section 3.1(h) by distributing retained earnings in an
+amount higher than the aggregate amount of distributable profits provided for
+in the Company\'s balance sheet as of September 30, 2002. For the avoidance
+of doubt, Purchaser and/or Company shall in no event be entitled to
+indemnification or any other form of compensation for income taxes of any
+sort (except, for the avoidance of doubt, any income taxes related to (ii)
+above). For the avoidance of doubt, Section 8.6(b) shall not apply.   (b)
+If a notice of deficiency, proposed adjustment, adjustment, assessment, tax
+field audit, examination, suit, dispute or other claim (a "Tax Claim") shall
+be delivered, sent, commenced, or initiated to or against the Company by any
+tax authority with respect to taxes for which Purchaser is entitled to
+indemnification from Seller, the Purchaser shall promptly notify Seller in
+writing of the Tax Claim.   (c) No Tax Claim shall be made by the Purchaser
+and no liability shall arise in respect of any damage or loss (i) if and to
+the extent such damage or loss is the subject of a specific accrual,
+allowance, provision or reserves in the financial statements of the Company
+listed in Schedule 8.11(c) (the "Tax Accruals") provided that any of such Tax
+Accruals has not been, or should not have been, dissolved on the date of this
+Agreement; or (ii) if and to the extent any of the Tax Accruals (except for
+the accrual, allowance, provision or reserve for VAT), whether such Tax
+Accrual has been made for the respective type of tax or not, can be dissolved
+or has not been dissolved within twelve months after the Closing Date.  
+8.12 Tax Indemnification Procedures.   (a) Notice. If any legal proceeding
+shall be instituted or any claim or demand shall be asserted against the
+Purchaser in respect of which indemnification may be sought under Section
+8.11 of this Agreement, Purchaser shall promptly cause written notice of the
+assertion of any such claim, demand or proceeding of which it has knowledge
+to be forwarded to Seller. Such notice shall contain a reference to the
+provisions hereof or of such other agreement, instrument or certificate
+delivered pursuant hereto, in respect of which such claim is being made, and
+shall specify, in reasonable detail, the amount of such loss if determinable
+at such time. For the avoidance of doubt, Section 8.7 shall not apply.  
+(b) Tax Claims. If Purchaser seeks indemnification from Seller as a result of
+a claim or demand being made pursuant to Section 8.11(a), Seller shall have
+the obligation to promptly assume the control of the defense of such Tax
+Claim, including, at its own expense, employment by it of its own counsel.
+Purchaser may, in its sole discretion and at its own expense, employ counsel
+to represent it in the defense of the Tax Claim, and in such event counsel
+for Seller shall cooperate with counsel for Purchaser in such
+defense, provided that Seller shall direct and control the defense of such
+Tax Claim or proceeding without limitation and in its sole discretion. Except
+with the written consent of Seller, Purchaser shall not or shall cause
+Company not to consent to the entry of any judgment nor enter into any
+settlement of such Tax Claim which does not include as an unconditional term
+thereof the release of Seller from all liability in respect of such Tax
+Claim.   (c) Payment. After any enforceable award (auf Grund
+eines rechtsgultigen Titels vollstreckbar) shall have been rendered by a
+court, or administrative agency of competent jurisdiction, or a settlement
+shall have been consummated, or Purchaser and Seller shall arrive at a
+mutually binding agreement with respect to each separate matter alleged to be
+indemnified by Seller hereunder, Purchaser shall forward to Seller notice of
+any taxes due and owing by Company with respect to such matter (in accordance
+with Section 8.11 hereof) and Seller shall promptly pay the sums so owing to
+Purchaser by wire transfer, certified or bank cashier\'s check.   (d) VAT
+Claims. If the Purchaser seeks indemnification for any Tax Claims related to
+value added tax (VAT), the Purchaser shall cause the Company to try to
+recover any additional VAT payable by the Company from the customer or from
+any other contractual party and any payments made by the customer or by any
+other contractual party shall reduce the indemnification claim of
+the Purchaser.   8.13 Assistance and Cooperation Related to Taxes.
+Purchaser shall cause Company to cooperate with Seller in the defense of any
+Tax Claim to the maximum extent possible which cooperation shall include -
+without limitation - to the extent requested by Seller, the retention, and
+the provision to Seller, of records and information relevant to such defense,
+and making employees of the Company available on an as needed basis to
+provide additional information, explanation and depositions. Company shall
+agree to any strategy, settlement, compromise or other action that Seller may
+recommend in this context. For the avoidance of doubt, Company may in no
+event frustrate or cause any of its employees to frustrate Seller\'s efforts
+to defend it against Tax Claims by competent tax authorities, including,
+without limitation, by paying any amounts that are not due (fallig) to the
+competent tax authorities or any traditional or administrative body or
+otherwise settling a dispute.     ARTICLE IX   MISCELLANEOUS   9.1
+(Intentionally left blank).   9.2 Expenses. Unless otherwise provided for in
+this Agreement, each party hereto shall bear its own expenses with respect to
+the transactions contemplated hereby, provided, however, that Purchaser shall
+pay all taxes and notary fees, including, but not limited to, value added
+taxes, sales taxes, use taxes, stamp taxes, transfer taxes (including real
+estate transfer taxes, if any), service and like taxes, if any, imposed by
+any Governmental Authority in connection with the transfer and assignment of
+the Shares or other transaction contemplated by this Agreement with the
+exception of any direct taxes imposed on the Seller in connection with the
+sale and transfer of the Shares.   9.3 Amendment. This Agreement may be
+amended or supplemented only by an instrument in writing, or - if required by
+applicable law - in notarial form, in each case executed by the party against
+whom enforcement is sought. This shall also apply to any amendment of this
+Section 9.3.   9.4 Notices. Any notice, request, instruction or other
+document to be given hereunder by a party hereto shall be (a) in writing, (b)
+deemed to have been given, (i) when received, if given in person or by
+courier or a courier service, or (ii) on the date of transmission if sent by
+telex, facsimile or other wire transmission so long as a copy is delivered
+by overnight courier the next Business Day and (c) addressed as follows:  
+(x) If to Seller, addressed as follows:   Comdisco Factoring (Nederland)
+B.V.  c/o Comdisco Global Holding Company, Inc.  6111 North River Road 
+Rosemont, Illinois 60018  Attention: Robert E.T. Lackey  Telephone: +1 847
+518 5208  Facsimile: +1 847 518 5088  with a copy (which shall not
+constitute notice) to:   Skadden, Arps, Slate, Meagher and Flom LLP 
+Schwarzenbergplatz 6  A-1030 Vienna  Attention: Albert Adametz  Andreas
+Frohner  Telephone: +43 1 710 77 300  Facsimile: +43 1 710 77 303   (y) If
+to Purchaser, addressed as follows:   Comprendium Investment (Deutschland)
+GmbH  c/o Reichlin and Hess Rechtsanwalte  Hofstrasse 1a  CH-6300 Zug 
+Attention: Dr. Paul Thalmann  Telephone: +41 41 729 10 70  Facsimile: +41 41
+729 10 80   or to such other individual or address as a party hereto may
+designate for itself by notice given as herein provided.   9.5 Waivers. The
+failure of a party hereto at any time or times to require performance of any
+provision in this Agreement shall not affect , in any manner, such party\'s
+right to enforce such provision. No waiver by a party of any condition or of
+any breach of any term, covenant, representation or warranty contained in
+this Agreement shall be effective unless in writing, and no waiver in any one
+or more instances shall be deemed to be a further or continuing waiver of any
+such condition or breach in other instances or a waiver of any other
+condition or breach of any other term, covenant, representation or
+warranty.   9.6 Interpretation. The headings of Articles and Sections
+included in this Agreement and the headings to Schedules attached to this
+Agreement are for convenience only and shall not be deemed part of this
+Agreement or be given any effect in interpreting this Agreement. The use of
+the masculine, feminine or neuter gender herein shall not limit any provision
+of this Agreement. The use of the terms "including" or "include" shall in all
+cases herein mean "including, without limitation" or "include, without
+limitation," respectively. Underscored references to Articles, Sections,
+Subsections or Schedules shall refer to those portions of this Agreement.
+Consummation of the transactions contemplated herein shall not be deemed a
+waiver of a breach of or inaccuracy in any representation, warranty or
+covenant or of any party\'s rights and remedies with regard thereto. No
+specific representation, warranty or covenant contained herein shall limit
+the generality or applicability of a more general representation, warranty or
+covenant contained herein. A breach of or inaccuracy in any representation,
+warranty or covenant shall not be affected by the fact that any more general
+or less general representation, warranty or covenant was not also breached or
+inaccurate.   9.7 Governing Law, Arbitration. Notwithstanding anything
+contained in this Agreement to the contrary, this Agreement shall be governed
+by and construed and enforced in accordance with the laws of Germany without
+regard to the rules and principles of conflict of laws. Any dispute,
+controversy or claim arising out of or in connection with this Agreement
+shall be referred to and finally settled by arbitration under and in
+accordance with the Rules of Arbitration of the International Chamber of
+Commerce by three arbitrators appointed in accordance with those rules. The
+place of arbitration shall be Paris, France. The arbitration proceedings
+shall be conducted, and the award shall be rendered, in the English
+language.   9.8 Assignment. Each party shall not assign any claims under
+this Agreement without the prior written consent of the other party, with
+the exception of intra-group transfers to entities which are at least 90
+% controlled by the party making the transfer and any such prohibited
+assignment shall be void. Notwithstanding the foregoing, Purchaser
+acknowledges and agrees that Seller may at any time assign its claims under
+Section 2.3 to any third party in its sole discretion. Subject to the
+foregoing, this Agreement shall be binding upon and inure to the benefit of
+the respective legal representatives, successors, assigns, heirs, and
+devisees of the parties.   9.9 No Third Party Beneficiaries. This Agreement
+is solely for the benefit of the parties hereto and, to the extent provided
+herein, their respective affiliates, directors, officers, employees, agents
+and representatives, and no provision of this Agreement shall be deemed to
+confer upon other third parties any remedy, claim, liability, reimbursement,
+cause of action or other right.   9.10 Further Assurances. The Purchaser
+shall and shall cause the Company from time to time to execute and deliver
+all such further documents and instruments and do all acts and things as the
+Seller may, either before or after the Closing Date, reasonably require to
+effectively carry out or better evidence or perfect the full intent and
+meaning of this Agreement. Upon the reasonable request of Purchaser, Seller
+shall on and after the Closing Date execute and deliver to Purchaser such
+other documents, releases, assignments and other instruments as may be
+required to effectuate completely the transfer and assignment to Purchaser
+of, and to vest fully in Purchaser title to, the Shares and to otherwise
+carry out the purposes of this Agreement.   9.11 Severability. If any
+provision of this Agreement shall be held invalid, illegal or unenforceable
+or contain an inadvertant gap, the validity, legality or enforceability of
+the other provisions hereof shall not be affected thereby, and the parties
+hereby undertake to use their best efforts to agree on a valid, legal and
+enforceable substitute provision or substitute provisions (or in the case of
+a gap, additional provision) which, while valid, will achieve as closely as
+possible the same economic effects as the invalid provision or
+provisions.   9.12 Entire Understanding. This Agreement embodies the
+entire agreement between the parties and supersedes all prior
+agreements, arrangements and understandings between the parties.    '
+

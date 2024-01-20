@@ -1,0 +1,1843 @@
+ EXHIBIT 2.1   EXHIBIT 2.1   EXECUTION
+VERSION   ===============================================================================     
+AGREEMENT AND PLAN OF MERGER   dated May 7, 2006   among   WACHOVIA
+CORPORATION,   BURR FINANCIAL CORPORATION   and   GOLDEN WEST FINANCIAL
+CORPORATION     ===============================================================================    
+TABLE OF CONTENTS   PAGE   ARTICLE I   DEFINITIONS;
+INTERPRETATION  1.01.
+DEFINITIONS...........................................................2 1.02.
+INTERPRETATION........................................................9  
+ARTICLE II   THE MERGER  2.01. THE
+MERGER.......................................................... 10 2.02.
+CLOSING..............................................................10 2.03.
+EFFECTIVE TIME.......................................................10 2.04.
+EFFECTS OF THE MERGER................................................11 2.05.
+CONSTITUENT DOCUMENTS................................................11 2.06.
+GOLDEN WEST BOARD OF DIRECTORS.......................................11 2.07.
+WACHOVIA BOARD.......................................................11  
+ARTICLE III   CONSIDERATION; EXCHANGE PROCEDURES  3.01.
+CONSIDERATION........................................................11 3.02.
+CANCELLATION OF SHARES...............................................12 3.03.
+RIGHTS AS SHAREHOLDERS; STOCK TRANSFERS..............................12 3.04.
+EXCHANGE PROCEDURES..................................................12 3.05.
+FRACTIONAL SHARES....................................................14 3.06.
+ANTI-DILUTION ADJUSTMENTS............................................14 3.07.
+DISSENTING SHAREHOLDERS..............................................14 3.08.
+EFFECT ON MERGER SUB COMMON STOCK....................................14 3.09.
+EFFECT ON WACHOVIA STOCK.............................................14 3.10.
+STOCK OPTIONS........................................................14  
+ARTICLE IV   CONDUCT OF BUSINESS PENDING THE MERGER  4.01. FOREBEARANCES
+OF GOLDEN WEST.........................................15 4.02. FOREBEARANCES
+OF WACHOVIA............................................18 4.03. COORDINATION
+OF DIVIDENDS............................................18   -i-    
+TABLE OF CONTENTS  (continued)   PAGE   ARTICLE V   REPRESENTATIONS AND
+WARRANTIES  5.01. DISCLOSURE
+SCHEDULES.................................................19 5.02.
+STANDARD.............................................................19 5.03.
+REPRESENTATIONS AND WARRANTIES.......................................19 5.04.
+MERGER SUB...........................................................30  
+ARTICLE VI   COVENANTS  6.01. REASONABLE BEST
+EFFORTS..............................................30 6.02. SHAREHOLDER
+APPROVALS................................................31 6.03. SEC
+FILINGS..........................................................32 6.04.
+PRESS RELEASES.......................................................33 6.05.
+ACCESS; INFORMATION..................................................33 6.06.
+ACQUISITION PROPOSALS................................................34 6.07.
+AFFILIATE AGREEMENTS.................................................35 6.08.
+TAKEOVER LAWS AND PROVISIONS.........................................35 6.09.
+EXCHANGE LISTING.....................................................35 6.10.
+REGULATORY APPLICATIONS..............................................35 6.11.
+INDEMNIFICATION......................................................36 6.12.
+EMPLOYEE MATTERS.....................................................37 6.13.
+NOTIFICATION OF CERTAIN MATTERS......................................39 6.14.
+EXEMPTION FROM LIABILITY UNDER SECTION 16(B).........................39 6.15.
+CERTAIN MODIFICATIONS; RESTRUCTURING CHARGES.........................39  
+ARTICLE VII   CONDITIONS TO THE MERGER  7.01. CONDITIONS TO EACH PARTY\'S
+OBLIGATION TO EFFECT THE MERGER...........39 7.02. CONDITIONS TO GOLDEN
+WEST\'S OBLIGATION...............................41 7.03. CONDITIONS TO
+WACHOVIA\'S AND MERGER SUB\'S OBLIGATION.................41   ARTICLE
+VIII   TERMINATION  8.01.
+TERMINATION..........................................................42 8.02.
+EFFECT OF TERMINATION AND ABANDONMENT................................43 8.03.
+TERMINATION FEE......................................................43  
+-ii-     TABLE OF CONTENTS  (continued)   PAGE   ARTICLE IX  
+MISCELLANEOUS  9.01.
+SURVIVAL.............................................................44 9.02.
+WAIVER; AMENDMENT....................................................44 9.03.
+COUNTERPARTS.........................................................44 9.04.
+GOVERNING LAW........................................................45 9.05.
+EXPENSES.............................................................45 9.06.
+NOTICES..............................................................45 9.07.
+ENTIRE UNDERSTANDING; NO THIRD PARTY BENEFICIARIES...................46 9.08.
+SEVERABILITY.........................................................46 9.09.
+ALTERNATIVE
+STRUCTURE................................................47   Annex 1 Form
+of Voting Agreement Annex 2 Form of Golden West Affiliate Letter  
+-iii-     AGREEMENT AND PLAN OF MERGER, dated May 7, 2006 (this
+"AGREEMENT"), among Wachovia Corporation, a North Carolina corporation
+("WACHOVIA"), Burr Financial Corporation, a North Carolina corporation and a
+wholly owned subsidiary of Wachovia ("MERGER SUB"), and Golden West Financial
+Corporation, a Delaware corporation ("GOLDEN WEST").   RECITALS   A. THE
+PROPOSED TRANSACTION. The parties intend to effect a strategic business
+combination through the merger of Golden West with and into Merger Sub (the
+"MERGER"), with Merger Sub the surviving corporation (the
+"SURVIVING CORPORATION").   B. BOARD DETERMINATIONS. The respective boards
+of directors of Wachovia, Merger Sub and Golden West have each determined
+that the Merger and the other transactions contemplated hereby are consistent
+with, and will further, their respective business strategies and goals, and
+are in the best interests of their respective stockholders and, therefore,
+have approved the Merger, this Agreement and the plan of merger contained in
+this Agreement.   C. APPROVAL OF STOCKHOLDER OF MERGER SUB. Wachovia, as the
+sole stockholder of Merger Sub, has approved this Agreement, the Merger and
+the other transactions contemplated hereby.   D. INTENDED TAX TREATMENT.
+The parties intend the Merger to be treated as a reorganization under Section
+368(a) of the Internal Revenue Code of 1986, as amended (the "CODE"), and the
+rules and regulations thereunder, and intend for this Agreement to constitute
+a "plan of reorganization" within the meaning of the Code.   E. VOTING
+AGREEMENTS. As an inducement to and condition of Wachovia\'s willingness to
+enter into this Agreement, each of Herbert M. Sandler, Marion O. Sandler and
+Bernard A. Osher (each of whom is a member of the Golden West Board) will
+enter (each in his or her capacity as a stockholder of Golden West)
+into voting and support agreements (each, a "VOTING AGREEMENT"), the form of
+which is attached as ANNEX 1. The Voting Agreements will be entered
+immediately prior to the execution and delivery of this Agreement.   NOW,
+THEREFORE, in consideration of the premises, and of the
+mutual representations, warranties, covenants and agreements contained in
+this Agreement, Wachovia, Merger Sub and Golden West agree as
+follows:     ARTICLE I   DEFINITIONS; INTERPRETATION  1.01.
+DEFINITIONS. This Agreement uses the following definitions:   "ACQUISITION
+PROPOSAL" means a tender or exchange offer to acquire more than 15% of the
+voting power in Golden West or any of its Significant Subsidiaries, a
+proposal for a merger, consolidation or other business combination involving
+Golden West or any of its Significant Subsidiaries or any other proposal or
+offer to acquire in any manner more than 15% of the voting power in, or more
+than 15% of the business, assets or deposits of, Golden West or any of its
+Significant Subsidiaries, other than the transactions contemplated hereby and
+other than any sale of whole loans and securitizations in the ordinary
+course; PROVIDED, HOWEVER, that for purposes of Section 8.03(a), references
+in this definition to "more than 15%" shall be deemed to be references to
+"25% or more".   "AGREEMENT" has the meaning assigned in the Preamble.  
+"ARTICLES OF MERGER" has the meaning assigned in Section 2.03.   "BCA" means
+the Business Corporation Act of the State of North Carolina.   "BENEFIT
+ARRANGEMENT" means, with respect to each of Wachovia and Golden West, each of
+the following (a) under which any Employee or any of its current or former
+directors has any present or future right to benefits, (b) that is sponsored
+or maintained by it or its Subsidiaries, or (c) under which it or
+its Subsidiaries has had or has any present or future liability to any
+Employee or any of its current or former directors: each "employee benefit
+plan" (within the meaning of Section 3(3) of ERISA) and each stock purchase,
+stock option, severance, employment, change-in-control, fringe benefit,
+bonus, incentive, deferred compensation, paid time off benefits and other
+employee benefit plan, agreement, program, policy or other arrangement (with
+respect to any of preceding, whether or not subject to ERISA).   "BENEFITS
+TRANSITION DATE" has the meaning assigned in Section 6.12(a).   "BHC ACT"
+means the Bank Holding Company Act of 1956.   "CASH AMOUNT" has the meaning
+assigned in Section 3.01.   "CASH CONSIDERATION" has the meaning assigned in
+Section 3.01.   "CERTIFICATE OF MERGER" has the meaning assigned in Section
+2.03.   2     "CLOSING" has the meaning assigned in Section 2.02.  
+"CLOSING DATE" has the meaning assigned in Section 2.02.   "CODE" has the
+meaning assigned in the Recitals.   "CONFIDENTIALITY AGREEMENT" has the
+meaning assigned in Section 6.05(b).   "CONSTITUENT DOCUMENTS" means the
+charter or articles or certificate of incorporation and by-laws of a
+corporation or banking organization, the certificate of partnership and
+partnership agreement of a general or limited partnership, the certificate of
+formation and limited liability company agreement of a limited liability
+company, the trust agreement of a trust and the comparable documents of other
+entities.   "COSTS" has the meaning assigned in Section 6.11(a).  
+"COVERED EMPLOYEES" has the meaning assigned in Section 6.12(a).  
+"DISCLOSURE SCHEDULE" has the meaning assigned in Section 5.01.  
+"DISSENTING SHAREHOLDER" has the meaning assigned in Section 3.07.  
+"DISSENTING SHARES" means shares of Golden West Common Stock the holders
+of which have perfected and not withdrawn or lost their right to dissent
+with respect to such shares under Section 262 of the GCL.   "EFFECTIVE
+TIME" has the meaning assigned in Section 2.03.   "EMPLOYEES" means current
+and former employees of each of Wachovia and Golden West, as the context
+requires.   "ENVIRONMENTAL LAWS" means the statutes, rules, regulations,
+ordinances, codes, orders, decrees, and any other laws (including common law)
+of any foreign, federal, state, local, and any other governmental
+authority, regulating, relating to or imposing liability or standards of
+conduct concerning pollution, or protection of human health and safety or of
+the environment, as in effect on or prior to the date of this Agreement.  
+"ERISA" means the Employee Retirement Income Security Act of 1974.   "ERISA
+AFFILIATE" has the meaning assigned in Section 5.03(m).   "EXCHANGE ACT"
+means the Securities Exchange Act of 1934 and the rules and regulations
+thereunder.   "EXCHANGE AGENT" has the meaning assigned in Section
+3.04(a).   3     "EXCHANGE FUND" has the meaning assigned in Section
+3.04(a).   "EXCHANGE RATIO" has the meaning assigned in Section 3.01.  
+"GAAP" means United States generally accepted accounting principles.   "GCL"
+means the General Corporation Law of the State of Delaware.   "GOLDEN WEST"
+has the meaning assigned in the preamble to this Agreement.   "GOLDEN WEST
+AFFILIATE" has the meaning assigned in Section 6.07.   "GOLDEN WEST BOARD"
+means the Board of Directors of Golden West.   "GOLDEN WEST COMMON STOCK"
+means the common stock, par value $.10 per share, of Golden West.   "GOLDEN
+WEST DIRECTOR APPOINTEES" has the meaning assigned in Section 2.07.  
+"GOLDEN WEST INSIDERS" means those officers and directors of Golden
+West subject to the reporting requirements of Section 16(a) of the Exchange
+Act and who are listed in the Section 16 Information.   "GOLDEN WEST
+MEETING" has the meaning assigned in Section 6.02(c).   "GOLDEN WEST
+PREFERRED STOCK" means the preferred stock, par value $1.00 per share, of
+Golden West.   "GOLDEN WEST STOCK OPTION" has the meaning assigned in
+Section 3.10(a).   "GOLDEN WEST STOCK PLANS" means (a) Golden West\'s 1996
+Stock Option Plan, as amended and restated as of February 2, 1996 and as
+further amended as of May 2, 2001 and (b) Golden West\'s 2005 Stock Incentive
+Plan.   "GOVERNMENTAL AUTHORITY" means any court, administrative agency
+or commission or other governmental authority or instrumentality, domestic
+or foreign, or any industry self-regulatory authority.   "HOLA" means the
+Home Owners\' Loan Act.   "HSR ACT" means the Hart-Scott-Rodino Antitrust
+Improvements Act of 1976 and the rules and regulations thereunder.  
+"INDEMNIFIED PARTY" has the meaning assigned in Section 6.11(a).   4    
+"JOINT PROXY STATEMENT" has the meaning assigned in Section 6.03(a).  
+"LIEN" means any charge, mortgage, pledge, security interest,
+restriction, claim, lien, or encumbrance.   "MARKET PRICE" means the
+average of the last reported sale prices of Wachovia Common Stock, as
+reported by the NYSE Composite Transactions Reporting System (as reported in
+THE WALL STREET JOURNAL or, if not reported therein, in another authoritative
+source), for the last ten NYSE trading days preceding the Closing Date.  
+"MATERIAL ADVERSE EFFECT" means, with respect to Wachovia or Golden West, any
+effect that   (a) has a material adverse effect on the financial condition,
+results of operations or business of Wachovia and its Subsidiaries, taken as
+a whole, or Golden West and its Subsidiaries, taken as a whole, respectively,
+excluding (with respect to each of clause (1), (3) and (5), only to the
+extent that the effect of a change on it is not disproportionate to the
+effect of such change on comparable U.S. banking organizations) the impact of
+(1) changes in banking and other laws of general applicability or changes in
+the interpretation thereof by Governmental Authorities, (2) changes in GAAP
+or regulatory accounting requirements applicable to U.S. banking
+organizations generally, (3) changes in prevailing interest rates or other
+general economic or market conditions affecting U.S. banking organizations
+generally, (4) actions or omissions of a party to this Agreement required by
+this Agreement or taken with the prior written consent of the other party to
+this Agreement in contemplation of the transactions contemplated hereby, (5)
+changes in global or national political conditions (including the outbreak of
+war or acts of terrorism) or due to natural disasters, and (6) to the extent
+consistent with GAAP, any modifications or changes to valuation policies or
+practices, or restructuring charges, in each case taken with the prior
+approval of Wachovia or Golden West, as the case may be, in connection with
+the Merger; or   (b) would materially impair the ability of Wachovia or
+Golden West, respectively, to perform its obligations under this Agreement or
+to consummate the transactions contemplated hereby on a timely basis.  
+"MATERIALS OF ENVIRONMENTAL CONCERN" means any hazardous or toxic substances,
+materials, wastes, pollutants, or contaminants, including without limitation
+those defined or regulated as such under any Environmental Law, and any other
+substance the presence of which may give rise to liability
+under Environmental Law.   "MERGER" has the meaning assigned in the
+Recitals.   5     "MERGER CONSIDERATION" has the meaning assigned in
+Section 3.01.   "MERGER SUB" has the meaning assigned in the preamble to
+this Agreement.   "MERGER SUB COMMON STOCK" means the common stock, par
+value $0.01 share, of Merger Sub.   "NEW CERTIFICATES" has the meaning
+assigned in Section 3.04(a).   "NEW OPTION" has the meaning assigned in
+Section 3.10(a).   "NYSE" means the New York Stock Exchange.   "OLD
+CERTIFICATES" has the meaning assigned in Section 3.04(a).   "OTHER PERSONS"
+has the meaning assigned in Section 6.06(a).   "OTS" means the Office of
+Thrift Supervision.   "PARTY" means Wachovia, Merger Sub or Golden West.  
+"PENSION PLAN" has the meaning assigned in Section 5.03(m).   "PERSON" is to
+be interpreted broadly to include any individual, savings association, bank,
+trust company, corporation, limited liability company, partnership,
+association, joint-stock company, business trust or
+unincorporated organization.   "PREVIOUSLY DISCLOSED" means information set
+forth by a party in the applicable paragraph of its Disclosure Schedule, or
+in another paragraph of its Disclosure Schedule (so long as it is reasonably
+clear from the context that the disclosure in such other paragraph of its
+Disclosure Schedule is also applicable to the section of this Agreement in
+question).   "REGISTRATION STATEMENT" has the meaning assigned in Section
+6.03(a).   "REGULATORY FILINGS" has the meaning assigned in Section
+5.03(h).   "REPRESENTATIVES" means, with respect to any person, such
+person\'s directors, officers, employees, legal or financial advisors or
+any representatives of such legal or financial advisors.   "REQUISITE
+REGULATORY APPROVALS" has the meaning assigned in Section 6.10(a).  
+6     "RIGHTS" means, with respect to any person, securities or
+obligations convertible into or exercisable or exchangeable for, or giving
+any other person any right to subscribe for or acquire, or any options, calls
+or commitments relating to, or any stock appreciation right or other
+instrument the value of which is determined in whole or in part by reference
+to the market price or value of, shares of capital stock of such first
+person.   "SARBANES-OXLEY ACT" means the Sarbanes-Oxley Act of 2002 and the
+rules and regulations thereunder.   "SEC" means the United States
+Securities and Exchange Commission.   "SECRETARY OF STATE (DEL)" means the
+Secretary of State of the State of Delaware.   "SECRETARY OF STATE (NC)"
+means the Secretary of State of the State of North Carolina.   "SECTION 16
+INFORMATION" means information regarding the Golden West Insiders, including
+the number of shares of Golden West Common Stock held or to be held by a
+Golden West Insider expected to be exchanged for Wachovia Common Stock in the
+Merger, and the number and description of the options to purchase shares of
+Golden West Common Stock held by a Golden West Insider and expected to be
+converted into options to purchase shares of Wachovia Common Stock
+in connection with the Merger.   "SECURITIES ACT" means the Securities Act
+of 1933 and the rules and regulations thereunder.   "STOCK CONSIDERATION"
+has the meaning assigned in Section 3.01.   "SUBSIDIARY" and "SIGNIFICANT
+SUBSIDIARY" have the meanings ascribed to those terms in Rule 1-02 of
+Regulation S-X promulgated by the SEC.   "SUPERIOR PROPOSAL" means a BONA
+FIDE written Acquisition Proposal which the Golden West Board concludes in
+good faith to be more favorable from a financial point of view to its
+shareholders than the Merger and the other transactions contemplated hereby,
+(1) after receiving the advice of its financial advisors (which shall be a
+nationally recognized investment banking firm), (2) after taking into account
+the likelihood and timing of consummation of the proposed transaction on the
+terms set forth therein (as compared to, and with due regard for, the terms
+herein) and (3) after taking into account all legal (with the advice of
+outside counsel), financial (including the financing terms of any such
+proposal), regulatory (including the advice of outside counsel regarding the
+potential for regulatory approval of any such proposal) and other aspects of
+such proposal and any other relevant factors permitted under applicable law;
+PROVIDED   7    that for purposes of the definition of "Superior
+Proposal", the references to "more than 15%" in the definition of Acquisition
+Proposal shall be deemed to be references to "25% or more".   "SURVIVING
+CORPORATION" has the meaning assigned in the Recitals.   "TAKEOVER LAWS" has
+the meaning assigned in Section 5.03(p).   "TAKEOVER PROVISIONS" has the
+meaning assigned in Section 5.03(p).   "TAX" and "TAXES" means all federal,
+state, local or foreign taxes, charges, fees, levies or other assessments,
+however denominated, including, without limitation, all net income, gross
+income, gains, gross receipts, sales, use, ad valorem, goods and services,
+capital, production, transfer, franchise, windfall profits, license,
+withholding, payroll, employment, disability, employer health, excise,
+estimated, severance, stamp, occupation, property, environmental,
+unemployment or other taxes, custom duties, fees, assessments or charges of
+any kind whatsoever, together with any interest and any penalties, additions
+to tax or additional amounts imposed by any taxing authority.   "TAX
+RETURNS" means any return, amended return or other report
+(including elections, declarations, disclosures, schedules, estimates and
+information returns) required to be filed with any taxing authority with
+respect to any Tax.   "VOTING AGREEMENTS" has the meaning assigned in the
+Recitals.   "WACHOVIA" has the meaning assigned in the preamble to this
+Agreement.   "WACHOVIA BOARD" means the Board of Directors of Wachovia.  
+"WACHOVIA COMMON STOCK" means the common stock, par value $3.33 per share, of
+Wachovia.   "WACHOVIA DRIP" means the Wachovia Dividend Reinvestment and
+Stock Purchase Plan.   "WACHOVIA MEETING" has the meaning assigned in
+Section 6.02(c).   "WACHOVIA PREFERRED STOCK" means, collectively, the
+Preferred Stock, no-par value, the Class A Preferred Stock, no-par value, and
+the Dividend Equalization Preferred shares, no-par value, of Wachovia.  
+"WACHOVIA RIGHTS" means rights to purchase shares of Wachovia Stock
+issued under the Wachovia Rights Agreement.   8     "WACHOVIA RIGHTS
+AGREEMENT" means the Shareholder Protection Rights Agreement, dated as of
+December 19, 2000, between Wachovia and Wachovia Bank, National Association,
+as Rights Agent.   "WACHOVIA STOCK" means, collectively, the Wachovia Common
+Stock and the Wachovia Preferred Stock.   "WACHOVIA STOCK OPTION" has the
+meaning assigned in Section 3.10.   "WACHOVIA STOCK PLANS" means the
+Wachovia 2003 Stock Incentive Plan, the Wachovia 2001 Stock Incentive Plan,
+the Wachovia Employee Retention Stock Plan, the Wachovia Stock Plan, the
+Wachovia 1998 Stock Incentive Plan, the Wachovia 1996 Master Stock
+Compensation Plan and the Wachovia 1992 Master Stock Compensation Plan, as
+amended.   1.02. INTERPRETATION. (a) In this Agreement, except as context
+may otherwise require, references:   (1) to the Preamble, Recitals,
+Sections, Annexes or Schedules are  to the Preamble to, a Recital or Section
+of, or Annex or Schedule to,  this Agreement;   (2) to this Agreement are
+to this Agreement, and the Annexes and  Schedules to it, taken as a
+whole;   (3) to any agreement (including this Agreement and the Voting 
+Agreements as executed and delivered), contract, statute or regulation  are
+to the agreement, contract, statute or regulation as amended,  modified,
+supplemented, restated or replaced from time to time (in the  case of an
+agreement or contract, to the extent permitted by the terms  thereof); and to
+any section of any statute or regulation include any  successor to the
+section;   (4) to the "transactions contemplated hereby" includes the 
+transactions provided for in this Agreement and the Annexes to it; and   (5)
+to any Governmental Authority include any successor to that  Governmental
+Authority; and   (6) to the date of this Agreement or the date hereof are to
+May  7, 2006.   (b) The table of contents and article and section headings
+are for  reference purposes only and do not limit or otherwise affect any of
+the  substance of this Agreement.   9     (c) The words "include,"
+"includes" or "including" are to be deemed  followed by the words "without
+limitation."   (d) The words "herein", "hereof" or "hereunder", and similar
+terms are  to be deemed to refer to this Agreement as a whole and not to any
+specific  Section.   (e) This Agreement is the product of negotiation by
+the parties,  having the assistance of counsel and other advisers. The
+parties intend  that this Agreement not be construed more strictly with
+regard to one party  than with regard to the other.   (f) No provision of
+this Agreement is to be construed to require,  directly or indirectly, any
+person to take any action, or omit to take any  action, to the extent such
+action or omission would violate applicable law  (including statutory and
+common law), rule or regulation.   ARTICLE II   THE MERGER   2.01. THE
+MERGER. Upon the terms and subject to the conditions set forth in this
+Agreement, Golden West will merge with and into Merger Sub at the
+Effective Time. At the Effective Time, the separate corporate existence of
+Golden West will terminate. Merger Sub will be the Surviving Corporation, and
+will continue its corporate existence under the laws of the State of North
+Carolina.   2.02. CLOSING. The closing of the Merger (the "CLOSING") will
+take place in the offices of Sullivan and Cromwell LLP, 125 Broad Street, New
+York, New York, at 10:00 a.m. on the third business day (unless the parties
+agree to another time or date) after satisfaction or waiver of the conditions
+set forth in Article VII, other than those conditions that by their nature
+are to be satisfied at the Closing, but subject to the fulfillment or waiver
+of those conditions (the "CLOSING DATE").   2.03. EFFECTIVE TIME. Subject
+to the provisions of this Agreement, in connection with the Closing, Golden
+West and Merger Sub will duly execute and deliver (1) articles of merger (the
+"ARTICLES OF MERGER") to the Secretary of State (NC) for filing under Section
+55-11-05 of the BCA and (2) a certificate of merger (the "CERTIFICATE OF
+MERGER") to the Secretary of State (Del) for filing under Section 252 of the
+GCL. The parties will make all other filings or recordings required under the
+BCA and the GCL, and the Merger will become effective when the Articles of
+Merger are filed in the office of the Secretary of State (NC) and the
+Certificate of Merger is filed in the office of the Secretary of State (Del),
+or at such later date or time as Wachovia and Golden West agree and specify
+in the Articles of Merger and the Certificate of Merger (the time the Merger
+becomes effective being THE "EFFECTIVE TIME").   10     2.04. EFFECTS OF
+THE MERGER. The Merger will have the effects prescribed by the BCA, the GCL
+and other applicable law.   2.05. CONSTITUENT DOCUMENTS. (a) The certificate
+of incorporation of Merger Sub, as in effect immediately before the Effective
+Time, will be the articles of incorporation of the Surviving Corporation as
+of the Effective Time.   (b) The by-laws of Merger Sub, as in effect
+immediately before the  Effective Time, will be the by-laws of the Surviving
+Corporation as of the  Effective Time.   2.06. GOLDEN WEST BOARD OF
+DIRECTORS. The board of directors of the Surviving Corporation shall consist
+of the members of the Merger Sub board of directors immediately before the
+Effective Time.   2.07. WACHOVIA BOARD. Wachovia agrees to cause two current
+members of the Golden West Board designated by Golden West and reasonably
+acceptable to Wachovia (the "GOLDEN WEST DIRECTOR APPOINTEES") to be
+appointed to the Wachovia Board immediately after the Effective Time.  
+ARTICLE III   CONSIDERATION; EXCHANGE PROCEDURES   3.01. CONSIDERATION. At
+the Effective Time, by virtue of the Merger and without any action on the
+part of the holder of any shares of Golden West Stock and subject to Sections
+3.04(c) and 3.05, the shares of Golden West Common Stock issued and
+outstanding immediately prior to the Effective Time, with respect to each
+holder of record of such shares, will be converted into the right
+to receive:   (1) a number of fully paid and nonassessable shares of
+Wachovia  Common Stock (and the requisite number of Wachovia Rights issued
+and  attached to such shares under the Wachovia Rights Agreement) equal to 
+the product of (i) 1.365 (the "EXCHANGE RATIO"), multiplied by (ii)  the
+number of shares of Golden West Common Stock held by such holder  of record,
+multiplied by (iii) 77 percent (such product, the "STOCK  CONSIDERATION");
+and   (2) an amount in cash equal to the product of (i) $81.07 (the  "CASH
+AMOUNT"), multiplied by (ii) the number of shares of Golden West  Common
+Stock held by such holder of record, multiplied by (iii) 23  percent (such
+product, the "CASH CONSIDERATION" and, together with the  Stock
+Consideration, the "MERGER CONSIDERATION").  Notwithstanding anything in
+this Section 3.01 to the contrary, at the Effective Time and by virtue of the
+Merger, each share of Golden West Common Stock beneficially owned  
+11    by Wachovia (other than shares held in a trust, fiduciary, or
+nominee capacity or as a result of debts previously contracted) or held in
+Golden West\'s treasury will be canceled and no shares of Wachovia Stock and
+no Wachovia Rights or other consideration will be issued or paid in exchange
+therefor.   3.02. CANCELLATION OF SHARES. At the Effective Time, the shares
+of Golden West Common Stock will no longer be outstanding and will
+automatically be canceled and will cease to exist. Certificates that
+represented Golden West Common Stock before the Effective Time will be deemed
+for all purposes to represent the number of shares of Wachovia Common Stock
+or cash into which they were converted pursuant to Section 3.01, and, as
+contemplated by the Wachovia Rights Agreement, attached Wachovia Rights.  
+3.03. RIGHTS AS SHAREHOLDERS; STOCK TRANSFERS. At the Effective Time, holders
+of Golden West Common Stock will cease to be, and will have no rights as,
+shareholders of Golden West, other than rights to (a) receive any then unpaid
+dividend or other distribution with respect to such Golden West Common Stock
+having a record date before the Effective Time and (b) receive the
+Merger Consideration provided under this Article III. After the Effective
+Time, there will be no transfers of shares of Golden West Common Stock on the
+stock transfer books of Golden West or the Surviving Corporation, and shares
+of Golden West Common Stock presented to the Surviving Corporation for any
+reason will be canceled and exchanged in accordance with this Article
+III.   3.04. EXCHANGE PROCEDURES. As of the Effective Time, Wachovia will
+deposit with Wachovia\'s transfer agent or with a depository or trust
+institution of recognized standing selected by Wachovia and reasonably
+satisfactory to Golden West (in such capacity, the "EXCHANGE AGENT"), for the
+benefit of the holders of certificates formerly representing shares of Golden
+West Common Stock ("OLD CERTIFICATES"), (1) certificates or, at Wachovia\'s
+option, evidence of shares in book entry form, representing the number of
+shares of Wachovia Common Stock ("NEW CERTIFICATES") issuable to holders of
+Old Certificates under this Article III, (2) the aggregate Cash Consideration
+payable to holders of Old Certificates under this Article III and (3) cash
+payable pursuant to Section 3.05 (the "EXCHANGE FUND").   (b) Promptly
+after the Effective Time, Wachovia will send or cause to  be sent to each
+person who was a recordholder of Golden West Common Stock  immediately before
+the Effective Time transmittal materials, in form  reasonably acceptable to
+Golden West, for exchanging Old Certificates. Upon  surrender of an Old
+Certificate for cancellation to the Exchange Agent  together with the
+transmittal materials, duly executed, and such other  documents as the
+Exchange Agent may reasonably require (including customary  indemnity if any
+of such certificates are lost, stolen, or destroyed), the  holder of such Old
+Certificate shall be entitled to receive in exchange  therefor a certificate
+representing that number of New Certificates which  such holder has the right
+to receive in respect of the Old Certificates  surrendered pursuant to the
+provisions of this Article III (after   12     taking into account all
+shares of Golden West Common Stock then held by  such holder) and any check
+in respect of the Cash Consideration payable to  the holder of such Old
+Certificates, dividends or distributions or for  fractional shares that the
+shareholder will be entitled to receive, and the  Old Certificates so
+surrendered shall forthwith be cancelled. No interest  will be paid on any
+such cash or other consideration deliverable pursuant  to this Article
+III.   (c) If, on or after the date of this Agreement and prior to the 
+Closing Date, any holder of record (or group of related holders of record) 
+of shares of Golden West Common Stock (a "TRANSFEROR") transfers or  conveys,
+in one or more transactions, a number of shares of Golden West  Common Stock
+to one or more charitable organizations (as defined in Section  170(c) of the
+Code) (each, a "TRANSFEREE" and together, the "TRANSFEREES")  such that the
+aggregate number of shares of Golden West Common Stock so  transferred or
+conveyed by the Transferor to the Transferees represents  more than 0.1
+percent of the issued and outstanding shares of Golden West  Common Stock as
+of the date of this Agreement, then the Transferor and the  Transferees may
+jointly and irrevocably elect by providing written notice  to Wachovia of
+such election (and proper provision shall be made on the  transmittal
+materials to give effect to such election) that the Transferor  and the
+Transferees be treated as though they were a single holder of  record for
+purposes of Section 3.01 and may designate in such written  notice to
+Wachovia and the transmittal materials the manner in which the  aggregate
+Stock Consideration and aggregate Cash Consideration that the  Transferor and
+Transferees are entitled to receive under this Article III  shall be
+allocated, and distributed by the Exchange Agent, among the  Transferor and
+Transferees.   (d) None of Wachovia, Golden West or the Exchange Agent will
+be liable  to any former holder of Golden West Common Stock for any shares of
+Wachovia  Common Stock (or dividends or distributions with respect thereto)
+or cash  from the Exchange Fund properly delivered to a public official
+pursuant to  applicable abandoned property, escheat or similar laws.   (e)
+Each of Wachovia and the Surviving Corporation shall be entitled  to deduct
+and withhold, or cause the Exchange Agent to deduct and withhold,  from the
+consideration otherwise payable pursuant to this Agreement to any  holder of
+Golden West Common Stock such amounts as it may be required to  deduct and
+withhold with respect to the making of such payment under the  Code, or any
+provision of state, local or foreign Tax law. To the extent  that amounts are
+so withheld by the Wachovia, the Surviving Corporation, or  the Exchange
+Agent, as the case may be, the withheld amounts shall be  treated for all
+purposes of this Agreement as having been paid to the  holders of Golden West
+Common Stock in respect of which the deduction and  withholding was made by
+Wachovia, the Surviving Corporation or the Exchange  Agent, as the case may
+be.   13     3.05. FRACTIONAL SHARES. Notwithstanding any other
+provision hereof, no fractional shares of Wachovia Common Stock and no
+certificates or scrip therefor, or other evidence of ownership thereof, will
+be issued in the Merger; instead, Wachovia will pay to each holder of Golden
+West Common Stock who would otherwise be entitled to a fractional share of
+Wachovia Common Stock (after taking into account all Old Certificates
+delivered by such holder) an amount in cash (without interest) determined by
+multiplying such fraction of a share of Wachovia Common Stock by the Market
+Price.   3.06. ANTI-DILUTION ADJUSTMENTS. If Wachovia changes (or the
+Wachovia Board sets a related record date that will occur before the
+Effective Time for a change in) the number or kind of shares of Wachovia
+Common Stock outstanding by way of a stock split, stock dividend,
+recapitalization, reclassification, reorganization or similar transaction,
+then the Exchange Ratio and the Cash Amount will be adjusted proportionately
+to account for such change.   3.07. DISSENTING SHAREHOLDERS. (a) Each
+Dissenting Share shall not be converted into or represent a right to receive
+Merger Consideration hereunder, and the holder thereof shall be entitled only
+to such rights as are granted by Section 262 of the GCL. Golden West shall
+give Wachovia prompt notice upon receipt by the Golden West of any demand for
+payment pursuant to Section 262 of the GCL and of withdrawals of such notice
+and any other instruments provided pursuant to applicable law (any
+stockholder duly making such demand being hereinafter called a "DISSENTING
+SHAREHOLDER"), and Wachovia shall have the right to participate in all
+negotiations and proceedings with respect to any such demands. Any payments
+made in respect of Dissenting Shares shall be made by Wachovia.   (b) If
+any Dissenting Shareholder shall effectively withdraw or lose  (through
+failure to perfect or otherwise) his or her right to dissent under  Section
+262 of the GCL at or prior to the Effective Time, such holder\'s  shares of
+Golden West Common Stock shall be converted into a right to  receive the
+Merger Consideration in accordance with the applicable  provisions of this
+Agreement.   3.08. EFFECT ON MERGER SUB COMMON STOCK. Each share of Merger
+Sub Common Stock outstanding immediately prior to the Effective Time will
+remain outstanding.   3.09. EFFECT ON WACHOVIA STOCK. Each share of
+Wachovia Stock outstanding immediately prior to the Effective Time will
+remain outstanding.   3.10. STOCK OPTIONS. At the Effective Time, by virtue
+of the Merger and without any action on the part of any holder of any
+outstanding option to purchase shares of Golden West Common Stock under the
+Golden West Stock Plans and any other Benefit Arrangement, whether vested or
+unvested, exercisable or unexercisable (each, a "GOLDEN WEST STOCK OPTION"),
+each Golden West Stock Option that is outstanding and unexercised immediately
+prior thereto shall immediately and fully vest and be deemed to constitute an
+option (a "NEW OPTION") to purchase, on the same terms and conditions as  
+14    were applicable under the terms of the stock option plan under which
+the Golden West Stock Option was granted and the applicable award agreement
+thereunder (taking into account the accelerated vesting provided in this
+Section 3.10 and the amendments to the Golden West Stock Options as
+Previously Disclosed), such number of shares of Wachovia Common Stock and at
+such an exercise price per share determined as follows:   (1) NUMBER OF
+SHARES. The number of shares of Wachovia Common  Stock subject to a New
+Option shall be equal to the product of (A) the  number of shares of Golden
+West Common Stock purchasable upon exercise  of the Golden West Stock Option
+and (B) the Exchange Ratio, the  product being rounded down to the nearest
+whole share; and   (2) EXERCISE PRICE. The exercise price per share of
+Wachovia  Common Stock purchasable upon exercise of a New Option shall be
+equal  to (A) the exercise price per share of Golden West Common Stock
+under  the Golden West Stock Option divided by (B) the Exchange Ratio, the 
+quotient being rounded up to the nearest cent.  For the avoidance of doubt,
+the foregoing adjustments shall be effected in a manner consistent with
+Section 424(a) of the Code.   (b) Before the Effective Time, Golden West, or
+its Board of  Directors or an appropriate committee thereof, shall take all
+action  necessary on its part to give effect to the provisions of Section 
+3.10(a) and shall take such other actions reasonably requested by  Wachovia
+to give effect to the foregoing. Before the Effective Time,  Wachovia shall
+take all corporate action necessary to reserve for  future issuance a
+sufficient additional number of shares of Wachovia  Common Stock to provide
+for the satisfaction of its obligations with  respect to the New Options. As
+soon as practicable, but in no event  later than the Effective Time, Wachovia
+shall file a registration  statement on Form S-8 (or any successor or other
+appropriate form)  with respect to the Wachovia Common Stock issuable upon
+exercise of  the New Options and shall maintain the effectiveness of such 
+registration statement (and to maintain the current status of the  prospectus
+or prospectuses contained therein) for so long as such New  Options remain
+outstanding.   ARTICLE IV   CONDUCT OF BUSINESS PENDING THE MERGER  
+4.01. FOREBEARANCES OF GOLDEN WEST. Golden West agrees that from the
+date hereof until the Effective Time, except as expressly contemplated by
+this Agreement or as Previously Disclosed, without the prior written consent
+of Wachovia (which consent will not be unreasonably withheld or delayed), it
+will not, and will cause each of its Subsidiaries not to:   15     (a)
+ORDINARY COURSE. Conduct its business and the business of its  Subsidiaries
+other than in the ordinary and usual course or fail to use  reasonable best
+efforts to preserve intact its business organizations and  assets and
+maintain its rights, franchises and authorizations and their  existing
+relations with customers, suppliers, employees and business  associates, or
+take any action reasonably likely to materially impair its  ability to
+perform its obligations under this Agreement or to consummate  the
+transactions contemplated hereby.   (b) OPERATIONS. Enter into any new
+material line of business or change  its material lending, investment,
+underwriting, risk and asset liability  management and other material banking
+and operating policies, except as  required by applicable law, regulation or
+policies imposed by any  Governmental Authority.   (c) CAPITAL STOCK. Other
+than pursuant to Rights Previously Disclosed  and outstanding on the date of
+this Agreement, (1) issue, sell or otherwise  permit to become outstanding,
+or dispose of or encumber or pledge, or  authorize or propose the creation
+of, any additional shares of its stock,  or (2) permit any additional shares
+of its stock to become subject to new  grants, except issuances of employee
+or director stock options or other  stock-based employee Rights in the
+ordinary course of business consistent  with past practice.   (d)
+DIVIDENDS, DISTRIBUTIONS, REPURCHASES. (1) Make, declare, pay or  set aside
+for payment any dividend on or in respect of, or declare or make  any
+distribution on any shares of its stock (OTHER THAN (A) dividends from  its
+wholly owned Subsidiaries to it or another of its wholly owned  Subsidiaries
+or (B) regular quarterly dividends on its common stock,  provided that any
+such dividend shall be at a rate equal to the rate paid  by it during the
+fiscal quarter immediately preceding the date hereof, or  required dividends
+on preferred stock or (2) directly or indirectly adjust,  split, combine,
+redeem, reclassify, purchase or otherwise acquire, any  shares of its
+stock.   (e) DISPOSITIONS. Sell, transfer, mortgage, encumber or otherwise 
+dispose of or discontinue any of its assets, deposits, business or 
+properties, except for sales, transfers, mortgages, encumbrances or other 
+dispositions or discontinuances in the ordinary course of business 
+consistent with past practice (which shall be deemed to include asset  sales,
+including sales of whole loans and securitizations, in the ordinary  course)
+and in a transaction that, together with other such transactions,  is not
+material to it and its Subsidiaries, taken as a whole.   (f) ACQUISITIONS.
+Acquire (other than by way of foreclosures or  acquisitions of control in a
+fiduciary or similar capacity or in  satisfaction of debts previously
+contracted in good faith or otherwise in  the ordinary and usual course of
+business consistent with past practice)  all or any portion of the assets,
+business, deposits or properties of any  other entity in an amount that is
+material to Golden West.   16     (g) CONSTITUENT DOCUMENTS. Amend its
+Constituent Documents or the  Constituent Documents (or similar governing
+documents) of any of its  Significant Subsidiaries.   (h) ACCOUNTING
+METHODS. Implement or adopt any change in its financial  or regulatory
+accounting principles, practices or methods or change any  actuarial or other
+assumptions used to calculate funding obligations with  respect to any
+Benefit Arrangement, other than (with prior notice to  Wachovia) as may be
+required by GAAP or applicable regulatory accounting  requirements.   (i)
+ADVERSE ACTIONS. Notwithstanding anything herein to the contrary,  (1)
+knowingly take, or knowingly omit to take, any action that would, or is 
+reasonably likely to, prevent or impede the Merger from qualifying as a 
+reorganization within the meaning of Section 368(a) of the Code or (2) 
+knowingly take, or knowingly omit to take, any action that is reasonably 
+likely to result in any of the conditions to the Merger set forth in  Article
+VII not being satisfied in a timely manner, except (with prior  notice to
+Wachovia) as may be required by applicable law or regulation.   (j)
+COMPENSATION AND BENEFITS. Grant any salary or wage increase or  increase any
+employee benefit, including incentive or bonus payments (or,  with respect to
+any of the preceding, communicate any intention to take  such action), EXCEPT
+(1) to make changes that are required by applicable  law, (2) to satisfy
+Previously Disclosed contractual obligations existing  as of the date hereof,
+(3) for merit-based or annual salary increases in  the ordinary course of
+business and in accordance with past practice, but  not to exceed in the
+aggregate 5% of the aggregate annual salaries of the  employees of Golden
+West and its Subsidiaries, taken as a whole, or (4) for  employment
+arrangements for, or grants of awards to, newly hired employees  in the
+ordinary and usual course of business consistent with past practice.   (k)
+BENEFIT PLANS. Enter into, establish, adopt, amend, modify  (including by way
+of interpretation) or renew any Benefit Arrangement, or  any trust agreement
+(or similar arrangement) related thereto, in respect of  any director,
+officer or employee, take any action to accelerate the  vesting or
+exercisability of Golden West Stock Options or other  compensation or
+benefits payable under any Benefit Arrangement, fund or in  any other way
+secure the payment of compensation or benefits under any  Benefit
+Arrangement, change the manner in which contributions to any  Benefit
+Arrangement are made or determined, or add any new participants to  or
+increase the principal sum of any non-qualified retirement plans (or,  with
+respect to any of the preceding, communicate any intention to take  such
+action), EXCEPT (1) as may be required by applicable law, (2) to  satisfy
+Previously Disclosed contractual obligations existing as of the  date hereof
+or (3) amendments that do not increase benefits or result in  increased
+administrative costs.   17    (l) TAXES. Make or change any material Tax
+elections, change or  consent to any material change in its or its
+Subsidiaries\' method of  accounting for Tax purposes (except as required by
+applicable Tax law),  settle or compromise any material Tax liability, claim
+or assessment, or  file any material amended Tax Return.   (m) COMMITMENTS.
+Enter into any contract with respect to, or otherwise  agree or commit to do,
+any of the foregoing.   4.02. FOREBEARANCES OF WACHOVIA. Wachovia agrees
+that from the date hereof until the Effective Time, except as expressly
+contemplated by this Agreement or as Previously Disclosed, without the prior
+written consent of Golden West, it will not, and will cause each of its
+Subsidiaries not to:   (a) CONSTITUENT DOCUMENTS. Amend its Constituent
+Documents in a manner  that would materially and adversely affect the rights
+and privileges of  holders of Wachovia Common Stock or prevent or materially
+impede or  materially delay consummation of the transactions contemplated
+hereby.   (b) ADVERSE ACTIONS. Notwithstanding anything herein to the
+contrary,  (1) knowingly take, or knowingly omit to take, any action that
+would, or is  reasonably likely to, prevent or impede the Merger from
+qualifying as a  reorganization within the meaning of Section 368(a) of the
+Code or (2)  knowingly take, or knowingly omit to take, any action that is
+reasonably  likely to result in any of the conditions to the Merger set forth
+in  Article VII not being satisfied in a timely manner, except (with prior 
+notice to Golden West) as may be required by applicable law or regulation.  
+(c) COMMITMENTS. Enter into any contract with respect to, or otherwise  agree
+or commit to do, any of the foregoing.   Notwithstanding anything in
+paragraphs (a), (b) or (c) of this Section 4.02 to the contrary, Wachovia may
+make dispositions and acquisitions and agree to issue capital stock in
+connection therewith, provided that such actions do not present a material
+risk that the Closing Date will be delayed or that the Requisite Regulatory
+Approvals will be materially more difficult to obtain.   4.03. COORDINATION
+OF DIVIDENDS. Until the Effective Time, Golden West will coordinate with
+Wachovia regarding the declaration of any dividends or other distributions
+with respect to Golden West Common Stock and the related record dates and
+payment dates, it being intended that Golden West shareholders will not
+receive more than one dividend, or fail to receive one dividend, for
+any single calendar quarter on their shares of Golden West Common Stock
+(including any shares of Wachovia Common Stock received in exchange therefor
+in the Merger).   18    ARTICLE V   REPRESENTATIONS AND WARRANTIES  
+5.01. DISCLOSURE SCHEDULES. Before entry into this Agreement,
+Wachovia delivered to Golden West a schedule and Golden West delivered to
+Wachovia a schedule (respectively, each schedule a "DISCLOSURE SCHEDULE"),
+setting forth, among other things, items the disclosure of which is necessary
+or appropriate either in response to an express disclosure requirement
+contained in a provision hereof or as an exception to one or more
+representations or warranties contained in Section 5.03 or to one or more of
+its covenants contained in Article IV; PROVIDED that the inclusion of an item
+in a Disclosure Schedule as an exception to a representation or warranty will
+not by itself be deemed an admission by a party that such item is material or
+was required to be disclosed therein.   5.02. STANDARD. For all purposes of
+this Agreement, no representation or warranty of Golden West or Wachovia
+contained in Section 5.03 or 5.04 (other than the representations and
+warranties contained in Section 5.03(b) and 5.03(c), which shall be true in
+all material respects) will be deemed untrue, and no party will be deemed to
+have breached a representation or warranty, as a consequence of the existence
+of any fact, event or circumstance unless such fact, circumstance or event,
+individually or taken together with all other facts, events or circumstances
+inconsistent with any representation or warranty contained in Section 5.03 or
+5.04, has had or is reasonably likely to have a Material Adverse Effect with
+respect to Golden West or Wachovia, as the case may be.   5.03.
+REPRESENTATIONS AND WARRANTIES. Except as Previously Disclosed or as set
+forth in its Regulatory Filings filed or furnished with the SEC on or
+after January 1, 2003 and prior to the date of this Agreement, Golden West
+represents and warrants to Wachovia, and Wachovia hereby represents and
+warrants to Golden West, to the extent applicable, as follows:   (a)
+ORGANIZATION, STANDING AND AUTHORITY. It is a corporation duly  organized,
+validly existing and in good standing under the laws of the  jurisdiction of
+its incorporation. It is duly qualified to do business and  is in good
+standing in all jurisdictions where its ownership or leasing of  property or
+assets or its conduct of business requires it to be so  qualified.   (b)
+GOLDEN WEST STOCK. In the case of Golden West:   The authorized capital
+stock of Golden West consists of 600,000,000 shares of Golden West Common
+Stock and 20,000,000 shares of Golden West Preferred Stock. As of the date of
+this Agreement, no more than 309,000,000 shares of Golden West Common Stock
+and no shares of Golden West Preferred Stock were outstanding. As of the date
+of this Agreement, no more than 34,600,000 shares of Golden West Common Stock
+were reserved for issuance under the Golden West Stock Plans (of which no
+more than 9,600,000 shares were reserved for issuance in respect of awards
+outstanding as of such date). The outstanding shares of Golden West Common
+Stock have been duly   19    authorized and are validly issued and
+outstanding, fully paid and nonassessable, and subject to no preemptive
+rights (and were not issued in violation of any preemptive rights). Except
+for shares issuable pursuant to the Golden West Stock Plans, as of the date
+of this Agreement, there are no shares of Golden West Stock reserved for
+issuance, Golden West does not have any Rights outstanding with respect to
+Golden West Stock, and Golden West does not have any commitment to authorize,
+issue or sell any Golden West Stock or Rights, except pursuant to this
+Agreement, outstanding Golden West Stock Options and the Golden West
+Stock Plans. As of the date of this Agreement, Golden West has no commitment
+to redeem, repurchase or otherwise acquire, or to register with the SEC, any
+shares of Golden West Stock.   (c) WACHOVIA STOCK. In the case of
+Wachovia:   The authorized capital stock of Wachovia consists of
+3,000,000,000 shares of Wachovia Common Stock and 550,000,000 shares of
+Wachovia Preferred Stock. As of the date of this Agreement, no more than
+1,625,000,000 shares of Wachovia Common Stock and 97,000,000 shares of
+Wachovia Dividend Equalization Preferred Stock were outstanding. As of March
+31, 2006, no more than 140,000,000 shares of Wachovia Common Stock were
+subject to Wachovia Stock Options granted under the Wachovia Stock Plans. As
+of March 31, 2006, there were no more than 66,000,000 shares of Wachovia
+Common Stock reserved for issuance under the Wachovia Stock Plans. The
+outstanding shares of Wachovia Common Stock have been duly authorized and are
+validly issued and outstanding, fully paid and nonassessable, and subject to
+no preemptive rights (and were not issued in violation of any preemptive
+rights). The shares of Wachovia Common Stock (together with the Wachovia
+Rights) to be issued in the Merger have been duly authorized and, if and when
+issued in the Merger, will be fully paid and nonassessable. Except as set
+forth above, as of the date of this Agreement, there are no shares
+of Wachovia Stock reserved for issuance, Wachovia does not have any Rights
+issued or outstanding with respect to Wachovia Stock, and Wachovia does not
+have any commitment to authorize, issue or sell any Wachovia Stock or Rights,
+except pursuant to this Agreement, outstanding Wachovia Stock Options, the
+Wachovia Stock Plans, the Wachovia Rights Agreement and the Wachovia DRIP. As
+of the date of this Agreement, Wachovia has no commitment to redeem,
+repurchase or otherwise acquire, or to register with the SEC, any shares of
+Wachovia Stock.   (d) SIGNIFICANT SUBSIDIARIES. (1) (A) It owns, directly or
+indirectly,  all the outstanding equity securities of each of its
+Significant  Subsidiaries free and clear of any Liens, (B) no equity
+securities of any  of its Significant Subsidiaries are or may become required
+to be issued  (other than to it or its wholly owned Subsidiaries) by reason
+of any Right  or otherwise, (C) there are no contracts, commitments,
+understandings or  arrangements by which any of such Significant Subsidiaries
+is or may be  bound to sell or otherwise transfer any equity securities of
+any such  Significant Subsidiaries (other than to it or its wholly-owned 
+Subsidiaries), (D) there are no contracts, commitments, understandings, or 
+arrangements relating to its rights to vote or to dispose of such 
+securities, (E) all   20     the equity securities of each Significant
+Subsidiary held by it or its  Subsidiaries have been duly authorized and are
+validly issued and  outstanding, fully paid and nonassessable (except as
+provided in 12 U.S.C.  ss. 55 or comparable OTS or state laws in the case of
+banking  Subsidiaries), and (F) each Significant Subsidiary that is a bank
+or  savings association is an "insured bank" as defined in the Federal
+Deposit  Insurance Act and applicable regulations thereunder.   (2) Each of
+its Significant Subsidiaries has been duly organized  and is validly existing
+in good standing under the laws of the  jurisdiction of its organization, and
+is duly qualified to do business  and in good standing in all jurisdictions
+where its ownership or  leasing of property or its conduct of business
+requires it to be so  qualified.   (e) POWER. It and each of its
+Subsidiaries has the corporate (or  comparable) power and authority to carry
+on its business as it is now being  conducted and to own all its properties
+and assets; and it has the  corporate (or comparable) power and authority to
+execute, deliver and  perform its obligations under this Agreement and to
+consummate the  transactions contemplated hereby.   (f) AUTHORITY. It has
+duly authorized, executed and delivered this  Agreement and has taken all
+corporate action necessary in order to execute  and deliver this Agreement.
+Subject only to receipt of the requisite  affirmative vote (1) to approve the
+issuance of Wachovia Common Stock  required by this Agreement, by the holders
+of a majority of the shares of  Wachovia Common Stock voted and (2) to
+approve the plan of merger contained  in this Agreement by the holders of a
+majority of the outstanding shares of  Golden West Common Stock, as the case
+may be, this Agreement and the  transactions contemplated hereby have been
+authorized by all corporate  action necessary on its respective part. This
+Agreement is its valid and  legally binding obligation, enforceable in
+accordance with its terms  (except as enforcement may be limited by
+applicable bankruptcy, insolvency,  reorganization, moratorium, fraudulent
+transfer and similar laws of general  applicability relating to or affecting
+creditors\' rights or by general  equity principles).   (g) REGULATORY
+APPROVALS; NO DEFAULTS. (1) No consents or approvals  of, or filings or
+registrations with, any Governmental Authority or with  any third party are
+required to be made or obtained by it or any of its  Subsidiaries in
+connection with the execution, delivery or performance by  it of this
+Agreement or to consummate the Merger, except for (A) filings of 
+applications and notices with, receipt of approvals or nonobjections from, 
+and expiration of related waiting periods required by foreign, federal and 
+state banking authorities, including applications and notices under the BHC 
+Act, the Bank Merger Act, HOLA and the Federal Reserve Act, (B) filing of 
+notices, and expiration of the related waiting period, under the HSR Act, 
+(C) filings of applications and notices with, and receipt of approvals or 
+nonobjections from, the SEC and state securities   21     authorities,
+the National Association of Securities Dealers, Inc.,  applicable securities
+exchanges and self-regulatory organizations, the  Small Business
+Administration and state insurance authorities, (D) filing  of the
+Registration Statement and Joint Proxy Statement with the SEC, and 
+declaration by the SEC of the Registration Statement\'s effectiveness under 
+the Securities Act, (E) receipt of the applicable shareholder approvals 
+described in Section 5.03(f), (F) the filing of the Articles of Merger and 
+Certificate of Merger, and (G) such filings with applicable securities 
+exchanges to obtain the authorizations for listing contemplated by this 
+Agreement.   (2) Subject to receipt of the consents and approvals referred
+to  in the preceding paragraph, and the expiration of related waiting 
+periods, and required filings under federal and state securities laws,  the
+execution, delivery and performance of this Agreement and the  consummation
+of the transactions contemplated hereby do not and will  not (A) constitute a
+breach or violation of, or a default under, or  give rise to any Lien or any
+acceleration of remedies, penalty,  increase in material benefit payable or
+right of termination under,  any law, rule or regulation or any judgment,
+decree, order,  governmental permit or license, or agreement, indenture or
+instrument  of it or of any of its Subsidiaries or to which it or any of
+its  Subsidiaries or properties is subject or bound, (B) constitute a 
+breach or violation of, or a default under, its Constituent Documents  or (C)
+require any consent or approval under any such law, rule,  regulation,
+judgment, decree, order, governmental permit or license,  agreement,
+indenture or instrument.   (3) As of the date of this Agreement, it is not
+aware of any  reason why the necessary regulatory approvals and consents will
+not be  received in order to permit consummation of the Merger on a timely 
+basis.   (h) FINANCIAL REPORTS AND REGULATORY FILINGS; MATERIAL ADVERSE
+EFFECT.  (1) Its Annual Reports on Form 10-K for the fiscal years ended
+December 31,  2003, 2004 and 2005, and all other reports, registration
+statements,  definitive proxy statements or information statements filed by
+it or any of  its Subsidiaries subsequent to December 31, 2002 under the
+Securities Act,  or under Section 13(a), 13(c), 14 or 15(d) of the Exchange
+Act, in the form  filed (collectively, its "REGULATORY FILINGS") with the SEC
+as of the date  filed, (A) complied in all material respects as to form with
+the applicable  requirements under the Securities Act or the Exchange Act, as
+the case may  be, and (B) did not contain any untrue statement of a material
+fact or omit  to state a material fact required to be stated therein or
+necessary to make  the statements therein, in the light of the circumstances
+under which they  were made, not misleading; and each of the statements of
+financial position  contained in or incorporated by reference into any such
+Regulatory Filing  (including the related notes and schedules) fairly
+presented in all  material respects its financial position and that of its
+Subsidiaries   22     as of the date of such statement, and each of the
+statements of income and  changes in shareholders\' equity and cash flows or
+equivalent statements in  such Regulatory Filings (including any related
+notes and schedules thereto)  fairly presented in all material respects, the
+results of operations,  changes in shareholders\' equity and changes in cash
+flows, as the case may  be, of it and its Subsidiaries for the periods to
+which those statements  relate, in each case in accordance with GAAP
+consistently applied during  the periods involved, except in each case as may
+be noted therein, and  subject to normal year-end audit adjustments and as
+permitted by Form 10-Q  in the case of unaudited statements.   (2) Since
+December 31, 2005, it and its Subsidiaries have not  incurred any liability
+other than in the ordinary course of business  consistent with past
+practice.   (3) Since December 31, 2005, (A) it and its Subsidiaries have 
+conducted their respective businesses in the ordinary and usual course 
+consistent with past practice (excluding the incurrence of expenses  related
+to this Agreement and the transactions contemplated hereby)  and (B) no event
+has occurred or circumstance arisen that,  individually or taken together
+with all other facts, circumstances and  events (described in any paragraph
+of Section 5.03 or otherwise), has  had or is reasonably likely to have a
+Material Adverse Effect with  respect to it.   (i) LITIGATION. Except as
+set forth in its Annual Report on Form 10-K  for the fiscal year ended
+December 31, 2005 (without giving effect to any  amendment filed after the
+date of this Agreement), there is no suit,  action, investigation or
+proceeding pending or, to its knowledge,  threatened against or affecting it
+or any of its Subsidiaries (and it is  not aware of any basis for any such
+suit, action or proceeding), nor is  there any judgment, decree, injunction,
+rule or order of any governmental  entity or arbitration outstanding against
+it or any of its Subsidiaries.   (j) REGULATORY MATTERS. Except as set forth
+in its Annual Report on  Form 10-K for the fiscal year ended December 31,
+2005 (without giving  effect to any amendment filed after the date of this
+Agreement), neither it  nor any of its Subsidiaries is subject to, or has
+been advised that it is  reasonably likely to become subject to, any special
+procedures or  restrictions related to expansion imposed by any written
+order, decree,  agreement, memorandum of understanding or similar arrangement
+with, or a  commitment letter or similar submission to, or extraordinary
+supervisory  letter from, or adopted any extraordinary board resolutions at
+the request  of, any Governmental Authority charged with the supervision or
+regulation  of financial institutions or issuers of securities or engaged in
+the  insurance of deposits or the supervision or regulation of it or any of
+its  Subsidiaries. In the case of Wachovia, it is a "financial holding
+company",  as defined in Section 2(p) of the BHC Act, and is not subject to
+an  agreement   23     under Section 4(m) of such Act. In the case of
+Golden West, (i) it is a  savings and loan holding company duly registered
+under HOLA and (ii) the  activities conducted by it and its Subsidiaries are
+permissible for a  savings and loan company under Section 10(c)(2) of
+HOLA.   (k) COMPLIANCE WITH LAWS. Except as set forth in its Annual Report
+on  Form 10-K for the fiscal year ended December 31, 2005 (without giving 
+effect to any amendment filed after the date of this Agreement), it and  each
+of its Subsidiaries:   (1) conducts its business in compliance with all
+applicable  federal, state, local and foreign statutes, laws, regulations, 
+ordinances, rules, judgments, orders or decrees applicable thereto or  to the
+employees conducting such businesses;   (2) has all permits, licenses,
+authorizations, orders and  approvals of, and has made all filings,
+applications and registrations  with, all Governmental Authorities that are
+required in order to  permit them to own or lease their properties and to
+conduct their  businesses as presently conducted; all such permits,
+licenses,  certificates of authority, orders and approvals are in full force
+and  effect and, to its knowledge, no suspension or cancellation of any of 
+them is threatened;   (3) has received, since December 31, 2002, no
+written  notification from any Governmental Authority (A) asserting that it
+or  any of its Subsidiaries is not in compliance with any of the statutes, 
+regulations or ordinances which such Governmental Authority enforces  or (B)
+threatening to revoke any license, franchise, permit or  governmental
+authorization; and   (4) is in compliance with all applicable listing
+standards, of  the NYSE.   (5) has no reason to believe that any facts or
+circumstances  exist, which would cause it or any of its Subsidiaries to be
+deemed  (i) to be operating in violation in any material respect of the
+Bank  Secrecy Act, the Patriot Act, any order issued with respect to  anti-
+money laundering by the U.S. Department of the Treasury\'s Office  of Foreign
+Assets Control, or any other applicable anti-money  laundering statute, rule
+or regulation; or (ii) not to be in  satisfactory compliance in any material
+respect with the applicable  privacy and customer information requirements
+contained in any federal  and state privacy laws and regulations, including,
+without limitation,  in Title V of the Gramm-Leach-Bliley Act of 1999 and the
+regulations  promulgated thereunder, as well as the provisions of the
+applicable  information security program adopted pursuant to 12 C.F.R Part
+40.   24     (l) MATERIAL CONTRACTS; DEFAULTS. (1) Except for those
+agreements and  other documents filed as exhibits to its Annual Report on
+Form 10-K for the  fiscal year ended December 31, 2005, neither it nor any of
+its Subsidiaries  is a party to, bound by or subject to any agreement,
+contract, arrangement,  commitment or understanding (whether written or oral)
+(A) that is a  "material contract" within the meaning of Item 601(b)(10) of
+the SEC\'s  Regulation S-K, (B) that purports to restrict the conduct of any
+line of  business by it or any of its Subsidiaries or its or their ability
+to  compete in any line of business or (C) with respect to employment of an 
+officer, director or consultant.   (2) Neither it nor any of its
+Subsidiaries is in default under  any material contract, agreement,
+commitment, arrangement, lease,  insurance policy or other instrument to
+which it is a party, by which  its respective assets, business, or operations
+may be bound or  affected, or under which it or its respective assets,
+business, or  operations receives benefits, and there has not occurred any
+event  that, with the lapse of time or the giving of notice or both, would 
+constitute such a default.   (m) EMPLOYEE BENEFIT PLANS. (1) All of its
+Benefit Arrangements are  Previously Disclosed, other than those Benefit
+Arrangements that are not  material. True and complete copies of all Benefit
+Arrangements, including,  but not limited to, any trust instruments and
+insurance contracts forming a  part of any Benefit Arrangements, and all
+amendments thereto, have been  made available to the other party.   (2) All
+of its Benefit Arrangements, other than "multiemployer  plans" within the
+meaning of Section 3(37) of ERISA, are in compliance  with ERISA, the Code
+and other applicable laws. Each of its Benefit  Arrangements which is an
+"employee pension benefit plan" within the  meaning of Section 3(2) of ERISA
+("PENSION PLAN"), and which is  intended to be qualified under Section 401(a)
+of the Code, has  received a favorable determination letter from the Internal
+Revenue  Service covering all tax law changes prior to the Economic Growth
+and  Tax Relief Reconciliation Act of 2001 or has applied to the IRS for 
+such letter within the applicable remedial amendment period under  Section
+401(b) of the Code, and it is not aware of any circumstances  reasonably
+likely to result in the loss of qualification of any such  Pension Plan under
+Section 401(a) of the Code. Each Benefit  Arrangement which is intended to be
+part of a voluntary employees\'  beneficiary association within the meaning
+of Section 501(c)(9) of the  Code has (A) received an opinion letter from the
+Internal Revenue  Service recognizing its exempt status under Section
+501(c)(9) of the  Code and (B) filed a timely notice with the Internal
+Revenue Service  pursuant to Section 505(c) of the Code, and it is not aware
+of  circumstances likely to result in the loss of the exempt status of  such
+Benefit Arrangement under Section 501(c)(9) of the Code. There   25    
+is no pending or, to its knowledge, threatened litigation (other than 
+routine claims for benefits in the ordinary course of business)  relating to
+its Benefit Arrangements. Neither it nor any of its  Subsidiaries has engaged
+in a transaction with respect to any of its  Benefit Arrangements that,
+assuming the taxable period of such  transaction expired as of the date
+hereof, could subject it or any of  its Subsidiaries to a tax or penalty
+imposed by either Section 4975 of  the Code or Section 502(i) of ERISA.
+Neither it nor any of its  Subsidiaries has incurred or reasonably expects to
+incur a tax or  penalty imposed by Section 4980F of the Code or Section 502
+of ERISA  or any liability under Section 4071 of ERISA.   (3) No liability
+under Subtitle C or D of Title IV of ERISA has  been or is reasonably
+expected to be incurred by it or any of its  Subsidiaries with respect to any
+ongoing, frozen or terminated  "single-employer plan", within the meaning of
+Section 4001(a)(15) of  ERISA, currently or formerly maintained by any of
+them, or the  single-employer plan of any entity which is considered one
+employer  with it under Section 4001 of ERISA or Section 414 of the Code
+(an  "ERISA AFFILIATE"). None of it, any of its Subsidiaries or any of its 
+ERISA Affiliates has contributed to a "multiemployer plan", within the 
+meaning of Section 3(37) of ERISA, at any time within the last six  years. No
+notice of a "reportable event", within the meaning of  Section 4043 of ERISA
+for which the 30-day reporting requirement has  not been waived, other than
+pursuant to Pension Benefit Guaranty  Corporation Reg. Section 4043.66, has
+been required to be filed for  any of its Pension Plans or by any of its
+ERISA Affiliates within the  12-month period ending on the date hereof. No
+notices have been  required to be sent to participants and beneficiaries or
+the Pension  Benefit Guaranty Corporation under Section 302 or 4011 of ERISA
+or  Section 412 of the Code.   (4) All contributions required to be made
+under the terms of any  of its Benefit Arrangements have been timely made or
+have been  reflected on its consolidated financial statements included in
+its  Regulatory Filings. None of its Pension Plans or any single-employer 
+plan of any of its ERISA Affiliates has an "accumulated funding  deficiency"
+(whether or not waived) within the meaning of Section 412  of the Code or
+Section 302 of ERISA and none of its ERISA Affiliates  has an outstanding
+funding waiver. Neither any Pension Plan nor any  single-employer plan of any
+of its ERISA Affiliates has been required  to file information pursuant to
+Section 4010 of ERISA for the current  or most recently completed plan year.
+It is not reasonably anticipated  that required minimum contributions to any
+Pension Plan under Section  412 of the Code will be increased by application
+of Section 412(l) of  the Code. Neither it nor any of its Subsidiaries has
+provided, or is  required to provide, security to any of its Pension Plans or
+to any  single-employer   26     plan of any of its ERISA Affiliates
+pursuant to Section 401(a)(29) of  the Code.   (5) Under each Pension Plan
+which is a single-employer plan, as  of the last day of the most recent plan
+year ended prior to the date  hereof, the actuarially determined present
+value of all "benefit  liabilities", within the meaning of Section
+4001(a)(16) of ERISA (as  determined on the basis of the actuarial
+assumptions contained in such  Pension Plan\'s most recent actuarial
+valuation), did not exceed the  then current value of the assets of such
+Pension Plan, and there has  been no change in the financial condition of
+such Pension Plan since  the last day of the most recent plan year.   (6)
+Neither it nor any of its Subsidiaries has any obligations  for retiree
+health and life benefits under any Benefit Arrangement or  collective
+bargaining agreement. Either it or its Subsidiaries may  amend or terminate
+any such plan at any time without incurring any  liability thereunder other
+than in respect of claims incurred prior to  such amendment or
+termination.   (7) There has been no amendment to, announcement by it or any
+of  its subsidiaries relating to, or change in employee participation or 
+coverage under, any Benefit Arrangement which would increase the  expense of
+maintaining such Benefit Arrangement above the level of the  expense incurred
+therefor for the most recent fiscal year. Neither its  execution of this
+Agreement, the performance of its obligations  hereunder, the consummation of
+the transactions contemplated hereby,  the termination of the employment of
+any of its employees within a  specified time of the Effective Time nor
+shareholder approval of the  transactions covered by this Agreement, will (A)
+limit its right, in  its sole discretion, to administer or amend in any
+respect or  terminate any of its Benefit Arrangements or any related trust,
+(B)  entitle any of its employees or any employees of its Subsidiaries to 
+severance pay or any increase in severance pay, or (C) accelerate the  time
+of payment or vesting or trigger any payment or funding (through  a grantor
+trust or otherwise) of compensation or benefits under,  increase the amount
+payable or trigger any other material obligation  pursuant to, any of its
+Benefit Arrangements. Without limiting the  foregoing, as a result of the
+consummation of the transactions  contemplated hereby (including as a result
+of the termination of the  employment of any of its employees within a
+specified time of the  Effective Time) neither it nor any of its Subsidiaries
+will be  obligated to make a payment to an individual that would be a 
+"parachute payment" to a "disqualified individual" as those terms are 
+defined in Section 280G of the Code, without regard to whether such  payment
+is reasonable compensation for personal services performed or  to be
+performed in the future.   27     (8) No additional Tax under Section
+409A(a)(1)(B) of the Code has  been or is reasonably expected to be incurred
+by a participant in a  nonqualified deferred compensation plan (within the
+meaning of Section  409(A)(d)(1) of the Code) of it or any of its
+Subsidiaries.   (n) TAXES. (1) All Tax Returns that are required to be filed
+(taking  into account any extensions of time within which to file) by or
+with  respect to it and its Subsidiaries have been duly, timely and
+accurately  filed, (2) all Taxes shown to be due on the Tax Returns referred
+to in  clause (1) have been paid in full, except with respect to matters
+contested  in good faith and for which adequate reserves have been
+established in  accordance with GAAP, (3) all Taxes that it or any of its
+Subsidiaries is  obligated to withhold from amounts owing to any employee,
+creditor or third  party have been paid over to the proper Governmental
+Authority in a timely  manner, to the extent due and payable, and (4) no
+extensions or waivers of  statutes of limitation have been given by or
+requested in writing with  respect to any of its U.S. federal income taxes or
+those of its  Subsidiaries. It has made provision in accordance with GAAP, in
+the  financial statements included in the Regulatory Filings filed before
+the  date hereof, for all Taxes that accrued on or before the end of the
+most  recent period covered by its Regulatory Filings filed before the date 
+hereof. As of the date hereof, neither it nor any of its Subsidiaries has 
+any reason to believe that any conditions exist that could reasonably be 
+expected to prevent or impede the Merger from qualifying as a  reorganization
+within the meaning of Section 368(a) of the Code. No Liens  for Taxes exist
+with respect to any of its assets or properties or those of  its
+Subsidiaries, except for statutory Liens for Taxes not yet due and  payable
+or that are being contested in good faith and reserved for in  accordance
+with GAAP. Neither it nor any of its Subsidiaries has been a  party to any
+distribution occurring during the two-year period prior to the  date of this
+Agreement in which the parties to such distribution treated  the distribution
+as one to which Section 355 of the Code applied, except  for distributions
+occurring among members of the same group of affiliated  corporations filing
+a consolidated federal income tax return.   (o) BOOKS AND RECORDS. Its books
+and records and those of its  Subsidiaries have been fully, properly and
+accurately maintained in all  material respects, and there are no material
+inaccuracies or discrepancies  of any kind contained or reflected
+therein.   (p) TAKEOVER LAWS AND PROVISIONS. It has taken all action
+required to  be taken by it in order to exempt this Agreement and the
+transactions  contemplated hereby from, and this Agreement and the
+transactions  contemplated hereby are exempt from, the requirements of any
+"moratorium,"  "control share," "fair price," "affiliate transaction,"
+"business  combination" or other antitakeover laws and regulations of any
+state  (collectively, "TAKEOVER LAWS"), including Section 203 of the GCL
+and  Articles 9 and 9A of the BCA. It has taken all action required to be
+taken  by it in order to make this Agreement and the transactions  
+28     contemplated hereby comply with, and this Agreement and the 
+transactions contemplated hereby do comply with, the requirements of  any
+Articles, Sections or provisions of its Constituent Documents  concerning
+"business combination," "fair price," "voting requirement,"  "constituency
+requirement" or other related provisions (collectively,  "TAKEOVER
+PROVISIONS"). In the case of Golden West, the approval of  the Merger and
+this Agreement by the Golden West Board exempts this  Agreement and the
+transactions contemplated hereby from Article Eighth  of Golden West\'s
+Restated Certificate of Incorporation.   (q) FINANCIAL ADVISORS. None of it,
+its Subsidiaries or any of their  officers, directors or employees has
+employed any broker or finder or  incurred any liability for any brokerage
+fees, commissions or finder\'s fees  in connection with the transactions
+contemplated herein, except that, in  connection with this Agreement,
+Wachovia has retained Merrill Lynch and Co.  as its financial advisor, and
+Golden West has retained Lehman Brothers Inc.  as its financial advisor, the
+arrangements with which have been disclosed  to Wachovia prior to the date
+hereof. As of the date of this Agreement, (1)  Golden West has received an
+opinion of Lehman Brothers Inc., issued to the  Golden West Board, to the
+effect that, as of the date of the opinion, the  Merger Consideration is fair
+from a financial point of view to holders of  Golden West Common Stock, and
+(2) Wachovia has received an opinion of  Merrill Lynch and Co., issued to the
+Wachovia Board, to the effect that, as  of the date of the opinion, the
+Merger Consideration is fair from a  financial point of view to Wachovia.  
+(r) SARBANES-OXLEY ACT. It is in compliance with the provisions,  including
+Section 404, of the Sarbanes-Oxley Act, and the certifications  provided and
+to be provided pursuant to Sections 302 and 906 thereof are  accurate.  
+(s) LABOR MATTERS. Neither it nor any of its Subsidiaries is a party  to, or
+is bound by, any collective bargaining agreement, contract or other 
+agreement or understanding with a labor union or labor organization, nor is 
+it or any of its subsidiaries the subject of a proceeding asserting that it 
+or any such subsidiary has committed an unfair labor practice (within the 
+meaning of the National Labor Relations Act) or seeking to compel it or  such
+subsidiary to bargain with any labor organization as to wages and  conditions
+of employment, nor is there any strike or other labor dispute  involving it
+or any of its subsidiaries, pending or, to the best of its  knowledge,
+threatened, nor it is aware, as of the date of this Agreement,  of any
+activity involving it or any of its subsidiaries\' employees seeking  to
+certify a collective bargaining unit or engaging in any other  organization
+activity.   (t) ENVIRONMENTAL MATTERS. There are no proceedings, claims,
+actions,  or investigations of any kind, pending or threatened, in any court,
+agency,  or other governmental authority or in any arbitral body, arising
+under any  Environmental Law; there is no reasonable basis for any such
+proceeding,  claim, action or   29     investigation; there are no
+agreements, orders, judgments or decrees by or  with any court, regulatory
+agency or other governmental authority, imposing  liability or obligation
+under or in respect of any Environmental Law; there  are and have been no
+Materials of Environmental Concern or other conditions  at any property
+(owned, operated, or otherwise used by, or the subject of a  security
+interest on behalf of, it or any of its subsidiaries); and there  are no
+reasonably anticipated future events, conditions, circumstances,  practices,
+plans, or legal requirements that could give rise to obligations  or
+liabilities under any Environmental Law.   (u) AGGREGATE CASH CONSIDERATION.
+Wachovia has, or will have as of the  Effective Time, available to it
+sufficient funds to pay the aggregate Cash  Consideration.   5.04. MERGER
+SUB. Wachovia represents and warrants to Golden West as follows:   (a)
+ORGANIZATION, STANDING AND AUTHORITY. Merger Sub is a corporation  duly
+organized, validly existing and in good standing under the laws of the 
+jurisdiction of its incorporation.   (b) CAPITAL STOCK. The authorized
+capital stock of Merger Sub consists  of 1,000 shares of common stock, par
+value $0.01 per share, of which 100  shares are outstanding and held of
+record by Wachovia.   (c) BUSINESS. Merger Sub has conducted no business
+other than  activities incidental to its organization and the consummation of
+the  transactions contemplated by this Agreement.   (d) AUTHORITY. Merger
+Sub has duly authorized, executed and delivered  this Agreement, and this
+Agreement and the transaction contemplated hereby  have been authorized by
+all corporate action necessary on Merger Sub\'s  part. This Agreement is
+Merger Sub\'s valid and legally binding obligation,  enforceable in
+accordance with its terms (except as enforcement may be  limited by
+applicable bankruptcy, insolvency, reorganization, moratorium,  fraudulent
+transfer and similar laws of general applicability relating to  or affecting
+creditors\' rights or by general equity principles).   ARTICLE VI  
+COVENANTS   6.01. REASONABLE BEST EFFORTS. (a) Subject to the terms and
+conditions of this Agreement, Wachovia and Golden West will use reasonable
+best efforts to take, or cause to be taken, in good faith, all actions, and
+to do, or cause to be done, all things necessary, proper or desirable, or
+advisable under applicable laws, so as to permit consummation of the Merger
+as promptly as practicable and otherwise to enable consummation of the  
+30    transactions contemplated hereby, and each will cooperate fully
+with, and furnish information to, the other party to that end.   (b)
+Wachovia will execute and deliver, or cause to be executed and  delivered, by
+or on behalf of the Surviving Corporation, at or prior to the  Effective
+Time, one or more supplemental indentures and other instruments  required for
+the due assumption of Golden West\'s outstanding debt,  guarantees,
+securities, and (to the extent informed of such requirement by  Golden West)
+other agreements to the extent required by the terms of such  debt,
+guarantees, securities or other agreements.   6.02. SHAREHOLDER APPROVALS.
+(a) The Golden West Board approved this Agreement and the plan of merger it
+contains and adopted resolutions recommending as of the date hereof to Golden
+West\'s shareholders approval and adoption of the plan of merger contained in
+this Agreement and any other matters required to be approved or adopted in
+order to effect the Merger and other transactions contemplated hereby.  
+(b) The Wachovia Board approved this Agreement and the transactions 
+contemplated hereby and adopted resolutions recommending as of the date 
+hereof to Wachovia\'s shareholders the approval of the issuance of shares of 
+Wachovia Common Stock necessary to effect the Merger and any other matters 
+required to be approved or adopted in order to effect the Merger and other 
+transactions contemplated hereby.   (c) The Wachovia Board and Golden West
+Board each will submit to its  shareholders all matters required to be
+approved or adopted by shareholders  in order to carry out the intentions of
+this Agreement. In furtherance of  that obligation, Wachovia and Golden West
+each will take, in accordance  with applicable law and its respective
+Constituent Documents, all action  necessary to convene a meeting of its
+shareholders (including any  adjournment or postponement, the "WACHOVIA
+MEETING" and the "GOLDEN WEST  MEETING", respectively), as promptly as
+practicable, to consider and vote  upon such matters. The Wachovia Board and
+Golden West Board each will use  all reasonable best efforts to obtain from
+their respective shareholders a  vote approving the transactions contemplated
+by this Agreement, including a  recommendation that its respective
+shareholders vote in favor of (i) in the  case of Golden West, approval and
+adoption of this Agreement and the plan  of merger contained herein and (2)
+in the case of Wachovia, approval of the  issuance of the Wachovia Common
+Stock required for consummation of the  Merger. However, if the Golden West
+Board, after consultation with outside  counsel, determines in good faith
+that, because of the receipt after the  date of this Agreement by Golden West
+of an Acquisition Proposal that the  Golden West Board concludes in good
+faith constitutes a Superior Proposal,  it would result in a violation of its
+fiduciary duties under applicable law  to continue to recommend the plan of
+merger set forth in this Agreement,  then in submitting the plan of merger to
+the Golden West Meeting,   31     the Golden West Board may submit the
+plan of merger to its shareholders  without recommendation (although the
+resolutions adopting this Agreement as  of the date hereof, described in
+Section 6.02(a), may not be rescinded or  amended), in which event the Golden
+West Board may communicate the basis  for its lack of a recommendation to the
+shareholders in the Joint Proxy  Statement or an appropriate amendment or
+supplement thereto to the extent  required by law; PROVIDED that the Golden
+West Board may not take any  actions under this sentence until after giving
+Wachovia at least 5 business  days to respond to any such Acquisition
+Proposal (and after giving Wachovia  notice of the latest material terms,
+conditions and third party in the  Acquisition Proposal) and then taking into
+account any amendment or  modification to this Agreement proposed by
+Wachovia.   6.03. SEC FILINGS. Wachovia and Golden West will cooperate in
+ensuring that all filings required under SEC Rules 165, 425 and 14a-12 are
+timely and properly made. Wachovia also will prepare a registration statement
+on Form S-4 or other applicable form (the "REGISTRATION STATEMENT") to be
+filed by Wachovia with the SEC in connection with the issuance of Wachovia
+Common Stock in the Merger, and the parties will jointly prepare the joint
+proxy statement and prospectus and other proxy solicitation materials of
+Wachovia and Golden West constituting a part thereof (the "JOINT PROXY
+STATEMENT") and all related documents. Each party will cooperate, and will
+cause its Subsidiaries to cooperate, with the other party, its counsel and
+its accountants, in the preparation of the Registration Statement and the
+Joint Proxy Statement, and, provided that both parties and their respective
+Subsidiaries have cooperated as required above, Wachovia and Golden West
+agree to file the Registration Statement, including the Joint Proxy Statement
+in preliminary form, with the SEC as promptly as reasonably practicable. Each
+of Wachovia and Golden West will use all reasonable best efforts to cause the
+Registration Statement to be declared effective under the Securities Act as
+promptly as reasonably practicable after filing thereof and to maintain the
+effectiveness of such Registration Statement until the Effective Time.
+Wachovia shall file the opinion of Wachtell, Lipton, Rosen and Katz described
+in Section 7.01(f) with the SEC as an exhibit to a post-effective amendment
+to the Registration Statement. Each party shall cooperate and provide the
+other party with a reasonable opportunity to review and comment on
+any amendment or supplement to the Joint Proxy Statement and the
+Registration Statement prior to filing such with the SEC, and each party will
+provide the other party with a copy of all such filings with the SEC.
+Wachovia also agrees to use reasonable best efforts to obtain all necessary
+state securities law or "Blue Sky" permits and approvals required to carry
+out the transactions contemplated hereby. Each party agrees to furnish for
+inclusion in the Registration Statement and the Proxy Statement all
+information concerning it, its Subsidiaries, officers, directors and
+shareholders as may be required by applicable law in connection with the
+foregoing.   (b) Wachovia and Golden West each agrees, as to itself and
+its  Subsidiaries, that none of the information supplied or to be supplied by
+it  for inclusion or incorporation by reference in (1) the Registration 
+Statement will, at   32     the time the Registration Statement and each
+amendment or supplement  thereto, if any, becomes effective under the
+Securities Act, contain any  untrue statement of a material fact or omit to
+state any material fact  required to be stated therein or necessary to make
+the statements therein  not misleading and (2) the Joint Proxy Statement and
+any amendment or  supplement thereto will, at the date of mailing to
+shareholders and at the  time of the Wachovia Meeting or the Golden West
+Meeting, as the case may  be, contain any untrue statement of a material fact
+or omit to state any  material fact required to be stated therein or
+necessary to make the  statements therein, in the light of the circumstances
+under which such  statement was made, not misleading. Wachovia and Golden
+West each further  agrees that if it becomes aware that any information
+furnished by it would  cause any of the statements in the Joint Proxy
+Statement or the  Registration Statement to be false or misleading with
+respect to any  material fact, or to omit to state any material fact
+necessary to make the  statements therein not false or misleading, to
+promptly inform the other  party thereof and to take appropriate steps to
+correct the Joint Proxy  Statement or the Registration Statement.   (c)
+Wachovia will advise Golden West, promptly after Wachovia receives  notice
+thereof, of the time when the Registration Statement has become  effective or
+any supplement or amendment has been filed, of the issuance of  any stop
+order or the suspension of the qualification of Wachovia Common  Stock for
+offering or sale in any jurisdiction, of the initiation or threat  of any
+proceeding for any such purpose, or of any request by the SEC for  the
+amendment or supplement of the Registration Statement or for additional 
+information.   6.04. PRESS RELEASES. Wachovia and Golden West will consult
+with each other before issuing any press release, written and broadly
+disseminated employee communication or other written shareholder
+communication with respect to the Merger or this Agreement and will not issue
+any such communication or make any such public statement without the prior
+consent of the other party, which will not be unreasonably withheld or
+delayed; PROVIDED that a party may, without the prior consent of the other
+party (but after prior consultation, to the extent practicable in the
+circumstances), issue such communication or make such public statement as may
+be required by applicable law or securities exchange rules. Wachovia and
+Golden West will cooperate to develop all public communications and make
+appropriate members of management available at presentations related to
+the transactions contemplated hereby as reasonably requested by the other
+party.   6.05. ACCESS; INFORMATION. (a) Each of Wachovia and Golden West
+agrees that upon reasonable notice and subject to applicable laws relating to
+the exchange of information, it will (and will cause its Subsidiaries to)
+afford the other party, and the other party\'s officers, employees, counsel,
+accountants and other authorized Representatives, such access during normal
+business hours throughout the period before the Effective Time to the books,
+records (including, without limitation, Tax Returns and work papers of
+independent auditors), properties, personnel and to such other
+information   33   as the other party may reasonably request and, during
+such period, it will furnish promptly to the other party (1) a copy of each
+report, schedule and other document filed by it pursuant to the requirements
+of federal or state securities or banking laws, and (2) all other information
+concerning the business, properties and personnel of it as the other may
+reasonably request. Neither Wachovia nor Golden West will be required to
+afford access or disclose information that would jeopardize attorney-client
+privilege or contravene any binding agreement with any third party. The
+parties will make appropriate substitute arrangements in circumstances where
+the previous sentence applies.   (b) Each party will hold any information
+which is nonpublic and  confidential to the extent required by, and in
+accordance, with the  Confidentiality Agreement between Wachovia and Golden
+West (the  "CONFIDENTIALITY AGREEMENT").   (c) No investigation by one
+party of the business and affairs of the  other, pursuant to this Section
+6.05 or otherwise, will affect or be deemed  to modify or waive any
+representation, warranty, covenant or agreement in  this Agreement, or the
+conditions to such other party\'s obligation to  consummate the transactions
+contemplated hereby.   6.06. ACQUISITION PROPOSALS. Golden West will not,
+and will cause its Subsidiaries and its and its Subsidiaries\' officers,
+directors, agents, advisors and affiliates not to, initiate, solicit,
+encourage or knowingly facilitate inquiries or proposals with respect to, or
+engage in any negotiations concerning, or provide any confidential or
+nonpublic information or data to, or have any discussions with, any person
+relating to, any Acquisition Proposal; PROVIDED that, in the event Golden
+West receives an unsolicited BONA FIDE Acquisition Proposal, from a Person
+other than Wachovia or an Other Person (as defined below), after the
+execution of this Agreement, and the Golden West Board concludes in good
+faith that such Acquisition Proposal constitutes a Superior Proposal or would
+reasonably be likely to result in a Superior Proposal and, after considering
+the advice of outside counsel, that failure to take such actions would result
+in a violation of the directors\' fiduciary duties under applicable law,
+Golden West may, and may permit its Subsidiaries and its and
+its Subsidiaries\' Representatives to, furnish or cause to be furnished
+nonpublic information and participate in such negotiations or discussions;
+PROVIDED that prior to providing any nonpublic information permitted to be
+provided pursuant to the foregoing proviso, it shall have entered into a
+confidentiality agreement with such third party on terms no less favorable to
+it than the Confidentiality Agreement. Golden West will immediately cease and
+cause to be terminated any activities, discussions or negotiations conducted
+before the date of this Agreement with any persons other than Wachovia
+("OTHER PERSONS") with respect to any Acquisition Proposal and will use its
+reasonable best efforts to enforce any confidentiality or similar agreement
+relating to an Acquisition Proposal. Golden West will promptly (within one
+business day) advise Wachovia following receipt of any Acquisition Proposal
+and the substance thereof (including the identity of the person making such
+Acquisition Proposal), and will keep   34    Wachovia apprised of any
+related developments, discussions and negotiations (including the material
+terms and conditions of the Acquisition Proposal) on a current basis.   (b)
+Nothing contained in this Agreement shall prevent Golden West or  the Golden
+West Board from complying with Rule 14d-9 and Rule 14e-2 under  the Exchange
+Act with respect to an Acquisition Proposal, PROVIDED that  such Rules will
+in no way eliminate or modify the effect that any action  pursuant to such
+Rules would otherwise have under this Agreement.   6.07. AFFILIATE
+AGREEMENTS. Not later than the 15th day before the mailing of the Joint Proxy
+Statement, Golden West will deliver to Wachovia a schedule of each person
+that, to the best of its knowledge, is or is reasonably likely to be, as of
+the date of the Golden West Meeting, deemed to be an "affiliate" of Golden
+West (each, a "GOLDEN WEST AFFILIATE") as that term is used in Rule 145 under
+the Securities Act. Golden West will use its reasonable best efforts to cause
+each person who may be deemed to be a Golden West Affiliate to execute
+and deliver to Wachovia and Golden West on or before the date of mailing of
+the Joint Proxy Statement an agreement in substantially the form attached
+hereto as ANNEX 2.   6.08. TAKEOVER LAWS AND PROVISIONS. No party will take
+any action that would cause the transactions contemplated hereby to be
+subject to requirements imposed by any Takeover Law and each of them will
+take all necessary steps within its control to exempt (or ensure the
+continued exemption of) those transactions from, or if necessary challenge
+the validity or applicability of, any applicable Takeover Law, as now or
+hereafter in effect. No party will take any action that would cause the
+transactions contemplated hereby not to comply with any Takeover Provisions
+and each of them will take all necessary steps within its control to make
+those transactions comply with (or continue to comply with) the Takeover
+Provisions.   6.09. EXCHANGE LISTING. Wachovia will use all reasonable best
+efforts to cause the shares of Wachovia Common Stock to be issued in the
+Merger and shares reserved for issuance pursuant to Section 3.07 hereof to be
+approved for listing on the NYSE, subject to official notice of issuance, as
+promptly as practicable, and in any event before the Effective Time.  
+6.10. REGULATORY APPLICATIONS. Wachovia and Golden West and their respective
+Subsidiaries will cooperate and use all reasonable best efforts to prepare as
+promptly as possible all documentation, to effect all filings and to obtain
+all permits, consents, approvals and authorizations of all third parties and
+Governmental Authorities necessary to consummate the
+transactions contemplated hereby (the "REQUISITE REGULATORY APPROVALS"), and
+will make all necessary filings in respect of those Requisite Regulatory
+Approvals as soon as practicable. Each of Wachovia and Golden West will have
+the right to review in advance, and to the extent practicable each will
+consult with the other, in each case subject to applicable laws relating to
+the exchange of information, with respect to all written information
+submitted to any third party or any Governmental   35    Authority in
+connection with the Requisite Regulatory Approvals. In exercising the
+foregoing right, each of the parties will act reasonably and as promptly as
+practicable. Each party agrees that it will consult with the other party with
+respect to obtaining all material permits, consents, approvals
+and authorizations of all third parties and Governmental Authorities
+necessary or advisable to consummate the transactions contemplated hereby and
+each party will keep the other party appraised of the status of material
+matters relating to completion of the transactions contemplated hereby.  
+(b) Wachovia and Golden West will, upon request, furnish the other  party
+with all information concerning itself, its Subsidiaries, directors, 
+officers and shareholders and such other matters as may be reasonably 
+necessary or advisable in connection with any filing, notice or application 
+made by or on behalf of such other party or any of its Subsidiaries with or 
+to any third party or Governmental Authority in connection with the 
+transactions contemplated hereby.   6.11. INDEMNIFICATION. Following the
+Effective Time, Wachovia will indemnify, defend and hold harmless the present
+and former directors, officers and employees of Golden West and its
+Subsidiaries (each, an "INDEMNIFIED PARTY") against all costs or expenses
+(including reasonable attorneys\' fees), judgments, fines, losses, claims,
+damages, liabilities and settlement amounts (collectively, "COSTS") as
+incurred, in connection with any claim, action (whether threatened, pending
+or contemplated), suit, proceeding or investigation, whether arising before
+or after the Effective Time and whether civil, criminal, administrative or
+investigative, arising out of or pertaining to matters existing or actions or
+omissions occurring at or before the Effective Time (including the
+transactions contemplated hereby), (and shall advance expenses as incurred to
+the fullest extent permitted under applicable law provided the Indemnified
+Party to whom expenses are advanced provides an undertaking to repay such
+advances if it is ultimately determined that such Indemnified Party is not
+entitled to indemnification) (1) without limitation of clause (2), to the
+same extent as such persons are indemnified or have the right to advancement
+of expenses pursuant to the Constituent Documents and indemnification
+agreements, if any, in effect on the date of this Agreement with Golden West
+and its Subsidiaries, and (2) to the fullest extent permitted by law.   (b)
+For a period of six years following the Effective Time, Wachovia  will obtain
+and maintain director\'s and officer\'s liability insurance that  serves to
+reimburse, and covers, the present and former officers and  directors of
+Golden West or any of their respective Subsidiaries  (determined as of the
+Effective Time) (as opposed to Golden West or such  Subsidiary) with respect
+to claims against such directors and officers  arising from facts or events
+occurring before the Effective Time (including  the transactions contemplated
+hereby), which insurance will contain at  least the same coverage and
+amounts, and contain terms and conditions no  less advantageous to the
+Indemnified Party, as that coverage provided under  the director\'s and
+officer\'s liability insurance that Wachovia obtained for  directors and
+officers of other financial institutions that Wachovia  acquired in recent,
+comparable merger transactions (taking into account the   36    relative
+market capitalizations of Golden West as compared to such other  financial
+institutions); PROVIDED that officers and directors of Golden  West or any
+Subsidiary may be required to make application and provide  customary
+representations and warranties to Wachovia\'s insurance carrier  for the
+purpose of obtaining such insurance.   (c) Any Indemnified Party wishing to
+claim indemnification under  Section 6.11(a), upon learning of any claim,
+action, suit, proceeding or  investigation described above, will promptly
+notify Wachovia; PROVIDED that  failure so to notify will not affect the
+obligations of Wachovia under  Section 6.12(a) unless and only to the extent
+that Wachovia is actually and  materially prejudiced as a consequence.  
+(d) If Wachovia or any of its successors or assigns consolidates with  or
+merges into any other entity and is not the continuing or surviving  entity
+of such consolidation or merger or transfers all or substantially  all of its
+assets to any other entity, then and in each case, Wachovia will  cause
+proper provision to be made so that the successors and assigns of  Wachovia
+will assume the obligations set forth in this Section 6.11.   (e) The
+provisions of this Section 6.11 shall survive the Effective  Time and are
+intended to be for the benefit of, and will be enforceable by,  each
+Indemnified Party and his or her heirs and Representatives.   6.12. EMPLOYEE
+MATTERS. From the Effective Time through the date that Wachovia determines to
+generally transition Golden West\'s benefit arrangements (such date being
+referred to herein as the "BENEFITS TRANSITION DATE"), Wachovia shall provide
+the employees of Golden West and its Subsidiaries as of the Effective Time
+(the "COVERED EMPLOYEES") with employee benefits and compensation plans,
+programs and arrangements that are substantially similar, in the aggregate,
+to the employee benefits and compensation plans, programs and arrangements
+provided by Golden West or its Subsidiaries, as the case may be, to such
+employees immediately prior to the Effective Time. From and after
+the Benefits Transition Date, Wachovia shall provide the Covered Employees
+with employee benefits and compensation plans, programs and arrangements that
+are substantially similar to those provided to similarly situated employees
+of Wachovia and its Subsidiaries. Notwithstanding anything contained herein
+to the contrary, a Covered Employee whose employment is terminated by
+Wachovia other than for Cause (as defined in Schedule 4.01(j)), disability or
+death or who terminates employment for Good Reason (as defined in Schedule
+4.01(j)), during the period commencing at the Effective Time and ending on
+the second anniversary thereof, shall be entitled to receive the severance
+payments and benefits under the Wachovia Severance Pay Plan as in effect on
+the date hereof and Previously Disclosed to Golden West and as such plan may
+be amended from time to time (the "WACHOVIA SEVERANCE PLAN"). The Wachovia
+Severance Plan will not be amended to reduce benefits to Covered Employees
+until after the second anniversary of the Effective Time unless an amendment
+is   37   necessary to comply with Section 409A of the Code. Following
+the date hereof and prior to the Effective Time, Wachovia and Golden West
+shall cooperate in good faith to agree to the appropriate job categorization
+of the Covered Employees for purposes of the Wachovia Severance Plan, taking
+into account their compensation, authority, seniority, duties and any other
+factors deemed relevant.   (b) From and after the Benefits Transition Date,
+Wachovia shall (1)  provide all Covered Employees with service credit for
+purposes of  eligibility, participation, vesting and levels of benefits (but
+not for  benefit accruals under any defined benefit pension plan), under
+any  employee benefit or compensation plan, program or arrangement adopted, 
+maintained or contributed to by Wachovia or any of its Subsidiaries in  which
+Covered Employees are eligible to participate, for all actual periods  of
+employment with Golden West or any of its Subsidiaries (or their  predecessor
+entities) prior to the Effective Time to the extent such actual  periods of
+employment are credited by Golden West for purposes of a  comparable plan in
+which the applicable Covered Employee participated  immediately prior to the
+Effective Time and (2) cause any pre-existing  conditions, limitations,
+eligibility waiting periods or required physical  examinations under any
+welfare benefit plans of Wachovia or any of its  Subsidiaries to be waived
+with respect to the Covered Employees and their  eligible dependents, to the
+extent waived under the corresponding plan (for  a comparable level of
+coverage) in which the applicable Covered Employee  participated immediately
+prior to the Effective Time. If the Benefits  Transition Date with respect to
+Golden West\'s medical and/or dental benefit  plans for Covered Employees
+occurs in the middle of a plan year, then  Covered Employees and their
+dependents who are then participating in a  deductible-based medical and/or
+dental plan sponsored by Golden West will  be given credit for deductibles
+and eligible out-of-pocket expenses  incurred towards deductibles and out-of-
+pocket maximums during the portion  of the plan year preceding the Benefits
+Transition Date in a comparable  deductible-based medical and/or dental plan
+of Wachovia or any of its  Subsidiaries for the Wachovia benefit plan year
+that begins with or  includes the Benefits Transition Date.   (c) From and
+after the Effective Time, Wachovia will assume and honor  all accrued
+obligations to, and contractual rights of, current and former  employees of
+Golden West and its Subsidiaries under the Golden West Benefit  Arrangements
+(as they may be amended in accordance with Sections 4.01(j)  and 4.01(k)
+hereof, and including any additional arrangements permitted  thereby), and
+take all actions necessary to effectuate the agreements set  forth on
+Schedule 6.12(c) hereof. If Wachovia or any of its successors or  assigns
+consolidates with or merges into any other entity and is not the  continuing
+or surviving entity of such consolidation or merger or transfers  all or
+substantially all of its assets to any other entity, then and in  each case,
+Wachovia will cause proper provision to be made so that the  successors and
+assigns of Wachovia will assume the obligations set forth in  this Section
+6.12.   38    6.13. NOTIFICATION OF CERTAIN MATTERS. Wachovia and Golden
+West will give prompt notice to the other of any fact, event or circumstance
+known to it that (a) is reasonably likely, individually or taken together
+with all other facts, events and circumstances known to it, to result in any
+Material Adverse Effect with respect to it or (b) would cause or constitute a
+material breach of any of its representations, warranties, covenants or
+agreements contained herein that reasonably could be expected to give rise,
+individually or in the aggregate, to the failure of a condition in Article
+VII.   6.14. EXEMPTION FROM LIABILITY UNDER SECTION 16(B). Assuming that
+Golden West delivers to Wachovia the Section 16 Information in a timely and
+accurate manner before the Effective Time, the Wachovia Board, or a committee
+of "non-employee directors" thereof (as such term is defined for purposes of
+Rule 16b-3(d) under the Exchange Act), will reasonably promptly thereafter
+and in any event before the Effective Time adopt a resolution providing that
+the receipt by the Golden West Insiders of Wachovia Common Stock in exchange
+for shares of Golden West Common Stock, and of options to purchase shares of
+Wachovia Common Stock upon conversion of options to purchase shares of Golden
+West Common Stock, in each case pursuant to the transactions contemplated
+hereby and to the extent such securities are listed in the Section 16
+Information, are approved by the Wachovia Board or by such committee thereof,
+and are intended to be exempt from liability pursuant to Section 16(b) under
+the Exchange Act, such that any such receipt will be so exempt.   6.15.
+CERTAIN MODIFICATIONS; RESTRUCTURING CHARGES. Golden West and Wachovia shall
+consult with respect to their loan, litigation and real estate valuation
+policies and practices (including loan classifications and levels
+of reserves) and Golden West shall make such modifications or changes to
+its policies and practices, if any, and at such date prior to the Effective
+Time, as may be mutually agreed upon. Golden West and Wachovia shall also
+consult with respect to the character, amount and timing of restructuring
+charges to be taken by each of them in connection with the transactions
+contemplated hereby and shall take such charges in accordance with GAAP, as
+may be mutually agreed upon; PROVIDED, HOWEVER, that Golden West shall not be
+obligated to take any such charges pursuant to this Section 6.15 unless and
+until Wachovia irrevocably acknowledges to Golden West in writing that all
+conditions to Wachovia\'s obligations to consummate the Merger under Article
+VII have been satisfied or, where legally permitted, waived. No party\'s
+representations, warranties and covenants contained in this Agreement shall
+be deemed to be untrue or breached in any respect for any purpose as a
+consequence of any modifications or changes to such policies and practices
+which may be undertaken on account of this Section 6.15.   ARTICLE VII  
+CONDITIONS TO THE MERGER   7.01. CONDITIONS TO EACH PARTY\'S OBLIGATION TO
+EFFECT THE MERGER. The respective obligation of Wachovia, Merger Sub and
+Golden West to consummate the   39    Merger is subject to the
+fulfillment or written waiver by Wachovia, Merger Sub and Golden West before
+the Effective Time of each of the following conditions:   (a) SHAREHOLDER
+APPROVALS. The requisite votes of the shareholders of  Wachovia and Golden
+West shall have each been received.   (b) REGULATORY APPROVALS. All
+Requisite Regulatory Approvals (1) shall  have been obtained and shall remain
+in full force and effect and all  statutory waiting periods in respect
+thereof shall have expired and (2)  shall not have imposed a condition on
+such approval that would reasonably  be expected, after the Effective Time,
+to have a Material Adverse Effect on  the Surviving Corporation and its
+Subsidiaries, taken as a whole; PROVIDED,  HOWEVER, that no conditions that
+are reasonably consistent with the  regulations or published guidelines as in
+effect as of the date of this  Agreement (or recent practice prior to the
+date of this Agreement in  connection with comparable transactions) of a
+Governmental Authority shall  be deemed to have, or be reasonably be expected
+to have, such a Material  Adverse Effect.   (c) NO INJUNCTION. No
+Governmental Authority of competent jurisdiction  shall have enacted, issued,
+promulgated, enforced or entered any statute,  rule, regulation, judgment,
+decree, injunction or other order (whether  temporary, preliminary or
+permanent) which is in effect and precludes  consummation of the Merger.  
+(d) REGISTRATION STATEMENT. The Registration Statement shall have  become
+effective under the Securities Act and no stop order suspending the 
+effectiveness of the Registration Statement shall have been issued and be  in
+effect and no proceedings for that purpose shall have been initiated by  the
+SEC and not withdrawn.   (e) NYSE LISTING. The shares of Wachovia Common
+Stock to be issued in  the Merger and shares reserved for issuance pursuant
+to Section 3.07 hereof  shall have been approved for listing on the NYSE,
+subject to official  notice of issuance.   (f) OPINIONS OF TAX COUNSEL.
+Wachovia shall have received an opinion  of Sullivan and Cromwell LLP, and
+Golden West shall have received an opinion  of Wachtell, Lipton, Rosen and
+Katz, each dated the Closing Date and based on  facts, representations and
+assumptions set forth or described in each such  opinion, to the effect that
+(1) the Merger will be treated as a  reorganization within the meaning of
+Section 368(a) of the Code and (2)  Wachovia, Merger Sub and Golden West will
+each be a party to that  reorganization within the meaning of Section 368(b)
+of the Code. In  rendering such opinions, Sullivan and Cromwell LLP and
+Wachtell, Lipton,  Rosen and Katz each will be entitled to receive and rely
+upon customary  certificates and representations of officers of Wachovia,
+Merger Sub and  Golden West.   40     7.02. CONDITIONS TO GOLDEN
+WEST\'S OBLIGATION. Golden West\'s obligation to consummate the Merger is
+also subject to the fulfillment or written waiver by Golden West before the
+Effective Time of each of the following conditions:   (a) WACHOVIA\'S AND
+MERGER SUB\'S REPRESENTATIONS AND WARRANTIES. The  representations and
+warranties of Wachovia and Merger Sub in this Agreement  shall be true and
+correct as of the date of this Agreement and (except to  the extent such
+representations and warranties speak as of an earlier date)  as of the
+Closing Date as though made on and as of the Closing Date subject  to the
+standard set forth in Section 5.02; and Golden West shall have  received a
+certificate, dated the Closing Date, signed on behalf of  Wachovia by the
+Chief Executive Officer or Chief Financial Officer of  Wachovia to that
+effect.   (b) PERFORMANCE OF WACHOVIA\'S AND MERGER SUB\'S OBLIGATIONS. Each
+of  Wachovia and Merger Sub shall have performed in all material respects
+all  obligations required to be performed by it under this Agreement at or 
+before the Effective Time; and Golden West shall have received a 
+certificate, dated the Closing Date, signed on behalf of Wachovia by the 
+Chief Executive Officer or Chief Financial Officer of Wachovia to that 
+effect.   7.03. CONDITIONS TO WACHOVIA\'S AND MERGER SUB\'S OBLIGATION. Each
+of Wachovia\'s obligation and Merger Sub\'s obligation to consummate the
+Merger is also subject to the fulfillment, or written waiver by Wachovia,
+before the Effective Time of each of the following conditions:   (a) GOLDEN
+WEST\'S REPRESENTATIONS AND WARRANTIES. The representations  and warranties
+of Golden West in this Agreement shall be true and correct  as of the date of
+this Agreement and (except to the extent such  representations and warranties
+speak as of an earlier date) as of the  Closing Date as though made on and as
+of the Closing Date subject to the  standard set forth in Section 5.02; and
+Wachovia shall have received a  certificate, dated the Closing Date, signed
+on behalf of Golden West by the  Chief Executive Officer or Chief Financial
+Officer of Golden West to that  effect.   (b) PERFORMANCE OF GOLDEN WEST\'S
+OBLIGATIONS. Golden West shall have  performed in all material respects all
+obligations required to be performed  by it under this Agreement at or before
+the Effective Time; and Wachovia  shall have received a certificate, dated
+the Closing Date, signed on behalf  of Golden West by the Chief Executive
+Officer or Chief Financial Officer of  Golden West to that effect.  
+41     ARTICLE VIII   TERMINATION   8.01. TERMINATION. This Agreement
+may be terminated, and the Merger may be abandoned, at any time before the
+Effective Time, by Wachovia or (except as otherwise provided below) Golden
+West:   (a) MUTUAL AGREEMENT. With the mutual agreement of the other
+party.   (b) BREACH. Upon 60 days\' prior written notice of termination,
+if  there has occurred and is continuing: (1) a breach by the other party
+of  any representation or warranty contained herein, or (2) a breach by the 
+other party of any of the covenants or agreements in this Agreement; 
+PROVIDED that such breach (under either clause (1) or (2)) would entitle  the
+non-breaching party not to consummate the Merger under Article VII.   (c)
+ADVERSE ACTION. If (i) the other party\'s board of directors  submits this
+Agreement (or the plan of merger contained herein) to its  shareholders
+without a recommendation for approval or with special and  materially adverse
+conditions on or qualifications of such approval; (ii)  such board of
+directors otherwise withdraws or materially and adversely  modifies (or
+publicly discloses its intention to withdraw or materially and  adversely
+modify) its recommendation referred to in Section 6.02 or (iii)  in the case
+solely of Wachovia, the Golden West Board recommends to its  shareholders an
+Acquisition Proposal other than the Merger; or (iv) solely  in the case of
+Wachovia, if the Golden West Board negotiates or authorizes  the conduct of
+negotiations (and twenty business days have elapsed without  such
+negotiations being discontinued) with a third party (it being  understood and
+agreed that "negotiate" shall not be deemed to include the  request and
+receipt of information from, any person that submits an  Acquisition Proposal
+or discussions regarding such information for the sole  purpose of
+ascertaining the terms of such Acquisition Proposal) regarding  an
+Acquisition Proposal other than the Merger.   (d) DELAY. If the Effective
+Time has not occurred by the close of  business on March 31, 2007; PROVIDED
+that the right to terminate this  Agreement under this Section 8.01(d) shall
+not be available to any party  whose failure to comply with any provision of
+this Agreement has been the  cause of, or materially contributed to, the
+failure of the Effective Time  to occur on or before such date.   (e)
+DENIAL OF REGULATORY APPROVAL. If the approval of any Governmental  Authority
+required for consummation of the Merger and the other  transactions
+contemplated hereby is denied by final, nonappealable action  of such
+Governmental Authority; PROVIDED that the right to terminate this  Agreement
+under this Section 8.01(e) shall not be available to any party  whose failure
+to   42     comply with any provision of this Agreement has been the
+cause of, or  materially contributed to, such action.   8.02. EFFECT OF
+TERMINATION AND ABANDONMENT. If this Agreement is terminated and the Merger
+is abandoned, no party will have any liability or further obligation under
+this Agreement, except that termination will not relieve a party from
+liability for any willful breach by it of this Agreement and except that
+Section 6.05(b), this Section 8.02, Section 8.03 and Article IX will survive
+termination of this Agreement.   8.03. TERMINATION FEE. Golden West shall
+pay to Wachovia, by wire transfer of immediately available funds,
+$995,000,000 (the "TERMINATION FEE") as follows:   (1) In the event that (A)
+either Wachovia or Golden West shall  terminate this Agreement pursuant to
+Section 8.01(d) or if Wachovia  shall terminate this Agreement pursuant to
+Section 8.01(c)(i) or  8.01(c)(ii), and (B) the requisite vote of the Golden
+West  shareholders under Section 7.01(a) shall not have been obtained after 
+a vote of the Golden West shareholders has been taken and completed at  the
+Golden West Meeting, and (C) at any time after the date of this  Agreement
+and prior to such vote, a BONA FIDE Acquisition Proposal  with respect to
+Golden West shall have been made public and not  withdrawn or abandoned, and
+(D) within 18 months from the date of such  termination, an Acquisition
+Proposal with respect to Golden West is  consummated or a definitive
+agreement is entered into by Golden West  with respect to an Acquisition
+Proposal with respect to Golden West,  then Golden West shall pay to Wachovia
+the Termination Fee within five  business days after the date of the event
+described in clause (D).   (2) In the event that (A) Wachovia shall
+terminate this Agreement  pursuant to Section 8.01(b) or Section 8.01(c)(iv)
+or either of  Wachovia or Golden West shall terminate this Agreement pursuant
+to  Section 8.01(d), and (B) at any time after the date of this Agreement 
+and prior to such termination, a BONA FIDE Acquisition Proposal with  respect
+to Golden West shall have been made public and not withdrawn  or abandoned,
+and (C) following the announcement of such Acquisition  Proposal, Golden West
+shall have breached any of its representations,  warranties, covenants or
+agreements set forth in this Agreement, then  Golden West shall pay to
+Wachovia the Termination Fee (x) if such  breach was other than one described
+in the succeeding clause (y) of  this sentence, and only if an Acquisition
+Proposal with respect to  Golden West is consummated or a definitive
+agreement is entered into  by Golden West with respect to an Acquisition
+Proposal with respect to  Golden West within 18 months from the date of such
+termination, within  five business days after such Acquisition Proposal is
+consummated or  such agreement   -43-     is entered into by Golden
+West, or (y) if such breach was a willful  and material breach of Section
+6.01(a), 6.02(c), 6.03(a), 6.06(a),  6.08 or 6.10(a), on the business day
+immediately following such  termination.   (3) In the event that Wachovia
+shall terminate this Agreement  pursuant to Section 8.01(c)(iii), then Golden
+West shall pay the  Termination Fee on the business day immediately following
+such  termination.   (b) Golden West acknowledges that the agreements
+contained in this  Section 8.03 are an integral part of the transactions
+contemplated by this  Agreement, and that, without these agreements, Wachovia
+would not enter  into this Agreement. In the event that Golden West fails to
+pay when due  any amounts payable under this Section 8.03, then (i) Golden
+West shall  reimburse Wachovia for all costs and expenses (including
+disbursements and  reasonable fees of counsel) incurred in connection with
+the collection of  such overdue amount, and (ii) Golden West shall pay to
+Wachovia interest on  such overdue amount (for the period commencing as of
+the date that such  overdue amount was originally required to be paid and
+ending on the date  that such overdue amount is actually paid in full) at a
+rate per annum  equal to three percent (3%) over the "prime rate" (as
+announced by  Citibank, N.A.) in effect on the date that such overdue amount
+was  originally required to be paid.   (c) In no event shall Golden West be
+obligated to pay more than one  Termination Fee.   ARTICLE IX  
+MISCELLANEOUS   9.01. SURVIVAL. The representations, warranties, agreements
+and covenants contained in this Agreement will not survive the Effective Time
+(OTHER THAN Section 2.07, Article III, Sections 6.05(b), 6.11 and 6.12 and
+this Article IX).   9.02. WAIVER; AMENDMENT. Before the Effective Time, any
+provision of this Agreement may be (a) waived by the party benefited by the
+provision, but only in writing, or (b) amended or modified at any time, but
+only by a written agreement executed in the same manner as this Agreement,
+except to the extent that any such amendment would violate North Carolina or
+Delaware law or require resubmission of this Agreement or the plan of merger
+contained herein to the shareholders of Wachovia or Golden West.   9.03.
+COUNTERPARTS. This Agreement may be executed by facsimile and in one or more
+counterparts, each of which will be deemed to constitute an original.  
+44     9.04. GOVERNING LAW. This Agreement is governed by, and will be
+interpreted in accordance with, the laws of the State of North Carolina
+applicable to contracts made and to be performed entirely within that State.
+EACH PARTY HEREBY IRREVOCABLY AND UNCONDITIONALLY WAIVES ANY RIGHT SUCH PARTY
+MAY HAVE TO A TRIAL BY JURY IN RESPECT OF ANY LITIGATION DIRECTLY OR
+INDIRECTLY ARISING OUT OF OR RELATING TO THIS AGREEMENT OR THE TRANSACTIONS
+CONTEMPLATED BY THIS AGREEMENT.   9.05. EXPENSES. Except as set forth in
+Section 8.03, each party will bear all expenses incurred by it in connection
+with this Agreement and the transactions contemplated hereby, except that
+Wachovia and Golden West will each bear and pay one-half of the following
+expenses: (a) the costs (excluding the fees and disbursements of counsel,
+financial advisors and accountants) incurred in connection with the
+preparation (including copying and printing and distributing) of the
+Registration Statement, the Joint Proxy Statement and applications to
+Governmental Authorities for the approval of the Merger and (b) all listing,
+filing or registration fees, including, without limitation, fees paid for
+filing the Registration Statement with the SEC, filing fees for the HSR Act
+notices and any other fees paid for filings with Governmental Authorities.  
+9.06. NOTICES. All notices, requests and other communications given or
+made under this Agreement must be in writing and will be deemed given when
+personally delivered, facsimile transmitted (with confirmation) or mailed by
+registered or certified mail (return receipt requested) to the persons and
+addresses set forth below or such other place as such party may specify by
+notice.   IF TO WACHOVIA, TO:   Wachovia Corporation  One Wachovia
+Center  Charlotte, North Carolina 28288  Attention: Mark C. Treanor, Esq. 
+Senior Executive Vice President, General  Counsel and Secretary  Facsimile:
+(704) 374-3425   WITH A COPY TO:   Sullivan and Cromwell LLP  125 Broad
+Street  New York, New York 10004  Attention: H. Rodgin Cohen, Esq. 
+Mitchell S. Eitel, Esq.  Facsimile: (212) 558-3588   45     IF TO
+GOLDEN WEST, TO:   Golden West Financial Corporation  1901 Harrison
+Street  17th Floor  Oakland, California 94612  Attention: Michael Roster,
+Esq.  Facsimile: (210) 767-5808   WITH COPIES TO:   Wachtell, Lipton,
+Rosen and Katz  55 West 52nd Street  New York, New York 10019  Attention:
+Edward D. Herlihy, Esq.  Lawrence S. Makow, Esq.  Facsimile: (212)
+403-2000    9.07. ENTIRE UNDERSTANDING; NO THIRD PARTY BENEFICIARIES. This
+Agreement represents the entire understanding of Wachovia and Golden West
+regarding the transactions contemplated hereby and supersede any and all
+other oral or written agreements previously made or purported to be made,
+other than the Confidentiality Agreement, which will survive the execution
+and delivery of this Agreement and will not impair the rights of a party to
+make a response or propose amendments or modifications as contemplated by the
+final proviso to Section 6.02(c)). No representation, warranty, inducement,
+promise, understanding or condition not set forth in this Agreement has been
+made or relied on by any party in entering into this Agreement. Except for
+Section 6.11, which is intended to benefit the Indemnified Parties to the
+extent stated, nothing expressed or implied in this Agreement is intended to
+confer any rights, remedies, obligations or liabilities upon any person other
+than Wachovia, Merger Sub and Golden West.   9.08. SEVERABILITY. If any
+provision of this Agreement or the application thereof to any person or
+circumstance is determined by a court of competent jurisdiction to be
+invalid, void or unenforceable, the remaining provisions, or the application
+of such provision to persons or circumstances other than those as to which it
+has been held invalid or unenforceable, will remain in full force and effect
+and will in no way be affected, impaired or invalidated thereby, so long as
+the economic or legal substance of the transactions contemplated hereby is
+not affected in any manner materially adverse to any party. Upon
+such determination, the parties will negotiate in good faith in an effort to
+agree upon a suitable and equitable substitute provision to effect the
+original intent of the parties.   46     9.09. ALTERNATIVE STRUCTURE.
+Notwithstanding anything to the contrary contained in this Agreement or the
+Confidentiality Agreement, before the Effective Time, Wachovia may revise the
+structure of the Merger or otherwise revise the method of effecting the
+Merger and related transactions, PROVIDED that (1) such revision does not
+alter or change the kind or amount of consideration to be delivered to the
+shareholders of Golden West and the holders of Golden West Stock Options, (2)
+such revision does not adversely affect the tax consequences to the
+shareholders of Golden West, (3) such revised structure or method does not
+materially delay consummation of the transactions contemplated by this
+Agreement in relation to the structure contemplated herein, and (4) such
+revision does not, and is not reasonably likely to, otherwise cause any of
+the conditions set forth in Article VII not to be capable of being fulfilled
+(unless duly waived by the party entitled to the benefits thereof). This
+Agreement and any related documents will be appropriately amended in order to
+reflect any such revised structure or method.     [SIGNATURES APPEAR ON
+FOLLOWING PAGE.]   47       IN WITNESS WHEREOF, the parties have
+caused this Agreement to be executed by their duly authorized officers as of
+the day and year first above written.   WACHOVIA CORPORATION    By: /s/
+G. Kennedy Thompson  -----------------------------------------  Name: G.
+Kennedy Thompson  Title: Chairman, President and  Chief Executive
+Officer   BURR FINANCIAL CORPORATION    By: /s/ G. Kennedy Thompson 
+-----------------------------------------  Name: G. Kennedy Thompson  Title:
+President and  Chief Executive Officer   GOLDEN WEST FINANCIAL
+CORPORATION    By: /s/ Herbert M. Sandler 
+-----------------------------------------  Name: Herbert M. Sandler  Title:
+Chairman and  Chief Executive Officer     By: /s/ Marion O. Sandler 
+-----------------------------------------  Name: Marion O. Sandler  Title:
+Chairman and  Chief Executive Officer     SIGNATURE PAGE TO MERGER
+AGREEMENT    '
+

@@ -1,0 +1,2479 @@
+NT AND PLAN OF REORGANIZATION AND
+MERGER      Exhibit 2.1   AGREEMENT AND PLAN OF REORGANIZATION AND
+MERGER  AMONG HEALTHCENTRAL.COM, HCC ACQUISITION CORP.  AND VITAMINS.COM,
+INC.   This Agreement and Plan of Reorganization and Merger ("Agreement") is
+made as of March 15, 2000 among HealthCentral.com, a Delaware corporation
+("HCC"), HCC Acquisition Corp., a Delaware corporation and a wholly-owned
+subsidiary of HCC ("Acquisition Corp."), and Vitamins.com, Inc., a Delaware
+corporation ("VCI").   RECITAL:   The parties hereto desire that
+Acquisition Corp. be merged with and into VCI; that VCI be the surviving
+corporation and become a wholly-owned subsidiary of HCC; and that the shares
+of capital stock of VCI outstanding immediately prior to the Effective Time
+of the merger, other than those shares subject to a demand for appraisal
+pursuant to Section 262 of the Delaware General Corporation Law (the "DCL"),
+be converted as set forth in this Agreement into shares of common stock of
+HCC ("HCC common stock").   NOW THEREFORE, in consideration of the premises
+and the mutual agreements set forth herein, the parties agree as follows:  
+ARTICLE I   DEFINITIONS   The terms defined in this Article I shall, for
+purposes of this Agreement, have the meanings specified in this Article I
+unless the context requires otherwise:   1.1 Acquisition Proposal.
+"Acquisition Proposal" shall have the meaning set forth in Section 5.4(a) of
+this Agreement.   1.2 Affiliate Agreement. "Affiliate Agreement" shall mean
+the Affiliate Agreement in the form of Exhibit F attached to this
+Agreement.   1.3 Affiliates. "Affiliates" of any party to the Agreement
+shall be persons that directly or indirectly through one or more
+intermediaries, control, or are controlled by, or are under common control
+with, such party.   1.4 Cause. "Cause" shall mean for purposes of Section
+2.10, (i) intentional failure to perform duties as a director of HCC after
+written notice thereof from HCC to the director and the failure to cure
+within thirty (30) days of receipt of such notice; (ii) intentional
+misrepresentation or the commission of an act of fraud in the performance of
+duties as a director of HCC; (iii) breach of fiduciary duty involving
+personal profit including, without limitation, embezzlement,
+misrepresentation or conversion of assets or opportunities of HCC; (iv)
+willful violation of any law, rule or regulation (other than traffic
+violations or similar offenses) in connection with the performance of duties
+as a director; or (v) a director, together with his or her Affiliates, owns
+less than fifty percent (50%) of the total number of shares of HCC Common
+Stock owned by them immediately following consummation of the Merger and the
+related transactions contemplated under this Agreement.   1.5 Certificates.
+"Certificates" shall have the meaning set forth in Section 2.6(c) of this
+Agreement.   1.6 Closing. "Closing" shall mean the delivery by the parties
+hereto of the various documents contemplated by this Agreement or otherwise
+required in order to consummate the Merger.       1.7 Closing Date.
+"Closing Date" shall have the meaning set forth in Section 2.2 of this
+Agreement.   1.8 Code. "Code" shall mean the Internal Revenue Code of 1986,
+as amended.   1.9 Dissenting VCI Shares. "Dissenting VCI Shares" shall mean
+all shares, if any, of the outstanding capital stock of VCI for which
+appraisal rights shall be perfected under Section 262 of the DCL.   1.10
+Effective Time. "Effective Time" shall mean the time when the Merger becomes
+effective under the DCL.   1.11 Effectiveness Period. "Effectiveness Period"
+shall have the meaning set forth in Section 6.14(a) of this Agreement.  
+1.12 Escrow Agreement. "Escrow Agreement" shall mean the Agreement
+relating to an escrow of certain shares of HCC common stock pursuant to
+Section 2.4 of this Agreement, in the form attached to this Agreement as
+Exhibit C.   1.13 Escrow Fund. "Escrow Fund" shall have the meaning set
+forth in Section 2.4 of this Agreement.   1.14 Escrow Holder. "Escrow
+Holder" shall mean U.S. Bank Trust National Association.   1.15 Exchange
+Act. "Exchange Act" shall mean the Securities Exchange Act of 1934, as
+amended.   1.16 Exchange Agent. "Exchange Agent" shall have the meaning set
+forth in Section 2.6(a) of this Agreement.   1.17 Exchange Ratio. "Exchange
+Ratio" shall have the meaning set forth in Section 2.3 of this Agreement.  
+1.18 GAAP. "GAAP" shall mean United States generally accepted
+accounting principles.   1.19 Governmental Entity. "Governmental Entity"
+means any government, municipality or political subdivision thereof, whether
+federal, state, local or foreign, or any governmental or quasi-governmental
+agency, authority, board, bureau, commission, department, instrumentality or
+public body, or any court, arbitrator, administrative tribunal or public
+utility.   1.20 Hazardous Material. "Hazardous Material" shall have the
+meaning set forth in Section 3.18(a) of this Agreement.   1.21 Hazardous
+Materials Activities. "Hazardous Materials Activities" shall have the meaning
+set forth in Section 3.18(b) of this Agreement.   1.22 HCC Disclosure
+Schedule. "HCC Disclosure Schedule" shall have the meaning set forth in
+Article IV of this Agreement.   1.23 HCC Employee Benefit Plans. "HCC
+Employee Benefit Plans" shall have the meaning set forth in Section 4.13 of
+this Agreement.   1.24 HCC ERISA Affiliate. "HCC ERISA Affiliate" shall have
+the meaning set forth in Section 4.13(a) of this Agreement.   1.25 HCC
+Parties. "HCC Parties" shall have the meaning set forth in Section 9.2(a) of
+this Agreement.   1.26 HCC SEC Reports "HCC SEC Reports" shall have the
+meaning set forth in Section 4.5(a) of this Agreement.     1.27 Holders.
+"Holders" shall mean the holders of VCI capital stock immediately prior to
+the Effective Time.   1.28 HSR Act. "HSR Act" means The Hart-Scott-Rodino
+Antitrust Improvements Act of 1976, as amended.   1.29 Indemnified Party.
+"Indemnified Party" shall mean the HCC Parties or the VCI Parties, as the
+case may be, who or which are asserting a claim for indemnification under
+Section 9.2 or 9.3 hereof.   1.30 Indemnifying Party. "Indemnifying Party"
+shall mean the HCC Parties or the VCI Parties, as the case may be, against
+whom or which an indemnification claim has been asserted under Section 9.2 or
+9.3 hereof.   1.31 Intellectual Property. "Intellectual Property" shall have
+the meaning set forth in Section 3.11(a) of the Agreement.   1.32 Loss or
+Losses. "Loss" or "Losses" shall have the meaning set forth in Section 9.2(a)
+of this Agreement.   1.33 Material Adverse Effect. "Material Adverse Effect"
+means, with respect to a party, a material adverse change in the assets,
+liabilities, business, financial condition or the results of operations of
+such party and its Subsidiaries, taken as a whole. The parties acknowledge
+and agree that (i) VCI and HCC are both engaged in Internet-based start-up
+enterprises that are in highly competitive and dynamic markets; (ii) because
+of the volatility in these markets, VCI and HCC are each subject to a variety
+of external factors that can impact their businesses in a very quick time
+frame with potential significant effects on their assets, liabilities,
+business, financial conditions and results of operations; and (iii)
+accordingly, changes in the assets, liabilities, business, financial
+conditions or results of operations of either VCI or HCC arising out of
+external factors or economic conditions that affect the industry generally
+shall not be a "Material Adverse Effect" for purposes of this Agreement.  
+1.34 Merger. "Merger" shall mean the merger of Acquisition Corp. with
+and into VCI.   1.35 Merger Agreement. "Merger Agreement" shall mean the
+Agreement of Merger in the form attached to this Agreement as Exhibit A.  
+1.36 Merger Shares. "Merger Shares" shall have the meaning set forth
+in Section 6.14(a) of this Agreement.   1.37 Most Recent VCI Balance Sheet.
+"Most Recent VCI Balance Sheet" shall have the meaning set forth in Section
+3.6 of this Agreement.   1.38 Most Recent HCC Balance Sheet. "Most Recent
+HCC Balance Sheet" shall have the meaning set forth in Section 4.5(b) of this
+Agreement.   1.39 1933 Act. "1933 Act" shall mean the Securities Act of
+1933, as amended.   1.40 Numerator. "Numerator" shall have the meaning set
+forth in Section 2.3(a) of this Agreement.   1.41 Ordinary Course of
+Business. "Ordinary Course of Business" shall have the meaning set forth in
+Section 3.7 of this Agreement.   1.42 Permits. "Permits" shall have the
+meaning set forth in Section 3.19 of this Agreement.   1.43 Proxy
+Statement. "Proxy Statement" shall mean the proxy statement to be mailed to
+the stockholders of HCC in connection with the Merger in order to obtain the
+approval of the stockholders of HCC as required by the rules of the Nasdaq
+National Market.     1.44 Registrable Securities. "Registrable Securities"
+shall have the meaning set forth in Section 6.14(b)(ii) of this
+Agreement.   1.45 Registration Expenses. "Registration Expenses" shall have
+the meaning set forth in Section 6.14(c) of this Agreement.   1.46
+Registration Statement. "Registration Statement" shall have the meaning set
+forth in Section 6.14(a) of this Agreement.   1.47 Rule 145 Affiliate. "Rule
+145 Affiliate" shall have the meaning set forth in Section 6.8 of this
+Agreement.   1.48 SEC. "SEC" shall mean the Securities and Exchange
+Commission.   1.49 Security Interest. "Security Interest" shall have the
+meaning set forth in Section 3.10 of this Agreement.   1.50 Selling
+Expenses. "Selling Expenses" shall have the meaning set forth in Section
+6.14(c) of this Agreement.   1.51 Stockholder Representative. "Stockholder
+Representative" shall mean the individual authorized by the stockholders of
+VCI to act as the representative of the stockholders of VCI under this
+Agreement and in connection with the transactions contemplated herein, and
+any substitute representatives selected in accordance with the Written
+Consent and Agreement.   1.52 Subsidiary. "Subsidiary" shall mean, with
+respect to a particular party hereto, any corporation or other organization,
+whether incorporated or unincorporated, of which at least a majority of the
+securities or interests are directly or indirectly owned by such party or by
+one or more Subsidiaries of such party.   1.53 Taxes. "Taxes" means all
+taxes, charges, fees, levies or other similar assessments or liabilities,
+including without limitation income, gross receipts, ad valorem, premium,
+value-added, excise, real property, personal property, sales, use, transfer,
+withholding, employment, payroll and franchise taxes imposed by the United
+States of America or any state, local or foreign government, or any agency
+thereof, or other political subdivision of the United States or any such
+government, and any interest, fines, penalties, assessments or additions to
+tax resulting from, attributable to or incurred in connection with any tax or
+any contest or dispute thereof.   1.54 Tax Returns. "Tax Returns" means all
+reports, returns, declarations, statements or other information required to
+be supplied to a taxing authority in connection with Taxes.   1.55
+Underwritten Offering. "Underwritten Offering" shall mean an offering of
+Merger Shares pursuant to a Registration Statement that is effected in
+the form of a registration statement pursuant to which the Merger Shares are
+sold to an underwriter for reoffering to the public.   1.56 VCI Disclosure
+Schedule. "VCI Disclosure Schedule" shall have the meaning set forth in
+Article III of this Agreement.   1.57 VCI Employee Benefit Plans. "VCI
+Employee Benefit Plans" shall have the meaning set forth in Section 3.17 of
+this Agreement.   1.58 VCI ERISA Affiliate. "VCI ERISA Affiliate" shall have
+the meaning set forth in Section 3.17(a) of this Agreement.   1.59 VCI
+Parties. "VCI Parties" shall have the meaning set forth in Section 9.3 of
+this Agreement.      1.60 Voting Agreement. "Voting Agreement" shall have
+the meaning set forth in Section 2.9 of this Agreement.   1.61 Written
+Consent and Agreement. "Written Consent and Agreement" shall mean the Written
+Consent and Agreement in the form of Exhibit E attached hereto.   ARTICLE
+II   MERGER, CLOSING AND CONVERSION OF SHARES   2.1 Merger. Subject to and
+in accordance with the terms and conditions of this Agreement and the Merger
+Agreement, HCC, Acquisition Corp. and VCI shall execute and file the Merger
+Agreement with the Secretary of State of Delaware, and Acquisition Corp.
+shall, pursuant to the terms thereof, be merged with and into VCI pursuant to
+Section 251 of the DCL.   2.2 Closing. The Closing shall take place at the
+offices of Howard, Rice, Nemerovski, Canady, Falk and Rabkin, at 10:00 a.m.,
+within 5 business days following the date on which the Merger has been
+approved by the stockholders of HCC or on such other day and time as shall be
+agreed to by the parties (the "Closing Date").   2.3 Conversion of
+Shares.   (a) In accordance with the Merger Agreement, (i) each share of 
+Acquisition Corp. common stock issued and outstanding immediately prior to 
+the Effective Time shall, by virtue of the Merger and without any action on 
+the part of the holder thereof, be converted at and as of the Effective  Time
+into one share of common stock of VCI, and (ii) each share of capital  stock
+of VCI issued and outstanding immediately prior to the Effective Time 
+(except those shares which are Dissenting VCI Shares) shall, by virtue of 
+the Merger and without any action on the part of the Holders, be converted 
+at and as of the Effective Time into the right to receive that number of 
+shares of HCC common stock, as illustrated on Exhibit B attached hereto, 
+equal to the amount determined by dividing the (1) lesser of (A) 
+$103,500,000 (less any adjustments required by Section 6.12 hereof) (the 
+"Numerator") divided by the average closing price of HCC common stock on  the
+Nasdaq National Market (or if not so listed, the average closing bid  price
+on such other market in which such prices are regularly quoted) for  the ten
+consecutive trading days immediately preceding the business day  prior to the
+Closing Date as reported in The Wall Street Journal, and (B)  the number of
+shares that is equal to the number of shares of HCC common  stock outstanding
+immediately prior to the Effective Time less one share,  by (2) the total
+number of shares of capital stock of VCI outstanding  immediately prior to
+the Closing (including for this purpose any capital  stock of VCI issuable
+under then outstanding options, warrants or other  convertible securities, in
+each case whether or not vested or exercisable)  and carrying the quotient
+thereof out to three decimal places (the  "Exchange Ratio"). The Holders
+shall receive only whole shares of HCC  common stock (or if the provisions of
+Section 2.3(b)(ii) are applicable,  the surviving corporation\'s or acquiring
+corporation\'s capital stock) and,  in lieu of any fractional share of HCC
+common stock, Holders shall receive  in cash the fair market value of such
+fractional share (rounded up or down  to the nearest whole number, with a
+fractional interest equal to .5 rounded  to the next whole number), valuing
+HCC common stock (or if the provisions  of Section 2.3(b)(ii) are applicable,
+the surviving corporation\'s or  acquiring corporation\'s capital stock) at
+the closing price for such stock  on the Nasdaq National Market on the
+trading day immediately preceding the  Closing Date.   (b) If on or before
+the Effective Time (i) the issued and outstanding  shares of HCC common stock
+are changed into a different number of shares by  reason of any
+recapitalization, stock split or stock dividend, then the  number of shares
+of HCC common stock received by the Holders pursuant to  Section 2.3(a) above
+(the "Conversion Stock") shall be adjusted to that  number and class of
+shares of common stock of HCC, that would have been  issued to the Holders if
+the Conversion Stock had been     issued to the Holders immediately prior
+to such recapitalization, stock  split or stock dividend; or (ii) there shall
+be a merger, share exchange or  consolidation of HCC with or into another
+corporation or entity, as part of  such merger, share exchange or
+consolidation, then the Conversion Stock  shall be adjusted to that number
+and class of shares of stock of the  surviving corporation resulting from
+such merger or consolidation or the  acquiring corporation in such share
+exchange, that would have been issued  to the Holders if the Conversion Stock
+had been issued to the Holders  immediately prior to such merger, share
+exchange or consolidation. For  purposes of this Section 2.3(b), (i) the
+determination of the adjustment to  the number and class of shares shall be
+based on the formula set forth in  Section 2.3(a)(ii), assuming that the
+Effective Time is the day immediately  prior to the subject recapitalization,
+stock split, stock dividend, merger,  share exchange or consolidation and
+(ii) in the event of a merger, share  exchange or consolidation of HCC prior
+to the Effective Time, the shares of  VCI common stock being converted under
+Section 2.3(a) shall be converted  into shares of the surviving
+corporation\'s or the acquiring corporation\'s  capital stock.   2.4
+Escrow. In order to provide indemnification in accordance with Article IX of
+this Agreement and with the Escrow Agreement, at the Effective Time or
+as soon thereafter as possible, stock certificates representing in the
+aggregate 10% of the shares of HCC common stock (rounded to the nearest whole
+share) into which the Holders\' shares of capital stock of VCI were converted
+pursuant to Section 2.3 of this Agreement (the "Escrow Fund") shall be
+delivered to the Escrow Holder (which shares shall be withheld from each
+Holder ratably based on the number of shares of capital stock of VCI held by
+such Holder immediately prior to the Effective Time). The Stockholder
+Representative is authorized to act hereunder and under the Escrow Agreement
+with the powers and authority provided for herein and therein, as the
+representative of the Holders and their successors. Approval of this
+Agreement and the Merger by the Holders shall constitute approval of the
+terms and conditions of the Escrow Agreement and ratification of the
+selection of the Stockholder Representative and of his authority to act
+hereunder and under the Escrow Agreement on behalf of the Holders and their
+successors. Any rights of the Holders to receive any shares placed in such
+escrow shall in no circumstances be sold, assigned or otherwise transferred
+by them other than by will or pursuant to the laws of descent
+and distribution. All certificates representing securities delivered to the
+Escrow Holder shall be accompanied by separate stock powers endorsed in blank
+by the Stockholder Representative on behalf of the Holders. Subject to the
+Escrow Agreement, the Holders shall retain their voting rights with respect
+to securities deposited with the Escrow Holder in accordance with this
+Section 2.4.   2.5 VCI Options.   (a) At the Effective Time, each of the
+outstanding options to purchase  common stock of VCI shall be assumed by HCC
+and shall automatically be  converted into options to purchase the number of
+shares of HCC common stock  determined by multiplying the number of shares of
+common stock of VCI  covered by the option by the Exchange Ratio, at an
+exercise price for each  full share of HCC common stock equal to the quotient
+obtained by dividing  (a) the exercise price per share of VCI common stock
+with respect to such  option by (b) the Exchange Ratio, which exercise price
+per share shall be  rounded to the nearest whole cent, as illustrated on
+Exhibit B attached  hereto. The number of shares of HCC common stock that may
+be purchased by a  holder under any option assumed by HCC hereunder shall not
+include any  fractional share of HCC common stock but shall be rounded up to
+the next  higher whole share of HCC common stock. Notwithstanding the
+foregoing, VCI  stock options which meet the requirements of Section 422 of
+the Code will  be converted into HCC stock options in a manner which complies
+with Section  424(a) of the Code. The assumption by HCC of the options
+hereunder shall  not terminate or modify (except as required hereunder) (i)
+the VCI 1999  Stock Incentive Plan, dated August 15, 1999 (the "VCI Plan"),
+any Stock  Option Agreement issued pursuant to the VCI Plan or the terms of
+any stock  option agreements issued by VCI other than under the VCI Plan;
+(ii) any  right, vesting schedule, or other restriction on transferability
+relating  to the VCI Plan, any Stock Option Agreement issued pursuant to the
+VCI Plan  or any stock option agreement issued by VCI other than under the
+VCI Plan;  or (iii) give the holders of such options any additional benefits
+which  they did not have immediately prior to the Effective Time.
+Continuous  employment with VCI shall be credited to an optionee for vesting
+purposes  after the     Effective Time. Nothing contained in this Section
+2.5(a) shall require HCC  to offer or sell shares of HCC common stock upon
+the exercise of options  assumed by HCC hereunder if, in the reasonable
+judgment of HCC or its  counsel, such offer or sale would not be in
+accordance with the applicable  federal or state securities laws, provided
+that HCC shall use its  reasonable best efforts to take such actions, if any,
+as are necessary for  such offer or sale to be in accordance with such laws,
+including without  limitation the filing with the SEC within 45 days
+following the Effective  Time of a registration statement on Form S-8 under
+the 1933 Act covering  the shares of HCC common stock issuable upon exercise
+of options assumed  hereunder by HCC.   (b) If on or before the Effective
+Time (i) the issued and outstanding  shares of HCC common stock are changed
+into a different number of shares by  reason of any recapitalization, stock
+split or stock dividend, then the  number of shares of HCC common stock
+issuable upon exercise of VCI options  assumed and converted pursuant to
+Section 2.5(a) above shall be  correspondingly adjusted to that number and
+class of shares of common stock  of HCC, if such options had been converted
+into options to acquire HCC  common stock immediately before such
+recapitalization, stock split or stock  dividend and the exercise price
+thereof shall be correspondingly adjusted;  or (ii) there shall be a merger,
+share exchange or consolidation of HCC  with or into another corporation or
+entity, then, as part of such merger,  share exchange or consolidation, the
+VCI options to be assumed and  converted pursuant to Section 2.3(a) above
+shall be equitably converted  into options to acquire that number and class
+of shares of stock of the  surviving corporation resulting from such merger
+or consolidation or the  acquiring corporation in such share exchange, as if
+such VCI options had  been converted into options to acquire HCC shares of
+common stock  immediately prior to such merger, share exchange or
+consolidation, and the  exercise price thereof shall be correspondingly and
+equitably adjusted.   2.6 Exchange of Certificates.   (a) Prior to the
+Closing Date, HCC shall appoint U.S. Stock Transfer  Corporation to act as
+exchange agent (the "Exchange Agent") in the Merger.   (b) Promptly after
+the Closing Date, but in no event later than three  business days thereafter,
+HCC shall give instructions to the Exchange Agent  to make available within
+three business days thereafter for exchange in  accordance with this Section
+2.6, the shares of HCC common stock issuable  pursuant to Section 2.3 in
+exchange for outstanding shares of capital stock  of VCI, subject to the
+issuance of 10% of the shares of HCC common stock  issuable to the Holders
+into escrow pursuant to Section 2.4 hereof.   (c) As soon as practicable
+after the Effective Time, the Exchange Agent  shall mail to each Holder of
+record of a stock certificate that,  immediately prior to the Effective Time,
+represented outstanding shares of  capital stock of VCI (a "Certificate"),
+whose shares are being converted  into HCC common stock pursuant to Section
+2.3, (i) a letter of transmittal  (which shall specify that delivery shall be
+effected, and risk of loss and  title to the Certificates shall pass, only
+upon delivery of the  Certificates to the Exchange Agent and shall be in such
+form and have such  other customary provisions as HCC may reasonably specify)
+and  (ii) instructions for use in effecting the surrender of the Certificates
+in  exchange for certificates evidencing HCC common stock. Upon surrender of
+a  Certificate for cancellation to the Exchange Agent, together with such 
+letter of transmittal, duly executed, the Holder of such Certificate shall 
+be entitled to receive in exchange therefor and HCC shall cause the  Exchange
+Agent to deliver to such Holder the number of shares of HCC common  stock and
+payments in lieu of fractional shares to which the Holder is  entitled
+pursuant to Section 2.3 hereof, subject to the provisions of  Section 2.4
+hereof. Until surrendered as contemplated by this Section  2.6(c), each
+Certificate shall be deemed at any time after the Effective  Time to
+represent only the right to receive upon such surrender such whole  number of
+shares of HCC common stock and payments for fractional shares as  is provided
+for in Section 2.3.   (d) No dividends or distributions payable to holders
+of record of HCC  common stock after the Effective Time, or cash payable in
+lieu of  fractional shares, shall be paid to the Holder of any
+unsurrendered  Certificate until the Holder of the Certificate shall
+surrender such  Certificate.      2.7 Dissenting VCI Shares. Holders of
+Dissenting VCI Shares shall have those rights, but only those rights, of
+holders who perfect their appraisal rights under Section 262 of the DCL. VCI
+shall give HCC prompt notice of any demand, purported demand, objection,
+notice, petition, or other communication received from stockholders or
+provided to stockholders by VCI with respect to any Dissenting VCI Shares or
+shares claimed to be Dissenting VCI Shares, and HCC shall have the right to
+participate in all negotiations and proceedings with respect to such shares.
+VCI agrees that, without the prior written consent of HCC, it shall not
+voluntarily make any payment with respect to, or settle or offer to settle,
+any demand or purported demand respecting such shares.   2.8 Tax Free
+Reorganization. The parties intend to adopt this Agreement as a plan of
+reorganization and to consummate the Merger in accordance with the provisions
+of Section 368(a) of the Code.   2.9 Voting Agreement. Concurrently with the
+execution of this Agreement, the holders of at least forty percent (40%) of
+the outstanding voting capital stock of HCC shall enter into Voting
+Agreements with VCI in the form attached hereto as Exhibit D, pursuant to
+which they shall agree, subject to the terms and conditions of the Voting
+Agreement, to vote all the shares of capital stock of HCC or VCI, as
+applicable, held by them or by the entities they represent in favor of the
+Merger. HCC agrees to use its reasonable best efforts to maintain the
+percentage of outstanding voting capital stock of HCC subject to the
+Voting Agreements at no less than 40% through the date of the HCC
+stockholders\' meeting for the purpose of approving the Merger. In addition,
+concurrently with the execution of this Agreement, Holders of at least
+ninety-eight percent (98%) of the outstanding voting capital stock of VCI
+shall execute and deliver a Written Consent and Agreement in the form
+attached hereto as Exhibit E, pursuant to which the Holders shall authorize
+and approve the Merger and agree to certain other terms and conditions. There
+shall be no amendments or modifications to the Voting Agreement or the
+Written Consent and Agreement without the written consent of VCI and HCC,
+respectively.   2.10 Representation on HCC Board of Directors. At the
+Effective Time, HCC shall take all necessary actions so that, immediately
+following the Effective Time, the following persons shall be appointed to
+three-year terms on the Board of Directors of HCC: Robert M. Haft and Sage
+Givens. The approval by the HCC stockholders of the Merger shall constitute
+their vote in favor of the appointment of Robert M. Haft and Sage Givens as
+members of the HCC Board of Directors. Robert M. Haft and Sage Givens may not
+be removed as a member of the Board of Directors during their three-year
+terms for any reason other than Cause.   2.11 Affiliate Agreements.
+Concurrently with the execution of this Agreement, each affiliate of VCI,
+within the meaning of Rule 145 promulgated under the 1933 Act ("Rule 145
+Affiliates"), shall execute and deliver an Affiliate Agreement, in the form
+of Exhibit F attached hereto, which shall be effective as of the Closing
+Date, under which each Rule 145 Affiliate of VCI agrees to comply with the
+applicable requirements of Rule 145 and any requirements under the rules
+applicable to pooling of interests accounting treatment. HCC shall be
+entitled to place appropriate legends on the certificates evidencing any HCC
+common stock to be received by such Rule 145 Affiliates pursuant to the terms
+of this Agreement, and to issue appropriate stop transfer instructions to the
+transfer agent for the HCC common stock, consistent with the terms of the
+Affiliate Agreements.   2.12 Escrow Agreement. Concurrently with the
+execution of this Agreement, HCC, the Stockholder Representative and the
+Escrow Holder shall have executed the Escrow Agreement, which shall be
+effective as of the Closing Date.   2.13 Securities Exemption; Stockholders
+Letter. Concurrently with the execution of this Agreement, each stockholder
+of VCI shall have executed and delivered a Stockholder\'s letter in the form
+of Exhibit G hereto, which shall be effective no later than the date
+hereof.   2.14 Employment and Noncompetition Agreement. Concurrently with
+the execution of this Agreement, HCC shall have received an Employment
+Agreement and a Noncompetition Agreement in the forms of Exhibits H and I
+hereto executed by Robert M. Haft and Bruce Kudeviz, each of which shall be
+effective as of the Closing Date.     ARTICLE III   REPRESENTATIONS OF
+VCI   VCI represents and warrants to HCC that, except as set forth in
+the Disclosure Schedule dated as of the date hereof and signed by the
+Chief Executive Officer of VCI (the "VCI Disclosure Schedule"), each of
+which exceptions shall specifically identify the relevant Section hereof to
+which it relates or be specifically enough stated to make it clear that it is
+also relevant to such Section:   3.1 Organization. VCI and each of its
+Subsidiaries are corporations or limited liability companies duly organized,
+validly existing and in good standing under the laws of the jurisdictions of
+their incorporation or formation (as the case may be), and have all requisite
+power and authority to own their properties and to carry on their businesses
+as now being conducted. VCI has all requisite power to execute and deliver
+this Agreement and the agreements contemplated herein, and to consummate the
+transactions contemplated hereby and thereby. VCI and its Subsidiaries are
+duly qualified to do business and in good standing in all jurisdictions in
+which ownership of property or the character of their business requires such
+qualification and where failure to be so qualified would reasonably be
+expected to have a Material Adverse Effect. Copies of the Certificates of
+Incorporation and Bylaws or Certificate of Formation and limited liability
+company agreement (as applicable) of VCI and its Subsidiaries, as amended to
+date, have been previously delivered to HCC, are complete and correct, and no
+amendments have been made thereto or have been authorized since the date
+thereof.   3.2 Capitalization of VCI. VCI\'s authorized capital stock
+consists of 66,650,000 shares of common stock, of which 12,974,414 shares are
+issued and outstanding on the date hereof, and 49,666,498 shares of Preferred
+Stock, classified into three series, as follows: 11,627,573 shares of Series
+A Convertible Preferred Stock, of which 11,627,573 shares are issued
+and outstanding on the date hereof; 10,038,925 shares of Series B
+Convertible Preferred Stock, of which 10,038,925 shares are issued and
+outstanding as of the date hereof; and 28,000,000 shares of Series C
+Convertible Preferred Stock, of which 23,325,000 shares are issued and
+outstanding as of the date hereof. Section 3.2(a) of the VCI Disclosure
+Schedule sets forth the number of authorized shares of each class of VCI
+capital stock and the number of issued and outstanding shares of each class
+of capital stock and the record owner thereof. Shares of Preferred Stock are
+convertible into shares of Common Stock on a one share-for-one share basis.
+All issued and outstanding shares of VCI\'s capital stock are duly
+authorized, validly issued, fully paid and non- assessable, and were issued
+in compliance with applicable federal and state securities laws. There are
+options outstanding covering 969,016 shares of common stock of VCI; all of
+such options, to the extent not exercised prior to the Effective Time, shall
+be assumed by HCC and converted into options to purchase HCC common stock
+pursuant to the provisions of Section 2.5 hereof and no consents of
+optionholders are required with respect to such assumption. Except for such
+Preferred Stock and outstanding options and except as set forth in Section
+3.2(b) of the VCI Disclosure Schedule, there are not outstanding (i) any
+options, warrants or other rights to purchase from VCI any capital stock
+of VCI; (ii) any securities convertible into or exchangeable for shares of
+capital stock of VCI; or (iii) any other commitments or rights of any kind
+for the issuance by VCI of additional shares of capital stock or options,
+warrants or other securities of VCI.   3.3 Subsidiaries. The only
+Subsidiaries of VCI are those listed in Section 3.3 of the VCI Disclosure
+Schedule. All of the outstanding shares of capital stock of each of VCI\'s
+Subsidiaries which is a corporation are duly authorized, validly issued,
+fully paid and nonassessable and all such shares are owned by VCI or another
+Subsidiary of VCI free and clear of all security interests, liens, claims,
+pledges, agreements, limitations on VCI\'s voting rights, charges or other
+encumbrances of any nature. VCI owns all of the membership interests in
+Vitamins.com, LLC, a Delaware limited liability company, free and clear
+of all security interests, liens, claims, pledges, agreements, limitations
+on VCI\'s voting rights, charges or other encumbrances of any nature.   3.4
+Authorization. The execution and delivery by VCI of this Agreement and the
+agreements provided for herein, and the consummation by VCI of
+all transactions contemplated hereunder and thereunder by VCI, have been
+duly authorized by all requisite corporate action. This Agreement has been
+duly executed and    delivered by VCI. This Agreement and all other
+agreements and obligations entered into and undertaken in connection with the
+transactions contemplated hereby to which VCI is a party constitute the valid
+and legally binding obligations of VCI enforceable against it in accordance
+with their respective terms, subject to applicable bankruptcy, insolvency,
+reorganization, fraudulent transfer, moratorium or other similar laws
+affecting the rights of creditors generally and subject to equitable
+remedies.   3.5 Compliance with Laws and Other Instruments. Except as set
+forth in Section 3.5 of the VCI Disclosure Schedule, neither VCI nor any of
+its Subsidiaries is in violation or default (a) of any provision of its
+Certificate of Incorporation or Bylaws or Certificate of Formation or limited
+liability company agreement (as the case may be), or of any instrument,
+judgment, order, writ or decree, or (b) except for when any such violation or
+default would not reasonably be expected to have a Material Adverse Effect,
+of any lease, license, permit, contract or other arrangement to which it is a
+party or by which it is bound, of any copyright laws with respect to its use
+and posting of information on its website or of any other provision of any
+federal or state statute, rule or regulation applicable to VCI or any of its
+Subsidiaries. The execution, delivery and performance by VCI of this
+Agreement and the agreements provided for herein, and the consummation by VCI
+of the transactions contemplated hereby and thereby, do not and will not,
+with or without the giving of notice or the passage of time or both, (a)
+violate the provisions of any law, rule or regulation applicable to VCI
+(assuming compliance with the requirements of the HSR Act), and which would
+reasonably be expected to have a Material Adverse Effect; (b) violate the
+provisions of the Certificate of Incorporation or Bylaws or Certificate of
+Formation or limited liability company agreement (as the case may be) of VCI
+or any of its Subsidiaries; (c) violate any judgment, decree, order or award
+of any court, governmental body or arbitrator applicable to VCI; (d) except
+as set forth in Section 3.5 of the VCI Disclosure Schedule, conflict with,
+contravene, constitute a default or breach of, result in an acceleration of,
+or create in any party the right to accelerate, terminate, modify or cancel,
+or require any notice, consent or waiver under, any instrument, judgment,
+order, writ, decree, lease, license, permit, contract, lease, or other
+agreement or other arrangement to which VCI or any of its Subsidiaries is a
+party or by which VCI or any Subsidiaries is bound or to which its assets are
+subject and which would reasonably be expected to have a Material Adverse
+Effect; or (e) constitute an event that results in the creation of any lien,
+charge or encumbrance upon any assets of VCI or any of its Subsidiaries or
+the suspension, revocation, impairment, forfeiture, or nonrenewal of any
+permit, license, authorization, or approval applicable to VCI or any of its
+Subsidiaries, their businesses or operations or any of their assets or
+properties and which would reasonably be expected to have a Material Adverse
+Effect.   3.6 VCI Financial Statements. VCI has delivered to HCC the
+audited consolidated balance sheets of VCI as of December 31, 1999 ("Most
+Recent VCI Balance Sheet") and December 31, 1998 and the related statements
+of income, changes in shareholders\' equity and cash flows. Such financial
+statements have been prepared in accordance with GAAP applied on a consistent
+basis throughout the periods covered thereby, fairly present in all material
+respects the financial condition, results of operations and cash flows of VCI
+as of the respective dates thereof and for the periods referred to therein
+and are consistent with the books and records of VCI.   3.7 No Undisclosed
+Liabilities. Except as set forth in Section 3.7 of the VCI Disclosure
+Schedule, VCI and its Subsidiaries have no liability (whether absolute or
+contingent, whether liquidated or unliquidated and whether due or to become
+due), and there is no existing condition, situation or set of circumstances
+which would reasonably be expected to result in such a liability, except for
+(a) liabilities shown on the Most Recent VCI Balance Sheet, (b) liabilities
+which have arisen since December 31, 1999 in the ordinary course of business
+consistent with past custom and practice for start up internet e- commerce
+enterprises ("Ordinary Course of Business"), (c) contractual liabilities
+incurred in the Ordinary Course of Business which are not required by GAAP to
+be reflected on a balance sheet or disclosed in the notes thereto under GAAP,
+and (d) liabilities for accounting, investment banking and legal fees
+incurred in connection with the Merger and the transactions
+contemplated thereby; provided that any difference between the adjusted tax
+basis and the fair market value of any asset held by VCI or its Subsidiaries
+on the Closing Date shall not be treated as an existing condition, situation
+or set of circumstances for purposes of this Section 3.7.     3.8 Absence
+of Certain Changes or Events. Except as contemplated by this Agreement and as
+set forth in Section 3.8 of the Disclosure Schedule, since December 31, 1999,
+neither VCI nor any of its Subsidiaries has entered into any transaction that
+is not in the Ordinary Course of Business or has:   (a) suffered any
+Material Adverse Effect or had any event occur which  reasonably would be
+expected to result in a Material Adverse Effect;   (b) incurred any material
+obligation or liability for borrowed money  other than in the Ordinary Course
+of Business;   (c) discharged or satisfied any lien or encumbrance or paid
+any  obligation or liability other than (i) current liabilities reflected in
+the  Most Recent VCI Balance Sheet or (ii) those incurred in the Ordinary
+Course  of Business since the date of the Most Recent VCI Balance Sheet;  
+(d) made any material amendment to or termination of any contract or  lease
+or done any act or omitted to do any act which would cause a breach  of any
+contract or lease where such breach would reasonably be expected to  have a
+Material Adverse Effect;   (e) suffered any loss of personal or real
+property in excess of $50,000  in the aggregate, or waived any rights of any
+value;   (f) authorized any declaration or payment of dividends, or paid any
+such  dividends, or authorized any transfer of assets of any kind whatsoever
+to  any of its stockholders (other than payments or transfers by any
+Subsidiary  of VCI to VCI);   (g) made any material change in the terms,
+status or funding condition  of any VCI Employee Benefit Plan;   (h) made
+any capital expenditure in excess of $50,000 in any instance or  $500,000 in
+the aggregate;   (i) acquired or disposed of, or committed to acquire or
+dispose of, any  asset, or entered or committed to enter into any contract,
+agreement or  commitment, in any such case which involves the payment in the
+case of an  acquisition of more than $50,000, or in the case of a disposition
+of more  than $500,000, except agreements, commitments or transactions
+involving the  purchase of inventory or supplies in the ordinary course of
+business  consistent with past practice and which do not have a remaining
+term  exceeding twelve months;   (j) increased or agreed to increase the
+compensation or bonuses payable  or to become payable to any employees with
+annual salaries exceeding  $50,000, or increased any salaries or bonuses
+payable or to become payable  to any employees in any manner not in the
+Ordinary Course of Business;   (k) made or agreed to make any loan to any of
+its employees, officers,  stockholders or directors, other than travel
+advances made in the Ordinary  Course of Business;   (l) granted or agreed
+to grant to any person any option, right or  warrant or other commitment
+calling for the issuance or sale of any shares  of capital stock, bonds or
+other corporate securities (other than options  granted in the Ordinary
+Course of Business to employees, consultants and  members of the Board of
+Directors of VCI and which are being assumed  pursuant to Section 2.5
+hereof); or   (m) granted or voluntarily subjected any material asset to a
+lien or  encumbrance (other than any purchase money security interest,
+conditional  title retention arrangement, mechanic\'s lien, lien for taxes
+not yet due or  lien arising by operation of law).   3.9 Tax Matters.  
+(a) VCI and its Subsidiaries have filed all Tax Returns that they were 
+required to file and all such Tax Returns were correct and complete in all 
+material respects. VCI and its Subsidiaries have paid all Taxes owed in 
+respect of the periods covered by such Tax Returns whether or not shown as 
+due on such Tax Return. The unpaid Taxes of VCI and its Subsidiaries for  tax
+periods through December 31, 1999 do     not exceed the accruals and
+reserves for Taxes set forth on the Most Recent  VCI Balance Sheet. VCI has
+no actual or, to its knowledge, potential  liability for any Tax obligation
+of any taxpayer (including without  limitation any affiliated group of
+corporations or other entities that  included VCI during a prior period)
+other than VCI or its Subsidiaries.  Except as set forth in Section 3.9 of
+the VCI Disclosure Schedule, all  Taxes that VCI is or was required by law to
+withhold or collect have been  duly withheld or collected and, to the extent
+required, have been paid to  the proper Governmental Entity.   (b) Except
+as set forth in Section 3.9 of the VCI Disclosure Schedule,  none of VCI and
+its Subsidiaries has ever had any examination report issued  or statement of
+deficiencies assessed against it which have not been  resolved or satisfied.
+For taxable periods ending after December 31, 1994,  except as set forth in
+Section 3.9 of the VCI Disclosure Schedule, no Tax  Returns of VCI have been
+audited by any Governmental Entity. Except as set  forth in Section 3.9 of
+the VCI Disclosure Schedule, no examination or  audit of any Tax Returns of
+VCI by any Governmental Entity is currently in  progress or, to the knowledge
+of VCI, threatened or contemplated. None of  VCI and its Subsidiaries has
+waived any statute of limitations with respect  to Taxes or agreed to an
+extension of time with respect to a tax assessment  or deficiency, which is
+currently in effect.   (c) VCI is not a "consenting corporation" within the
+meaning of Section  341(f) of the Code and none of the assets of VCI are
+subject to an election  under Section 341(f) of the Code. VCI has not been a
+United States real  property holding corporation within the meaning of
+Section 897(c)(2) of the  Code during the preceding five (5) years. VCI is
+not a party to any Tax  allocation or sharing agreement.   (d) VCI is not
+and has never been a member of an "affiliated group" of  corporations (within
+the meaning of Section 1504 of the Code) other than  the "affiliated group"
+of which VCI is the common parent corporation. VCI  has not made an election
+under Treasury Reg. Section 1.1502-20(g). VCI is  not and has not been
+required to make a basis reduction pursuant to  Treasury Reg. Section
+1.1502-20(b) or Treasury Reg. Section 1.337(d)-2T(b),  except as may be
+required if VCI does not join in the filing of Federal  consolidated returns
+with HCC after the Closing Date.   (e) As of the date of this Agreement and
+as of the Closing Date, VCI has  not, and will not have, taken any action
+that could reasonably be expected  to cause the Merger to fail to qualify as
+a reorganization within the  meaning of Section 368(a) of the Code.   (f)
+None of VCI and its Subsidiaries will be required to report any  amount in
+taxable income in any taxable period ending after the Closing  pursuant to
+Section 481 of the Code by reason of a change of accounting  method occurring
+in a taxable period ending on or before the Effective  Time.   (g) Since
+the date of its incorporation, VCI has been reporting its  income in
+accordance with the accrual method of accounting.   3.10 Assets. VCI and its
+Subsidiaries do not own any real property. VCI and its Subsidiaries have good
+and defensible title to all of their respective personal properties, as
+reflected in the Most Recent VCI Balance Sheet (except properties sold or
+otherwise disposed of since December 31, 1999 in the Ordinary Course of
+Business) or acquired after December 31, 1999, or with respect to leased
+properties and assets, valid leasehold interests in, free and clear of all
+Security Interests, except as listed in Section 3.10 of the VCI Disclosure
+Schedule. The plants, property and equipment of VCI and its Subsidiaries that
+are used in the operations of their respective businesses are in good
+operating condition and repair subject to ordinary wear and tear and
+to requirements for periodic maintenance. All properties used in the
+operations of VCI and its Subsidiaries, except for those acquired after
+December 31, 1999, are reflected in the Most Recent VCI Balance Sheet to the
+extent required by GAAP. Section 3.10 of the VCI Disclosure Schedule
+identifies all personal property leases of VCI and its Subsidiaries. For
+purposes of this Agreement, "Security Interest" means any mortgage, pledge,
+security interest, encumbrance, charge, or other lien (whether arising by
+contract or by operation of law), other than (i) mechanic\'s, materialmen\'s,
+and similar liens, (ii) liens arising under worker\'s compensation,
+unemployment insurance, social security, retirement, and similar legislation,
+(iii) liens on goods in transit incurred pursuant to documentary letters of
+credit, and (iv) liens for Taxes not yet due and payable, in each case
+arising in the    Ordinary Course of Business of VCI or its Subsidiaries
+and not material to VCI and its Subsidiaries, as a whole.   3.11
+Intellectual Property.   (a) VCI and its Subsidiaries own, or license or
+otherwise possess  legally enforceable rights to use, all patents,
+trademarks, trade names,  service marks, Internet domain names, copyrights,
+and any applications for  such patents, trademarks, trade names, service
+marks, Internet domain names  and copyrights, schematics, technology, trade
+secrets, know-how, computer  software programs or applications, processes and
+other tangible or  intangible proprietary information or material that are
+used to conduct  their respective businesses as currently conducted,
+including without  limitation the technology, information, databases, data
+lists, data  compilations, and all proprietary rights developed or discovered
+or used in  connection with or contained in all versions and implementations
+of any  World Wide Web sites, except as set forth in Section 3.11 of the
+VCI  Disclosure Schedule, free and clear of all liens, claims and
+encumbrances  (including without limitation licensing and distribution
+rights), all of  which are "Intellectual Property." Section 3.11 of the VCI
+Disclosure  Schedule contains an accurate and complete (i) list of all
+patents and  patent applications and all trademarks (indicating registered
+and  unregistered trademarks) and applications therefor, registered
+copyrights,  trade names, service marks and Internet domain names owned or
+licensed by  VCI, including the jurisdictions in which each such Intellectual
+Property  right has been issued or registered or in which any such
+application for  such issuance or registration has been filed, (ii) list of
+all written  licenses, sublicenses and other agreements to which VCI or any
+of its  Subsidiaries is a party and pursuant to which any person is
+authorized to  use any Intellectual Property rights of VCI or any of its
+Subsidiaries, and  (iii) list of all written licenses, sublicenses and other
+agreements as to  which VCI or any of its Subsidiaries is a party and
+pursuant to which VCI  or any of its Subsidiaries is authorized to use any
+third party  Intellectual Property. Neither VCI nor any of its Subsidiaries
+is a party  to any oral license, sublicense or agreement which, if reduced to
+written  form, would be required to be listed in Section 3.11 of the VCI
+Disclosure  Schedule under the terms of this Section 3.11(a).   (b) All of
+the patents, copyrights, trademarks, trade names or Internet  domain name
+registrations of VCI and its Subsidiaries related to their  businesses are
+valid and in full force and effect and will not be altered  or impaired by
+the consummation of the transactions contemplated hereby.  Neither VCI nor
+any of its Subsidiaries is, and will not be as a result of  the execution and
+delivery of this Agreement or the performance of VCI\'s  obligations under
+this Agreement, in breach of any license, sublicense or  other agreement
+relating to VCI\'s Intellectual Property or third party  Intellectual
+Property rights.   (c) Except as set forth in Section 3.11 of the VCI
+Disclosure Schedule,  neither VCI or any of its Subsidiaries, nor to VCI\'s
+knowledge any of the  employees of VCI or any of its Subsidiaries, has
+received a claim, or is  aware of a reasonable basis for a claim, of
+infringement or violation of  any Intellectual Property right of any third
+party. To VCI\'s knowledge, the  manufacturing, marketing, licensing or sale
+of the products or performance  of the service offerings of VCI and its
+Subsidiaries do not infringe or  violate any Intellectual Property right of
+any third party; and, to the  knowledge of VCI, the Intellectual Property
+rights of VCI and its  Subsidiaries are not being infringed or violated by
+activities, products or  services of any third party.   3.12 Contracts.
+Section 3.12 of the VCI Disclosure Schedule lists all material written
+agreements to which VCI or any of its Subsidiaries is a party or by which it
+is bound, including but not limited to:   (a) any written arrangement for
+the provision of products or services to  customers or other third
+parties;   (b) any written arrangement for the purchase of raw materials, 
+commodities, supplies, products or other personal property or for the 
+receipt of consulting or other services;   (c) any written arrangement
+establishing a partnership, joint venture  development, marketing or
+distribution arrangement;     (d) any written arrangement under which it
+has created, incurred,  assumed, or guaranteed (or may create, incur, assume,
+or guarantee)  indebtedness (including capitalized lease obligations) or
+under which it  has imposed (or may impose) a Security Interest on any of its
+assets,  tangible or intangible;   (e) any written arrangement concerning
+confidentiality or noncompetition  (other than standard confidentiality
+agreements with employees, consultants  or directors);   (f) any written
+agreement, contract or commitment that calls for fixed  and/or contingent
+payments or expenditures (including without limitation  any advertising or
+revenue sharing arrangement);   (g) any written outstanding sales or
+advertising contract, commitment or  proposal (including, without limitation,
+insertion orders, slotting  agreements or other agreements under which VCI or
+any of its Subsidiaries  has allowed third parties to advertise on or
+otherwise be included in World  Wide Web sites of VCI or any of its
+Subsidiaries)   (h) any written agreements, contracts or commitments with
+officers,  employees, agents, consultants, advisors, salesmen, sales
+representatives,  distributors or dealers that are not cancelable "at will"
+and without  liability, penalty or premium.   (i) any written employment,
+independent contractor or similar agreement,  contract or commitment that is
+not terminable on thirty (30) days\' notice  or less without penalty,
+liability or premium of any type, including,  without limitation, severance
+or termination pay.   (j) any written arrangement involving any VCI
+shareholders or their  Affiliates.   Neither VCI nor any of its
+Subsidiaries is a party to any oral contract, agreement or other arrangement
+which, if reduced to written form, would be required to be listed in Section
+3.12 of the VCI Disclosure Schedule. All of the agreements listed in the VCI
+Disclosure Schedule to which VCI or any of its Subsidiaries is a party are
+valid, binding, in full force and effect and enforceable in accordance with
+their respective terms, except as such enforceability may be limited by
+applicable bankruptcy, insolvency, reorganization or other similar laws
+affecting the enforcement of creditors\' rights generally and except that the
+availability of equitable remedies is subject to the discretion of the court
+before which any proceeding therefor may be brought (whether at law or in
+equity). Except as set forth in Section 3.12 of the VCI Disclosure Schedule,
+no such contract contains any liquidated damages, penalty or similar
+provision. To VCI\'s knowledge, no party to any such contract intends to
+cancel, withdraw, modify or amend such contract, agreement or arrangement.
+Except as set forth in Section 3.12 of the VCI Disclosure Schedule, neither
+VCI nor any of its Subsidiaries is in default under or in breach or violation
+of, nor, to VCI\'s knowledge, is there any valid basis for any claim of
+default by VCI or any of its Subsidiaries under, or breach or violation by
+VCI or any of its Subsidiaries of, any material provision of any contract
+listed on the VCI Disclosure Schedule. Except as set forth in Section 3.12 of
+the VCI Disclosure Schedule, to VCI\'s knowledge no other party is in default
+under or in breach or violation of, nor is there any valid basis for any
+claim of default by any other party under or any breach or violation by
+any other party of, any such contract.   3.13 Accounts Receivable. All
+accounts receivable reflected on the Most Recent VCI Balance Sheet are valid
+receivables, and, to VCI\'s knowledge, are subject to no setoffs or
+counterclaims and are current and collectible (within 90 days after the date
+on which it first became due and payable), net of the applicable reserve for
+bad debts on the Most Recent VCI Balance Sheet. All accounts receivable
+reflected in the financial or accounting records of VCI and its Subsidiaries
+that have arisen since the Most Recent VCI Balance Sheet Date are valid
+receivables, and to VCI\'s knowledge, subject to no setoffs or counterclaims
+and are collectible, net of a reserve for bad debts in an
+amount proportionate to the reserve shown on the Most Recent VCI Balance
+Sheet.   3.14 Insurance. Section 3.14 of the VCI Disclosure Schedule sets
+forth a true, correct and complete list of all insurance policies and
+fidelity bonds covering the assets, business, equipment, properties,
+operations, software errors and omissions, employees, officers and directors
+of VCI and its Subsidiaries and all claims made under any insurance policy
+since January 1, 1998. Except as set forth in Section 3.14 of the
+VCI    Disclosure Schedule, there is no claim by VCI or any of its
+Subsidiaries pending under any of such policies or bonds as to which coverage
+has been questioned, denied or disputed by the underwriters of such policies
+or bonds. All premiums due and payable under all such policies and bonds have
+been paid and VCI and its Subsidiaries are otherwise in compliance in all
+material respects with the terms of such policies and bonds. VCI has no
+knowledge of any threatened termination of, or material premium increase with
+respect to, any of such policies.   3.15 Litigation. Section 3.15 of the
+VCI Disclosure Schedule identifies, and contains a brief description of, (a)
+any unsatisfied judgment, order, decree, stipulation or injunction issued by
+or enforceable by a Governmental Entity, (b) any written claim, demand,
+complaint, action, suit, proceeding, or hearing or, to VCI\'s knowledge any
+investigation of or in, any Governmental Entity or before any arbitrator to
+which VCI or any of its Subsidiaries or is a party or, to the knowledge of
+VCI, is threatened to be made a party, and (c) any written claims by third
+persons of which VCI is aware and any reasonable basis for any third party
+claims. None of the demands, claims, complaints, actions, suits, proceedings,
+hearings, and investigations set forth in Section 3.15 of the VCI Disclosure
+Schedule would reasonably be expected to have a Material Adverse Effect.  
+3.16 Employees and Consultants. Section 3.16 of the VCI Disclosure
+Schedule contains a list of all current employees and consultants of VCI and
+its Subsidiaries, along with the position and the annual rate of compensation
+of each such person. Except as specified in Section 3.16 of the VCI
+Disclosure Schedule, each current management level employee, key employee and
+consultant to VCI and its Subsidiaries has entered into a confidentiality and
+assignment of inventions agreement with VCI, a copy of each of which has
+previously been delivered to HCC. To the knowledge of VCI, no key employee or
+consultant or group of employees or consultants has any plans to terminate
+employment or the provision of consulting services with VCI or any of its
+Subsidiaries. Except as set forth in Section 3.16 of the VCI Disclosure
+Schedule, neither VCI nor any of its Subsidiaries is a party to or bound by
+any collective bargaining agreement, nor has it experienced any strikes,
+grievances, and claims of unfair labor practices or other collective
+bargaining disputes. Except as set forth in Section 3.16 of the VCI
+Disclosure Schedule, VCI has no knowledge of any organizational effort made
+or threatened, either currently or since its inception, by or on behalf of
+any labor union with respect to employees of VCI or any of its Subsidiaries.
+Neither VCI nor any of its Subsidiaries has any agreements or arrangements
+with persons titled as independent contractors or consultants, as a result of
+which, by virtue of the control exercised by VCI or any of its Subsidiaries,
+the type of work performed by the persons or any other circumstances, such
+persons could reasonably be deemed to be employees of VCI or any of its
+Subsidiaries. VCI and its Subsidiaries have complied in all material respects
+with all record keeping and tax reporting obligations relating to income and
+employment taxes due with respect to compensation paid to employees or
+independent contractors providing services to VCI or any of
+its Subsidiaries.   3.17 Employee Benefits.   (a) Section 3.17 of the VCI
+Disclosure Schedule contains a complete and  accurate list of all VCI
+Employee Benefit Plans (as defined below) which  are maintained, or
+contributed to, by VCI, or any VCI ERISA Affiliate (as  defined below). For
+purposes of this Agreement, "VCI Employee Benefit Plan"  means any "employee
+pension benefit plan" (as defined in Section 3(2) of  the Employee Retirement
+Income Security Act of 1974, as amended ("ERISA")),  any "employee welfare
+benefit plan" (as defined in Section 3(1) of ERISA),  and any other written
+or oral plan, agreement or arrangement involving  direct or indirect
+compensation, including without limitation insurance  coverage, severance
+benefits, disability benefits, deferred compensation,  bonuses, stock
+options, stock purchase, phantom stock, stock appreciation  or other forms of
+incentive compensation or post-retirement compensation  maintained, or
+contributed to, by VCI or any VCI ERISA Affiliate. For  purposes of this
+Agreement, "VCI ERISA Affiliate" means any entity which is  a member of (i) a
+controlled group of corporations (as defined in Section  414(b) of the Code),
+(ii) a group of trades or businesses under common  control (as defined in
+Section 414(c) of the Code), or (iii) an affiliated  service group (as
+defined under Section 414(m) of the Code or the  regulations under Section
+414(o) of the Code), any of which includes VCI.  Complete and accurate copies
+of (i) all VCI Employee Benefit Plans which  have been reduced to writing,
+(ii) written summaries, if any, of all     unwritten VCI Employee Benefit
+Plans, (iii) all related trust agreements,  insurance contracts and summary
+plan descriptions, if any, and (iv) the  most recent annual report filed, if
+any, on IRS Form 5500, 5500C or 5500R  for each VCI Employee Benefit Plan,
+have been delivered to the Buyer. Each  VCI Employee Benefit Plan has been
+administered in all material respects in  accordance with its terms, and each
+of VCI and the VCI ERISA Affiliates has  in all material respects met its
+obligations with respect to such VCI  Employee Benefit Plan and has made all
+contributions thereto which are  required to be made prior to the date
+hereof. To the knowledge of VCI, VCI  and all VCI Employee Benefit Plans are
+in compliance in all material  respects with the currently applicable
+provisions of ERISA and the Code and  the regulations thereunder.   (b)
+There are no termination proceedings or other claims (except claims  for
+benefits payable in the normal operation of VCI Employee Benefit Plans  and
+proceedings with respect to qualified domestic relations orders) suits  or
+proceedings and, to VCI\'s knowledge, there are no investigations by any 
+Governmental Entity, against or involving any VCI Employee Benefit Plan or 
+asserting any rights or claims to benefits under any VCI Employee Benefit 
+Plan that could give rise to any material liability.   (c) All VCI Employee
+Benefit Plans that are intended to be qualified  under Section 401(a) of the
+Code have received determination letters from  the Internal Revenue Service
+to the effect that such VCI Employee Benefit  Plans are qualified and the
+plans and the trusts related thereto are exempt  from federal income taxes
+under Sections 401(a) and 501(a), respectively,  of the Code, no such
+determination letter has been revoked and, revocation  has not been
+threatened, and no such VCI Employee Benefit Plan has been  amended since the
+date of its most recent determination letter in any  respect which would
+adversely affect such letter, and, to VCI\'s knowledge,  no act or omission
+has occurred, that would adversely affect its  qualification or materially
+increase its cost.   (d) Except as set forth in Section 6.17 of the VCI
+Disclosure Schedule,  neither VCI nor any VCI ERISA Affiliate has ever
+maintained a VCI Employee  Benefit Plan subject to Section 412 of the Code or
+Title IV of ERISA.   (e) At no time has VCI or any VCI ERISA Affiliate been
+obligated to  contribute to any "multi-employer plan" (as defined in Section
+4001(a)(3)  of ERISA).   (f) Except as set forth in Section 3.17 of the VCI
+Disclosure Schedule,  there are no unfunded obligations under any VCI
+Employee Benefit Plan  providing benefits after termination of employment to
+any employee of VCI  or any VCI ERISA Affiliate (or to any beneficiary of any
+such employee),  including but not limited to retiree health coverage and
+deferred  compensation, but excluding continuation of health coverage
+required to be  continued under Section 4980B of the Code and insurance
+conversion  privileges under state law.   (g) To the knowledge of VCI, no
+act or omission has occurred and no  condition exists with respect to any VCI
+Employee Benefit Plan that would  subject VCI or any VCI ERISA Affiliate to
+any material fine, penalty, tax  or fiduciary liability imposed under ERISA
+or the Code.   (h) No VCI Employee Benefit Plan is funded by, associated
+with, or  related to a "voluntary employee\'s beneficiary association" within
+the  meaning of Section 501(c)(9) of the Code.   (i) Except as set forth in
+Section 3.17 of the VCI Disclosure Schedule,  no VCI Employee Benefit Plan,
+plan documentation or agreement, summary plan  description or other written
+communication distributed generally to  employees by its terms prohibits VCI
+or any VCI ERISA Affiliate from  amending or terminating any such VCI
+Employee Benefit Plan.   (j) Section 3.17 or 3.12 of the VCI Disclosure
+Schedule discloses each:  (i) written, and, to VCI\'s knowledge, oral,
+agreement with any director,  officer or other employee of VCI and Affiliates
+(A) the benefits of which  are contingent, or the terms of which are
+materially altered, upon the  occurrence of a transaction involving VCI or
+its Affiliates of the nature  of any of the transactions contemplated by this
+Agreement, (B) providing  any term of employment or compensation guarantee or
+(C) providing severance     benefits or other benefits after the
+termination of employment of such  director, officer or employee; (ii)
+agreement, plan or arrangement under  which any person may as a result of the
+Merger receive payments from VCI or  its affiliates that may be subject to
+the tax imposed by Section 4999 of  the Code or included in the determination
+of such person\'s "parachute  payment" under Section 280G of the Code; and
+(iii) agreement or plan  binding VCI or its affiliates, including without
+limitation any stock  option plan, stock appreciation right plan, restricted
+stock plan, stock  purchase plan, severance benefit plan, or any VCI Employee
+Benefit Plan,  any of the benefits of which will be increased, or the vesting
+of the  benefits of which will be accelerated, by the occurrence of any of
+the  transactions contemplated by this Agreement or the value of any of the 
+benefits of which will be calculated on the basis of any of the  transactions
+contemplated by this Agreement.   3.18 Environmental and OSHA.   (a)
+Hazardous Material. Except as set forth in Section 3.18 of the VCI 
+Disclosure Schedule, no material amount of any substance that is regulated 
+by any Governmental Entity or that has been designated by any Governmental 
+Entity to be radioactive, toxic, hazardous or otherwise a danger to health 
+or the environment, including, without limitation, PCBs, asbestos, urea- 
+formaldehyde and all substances listed pursuant to the United States 
+Comprehensive Environmental Response, Compensation, and Liability Act of 
+1980, as amended from time to time, and the United States Resource Recovery 
+and Conservation Act of 1976, as amended from time to time, and the 
+regulations and publications promulgated pursuant to said laws (a  "Hazardous
+Material"), is, to the knowledge of VCI, present as a result of  the actions
+of VCI or any of its Subsidiaries (or, to the knowledge of VCI,  as a result
+of any actions of any third party or otherwise) in violation of  any law in
+effect on or before the Closing Date, in, on or under any  property,
+including the land and the improvements, ground water and surface  water
+thereof, that VCI or any of its Subsidiaries has at any time  operated,
+occupied or leased.   (b) Hazardous Materials Activities. Neither VCI nor
+any of its  Subsidiaries has transported, stored, used, manufactured,
+disposed of,  released or exposed its employees or others to Hazardous
+Materials in  violation of any law in effect on or before the Closing Date,
+nor has VCI  or any of its Subsidiaries disposed of, transferred, sold or
+manufactured  any product containing a Hazardous Material (collectively
+"Hazardous  Materials Activities") in violation of the Comprehensive
+Environmental  Response, Compensation and Liability Act of 1980, as amended,
+the Resource  Recovery and Conservation Act of 1976, the Toxic Substances
+Control Act of  1976, and other applicable state or federal acts (including
+the rules and  regulations thereunder) as in effect on or before the Closing
+Date.   (c) Permits. VCI currently holds no environmental approvals,
+permits,  licenses, clearances and consents and none are necessary for the
+conduct of  VCI\'s Hazardous Material Activities, if any, and other business
+activities  of VCI as such activities are currently being conducted.   3.19
+Permits. Section 3.19 of the VCI Disclosure Schedule sets forth a list of all
+permits, licenses, registrations, certificates, orders or approvals from any
+Governmental Entity (including without limitation those issued or
+required under Environmental Laws and those relating to the occupancy or use
+of owned or leased real property) ("Permits") issued to or held by VCI that
+are material to the operation of its business. Such listed Permits are the
+only Permits that are required for VCI to conduct its business as conducted,
+except for those the absence of which could not reasonably be expected to
+have any Material Adverse Effect. Each such Permit is in full force and
+effect.   3.20 Certain Business Relationships with Affiliates. Except as set
+forth in Section 3.20 of the VCI Disclosure Schedule, no Affiliate of VCI (a)
+owns any property or right, tangible or intangible, which is used in the
+business of VCI, (b) has any claim or cause of action against VCI, (c) owes
+any money to VCI, or (d) has loaned any money to VCI. Section 3.20 of the VCI
+Disclosure Schedule describes any transactions or relationships between VCI
+and any Affiliate thereof.     3.21 Brokers\' Fees. VCI has no liability
+or obligation to pay any fees or commissions to any broker, investment
+banker, finder or agent with respect to the transactions contemplated by this
+Agreement other than to Donaldson, Lufkin and Jenrette.   3.22 Minute Books.
+The minute books and other similar records of VCI and its Subsidiaries which
+are corporations contain true and materially complete records of all actions
+taken at any meetings of VCI\'s shareholders, Board of Directors or any
+committee thereof and of all written consents executed in lieu of the holding
+of any such meeting, and all charter and bylaw documents and amendments
+thereto.   3.23 Customers and Suppliers. No material licensor to or supplier
+of VCI or any of its Subsidiaries has indicated that it will stop, or
+decrease the rate of, licensing intellectual property or supplying materials,
+products or services to VCI or any of its Subsidiaries and no material
+customer of VCI or any of its Subsidiaries has indicated that it will stop,
+or decrease the rate of, buying, leasing or licensing materials, products or
+services from VCI or any of its Subsidiaries. Section 3.23 of the VCI
+Disclosure Schedule sets forth a list of each supplier of vitamins,
+nutritional supplements and minerals that is the sole supplier of any such
+significant product to VCI or to any of its Subsidiaries.   3.24 Year 2000.
+To VCI\'s knowledge, the systems and facilities operated by or on behalf of
+VCI or any of its Subsidiaries in the conduct of their respective businesses
+are capable of providing uninterrupted and error-free recordation, storage,
+processing, output and presentation of data, including calendar dates falling
+before, on or after January 1, 2000. As of the date hereof, VCI and its
+Subsidiaries have operated without any material Year 2000 problems.   3.25
+Disclosure. No representation or warranty by VCI contained in this Agreement,
+and no statement contained in the VCI Disclosure Schedule or in any other
+transaction document delivered to or to be delivered by VCI pursuant to this
+Agreement, contains or will contain any untrue statement of a material fact
+or omits or will omit to state any material fact necessary, in light of the
+circumstances under which it was or will be made, in order to make
+the statements herein or therein not misleading, as a whole.   ARTICLE
+IV   REPRESENTATIONS OF HCC AND ACQUISITION CORP.   HCC and Acquisition
+Corp. represent and warrant to VCI and the Holders that, except as set forth
+in the Disclosure Schedule dated as of the date hereof and signed by the
+Chief Executive Officer of HCC (the "HCC Disclosure Schedule"), each of which
+exceptions shall specifically identify the relevant Section hereof to which
+it relates or be specifically enough stated to make it clear that it is also
+relevant to such Section:   4.1 Organization. HCC and each of its
+Subsidiaries are corporations duly organized, validly existing and in good
+standing under the laws of the jurisdictions of their incorporation, and have
+all requisite power and authority to own their properties and to carry on
+their business as now being conducted. HCC has all requisite power to execute
+and deliver this Agreement and the agreements contemplated herein, and to
+consummate the transactions contemplated hereby and thereby. HCC and its
+Subsidiaries are duly qualified to do business and in good standing in all
+jurisdictions in which their ownership of property or the character of their
+business requires such qualification and where failure to be so qualified
+would reasonably be expected to have a Material Adverse Effect. Certified
+copies of the Certificates of Incorporation and the Bylaws of HCC and
+Acquisition Corporation, as amended to date, have been previously delivered
+to VCI, are complete and correct, and no amendments have been made thereto or
+have been authorized since the date thereof.   4.2 HCC Capital Structure.
+The authorized capital stock of HCC consists of 100,000,000 shares of common
+stock and 5,000,000 shares of preferred stock. As of March 14, 2000, (i)
+22,651,630 shares of HCC common stock were issued and outstanding, all of
+which are duly authorized, validly issued, fully paid and nonassessable, (ii)
+no shares of HCC preferred stock were outstanding, and (iii) 7,637,395 shares
+of HCC    common stock were reserved for future issuance pursuant to
+HCC\'s stock option plans and outstanding warrants. Section 4.2 of the HCC
+Disclosure Schedule sets forth the outstanding shares of common stock that
+were not covered by the S-1 registration statement that became effective on
+December 7, 1999 and the record owners thereof. All of the outstanding shares
+of capital stock of each of HCC\'s Subsidiaries are duly authorized, validly
+issued, fully paid and nonassessable and all such shares are owned by HCC
+free and clear of all security interests, liens, claims, pledges, agreements,
+limitations on HCC\'s voting rights, charges or other encumbrances of any
+nature. The shares of HCC common stock issued pursuant to this Agreement
+will, when issued, be duly authorized, validly issued, fully paid and
+nonassessable. The shares of HCC common stock owned of record and
+beneficially by the HCC stockholders executing the Voting Agreement comprise
+not less than forty percent (40%) of the total voting power of HCC as of the
+date of this Agreement.   4.3 Subsidiaries. The only Subsidiaries of HCC are
+those listed in the HCC Disclosure Schedule. All of the outstanding shares of
+capital stock of each of HCC\'s Subsidiaries is duly authorized, validly
+issued, fully paid and nonassessable and all such shares are owned by HCC
+free and clear of all security interests, liens, claims, pledges, agreements,
+limitations on HCC\'s voting rights, charges or other encumbrances of any
+nature. Acquisition Corp. has been formed by HCC for the purpose of effecting
+the Merger and has no significant assets or liabilities (other than its
+obligations under this Agreement) and has not engaged in any material
+activities except as are related to the Merger.   4.4 HCC\'s Authorization.
+Subject to the obtaining of the approval of HCC\'s stockholders, the
+execution and delivery by HCC and Acquisition Corp. of this Agreement, and
+the agreements provided for herein, and the consummation by HCC and
+Acquisition Corp. of the transactions contemplated hereby and thereby,
+have been duly authorized by all requisite corporate action. This Agreement
+has been duly executed and delivered by HCC and Acquisition Corp. Subject to
+the obtaining of approval of HCC\'s stockholders, this Agreement and all such
+other agreements and written obligations entered into and undertaken in
+connection with the transactions contemplated hereby constitute the valid and
+legally binding obligations of HCC and Acquisition Corp., enforceable against
+them in accordance with their respective terms subject to applicable
+bankruptcy, insolvency, reorganization, fraudulent conveyance or other
+similar laws affecting the rights of creditors generally and subject to
+equitable remedies. The execution, delivery and performance of this Agreement
+and the agreements provided for herein, and the consummation by HCC and
+Acquisition Corp. of the transactions contemplated hereby and thereby, do not
+and will not, with or without the giving of notice of the passage of time or
+both, (a) violate the provisions of any law, rule or regulation applicable to
+HCC (assuming compliance with the requirements of the HSR Act) and which
+would reasonably be expected to have a Material Adverse Effect; (b) violate
+the provisions of the Certificates of Incorporation or Bylaws of HCC or
+Acquisition Corp.; (c) violate any judgment, decree, order or award of any
+court, governmental body or arbitrator; or (d) conflict with or result in the
+breach or termination of any term or provision of, or constitute a default
+under, or cause any acceleration under, or cause the creation of any lien,
+charge or encumbrance upon the properties or assets of HCC or of any of its
+Subsidiaries pursuant to, any indenture, mortgage, deed of trust or other
+agreement or instrument to which HCC or any of its Subsidiaries is a party or
+by which HCC or any of its Subsidiaries is or may be bound and which would
+reasonably be expected to have a Material Adverse Effect.   4.5 SEC
+Filings; Financial Statements.   (a) HCC has filed and provided to VCI all
+forms, reports and documents,  including all exhibits thereto, required to be
+filed by HCC with the SEC  since December 7, 1999 (the date on which its
+initial public offering  became effective), including its Form 10-K filed for
+the year ended  December 31, 1999 (collectively, the "HCC SEC Reports"). The
+HCC SEC  Reports (i) at the time filed, complied in all material respects
+with the  applicable requirements of the Securities Act and the Exchange Act,
+as the  case may be, and (ii) did not at the time they were filed (or if
+amended or  superseded by a filing prior to the date of this Agreement, then
+on the  date of such filing) contain any untrue statement of a material fact
+or  omit to state a material fact required to be stated in such HCC SEC
+Reports  or necessary in order to make the statements in such HCC SEC
+Reports, in  the light of the circumstances under which they were made, not
+misleading.     (b) Each of the consolidated financial statements
+(including, in each  case, any related notes) contained in the HCC SEC
+Reports, including HCC\'s  audited consolidated balance sheet as of December
+31, 1999 ("Most Recent  HCC Balance Sheet") complied as to form in all
+material respects with the  applicable published rules and regulations of the
+SEC with respect thereto,  was prepared in accordance with GAAP applied on a
+consistent basis  throughout the periods involved and fairly presented in all
+material  respects the consolidated financial position of HCC as at the
+respective  dates and the consolidated results of its operations and cash
+flows for the  periods indicated.   (c) Since December 31, 1999, HCC has
+not suffered any Material Adverse  Effect, and no event has occurred which
+reasonably would be expected to  result in a Material Adverse Effect.   4.6
+No Undisclosed Liabilities. HCC and its Subsidiaries have no
+liability whether absolute or contingent, whether liquidated or unliquidated
+and whether due or to become due), and there is no existing condition,
+situation or set of circumstances which would reasonably be expected to
+result in such a liability, except for (a) liabilities shown on the Most
+Recent HCC Balance Sheet, (b) liabilities which have arisen since December
+31, 1999 in the Ordinary Course of Business, (c) contractual liabilities
+incurred in the Ordinary Course of Business which are not required by GAAP to
+be reflected on a balance sheet or disclosed in the notes thereto under GAAP,
+and (d) liabilities for accounting, investment banking and legal fees
+incurred in connection with the Merger and the transactions contemplated
+thereby.   4.7 Tax Matters. Except as disclosed on the HCC Disclosure
+Schedule:   (a) HCC and each of its Subsidiaries (together the "HCC Group")
+have  filed all Tax Returns (as defined below) that they were required to
+file  and all such Tax Returns were correct and complete in all material 
+respects. The HCC Group has paid all Taxes owed in respect of the periods 
+covered by such Tax Returns whether or not shown as due on such Tax Return. 
+The unpaid Taxes of the HCC Group for tax periods through December 31, 1999 
+do not exceed the accruals and reserves for Taxes set forth on the Most 
+Recent HCC Balance Sheet. The HCC Group has no actual or, to HCC\'s 
+knowledge, potential liability for any Tax obligation of any taxpayer 
+(including without limitation any affiliated group of corporations or other 
+entities that included any member of the HCC Group during a prior period) 
+other than members of the HCC Group. All Taxes that any member of the HCC 
+Group is or was required by law to withhold or collect have been duly 
+withheld or collected and, to the extent required, have been paid to the 
+proper Governmental Entity.   (b) The HCC Group has never had any
+examination report issued or  statements of deficiencies assessed against it
+which have not been resolved  or satisfied. No Tax Returns of the HCC Group
+have been audited by any  Governmental Entity. No examination or audit of any
+Tax Returns of the HCC  Group by any Governmental Entity is currently in
+progress or, to the  knowledge of HCC, threatened or contemplated. The HCC
+Group has not waived  any statute of limitations with respect to taxes or
+agreed to an extension  of time with respect to a tax assessment or
+deficiency.   (c) The HCC Group is not a "consenting corporation" within the
+meaning  of Section 341(f) of the Code and none of the assets of the HCC
+Group are  subject to an election under Section 341(f) of the Code. HCC has
+not been a  United States real property holding corporation within the
+meaning of  Section 897(c)(2) of the Code during the applicable period
+specified in  Section 897(c)(l)(A)(ii) of the Code. The HCC Group is not a
+party to any  Tax allocation or sharing agreement.   (d) The HCC Group is
+not and has never been a member of an "affiliated  group" of corporations
+(within the meaning of Section 1504 of the Code)  other than an affiliated
+group of which HCC was the common parent. The HCC  Group has not made an
+election under Treasury Reg. Section 1.1502-20(g).  HCC is not and has not
+been required to make a basis reduction pursuant to  Treasury Reg. Section
+1.1502-20(b) or Treasury Reg. Section 1.337(d)-2T(b).   (e) As of the date
+of this Agreement and as of the Closing Date, HCC and  its Affiliates are not
+aware of any existing condition or circumstance (and  have not, and will not
+have, taken any action) that would cause the Merger  to fail to qualify as a
+reorganization within the meaning of Section 368(a)  of the Code.     4.8
+Assets. HCC and its Subsidiaries do not own any real property. HCC and its
+Subsidiaries have good and defensible title to all of their
+respective properties as reflected in the Most Recent HCC Balance Sheet
+(except properties, interests in properties and assets sold or otherwise
+disposed of since December 31, 1999 in the Ordinary Course of Business) or
+acquired after December 31, 1999, or with respect to leased properties and
+assets, valid leasehold interests in, free and clear of all Security
+Interest, except as listed in Section 4.8 of the HCC Disclosure Schedule. The
+plants, property and equipment of HCC and its Subsidiaries that are used in
+the operations of their respective businesses are in good operating condition
+and repair subject to ordinary wear and tear and to requirements for periodic
+maintenance. All properties used in the operations of HCC and its
+Subsidiaries, except for those acquired after the Most Recent Balance Sheet
+Date, are reflected in HCC\'s Most Recent Balance Sheet to the extent
+required by GAAP. Section 4.8 of the HCC Disclosure Schedule identifies all
+personal property leases of HCC.   4.9 Intellectual Property.   (a) HCC
+and its Subsidiaries own, or license or otherwise possess  legally
+enforceable rights to use, all Intellectual Property free and clear  of all
+liens, claims and encumbrances (including, without limitation,  licensing and
+distribution rights). Section 4.9 of the HCC Disclosure  Schedule contains an
+accurate and complete (i) list of all patents and  patent applications and
+all trademarks (indicating registered and  unregistered trademarks) and
+applications therefor, registered copyrights,  trade names, service marks and
+Internet domain names owned or licensed by  HCC or any of its Subsidiaries,
+including the jurisdictions in which each  such Intellectual Property right
+has been issued or registered or in which  any such application for such
+issuance or registration has been filed, (ii)  list of all written licenses,
+sublicenses and other agreements to which HCC  or any of its Subsidiaries is
+a party and pursuant to which any person is  authorized to use any
+Intellectual Property rights of HCC or any of its  Subsidiaries, and (iii)
+list of all written licenses, sublicenses and other  agreements as to which
+HCC or any of its Subsidiaries is a party and  pursuant to which HCC or any
+of its subsidiaries is authorized to use any  third party Intellectual
+Property. Neither HCC nor any of its Subsidiaries  is a party to any oral
+license, sublicense or agreement which, if reduced  to written form, would be
+required to be listed in Section 4.9 of the HCC  Disclosure Schedule under
+the terms of this Section 4.9(a).   (b) All of the patents, copyrights,
+trademarks, trade names or Internet  domain name registrations of HCC and its
+Subsidiaries related to their  current or currently proposed businesses are
+valid and in full force and  effect and will not be altered or impaired by
+the consummation of the  transactions contemplated hereby. Neither HCC nor
+any of its Subsidiaries  is, and will not be as a result of the execution and
+delivery of this  Agreement or the performance of HCC\'s obligations under
+this Agreement, in  breach of any license, sublicense or other agreement
+relating to HCC\'s  Intellectual Property or third party Intellectual
+Property rights.   (c) Neither HCC or any of its Subsidiaries, nor to HCC\'s
+knowledge any  of the employees of HCC or any of its Subsidiaries has
+received a claim, or  is aware of a reasonable basis for a claim, of
+infringement or violation of  any Intellectual Property right of any third
+party. To HCC\'s knowledge, the  manufacturing, marketing, licensing or sale
+of the products or performance  of the service offerings of HCC and its
+Subsidiaries do not infringe or  violate any Intellectual Property right of
+any third party and, to the  knowledge of HCC, the Intellectual Property
+rights of HCC and its  Subsidiaries are not being infringed or violated by
+activities, products or  services of any third party.   4.10 Contracts. All
+material written agreements to which HCC or any of its Subsidiaries is a
+party or by which it is bound are listed in HCC\'s Form 10-K for the year
+ended December 31, 1999 or set forth in Section 4.10 of the HCC Disclosure
+Schedule. All of the agreements so listed are valid, binding, in full force
+and effect and enforceable in accordance with their respective terms, except
+as such enforceability may be limited by applicable bankruptcy, insolvency,
+reorganization or other similar laws affecting the enforcement of creditors\'
+rights generally and except that the availability of equitable remedies is
+subject to the discretion of the court before which any proceeding therefor
+may be brought (whether at law or in equity). No such contract contains any
+liquidated damages, penalty or similar provision. To HCC\'s knowledge, no
+party to any such    contract intends to cancel, withdraw, modify or amend
+such contract, agreement or arrangement. Neither HCC nor any of its
+Subsidiaries is in default under or in breach or violation of, nor, to HCC\'s
+knowledge, is there any valid basis for any claim of default by HCC or any of
+its Subsidiaries under, or breach or violation by HCC or any of its
+Subsidiaries of, any material provision of any contract so listed. To HCC\'s
+knowledge, no other party is in default under or in breach or violation of,
+nor is there any valid basis for any claim of default by any other party
+under or any breach or violation by any other party of, any such
+contract.   4.11 Accounts Receivable. All accounts receivable reflected on
+the Most Recent HCC Balance Sheet are valid receivables, and, to HCC\'s
+knowledge, are subject to no setoffs or counterclaims and are current and
+collectible (within 90 days after the date on which it first became due and
+payable), net of the applicable reserve for bad debts on the Most Recent HCC
+Balance Sheet. All accounts receivable reflected in the financial or
+accounting records of HCC and its Subsidiaries that have arisen since the
+Most Recent HCC Balance Sheet Date are valid receivables, and to HCC\'s
+knowledge, subject to no setoffs or counterclaims and are collectible, net of
+a reserve for bad debts in an amount proportionate to the reserve shown on
+the Most Recent HCC Balance Sheet.   4.12 Litigation. Section 4.12 of the
+HCC Disclosure Schedule identifies, and contains a brief description of, (a)
+any unsatisfied judgment, order, decree, stipulation or injunction issued by
+or enforceable by a Governmental Entity, (b) any written claim, demand,
+complaint, action, suit, proceeding, or hearing or, to HCC\'s knowledge any
+investigation of or in, any Governmental Entity or before any arbitrator to
+which HCC or any of its Subsidiaries or is a party or, to the knowledge of
+HCC, is threatened to be made a party, and (c) any written or oral claims by
+third persons of which HCC is aware and any reasonable basis for any third
+party claims. None of the demands, claims, complaints, actions, suits,
+proceedings, hearings, and investigations set forth in Section 4.12 of the
+HCC Disclosure Schedule would reasonably be expected to have a
+Material Adverse Effect.   4.13 Employee Benefits.   (a) Section 4.13 of
+the HCC Disclosure Schedule contains a complete and  accurate list of all HCC
+Employee Benefit Plans (as defined below) which  are maintained, or
+contributed to, by HCC, or any HCC ERISA Affiliate (as  defined below). For
+purposes of this Agreement, "HCC Employee Benefit Plan"  means any "employee
+pension benefit plan" (as defined in Section 3(2) of  the Employee Retirement
+Income Security Act of 1974, as amended ("ERISA")),  any "employee welfare
+benefit plan" (as defined in Section 3(1) of ERISA),  and any other written
+or oral plan, agreement or arrangement involving  direct or indirect
+compensation, including without limitation insurance  coverage, severance
+benefits, disability benefits, deferred compensation,  bonuses, stock
+options, stock purchase, phantom stock, stock appreciation  or other forms of
+incentive compensation or post-retirement compensation  maintained, or
+contributed to, by HCC or any HCC ERISA Affiliate. For  purposes of this
+Agreement, "HCC ERISA Affiliate" means any entity which is  a member of (i) a
+controlled group of corporations (as defined in Section  414(b) of the Code),
+(ii) a group of trades or businesses under common  control (as defined in
+Section 414(c) of the Code), or (iii) an affiliated  service group (as
+defined under Section 414(m) of the Code or the  regulations under Section
+414(o) of the Code), any of which includes HCC.  Complete and accurate copies
+of (i) all HCC Employee Benefit Plans which  have been reduced to writing,
+(ii) written summaries, if any, of all  unwritten HCC Employee Benefit Plans,
+(iii) all related trust agreements,  insurance contracts and summary plan
+descriptions, if any, and (iv) the  most recent annual report filed, if any,
+on IRS Form 5500, 5500C or 5500R  since HCC\'s inception for each HCC
+Employee Benefit Plan, have been  delivered to the Buyer. Each HCC Employee
+Benefit Plan has been  administered in all material respects in accordance
+with its terms, and  each of HCC, and HCC ERISA Affiliates has in all
+material respects met its  obligations with respect to such HCC Employee
+Benefit Plan and has made all  contributions thereto which are required to be
+made prior to the date  hereof. To the knowledge of HCC, HCC and all HCC
+Employee Benefit Plans are  in compliance in all material respects with the
+currently applicable  provisions of ERISA and the Code and the regulations
+thereunder.     (b) There are no termination proceedings or other claims
+(except claims  for benefits payable in the normal operation of HCC Employee
+Benefit Plans  and proceedings with respect to qualified domestic relations
+orders) suits  or proceedings and, to HCC\'s knowledge, there are no
+investigations by any  Governmental Entity, against or involving any HCC
+Employee Benefit Plan or  asserting any rights or claims to benefits under
+any HCC Employee Benefit  Plan that could give rise to any material
+liability.   (c) All HCC Employee Benefit Plans that are intended to be
+qualified  under Section 401(a) of the Code have received determination
+letters from  the Internal Revenue Service to the effect that such HCC
+Employee Benefit  Plans are qualified and the plans and the trusts related
+thereto are exempt  from federal income taxes under Sections 401(a) and
+501(a), respectively,  of the Code, no such determination letter has been
+revoked and, revocation  has not been threatened, and no such HCC Employee
+Benefit Plan has been  amended since the date of its most recent
+determination letter in any  respect which would adversely affect such
+letter, and, to HCC\'s knowledge,  no act or omission has occurred, that
+would adversely affect its  qualification or materially increase its
+cost.   (d) Neither HCC nor any HCC ERISA Affiliate has ever maintained an
+HCC  Employee Benefit Plan subject to Section 412 of the Code or Title IV
+of  ERISA.   (e) At no time has HCC or any HCC ERISA Affiliate been
+obligated to  contribute to any "multi-employer plan" (as defined in Section
+4001(a)(3)  of ERISA).   (f) There are no unfunded obligations under any
+HCC Employee Benefit  Plan providing benefits after termination of employment
+to any employee of  HCC or any HCC ERISA Affiliate (or to any beneficiary of
+any such  employee), including but not limited to retiree health coverage
+and  deferred compensation, but excluding continuation of health coverage 
+required to be continued under Section 4980B of the Code and insurance 
+conversion privileges under state law.   (g) To the knowledge of HCC, no act
+or omission has occurred and no  condition exists with respect to any HCC
+Employee Benefit Plan that would  subject HCC, or any HCC ERISA Affiliate to
+any material fine, penalty, tax  or fiduciary liability imposed under ERISA
+or the Code.   (h) No HCC Employee Benefit Plan is funded by, associated
+with, or  related to a "voluntary employee\'s beneficiary association" within
+the  meaning of Section 501(c)(9) of the Code.   (i) No HCC Employee
+Benefit Plan, plan documentation or agreement,  summary plan description or
+other written communication distributed  generally to employees by its terms
+prohibits HCC or any HCC ERISA  Affiliate from amending or terminating any
+such HCC Employee Benefit Plan.   (j) Section 4.13 of the HCC Disclosure
+Schedule discloses each: (i)  written, and, to HCC\'s knowledge, oral,
+agreement with any director,  officer or other employee of HCC and affiliates
+(A) the benefits of which  are contingent, or the terms of which are
+materially altered, upon the  occurrence of a transaction involving HCC or
+its Affiliates of the nature  of any of the transactions contemplated by this
+Agreement, (B) providing  any term of employment or compensation guarantee or
+(C) providing severance  benefits or other benefits after the termination of
+employment of such  director, officer or employee; (ii) agreement, plan or
+arrangement under  which any person may receive payments from HCC or its
+Affiliates that may  be subject to the tax imposed by Section 4999 of the
+Code or included in  the determination of such person\'s "parachute payment"
+under Section 280G  of the Code; and (iii) agreement or plan binding HCC or
+its affiliates,  including without limitation any stock option plan, stock
+appreciation  right plan, restricted stock plan, stock purchase plan,
+severance benefit  plan, or any HCC Employee Benefit Plan, any of the
+benefits of which will  be increased, or the vesting of the benefits of which
+will be accelerated,  by the occurrence of any of the transactions
+contemplated by this Agreement  or the value of any of the benefits of which
+will be calculated on the  basis of any of the transactions contemplated by
+this Agreement.     4.14 Environmental and OSHA.   (a) Hazardous
+Material. No material amount of any Hazardous Material is,  to the knowledge
+of HCC, present as a result of the actions of HCC or any  of its Subsidiaries
+(or, to the knowledge of HCC, as a result of any  actions of any third party
+or otherwise) in violation of any law in effect  on or before the Closing
+Date, in, on or under any property, including the  land and the improvements,
+ground water and surface water thereof, that HCC  or any of its Subsidiaries
+has at any time owned, operated, occupied or  leased.   (b) Hazardous
+Materials Activities. Neither HCC nor any of its  Subsidiaries has
+transported, stored, used, manufactured, disposed of,  released or exposed
+its employees or others to Hazardous Materials in  violation of any law in
+effect on or before the Closing Date, nor has HCC  or any of its Subsidiaries
+engaged in any "Hazardous Materials Activities")  in violation of the
+Comprehensive Environmental Response, Compensation and  Liability Act of
+1980, as amended, the Resource Recovery and Conservation  Act of 1976, the
+Toxic Substances Control Act of 1976, and other applicable  state or federal
+acts (including the rules and regulations thereunder) as  in effect on or
+before the Closing Date.   (c) Permits. HCC currently holds no environmental
+approvals, permits,  licenses, clearances and consents and none are necessary
+for the conduct of  HCC\'s Hazardous Material Activities, if any, and other
+business activities  of HCC as such activities are currently being
+conducted.   4.15 Brokers\' Fees. HCC has no liability or obligation to pay
+any fees or commissions to any broker, finder or agent with respect to the
+transactions contemplated by this Agreement other than Pacific Growth.  
+4.16 Customers and Suppliers. No material licensor to or supplier of HCC
+has indicated that it will stop, or decrease the rate of, licensing
+intellectual property or supplying materials, products or services to HCC and
+no material customer of HCC has indicated that it will stop, or decrease the
+rate of, buying, leasing or licensing materials, products or services from
+HCC. Section 4.16 of the HCC Disclosure Schedule sets forth a list of each
+supplier that is the sole supplier of any significant product, component or
+service to HCC.   4.17 Year 2000. To HCC\'s knowledge, the systems and
+facilities operated by or on behalf of HCC or any of its Subsidiaries in the
+conduct of their respective businesses are capable of providing uninterrupted
+and error-free recordation, storage, processing, output and presentation of
+data, including calendar dates falling before, on or after January 1, 2000.
+As of the date hereof, HCC and its Subsidiaries have operated without any
+material Year 2000 problems.   4.18 Disclosure. No representation or
+warranty by HCC contained in this Agreement, and no statement contained in
+the HCC Disclosure Schedule or in any other transaction document delivered to
+or to be delivered by HCC pursuant to this Agreement, contains or will
+contain any untrue statement of a material fact or omits or will omit to
+state any material fact necessary, in light of the circumstances under which
+it was or will be made, in order to make the statements herein or therein not
+misleading, as a whole.   ARTICLE V   CERTAIN COVENANTS OF VCI   From
+and after the date hereof and until the earlier of the Closing Date
+or termination of this Agreement pursuant to Article VIII hereof and subject
+to Section 6.17 hereof:   5.1 Conduct of Business and Certain Key
+Employees. VCI and its Subsidiaries shall carry on their businesses in the
+Ordinary Course of Business. All of the property of VCI and its Subsidiaries
+shall be used, operated, repaired and maintained in a manner consistent with
+past practice. VCI will use its commercially reasonable efforts to maintain
+the relationships of VCI and its Subsidiaries with their employees, customers
+and suppliers.     5.2 Absence of Material Changes. Without the prior
+written consent of HCC, which consent shall not be unreasonably delayed,
+conditioned or withheld, neither VCI nor any of its Subsidiaries shall:  
+(a) take any action to amend its charter documents or bylaws;   (b) issue
+any stock (except upon the exercise of outstanding options or  warrants to
+purchase common stock in exchange for full payment), bonds or  other
+corporate securities or grant any option or issue any warrant to  purchase or
+subscribe for any of such securities or issue any securities  convertible
+into such securities;   (c) incur any obligation or liability (absolute or
+contingent), except  in the Ordinary Course of Business;   (d) declare or
+make any payment or distribution to its stockholders or  purchase or redeem
+any shares of its capital stock;   (e) mortgage, pledge, or subject to any
+lien, charge or any other  encumbrance any of their assets or properties,
+other than mechanic\'s liens  or liens arising by operation of law;   (f)
+sell, assign, or transfer any of their assets, except in the  Ordinary Course
+of Business;   (g) cancel any material debts or claims, except in the
+Ordinary Course  of Business;   (h) merge or consolidate with or into any
+corporation or other entity;   (i) make any election or give any consent
+under the Code or the tax  statutes of any state or other jurisdiction,
+except that on or before the  Closing VCI may make an election under Section
+1501 of the Code to file a  consolidated tax return without the prior written
+consent of HCC, or make  any termination, revocation or cancellation of any
+such election or any  consent or compromise or settle any claim for past or
+present tax due; or   (j) enter into any lease, contract, agreement or
+understanding, other  than those entered into in the ordinary course of
+business calling for  payments by VCI and its Subsidiaries which in the
+aggregate do not exceed  $50,000 for each such lease, contract, agreement or
+understanding or extend  for more than one year from the date hereof.   5.3
+Reports, Taxes. VCI and its Subsidiaries shall duly and timely file
+all reports or returns required to be filed with federal, state, local and
+foreign authorities on or prior to the Closing Date and will promptly pay all
+federal, state, local and foreign taxes, assessments and governmental charges
+levied or assessed upon them or any of their properties (unless contesting
+such in good faith and adequate provision has been made therefor).   5.4
+Non-Solicitation.   (a) VCI shall not, directly or indirectly, through any
+officer,  director, employee, representative or agent, (i) solicit, initiate,
+or  encourage any inquiries or proposals that constitute, or could
+reasonably  be expected to lead to, a proposal or offer for a merger,
+consolidation,  business combination, sale of substantial assets, or sale of
+shares of  capital stock, other than the transactions contemplated by this
+Agreement  (any of the foregoing inquiries or proposals being referred to in
+this  Agreement as an "Acquisition Proposal"), (ii) engage in negotiations
+or  discussions concerning, or provide any non-public information to any
+person  or entity relating to, any Acquisition Proposal, or (iii) agree to,
+enter  into, accept, approve or recommend any Acquisition Proposal.   (b)
+VCI shall notify HCC immediately (and no later than 24 hours) after  receipt
+by VCI (or its advisors), of any Acquisition Proposal or any  request for
+nonpublic information in connection with an Acquisition  Proposal or for
+access to the properties, books or records of VCI by any  person or entity
+that informs VCI that it is considering making an  Acquisition Proposal. Such
+notice to HCC shall be made orally and in  writing and shall indicate in
+reasonable detail the identity of the offeror  and the terms and conditions
+of such proposal, inquiry or contact.     5.5 Option Plans. VCI agrees to
+take all actions necessary to ensure that all outstanding options to acquire
+capital stock of VCI can be assumed by HCC and converted into options to
+purchase HCC common stock pursuant to Section 2.6 of this Agreement. VCI also
+agrees not to take any action that would result in acceleration of vesting of
+any such options beyond any acceleration that is presently required by the
+options.   ARTICLE VI   ADDITIONAL COVENANTS   6.1 Proxy Statement.  
+(a) As promptly as practical after the execution of this Agreement, HCC 
+shall prepare, and VCI shall reasonably cooperate with the preparation of, 
+the Proxy Statement and HCC shall file the Proxy Statement with the SEC.  
+(b) The information supplied by HCC and VCI for inclusion in the Proxy 
+Statement shall not contain any untrue statement of a material fact or omit 
+to state any material fact required to be stated in the Proxy Statement or 
+necessary in order to make the statements in the Proxy Statement, in the 
+light of the circumstances under which they were made, not misleading.   6.2
+Access to Information. Upon reasonable notice, HCC and VCI shall each afford
+to the officers, employees, accountants, counsel and other representatives of
+the other, access, during normal business hours during the period prior to
+the Effective Time, to all information concerning its business, properties
+and personnel as may reasonably be requested. Unless otherwise required by
+law, the parties will hold any such information that is nonpublic in
+confidence. No information or knowledge obtained in any
+investigation pursuant to this Section 6.2 shall affect or be deemed to
+modify any representation or warranty construed in this Agreement or the
+conditions to the obligations of the parties to consummate the Merger.  
+6.3 Stockholders Meetings. HCC shall call a meeting of its stockholders to be
+held as promptly as practicable for the purpose of voting upon this Agreement
+as required by the rules of the Nasdaq Market. Subject to satisfaction of the
+conditions contained in this Agreement, and except as otherwise required
+based upon the exercise of applicable fiduciary duties in reliance upon the
+advice of counsel, HCC will, through its Board of Directors, recommend to its
+stockholders approval of this Agreement and the Merger, and shall use its
+commercially reasonable efforts to hold such meeting as soon as practicable
+after the date hereof.   6.4 Legal Conditions to Merger. Each of HCC and VCI
+shall take all reasonable actions necessary to comply promptly with all legal
+requirements which may be imposed on itself with respect to the Merger (which
+actions shall include, without limitation, furnishing all information
+required under the HSR Act) and in connection with approvals of or filings
+with any other governmental entity and will promptly cooperate with and
+furnish information to each other in connection with any such requirements
+imposed in connection with the Merger.   6.5 Public Disclosure. HCC and VCI
+shall consult with each other before issuing any press release or otherwise
+making any public statement with respect to the Merger or this Agreement and
+shall not issue any such press release or make any such public statement
+prior to such consultation, except as may be required by law.   6.6 Tax-
+Free Reorganization. HCC and VCI shall each use commercially reasonable
+efforts to cause the Merger to be treated as a reorganization within the
+meaning of Section 368(a) of the Code. If HCC or VCI shall at any time before
+the Closing become aware of any event, circumstance or other condition which
+may cause the Merger to fail to qualify as a reorganization within
+the meaning of Section 368(a) of the Code, HCC or VCI, as the case may be,
+shall immediately give notice thereof to the other. After the Closing, each
+of HCC and its Affiliates shall not take any action (or fail to take any
+action) which action or failure to act would cause the Merger to fail to
+qualify as a reorganization within the meaning of Section 368(a) of the Code.
+HCC, VCI    and each of the Holders agree that they will report in their
+respective income Tax Returns that the Merger qualified as a reorganization
+under Section 368(a) of the Code (unless there is no reasonable basis for
+such a reporting position), and will properly file with their federal income
+Tax Returns all information required by Treas. Regs. (S)1.368-3.   6.7
+Pooling Accounting. HCC and VCI shall each use their reasonable best efforts
+to cause the business combination to be effected by the Merger to
+be accounted for as a pooling of interests.   6.8 Nasdaq Quotation. HCC
+shall use its reasonable best efforts to cause the shares of HCC common stock
+to be issued in the Merger to be approved for quotation on the Nasdaq
+National Market, subject to official notice of issuance, prior to the
+Effective Time.   6.9 Consents. Each of HCC and VCI shall use commercially
+reasonable efforts to obtain all necessary consents, waivers and approvals
+under any of their material agreements, contracts, licenses or leases in
+connection with the Merger.   6.10 FIRPTA. VCI shall, prior to the Closing
+Date, provide HCC with a properly executed Foreign Investment and Real
+Property Tax Act of 1980 ("FIRPTA") Notification Letter, which states that
+shares of capital stock of VCI do not constitute "United States real property
+interests" under Section 897(c) of the Code, for purposes of satisfying
+HCC\'s obligations under Treasury Regulation Section 1.1445-2(c)(3). In
+addition, simultaneously with delivery of such Notification Letter, VCI shall
+have provided to HCC, as agent for VCI, a form of notice to the Internal
+Revenue Service in accordance with the requirements of Treasury Regulation
+Section 1.897-2(h)(2), hereto along with written authorization for HCC to
+deliver such notice form to the Internal Revenue Service on behalf of VCI
+upon the Closing of the Merger.   6.11 Securities Laws. HCC shall take such
+steps as may be reasonably necessary to comply with the securities and blue
+sky laws of all jurisdictions that are applicable to the issuance of the HCC
+common stock in connection with the Merger. VCI shall use its commercially
+reasonable efforts to assist HCC as may be necessary to comply with the
+securities and blue sky laws of all jurisdictions that are applicable in
+connection with the issuance of HCC Common Stock in connection with the
+Merger. The HCC common stock will be issued under a Section 4(2) "private
+placement" exemption from the registration requirements of federal securities
+laws.   6.12 Expenses. Whether or not the Merger is consummated, all fees,
+costs and expenses incurred in connection with this Agreement and the
+transactions contemplated hereby and thereby shall be paid by the party
+incurring such fee, cost or expense; provided, however, that any transaction
+fees (including but not limited to legal, accounting, banking, investment
+banking and other advisory fees), costs and expenses (including but not
+limited to all filing fees and other non-fee disbursements and expenses such
+as copy, fax and word processing charges) in excess of $100,000 incurred in
+connection with the consummation of this Agreement on behalf of VCI (other
+than those that are paid directly by VCI stockholders or any of their
+affiliates or are reimbursed to VCI by VCI stockholders or any of their
+affiliates) shall reduce dollar for dollar the Numerator.   6.13
+Commercially Reasonable Efforts and Further Assurances. Each of the parties
+to this Agreement shall use its commercially reasonable efforts to effectuate
+the transactions contemplated hereby and to fulfill and cause to be fulfilled
+the conditions to closing under this Agreement. Each party hereto, at the
+reasonable request of another party hereto, shall execute and deliver
+such other instruments and do and perform such other acts and things as may
+be necessary or desirable for effecting completely the consummation of
+this Agreement and the transactions contemplated hereby.   6.14
+Registration of Shares issued to VCI Shareholders.   (a) Shelf Registration.
+Within thirty (30) days after the expiration of  the 180 day period
+commencing as of the Effective Time (but in no event  prior to December 7,
+2000), HCC shall prepare and     file with the SEC a "Shelf" registration
+statement (such registration  statement including the prospectus, amendments
+and supplements to such  registration statement or prospectus, including pre-
+and post-effective  amendments, all exhibits thereto, and all material
+incorporated by  reference or deemed to be incorporated by reference in such
+registration  statement, a "Registration Statement") covering all of the
+shares of HCC  common stock into which VCI\'s shares of common stock are
+converted as a  result of the Merger (including any shares of HCC capital
+stock issued or  issuable as a dividend on or in exchange for or otherwise
+with respect to  such shares of HCC common stock, the "Merger Shares") for an
+offering to be  made on a continuous basis pursuant to Rule 415. The
+Registration Statement  shall be on Form S-3 (except if HCC is not then
+eligible to register for  resale the Merger Shares on Form S-3, in which case
+such registration shall  be on Form S-1 or another appropriate form in
+accordance herewith as the  Holders, by vote of the Holders of a majority of
+the Merger Shares, may  consent). HCC shall use its reasonable best efforts
+to cause the  Registration Statement to be declared effective under the
+Securities Act as  promptly as possible after the filing thereof, and shall
+use its reasonable  best efforts to keep such Registration Statement
+continuously effective  under the Securities Act until the date which is two
+(2) years after the  date that such Registration Statement is declared
+effective by the SEC or  such earlier date when all Merger Shares covered by
+such Registration  Statement have been sold or may be sold without volume
+restrictions  pursuant to Rule 144(k) as determined by the counsel to HCC
+pursuant to a  written opinion letter to such effect (the "Effectiveness
+Period").  Anything to the contrary contained herein notwithstanding, HCC
+shall not  voluntarily take any action that would result in the Holders not
+being able  to sell the Merger Shares during the Effectiveness Period, unless
+such  action is required under applicable law, as evidenced by an opinion
+of  counsel to HCC or such other evidence as the Holders may deem
+acceptable,  or HCC has, upon written advice of counsel, filed a post-
+effective  amendment to the Registration Statement and the SEC has not
+declared it  effective.   (b) Piggyback Registration Rights. If at any time
+beginning after 180  days after the Effective Time and expiring on the third
+anniversary  thereof, HCC shall determine to register any of its securities
+either for  its own account or the account of a security holder or holders
+exercising  demand registration rights, other than a registration relating
+solely to  employee benefit plans, or a registration relating solely to a
+Rule 145  transaction, or a registration on any registration form which does
+not  permit secondary sales, HCC will:   (i) promptly give to the Holders
+written notice thereof; and   (ii) include in such registration the (A) the
+Merger Shares and (B)  any other shares of HCC common stock held by HCC
+stockholders who have  the right to and elect to sell shares in such offering
+("Registrable  Securities") specified in a written request made by the
+Holders within  ten (10) days after receipt of the written notice from HCC
+described in  clause (i) above, except as set forth in Section 6.14(b)
+below.   Notwithstanding the foregoing, HCC shall not be required to include
+in any  such registration shares a Holder requests be included in the
+registration  if all of such shares could then be sold by such Holder
+pursuant to Rule  144 under the Securities Act or, if such registration will
+not cover an  Underwritten Offering, pursuant to the "Shelf" registration
+statement  provided for in Section 6.14(a) hereof.   If the registration of
+which HCC gives notice is for a registered public  offering involving an
+underwriting, HCC shall so advise the Holders as a  part of the written
+notice given pursuant to this Section 6.14(b). In such  event the right of
+the Holders to registration pursuant to this Section  6.14(b) shall be
+conditioned upon the Holders participation in such  underwriting and the
+inclusion of the Holder\'s Registrable Securities in  the underwriting to the
+extent provided herein. The Holder shall, if it  proposes to distribute its
+securities through such underwriting (together  with HCC and other
+shareholders distributing their securities through such  underwriting) enter
+into an underwriting agreement in customary form with  the representative of
+the underwriter or underwriters selected by HCC.  Notwithstanding any other
+provision of this Section 6.14(b), if the  representative of the underwriters
+advises HCC that marketing factors  require a limitation or elimination on
+the number of shares to be  underwritten, the representative     may
+limit the number of Registrable Securities to be included in the 
+registration and underwriting. HCC shall so advise all holders of  securities
+that are entitled to be included in the registration and  underwriting and
+participation shall be allocated first to HCC for  securities being sold for
+its own account, and the balance, if any, of the  number of shares that may
+be included in the registration statement and  underwriting shall be
+allocated among the Holders and other shareholders in  proportion, as nearly
+as practicable, to the respective amounts of shares  which they had requested
+to be included in such registration at the time of  filing the registration
+statement.   (c) Expenses of Registration. HCC shall pay all Registration
+Expenses  (as hereafter defined) in connection with any registration,
+qualification  or compliance pursuant to this Section 6.14, and each Holder
+shall pay all  Selling Expenses (as hereafter defined) and other expenses
+that are not  Registration Expenses relating to the Registrable Securities
+resold by him  or her. For purposes of this Section 6.14, "Registration
+Expenses" shall  mean all expenses, except as otherwise stated below,
+incurred by HCC in  complying with Sections 6.14(a), 6.14(b) and 6.14(d),
+including, without  limitation, all registration, qualification and filing
+fees, printing  expenses, escrow fees, fees and disbursements of counsel for
+HCC, blue sky  fees and expenses and the expense of any special audits
+incident to or  required by any such registration and the reasonable fees and
+expenses of  one counsel for all of the selling Holders up to a maximum of
+$25,000. For  purposes of this Section 6.14(c), "Selling Expenses" shall mean
+all selling  discounts, commissions and stock transfer or other Taxes
+applicable to the  Registrable Securities and all fees and disbursements of
+counsel for any  Holder.   (d) Registration Procedures. In the case of any
+registration effected by  HCC pursuant to this Section 6.14, HCC will keep
+each Holder advised in  writing as to the initiation of each registration and
+as to the completion  thereof. HCC will:   (i) Not less than ten (10) days
+prior to the filing of a  Registration Statement or any related prospectus or
+any amendment or  supplement thereto (including any document that would be
+incorporated  or deemed to be incorporated therein by reference), (A) furnish
+to the  Holders and their designated counsel, and any managing
+underwriters,  copies of all such documents proposed to be filed, which
+documents  (other than those incorporated or deemed to be incorporated by 
+reference) will be subject to the review of such Holders, their counsel  and
+such managing underwriters, and (B) cause its officers and  directors,
+counsel and independent certified public accountants to  respond to such
+inquiries as shall be necessary, in the reasonable  opinion of respective
+counsel to such Holders and such underwriters, to  conduct a reasonable
+investigation within the meaning of the Securities  Act.   (ii) (A) Prepare
+and file with the SEC such amendments, including  post-effective amendments,
+to the Registration Statement and the  prospectus used in connection
+therewith as may be necessary to keep the  Registration Statement
+continuously effective for the Effectiveness  Period; (B) cause the related
+prospectus to be amended or supplemented  by any required prospectus
+supplement, and as so supplemented or  amended to be filed pursuant to Rule
+424 (or any similar provisions  then in force); (C) respond as promptly as
+reasonably possible to any  comments received from the SEC with respect to
+the Registration  Statement or any amendment thereto and as promptly as
+reasonably  possible provide the Holders true and complete copies of all 
+correspondence from and to the SEC relating to the Registration  Statement;
+and (D) comply in all material respects with the provisions  of the
+Securities Act and the Exchange Act with respect to the  disposition of all
+Merger Shares covered by the Registration Statement  during the Effectiveness
+Period.   (iii) File such supplements or attach "stickers" to the
+Registration  Statement or prospectus as and when required by the SEC to
+evidence a  material amount of resales by a Holder pursuant to a
+prospectus.   (iv) Notify the Holders of Merger Shares to be sold, their 
+designated counsel and any managing underwriters as promptly as  reasonably
+possible (and, in the case of (A)(1) below, not less than  five (5) days (or,
+in the case of a supplement or "sticker" required to  be filed or attached,
+within     two (2) days) prior to such filing) and (if requested by any
+such  person) confirm such notice in writing no later than two (2) days 
+following the day (A)(1) when a prospectus or any prospectus supplement  or
+post-effective amendment to the Registration Statement is proposed  to be
+filed; (2) when the SEC notifies HCC whether there will be a  "review" of
+such Registration Statement and whenever the SEC comments  in writing on such
+Registration Statement (HCC shall provide true and  complete copies thereof
+and all written responses thereto to each of  the Holders and to their
+designated counsel); and (3) with respect to  the Registration Statement or
+any post-effective amendment, when the  same has become effective; (B) of any
+request by the SEC or any other  Governmental Entity for amendments or
+supplements to the Registration  Statement or prospectus or for additional
+information; (C) of the  issuance by the SEC of any stop order suspending the
+effectiveness of  the Registration Statement covering any or all of the
+Merger Shares or  the initiation of any proceedings for that purpose; and (D)
+in the case  of Underwritten Offerings, if at any time any of the
+representations  and warranties of HCC contained in any agreement (including
+any  underwriting agreement) contemplated hereby ceases to be true and 
+correct in all material respects; (E) of the receipt by HCC of any 
+notification with respect to the suspension of the qualification or 
+exemption from qualification of any of the Merger Shares for sale in  any
+jurisdiction, or the initiation or threatening of any proceeding  for such
+purpose; and (F) of the occurrence of any event or passage of  time that
+makes the financial statements included in the Registration  Statement
+ineligible for inclusion therein or any statement made in the  Registration
+Statement or prospectus or any document incorporated or  deemed to be
+incorporated therein by reference untrue in any material  respect or that
+requires any revisions to the Registration Statement,  prospectus or other
+documents so that, in the case of the Registration  Statement or the
+prospectus, as the case may be, it will not contain  any untrue statement of
+a material fact or omit to state any material  fact required to be stated
+therein or necessary to make the statements  therein, in light of the
+circumstances under which they were made, not  misleading.   (v) Use its
+reasonable best efforts to avoid the issuance of, or, if  issued, obtain the
+withdrawal of (A) any order suspending the  effectiveness of the Registration
+Statement, or (B) any suspension of  the qualification (or exemption from
+qualification) of any of the  Merger Shares for sale in any jurisdiction, at
+the earliest practicable  moment.   (vi) If requested by any managing
+underwriter or the Holders of a  majority of the Merger Shares to be sold in
+connection with an  Underwritten Offering, (A) promptly incorporate in a
+prospectus  supplement or post-effective amendment to the Registration
+Statement  such information as such managing underwriters and such Holders 
+reasonably agree should be included therein, and (B) make all required 
+filings of such prospectus supplement or such post-effective amendment  as
+soon as practicable after HCC has received notification of the  matters to be
+incorporated in such prospectus supplement or post-  effective amendment;
+provided, however, that HCC shall not be required  to take any action
+pursuant to this subsection (vi) that would, in the  opinion of counsel for
+HCC, violate applicable law or be materially  detrimental to the business
+prospects of HCC.   (vii) Furnish to each Holder, their designated counsel
+and any  managing underwriters, without charge, at least one (1) conformed
+copy  of each Registration Statement and each amendment thereto, including 
+financial statements and schedules, all documents incorporated or  deemed to
+be incorporated therein by reference, and all exhibits to the  extent
+requested by such person (including those previously furnished  or
+incorporated by reference) promptly after the filing of such  documents with
+the SEC.   (viii) Promptly deliver to each Holder, their designated
+counsel,  and any underwriters, without charge, as many copies of the
+prospectus  or prospectuses (including each form of prospectus) and each
+amendment  or supplement thereto as such persons may reasonably request; and
+HCC  hereby consents to the use of such prospectus and each amendment or 
+supplement thereto by each of the selling Holders and any underwriters  in
+connection with the offering and sale of the Merger Shares covered  by such
+prospectus and any amendment or supplement thereto.     (ix) Prior to any
+public offering of Merger Shares, use its  commercially reasonable efforts to
+register or qualify or cooperate  with the selling Holders, any underwriters
+and their designated counsel  in connection with the registration or
+qualification (or exemption from  such registration or qualification) of such
+Merger Shares for offer and  sale under the securities or Blue Sky laws of
+such jurisdictions within  the United States as any Holder or underwriter
+requests in writing, to  keep each such registration or qualification (or
+exemption therefrom)  effective during the Effectiveness Period and to do any
+and all other  acts or things necessary or advisable to enable the
+disposition in such  jurisdictions of the Merger Shares covered by a
+Registration Statement;  provided, however, that HCC shall not be required to
+qualify generally  to do business in any jurisdiction where it is not then so
+qualified or  to take any action that would subject it to general service of
+process  in any such jurisdiction where it is not then so subject or subject
+HCC  to any material tax in any such jurisdiction where it is not then so 
+subject.   (x) Cooperate with the Holders and any managing underwriters to 
+facilitate the timely preparation and delivery of certificates  representing
+Merger Shares to be delivered to a transferee pursuant to  a Registration
+Statement, which certificates shall be free of all  restrictive legends, and
+to enable such Merger Shares to be in such  denominations and registered in
+such names as any such managing  underwriters or Holders may request.  
+(xi) Upon the occurrence of any event contemplated by Section  (iv)(F)
+hereof, as promptly as reasonably possible, prepare a  supplement or
+amendment, including a post-effective amendment, to the  Registration
+Statement or a supplement to the related prospectus or any  document
+incorporated or deemed to be incorporated therein by  reference, and file any
+other required document so that, as thereafter  delivered, neither the
+Registration Statement nor such prospectus will  contain an untrue statement
+of a material fact or omit to state a  material fact required to be stated
+therein or necessary to make the  statements therein, in light of the
+circumstances under which they were  made, not misleading.   (xii) Use its
+reasonable best efforts to cause all Merger Shares  relating to such
+Registration Statement to be listed on each securities  exchange or quotation
+system on which similar securities issued by HCC  are then listed or quoted,
+and in connection therewith to file with the  Nasdaq National Market (or such
+other exchange or quotation system as  is then the principal trading market
+for HCC\'s common stock) an  application for listing of additional shares
+with respect to the Merger  Shares.   (xiii) Provide a transfer agent and
+registrar for all Merger Shares  registered pursuant to the Registration
+Statement and a CUSIP number  for all such Merger Shares, in each case not
+later than the effective  date of the Registration Statement.   (xiv) Enter
+into such agreements (including an underwriting  agreement in form, scope and
+substance as is customary in Underwritten  Offerings) and take all such other
+reasonable actions in connection  therewith (including those reasonably
+requested by any managing  underwriters and the Holders of a majority of the
+Merger Shares being  sold) in order to expedite or facilitate the disposition
+of such Merger  Shares, and whether or not an underwriting agreement is
+entered into,  (A) make such representations and warranties to such Holders
+and such  underwriters as are customarily made by issuers to underwriters
+in  underwritten public offerings (subject to the scheduling of appropriate 
+exceptions to insure such representations and warranties are accurate),  and
+confirm the same if and when requested; (B) in the case of an  Underwritten
+Offering obtain and deliver copies thereof to each Holder  and the managing
+underwriters, if any, of opinions of counsel to HCC  and updates thereof
+addressed to each Holder and each such underwriter,  in form, scope and
+substance reasonably satisfactory to any such  managing underwriters and the
+designated counsel of the selling Holders  covering the matters customarily
+covered in opinions requested in  Underwritten Offerings and such other
+matters as may be reasonably  requested by such designated counsel and
+underwriters; (C) use its  reasonable best efforts immediately prior to the
+effectiveness of the  Registration Statement, and, in the case of an
+Underwritten Offering,  at the time of delivery of any Merger Shares sold
+pursuant thereto,  deliver copies to the Holders and the managing
+underwriters, if     any, of "cold comfort" letters and updates thereof
+obtained from the  independent certified public accountants of HCC (and, if
+necessary, any  other independent certified public accountants of any
+subsidiary of HCC  or of any business acquired by HCC for which financial
+statements and  financial data is, or is required to be, included in the
+Registration  Statement); (D) if an underwriting agreement is entered into,
+the same  shall contain customary indemnification provisions and procedures 
+acceptable to the managing underwriters, if any, and holders of a  majority
+of Merger Shares participating in such Underwritten Offering);  and (E)
+deliver such documents and certificates as may be reasonably  requested by
+the Holders of a majority of the Merger Shares being sold,  their designated
+counsel and any managing underwriters to evidence the  continued validity of
+the representations and warranties made pursuant  to clause (A) above and to
+evidence compliance with any customary  conditions contained in the
+underwriting agreement or other agreement  entered into by HCC.   (xv) Make
+available for inspection by the selling Holders, any  representative of such
+Holders, any underwriter participating in any  disposition of Merger Shares,
+and any attorney or accountant retained  by such selling Holders or
+underwriters, at the offices where normally  kept, during reasonable business
+hours, all financial and other  records, pertinent corporate documents and
+properties of HCC and its  subsidiaries, and cause the officers, directors,
+agents and employees  of HCC and its subsidiaries to supply all information
+in each case  reasonably requested by any such Holder, representative,
+underwriter,  attorney or accountant in connection with the Registration
+Statement;  provided, however, that any information that is determined in
+good  faith by HCC in writing to be of a confidential nature at the time of 
+delivery of such information shall be kept confidential by such  Persons,
+unless (W) disclosure of such information is required by court  or
+administrative order or is necessary to respond to inquiries of  regulatory
+authorities; (X) disclosure of such information, in the  opinion of counsel
+to such person, is required by law; (Y) such  information becomes generally
+available to the public other than as a  result of a disclosure or failure to
+safeguard by such person; or (Z)  such information becomes available to such
+person from a source other  than HCC and such source is not known by such
+person to be bound by a  confidentiality agreement with HCC.   (xvi) Comply
+with all applicable rules and regulations of the SEC.   (e) Information by
+Holder. Each Holder of Registrable Securities shall  furnish to HCC such
+information regarding such Holder and the distribution  proposed by such
+Holder as HCC may reasonably request in connection with  any registration,
+qualification or compliance referred to in this Section  6.14, but only to
+the extent that such information is required in order for  HCC to comply with
+its obligations under all applicable securities and  other laws and to ensure
+that the Registration Statement relating to such  Registrable Securities
+conforms to the applicable requirements of the  Securities Act and the rules
+and regulations thereunder. Each Holder  covenants that it will promptly
+notify HCC of any changes in the  information set forth in the Registration
+Statement or otherwise provided  by such Holder to HCC regarding such Holder
+or such Holder\'s plan of  distribution as a result of which the Registration
+Statement or any  prospectus relating to the Registrable Securities contains
+or would contain  an untrue statement of a material fact regarding such
+Holder or its  intended method of distribution of such Registrable Securities
+or omits to  state any material fact regarding such Holder or its intended
+method of  distribution of such Registrable Securities required to be stated
+therein  or necessary to make the statements therein, not misleading.   (f)
+Indemnification and Contribution.   (i) HCC agrees to indemnify and hold
+harmless each Holder from and  against any losses, claims, damages or
+liabilities (or actions or  proceedings in respect thereof) to which such
+Holder may become subject  (under the Securities Act or otherwise) insofar as
+such losses, claims,  damages or liabilities (or actions or proceedings in
+respect thereof)  arise out of, or are based upon, any untrue statement,
+alleged untrue  statement, omission or alleged omission of a material fact in
+the     Registration Statement, any prospectus included in the
+Registration  Statement, or any amendment or supplement to the Registration
+Statement  or any such prospectus, or any violation or alleged violation by
+HCC of  the Securities Act, the Exchange Act, any state law, rule or
+regulation  promulgated thereunder, and HCC will, as incurred, reimburse
+such  Holder for any legal or other expenses reasonably incurred in 
+investigating, defending or preparing to defend any such action,  proceeding
+or claim; provided, however, that the indemnity contained in  this Section
+6.14(f)(1) shall not apply to amounts paid in settlement  of any such loss,
+claim, damage, liability, or action if such  settlement is effected without
+the consent of HCC (which consent shall  not be unreasonably withheld), nor
+shall HCC be liable in any such case  to the extent that such loss, claim,
+damage or liability arises out of,  or is based upon (A) an untrue statement
+or alleged untrue statement  made in such Registration Statement in reliance
+upon and in conformity  with written information furnished to HCC by such
+Holder specifically  furnished for use in preparation of the Registration
+Statement, (B) the  failure of such Holder to comply with any of the
+covenants and  agreements contained in this Section 6.14, or (C) any untrue
+statement  in any prospectus that is corrected in any subsequent prospectus
+that  was delivered to the Holder prior to the pertinent sale or sales by
+the  Holder.   (ii) Each Holder, severally and not jointly, agrees to
+indemnify and  hold harmless HCC from and against any losses, claims, damages
+or  liabilities (or actions or proceedings in respect thereof) to which HCC 
+may become subject (under the Securities Act or otherwise) insofar as  such
+losses, claims, damages or liabilities (or actions or proceedings  in respect
+thereof) arise out of, or are based upon (A) an untrue  statement, alleged
+untrue statement, omission or alleged omission of a  material fact in the
+Registration Statement, any prospectus included in  the Registration
+Statement, or any amendment or supplement to the  Registration Statement or
+any such prospectus in reliance upon and in  conformity with written
+information furnished to HCC by such Holder in  an instrument executed by
+such Holder and specifically stated to be for  use in preparation of the
+Registration Statement, or any violation or  alleged violation by Holder of
+the Securities Act, the Exchange Act,  any state law, rule or regulation
+promulgated thereunder, provided,  however, the indemnity contained in this
+Section 6.14(f)(ii) shall not  apply to amounts paid in settlement of any
+such loss, claim, damage,  liability, or action if such settlement is
+effected without the consent  of Holder (which consent shall not be
+unreasonably withheld), and  provided that no Holder shall be liable in any
+such case for any untrue  statement included in any Prospectus which
+statement has been corrected  in a writing delivered to HCC at least two
+business days before the  sale from which such loss arose, (B) the failure of
+such Holder to  comply with any of the covenants and agreements contained in
+Section  6.14, or (C) any untrue statement in any Prospectus that is
+corrected  in any subsequent Prospectus that was delivered to the Holder
+prior to  the pertinent sale or sales by the Holder; and each Holder,
+severally  and not jointly, will, as incurred, reimburse HCC for any legal
+or  other expenses reasonably incurred in investigating, defending or 
+preparing to defend any such action, proceeding or claim. In no event  shall
+the amount payable by any Holder to HCC pursuant to this Section  6.14(f) by
+reason of a sale of HCC Common Stock by such Holder exceed  the amount of the
+net proceeds to such Holder from the sale of HCC  Common Stock from which
+such liability arose.   (iii) Promptly after receipt by any indemnified
+person under  subsections (i) or (ii) above of a notice of a claim or the
+beginning  of any action in respect of which indemnity is to be sought
+against an  indemnifying person pursuant to this Section 6.14(f), such
+indemnified  person shall notify the indemnifying person in writing of such
+claim or  of the commencement of such action (provided, however, that no
+failure  to provide such notice shall relieve any indemnifying person of
+any  liability hereunder except to the extent that such indemnifying person 
+is prejudiced thereby), and, subject to the provisions hereinafter  stated,
+in case any such action shall be brought against an indemnified  person and
+the indemnifying person shall have been notified thereof,  the indemnifying
+person shall be entitled to participate therein, and,  to the extent that it
+shall wish, to assume the defense thereof, with  counsel reasonably
+satisfactory to the indemnified person. After notice  from the indemnifying
+person to such indemnified person of the  indemnifying person\'s election to
+assume the defense thereof, the  indemnifying person shall not be liable to
+such indemnified person for  any legal expenses     subsequently incurred
+by such indemnified person in connection with the  defense thereof; provided,
+however, that, if the indemnifying person  shall propose that the same
+counsel represent it and the indemnified  person, and if counsel for the
+indemnified person shall reasonably have  concluded that there is an actual
+conflict of interest posed by the  representation proposed by the
+indemnifying person, the indemnified  person shall be entitled to retain its
+own counsel reasonably  satisfactory to the indemnifying person at the
+expense of such  indemnifying person; provided, however that if more than
+one  indemnified person makes a claim against an indemnifying person based 
+on substantially similar facts, the indemnifying person shall not be 
+responsible for the fees of more than one counsel for all indemnified 
+persons whose claims are based on substantially similar facts.   (iv) if the
+indemnification provided for in this Section 6.14(f) is  unavailable to or
+insufficient to hold harmless an indemnified party  under subsection (i) or
+(ii) above in respect of any losses, claims,  damages or liabilities (or
+actions or proceedings in respect thereof)  referred to therein, then each
+indemnifying party shall contribute to  the amount paid or payable by such
+indemnified party as a result of  such losses, claims, damages or liabilities
+(or actions in respect  thereof), in such proportion as is appropriate to
+reflect the relative  fault of each such party, as well as any other relevant
+equitable  considerations, provided, however, that any contribution by a
+Holder  shall not exceed the net proceeds to such Holder for the sale of
+HCC  Common Stock from which such liability arose, except in the case of 
+willful fraud by such Holder. The relative fault shall be determined by 
+reference to, among other things, whether the untrue or alleged untrue 
+statement of a material fact or the omission or alleged omission to  state a
+material fact relates to information supplied by HCC on the one  hand or a
+Holder on the other and the parties\' relative intent,  knowledge, access to
+information and opportunity to correct or prevent  such statement or
+omission. HCC and the Holders agree that it would not  be just and equitable
+if contribution pursuant to this Section 6.14(f)  were determined by any
+method of allocation which does not take account  of the equitable
+considerations referred to above in this Section  6.14(f)(iv). The amount
+paid or payable by an indemnified party as a  result of the losses, claims,
+damages, or liabilities (or actions in  respect thereof) referred to above in
+this Section 6.14(f)(iv) shall be  deemed to include any legal or other
+expenses reasonably incurred by  such indemnified party in connection with
+investigating or defending  any such action, proceeding or claim. No person
+guilty of fraudulent  misrepresentation (within the meaning of Section 11(f)
+of the  Securities Act) shall be entitled to contribution from any person
+who  was not guilty of such fraudulent misrepresentation.   (v) The
+obligations of the HCC and the Holders under this Section  6.14(f) shall be
+in addition to any liability which HCC and the  respective Holders may
+otherwise have and shall extend, upon the same  terms and conditions, to each
+director and officer of HCC or any  Holder, and to each person, if any, who
+controls HCC or any Holder  within the meaning of the Securities Act or the
+Exchange Act.   (g) Restrictive Legend. Each certificate representing Merger
+Shares  shall bear substantially the following legend (in addition to any
+legends  required under applicable securities laws):   THE SHARES
+REPRESENTED BY THIS CERTIFICATE HAVE BEEN ACQUIRED FOR  INVESTMENT PURPOSES
+ONLY AND HAVE NOT BEEN REGISTERED UNDER THE  SECURITIES ACT OF 1933. THE
+SHARES MAY NOT BE SOLD OR TRANSFERRED IN  THE ABSENCE OF SUCH REGISTRATION OR
+AN EXEMPTION THEREFROM.   And with respect to Affiliates of VCI, shall bear
+the following additional  legend:   THE SHARES REPRESENTED BY THIS
+CERTIFICATE HAVE BEEN ISSUED IN A  TRANSACTION TO WHICH RULE 145 PROMULGATED
+UNDER THE SECURITIES ACT  APPLIES, AND MAY ONLY BE TRANSFERRED (1) IN
+CONFORMITY WITH RULE  145, (2) PURSUANT TO AN EFFECTIVE REGISTRATION
+STATEMENT, OR (3) IN  ACCORDANCE WITH A WRITTEN OPINION OF COUNSEL,
+REASONABLY ACCEPTABLE  TO THE ISSUER, IN FORM AND SUBSTANCE TO THE EFFECT
+THAT     SUCH TRANSFER IS EXEMPT FROM REGISTRATION UNDER THE SECURITIES
+ACT  OF 1933.   The legends contained in this Section 6.14(g) shall be
+removed from a  certificate in connection with any sale in compliance with
+the terms of  this Agreement and pursuant to the Resale Registration
+Statement or a  registration statement covered by Section 6.14(b), or
+pursuant to Rule 144  (if accompanied by any legal opinion reasonably
+required by the HCC), but  shall not be removed in any other circumstance
+without HCC\'s prior written  consent (which consent shall not be
+unreasonably withheld or delayed and  shall be granted if such legend is no
+longer appropriate).   (h) Rule 144 Reporting. With a view to making
+available the benefits of  certain rules and regulations of the SEC which may
+at any time permit the  sale of the Registrable Securities to the public
+without registration, HCC  agrees to use its reasonable best efforts to:  
+(i) Make and keep public information available, as those terms are 
+understood and defined in Rule 144 under the Securities Act, at all  times
+after the Merger;   (ii) File with the SEC in a timely manner all reports
+and other  documents required of HCC under the Securities Act and the
+Exchange  Act; and   (iii) So long as a Holder owns any Registrable
+Securities, to  furnish to that Holder forthwith upon request a written
+statement by  HCC as to its compliance with the reporting requirements of
+said  Rule 144, and of the Securities Act and the Exchange Act, a copy of
+the  most recent annual or quarterly report of HCC, and such other reports 
+and documents of HCC as such Holder may reasonably request in availing 
+itself of any rule or regulation of the SEC allowing such Holder to  sell any
+such Registrable Securities without registration.   6.15 Tax Matters.  
+(a) HCC shall cause to be prepared and filed any required Tax Returns  due to
+be filed by VCI or any of its Subsidiaries after the Closing Date.  The
+Stockholder Representative shall be responsible for preparation and  filing
+of Tax Returns of Vitamins.com, LLC for its final taxable year ended  August
+15, 1999. HCC shall timely pay or cause to be paid all Taxes shown  to be due
+on such Tax Returns, without prejudice to any right to indemnity  which the
+HCC Parties may have pursuant to Section 9.2 of this Agreement  with respect
+to such Taxes.   (b) For each Tax Return that HCC shall prepare (or cause to
+be prepared)  with respect to VCI or any Subsidiary for any taxable period
+which includes  any period ending on or prior to the Closing Date, HCC shall,
+not less than  30 days prior to the date on which each such Tax Return is
+required to be  filed, provide a copy of such Tax Return to the Stockholder
+Representative  for comment and review. The Stockholder Representative shall
+have the right  to direct HCC to adopt any filing position in such Tax Return
+if (i) such  position is supported by a "more likely than not" opinion of
+reputable tax  counsel and (ii) the reporting position initially proposed by
+HCC on such  Tax Return would result in Holders\' liability for
+indemnification pursuant  to Section 9.2 hereof. HCC shall cause all such Tax
+Returns to be prepared  in a manner consistent with the methodology of VCI
+and its Subsidiaries  used in prior taxable years, except as otherwise
+required by applicable law  or regulations.   (c) HCC shall not file, nor
+cause to be filed, on behalf of VCI or any  Subsidiary any amended Tax Return
+with respect to a taxable period (or  portion of a period) ending on or prior
+to the Closing Date without the  prior written consent of the Stockholder
+Representative (which consent  shall not be unreasonably withheld or
+delayed), unless (i) HCC agrees to  release the Holders from liability for
+indemnification pursuant to Section  9.2 hereof, if any, which results from
+such amended Tax Return, or  (ii) such amendment is compelled by the relevant
+taxing authority.   (d) HCC and VCI and the Stockholder Representative agree
+to cooperate  with one another in the preparation of any Tax Return pursuant
+to this  Section 6.15 and amendment of any Tax Return for periods    
+referred to in Section 6.15(c) hereof, and to negotiate in good faith 
+regarding the Tax reporting positions to be taken on such Tax Returns. Any 
+costs of preparing an amended Tax Return at the request of the Stockholder 
+Representative shall be subject to reimbursement or indemnification out of 
+the Escrow Fund. VCI shall be entitled to direct an election to file 
+consolidated, combined or unitary returns with its Subsidiaries for the 
+taxable period ending on or before the Closing Date by notice to HCC on or 
+before the Closing Date, unless HCC agrees to release the Holders from 
+liability for indemnification pursuant to Section 9.2 hereof for any 
+increase in tax liability attributable to the failure to file on a 
+consolidated basis as requested by VCI.   6.16 Interim Operations of VCI.
+HCC agrees that during the period commencing on the date of this Agreement
+and ending on the Closing Date it shall advance to or on behalf of VCI such
+amounts in cash, up to a maximum of $3,000,000, as may be reasonably
+requested by VCI from time to time in writing to allow VCI to operate in the
+Ordinary Course of Business. Each amount advanced by HCC to VCI shall be
+represented by a promissory note providing for interest at the rate of the
+Wells Fargo Bank prime rate plus 3% per annum and payment on the earlier
+of (i) one year after the date thereof, or (ii) the closing by VCI of
+any financing that raises $10,000,000 or more.   6.17 Issuance of
+Additional Shares by HCC. Commencing on the date of this Agreement and
+continuing through Closing, if HCC shall issue or sell any shares of its
+capital stock which, in the aggregate, exceeds two percent (2%) of the total
+issued and outstanding shares of HCC capital stock, as determined on the date
+of this Agreement, HCC shall use commercially reasonable efforts to
+obtain Voting Agreements with respect to such excess shares issued.   6.18
+Payment of Dividends by HCC. Between the date of this Agreement and
+the Closing Date, HCC agrees not to, without the consent of VCI (such consent
+not to be unreasonably withheld), declare or pay any dividend or otherwise
+make a distribution with respect to its capital stock, other than a stock
+dividend of shares of HCC common stock, or to repurchase or offer to
+repurchase any shares of HCC capital stock (other than repurchases of HCC
+capital stock pursuant to written agreements with its employees which were in
+existence on the date of this Agreement).   ARTICLE VII   CONDITIONS TO
+THE MERGER   7.1 Conditions to Obligations of Each Party to Effect the
+Merger. The respective obligations of each party to this Agreement to
+consummate and effect this Agreement and the transactions contemplated hereby
+shall be subject to the satisfaction at or prior to the Effective Time of
+each of the following conditions, any of which may be waived, in writing, by
+agreement of all the parties hereto:   (a) No Injunctions or Restraints;
+Illegality. No temporary restraining  order, preliminary or permanent
+injunction or other order or prohibition  issued by any Governmental Entity
+shall be in effect, nor shall any action  or proceeding seeking any of the
+foregoing be pending, that would prevent  the consummation of the Merger or
+restrict the operation of the business of  VCI.   (b) Governmental
+Approval. HCC, VCI and Acquisition Corporation and  their respective
+subsidiaries shall have timely obtained from each  Governmental Entity all
+approvals, waivers and consents necessary for  consummation of or in
+connection with the Merger and the several  transactions contemplated hereby,
+including such approvals, waivers and  consents as may be required under the
+Securities Act under state blue sky  laws and DCL.   (c) HSR Act
+Compliance. All waiting, review and investigation periods  (and any
+extensions thereof) applicable to the consummation of the Merger  under the
+HSR Act shall have expired or been terminated.     7.2 Additional
+Conditions to Obligations of HCC and Acquisition Corp. The obligations of HCC
+and Acquisition Corp. to consummate the Merger are subject to the
+fulfillment, at or before the Closing of all the following conditions, any
+one or more of which may be waived by HCC.   (a) Representations and
+Warranties. The representations and warranties  of VCI contained in this
+Agreement shall be true in all material respects  (except for such
+representations and warranties as are qualified by their  terms by a
+reference to materiality, which representations and warranties  as so
+qualified shall be true in all respects) as of the Closing as though  such
+representations were made on and as of such time; provided, however,  that if
+as of the Closing Date the sum of (1) reasonably anticipated Losses  arising
+out of the failure of the representations and warranties to be true  and
+correct in all material respects as of the date of this Agreement and  (2)
+reasonably anticipated Losses arising out of the failure of the 
+representations and warranties that were true and correct in all material 
+respects as of the date of this Agreement to be true and correct as of the 
+Closing Date is no more than 10% of the Numerator, then in such event HCC 
+shall not have the right to terminate this Agreement based upon the non- 
+satisfaction of this condition but rather shall have recourse for such 
+Losses against the Escrow Fund in accordance with the terms and procedures 
+of the Escrow Agreement.   (b) Covenants Performed. All of the obligations
+of VCI to be performed  at or before the Closing pursuant to the terms of
+this Agreement shall have  been duly performed in all material respects.  
+(c) Certificate. At the Closing, HCC shall have received a certificate 
+signed by the Chief Executive Officer of VCI to the effect that the 
+conditions set forth in Sections 7.2(a) and 7.2(b) have been satisfied.  
+(d) Stockholder Approval. The stockholders of HCC shall have duly  approved
+this Agreement and the Merger Agreement in accordance with the  rules of the
+Nasdaq National Market.   (e) Dissenting VCI Shares. The aggregate number of
+Dissenting VCI Shares  shall not exceed 2 percent of the aggregate of the
+outstanding shares of  capital stock of VCI.   (f) Opinion of Counsel to
+VCI. Counsel to VCI, shall have issued an  opinion in favor of HCC in the
+form of Exhibit J hereto.   (g) Resignations. VCI shall have delivered to
+HCC signed resignations  from the Board of Directors of VCI and its
+Subsidiaries.   (h) Merger Agreement. The Merger Agreement shall have been
+filed with  the Secretary of State of the State of Delaware and shall have
+become  effective.   7.3 Additional Conditions to Obligations of VCI. The
+obligations of VCI to consummate the Merger are subject to the fulfillment,
+at or before the Closing, of all of the following conditions, any one or more
+of which may be waived by VCI:   (a) Representations and Warranties True at
+Closing. The representations  and warranties of HCC and Acquisition Corp.
+contained in this Agreement  shall be true in all material respects except
+for such representations and  warranties as are qualified by their terms by a
+reference to materiality,  which representations and warranties as so
+qualified shall be true in all  respects as of the Closing, as though such
+representations were made on and  as of such time.   (b) Covenants
+Performed. All of the obligations of HCC and Acquisition  Corp. to be
+performed at or before the Closing pursuant to the terms of  this Agreement
+shall have been duly performed in all material respects.   (c) Certificate.
+At the Closing, VCI shall have received a certificate  signed by the Chief
+Executive Officer of each of HCC and Acquisition Corp.  to the effect that
+the conditions set forth in Sections 7.3(a) and 7.3(b)  have been
+satisfied.   (d) Stockholder Approval. The stockholders of Acquisition Corp.
+and HCC  shall have duly approved this Agreement and the Merger
+Agreement.     (e) Opinion of Counsel to HCC. Counsel to HCC, shall have
+issued an  opinion in favor of VCI in the form of Exhibit K.   (f) Nasdaq
+Notification. HCC shall have notified Nasdaq of the proposed  issuance of HCC
+common stock pursuant to the Merger and upon exercise of  the stock options
+of VCI assumed by HCC pursuant to the Merger and such  stock shall have been
+approved for quotation on the Nasdaq National Market.   (g) Merger
+Agreement. The Merger Agreement shall have been filed with  the Secretary of
+State of the State of Delaware and shall have become  effective.   ARTICLE
+VIII   TERMINATION   8.1 Termination. At any time prior to the Effective
+Time, whether before or after approval of the matters presented in connection
+with the Merger by the shareholders of HCC or VCI, this Agreement be
+terminated:   (a) by mutual consent of HCC and VCI;   (b) by VCI, by
+giving written notice to HCC that HCC is in material  breach of any
+representation, warranty, or covenant of HCC contained in  this Agreement,
+which breach shall not have been cured, if subject to cure,  within 15
+calendar days following receipt by HCC of written notice of such  breach;  
+(c) by HCC, by giving written notice to the Stockholder Representative  that
+VCI is in material breach of any representation or warranty (unless,  the
+Stockholder Representative has exercised its option pursuant to Section 
+7.2(a) hereof to increase the Escrow Fund) or covenant contained in this 
+Agreement, which breach shall not have been cured, if subject to cure, 
+within 15 calendar days following receipt by the Stockholder Representative 
+of written notice of such breach.   (d) by HCC, by giving written notice to
+VCI, if the Closing shall not  have occurred on or before September 30, 2000,
+or such later date as is  agreed to by the Boards of Directors of both VCI
+and HCC, by reason of the  failure of any condition precedent under Section
+7.1 or 7.2 (unless the  failure results primarily from a breach by HCC of any
+representation,  warranty, or covenant of HCC contained in this Agreement or
+HCC\'s failure  to fulfill a condition precedent to closing or other
+default); or   (e) by VCI, by giving written notice to HCC, of the Closing
+shall not  have occurred on or before September 30, 2000, or such later date
+as is  agreed to by the Boards of Directors of both VCI and HCC, by reason of
+the  failure of any condition precedent under Section 7.1 or 7.3 (unless
+the  failure results primarily from a breach by VCI of any representation, 
+warranty, or covenant of VCI contained in this Agreement or VCI\'s failure 
+to fulfill a condition precedent to closing or other default).   8.2 Effect
+of Termination. In the event of termination of this Agreement as provided in
+Section 8.1, this Agreement shall forthwith become void and there shall be no
+liability or obligation on the part of HCC or VCI or their respective
+officers, directors, shareholders or affiliates, except to the extent that
+such termination results from the material breach by a party hereto of any of
+its representations, warranties or covenants set fort in this Agreement;
+provided that, the provisions of Section 6.2 relating to confidentiality this
+Section 8.2, Section 8.3 and Section 9.2 shall remain in full force and
+effect and survive any termination of this Agreement.   8.3 HCC Obligation
+to Purchase VCI Shares. In the event that Closing does not occur for any
+reason whatsoever, other than as the direct result of VCI\'s breach of any of
+its representations, warranties and covenants hereunder, HCC shall upon
+written demand promptly given by VCI purchase from VCI for $1.00 per share
+the number of shares of VCI\'s Series C Preferred Stock determined
+by subtracting from $6,000,000 the amount owed to HCC as a result of loans
+made pursuant to Section 6.16 hereof and dividing the result thereof by
+$1.00. Closing on such purchase shall occur at VCI\'s principal office within
+15 calendar days after any such    demand. At the closing of such
+purchase, HCC shall tender by wire transfer to VCI\'s designated account the
+purchase price so determined, and VCI shall tender to HCC a stock certificate
+representing the shares purchased. The dollar and share amounts provided for
+herein shall be appropriately adjusted in the event of any stock dividend,
+stock split or other similar change in the capitalization of VCI.   ARTICLE
+IX   SURVIVAL OF REPRESENTATIONS AND WARRANTIES; INDEMNIFICATION   9.1
+Survival of Representations and Warranties. All statements contained in any
+exhibit, certificate, schedule or other instrument delivered or to
+be delivered by or on behalf of the parties hereto, or in connection with
+the transactions contemplated hereby, shall be deemed representations
+and warranties hereunder. All such representations, warranties, and
+indemnification rights contained herein shall survive the Closing and any
+audit or investigation made by or on behalf of the parties, but shall expire
+on the earlier of the date that is twelve (12) months after the Effective
+Time or the date on which HCC issues its first independent audit report for
+the combined entities, and no claims for indemnification hereunder may be
+made after such date.   9.2 Indemnification by Holders.   (a) The
+Holders, by their approval of this Agreement and the Merger,  shall be deemed
+to have agreed jointly, but only to the extent of the  Escrow Fund, to
+indemnify and hold HCC and its directors, officers,  employees, fiduciaries,
+agents and Affiliates, and each other person, if  any, who controls such
+persons (collectively, the "HCC Parties") harmless  against any claims,
+actions, suits, proceedings, investigations, losses,  expenses, damages,
+obligations, liabilities, judgments, fines, fees, costs  and expenses
+(including costs and reasonable attorneys\' fees) and amounts  paid in
+settlement of any pending, threatened or completed claim, action,  suit,
+proceeding or investigation (collectively "Loss" or "Losses") which  arise
+out of or result from or are related to (i) any breach by or failure  of VCI
+to perform any of its covenants or agreements set forth herein, (ii)  the
+inaccuracy of any representation or warranty made by VCI herein, or  (iii)
+any amounts paid, in settlement or otherwise, of the matters  described in
+Sections 3.2(b) and 3.15 of the VCI Disclosure Schedule.   (b) If the HCC
+Parties are entitled to indemnification under this  Agreement, they shall be
+entitled to recover shares of HCC common stock  pursuant to the Escrow
+Agreement (subject to each Holder\'s right under the  Escrow Agreement to
+satisfy all or any part of any indemnification  obligation by paying cash in
+lieu of HCC common stock) having an aggregate  value, based on the average
+closing price used to calculate the Exchange  Ratio, equal to the amount of
+its Loss or Losses. The aggregate liability  of the Holders for
+indemnification under this Article IX shall not exceed  the Escrow Fund and
+the HCC Parties sole and exclusive remedy for  indemnification claims under
+this Article IX shall be to seek recovery  against the Escrow Fund.   9.3
+Indemnification by HCC. HCC agrees to indemnify and hold VCI, the Holders and
+VCI\'s directors, officers, employees, fiduciaries, agents and Affiliates and
+each other person, if any, who controls such persons (the "VCI Parties")
+harmless against any Loss or Losses which arise out of or result from or are
+related to (a) any breach by or failure of HCC to perform any of
+its covenants or agreements set forth herein, or (b) the inaccuracy of
+any representation or warranty made by HCC herein.   9.4 Limitation.  
+(a) Notwithstanding the foregoing, the Holders shall be liable for  Losses
+incurred as a result of any breach, failure or inaccuracy of any 
+representation, warranty, covenant or agreement made by VCI herein only if 
+the aggregate of such Losses exceeds $300,000, and HCC shall be liable for 
+Losses incurred as a result of any breach, failure or inaccuracy of any 
+representation, warranty, covenant or agreement made by it herein only if 
+the aggregate of such Losses exceeds $300,000; provided, however, that the 
+$300,000 limitation shall not apply with respect to any breach, failure or 
+inaccuracy of any representation and     warranty contained in Section 3.2
+hereof or the covenant contained in  Section 5.5 hereof or as to the matters
+described in Section 3.2(b) of the  VCI Disclosure Schedule. The aggregate
+liability of the Holders for Losses  incurred as a result of any breach,
+failure or inaccuracy of any  representation, warranty, covenant or agreement
+made by VCI herein shall  not exceed the Escrow Fund and the aggregate
+liability of HCC for Losses  incurred as a result of any breach, failure or
+inaccuracy of any  representation, warranty, covenant or agreement made by it
+herein shall not  exceed 10% of the Numerator. The liability of the Holders
+for Losses  incurred as a result of any breach, failure or inaccuracy of
+any  representation, warranty, covenant or agreement of VCI shall be limited
+to  the return of the HCC Common Stock in the Escrow Fund, as provided in
+the  Escrow Agreement.   (b) Notwithstanding anything to the contrary in
+this Agreement, any  amounts payable by the Holders pursuant to Section
+9.1(a) or by HCC  pursuant to Section 9.2(b) hereof, shall be appropriately
+adjusted to take  into account (i) the amount of any insurance proceeds
+received by VCI and  Holders or HCC, as the case may be, in connection with
+the indemnification  claim, (ii) the income tax consequences associated with
+the tax treatment  of the Loss item in question and any related indemnity
+payment and (iii)  any recovery under third party indemnification of VCI.  
+9.5 Claims for Indemnification. Whenever any claim shall arise
+for indemnification hereunder, the Indemnified Party shall notify in writing
+within 30 days (or such earlier time as might be required to avoid
+prejudicing the Indemnifying Party\'s position) of receiving notice of or
+obtaining actual knowledge of facts constituting the basis of such claim
+(whichever occurs first), the Indemnifying Party of the claim and, when
+known, the facts constituting the basis for such claim. The failure to notify
+the Indemnifying Party will not vitiate the right of the Indemnified Party to
+indemnity to the extent the Indemnifying Party is not prejudiced as a result
+of such failure. In the event of any claim for indemnification, the
+Indemnified Party shall be entitled to full indemnification in the amount
+claimed unless, within 30 days after receipt of written notice of a claim for
+indemnification, the Indemnifying Party delivers a written notice to the
+Indemnified Party objecting to the claim for indemnification, which notice
+specifies in reasonable detail the basis for the objection. If the parties
+are unable to resolve the dispute within 30 days, the claim for
+indemnification shall be settled pursuant to Section 9.7 hereof. In the event
+of any such claim for indemnification hereunder resulting from or in
+connection with any claim or legal proceedings by a third party, the notice
+to the Indemnifying Party shall specify, if known, the amount or an estimate
+of the amount of the liability arising therefrom. The Indemnified Party shall
+not settle or compromise any claim by a third party for which it is entitled
+to indemnification hereunder without the prior written consent of the
+Indemnifying Party, which consent shall not be unreasonably delayed,
+conditioned or withheld, unless suit shall have been instituted against the
+Indemnified Party and the Indemnifying Party shall not have taken control of
+such suit after notification thereof as provided in Section 9.6 below.  
+9.6 Defense by Indemnifying Party. In connection with any claims giving
+rise to indemnity hereunder resulting from or arising out of any claim or
+legal proceeding by a person who is not a party to this Agreement, the
+Indemnifying Party at its sole cost and expense may, upon written notice to
+the Indemnified Party, assume the defense of any such claim or legal
+proceedings; provided that, if by reason of the claim of such third party a
+lien, attachment, garnishment or execution has been placed on any material
+portion of the property or assets of the Indemnified Party at the time of
+such election, the Indemnifying Party, if it desires to exercise the right to
+assume the defense, shall furnish a satisfactory indemnity bond to obtain the
+release of such lien, attachment, garnishment or execution. The Indemnified
+Party shall be entitled to participate in (but not control) the defense of
+any such action, with its counsel and at its own expense. If the Indemnifying
+Party assumes the defense, it shall take all actions and steps reasonably
+necessary to defend or settle any claim against the Indemnified Party. The
+Indemnified Party shall reasonably cooperate with the Indemnifying Party in
+such defense. In the event that the Indemnifying Party proposes a settlement
+to any such claim or legal proceeding, which settlement is satisfactory to
+the party instituting such claim or legal proceeding and includes (i) an
+unconditional release of the Indemnified Party, from all liability with
+respect to such claim or litigation, to the extent that it is reasonably
+necessary to provide assurance to the Indemnified Party that the claim will
+be finally settled without further liability to the Indemnified Party or the
+dismissal of such claim or litigation against the Indemnified    Party
+with prejudice and (ii) provision that all damages and settlement payments
+are to be made by the Indemnifying Party (subject to the limitations in
+Section 9.4 hereof), and the Indemnified Party withholds its consent to
+such settlement, then in any such case the Indemnifying Party shall have
+no obligation to indemnify the Indemnified Party under this Agreement against
+and in respect of the amount by which the damages resulting from a final
+judgment relating to such claim or legal proceeding exceeds the amount of the
+proposed settlement. In the event that the Indemnifying Party shall assume
+the defense of any such claim or legal proceeding and it is later determined
+that such claim was not a claim for which the Indemnifying Party is required
+to indemnify the Indemnified Party under this Article IX, the Indemnified
+Party shall reimburse the Indemnifying Party for all its reasonable costs and
+expenses with respect to such defense, including reasonable attorneys\' fees
+and disbursements. If the Indemnifying Party does not assume the defense of
+any such claim or legal proceeding resulting therefrom within 30 days after
+the date of receipt of the notice referred to in Section 9.5 above (or, if
+earlier, by the tenth day preceding the day on which an answer or other
+pleading must be served in order to prevent judgment by default in favor of
+the person asserting such claim), (a) the Indemnified Party may defend
+against such claim or legal proceeding, in such manner as it may deem
+appropriate, including, but not limited to, settling such claim or legal
+proceeding on such terms as the Indemnified Party may deem appropriate, and
+(b) the Indemnifying Party shall be entitled to participate in (but not
+control) the defense of such action, with its counsel and at its own expense.
+Notwithstanding the foregoing, (i) the Holders may not control any matter
+involving the consolidated, or combined or unitary Tax Returns of HCC or any
+Affiliate of HCC for any taxable period ending after the Closing Date and
+(ii) in any such case, HCC agrees to keep the Stockholder Representative
+fully informed with respect to such matter which may be the subject to
+indemnification hereunder and not to settle or resolve any such matter
+without the consent of the Stockholder Representative (which consent may not
+be unreasonably withheld or delayed).   9.7 Arbitration.   (a) Either HCC
+or the Stockholders Representative may submit a dispute  that has not been
+resolved pursuant to the provisions of Section 9.5 above  to arbitration by
+filing a written demand for arbitration with the American  Arbitration
+Association ("AAA") in Wilmington, Delaware with written notice  to the other
+party. The arbitration shall be conducted in accordance with  the Commercial
+Dispute Resolution procedures of the AAA, and shall be  conducted by a single
+arbitrator who shall be qualified by experience in  complex commercial
+disputes and chosen in accordance with the procedures of  the AAA. The
+arbitrator so designated shall not be a current or former  employee,
+consultant, officer, director or stockholder of any party hereto  or any
+Affiliate of any party to this Agreement.   (b) The determination of the
+arbitrator as to the resolution of any  dispute shall be binding and
+conclusive upon all parties hereto. All  rulings of the arbitrator shall be
+in writing and shall be delivered to the  parties hereto. The arbitrator
+shall have full discretion to award to  either party or allocate between them
+the costs of the arbitration  proceedings, including reasonable attorneys
+fees.   (c) Any arbitration pursuant to this Section 9.7 shall be conducted
+in  Wilmington, Delaware. Any arbitration award may be entered in and
+enforced  by any court having jurisdiction and the parties hereby consent and
+commit  themselves to the jurisdiction of the courts of the State of Delaware
+and  the United States District Court for the District of Delaware for
+purposes  of the enforcement of any arbitration award.   9.8 Subrogation.
+In the event VCI or the Holders shall be required to provide indemnification
+under this Article IX, then, to the extent of any such indemnification, VCI
+and/or the Holders shall subrogate to, assume and enjoy the benefit of all of
+the rights and claims (including cross-claims and counter-claims) of the HCC
+Parties in connection with the Loss for which indemnification is provided,
+including, without limitation, any rights of the HCC Parties to any surety,
+indemnification, reimbursement or contribution against or from other
+parties.   9.9 Section 6.14(f) Indemnification. Nothing in this Article 9,
+shall affect the provisions in Section 6.14(f) of this Agreement.    
+ARTICLE X   MISCELLANEOUS   10.1 Amendment. This Agreement shall not be
+amended except by a writing duly executed by both parties and shall not be
+amended after it has been approved by the stockholders of HCC or VCI, without
+further stockholder approval, if the amendment would alter or change the
+Exchange Ratio or have a material adverse effect on the stockholders of HCC
+or VCI.   10.2 Entire Agreement. This Agreement, including the Exhibits,
+Schedules, and other documents delivered pursuant to this Agreement, contains
+all the terms and conditions agreed upon by the parties relating to the
+subject matter of this Agreement and supersedes all prior agreements,
+negotiations, correspondence, undertakings, and communications of the
+parties, whether oral or written, respecting that subject matter.   10.3
+Governing Law. This Agreement shall be governed by and construed
+in accordance with the laws of the State of Delaware without regard to
+principles of conflicts of law.   10.4 Headings. The headings contained in
+this Agreement are intended for convenience and shall not be used to
+determine the rights of the parties.   10.5 Notices. All notices, requests,
+demands, and other communications made in connection with this Agreement
+shall be in writing and shall be deemed to have been duly given on the date
+of delivery if delivered by hand delivery or by facsimile to the persons
+identified below or two days after mailing by air courier addressed as
+follows:   If to HCC or Acquisition Corp.:   HealthCentral.com  6001
+Shellmound Street, Suite 800  Emeryville, CA 94608  Attn: C. Fred Toney 
+Tel. No. (510) 250-2500  Facsimile No. (510) 250-2525   With a copy to:  
+Howard, Rice, Nemerovski, Canady,Falk and Rabkin  A Professional Corporation 
+Three Embarcadero Center, Seventh Floor  San Francisco, California 94111 
+Attention: Richard W. Canady  Tel. No. (415) 434-1600  Facsimile No. (415)
+217-5910   If to VCI (prior to Closing) or Stockholder Representative (after
+the Closing):   Vitamins.com, Inc.  2924 Telestar Court  Falls Church, VA
+22042  Attn: Robert M. Haft  Tel. No. (703) 849-0800  Facsimile No. (703)
+849-8227     With a copy to:   Venable, Baetjer, Howard and Civiletti,
+LLP  1615 L Street, N.W., Suite 400  Washington, DC 20036  Attention:
+Michael A. Schlesinger  Tel. No. (202) 429-3288  Facsimile No. (202)
+429-3231   Such addresses may be changed, from time to time by means of a
+notice given in the manner provided in this section.   10.6 Severability.
+If any provision of this Agreement is held to be unenforceable for any
+reason, it shall be adjusted rather than voided, if possible, in order to
+achieve the intent of the parties to the extent possible. In any event, all
+other provisions of this Agreement shall be deemed valid and enforceable to
+the full extent.   10.7 Waiver. Waiver of any term or condition of this
+Agreement by any party shall not be construed as a waiver of a subsequent
+breach or failure of the same term or condition, or a waiver of any other
+term or condition in this Agreement.   10.8 Assignment. Neither party may
+assign, by operation of law or otherwise, all or any portion of its rights or
+duties under this Agreement without the prior written consent of the other
+party, which consent may be withheld in the absolute discretion of the party
+asked to give consent; provided, however, that Holders may assign their
+rights under Section 6.14 hereof to any transferee of their shares of HCC
+common stock without the requirement of such consent.   10.9 Counterparts.
+This Agreement may be signed in counterparts with the same effect as if the
+signatures to each party were upon a single instrument. All counterparts
+shall be deemed an original of this Agreement.   10.10 Third Party
+Beneficiaries. The Holders shall be third party beneficiaries of this
+Agreement.   10.11 Attorneys\' Fees. In the event any dispute arises
+hereunder, the arbitrator or the court, as the case may be, shall have the
+authority to award costs and attorneys\' fees to the prevailing
+party.     IN WITNESS WHEREOF, HCC, Acquisition Corp. and VCI have
+executed this Agreement as of the date first above written.  
+HEALTHCENTRAL.COM   By: /s/ Albert Greene 
+___________________________________  Title: President and Chief Executive 
+Officer   HCC ACQUISITION CORP.   By: /s/ C. Fred Toney 
+___________________________________  Title: President   VITAMINS.COM,
+INC.   By: /s/ Robert M. Haft  ___________________________________  Title:
+President    '
+

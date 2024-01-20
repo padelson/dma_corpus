@@ -1,0 +1,1093 @@
+ STOCKHOLDER AGREEMENT DATED 7/19/00    1 
+EXHIBIT 99.2    Execution Copy    STOCKHOLDER AGREEMENT   
+STOCKHOLDER AGREEMENT, dated as of July 19, 2000, among CNET NETWORKS, INC.,
+a Delaware corporation (together with its successors, "CNET"), SOFTBANK
+AMERICA INC., a Delaware corporation ("Softbank") and SOFTBANK CORP., a
+Japanese corporation ("Softbank Japan").   RECITALS   Concurrently
+herewith, CNET, TD MERGER SUB, INC., a Delaware corporation and a direct
+wholly owned subsidiary of CNET ("Merger Sub"), and ZIFF-DAVIS INC., a
+Delaware corporation ("Z-D") are entering into an Agreement and Plan of
+Merger (as such agreement may hereafter be amended from time to time, the
+"Merger Agreement"; capitalized terms used and not defined herein have the
+respective meanings ascribed to them in the Merger Agreement), pursuant to
+which Merger Sub will be merged with and into Z-D (the "Merger").   Softbank
+owns at least a majority of the issued and outstanding shares of Z-D Common
+Stock and Softbank Japan owns, directly or indirectly, all of the outstanding
+common stock of Softbank.   As an inducement and a condition to CNET
+entering into the Merger Agreement, CNET has required that Softbank and
+Softbank Japan agree, and CNET has agreed, to enter into this Agreement and
+the parties hereto deem it in their best interests and in the best interests
+of CNET to provide for certain matters with respect to the governance of CNET
+and the ownership of Common Stock and desire to enter into this Agreement in
+order to effectuate that purpose.   AGREEMENT   Accordingly, the parties
+hereto agree as follows:    ARTICLE I   CERTAIN DEFINITIONS   Section
+1.1 Definitions. As used in this Agreement, the following terms shall have
+the meanings set forth below:   "Affiliate" means, with respect to any
+Person, any other  Person that directly or indirectly controls, is controlled
+by, or is  under common control with, such Person. As used in this
+definition,  "control" of a Person (including its correlative meanings,
+"controlled  by" and "under common control with") means the possession,
+directly or    2   Stockholder Agreement    indirectly, of power to
+direct or cause the direction of the  management or policies of such Person
+(whether through ownership of  voting securities or voting partnership or
+other ownership interests,  by contract or otherwise).   "Agreement" means
+this Agreement as in effect on the date  hereof and as hereafter from time to
+time amended, modified or  supplemented in accordance with the terms
+hereof.   "Assumption Agreement" means a writing reasonably  satisfactory
+in form and substance to CNET whereby a Permitted  Transferee of shares of
+Common Stock becomes a party to, and agrees to  be bound by, to the same
+extent as its transferor by the terms of,  this Agreement.   "Beneficially
+Own" or "Beneficial Ownership" shall have the  meanings set forth in Rule
+13d-3 under the Exchange Act, except that a  Person shall be deemed to
+"Beneficially Own" or have "Beneficial  Ownership" of all securities that
+such Person has a right to acquire,  whether such right is exercisable
+immediately or only after the  passage of time (and without any additional
+condition).   "Board of Directors" means the Board of Directors of CNET as 
+from time to time hereafter constituted.   "Business Day" means a day other
+than a Saturday, Sunday or  other day on which commercial banks in the State
+of California or the  State of New York are authorized or required by law to
+close.   "Change of Control of CNET" means any of the following: (i) a 
+merger, consolidation or other business combination or transaction to  which
+CNET is a party if the outstanding Voting Stock (or any Voting  Stock into
+which such stock is converted or exchanged) of CNET  immediately prior to the
+effective date of such merger, consolidation  or other business combination
+or transaction, does not represent a  majority of the Total Current Voting
+Power of the surviving  corporation (or its parent corporation) following
+such merger,  consolidation or other business combination or transaction;
+(ii) an  acquisition by any Person (other than the Restricted Parties and
+their  Affiliates or any 13D Group to which any of them is a member) of 
+Beneficial Ownership of Voting Stock of CNET representing a majority  of the
+Total Current Voting Power of CNET; (iii) a sale of all or  substantially all
+the consolidated assets of CNET to any Person or  Persons (other than
+Restricted Parties and their Affiliates or any 13D  Group to which any of
+them is a member); or (iv) a liquidation or  dissolution of CNET.   "Common
+Stock" means the common stock, par value $0.001 per  share, of CNET and any
+securities of CNET into which such Common Stock  may be reclassified,
+exchanged or converted.   "Designee" shall have the meaning set forth in
+Section  2.1(c).     -2-  3  Stockholder Agreement    "Disinterested
+Shareholders" means any shareholder of CNET  who is not a Restricted Party or
+an Affiliate of a Restricted Party or  a member of a 13D Group in which a
+Restricted Party or an Affiliate of  a Restricted Party is also a member.  
+"Effective Time" shall have the meaning ascribed to such term  in the Merger
+Agreement.   "Exchange Act" shall mean the Securities Exchange Act of 
+1934, as amended.   "Holder" means Softbank and any other Restricted Party
+that  holds Registrable Securities and, other than Softbank Japan, has 
+executed and delivered to CNET an Assumption Agreement.   "Lower Percentage"
+shall have the meaning set forth in  Section 3.5.   "Outstanding Common
+Stock" means, at any time, the total  number of shares of Common Stock issued
+and outstanding at such time.   "Permitted Transferees" means any Restricted
+Party to whom  shares of Common Stock are Transferred in a Transfer not in
+violation  of this Agreement and, other than Softbank Japan, who executes
+and  delivers to CNET an Assumption Agreement.   "Person" means an
+individual, corporation, unincorporated  association, partnership, group (as
+defined in Section 13(d)(3) of the  Exchange Act), trust, joint stock
+company, joint venture, business  trust or unincorporated organization,
+limited liability company, any  governmental entity or any other entity of
+whatever nature.   "Put Equivalent Position" means a "put equivalent
+position"  as defined in Rule 16a-1 under the Exchange Act.   "Registrable
+Securities" means any Common Stock acquired by  Softbank from CNET in the
+Merger, any Common Stock or convertible or  exchangeable security which may
+be issued or distributed in respect  thereof by way of stock dividend or
+stock split or other distribution,  recapitalization or reclassification or
+any shares of Common Stock  acquired by Softbank that are treated as "control
+shares" by virtue of  Softbank\'s status as an "affiliate" of CNET within the
+meaning of such  terms under the Securities Act at the time of such
+acquisition. As to  any particular Registrable Securities, once issued, such
+Registrable  Securities shall cease to be Registrable Securities when (i) a 
+registration statement with respect to the sale by the Holder of such 
+securities shall have become effective under the Securities Act and  such
+securities shall have been disposed of in accordance with such  registration
+statement, (ii) such securities shall have been  distributed to the public
+pursuant to Rule 144 (or any successor  provision) under the Securities Act,
+(iii) all Common Stock held by  the Restricted Parties can be sold within
+three months pursuant to  Rule 144 of the Securities Act and, at such time,
+the Restricted  Parties collectively hold less than three percent (3%) of
+the  Outstanding Common Stock, (iv) such securities shall have been 
+otherwise transferred, new certificates for such securities not  bearing a
+legend restricting further transfer shall have been  delivered by CNET
+and     -3-  4  Stockholder Agreement    subsequent disposition of
+such securities shall not require  registration or qualification of such
+securities under the Securities  Act or any state securities or blue sky law
+then in force, or (v) such  securities shall have ceased to be
+outstanding.   "Registration Expenses" means any and all expenses incident 
+to performance of or compliance with this Agreement, including,  without
+limitation, (i) all SEC and stock exchange or National  Association of
+Securities Dealers, Inc. (the "NASD") registration and  filing fees
+(including, if applicable, the fees and expenses of any  "qualified
+independent underwriter," as such term is defined in  Schedule E to the By-
+laws of the NASD, and of its counsel), (ii) all  fees and expenses of
+complying with securities or blue sky laws  (including fees and disbursements
+of counsel for the underwriters in  connection with blue sky qualifications
+of the Registrable  Securities), (iii) all printing, messenger and delivery
+expenses, (iv)  all fees and expenses incurred in connection with the listing
+of the  Registrable Securities on any securities exchange pursuant to
+clause  (viii) of Section 4.3, (v) the fees and disbursements of counsel
+for  CNET and of its independent public accountants, including the expenses 
+of any special audits and/or "cold comfort" letters required by or  incident
+to such performance and compliance, and (vi) the reasonable  fees and
+disbursements not to exceed $20,000 of one counsel selected  pursuant to
+Section 4.6 hereof by the Holders of the Registrable  Securities being
+registered to represent such Holders in connection  with each such
+registration, provided that Registration Expenses will  not include
+underwriting discounts and commissions and transfer taxes,  if any.  
+"Registration Statement" means a registration statement of  CNET under the
+Securities Act filed pursuant to Article IV.   "Representatives" means, with
+respect to any Person, such  Person\'s directors, officers, employees, agents
+and other  representatives acting in such capacity.   "Restricted Parties"
+means each of Softbank, Softbank Japan  and each of their respective direct
+and indirect Subsidiaries.   "Revised Percentage" shall have the meaning set
+forth in  Section 3.5.   "Securities Act" means the Securities Act of 1933,
+as  amended.   "Softbank Tender Offer" means a bona fide public tender
+offer  subject to the provisions of Regulation 14D under the Exchange Act,
+by  a Restricted Party (or any 13D Group that includes a Restricted Party) 
+to purchase or exchange for cash or other consideration any Voting  Stock and
+which consists of an offer to acquire 100% of the Total  Current Voting Power
+of CNET then in effect (other than Voting Stock  owned by Restricted Parties
+or any Affiliate of a Restricted Party)  and is conditioned (which condition
+may not be waived) on a majority  of the shares of Voting Stock held by
+Disinterested Shareholders being  tendered and not withdrawn with respect to
+such offer.   "Standstill Limit" means Beneficial Ownership of the 
+Applicable Percentage (as defined below) of the Total Current Voting  Power
+of CNET; provided that upon a     -4-  5  Stockholder Agreement   
+Standstill Reinstatement Event, if the Standstill Revised Limit is  greater
+than the Standstill Limit, then the Standstill Revised Limit  shall
+thereafter be deemed to be the Standstill Limit; provided,  further, that the
+Standstill Limit shall be subject to adjustment in  accordance with Section
+3.5. As used herein, "Applicable Percentage"  means twenty percent (20%).  
+"Standstill Period" means the period beginning on the date  hereof and ending
+on the occurrence of a Standstill Termination Event,  provided that the
+Standstill Period shall recommence immediately upon  the occurrence of a
+Standstill Reinstatement Event.   "Standstill Reinstatement Event" means the
+occurrence of any  of the following: (a) the Standstill Period has terminated
+pursuant to  clause (iii) of the definition of "Standstill Termination Event"
+and  such Third Party Tender Offer is withdrawn or terminated (without 
+having been consummated) at any time during which a Softbank Tender  Offer is
+not then pending, (b) the Standstill Period has terminated  pursuant to
+clause (iv) of the definition of "Standstill Termination  Event" due to a
+Change of Control identified in clause (ii) of the  definition of "Change of
+Control" and, within twelve months after the  occurrence of such Change of
+Control, the Person whose Beneficial  Ownership of Voting Stock triggered
+such Change of Control no longer  Beneficially Owns a majority of the Total
+Current Voting Power of CNET  or (c) the Standstill Period has terminated
+pursuant to clause (ii) of  the definition of "Standstill Termination Event,"
+the relevant  agreement that would have otherwise resulted in a Change of
+Control  has been terminated without a Change of Control having occurred
+and  (x) subsequent to the occurrence of such Standstill Termination Event 
+but prior to the termination of such agreement the Restricted Parties  have
+not acquired actual ownership of Voting Stock representing in the  aggregate
+a majority of the Total Current Voting Power of CNET, and  (y) at the time
+such agreement is terminated no Softbank Tender Offer  is then pending.
+Notwithstanding the foregoing, a Standstill  Reinstatement Event will not
+occur if prior to the occurrence of the  event specified in clause (a), (b)
+or (c) above that would otherwise  result in a Standstill Reinstatement
+Event, another Standstill  Termination Event occurs for which there has not
+been a related  Standstill Reinstatement Event.   "Standstill Revised
+Limit" means the percentage of Total  Current Voting Power of CNET
+represented by the Voting Stock of CNET  Beneficially Owned by the Restricted
+Parties as of the occurrence of a  Standstill Reinstatement Event.  
+"Standstill Termination Event" means the earliest to occur of  the following:
+(i) the four year anniversary of the Effective Time,  (ii) the date CNET
+enters into a definitive agreement providing for a  transaction that if
+consummated will result in a Change of Control of  CNET, (iii) a Third Party
+Tender Offer, (iv) any Change of Control of  CNET occurs or (v) a reduction
+in the Restricted Parties\' aggregate  Beneficial Ownership of Voting Stock
+to less than 7.5% of the Total  Current Voting Power of all outstanding
+Voting Stock; provided, that  the Standstill Period will be immediately
+reinstated upon the  occurrence of a Standstill     -5-  6  Stockholder
+Agreement    Reinstatement Event; provided further that, upon a
+Standstill  Reinstatement Event, if the Standstill Revised Limit is greater
+than  the Standstill Limit, then the Standstill Revised Limit and not the 
+Standstill Limit shall thereafter be deemed the Standstill Limit for  all
+purposes hereunder.   "Subsidiary" means, as to any Person, a corporation, 
+partnership, limited liability company, joint venture or other entity  of
+which shares of stock or other ownership interests having ordinary  voting
+power (other than stock or such other ownership interests  having such power
+only by reason of the happening of a contingency) to  elect a majority of the
+board of directors or other managers of such  corporation, partnership or
+other entity are at the time owned,  directly or indirectly through one or
+more intermediaries (including,  without limitation, other Subsidiaries), or
+both, by such Person.   "Third Party Tender Offer" means a bona fide public
+offer  subject to the provisions of Regulation 14D under the Exchange Act,
+by  a Person (which is not made by and does not include any of Softbank, a 
+Restricted Party or any Affiliate of any of them or any 13D Group that 
+includes Softbank, a Restricted Party or any Affiliate of them) to  purchase
+or exchange for cash or other consideration any Voting Stock  and which
+consists of an offer to acquire a majority of the then Total  Current Voting
+Power of CNET.   "13D Group" means any "group" (within the meaning of
+Section  13(d) of the Exchange Act) formed for the purpose of acquiring, 
+holding, voting or disposing of Voting Stock of the Company.   "Total
+Current Voting Power" means, with respect to any  corporation the total
+number of votes which may be cast in the  election of members of the Board of
+Directors of the corporation if  all securities entitled to vote in the
+election of such directors  (excluding shares of preferred stock that are
+entitled to elect  directors only upon the occurrence of customary events of
+default) are  present and voted.   "Transfer" shall have the meaning set
+forth in Section 3.2.   "Transferred Owner" shall have the meaning set forth
+in  Section 3.4.   "Voting Stock" means shares of the Common Stock and any
+other  securities of CNET having the ordinary power to vote in the election 
+of members of the Board of Directors or the board of directors of any 
+Subsidiary of CNET.   ARTICLE II   CORPORATE GOVERNANCE   Section 2.1
+Board of Directors.   (a) At the Effective Time, CNET will appoint one
+designee of Softbank as a director of CNET. The director designated by
+Softbank shall be subject to the reasonable approval of a majority of the
+members of the Board of Directors.   -6-  7  Stockholder Agreement   
+(b) To the extent that (i) any prior Designee (defined below) is up for
+election or (ii) Softbank does not have any Designee on the Board
+of Directors, Softbank will be entitled to designate one person for election
+as a director as specified in Section 2.1(d) below.   (c) Any individual so
+designated by Softbank pursuant to paragraph (b) of this Section 2.1 (the
+"Designee") that has not previously served as a member of the Board of
+Directors shall be subject to the reasonable approval of a majority of the
+members of the Board of Directors.   (d) For so long as Softbank is entitled
+to designate a nominee for election as a director pursuant to this Section
+2.1, CNET shall nominate such Designee for election as a director as part of
+the management slate that is included in the proxy statement (or consent
+solicitation or similar document) of CNET relating to the election of
+directors, and shall provide the same support for the election of such
+Designee as it provides to other persons standing for election as directors
+of CNET as part of CNET\'s management slate.   (e) Subject to applicable
+law, in the event that any Designee on the Board of Directors shall cease to
+serve as a director for any reason (other than the failure of the
+shareholders of CNET to elect such person as director), the vacancy resulting
+therefrom shall be filled by another Designee.   (f) The rights and
+obligations of Softbank pursuant to this Section 2.1 shall terminate on the
+date on which the Restricted Parties Beneficially Own Voting Stock of CNET
+representing less than 7.5% of the Total Current Voting Power of CNET.  
+Section 2.2 Reimbursement of Expenses; Attendance at Board Meetings;
+Indemnification. CNET will reimburse each Designee that serves as a director
+for its costs and expenses (including travel expenses) incurred in connection
+with such director\'s attendance at meetings of the Board or any committee of
+the Board upon which such director serves if and to the same extent as the
+other non-management directors of CNET. CNET will pay such director any
+annual fees and fees for attending Board or committee meetings to the same
+extent as the other non-management directors of CNET. CNET shall indemnify
+each such director to the same extent it indemnifies its other directors
+pursuant to its organizational documents and applicable law.   Section 2.3
+Board Committees. As long as Softbank has the right to designate at least one
+nominee to the Board of Directors, each committee of the Board of Directors
+(other than the audit committee, the compensation committee and any committee
+established for matters in which Softbank has a conflict of interest due to
+it or its Subsidiaries having an interest in the matter other than as a
+stockholder of CNET) shall at all times include at least one Designee of
+Softbank.    -7-  8  Stockholder Agreement    Section 2.4 Voting. For
+as long as Softbank can designate a nominee for election as a director
+pursuant to Section 2.1, the Restricted Parties will vote (or execute a
+written consent in lieu of) all of their Voting Stock on all matters
+involving the election of members of the Board of Directors, at the
+discretion of each Restricted Party either (x) for the entire slate of
+directors proposed by the Board of Directors in CNET\'s proxy statement (or
+consent solicitation or other similar document) relating to such shareholder
+vote or (y) in the same proportion as all votes cast by Disinterested
+Shareholders on such matters.    ARTICLE III   STANDSTILL AGREEMENTS  
+Section 3.1 Standstill Agreement.   (a) During the Standstill Period, no
+Restricted Party will, directly or indirectly, nor will it authorize or
+permit any of its Representatives to, in each case unless specifically
+requested to do so in writing in advance by the Board of Directors:   (i)
+acquire or agree, offer, seek or propose to acquire,  or cause to be
+acquired, ownership of any assets or businesses of CNET  or any of its
+Subsidiaries having a fair market value in excess of 10%  of the fair market
+value of all of CNET\'s and its Subsidiaries\'  assets, or any rights or
+options to acquire any such ownership  (including from a third party);  
+(ii) acquire or agree, offer, seek or propose to acquire,  or cause to be
+acquired, Beneficial Ownership of any Voting Stock of  CNET or any of its
+Subsidiaries, or any options, warrants or other  rights (including, without
+limitation, any convertible or exchangeable  securities) to acquire any such
+Voting Stock (other than through any  stock dividend, combination, split or
+other similar changes to CNET\'s  capital structure); provided, however, that
+the Restricted Parties may  acquire or agree, offer, seek or propose to
+acquire, or cause to be  acquired, shares of Voting Stock of CNET or options,
+warrants or other  rights (or any convertible or exchangeable securities) to
+acquire any  such Voting Stock if such acquisition would not increase the 
+Restricted Parties aggregate Beneficial Ownership of shares of Voting  Stock
+to more than the Standstill Limit;   (iii) make, or in any way participate
+in, any  "solicitation" of "proxies" (as such terms are used in the proxy
+rules  of the SEC) with respect to the voting of any securities of CNET or 
+any of its Subsidiaries;   (iv) form, join, or in any way become a member of
+a 13D  Group with respect to any voting securities of CNET or any of its 
+Subsidiaries (other than a "group" consisting solely of Restricted 
+Parties);    -8-  9   (v) arrange any financing for, or provide any
+financing  commitment for, the purchase of any voting securities or
+securities  convertible or exchangeable into or exercisable for any voting 
+securities of CNET or any of its Subsidiaries;   (vi) seek to propose or
+propose, whether alone or in  concert with others, any tender offer, exchange
+offer, merger,  business combination, restructuring, liquidation,
+recapitalization or  similar transaction involving CNET or any of its
+Subsidiaries;   (vii) nominate any person as a director of CNET who is not 
+nominated by the then incumbent directors, or propose any matter to be  voted
+upon by the shareholders of CNET; provided that the Restricted  Entities may
+nominate directors in accordance with Section 2.1;   (viii) solicit,
+initiate, encourage or knowingly or  intentionally facilitate the taking of
+any action by any Affiliate of  a Restricted Party (that is not itself a
+Restricted Party) that would  be prohibited by this Section 3.1 if that
+Affiliate were a Restricted  Party; or   (ix) publicly announce or disclose
+any intention, plan or  arrangement inconsistent with the foregoing.   (b)
+During the Standstill Period, no Restricted Party will, nor will they
+authorize or permit any of their respective Representatives to, take any
+action that could require CNET to make a public announcement regarding any of
+the matters set forth in Section 3.1(a).   (c) Anything in this Section 3.1
+to the contrary notwithstanding, if at any time during the Standstill Period,
+(i) the Board of Directors has determined to pursue a Change of Control of
+CNET and the Board of Directors has not determined to stop pursuing such
+Change of Control of CNET or (ii) the Board of Directors or CNET has engaged
+in any material negotiations with any Person (other than a Restricted Party
+or any Affiliate thereof or any 13D Group of which any Restricted Party or
+any Affiliate thereof is a member) with respect to a potential Change of
+Control of CNET and the Board of Directors has not determined to terminate
+all such negotiations, then, for so long as such condition continues to
+apply, the Restricted Parties may make a non-public proposal offer to effect
+a Change of Control of CNET to the Board of Directors that the Restricted
+Parties do not publicly disclose (but the Restricted Parties will remain
+subject to all other provisions of this Agreement).   (d) Anything in this
+Section 3.1 to the contrary notwithstanding, this Section 3.1 shall not
+prohibit or restrict any of the following: (x) actions taken by Softbank\'s
+Designees on the Board of Directors in such capacity or (y) any disclosure
+pursuant to the Securities Act or the Exchange Act which a Restricted Party
+reasonably believes, based on the advice of outside counsel, is required in
+connection with any action taken by a Restricted Party.    -9-  10 
+Stockholder Agreement    Section 3.2 Transfer Restrictions.   (a) During
+the period commencing at the Effective Time and ending on the 180-day
+anniversary of the Effective Time, the Restricted Parties shall not, directly
+or indirectly (x) sell, transfer, pledge, hypothecate or otherwise dispose of
+(collectively, "Transfer") any shares of Voting Stock Beneficially Owned by
+such Persons or any legal or beneficial interest therein or (y) establish or
+acquire any Put Equivalent Position in the Voting Stock, in each case except
+for the following Transfers of Voting Stock: (i) to Restricted Parties who
+have executed and delivered to CNET an Assumption Agreement, (ii) which have
+been consented to in writing by CNET, (iii) pursuant to a Third Party Tender
+Offer that is either (x) recommended by the Board of Directors or (y) not
+effectively prohibited from closing by any stockholder rights plan of CNET or
+(iv) pursuant to a merger, consolidation or reorganization to which CNET is a
+party.   (b) During the period beginning on the 180-day anniversary of the
+Effective Time and ending on the earlier of (x) the four year anniversary of
+the Effective Time or (y) the first date on which the Restricted Parties
+do not Beneficially own in the aggregate Voting Stock of CNET representing
+7.5% or more of the Total Current Voting Power of CNET, the Restricted
+Parties shall not, directly or indirectly, Transfer any of the shares of
+Voting Stock of CNET Beneficially Owned by such Persons or any legal or
+beneficial interest therein, except for the following Transfers of Voting
+Stock: (i) to Restricted Parties who have executed and delivered to CNET an
+Assumption Agreement, (ii) which have been consented to in writing by CNET,
+(iii) pursuant to a Third Party Tender Offer that is either (x) recommended
+by the Board of Directors or (y) not effectively prohibited from closing by
+any stockholder rights plan of CNET, (iv) pursuant to a merger, consolidation
+or reorganization to which CNET is a party, (v) in a bona fide underwritten
+public offering (pursuant to the exercise of rights granted pursuant to
+Article IV hereof), (vi) pursuant to Rule 144 of the Securities Act ("Rule
+144") or Rule 145 of the Securities Act ("Rule 145") in an aggregate amount
+during any three month period not in excess of 2.5% of the Outstanding Common
+Stock at the beginning of such period; or (vii) in any private sale not
+effected through any securities exchange in which the purchaser represents
+that it is acquiring such Voting Stock for its own account and not for
+resale; provided that, in the case of any Transfer pursuant to clauses (vi)
+or (vii), such Transfer does not result in, to the knowledge of the
+Restricted Parties after reasonable inquiry, any other Person (other than an
+underwriter, selling agent or other securities professional that
+acquires such shares with a view to the resale thereof) acquiring, after
+giving effect to such Transfer, Beneficial Ownership, individually or in the
+aggregate with such Person\'s Affiliates, of Voting Stock of CNET
+representing more than 7.5% of the Total Current Voting Power of CNET. For
+purposes of this Section 3.2(b) the establishment or acquisition of a Put
+Equivalent Position will be considered a Transfer pursuant to clause
+(vi).   (c) If any Restricted Party decides to dispose of any Voting Stock,
+each Restricted Party understands and agrees that it may do so only pursuant
+to an effective registration statement under the Securities Act or pursuant
+to an exemption from registration under the Securities Act. Each Restricted
+Party agrees to the imprinting, so long as appropriate, of substantially the
+following legend on certificates representing any of the securities
+referenced in the preceding sentence:    -10-  11  Stockholder
+Agreement    NEITHER THE SECURITIES REPRESENTED BY THIS CERTIFICATE NOR
+THE  SECURITIES ISSUABLE UPON EXERCISE OF THE SECURITIES REPRESENTED HEREBY 
+HAVE BEEN REGISTERED UNDER THE U.S. SECURITIES ACT OF 1933, AS AMENDED  (THE
+"SECURITIES ACT"), OR ANY STATE SECURITIES LAW, AND SUCH  SECURITIES MAY NOT
+BE OFFERED, SOLD, TRANSFERRED OR OTHERWISE DISPOSED  OF EXCEPT PURSUANT TO AN
+EFFECTIVE REGISTRATION STATEMENT OR PURSUANT  TO AN EXEMPTION FROM, OR IN A
+TRANSACTION NOT SUBJECT TO, THE  REGISTRATION REQUIREMENTS OF THE SECURITIES
+ACT AND APPLICABLE STATE  SECURITIES LAWS. THE SECURITIES REPRESENTED BY THIS
+CERTIFICATE ARE  SUBJECT TO THE TERMS OF A STOCKHOLDER AGREEMENT, DATED AS OF
+JULY 19,  2000, AMONG CNET NETWORKS, INC., A DELAWARE CORPORATION, SOFTBANK 
+AMERICA INC., A DELAWARE CORPORATION AND SOFTBANK CORP., A JAPANESE 
+CORPORATION.   The legend set forth above shall be removed by CNET if
+and when (i) the securities represented by such certificate are disposed
+of pursuant to an effective registration statement under the Securities Act
+or (ii) the relevant Restricted Party delivers to CNET an opinion of
+counsel reasonably acceptable to CNET to the effect that such legend is no
+longer necessary.   Section 3.3 Certain Permitted Transactions
+and Communications. Notwithstanding the foregoing, this Agreement shall
+not prohibit (i) the acquisition or holding of securities or rights in the
+ordinary course of business by any employee benefit plan whose trustees,
+investment managers or similar advisors are not Affiliates of any Restricted
+Party, (ii) the consummation of any transaction expressly provided for in the
+Merger Agreement or (iii) officers, advisors and employees of the Restricted
+Parties from communicating with each other and with officers of CNET or its
+Affiliates on matters related to or governed by the Merger Agreement, this
+Agreement or other operational matters.   Section 3.4 Certain Actions
+Deemed Transfers. The consummation of any transaction in which a Person (the
+"Transferred Owner") that was a Restricted Party ceases to be a Restricted
+Party shall be deemed to be a Transfer of any Voting Stock of CNET owned by
+such Transferred Owner.   Section 3.5 Certain Adjustments to Standstill
+Limit. In the event that the percentage of Beneficial Ownership of the Total
+Current Voting Power of CNET held by Restricted Parties (such percentage plus
+1%, the "Revised Percentage") exceeds the Standstill Limit due to any
+Restricted Party acquiring additional shares of Voting Stock of CNET due to
+CNET\'s acquisition of any other Person, then the Revised Percentage shall
+thereafter be deemed to be the Standstill Limit (unless and until further
+adjusted in accordance with this Agreement). Following such an event, if
+Restricted Parties Transfer Voting Stock of CNET such that the percentage of
+Beneficial Ownership of the Total Current Voting Power of CNET held by
+Restricted Parties plus 1% (the "Lower Percentage") is less than the
+Standstill Limit then in effect, then the Lower Percentage (or, if greater,
+the Applicable Percentage) shall thereafter be     -11-  12  Stockholder
+Agreement   deemed to be the Standstill Limit (unless and until further
+adjusted in accordance with this Agreement).   ARTICLE IV   REGISTRATION
+RIGHTS   Section 4.1 Incidental Registrations.   (a) Right to Include
+Registrable Securities. If CNET at any time after the date hereof proposes to
+register its Common Stock (or any security which is convertible into or
+exchangeable or exercisable for Common Stock) under the Securities Act (other
+than a registration on Form S-4 or S-8, or any successor or other forms
+promulgated for similar purposes), whether or not for sale for its own
+account, for sale in an underwritten public offering and in a manner which
+would permit registration of Registrable Securities for sale to the public
+under the Securities Act, it will, at each such time, give prompt written
+notice to all Holders of Registrable Securities of its intention to do so and
+of such Holders\' rights under this Section 4.1. Upon the written request of
+any such Holder made within 15 days after the receipt of any such notice
+(which request shall specify the Registrable Securities intended to
+be disposed of by such Holder), CNET will use its reasonable best efforts
+to effect the registration under the Securities Act of all Registrable
+Securities which CNET has been so requested to register by the Holders
+thereof, to the extent required to permit the disposition of the Registrable
+Securities so to be registered; provided that (i) if, at any time after
+giving written notice of its intention to register any securities and prior
+to the effective date of the registration statement filed in connection with
+such registration, CNET shall determine for any reason not to proceed with
+the proposed registration of the securities to be sold by it or others, CNET
+may, at its election, give written notice of such determination to each
+Holder of Registrable Securities and, thereupon, shall be relieved of its
+obligation to register any Registrable Securities in connection with such
+registration (but not from its obligation to pay the Registration Expenses in
+connection therewith), (ii) all Holders of Registrable Securities requesting
+to be included in CNET\'s registration must sell their Registrable Securities
+to the underwriters selected by CNET on the same terms and conditions as
+apply to CNET or others, with such differences, including any with respect to
+indemnification and liability insurance, as may be customary or appropriate
+in combined primary and secondary offerings, and (iii) the provisions of this
+Section 4.1(a) will not apply to any underwritten offering conducted pursuant
+to a shelf registration statement where no "road show" is conducted. Any
+Holder of Registrable Securities requesting to be included in such
+registration may elect, in writing prior to the effective date of the
+registration statement filed in connection with such registration, not to
+register such securities in connection with such registration.   (b)
+Expenses. CNET will pay all Registration Expenses in connection with each
+registration of Registrable Securities requested pursuant to this Section
+4.1.   (c) Priority in Incidental Registrations. If the
+managing underwriter advises CNET in writing that, in its reasonable opinion,
+the number of securities requested to be included in such registration
+pursuant to this Section 4.1 exceeds the number which can be sold in
+such     -12-  13  Stockholder Agreement   offering, so as to be
+likely to have an adverse effect on the price, timing or distribution of the
+Securities offered in such offering as contemplated by CNET, then CNET will
+include in such registration (i) first, 100% of the securities CNET proposes
+to sell and (ii) second, to the extent of the number of Registrable
+Securities requested to be included in such registration which, in the
+opinion of such managing underwriter, can be sold without having the adverse
+effect referred to above, the number of Registrable Securities which the
+Holders and the registrable securities any other stockholder entitled to sell
+shares in such offering have requested to be included in such registration,
+such amount to be allocated pro rata among all requesting Holders and any
+other stockholder entitled to sell shares in such offering on the basis of
+the relative number of shares of Registrable Securities then held by
+each such Holder and the number of shares of registrable securities held by
+each such other stockholder (provided that any shares thereby allocated to
+any such Holder that exceed such Holder\'s request will be reallocated among
+the remaining requesting Holders in like manner).   Section 4.2
+Registration on Request.   (a) Request by the Demand Party. (i) On and after
+the 180-day anniversary of the Effective Date, any Holder or Holders (the
+"Initiating Holders") may in writing request that CNET effect the
+registration under the Securities Act for sale in an underwritten offering of
+all or part of such Holder\'s Registrable Securities and specifying the
+amount and intended method of disposition thereof, CNET will promptly give
+written notice of such requested registration to all other Holders of such
+Registrable Securities, and thereupon will, as expeditiously as possible, use
+its reasonable best efforts to effect the registration under the Securities
+Act of:   (x) such Registrable Securities which CNET has been so requested
+to register by the Initiating Holders; and   (y) all other Registrable
+Securities which CNET has been requested to register by any other Holder
+thereof by written request given to CNET within 10 days after the giving of
+such written notice by CNET,  all to the extent necessary to permit the
+disposition of the Registrable Securities so to be registered; provided, that
+(A) CNET shall not be obligated to effect any registration of Registrable
+Securities under this Section 4.2(a) unless the Initiating Holders request
+that CNET register Registrable Securities either (x) representing at least
+20% of the total number of Registrable Securities or (y) representing at
+least 10% of the total number of Registrable Securities and the aggregate
+proceeds from the sale of which are reasonably expected to be at least
+$50,000,000, (B) CNET shall not be obligated to file a registration statement
+relating to any registration request under this Section 4.2(a), (x) within a
+period of six months after the effective date of any other registration
+statement relating to any registration request under this Section 4.2(a), or
+(y) if with respect thereto the managing underwriter, the SEC, the Securities
+Act or the rules and regulations thereunder, or the form on which the
+registration statement is to be filed, would require the conduct of an audit
+other than the regular audit conducted by CNET at the end of its fiscal year,
+in which case the filing may be delayed until the completion of such regular
+audit (unless the Holders of the Registrable Securities to be registered
+agree to pay the expenses of CNET in connection with such an audit other than
+the regular audit), (C) CNET shall not be required to     -13-  14 
+Stockholder Agreement   effect more than four registrations of Registrable
+Securities pursuant to the Section 4.2(a) and (D) CNET shall have the right
+to defer such filing and/or the offering or sale of Registrable Securities
+pursuant to any such Registration Statement for a period of not more than
+ninety (90) days if (1) a negotiation or consummation of a transaction by
+CNET or its Subsidiaries is pending or an event has occurred, which
+negotiation, consummation or event would, as determined by the Board of
+Directors of CNET and provided in writing to the Initiating Holders, require
+additional disclosure by CNET in the Registration Statement of material
+information which CNET has a bona fide business purpose for keeping
+confidential, and the nondisclosure of which in the Registration Statement
+would reasonably be expected to cause the Registration Statement to fail to
+comply with applicable disclosure requirements or (2) the Board of Directors
+determines in good faith that the offering of such Registrable Securities
+would be likely to adversely affect a pending or proposed public offering of
+Common Stock by CNET and such determination is provided in writing to the
+Initiating Holders; provided that CNET will not be entitled to require
+deferrals pursuant to this clause (D) totaling more than 90 days during any
+12-month period.   (b) Expenses. CNET will pay all Registration Expenses
+in connection with the registration of Registrable Securities pursuant to
+this Section 4.2.   (c) Effective Registration Statement. A
+registration requested pursuant to this Section 4.2 will not be deemed to
+have been effected unless it has become effective and all of the Registrable
+Securities registered thereunder have been sold; provided that if, within 180
+days after it has become effective, the offering of Registrable Securities
+pursuant to such registration is interfered with by any stop order,
+injunction or other order or requirement of the SEC or other governmental
+agency or court, such registration will be deemed not to have been
+effected.   (d) Selection of Underwriters. The Initiating Holders
+shall have the right to select the investment banker or bankers and managers
+to administer the offering pursuant to this Section 4.2, which investment
+bank or bankers shall be of nationally recognized standing, which shall be
+reasonably acceptable to CNET and which shall be jointly appointed by CNET
+and the Initiating Holders.   (e) Priority in Requested Registrations. If
+the managing underwriter advises CNET in writing that, in its reasonable
+opinion, the number of Registrable Securities requested to be included in a
+registration effected pursuant to this Section 4.2 exceeds the number which
+can be sold in such offering, the number of such Registrable Securities to be
+included in such registration shall be allocated pro rata among all
+requesting Holders on the basis of the relative number of shares of
+Registrable Securities then held by each such Holder (provided that any
+shares thereby allocated to any such Holder that exceed such Holder\'s
+request shall be reallocated among the remaining requesting Holders in like
+manner). In the event that the number of Registrable Securities requested to
+be included in such registration is less than the number which, in the
+opinion of the managing underwriter, can be sold, CNET may include in such
+registration such securities CNET or any other stockholder of CNET proposes
+to sell up to the number of securities that, in the opinion of the
+underwriter, can be sold.    -14-  15  Stockholder Agreement   
+Section 4.3 Registration Procedures. If and whenever CNET is required to use
+its reasonable best efforts to effect or cause the registration of any
+Registrable Securities under the Securities Act as provided in
+this Agreement, CNET will, as expeditiously as possible:   (a) prepare and,
+in any event within 45 days after a request for registration is given to
+CNET, file with the SEC a registration statement with respect to such
+Registrable Securities and use its reasonable best efforts to cause such
+registration statement to become effective within 60 days after filing,
+provided, however, that CNET may discontinue any registration of
+its securities which is being effected pursuant to Section 4.1 at any time
+prior to the effective date of the registration statement relating
+thereto;   (b) prepare and file with the SEC such amendments and post-
+effective amendments and supplements to such registration statement and the
+prospectus used in connection therewith as may be reasonably requested by the
+Holders or as may be necessary to keep such registration statement effective
+for a period not in excess of 90 days and to comply with the provisions of
+the Securities Act, the Exchange Act and the rules and regulations of the SEC
+thereunder with respect to the disposition of all securities covered by such
+registration statement during such period in accordance with the intended
+methods of disposition by the seller or sellers thereof set forth in such
+registration statement; provided that before filing a registration statement
+or prospectus, or any amendments or supplements thereto, including documents
+incorporated by reference after the initial filing of the registration
+statement, CNET will furnish to the Holders and counsel selected pursuant to
+Section 4.6 hereof by the Holders of the Registrable Securities covered by
+such registration statement to represent such Holders, copies of
+all documents proposed to be filed, which documents will be subject to the
+review and comment of such counsel;   (c) furnish to each seller of such
+Registrable Securities such number of copies of such registration statement
+and of each amendment and supplement thereto (in each case including all
+exhibits filed therewith, including any documents incorporated by reference),
+such number of copies of the prospectus included in such registration
+statement (including each preliminary prospectus and summary prospectus), in
+conformity with the requirements of the Securities Act, and such other
+documents as such seller may reasonably request in order to facilitate the
+disposition of the Registrable Securities by such seller; and CNET hereby
+consents (except during the continuance of any event described in Section
+4.3(f) below) to the use of any such prospectus by such seller and the
+underwriters, if any, in connection with the offering and sale of the
+Registrable Securities covered by any such prospectus;   (d) use its
+reasonable best efforts to register or qualify such Registrable Securities
+covered by such registration in such jurisdictions as each seller shall
+reasonably request, to keep such registrations or qualifications in effect so
+as to permit the continuance of offers and sales in such jurisdictions for so
+long as may be necessary to enable such seller to complete its distribution
+of Registrable Securities pursuant to a registration statement, and do any
+and all other acts and things which may be reasonably necessary or advisable
+to enable such seller to consummate the disposition in such jurisdictions of
+the Registrable Securities owned by such seller, except that CNET shall not
+for any such purpose be required to qualify generally to do business as a
+foreign corporation in any jurisdiction where, but for the requirements of
+this clause    -15-  16  Stockholder Agreement   (d), it would not be
+obligated to be so qualified, to subject itself to taxation in any such
+jurisdiction or to consent to general service of process in any such
+jurisdiction;   (e) use its reasonable best efforts to cause such
+Registrable Securities covered by such registration statement to be
+registered with or approved by such other governmental agencies or
+authorities as may be necessary to enable the seller or sellers thereof to
+consummate the disposition of such Registrable Securities;   (f) notify
+each seller of any such Registrable Securities covered by such registration
+statement (and, if requested by the Holders, confirm such notice in writing),
+at any time when a prospectus relating thereto is required to be delivered
+under the Securities Act within the appropriate period mentioned in clause
+(b) of this Section 4.3, of CNET\'s becoming aware that the prospectus
+included in such registration statement, as then in effect, includes an
+untrue statement of a material fact or omits to state a material fact
+required to be stated therein or necessary to make the statements therein not
+misleading in the light of the circumstances then existing, and at
+the request of any such seller, promptly prepare a supplement or post-
+effective amendment to the registration statement or the related prospectus
+or any document incorporated by reference or file any other required document
+and furnish to such seller a reasonable number of copies of an amended
+or supplemental prospectus as may be necessary so that, as thereafter
+delivered to the purchasers of such Registrable Securities, such prospectus
+shall not include an untrue statement of a material fact or omit to state a
+material fact required to be stated therein or necessary to make the
+statements therein not misleading in the light of the circumstances then
+existing;   (g) otherwise use its reasonable best efforts to comply
+with all applicable rules and regulations of the SEC, and make available to
+its security holders, as soon as reasonably practicable (but not more than
+eighteen months) after the effective date of the registration statement, an
+earnings statement which shall satisfy the provisions of Section 11(a) of the
+Securities Act and the rules and regulations promulgated thereunder;   (h)
+use its reasonable best efforts to list such Registrable Securities on any
+securities exchange on which the Common Stock is then listed if such
+Registrable Securities are not already so listed and if such listing is then
+permitted under the rules of such exchange on or prior to the effective date
+of the registration statement;   (i) enter into such customary agreements
+(including an underwriting agreement in customary form, scope and substance),
+which shall set forth indemnification and contribution provisions and
+procedures with respect to Holders to the effect of the provisions set forth
+in Section 4.4 hereof and which may include indemnification provisions in
+favor of underwriters in addition to the provisions of Section 4.4 hereof,
+and take such other actions as the Holders and the underwriters, if any,
+reasonably requested in order to expedite or facilitate the disposition of
+such Registrable Securities, including making such representations and
+warranties to the Holders and underwriters, if any, in form, substance and
+scope as are customarily made by issuers to Holders and underwriters,
+respectively, in underwritten offerings and delivering such documents and
+certificates as may be reasonably requested by the Holders and the
+underwriters, if    -16-  17  Stockholder Agreement   any, to evidence
+the continued validity of such representations and warranties and to evidence
+compliance with any conditions contained in the underwriting agreement;  
+(j) use its reasonable best efforts to obtain a "cold comfort" letter or
+letters (and, if applicable, updates thereof) from CNET\'s independent public
+accounts (and, if necessary, from the independent public accountants of any
+Subsidiary of CNET or of any business acquired by CNET for which financial
+statements and financial data are, or are required to be, included in the
+registration statement) addressed to the Holders and the underwriters, if
+any, in customary form and covering matters of the type customarily covered
+by "cold comfort" letters as the seller or sellers of a majority of shares of
+such Registrable Securities shall reasonably request;   (k) make available
+for inspection by any seller of such Registrable Securities covered by such
+registration statement, by any underwriter participating in any disposition
+to be effected pursuant to such registration statement and by any attorney,
+accountant or other agent retained by any such seller or any such
+underwriter, all pertinent financial and other records, pertinent corporate
+documents and properties of CNET and its Subsidiaries, and cause all of
+CNET\'s and its Subsidiaries\' officers, directors and employees to supply
+all information reasonably requested by any such seller, underwriter,
+attorney, accountant or agent in connection with such registration
+statement;   (l) notify the Holders and counsel (selected pursuant
+to Section 4.6 hereof) for the Holders of Registrable Securities included in
+such registration statement and the managing underwriter or agent,
+immediately, and confirm the notice in writing (i) when the registration
+statement, or any post-effective amendment to the registration statement,
+shall have been filed and shall have become effective, or any supplement to
+the prospectus or any amendment prospectus shall have been filed, (ii) of the
+receipt of any comments from the SEC, (iii) of any request of the SEC to
+amend the registration statement or amend or supplement the prospectus or for
+additional information, and (iv) of the issuance by the SEC of any stop order
+suspending the effectiveness of the registration statement or of any order
+preventing or suspending the use of any preliminary prospectus, or of the
+suspension of the qualification of the registration statement for offering or
+sale in any jurisdiction, or of the institution or threatening of any
+proceedings for any of such purposes;   (m) make every reasonable effort to
+prevent the issuance of any stop order suspending the effectiveness of the
+registration statement or of any order preventing or suspending the use of
+any preliminary prospectus and, if any such order is issued, to obtain the
+withdrawal of any such order at the earliest possible moment;   (n) if
+requested by the managing underwriter or agent or any Holder of Registrable
+Securities covered by the registration statement, promptly incorporate in a
+prospectus supplement or post-effective amendment such information as the
+managing underwriter or agent or such Holder reasonably requests to be
+included therein, including, without limitation, with respect to the number
+of Registrable Securities being sold by such Holder to such underwriter or
+agent, the purchase price being paid therefor by such underwriter or agent
+and with respect to any other terms of the underwritten offering of the
+Registrable Securities to be sold in such offering; and make all required
+filings of such prospectus supplement or post-effective amendment as
+soon    -17-  18  Stockholder Agreement   as practicable after being
+notified of the matters to be incorporated in such prospectus supplement or
+post-effective amendment;   (o) cooperate with the Holders of Registrable
+Securities covered by the registration statement and the managing underwriter
+or agent, if any, to facilitate the timely preparation and delivery of
+certificates (not bearing any restrictive legends) representing securities to
+be sold under the registration statement, and enable such securities to be in
+such denominations and registered in such names as the Holders or the
+managing underwriter or agent, if any, may request;   (p) use its
+reasonable best efforts to obtain for delivery to the Holders of Registrable
+Securities being registered and to the underwriter or agent an opinion or
+opinions from counsel for CNET in customary form and in form, substance and
+scope reasonably satisfactory to the Holders and to such underwriters or
+agents and their counsel and addressed to the Holders and the underwriters,
+if any;   (q) cooperate with each seller of Registrable Securities and each
+underwriter or agent participating in the disposition of such
+Registrable Securities and their respective counsel in connection with any
+filings required to be made with the NASD; and   (r) cause management of
+CNET to participate in customary road show meetings reasonably requested (and
+reasonably in scope in light of the size of the offering) upon reasonable
+prior notice by the lead managing underwriter of such offering.   CNET may
+require each seller of Registrable Securities as to which any registration is
+being effected to furnish CNET with such information regarding such seller
+relating to required disclosure regarding the registration and the
+distribution of such securities as CNET may from time to time reasonably
+request in writing.   Each Holder of Registrable Securities agrees that,
+upon receipt of any notice from CNET of the happening of any event of the
+kind described in clause (f) of this Section 4.3, such Holder will
+forthwith discontinue disposition of Registrable Securities pursuant to the
+registration statement covering such Registrable Securities until such
+Holder\'s receipt of the copies of the supplemented or amended prospectus
+contemplated by clause (f) of this Section 4.3 or until it is advised in
+writing by CNET that the use of the prospectus may be resumed and, if so
+directed by CNET, such Holder will deliver to CNET (at CNET\'s expense) all
+copies, other than permanent file copies then in such Holder\'s possession,
+of the prospectus covering such Registrable Securities current at the time of
+receipt of such notice; provided, that nothing in this paragraph shall
+prohibit or restrict a Holder from effecting sales or transfers otherwise
+than under a registration statement. In the event CNET shall give any such
+notice, the period mentioned in clause (b) of this Section 4.3 shall be
+extended by the number of days during the period from and including the date
+of the giving of such notice pursuant to clause (f) of this Section 4.3 and
+including the date when each seller of Registrable Securities covered by such
+registration statement shall have received the copies of the supplemented or
+amended prospectus contemplated by clause (f) of this Section 4.3 or is
+advised in writing by CNET that the use of the prospectus may be
+resumed.     -18-  19  Stockholder Agreement    Section 4.4
+Indemnification.   (a) Indemnification by CNET. In the event of any
+registration of any securities of CNET under the Securities Act, CNET will,
+and it hereby does, indemnify and hold harmless, to the extent permitted by
+law, (i) in the case of any registration of Registrable Securities pursuant
+to Section 4.1 or 4.2, the seller of any Registrable Securities covered by
+such registration statement, each affiliate of such seller and their
+respective directors and officers or general and limited partners or members
+or managing members (including any director, officer, affiliate, employee,
+agent and controlling Person of any of the foregoing), each other Person who
+participates as an underwriter in the offering or sale of such securities and
+each other Person, if any, who controls such seller or any such underwriter
+within the meaning of Section 15 of the Securities Act or Section 20 of the
+Exchange Act, and (ii) in the case of any registration statement of CNET,
+Softbank, Softbank Japan, their respective officers and directors and each
+Person who controls Softbank and Softbank Japan within the meaning of Section
+15 of the Securities Act or Section 20 of the Exchange Act (collectively, the
+"Z-D Indemnified Parties"), against any and all losses, claims, damages or
+liabilities, joint or several, and expenses (including reasonable attorney\'s
+fees and reasonable expenses of investigation) to which such Indemnified
+Party may become subject under the Securities Act, common law or otherwise,
+insofar as such losses, claims, damages or liabilities (or actions or
+proceedings in respect thereof, whether or not such Indemnified Party is a
+party thereto) arise out of or are based upon (i) any untrue statement or
+alleged untrue statement of any material fact contained in any registration
+statement under which such securities were registered under the Securities
+Act, any preliminary, final or summary prospectus contained therein, or any
+amendment or supplement thereto, or any document incorporated by reference in
+any of the foregoing or (ii) any omission or alleged omission to state
+therein a material fact required to be stated therein or necessary to make
+the statements therein (in the case of a prospectus, in light of the
+circumstances under which they were made) not misleading, and CNET will
+reimburse such Z-D Indemnified Party for any legal or any other expenses
+reasonably incurred by it in connection with investigating or defending
+against any such loss, claim, liability, action or proceeding; provided that
+CNET shall not be liable to any Z-D Indemnified Party in any such case to the
+extent that any such loss, claim, damage, liability (or action or proceeding
+in respect thereof) or expense arises out of or is based upon any untrue
+statement or alleged untrue statement or omission or alleged omission made in
+such registration statement or amendment or supplement thereto or in any such
+preliminary, final or summary prospectus in reliance upon and in conformity
+with written information furnished to CNET through an instrument duly
+executed by such Z-D Indemnified Party specifically stating that it is
+for use in the preparation thereof. Such indemnity shall remain in full force
+and effect regardless of any investigation made by or on behalf of such
+seller or any Z-D Indemnified Party and shall survive the transfer of such
+securities by such seller.   (b) Indemnification by the Seller. CNET may
+require, as a condition to including any Registrable Securities in any
+registration statement filed in accordance with Section 4.1 or Section 4.2,
+that CNET shall have received an undertaking reasonably satisfactory to it
+from the prospective seller of such Registrable Securities or any
+underwriter, severally but not jointly, to indemnify and hold harmless (in
+the same manner and to the same extent as set forth in clause (a) of this
+Section 4.4) CNET and all other prospective sellers that agree to provide a
+similar indemnity to Softbank (collectively, the "CNET Indemnified Parties";
+together with the Z-D     -19-  20  Stockholder
+Agreement   Indemnified Parties, the "Indemnified Parties") with respect to
+any untrue statement or alleged untrue statement in or omission or alleged
+omission from such registration statement, any preliminary, final or summary
+prospectus contained therein, or any amendment or supplement, if such untrue
+statement or alleged untrue statement or omission or alleged omission was
+made in reliance upon and in conformity with written information furnished to
+CNET through an instrument duly executed by such seller or underwriter
+specifically stating that it is for use in the preparation of such
+registration statement, preliminary, final or summary prospectus or amendment
+or supplement, or a document incorporated by reference into any of the
+foregoing. Such indemnity shall remain in full force and effect regardless of
+any investigation made by or on behalf of CNET or any of the prospective
+sellers, or any of their respective affiliates, directors, officers or
+controlling Persons and shall survive the transfer of such securities by such
+seller. In no event shall the liability of any selling Holder of Registrable
+Securities hereunder be greater in amount than the dollar amount of the net
+proceeds received by such Holder upon the sale of the Registrable Securities
+giving rise to such indemnification obligation.   (c) Notices of Claims,
+Etc. Promptly after receipt by an Indemnified Party hereunder of written
+notice of the commencement of any action or proceeding with respect to which
+a claim for indemnification may be made pursuant to this Section 4.4, such
+Indemnified Party shall, if a claim in respect thereof is to be made against
+an indemnifying party, give written notice to the latter of the commencement
+of such action; provided that the failure of the Indemnified Party to give
+notice as provided herein shall not relieve the indemnifying party of its
+obligations under the preceding subdivisions of this Section 4.4, except to
+the extent that the indemnifying party is actually prejudiced by such failure
+to give notice. In case any such action is brought against an Indemnified
+Party, unless in such Indemnified Party\'s reasonable judgment a conflict of
+interest between such Indemnified Party and indemnifying parties may exist in
+respect of such claim, the indemnifying party will be entitled to participate
+in and to assume the defense thereof, jointly with any other indemnifying
+party similarly notified to the extent that it may wish, with counsel
+reasonably satisfactory to such Indemnified Party, and after notice from the
+indemnifying party to such Indemnified Party of its election so to assume the
+defense thereof, the indemnifying party will not be liable to such
+Indemnified Party for any legal or other expenses subsequently incurred by
+the latter in connection with the defense thereof other than reasonable costs
+of investigation. No indemnifying party will consent to entry of any judgment
+or enter into any settlement which does not include as an unconditional term
+thereof, the giving by the claimant or plaintiff to such Indemnified Party of
+a release from all liability in respect to such claim or litigation and which
+does not constitute a statement as to, or an admission of, fault, culpability
+or a failure to act, by or on behalf of any Indemnified Party.   (d)
+Contribution. If the indemnification provided for in this Section 4.4 from
+the indemnifying party is unavailable to or insufficient to hold harmless an
+Indemnified Party hereunder in respect of any losses, claims, damages,
+liabilities or expenses (or actions in respect thereof) referred to herein,
+then each indemnifying party, in lieu of indemnifying such Indemnified Party,
+shall contribute to the amount paid or payable by such Indemnified Party as a
+result of such losses, claims, damages, liabilities or expenses (or actions
+in respect thereof) in such proportion as is appropriate to reflect
+the relative fault of the indemnifying party and Indemnified Parties in
+connection with the actions which resulted in such losses, claims, damages,
+liabilities or expenses (or actions in respect thereof), as well as any other
+relevant equitable considerations. The relative     -20-  21 
+Stockholder Agreement   fault of such indemnifying party and Indemnified
+Parties shall be determined by reference to, among other things, whether any
+action in question, including any untrue or alleged untrue statement of a
+material fact or omission or alleged omission to state a material fact, has
+been made by, or relates to information supplied by, such indemnifying party
+or Indemnified Parties, and the parties\' relative intent, knowledge, access
+to information and opportunity to correct or prevent such action. The amount
+paid or payable by an Indemnified Party under this Section 4.4(d) as a result
+of the losses, claims, damages, liabilities and expenses (or actions in
+respect thereof) referred to above shall be deemed to include any legal or
+other fees or expenses reasonably incurred by such Indemnified Party in
+connection with any investigation or proceeding. The obligations of any
+seller of Registrable Securities and any underwriters in this Section 4.4(d)
+to contribute shall be several in proportion to the percentage of Registrable
+Securities registered or underwritten, as the case may be, by them and not
+joint.   The parties hereto agree that it would not be just and equitable
+if contribution pursuant to this Section 4.4(d) were determined by pro rata
+allocation or by any other method of allocation which does not take account
+of the equitable considerations referred to in the immediately preceding
+paragraph. No Person guilty of fraudulent misrepresentation (within the
+meaning of Section 11(f) of the Securities Act) shall be entitled
+to contribution from any Person who was not guilty of such
+fraudulent misrepresentation.   (e) Non-Exclusivity. The obligations of the
+parties under this Section 4.4 shall be in addition to any liability which
+any party may otherwise have to any other party. The remedies provided in
+this Section 4.4 are not exclusive and shall not limit any rights or remedies
+which may otherwise be available to an indemnified party at law or in
+equity.   Section 4.5 Rules 144 and 145. CNET covenants that it will file
+the reports required to be filed by it under the Securities Act and
+the Exchange Act and the rules and regulations adopted by the SEC thereunder
+(or, if CNET is not required to file such reports, it will, upon the request
+of any Holder of Registrable Securities, make publicly available such
+information as necessary to permit sales pursuant to Rules 144 and 145 under
+the Securities Act), and it will take such further action as any Holder of
+Registrable Securities may reasonably request, all to the extent required
+from time to time to enable such Holder to sell shares of Registrable
+Securities without registration under the Securities Act within the
+limitation of the exemptions provided by (i) Rule 144 and Rule 145 under the
+Securities Act, as either Rule may be amended from time to time, or (ii) any
+similar rule or regulation hereafter adopted by the SEC. Upon the request of
+any Holder of Registrable Securities, CNET will deliver to such Holder a
+written statement as to whether it has complied with such requirements.
+Notwithstanding anything contained in this Section 6, CNET may de-register
+under Section 12 of the Exchange Act if it then is permitted to do so
+pursuant to the Exchange Act and the rules and regulations thereunder but, in
+such circumstances, shall be required hereby, upon the request of any Holder
+of Registrable Securities, to make publicly available such information as
+necessary to permit sales pursuant to Rules 144 and 145 under the Securities
+Act or any similar rule or regulation available.   Section 4.6 Selection of
+Counsel. In connection with any registration of Registrable    -21-  22 
+Stockholder Agreement   Securities pursuant to this Article IV, the Holders
+of a majority of the Registrable Securities covered by any such registration
+may select one counsel to represent all Holders of Registrable Securities
+covered by such registration.   Section 4.7 Miscellaneous.   (a) Holdback
+Agreement. If any such registration shall be in connection with an
+underwritten public offering, each Holder of Registrable Securities agrees
+not to effect any public sale or distribution, including any sale pursuant to
+Rule 144 under the Securities Act, of any equity securities of CNET, or of
+any security convertible into or exchangeable or exercisable for any equity
+security of CNET (in each case, other than as part of such underwritten
+public offering), within 7 days before or such period not to exceed 90 days
+as the underwriting agreement may require (or such lesser period as the
+managing underwriters may permit) after the effective date of
+such registration (except as part of such registration).   (b) CNET will
+not file any registration statement under the Securities Act unless it shall
+first have given to each of Softbank and Softbank Japan, for so long as
+Softbank or Softbank Japan or any of their respective Affiliates,
+Beneficially Owns 10% or more of the Common Stock of CNET or is otherwise
+deemed to be a control person under the Securities Act, as much notice as is
+reasonably practicable under the circumstances and, if so requested by
+Softbank or Softbank Japan, Softbank and Softbank Japan shall have the right,
+at any time when, in its reasonable judgment, it is or might be deemed a
+controlling person of CNET within the meaning of the Securities Act, (a) to
+participate in the preparation and filing of each such registration statement
+to the extent provided in Section 4.3 hereof; (b) to receive the documents
+and notices specified in Section 4.3 hereof and to make the
+requests specified in Section 4.3 hereof; and (c) to receive copies of the
+documents specified in Section 4.3 hereof addressed to it. If any such
+registration statement refers to Softbank or Softbank Japan by name or
+otherwise as the holder of any securities of CNET, then Softbank and/or
+Softbank Japan, as the case may be, shall have the right (in addition to any
+other rights it may have under this Agreement) to require, in the event that
+such reference by name or otherwise is not required by the Securities Act or
+any rules and regulations promulgated thereunder, the deletion of such
+references.   (c) CNET may grant to any Person other than Softbank
+and Softbank Parent the right to request a registration of securities of CNET
+under the Securities Act or the right to be included as a selling stockholder
+in connection with any registration of Registrable Securities subject to
+the provisions of this Article IV; provided, however, that the granting of
+any such rights shall not conflict with or otherwise alter any rights granted
+to Softbank and Softbank Japan hereunder.   ARTICLE V   MISCELLANEOUS  
+Section 5.1 Notices. All notices and other communications hereunder shall be
+in writing and shall be deemed to have been duly given, if delivered
+personally, by telecopier or sent by overnight courier as follows:    
+-22-  23  Stockholder Agreement     (a) If to Softbank or Softbank
+Japan, to:   Softbank America Inc.  10 Langley Road, Suite 403  Newton
+Center, Massachusetts 02459  Attention: Ronald Fisher   Fax: (617)
+928-9301   with a copy to:   Sullivan and Cromwell  125 Broad Street  New
+York, New York 10004  Attention: Alan J. Sinsheimer   Fax: (212)
+558-3588   (b) If to CNET, to:   CNET Networks, Inc.  150 Chestnut
+Street  San Francisco, California 94111  Attention: Chief Executive
+Officer   Fax: (415) 395-9205   With a copy to:   Simpson Thacher and
+Bartlett  3373 Hillview Avenue  Suite 250  Palo Alto, California 94304 
+Attention: Dan Clivner and Richard Capelouto   Fax: (650) 251-5002   or
+to such other address or addresses as shall be designated in writing.
+All notices shall be effective when received.   Section 5.2 Entire
+Agreement; Amendment. This Agreement sets forth the entire agreement between
+the parties hereto with respect to the matters subject to this Agreement. Any
+provision of this Agreement may be amended or modified in whole or in part at
+any time by an agreement in writing between the parties hereto executed in
+the same manner as this Agreement. No failure on the part of any party to
+exercise, and no delay in exercising, any right shall operate    -23- 
+24  Stockholder Agreement   as a waiver thereof nor shall any single or
+partial exercise by any party of any right preclude any other or future
+exercise thereof or the exercise of any other right.   Section 5.3
+Severability. If any term or other provision of this Agreement is invalid,
+illegal or incapable of being enforced by any law or public policy, all other
+terms and provisions of this Agreement shall nevertheless remain in full
+force and effect so long as the economic or legal substance of the
+transactions contemplated hereby is not affected in any manner materially
+adverse to any party. Upon such determination that any term or
+other provision is invalid, illegal or incapable of being enforced, the
+parties hereto shall negotiate in good faith to modify this Agreement so as
+to effect the original intent of the parties as closely as possible in an
+acceptable manner in order that the transactions contemplated hereby are
+consummated as originally contemplated to the greatest extent possible.  
+Section 5.4 Counterparts. This Agreement may be executed in one or more
+counterparts, each of which shall be deemed to constitute an original, but
+all of which together shall constitute one and the same document.   Section
+5.5 Governing Law; Jurisdiction; Waiver of Jury Trial. This Agreement shall
+be governed and construed in accordance with the laws of the State of
+Delaware applicable to contracts executed and performed entirely within such
+state, and each party hereby submits to the jurisdiction of the Court of
+Chancery or other state court of the State of Delaware. The parties hereto
+waive all right to trial by jury in any action, suit or proceeding brought to
+enforce or defend any rights or remedies under this Agreement.   Section
+5.6 Successors and Assigns; Third Party Beneficiaries. Softbank and any other
+Restricted Party that agrees to be bound by the terms hereof may not assign
+any of its rights or delegate any of its duties under this Agreement without
+the prior written consent of CNET. CNET may not assign any of its rights or
+delegate any of its duties under this Agreement without the prior written
+consent of Softbank, provided that in the event of any merger or
+consolidation of CNET with any Person in which the holders of Common Stock
+receive securities of any other Person (the "Successor Issuer"), CNET may
+assign all of its rights and delegate all of its obligations under this
+Agreement to such Successor Issuer in which event the Successor Issuer will
+become "CNET" for all purposes of this Agreement (except for purposes of the
+definition of Change of Control). Any purported assignment in violation
+of this Section shall be void. Nothing expressed or mentioned in this
+Agreement is intended or shall be construed to give any Person other than the
+Restricted Parties (who shall be third party beneficiaries of this Agreement
+entitled to the benefit of, and to enforce, its terms) and CNET and their
+respective successors, any legal or equitable right, remedy or claim under or
+in respect of this Agreement or any provision herein contained. This
+Agreement and all conditions and provisions hereof are intended to be for the
+sole and exclusive benefit of the Restricted Parties and CNET and their
+respective successors, and for the benefit of no other Person. No purchaser
+of Common Stock from a Restricted Party (other than another Restricted Party)
+shall be deemed to be a successor or assignee by reason merely of such
+purchase.   Section 5.7 Specific Performance. The parties hereto agree that
+irreparable damage would occur in the event any provision of this Agreement
+was not performed in    -24-  25  Stockholder Agreement   accordance
+with the terms hereof and that the parties shall be entitled to an injunction
+or injunctions to prevent breaches of this Agreement and to
+enforce specifically the terms and provisions of this Agreement in addition
+to any other remedy to which they are entitled at law or in equity.  
+Section 5.8 Headings, Captions and Table of Contents. The section headings,
+captions and table of contents contained in this Agreement are for reference
+purposes only, are not part of this Agreement and shall not affect the
+meaning or interpretation of this Agreement.   Section 5.9 Effectiveness.
+This Agreement shall become effective at the Effective Time. If the Merger
+Agreement is terminated prior to the Effective Time then this Agreement will
+automatically terminate and be of no further force and effect upon
+termination of the Merger Agreement.   Section 5.10 Termination; Survival.
+Subject to the earlier termination of this Agreement pursuant to Section 5.9
+hereof or the earlier termination of the provisions of this Agreement by the
+written agreement of the parties hereto or as expressly set forth herein, (i)
+Article II of this Agreement shall terminate and be of no further force and
+effect on the later to occur of (A) the date the rights and obligations of
+Softbank pursuant to Section 2.1 hereof terminate in accordance with Section
+2.1(f) and (B) the date a Designee no longer serves on the Board of
+Directors, (ii) Sections 3.1, 3.3, 3.4 and 3.5 of this Agreement shall
+terminate and be of no further force and effect on the permanent termination
+of the Standstill Period (subject to reinstatement upon the occurrence of a
+Standstill Reinstatement Event), (iii) Sections 3.2(a) and (b) of this
+Agreement shall terminate and be of no further force and effect in accordance
+with their respective terms, and (iv) Article IV of this Agreement shall
+terminate and be of no further force and effect on the date that there are no
+Registrable Securities or securities which are convertible or exchangeable
+for Registrable Securities issued and outstanding. This Article V, Article I
+and Section 3.2(c) hereof shall survive any termination of all or any part of
+this Agreement indefinitely.     -25-  26   Stockholder Agreement   
+IN WITNESS WHEREOF, this Agreement has been executed by the parties hereto or
+by their respective duly authorized Representatives, all as of the date first
+above written.    CNET NETWORKS, INC.    By: /s/ Shelby Bonnie 
+--------------------  Name: Shelby Bonnie  Title: Chief Executive
+Officer    SOFTBANK AMERICA INC.    By: /s/ Ronald D. Fisher 
+--------------------  Name: Ronald D. Fisher  Title: Director    SOFTBANK
+CORP.    By: /s/ Ronald D. Fisher  --------------------  Name: Ronald D.
+Fisher  Title: Director     -26-   '
+

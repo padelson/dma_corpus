@@ -1,0 +1,2093 @@
+ EXHIBIT 2.1 - TRANSACTION
+AGREEMENT   EXHIBIT
+2.1  ==============================================================================    
+TRANSACTION AGREEMENT     Among     VIVENDI UNIVERSAL, S.A.,   
+UNIVERSAL STUDIOS, INC.,    USA NETWORKS, INC.,    USANi LLC   and  
+LIBERTY MEDIA CORPORATION          Dated as of December 16,
+2001      ==============================================================================          
+TABLE OF CONTENTS    Page     ARTICLE I   Definitions and
+Usage     ARTICLE II   Transactions and Closing  SECTION 2.01.
+Exchange Rights...............................................2 SECTION 2.02.
+USANi Shares..................................................3 SECTION 2.03.
+Transfer and Acquisition......................................3 SECTION 2.04.
+Other Transactions............................................4 SECTION 2.05.
+Assignment of Contracts and Rights............................4 SECTION 2.06.
+Closing Date..................................................5 SECTION 2.07.
+Assignment of Rights by Diller................................5    ARTICLE
+III   Representations and Warranties of Parent Parties  SECTION 3.01.
+Organization, Standing and Power..............................6 SECTION 3.02.
+Authority; Execution and Delivery; 
+Enforceability.............................................6 SECTION 3.03. No
+Conflicts; Consents........................................8 SECTION 3.04.
+Capitalization of USAi; Warrants..............................9 SECTION 3.05.
+The Contributed Subsidiaries.................................10 SECTION 3.06.
+Financial Statements; No Undisclosed 
+Liabilities...............................................12 SECTION 3.07.
+Contracts....................................................13 SECTION 3.08.
+Contributed Assets...........................................14 SECTION 3.09.
+Real Property................................................14 SECTION 3.10.
+Intangible Property..........................................14 SECTION 3.11.
+Licenses.....................................................15 SECTION 3.12.
+Absence of Changes or Events.................................15 SECTION 3.13.
+Compliance with Applicable Laws..............................15 SECTION 3.14.
+Litigation...................................................16 SECTION 3.15.
+Universal Contributed Interests..............................16 SECTION 3.16.
+Brokers or Finders...........................................17 SECTION 3.17.
+Investment Intent............................................17 SECTION 3.18.
+Tax Matters..................................................18 SECTION 3.19.
+Employee Matters.............................................18      
+ii       ARTICLE IV   Agreements and Covenants  SECTION 4.01.
+Covenants Relating to Conduct of 
+Business..................................................20 SECTION 4.02.
+Access to Information........................................23 SECTION 4.03.
+Confidentiality..............................................23 SECTION 4.04.
+Reasonable Best Efforts......................................24 SECTION 4.05.
+Expenses; Transfer Taxes.....................................24 SECTION 4.06.
+Distribution Agreements......................................25 SECTION 4.07.
+Publicity....................................................26 SECTION 4.08.
+Further Assurances...........................................26 SECTION 4.09.
+Board Recommendation.........................................27 SECTION 4.10.
+Preparation of Proxy Statement;  Stockholders
+Meeting......................................27 SECTION 4.11. Commercial
+Arrangements......................................29 SECTION 4.12. Tax
+Matters..................................................29 SECTION 4.13.
+Agreement Not To Compete.....................................30 SECTION 4.14.
+USAi Partnership Interests...................................32 SECTION 4.15.
+Officers of the Partnership..................................32 SECTION 4.16.
+Partnership Agreement Obligations............................32 SECTION 4.17.
+Committed LLC Shares; Committed Common 
+Equity....................................................32 SECTION 4.18.
+Partnership..................................................33 SECTION 4.19.
+Substitute Letters of Credit; 
+Guarantees................................................33 SECTION 4.20.
+USANi Tax Distribution.......................................33 SECTION 4.21.
+Lease Arrangement............................................34 SECTION 4.22.
+USA Name.....................................................34 SECTION 4.23.
+Options and Restricted Stock.................................34    ARTICLE
+V   Conditions Precedent  SECTION 5.01. Conditions to Each Party\'s
+Obligation........................35 SECTION 5.02. Additional Conditions to
+Obligation of  each Parent
+Party.........................................36 SECTION 5.03. Frustration of
+Closing Conditions............................36    ARTICLE VI  
+Termination  SECTION 6.01.
+Termination..................................................37 SECTION 6.02.
+Effect of Termination........................................37      
+iii       ARTICLE VII   Indemnification  SECTION 7.01.
+Indemnification by Each Parent Party.........................38 SECTION 7.02.
+Tax Indemnification by Each Parent 
+Party......................................................40 SECTION 7.03.
+Refunds......................................................42 SECTION 7.04.
+Calculation of Losses........................................42 SECTION 7.05.
+Termination of Indemnification...............................42 SECTION 7.06.
+Procedures; Exclusivity......................................43 SECTION 7.07.
+Survival.....................................................45    ARTICLE
+VIII   Miscellaneous  SECTION 8.01. Approval of
+Transactions.....................................45 SECTION 8.02.
+Notices......................................................46 SECTION 8.03.
+No Third Party Beneficiaries.................................46 SECTION 8.04.
+Waiver.......................................................46 SECTION 8.05.
+Assignment...................................................47 SECTION 8.06.
+Integration..................................................47 SECTION 8.07.
+Headings.....................................................47 SECTION 8.08.
+Counterparts.................................................47 SECTION 8.09.
+Severability.................................................47 SECTION 8.10.
+Governing Law................................................47 SECTION 8.11.
+Jurisdiction.................................................48 SECTION 8.12.
+Specific Performance.........................................48 SECTION 8.13.
+Amendments...................................................48 SECTION 8.14.
+Interpretation...............................................49  ANNEX
+A EXHIBITS SCHEDULES              TRANSACTION AGREEMENT (this
+"Agreement") dated  as of December 16, 2001, by and among VIVENDI 
+UNIVERSAL, S.A., a societe anonyme organized under  the laws of France
+("Vivendi"), UNIVERSAL STUDIOS,  INC., a Delaware corporation ("Universal"),
+USA  NETWORKS, INC., a Delaware corporation ("USAi"),  USANI LLC, a Delaware
+limited liability company  ("USANi"), LIBERTY MEDIA CORPORATION, a Delaware 
+corporation ("Liberty"), and, for purposes of  Sections 2.03(a)(iv),
+2.03(a)(v), 2.03(a)(vii),  2.07, 4.10(d) and 8.01 only, BARRY DILLER 
+("Diller").    Preliminary Statement    WHEREAS USANi desires to
+distribute to Universal and its Affiliates (such term and such other terms
+used and not defined in this Preliminary Statement, as defined in Annex A)
+the USANi Distributed Interests in return for the cancellation of all the
+USANi Shares owned by Universal and its Affiliates;   WHEREAS Affiliates of
+Universal and USAi desire to form the Partnership with Universal Contributing
+(or causing to be Contributed) the Universal Contributed Interests and the
+USANi Distributed Interests, USANi Contributing (or causing to be
+Contributed) the USANi Contributed Interests and USAi Contributing (or
+causing to be Contributed) all of the membership interests in USA Films, and
+with the Partnership operating and conducting its business on the terms set
+forth in the Partnership Agreement;   WHEREAS Universal, USAi and USANi
+desire that the Partnership grant to Diller a participating interest in the
+Partnership as compensation for agreeing to serve as the Chairman and CEO of
+the Partnership and in consideration for Diller agreeing to be bound by
+certain non-competition provisions;   WHEREAS USAi desires to issue to
+Universal the Warrants in exchange for Universal agreeing to enter into the
+commercial arrangements described in Section 4.11 and for other valuable
+consideration, including Universal agreeing to the put/call arrangements set
+forth in Section 8.07 of the Partnership Agreement and agreeing to serve as
+general partner of the Partnership; and       2   WHEREAS, in
+connection with the foregoing, the parties hereto, as applicable, desire to
+terminate the Exchange Agreement, effective as of the Closing Date, but after
+the exchanges contemplated by Section 2.01 of the Universal/Liberty Merger
+Agreement and to amend and restate, effective as of the Closing, the
+Stockholders Agreement and the Governance Agreement.    NOW, THEREFORE, the
+parties hereto hereby agree as follows:    ARTICLE I   Definitions and
+Usage   Unless the context shall otherwise require, terms used and
+not defined herein shall have the meanings assigned thereto in Annex A.
+Inclusion of, or reference to, any matter in any Schedule to this Agreement
+does not constitute an admission of the materiality of any such matter.   
+ARTICLE II   Transactions and Closing   Upon the terms and subject to the
+conditions set forth herein, the parties shall consummate each of the
+following transactions.   SECTION 2.01. Exchange Rights. (a) Prior to
+effecting the transactions contemplated by Section 2.02 of this Agreement,
+but immediately after the exchanges contemplated by Section 2.01 of the
+Universal/Liberty Merger Agreement, (i) the Exchange Agreement, except the
+representations and warranties contained therein, and (ii) Section 6.01 of
+the Investment Agreement, shall be terminated, whereby the USANi Shares will
+no longer be exchangeable for USAi Common Equity. Each party hereto that is
+also a party to the Exchange Agreement and/or the Investment Agreement shall
+execute and deliver, or shall cause to be executed and delivered, all such
+documents and instruments and shall take, or cause to be taken, all actions
+necessary to effect the terminations required pursuant to this Section 2.01
+at the time specified herein.   (b) During the period from the date of this
+Agreement to the time of the termination of the exchange right referred to
+above, USAi shall not take any action to       3  require either
+Universal or Liberty to exchange their USANi Shares for shares of USAi Common
+Stock pursuant to the Exchange Agreement and during the period from the date
+of this Agreement to and including the Closing Date, USAi shall not take any
+action to require Liberty to exchange the shares of Home Shopping Network,
+Inc. for USAi Common Stock pursuant to the Liberty Exchange Agreement.  
+SECTION 2.02. USANi Shares. On the Closing Date, immediately prior
+to effecting the transactions contemplated by Section 2.03, (a) the USAi
+Share Exchanges and the Mergers (each as defined in the Universal/Liberty
+Merger Agreement) shall be consummated, then (b) USANi shall distribute to
+Universal and/or its Affiliates (I) the USANi Universal Distributed Interests
+in return for the cancellation of 282,161,530 USANi Shares owned by Universal
+and its Affiliates and (II) the USANi Liberty Distributed Interests in return
+for the cancellation of 38,694,982 USANi Shares owned by Universal and its
+Affiliates that were directly or indirectly acquired in connection with
+clause (a) above, all of which USANi Shares shall be delivered by Universal
+and/or its Affiliates free and clear of any Liens (the "Committed LLC
+Shares") and (c) Universal shall deliver to USANi cancelled share
+certificates representing the cancellation of all such Committed LLC
+Shares.   SECTION 2.03. Transfer and Acquisition. (a) On the Closing
+Date, immediately after effecting the trans actions contemplated by Section
+2.02, (i) Universal shall Contribute (or cause to be Contributed) to the
+Partnership all the right, title and interest of Universal and its Affiliates
+in, to and under the Universal Contributed Interests and the USANi
+Distributed Interests;   (ii) USANi shall Contribute (or cause to be
+Contributed) to the Partnership, directly or indirectly, all the right, title
+and interest of USANi and its Affiliates in, to and under the USANi
+Contributed Interests;   (iii) USAi shall Contribute (or cause to be
+Contributed) to the Partnership all the right, title and interest of USAi and
+its Affiliates in, to and under the membership interests in USA Films;  
+(iv) Diller shall assume the roles of Chairman and CEO of
+the Partnership;   (v) each Parent Party and Diller shall execute and
+deliver (or cause its Affiliates to execute and deliver) (A) the Partnership
+Agreement and (B) such appropriate bills of sale, assignment and assumption
+and other instruments of       4  transfer providing for the
+contributions set forth in this Section 2.03, and the parties to the
+Partnership Agreement shall form the Partnership;   (vi) Universal shall
+cause the Partnership to assume the Contributed Liabilities; and   (vii)
+each of Universal, USAi, USANi Sub and Diller (or Affiliates thereof) shall
+receive interests in the Partnership as set forth in the Partnership
+Agreement.   (b) Prior to Closing, the Parent Parties shall agree upon a
+schedule that sets forth the agreed allocation of values of the interests
+being Contributed pursuant to Section 2.03(a) for tax purposes.   SECTION
+2.04. Other Transactions. On the Closing Date,   (i) (A) USAi and The Bank
+of New York shall execute and deliver the  Warrant Agreement and (B) USAi
+shall issue and deliver Warrants to  Universal in the amounts and with the
+exercise prices as set forth in  Schedule 2.04; provided, that if any event
+shall have occurred after the  close of business on November 30, 2001 (the
+"Reference Date") and on or  prior to the Closing Date that would result in
+an adjustment to the  number of shares purchasable upon the exercise of
+Warrants under Article  IV of the Warrant Agreement if such Warrants had been
+issued on the  Reference Date, USAi shall issue and deliver to Universal
+Warrants to  purchase the number of shares set forth on Schedule 2.04 as so
+adjusted,  with exercise prices adjusted accordingly;   (ii) Universal
+shall cause the Partnership to incur third party debt  (on terms reasonably
+satisfactory to USAi) in an amount sufficient to  fund the special
+distribution contemplated by Section 8.05 of the  Partnership Agreement,
+which will be payable to USANi Sub on the Closing  Date out of the proceeds
+of such debt.   SECTION 2.05. Assignment of Contracts and Rights. Anything
+in this Agreement to the contrary notwithstanding, except as set forth on
+Schedule 2.05, this Agreement shall not constitute an agreement to assign any
+Contract or License or any claim or right or any benefit arising thereunder
+or resulting therefrom, or an assumption of liability thereunder, if an
+attempted assignment thereof, without the approval of a party thereto, would
+be       5  ineffective or would constitute a breach or other
+contravention thereof or give rise to any right of termination thereof, as a
+direct result of such assignment. Each Parent Party shall use its reasonable
+best efforts (which shall not require any payment of money) to obtain the
+approval of the other parties to any such Contract or License, or any claim
+or right or any benefit arising thereunder, for the assignment thereof to,
+and the assumption by, the Partnership. If as of the Closing Date an
+attempted assignment and assumption thereof would be ineffective or would
+give rise to any right of termination thereof, each Parent Party shall
+cooperate in arranging a mutually agreeable alternative to enable the
+Partnership to obtain the benefits and assume the obligations under such
+Contract or License in accordance with this Agreement as of the Closing Date
+or as soon as practicable thereafter (including through a sub-contracting,
+sub-licensing, or sub- leasing arrangement, or an arrangement under which
+such Parent Party or one of its Affiliates would enforce such Contract or
+License for the benefit of the Partnership, with the Partnership assuming
+such Parent Party\'s or its Affiliate\'s obligations and any and all rights
+of such Parent Party or its Affiliate against the other party thereto). If
+the approval of the other party is obtained, such approval shall constitute a
+confirmation (automatically and without further action of the parties) that
+such Contract or License is assigned to the Partnership as of the Closing
+Date, and (automatically and without further action of the parties) that the
+liabilities with respect to such Contract or License are assumed by the
+Partnership as of the Closing Date. The agreements set forth on Schedule 2.05
+will apply with respect to the USAi Contracts described therein.   SECTION
+2.06. Closing Date. The closing of the transactions set forth in this Article
+II (the "Closing") shall take place at the offices of Cravath, Swaine and
+Moore, 825 Eighth Avenue, New York, New York 10019, at 10:00 a.m. on the
+second Business Day following the satisfaction (or to the extent permitted,
+the waiver) of all the conditions to the parties\' obligations set forth in
+Article V (other than those requiring the delivery of documents or the taking
+of other action at the Closing), or at such other place, time and date as the
+parties hereto shall agree (the "Closing Date").   SECTION 2.07. Assignment
+of Rights by Diller. Diller may assign beneficial interests in the right to
+receive up to an aggregate of 10% of the Common Interests (as defined in the
+Partnership Agreement) that Diller is entitled to receive upon the Closing to
+one or more Persons       6    designated by Diller prior to
+Closing; provided that no more than four such Persons may be designated. For
+any such assignment to be effective, such assignee shall have agreed,
+pursuant to an instrument in a form reasonably satisfactory to Universal, to
+be bound by the terms of Section 6.07 of the Partnership Agreement.   
+ARTICLE III   Representations and Warranties of Parent Parties  
+Representations and warranties of USAi relating to (i) the portions of its
+Existing Business contained in USA Cable, Studios USA or their respective
+subsidiaries speak only as to the period between February 13, 1998, and the
+date hereof and (ii) the portions of its Existing Business contained in USA
+Films and its subsidiaries speak only as to the period between May 29, 1999,
+and the date hereof (it being understood that matters existing prior to (x)
+February 13, 1998, in the case of clause (i) above, and (y) May 29, 1999, in
+the case of clause (ii) above, shall not be deemed to be a breach of
+a representation or warranty that speaks on and after such respective
+date). Subject to the immediately preceding sentence, each Parent Party
+(unless otherwise specified), with respect to itself and, as applicable, with
+respect to its Affiliates, represents and warrants to the other Parent Party
+as follows:   SECTION 3.01. Organization, Standing and Power. Each of such
+Parent Party and its Transaction Affiliate(s) (i) is duly organized or
+formed, validly existing and in good standing (with respect to jurisdictions
+which recognize such concept) under the laws of the jurisdiction in which it
+is so organized or formed and (ii) has full corporate or limited liability
+company power and authority to perform and comply with all the terms and
+conditions of each Transaction Document to which it is, or is specified to
+be, a party. Each of such Parent Party and its Transaction Affiliate(s) is
+duly qualified to do business as a foreign corporation or limited liability
+company and is in good standing (with respect to jurisdictions which
+recognize such concept) in each jurisdiction in which the nature of the
+business transacted by it or the character or location of the properties
+owned or leased by it requires such qualification, except where failure to be
+so qualified would not have a Material Adverse Effect.   SECTION 3.02.
+Authority; Execution and Delivery; Enforceability. Each of such Parent Party
+and its Affiliates has full power and authority to execute and      
+7  deliver the Transaction Documents to which it is, or is specified to be,
+a party and to consummate the Transactions to which it is, or is specified
+to be, a party. The execution, delivery and performance by each of such
+Parent Party and its Affiliates of the Transaction Documents to which it is,
+or is specified to be, a party and the consummation by each of such Parent
+Party and its Affiliates of the Transactions to which it is, or is specified
+to be, a party have been (or, with respect to such Affiliates, prior to the
+Closing Date will be) duly authorized by all necessary corporate or limited
+liability company action subject, in the case of USAi, to receipt of the
+USAi Stockholder Approvals, and no other corporate proceedings on the part of
+such Parent Party or its Affiliates are necessary to authorize this Agreement
+or the consummation of the Transactions. Each of such Parent Party and
+its Affiliates has duly executed and delivered this Agreement (to the extent
+a party hereto) and prior to the Effective Time will have duly executed
+and delivered each other Transaction Document to which it is, or is specified
+to be, a party, and this Agreement constitutes, and each other
+Transaction Document to which it is, or is specified to be, a party will,
+after the Effective Time (assuming the execution and delivery by each other
+party thereto), constitute its legal, valid and binding obligations,
+enforceable against it in accordance with its terms. The USAi Board formed a
+special committee of the USAi Board, composed of the four disinterested
+directors on the USAi Board (the "Special Committee"), to consider this
+Agreement, the other Transaction Documents to which USAi is a party and the
+Transactions, and to make a recommendation with respect thereto to the entire
+USAi Board. The Special Committee, at a meeting duly called and held at which
+all members of the Special Committee were present either in person or by
+telephone, (x) received the opinion of Bear, Stearns and Co. to the effect that
+the consideration to be received by USAi in the Transactions is fair, from
+a financial point of view, to the stockholders of USAi other than
+Universal, Liberty, Diller and their Affiliates, and (y) duly and unanimously
+(and without any abstentions) adopted resolutions (i) declaring advisable
+this Agreement, (ii) determining that the terms of the Transactions are fair
+to and in the best interests of the public stockholders of USAi, other
+than stockholders party to the Transactions, and (iii) recommending that the
+USAi Board approve this Agreement, the other Transaction Documents to which
+USAi is a party and the Transactions, and that the USAi Board declare the
+advisability of this Agreement. After receiving and considering such
+resolutions of the Special Committee, the USAi Board, at a meeting duly
+called and held at which all directors of USAi were present either in person
+or by       8  telephone, duly adopted resolutions (i) approving and
+declaring advisable this Agreement, (ii) determining that the terms of the
+Transactions are fair to and in the best interests of the public stockholders
+of USAi other than stockholders party to the Transactions, (iii) directing
+that this Agreement and the Transactions be submitted to a vote at a meeting
+of USAi\'s stockholders to be held as promptly as practicable following the
+date of this Agreement, (iv) recommending that such stockholders adopt this
+Agreement and approve and authorize the Transactions to the extent USAi is a
+party thereto and (v) approving the other Transaction Documents to which USAi
+is a party and the Transactions, which resolutions have not been subsequently
+rescinded, modified or withdrawn in any way.   SECTION 3.03. No Conflicts;
+Consents. Except as set forth on Schedule 3.03, the execution, delivery and
+performance by each of such Parent Party and its Affiliates of this Agreement
+(to the extent a party hereto) does not, the execution, delivery and
+performance by each of such Parent Party and its Affiliates of each other
+Transaction Document to which it is, or is specified to be, a party will not,
+and the consummation of the Transactions and compliance with the terms of the
+Transaction Documents will not, conflict with or result in any violation of
+or default (with or without notice or lapse of time, or both) under, or give
+rise to a right of termination, cancellation or acceleration of any
+obligation or to loss of a material benefit under, or to increased,
+additional or accelerated rights or entitlements of any Person under, or
+result in the creation of any Lien upon any of the properties or assets of
+such Parent Party or its Affiliates under, any provision of (i)
+the Organizational Documents of such Parent Party or its Affiliates, (ii)
+any Material Contract to which such Parent Party or its Affiliates is a party
+or by which any of their respective properties or assets is bound or (iii)
+any judgment, order or decree (collectively, "Judgment") or any statute,
+law, ordinance, rule or regulation (collectively, "Applicable Law")
+applicable to such Parent Party or its Affiliates or their respective
+properties or assets, other than, in the case of clauses (ii) and (iii)
+above, any such items that, individually or in the aggregate, would not have
+a Material Adverse Effect. No consent, approval, license, permit, order or
+authorization (collectively, "Consent") of, or registration, declaration or
+filing with, any Federal, state, local or foreign government or any court of
+competent jurisdiction, regulatory or administrative agency or commission or
+other governmental authority or instrumentality, domestic or foreign
+(collectively, "Governmental Entity"), is required to be obtained or made by
+or with respect to either such Parent Party or any of its      
+9  Affiliates in connection with the execution, delivery and performance of
+the Transaction Documents to which it is, or is specified to be, a party or
+the consummation of the Transactions, other than such Consents,
+registrations, declarations or filings, the failure of which to obtain or
+make, would not, individually or in the aggregate, have a Material Adverse
+Effect or those set forth on Schedule 3.03.   SECTION 3.04. Capitalization
+of USAi; Warrants. USAi represents and warrants to Universal that as of the
+close of business on the Reference Date (a) the authorized capital stock of
+USAi consisted of (i) 1,600,000,000 shares of USAi Common Stock, of which
+314,347,113 shares were then issued and outstanding and 6,379,547 shares were
+then held in treasury, (ii) 400,000,000 shares of Class B common stock of
+USAi, par value $.01 per share ("USAi Class B Common Stock"), of which
+63,033,452 shares were then issued and outstanding and (iii) 100,000,000
+shares of preferred stock of USAi, par value $.01 per share ("USAi Preferred
+Stock"), of which there were then no shares issued and outstanding (the
+issued and outstanding shares in clauses (i) and (ii) above, collectively,
+the "USAi Shares"). Except for the USAi Shares and the other securities set
+forth in this Section 3.04, there are no shares of capital stock or other
+equity securities of USAi issued, reserved for issuance or outstanding.
+Except as set forth on Schedule 3.04 or, with respect to preemptive rights,
+as set forth in the Investment Agreement, the USAi Shares are duly
+authorized, validly issued, fully paid and nonassessable and not subject to
+or issued in violation of any purchase option, call option, right of first
+refusal, preemptive right, subscription right or any similar right under any
+provision of the DGCL, the certificate of incorporation or by-laws of USAi or
+any Contract to which USAi is a party or otherwise bound. Other than (i)
+options to purchase an aggregate of 82,130,198 shares of USAi Common Stock
+issued pursuant to employee benefit plans and agreements of USAi as of the
+date hereof, (ii) USANi Shares entitling the holders thereof to acquire, in
+the aggregate, 181,366,238 shares of USAi Common Stock and 146,570,000 shares
+of USAi Class B Common Stock, (iii) 31,620,064 shares of USAi Common Stock
+and 1,596,544 shares of USAi Class B Common Stock issuable upon the exchange
+of shares of Home Shopping Network, Inc., (iv) 1,137,498 shares of USAi
+Common Stock issuable upon conversion of USAi\'s 7% Convertible Subordinated
+Debentures due July 1, 2003, (v) 167,994 shares of USAi Common Stock issuable
+upon the exercise of outstanding warrants, (vi) 452,500 shares of USAi Common
+Stock issuable under various restricted stock grants, (vii) up to 54,271,825
+shares of USAi Common Stock issuable pursuant to the Expedia Agreement
+(including 25,739,216 shares of USAi Common Stock       10  issuable
+upon the conversion of shares of USAi Preferred Stock issuable pursuant to
+the Expedia Agreement), (viii) up to 13,125,000 shares of USAi Preferred
+Stock issuable pursuant to the Expedia Agreement and (ix) up to 16,965,000
+shares of USAi Common Stock issuable upon the exercise of warrants issuable
+pursuant to the Expedia Agreement, as of the date hereof, except
+in connection with this Agreement and the Transactions contemplated hereby,
+or as set forth in the Investment Agreement, the Governance Agreement,
+the Stockholders Agreement, the Exchange Agreement and the USANi LLC
+Agreement, as of the Reference Date there were not any options, warrants,
+rights, convertible or exchangeable securities, "phantom" stock rights,
+stock appreciation rights, stock-based performance units, commitments,
+Contracts or undertakings of any kind to which USAi is a party or by which
+USAi is bound (i) obligating USAi to issue, deliver or sell, or cause to be
+issued, delivered or sold, additional shares of capital stock or other
+equity interests in, or any security convertible or exercisable for or
+exchangeable into any capital stock of or other equity interest in, USAi,
+(ii) obligating USAi to issue, grant, extend or enter into any such option,
+warrant, call, right, security, commitment, Contract, arrangement or
+undertaking or (iii) that give any Person the right to receive any economic
+benefit or right similar to or derived from the economic benefits and rights
+occurring to holders of USAi Shares.   (b) USAi has full power to execute
+and deliver the Warrants, and the Warrants have been, or as of the Closing
+Date will be, duly authorized by USAi and, when duly executed, issued and
+delivered, will be duly and validly issued and outstanding and will
+constitute valid and legally binding obligations of USAi, entitled to the
+benefits of the Warrant Agreement and enforceable against USAi in accordance
+with their terms. As of the Closing Date, (i) 60,467,735 shares of USAi
+Common Stock, adjusted as set forth in Section 2.04 or pursuant to Section
+4.1(f) of the Warrant Agreement, shall be issuable upon the exercise of the
+Warrants and (ii) such shares of USAi Common Stock have been or, prior to the
+Closing Date, will be duly and validly authorized and reserved for issuance
+upon exercise of the Warrants and, when issued upon such exercise, will be
+validly issued, fully paid and nonassessable.   SECTION 3.05. The
+Contributed Subsidiaries. USAi represents and warrants to Universal that, (a)
+Schedule 3.05(a) sets forth, for each Contributed Subsidiary, the amount of
+its authorized capital stock or other ownership interests, the amount of its
+outstanding capital stock or other ownership interests and the
+record       11  and beneficial owners of its outstanding capital
+stock or other ownership interests. Except as set forth on Schedule 3.05(a),
+there are no shares of capital stock or other ownership interests in any such
+Contributed Subsidiary issued, reserved for issuance or outstanding. All the
+outstanding shares of capital stock or other ownership interests of each such
+Contributed Subsidiary have been duly authorized and validly issued and are
+fully paid and non- assessable and not subject to or issued in violation of
+any purchase option, call option, right of first refusal, preemptive right,
+subscription right or any similar right under any provision of the DGCL, if
+applicable, the certificate of incorporation, by-laws or other organizational
+documents of such Contributed Subsidiary or any Contract to which such
+Contributed Subsidiary is a party or otherwise bound. There are not any
+bonds, debentures, notes or other indebtedness of any such Contributed
+Subsidiary having the right to vote (or convertible into, or exchangeable
+for, securities having the right to vote) on any matters on which holders of
+capital stock or other ownership interests of such Contributed Subsidiary may
+vote ("Voting Subsidiary Debt"). Except as set forth above, as of the date
+hereof, there are not any options, warrants, rights, convertible or
+exchangeable securities, "phantom" stock rights, stock appreciation rights,
+stock-based performance units, commitments, Contracts or undertakings of any
+kind to which any such Contributed Subsidiary is a party or by which any of
+them is bound (i) obligating such Contributed Subsidiary to issue, deliver or
+sell, or cause to be issued, delivered or sold, additional shares of capital
+stock or other ownership interests in, or any security convertible or
+exercisable for or exchangeable into any capital stock of or other ownership
+interests in, any such Contributed Subsidiary or Voting Subsidiary Debt, (ii)
+obligating such Contributed Subsidiary to issue, grant, extend or enter into
+any such option, warrant, call, right, security, commitment, Contract,
+arrangement or undertaking or (iii) that give any Person the right to receive
+any economic benefit or right similar to or derived from the economic
+benefits and rights occurring to holders of capital stock or other ownership
+interests of such Contributed Subsidiary. As of the date hereof, there are
+not any outstanding contractual obligations of any such Contributed
+Subsidiary to repurchase, redeem or otherwise acquire any shares of capital
+stock of such Contributed Subsidiary.   (b) (i) Except for ownership
+interests in its wholly owned subsidiaries and the ownership interests set
+forth on Schedule 3.05(b), as of the date hereof, no Contributed Subsidiary
+owns, directly or indirectly, any capital stock, membership interest,
+partnership interest,       12  joint venture interest or other equity
+interest in any Person, other than any interest in special purpose
+subsidiaries formed in connection with motion picture or television
+production projects, and (ii) the Contributed Subsidiaries do not own (or
+will not own as of the Closing), directly or indirectly, any Excluded Assets
+and are not (or will not be) liable (after giving effect to the
+indemnification provisions of Article VII) in respect of any Excluded
+Liabilities.   SECTION 3.06. Financial Statements; No Undisclosed
+Liabilities. (a) USAi represents and warrants to Universal that (i) the
+consolidated financial statements of USAi included in the documents filed by
+USAi with the SEC since January 1, 2000, through the date hereof (the "USAi
+SEC Documents") comply as to form in all material respects with applicable
+accounting requirements and the published rules and regulations of the SEC
+with respect thereto, have been prepared in accordance with generally
+accepted accounting principles in the United States ("U.S. GAAP") (except, in
+the case of unaudited statements, as permitted by Form 10-Q of the SEC)
+applied on a consistent basis during the periods involved (except as may be
+indicated in the notes thereto) and present fairly, in all material respects,
+the consolidated financial position of USAi and its consolidated subsidiaries
+as of the dates thereof and the consolidated results of their operations and
+cash flows for the periods then ended (subject, in the case of unaudited
+statements, to normal year-end audit adjustments). Except as set forth in the
+USAi SEC Documents, as of the date of this Agreement, neither USAi nor any of
+its subsidiaries has any liabilities or obligations of any nature (whether
+accrued, absolute, contingent or otherwise) required by U.S. GAAP to be set
+forth on a consolidated balance sheet or in the notes thereto and that,
+individually or in the aggregate, would have a Material Adverse Effect.  
+(ii) USAi has delivered to Universal a copy of the unaudited interim balance
+sheet of USAi\'s Existing Business as of September 30, 2001 (the "Balance
+Sheet"). The Balance Sheet has been prepared in accordance with U.S. GAAP,
+from the books and records of USAi, and presents fairly, in all
+material respects, the financial position of USAi\'s Existing Business as of
+the date thereof, subject to normal year-end adjustments. Except as set forth
+in the Balance Sheet, as of the date thereof, neither USAi nor any of
+its subsidiaries had any liabilities or obligations of any nature
+(whether accrued, absolute, contingent or otherwise) arising primarily out of
+the conduct of USAi\'s Existing Business and required by U.S. GAAP to be set
+forth on a consolidated balance sheet or in the notes thereto and
+that,       13  individually or in the aggregate, would have a
+Material Adverse Effect.   (b) Universal represents and warrants to USAi
+that the consolidated financial statements of Vivendi included in the
+documents filed by Vivendi with the SEC since January 1, 2000, through the
+date hereof (the "Vivendi SEC Documents") comply as to form in all material
+respects with applicable accounting requirements and the published rules and
+regulations of the SEC with respect thereto, have been prepared in accordance
+with generally accepted accounting principles in France ("French GAAP")
+applied on a consistent basis during the periods involved (except as may be
+indicated in the notes thereto) and present fairly, in all material respects,
+the consolidated financial position of Vivendi and its consolidated
+subsidiaries as of the dates thereof and the consolidated results of their
+operations and cash flows for the periods then ended (subject, in the case of
+unaudited statements, to normal year-end audit adjustments). Except as set
+forth in the Vivendi SEC Documents, as of the date of this Agreement, neither
+Vivendi nor any of its subsidiaries has any liabilities or obligations of any
+nature (whether accrued, absolute, contingent or otherwise) required by
+French GAAP to be set forth on a consolidated balance sheet or in the notes
+thereto and that, individually or in the aggregate, would have a Material
+Adverse Effect.   SECTION 3.07. Contracts. USAi\'s SEC Reports complied in
+all material respects with the disclosure requirements of Item 601 of
+Regulation S-K. Except as set forth on Schedule 3.07 and except as would not
+have a Material Adverse Effect, all of the Material Contracts are in full
+force and effect and are valid and binding agreements of USAi or its
+Affiliates and, to the knowledge of USAi, the other parties thereto,
+enforceable in accordance with their terms. Except as set forth on Schedule
+3.07, to the knowledge of USAi, no party is in default in any material
+respect under any of the Material Contracts, nor does any condition exist
+that with notice or the lapse of time or both would constitute such a
+default. Except for the need to obtain the Consents listed on Schedule 3.03
+and except as would not have a Material Adverse Effect, the Transactions will
+not affect the validity or enforceability of any of the Material Contracts.
+Except as set forth on Schedule 3.07 or as would not have a Material Adverse
+Effect, as of the date of this Agreement, no party to any Material Contract
+has informed USAi or, to USAi\'s knowledge, its Affiliates, of its intention
+(x) to terminate such Material Contract or amend the material terms thereof,
+(y) to refuse to renew such Material Contract upon      
+14  expiration of its term, or (z) to renew such Material Contract upon
+expiration only on terms and conditions that are more onerous to its Existing
+Business, as the case may be, than those now existing.   SECTION 3.08.
+Contributed Assets. (a) Such Parent Party owns, directly or indirectly, and
+has good and valid title to all such Parent Party\'s Contributed Assets, free
+and clear of all Liens, except Permitted Liens.   (b) Neither such Parent
+Party nor any of its Affiliates owns (or will own as of the Closing) any
+asset, property or right, tangible or intangible, that is primarily used in
+the business or operations of its Existing Business, other than, in each
+case, such assets, properties and rights that are being Contributed to the
+Partnership in accordance with this Agreement. Such Parent Party\'s
+Contributed Assets are sufficient for the conduct of its business by the
+Partnership immediately following the Closing in substantially the same
+manner as currently conducted by such Parent Party.   SECTION 3.09. Real
+Property. No fee estates are included in the Material Real Property. Except
+as set forth on Schedule 3.09, USAi or an Affiliate thereof has good title to
+all the Material Real Property, free and clear of all Liens or other
+restrictions on the Material Real Property, except for Permitted Liens.
+Except for that portion of the Material Real Property subject to leases where
+USAi is lessor or sublessor and except as would not have a Material Adverse
+Effect, USAi is in possession of, and has full legal and practical access to,
+the Material Real Property. As of the date hereof there are no pending or, to
+the knowledge of USAi, threatened condemnation or appropriation proceedings
+against any of the Material Real Property, except as would not have a
+Material Adverse Effect. With respect to each leasehold or subleasehold
+interest included in the Material Real Property, USAi or its Affiliate has
+enforceable rights to nondisturbance and quiet enjoyment, and no third party
+holds any interest in the leased premises with the right to foreclose upon
+such leasehold or subleasehold interest, except as would not have a Material
+Adverse Effect.   SECTION 3.10. Intangible Property. Except (i) as set forth
+on Schedule 3.10 or (ii) as has arisen in the ordinary course of
+business consistent with past practice and without material diminution of the
+value thereof, to the knowledge of USAi, no other person has any claim of
+ownership or right of use with respect to its Intangible Property. The use of
+such Intangible Property by USAi\'s       15  Existing Business does
+not, and the use by the Partnership immediately after the Closing will not,
+conflict with, infringe upon, violate, or interfere with or constitute an
+appropriation of any right, title, interest, or goodwill, including any
+intellectual property right, patent, trademark, trade name, service mark,
+brand name, computer program, database, industrial design, copyright, or any
+pending application therefor of any other Person (except for such conflicts,
+infringements, violations or appropriations as would not have a Material
+Adverse Effect), and, to the knowledge of USAi, there have been no claims
+made, and USAi\'s Existing Business has not received any written notice, that
+any such item of Intangible Property is invalid or conflicts with
+the asserted rights of any Person (other than such invalidity or conflicts
+as would not have a Material Adverse Effect).   SECTION 3.11. Licenses.
+Each material License of USAi\'s Existing Business has been validly issued
+and is in full force and effect, and USAi, or an Affiliate thereof, is the
+authorized legal holder thereof and has complied in all material respects
+with all the terms and conditions thereof. As of the date hereof, there is no
+Proceeding pending or, to USAi\'s knowledge, threatened, seeking the
+revocation, modification (in a manner adverse to USAi\'s Existing Business)
+or limitation of any material License of USAi\'s Existing Business, and no
+such License will be subject to suspension, modification, revocation or non-
+renewal as a result of the execution of this Agreement or the consummation of
+the Transactions, except for such suspensions, modifications, revocations or
+non-renewals as would not have a Material Adverse Effect. USAi possesses all
+material Licenses to own or hold under lease and operate its Contributed
+Assets that are necessary to enable it to conduct its Existing Business as
+currently conducted.   SECTION 3.12. Absence of Changes or Events. Except as
+set forth on Schedule 3.12 and except as disclosed in such Parent Party\'s
+SEC Reports, since December 31, 2000 through the date hereof, (i) such Parent
+Party has caused its Existing Business to be conducted in the ordinary course
+and in substantially the same manner as previously conducted and (ii) there
+has not been any Material Adverse Effect.   SECTION 3.13. Compliance with
+Applicable Laws. Except as disclosed in such Parent Party\'s SEC Reports, the
+Existing Business of such Parent Party has been and is presently being
+conducted in compliance with all Applicable Laws, including those relating to
+the environment, except for instances of noncompliance that, individually or
+in the aggregate, would not have a Material Adverse Effect.
+Except       16  as set forth on Schedule 3.13, (i) neither such
+Parent Party nor any of its Affiliates has received any written communication
+during the past year from a Governmental Entity that alleges that its
+Existing Business is not in compliance in any material respect with any
+Applicable Laws and (ii) neither such Parent Party nor any of its Affiliates
+has received any written notice that any investigation or review by any
+Governmental Entity with respect to any of its Contributed Assets or its
+Existing Business is pending or that any such investigation is
+contemplated.   SECTION 3.14. Litigation. Except as set forth on Schedule
+3.14 or as disclosed in such Parent Party\'s SEC Reports, there are not any
+(i) outstanding Judgments against or affecting such Parent Party, its
+Affiliates or its Contributed Assets or Contributed Subsidiaries, or (ii)
+claims, actions, suits, proceedings, arbitrations, investigations, inquiries,
+or hearings or notices of hearings (collectively, "Proceedings") pending or,
+to the knowledge of such Parent Party, threatened against or affecting
+such Parent Party, its Affiliates or its Contributed Assets or
+Contributed Subsidiaries, by or against any Governmental Entity or any other
+Person, that in any manner challenges or seeks to prevent, enjoin, materially
+alter or materially delay the Transactions or that, individually or in the
+aggregate, could reasonably be expected to have a Material Adverse
+Effect.   SECTION 3.15. Universal Contributed Interests. Universal
+represents and warrants to USAi that, as of the Closing Date, all the
+outstanding shares of capital stock or other ownership interests of each
+Universal Contributed Interest will have been duly authorized and validly
+issued and will have been fully paid and non-assessable and not subject to or
+issued in violation of any purchase option, call option, right of first
+refusal, preemptive right, subscription right or any similar right under any
+provision of the DGCL, if applicable, the certificate of incorporation, by-
+laws or other organizational documents of such Universal Contributed Interest
+or any Contract to which such Universal Contributed Interest is a party or
+otherwise bound. As of the Closing Date, there will not be any bonds,
+debentures, notes or other indebtedness of any such Universal Contributed
+Interest having the right to vote (or convertible into, or exchangeable for,
+securities having the right to vote) on any matters on which holders of
+capital stock or other ownership interests of such Universal Contributed
+Interest may vote ("Voting Contributed Interest Debt"). As of the Closing
+Date, there will not be any options, warrants, rights, convertible or
+exchangeable securities, "phantom" stock rights, stock
+appreciation       17  rights, stock-based performance units,
+commitments, Contracts or undertakings of any kind to which any such
+Universal Contributed Interest is a party or by which any of them is bound
+(i) obligating such Universal Contributed Interest to issue, deliver or sell,
+or cause to be issued, delivered or sold, additional shares of capital stock
+or other ownership interests in, or any security convertible or exercisable
+for or exchangeable into any capital stock of or other ownership interests
+in, any such Universal Contributed Interest or Voting Contributed Interest
+Debt, (ii) obligating such Universal Contributed Interest to issue, grant,
+extend or enter into any such option, warrant, call, right, security,
+commitment, Contract, arrangement or undertaking or (iii) that give any
+Person the right to receive any economic benefit or right similar to or
+derived from the economic benefits and rights occurring to holders of capital
+stock or other ownership interests of such Universal Contributed
+Interest.   (b) As of the Closing Date, the Universal Contributed Interests
+will not own, directly or indirectly, any Excluded Assets and will not be
+liable (after giving effect to the indemnification provisions of Article VII)
+in respect of any Excluded Liabilities.   SECTION 3.16. Brokers or Finders.
+No agent, broker, investment banker or other firm or person is or will be
+entitled to receive from a Parent Party or its Affiliates or the Partnership
+any broker\'s or finder\'s fee or any other commission or similar fee in
+connection with any of the Transactions, except (i) as to Universal and its
+Affiliates, Goldman, Sachs and Co., whose fees and expenses will be paid by
+Universal, and (ii) as to USAi and its Affiliates, Allen and Co. and Bear,
+Stearns and Co., whose fees and expenses will be paid by USAi.   SECTION
+3.17. Investment Intent. Such Parent Party understands that (i) the interests
+in the Partnership to be issued to it as contemplated by the Partnership
+Agreement have not been, and will not be, registered under the Securities Act
+of 1933, as amended, or under any state securities laws, and are being
+offered and sold in reliance upon federal and state exemptions
+for transactions not involving any public offering, and (ii) to the extent it
+or any of its Affiliates acquires any of the interests in the Partnership
+as contemplated by the Partnership Agreement, it or such Affiliate will
+be acquiring such shares solely for its own account for investment purposes,
+and not with a view to the distribution thereof.       18    
+SECTION 3.18. Tax Matters. (a) All material Returns required to be filed by
+such Parent Party for taxable periods ending on or prior to the Closing Date
+by, or with respect to, its Existing Business have been or will be filed in
+accordance with all applicable laws, and all Taxes due have been or will be
+paid, except where the failure to so file or so pay would not reasonably be
+expected to have, in the aggregate, a Material Adverse Effect.   (b) USAi
+represents and warrants that, except as set forth on Schedule 3.18(b), each
+entity to be Contributed to the Partnership by USAi or USANi Sub pursuant to
+this Agreement and Section 3.01 of the Partnership Agreement will be treated
+as a pass-through entity for U.S. federal income tax purposes at the time of
+contribution.   SECTION 3.19. Employee Matters. For purposes hereof, "USAi
+Benefit Arrangements" shall mean all material employee benefit plans or
+arrangements that cover any employee of USAi\'s Existing Business (the "USAi
+Business Employees") including any employment, severance, or other similar
+contract, arrangement or policy and each plan or arrangement (written or
+oral) providing for insurance coverage (including any self-insured
+arrangements), workers\' compensation, disability benefits, supplemental
+unemployment benefits, vacation benefits, or retirement benefits or for
+deferred compensation, profit-sharing, bonuses, stock options, stock
+appreciation rights, stock purchases, or other forms of incentive
+compensation or post-retirement insurance, compensation, or benefits.   (b)
+No USAi Benefit Arrangement is an "employee pension benefit plan," as defined
+in Section 3(2) of ERISA (an "USAi Pension Plan"), that is subject to Title
+IV of ERISA or Section 412 of the Code, and no USAi Benefit Arrangement
+provides post-retirement welfare benefits, except as required by law. Neither
+USAi nor any of its Affiliates has incurred or expects to incur any liability
+or lien under Title IV of ERISA or Section 412 of the Code, which liability
+or lien would be reasonably expected to have a Material Adverse Effect.  
+(c) Without limiting the generality of Section 3.19(b), except as set forth
+on Schedule 3.19(c) to be provided within 10 Business Days hereafter, no USAi
+Benefit Arrangement or employee benefit plans of any of its Affiliates or any
+entity required to be combined with USAi or any of its Affiliates under
+Section 414(b), Section 414(c), Section 414(m), or Section 414(o) of the Code
+(an "ERISA Affiliate") is a "multiemployer pension       19  plan," as
+defined in Section 3(37) of ERISA, and neither USAi nor any of its Affiliates
+nor any of its ERISA Affiliates has incurred or expects to incur any
+liability or lien with respect to any multiemployer pension plan
+which liability or lien would be reasonably expected to have a Material
+Adverse Effect.   (d) Except as set forth on Schedule 3.19(d), none of
+USAi, any of its Affiliates, or any of its ERISA Affiliates has incurred, or
+expects to incur solely as a result of the consummation of the Transactions
+(including any termination of employment in connection therewith), any cost,
+fee, expense, liability, claim, suit, obligation, or other damage with
+respect to any USAi Pension Plan, or any USAi Benefit Arrangement that could
+give rise to the imposition of any liability, cost, fee, expense, or
+obligation on the Partnership or any of its Affiliates, which would be
+reasonably expected to have a Material Adverse Effect, and, to USAi\'s
+knowledge, no facts or circumstances exist that could give rise to any such
+cost, fee, expense, liability, claim, suit, obligation, or other damage,
+which would be reasonably expected to have a Material Adverse Effect. Except
+as set forth on Schedule 3.19(d), neither the execution and delivery of this
+Agreement nor the consummation of the Transactions (including any
+terminations of employment in connection therewith) will (i) increase any
+benefits otherwise payable under any USAi Benefit Arrangement, which would be
+reasonably expected to have a Material Adverse Effect or (ii) result in the
+acceleration of the time of payment or vesting of any such payment, which
+would be reasonably expected to have a Material Adverse Effect.   (e) USAi
+will deliver or make available to Universal within ten business days
+hereafter true and complete copies of each of the following documents:  
+(i) each USAi Benefit Arrangement (and, if applicable, related  trust
+agreements) and all amendments thereto, and (if applicable)  each summary
+plan description together with any summary of material  modifications;  
+(ii) each written USAi Benefit Arrangement and written  descriptions thereof
+that has been distributed to the USAi Business  Employees (including
+descriptions of the number and level of  employees covered thereby);
+and       20   (iii) each employee handbook or similar document
+describing any  USAi Benefit Arrangement applicable to the USAi Business
+Employees.   (f) Except as set forth on Schedule 3.19(f) to be provided
+within 10 Business Days hereafter, no controversies, disputes or proceedings
+are pending or, to USAi\'s knowledge, threatened, between USAi or any of its
+Affiliates, and any of the USAi Business Employees, which would be reasonably
+expected to have a Material Adverse Effect. Except as set forth on Schedule
+3.19(f) to be provided within 10 Business Days hereafter, no labor union or
+other collective bargaining unit represents or, to USAi\'s knowledge, claims
+to represent any USAi Business Employees and, to USAi\'s knowledge, there is
+no union campaign being conducted to solicit cards from employees to
+authorize a union to request a National Labor Relations Board Certification
+election with respect to any USAi Business Employees.   (g) Except where
+any such failure would not be reasonably expected to have a Material Adverse
+Effect, all USAi Benefit Arrangements (i) comply in all material respects
+with Applicable Law, including but not limited to ERISA and the Code, and
+(ii) have been administered in all material respects in accordance with their
+terms, and all required contributions have been made to such USAi Benefit
+Arrangements. Except as set forth on Schedule 3.19(g), all USAi Pension Plans
+that are intended to be qualified under Section 401(a) of the Code have
+received a favorable determination letter from the Internal Revenue Service,
+and USAi has no knowledge of any events that would cause such letter to be
+revoked.    ARTICLE IV   Agreements and Covenants   SECTION 4.01.
+Covenants Relating to Conduct of Business. (a) Except for matters set forth
+in Schedule 4.01 or otherwise expressly permitted by the terms of this
+Agreement, from the date hereof to the Closing, each Parent Party shall cause
+its respective Existing Business to be conducted in the usual, regular and
+ordinary course in substantially the same manner as previously conducted
+(including with respect to advertising, promotions, capital expenditures and
+inventory levels) and use all reasonable efforts to keep intact the
+respective businesses of such Parent Party\'s Existing Business, keep
+available the services of their current employees and
+preserve their       21  relationships with customers, suppliers,
+licensors, licensees, distributors and others with whom they deal to the end
+that their respective businesses shall be unimpaired at the Closing. Each
+Parent Party shall not, and shall not permit any of its Affiliates to, take
+any action that would, or that could reasonably be expected to, result in any
+of the conditions set forth in Article V not being satisfied. In addition
+(and without limiting the generality of the foregoing), except as set forth
+in Schedule 4.01 or otherwise expressly permitted or required by the terms of
+this Agreement, each Parent Party shall not, and shall not permit any of its
+Affiliates to, do any of the following in connection with its Existing
+Business without the prior written consent of the other Parent Party:   (i)
+with respect to any of its Contributed Subsidiaries, amend  its
+Organizational Documents, except as is necessary to consummate  the
+Transactions;   (ii) other than sweeping cash in the ordinary course of 
+business consistent with past practice, make any declaration or  payment of
+any dividend or any other distribution in respect of its  equity interest in
+any Contributed Subsidiary;   (iii) with respect to any of its Contributed
+Subsidiaries,  redeem or otherwise acquire any shares of its capital stock or
+issue  any capital stock (except upon the exercise of outstanding options) 
+or any option, warrant or right relating thereto or any securities 
+convertible into or exchangeable for any shares of such capital  stock;  
+(iv) incur or assume any indebtedness for borrowed money or  guarantee any
+such indebtedness in connection with its Existing  Business;   (v) permit,
+allow or suffer any Contributed Assets to become  subjected to any Lien of
+any nature whatsoever, except Permitted  Liens;   (vi) cancel any material
+indebtedness (individually or in the  aggregate) or waive any claims or
+rights of substantial value  relating to its Existing Business;   (vii)
+except for intercompany loans among Contributed  Subsidiaries in the ordinary
+course of business or transactions in  the ordinary course, consistent with
+past practice and not material  in amount, pay, loan or advance any amount
+to, or sell, transfer or  lease any of its assets to, or enter
+into       22   any agreement or arrangement with any of its
+Affiliates;   (viii) make any change in any method of financial accounting
+or  financial accounting practice or policy of its Existing Business  other
+than those required by generally accepted accounting  principles;   (ix)
+make any change in the methods or timing of collecting  receivables or paying
+payables with respect to its Existing  Business;   (x) other than in the
+ordinary course of business, make or  incur any capital expenditure in
+connection with its Existing  Business that is not currently approved in
+writing or budgeted;   (xi) sell, lease, license or otherwise dispose of any
+of the  assets of its Existing Business, except inventory, programming or 
+other goods or services sold in the ordinary course of business  consistent
+with past practice; or   (xii) authorize any of, or commit or agree to take,
+whether in  writing or otherwise, to do any of, the foregoing actions.  
+(b) Except as set forth in Schedule 4.01 or otherwise expressly permitted by
+the terms of this Agreement or any ancillary agreements that may be entered
+into in connection with the Transactions, USAi shall not, and shall not
+permit any of its Affiliates to:   (i) adopt or amend any USAi Benefit
+Arrangement (or any plan or  arrangement that would be an USAi Benefit
+Arrangement if adopted)  relating primarily to its Existing Business or enter
+into, adopt,  extend (beyond the Closing Date), renew or amend any
+collective  bargaining agreement or other Contract relating to its Existing 
+Business with any labor organization, union or association, except  in each
+case, in the ordinary course of business and consistent with  past practice
+or as required by Applicable Law; or   (ii) (A) grant to any USAi Business
+Employee any increase in  compensation or benefits, except grants in the
+ordinary course of  business and consistent with past practice or as may be
+required  under agreements in existence on the date of this Agreement or
+(B)  grant new options or restricted stock to any USAi Business      
+23   Employee except as may be required under agreements in existence on 
+the date of this Agreement.   (c) Each Parent Party shall promptly advise
+the other Parent Party in writing of the occurrence of any matter or event
+that is material to the business, assets, financial condition, or results of
+operations of its Existing Business, taken as a whole.   (d)
+Notwithstanding any other provision of this Agreement, following the date
+hereof, each Parent Party shall manage its cash (including any
+sweeps thereof), payables and receivables relating to its Existing Business
+in each case in the ordinary course of business and consistent with past
+practice.   SECTION 4.02. Access to Information. Except as may be
+deemed appropriate to ensure compliance with any Applicable Laws and subject
+to any applicable privileges, from the date hereof to the Closing Date each
+Parent Party (i) shall give the other Parent Party and its authorized
+representatives reasonable access to the offices, properties, books and
+records of it relating to its Existing Business during normal business hours
+and upon reasonable prior notice, (ii) shall furnish to such other Parent
+Party and its authorized representatives such financial and operating data
+and other information relating to such Existing Business as such other Parent
+Party may reasonably request and (iii) shall instruct its employees and
+representatives to cooperate with such other Parent Party in its
+investigation of such Existing Business, all for the purpose of enabling such
+other Parent Party and its authorized representatives to conduct, at their
+own expense, business and financial reviews, investigations and studies of
+such Existing Business. No investigation pursuant to this Section 4.02 shall
+affect or otherwise obviate or diminish any representations or warranties of
+any Parent Party or conditions to the obligations of any Parent Party.  
+SECTION 4.03. Confidentiality. Each Parent Party acknowledges that the
+information being provided to it in connection with the consummation of the
+Transactions, as well as the information relating to its Existing
+Business that will be Contributed to the Partnership as of the Closing Date,
+is intended to be kept confidential, and each Parent Party shall
+keep confidential, and cause its Affiliates and instruct its and their
+officers, directors, employees and advisors to keep confidential, all such
+information, except as required by law or administrative process and except
+for information that is currently available to the public, or thereafter
+becomes available to       24  the public other than as a result of a
+breach of this Section 4.03. The covenant set forth in this Section 4.03
+shall terminate five years after the date of this Agreement.   SECTION
+4.04. Reasonable Best Efforts. (a) On the terms and subject to the conditions
+of this Agreement, each Parent Party and its Affiliates shall use its
+reasonable best efforts to cause the Closing to occur as soon as practicable
+after the date hereof (but subject to the satisfaction of the conditions set
+forth in Article V), including taking all reasonable actions necessary to
+comply promptly with all legal requirements that may be imposed on it or any
+of its Affiliates with respect to the Closing.   (b) Subject to Section
+2.05, prior to the Closing each Parent Party (at its own expense) shall use
+its reasonable best efforts to obtain, and shall cause its Affiliates to
+cooperate in obtaining, all consents and approvals from third parties
+necessary or appropriate to permit the contributions contemplated by Section
+2.03 and the consummation by such Parent Party and its Affiliates of the
+Transactions.   (c) Following the date hereof, each Parent Party shall file
+promptly any forms required under applicable law and take any other action
+reasonably necessary in connection with obtaining the expiration or
+termination of the waiting periods under the Hart-Scott-Rodino Antitrust
+Improvements Act of 1976, as amended, to the extent applicable to the
+Transactions.   SECTION 4.05. Expenses; Transfer Taxes. (a) Whether or not
+the Closing takes place, and except as set forth in Section 6.02(b) or in
+Article VII, all costs and expenses incurred in connection with the
+preparation of the Transaction Documents and the consummation of the
+Transactions shall be paid by the party incurring such costs and expenses,
+including all costs and expenses incurred pursuant to Section 4.04.   (b)
+Any liabilities, obligations or commitments for transfer, documentary, sales,
+use, registration, value- added and other similar Taxes, governmental fees or
+other like assessments or charges of any kind whatsoever and related amounts
+(including any penalties, interest and additions thereto) (each, a "Transfer
+Tax") shall be paid as follows: (i) USAi shall pay all Transfer Taxes on the
+contribution to the Partnership of the USANi Contributed Interests and the
+membership interests in USA Films pursuant to Section 2.03(a), (ii) Universal
+shall pay all Transfer Taxes on the contribution of the Universal
+Contributed       25  Interests and the USANi Distributed Interests to
+the Partnership pursuant to Section 2.03(a) and (iii) each Parent Party shall
+pay one half of the Transfer Taxes on the distribution by USANi of the USANi
+Distributed Interests pursuant to Section 2.02. The Parent Party responsible
+for paying a Transfer Tax shall use (and cause its Affiliates to use) its
+reasonable efforts to avail itself of any available exemptions from any such
+Transfer Taxes, and the Parent Parties shall cooperate with one another in
+providing any information and documentation that may be necessary to obtain
+such exemptions.   SECTION 4.06. Distribution Agreements. (a) On the earlier
+to occur of (i) the Closing Date and (ii) the date on which this Agreement
+is terminated in accordance with Section 6.01, the Distribution Agreements
+shall terminate (and each Parent Party shall take all efforts necessary
+to effectuate the foregoing), and the parties thereto shall have no
+further obligations or liabilities thereunder (including under the provisions
+of each such agreement relating to (x) distribution obligations after
+termination or (y) rights of first negotiation and last refusal after
+termination), except with respect to services rendered prior to the date of
+such termination.   (b) On the Closing Date, the Ancillary Distribution
+Agreements shall terminate (and each Parent Party shall take all efforts
+necessary to effectuate the foregoing), and the parties thereto shall have no
+further obligations or liabilities thereunder, except with respect to
+services rendered prior to the date of such termination.   (c) Each Parent
+Party agrees, on behalf of itself and its Affiliates, that for a reasonable
+period of time and not less than one year following the termination of the
+Distribution Agreements, it or its Affiliates will make available to the
+other Parent Party and its Affiliates (for the domestic and international
+distribution of television programming produced by such Parent Party or its
+Affiliates), any excess capacity, under existing output agreements or
+otherwise, with respect to the domestic and international distribution of
+television programming that such Parent Party and its Affiliates are unable
+to use for their own programming. In connection with the termination of the
+agreements set forth in Section 4.06(a), Universal and USAi shall cooperate
+and act in good faith (i) to continue to provide television distribution,
+including access to output agreements, for a period of one-year following the
+termination date under Section 4.06(a) on terms and conditions (not including
+with respect to exclusivity, non-compete and the like) consistent with
+past       26    practice, and (ii) to provide for the orderly wind
+down of any in-process commitments or obligations so as not to unreasonably
+disrupt the Existing Businesses.   SECTION 4.07. Publicity. From the date
+hereof through the Closing Date, no public release or announcement concerning
+the Transactions shall be issued by any party or any of its Affiliates
+without the prior consent of the other parties (which consent shall not be
+unreasonably withheld), except as such release or announcement may be
+required by law or the rules or regulations of any United States or foreign
+securities exchange or commission (in which case the party required to make
+the release or announcement shall allow the other parties reasonable time to
+comment on such release or announcement in advance of such issuance);
+provided, however, that a party may make internal announcements to its and
+its Affiliates\' employees that are consistent with the parties\' prior
+public disclosures regarding the Transactions.   SECTION 4.08. Further
+Assurances. (a) From time to time prior to and after the Closing, as and when
+reasonably requested by another party, each party shall execute and deliver,
+or cause to be executed and delivered, all such documents and instruments and
+shall take, or cause to be taken, all such further or other actions (subject
+to Section 4.04), as such other party may reasonably deem necessary or
+desirable to consummate the Transactions.   (b) Universal and its Affiliates
+and Liberty and its Affiliates shall use their respective reasonable best
+efforts (subject to the terms of the Universal/Liberty Merger Agreement) to
+cause the conditions to closing set forth in Sections 6.01, 6.02 and 6.03 of
+the Universal/Liberty Merger Agreement to be satisfied as promptly as
+practicable. Universal and its Affiliates shall not, without USAi\'s written
+consent, terminate the Universal/Liberty Merger Agreement (other than
+pursuant to Section 7.01(a)(iv) thereof) or amend the Universal/Liberty
+Merger Agreement in any manner that would (i) delay the consummation of the
+Transactions in any material respect, or (ii) increase the consideration
+payable to Liberty and/or its Affiliates thereunder, other than in connection
+with any amendments entered into pursuant to Section 5.01(d) of the
+Universal/Liberty Merger Agreement.   (c) In the event that at any time or
+from time to time after the Closing, any Parent Party (or its Affiliates)
+shall receive or otherwise possess any Contributed Asset that was not
+assigned or otherwise transferred to the Partnership at the Closing, such
+Parent Party shall promptly       27  use its reasonable best efforts
+to transfer, or cause to be transferred, such asset to the Partnership. Prior
+to any such transfer, the Parent Party (or its Affiliates) possessing such
+asset shall hold such asset (and all earnings generated by such asset from
+and after the Closing) in trust for the Partnership.   SECTION 4.09. Board
+Recommendation. Neither the USAi Board nor any committee thereof shall
+withdraw or modify in a manner adverse to Universal, or propose to withdraw
+or modify, in a manner adverse to Universal, the approval or recommendation
+by the USAi Board or any such committee of this Agreement, the other
+Transaction Documents to which USAi is a party or the Transactions.
+Notwithstanding the foregoing, if, prior to the USAi Stockholder Approvals,
+(a) a majority of the Special Committee determines in good faith, following
+receipt of the advice of outside counsel, that it is necessary to do so in
+order to comply with its fiduciary obligations, the Special Committee may
+withdraw or modify its recommendation of this Agreement, the
+other Transaction Documents to which USAi is a party and the Transactions,
+and (b) a majority of the USAi Board determines in good faith, following
+receipt of the advice of outside counsel, that it is necessary to do so in
+order to comply with its fiduciary obligations, the USAi Board may withdraw
+or modify its recommendation to USAi\'s stockholders of this Agreement, the
+other Transaction Documents to which USAi is a party and the Transactions;
+provided that neither the Special Committee nor the USAi Board may take any
+action that would result in USAi\'s stockholders no longer being legally
+capable under the DGCL of approving or authorizing this Agreement or the
+Transactions.   SECTION 4.10. Preparation of Proxy Statement; Stockholders
+Meeting. (a) As soon as practicable after execution of this Agreement, USAi
+shall prepare and file with the SEC a preliminary Proxy Statement, in form
+and substance reasonably satisfactory to Universal, and shall use its
+reasonable best efforts to respond, after consultation with Universal, as
+promptly as practicable to any comments of the SEC with respect thereto. USAi
+shall notify Universal promptly of the receipt of any comments from the SEC
+or its staff and of any request by the SEC or its staff for amendments or
+supplements to the Proxy Statement or for additional information. USAi shall
+supply Universal with copies of all correspondence between it or its
+representatives, on the one hand, and the SEC or its staff, on the other
+hand, with respect to the Proxy Statement. Universal shall cooperate with
+USAi in providing any information or responses to comments, or
+other       28  assistance, reasonably requested in connection with
+the foregoing. If at any time prior to receipt of the USAi Stockholder
+Approvals there shall occur any event that should be set forth in an
+amendment or supplement to the Proxy Statement, USAi shall promptly prepare
+and mail to its stockholders such an amendment or supplement. USAi shall use
+its reasonable best efforts to cause the Proxy Statement to be mailed to its
+stockholders as promptly as practicable after filing with the SEC. The Proxy
+Statement shall comply in all material respects with all applicable
+requirements of law. None of the information supplied or to be supplied by
+Vivendi, USAi or their respective Affiliates for inclusion or incorporation
+by reference in the proxy statement will contain any untrue statement of
+material fact or omit to state any material fact required to be stated
+therein or necessary in order to make the statements therein not
+misleading.   (b) USAi shall duly call, give notice of, convene and hold a
+meeting of its stockholders (the "USAi Stockholders Meeting") for the purpose
+of seeking the USAi Stockholder Approvals as soon as practicable after the
+filing of the definitive Proxy Statement. USAi shall, through the USAi
+Board, recommend to its stockholders that they give the USAi Stockholder
+Approvals, except to the extent that the USAi Board shall have withdrawn or
+modified its recommendation to USAi\'s stockholders of this Agreement and the
+Transactions as permitted by Section 4.09. USAi agrees that its obligations
+pursuant to this Section 4.10 shall not be affected by the withdrawal or
+modification by the USAi Board or any committee thereof of such Board\'s or
+such committee\'s recommendation to USAi\'s stockholders of this Agreement or
+the Transactions.   (c) Subject to clause (b) of this Section 4.10, each
+Parent Party shall use its reasonable best efforts to take, or cause to be
+taken, all actions, and to do, or cause to be done, and to assist and
+cooperate with the other Parent Party in doing, all things necessary, proper
+or advisable to obtain the USAi Stockholder Approvals.   (d) At any meeting
+of the stockholders of USAi called to seek the USAi Stockholder Approvals or
+in any other circumstances upon which a vote, consent or other approval
+(including by written consent) with respect to this Agreement or the
+Transactions is sought, such Parent Party or Diller, as applicable, shall
+vote (or cause to be voted) any USAi Common Stock over which such Parent
+Party or Diller, as applicable, has the power to vote in favor of granting
+the USAi Stockholder Approvals.       29     SECTION 4.11.
+Commercial Arrangements. (a) Each Parent Party shall enter into (or cause its
+Affiliates to enter into) a series of strategic and commercial alliances with
+one another covering the transactional and internet businesses of such Parent
+Party and its Affiliates on the Closing Date; provided, that if such
+alliances are not entered into on or prior to the Closing Date, the
+obligations under this provision shall continue after the Closing Date. The
+commitment to enter into such agreements is an integral part of the
+Transactions and the Parent Parties and their respective Affiliates shall
+negotiate in good faith the terms thereof, which shall be mutually beneficial
+and on mutually satisfactory terms and designed to treat each Parent Party
+and its Affiliates as a "preferred partner" of the other.   (b) The Parent
+Parties shall negotiate in good faith to enter into an agreement on the
+Closing Date pursuant to which the Partnership will provide affiliate
+distribution of the Home Shopping Network, America\'s Store and other
+transactional services (such as a travel network) on an arm\'s-length basis;
+provided, that if such agreement is not entered into on or prior to
+the Closing Date, the obligations to provide such affiliate distribution
+shall continue after the Closing Date.   (c) The Parent Parties agree to
+the arrangements set forth on Schedule 4.11(c).   (d) The failure to enter
+into any of the agreements set forth in this Section 4.11 prior to the
+Closing Date will not constitute a failure of the condition set forth in
+Section 5.02(b).   SECTION 4.12. Tax Matters. (a) The Parent Parties intend
+that the Partnership be treated as a partnership for United States federal
+income tax purposes and agree to take no actions inconsistent with such
+treatment. The Parent Parties agree, except as otherwise required pursuant to
+a final determination within the meaning of Section 1313(a)(1) of the Code,
+to treat the transactions contemplated by Section 2.02 as a distribution by
+USANi to Universal and/or its Affiliates governed by Section 731 of the Code
+and the transactions contemplated by Sections 2.03 as a contribution of
+property to the Partnership governed by Section 721(a) of the Code and a
+distribution by the Partnership to USANi Sub, in each case that will not
+result in recognition of gain or loss by any Parent Party or any of their
+respective Affiliates under any provision of the Code or the Treasury
+Regulations thereunder.       30     (b) To the extent any entity to
+be Contributed to the Partnership by Universal pursuant to this Agreement and
+Section 3.01 of the Partnership Agreement is treated as other than a pass-
+through entity for U.S. federal income tax purposes, Universal shall take all
+reasonable actions necessary to cause such entity (or its successor) to be
+treated as a pass-through entity for U.S. federal income tax purposes (a
+"Conversion"), provided that Universal has determined in good faith that (i)
+neither Universal nor any of its Affiliates shall suffer a material tax
+detriment or any other material cost as a result of such Conversion and (ii)
+such Conversion is not prohibited by applicable contract or law.   (c)
+Subject to Universal delivering to USAi a schedule setting forth Universal\'s
+(or any of its Affiliate\'s) adjusted tax basis in any assets that were
+contributed to USANi or any of its subsidiaries by Universal (or any of its
+Affiliates) in a transaction in which USANi or any of its subsidiaries took a
+transferred basis, USAi will deliver to Universal no later than 30 days prior
+to the Closing Date a schedule setting forth to USAi\'s best knowledge USANi
+Sub\'s tax basis, immediately after the Effective Time, in its interest in
+the Partnership.   (d) No later than 30 days prior to the Closing Date, USAi
+shall deliver to Universal a schedule setting forth, to the best knowledge of
+USAi, the adjusted tax basis of USAi or USANi Sub, as the case may be, in
+each of the assets to be contributed by USAi or USANi Sub, as the case may
+be, to the Partnership.   SECTION 4.13. Agreement Not To Compete. (a) USAi
+understands that the Partnership shall be entitled to protect and preserve
+the going concern value of USAi\'s Existing Business to the extent permitted
+by law and that Universal would not have entered into this Agreement absent
+the provisions of this Section 4.13 and, therefore, for a period from the
+Closing Date until the date that is the later of (1) 18 months after the
+Closing Date and (2) six calendar months after the date upon which Diller
+ceases to be the CEO of the Partnership, USAi shall not, and shall cause each
+of its controlled Affiliates not to, directly or indirectly:   (i) engage
+in the Business or acquire any interest in any  Person engaged in the
+Business; and   (ii)(A) solicit, recruit or hire any employees of any
+Existing  Business or the Partnership or Persons who have worked for any 
+Existing Business or the       31   Partnership, in each case other
+than employees who perform solely  clerical functions for such Persons, (B)
+solicit or encourage any  employee of any Existing Business or the
+Partnership to leave the  employment of any Existing Business or the
+Partnership, in each case  other than employees who perform solely clerical
+functions for such  Persons, and (C) disclose or furnish to anyone any
+confidential  information relating to its Existing Business or the
+Partnership or  otherwise use such confidential information for its own
+benefit or  the benefit of any other Person; provided that the non-
+solicitation  provisions of clauses (A) and (B) shall be deemed not breached
+by  any advertisement or general solicitation that is not specifically 
+targeted at the employees or Persons referred to therein;  provided,
+further, that if at any time after 18 months after the Closing Date (x)
+Diller shall cease to be the CEO or an officer of USAi or any of
+its Affiliates but shall still be the CEO of the Partnership, or (y)
+Diller resigns as CEO of the Partnership for Good Reason or is terminated
+without Cause (each, as defined in the Partnership Agreement), then the
+restrictions set forth in this Section 4.13(a) shall cease to apply.
+Notwithstanding the foregoing, USAi agrees that it shall not restructure,
+reorganize or take any other action in an effort to circumvent the terms or
+intent of this Section 4.13(a).   (b) Section 4.13(a) shall be deemed not
+breached as a result of the ownership by USAi or any of its Affiliates of:
+(i) interests in the Partnership, (ii) less than an aggregate of 5% of any
+class of stock of a Person engaged, directly or indirectly, in the Business;
+provided, however, that such stock is listed on a national securities
+exchange, (iii) Vivendi ordinary shares as the result of the exercise of a
+put or a call under Section 10.03 of the Partnership Agreement, (iv) less
+than 10% in value of any instrument of indebtedness of a Person engaged,
+directly or indirectly, in the Business, and (v) the whole or any part of an
+acquired Person or business which carries on the Business, where less than
+30% of such Person\'s revenues are generated by the Business, and USAi or its
+Affiliates will dispose of such Business within six months of its
+acquisition, provided that such disposition may be delayed pending receipt of
+required regulatory approvals.   (c) USAi agrees that this covenant is
+reasonable with respect to its duration and scope. If, at the time of
+enforcement of this Section 4.13, a court holds that the restrictions stated
+herein are unreasonable under the circumstances then existing, the parties
+hereto agree that       32  the period and scope legally permissible
+under such circumstances will be substituted for the period and scope stated
+herein.   SECTION 4.14. USAi Partnership Interests. USAi covenants and
+agrees that at all times its interests in the Partnership shall be held
+directly by USAi or by a wholly owned direct or indirect subsidiary of USAi,
+provided, however, that this covenant shall not be deemed to be breached
+solely as a result of the fact that Home Shopping Network, Inc. is not a
+wholly owned subsidiary of USAi, so long as Liberty and USAi remain the only
+shareholders of Home Shopping Network, Inc. and Liberty\'s ownership
+percentage of Home Shopping Network, Inc. does not increase materially.  
+SECTION 4.15. Officers of the Partnership. Universal shall cause Diller to be
+appointed as the CEO and Chairman of the Partnership, as contemplated by the
+Partnership Agreement.   SECTION 4.16. Partnership Agreement Obligations.
+Vivendi shall comply with the terms of Section 10.03 of the Partnership
+Agreement and Universal shall comply with the terms of Sections 8.07 and
+10.03 of the Partnership Agreement, in each case, as if it were a party to
+such agreement. Vivendi shall cause the general partner of the Partnership to
+perform all of its obligations as the general partner under the Partnership
+Agreement.   SECTION 4.17. Committed LLC Shares; Committed Common Equity.
+(a) Between the date hereof and the Closing, Universal shall not, and shall
+not permit any of its Affiliates to, sell, transfer, pledge, encumber, assign
+or otherwise dispose of, or enter into any contract, option or other
+arrangement or understanding with respect to the sale, transfer, pledge,
+encumbrance, assignment or other disposition of, the Committed LLC Shares.
+Any transfer of Committed LLC Shares not permitted hereby shall be null and
+void.   (b) Following the Closing and until such time that the
+obligations in Section 8.07 of the Partnership Agreement are satisfied,
+Universal and its Affiliates shall at all times retain at least 43,181,308
+shares of USAi Common Stock and 13,430,000 shares of USAi Class B Common
+Stock (as adjusted for stock splits and the like, together, the "Committed
+Common Equity"), in each case, free of any Liens, except Permitted Liens. To
+the extent that some, but not all, of the Committed Common Equity is required
+to satisfy Universal\'s obligations under the Partnership
+Agreement,       33  Universal and its Affiliates shall satisfy such
+obligations, first out of USAi Class B Common Stock, and second out of USAi
+Common Stock.   SECTION 4.18. Partnership. (a) Universal shall ensure that
+the Partnership, when formed, is formed as a Delaware limited liability
+limited partnership, is formed for the purpose of engaging in the
+Transactions and for the other purposes set forth in the Partnership
+Agreement, and, following its formation through to the Closing, does not
+engage in any business activities or incur any liabilities, other than as
+specifically contemplated by the Transactions.   (b) Universal shall from
+time to time, directly or indirectly, contribute sufficient equity to the
+Partnership to ensure the Partnership is able to perform all of its
+obligations under Sections 8.01, 8.02 and 8.06 of the Partnership
+Agreement.   SECTION 4.19. Substitute Letters of Credit; Guarantees. As
+promptly as practicable following the date hereof, USAi shall provide to
+Universal a list of letters of credit, guarantees and any similar obligations
+of USAi and its Affiliates (other than the Contributed Subsidiaries)
+primarily related to USAi\'s Existing Business and not constituting Excluded
+Liabilities. Effective as of the Closing, Universal shall cause the
+Partnership or one of its Affiliates to procure substitute letters of credit,
+and shall cause the Partnership or one of its Affiliates to be substituted in
+all respects for any of USAi or its Affiliates (other than the Contributed
+Subsidiaries) with respect to any such matters.   SECTION 4.20. USANi Tax
+Distribution. A distribution (as calculated pursuant to Section 8.2 of the
+USANi LLC Agreement) shall be made by USANi to each Liberty Party that holds
+an interest in USANi prior to the exchanges of USANi Shares for Shares of
+USAI Common Stock contemplated by Section 2.01 of the Universal/Liberty
+Merger Agreement (the "Tax Distribution"), and the proceeds of such Tax
+Distribution shall be distributed by such Liberty Party to its shareholder,
+immediately prior to any Merger involving such Liberty Party. The amount of
+such Tax Distribution shall be calculated in the good faith judgment of USANi
+based on facts known as of the date of such Tax Distribution and such Tax
+Distribution shall be made with respect to any taxable period (or portion
+thereof) of USANi (up to and including the Closing Date) and such
+determination shall be final and binding upon the parties. For purposes of
+this Section 4.20, "Liberty Party" and "Merger" shall have the      
+34  meanings assigned to such terms by the Universal/Liberty Merger
+Agreement.   SECTION 4.21. Lease Arrangement. For a reasonable transition
+period of up to two years following the Closing (but in no event later than
+the date that executives of USAi\'s Existing Business as of the date hereof
+cease to occupy such premises), the Partnership shall be entitled to occupy
+the premises located at 8800 Sunset Boulevard, West Hollywood, California, on
+a rent-free basis.   SECTION 4.22. USA Name. The Parent Parties acknowledge
+that the USA Name shall be Contributed to the Partnership as of the Closing
+Date. Prior to the Closing the Parent Parties shall negotiate in good faith
+to determine how the ownership of the various logos and designs currently
+associated with the USA Name ("Associated IP") shall be allocated, it being
+understood that (A) USAi shall be granted a perpetual, non-exclusive royalty-
+free license to use the USA Name in connection with its other businesses and
+(B) whichever Parent Party is allocated ownership of a particular piece of
+Associated IP will grant to the other Parent Party the right to use such
+Associated IP consistently with current practice and without any significant
+economic cost to the grantee. The Parent Parties shall work cooperatively to
+provide for an orderly transition and to minimize confusion resulting from
+the use of the USA Name by the Partnership and USAi.   SECTION 4.23.
+Options and Restricted Stock. Vivendi shall use its reasonable best efforts
+to ensure that each USAi Business Employee, who holds stock options to
+acquire USAi Common Stock, whether vested or unvested, in- the-money or
+underwater (the "USAi Options") and/or USAi restricted Common Stock awards
+(the "USAi Restricted Stock", collectively with the USAi Options, the "USAi
+Equity Awards"), shall be awarded, as of the Closing Date (or, if the date of
+forfeiture of the USAi Option is 90 days or more following the Closing Date,
+as soon as reasonably practicable following the applicable forfeiture date),
+subject to the forfeiture of any USAi Equity Award, stock options, restricted
+stock or other equity-based compensation in respect of Vivendi American
+Depositary Shares representing Vivendi ordinary shares par value Euro 5.50
+per share (the "ADSs") that have a "value" that is at least equal to the
+"value" of the forfeited USAi Equity Awards (the "Vivendi Replacement
+Awards"). The Vivendi Replacement Awards shall at a minimum (a) preserve the
+intrinsic value (i.e., the "spread") of the USAi Options that are in-the-
+money (relative to the fair market value of the ADSs underlying the Vivendi
+Replacement Awards) and the fair       35  market value of the USAi
+Restricted Stock and (b) with respect to USAi Options that are underwater,
+have an exercise price such that the Vivendi Replacement Awards are not
+underwater by a greater percentage of fair market value than the underwater
+USAi Options, in all cases measured as of the date of grant of the Vivendi
+Replacement Awards. USAi represents that the maximum number of shares of USAi
+Restricted Stock held by USAi Business Employees that will be required to be
+replaced with Vivendi Replacement Awards is 57,500 shares of USAi Common
+Stock.    ARTICLE V   Conditions Precedent   SECTION 5.01. Conditions
+to Each Party\'s Obligation. The obligation of each party to consummate the
+Transactions is subject to the satisfaction on the Closing Date of the
+following conditions, any one or more of which conditions of each party may
+be waived by such party to the extent permitted by law:   (a) Other than
+such Consents, registrations, declarations or filings the failure of which to
+obtain would not have a Material Adverse Effect, all Consents of, or
+registrations, declarations or filings with, or expirations of waiting
+periods imposed by, any Governmental Entity necessary for the consummation of
+the Transactions shall have been obtained or filed or shall have
+occurred.   (b) No Applicable Law or Judgment enacted, entered,
+promulgated, enforced or issued by any Governmental Entity or other legal
+restraint or prohibition preventing the consummation of the Transactions
+shall be in effect.   (c) USAi shall have received the USAi Stockholder
+Approvals at the USAi Stockholder Meeting.   (d) The other parties shall
+have furnished such other documents relating to the corporate existence and
+the authority to consummate the Transactions of such other parties and their
+respective Affiliates, and such other matters as counsel to such party may
+reasonably request.   (e) The Transaction Documents shall have been executed
+and delivered by each other party thereto, and the USAi Share Exchanges and
+the Mergers (each as defined in the Universal/Liberty Merger Agreement) shall
+have been consummated; provided, that USAi and Universal shall not
+be       36  entitled to waive the satisfaction of the foregoing
+condition without the prior written approval of Liberty.   SECTION 5.02.
+Additional Conditions to Obligation of each Parent Party. The obligation of
+each Parent Party to consummate the Transactions is further subject to the
+satisfaction on the Closing Date of the following conditions, any one or more
+of which conditions of such Parent Party may be waived by such party to the
+extent permitted by law:   (a) Except to the extent that the failure of such
+representations and warranties to be true and correct, in the aggregate,
+would not (after giving effect to the operation of Section 2.05) have a
+Material Adverse Effect: the representations and warranties of the other
+Parent Party made in this Agreement, without regard to any materiality or
+Material Adverse Effect qualification, shall be true and correct as of the
+date hereof and, in the case of the representations and warranties set forth
+in Sections 3.01, 3.02, 3.03 (only with respect to the Organizational
+Documents of such Parent Party), 3.05, 3.08 and 3.15, as of the Effective
+Time, except to the extent such representations and warranties expressly
+relate to an earlier date (in which case such representations and warranties
+shall be true and correct as of such earlier date), and such Parent Party
+shall have received a certificate signed by an executive officer of the other
+Parent Party to such effect.   (b) The other Parent Party and its Affiliates
+shall have performed or complied in all material respects with all
+obligations and covenants required by this Agreement to be performed or
+complied with by such other Parent Party or such Affiliates by the Effective
+Time, and such Parent Party shall have received a certificate signed by an
+authorized officer of such other Parent Party to such effect.   SECTION
+5.03. Frustration of Closing Conditions. No Parent Party may rely on the
+failure of any condition set forth in this Article V to be satisfied if such
+failure was caused by (i) the action or willful inaction of such party or its
+Affiliates, (ii) the failure of any representation or warranty of such party
+qualified as to materiality to be true and correct or, those not so qualified
+to be true and correct in all material respects, or (iii) failure to use its
+reasonable best efforts to cause the Closing to occur as required by Section
+4.04.       37     ARTICLE VI   Termination   SECTION 6.01.
+Termination. (a) Notwithstanding anything to the contrary in this Agreement,
+this Agreement may be terminated and the other Transactions abandoned at any
+time prior to the Effective Time, whether before or after the USAi
+Stockholder Approvals are obtained:   (i) by mutual written consent of the
+parties hereto;   (ii) by either Parent Party if, upon a vote at a duly held
+USAi  Stockholder Meeting or any adjournment thereof, the USAi Stockholder 
+Approvals shall not have been obtained;   (iii) by either Parent Party if
+any of the conditions to such  Parent Party\'s obligations set forth in
+Article V shall have become  incapable of fulfillment, and shall not have
+been waived by such  Parent Party;   (iv) by Universal if the USAi Board or
+any committee thereof  shall have withdrawn or modified its approval or
+recommendation of  this Agreement or the Transactions; or   (v) by any
+party hereto, if the Closing does not occur on or  prior to September 30,
+2002;  provided, however, that the party seeking termination pursuant to
+clause (ii), (iii) or (v) is not in breach of any of its representations,
+warranties, covenants or agreements contained in this Agreement in any
+material respect.   (b) In the event of termination by a party pursuant to
+this Section 6.01, written notice thereof shall forthwith be given to the
+other parties, and the Transactions shall be terminated without further
+action by any party. If this Agreement is terminated as provided herein, each
+party shall return all documents and other material received from any other
+party relating to the Transactions, whether so obtained before or after the
+execution hereof.   SECTION 6.02. Effect of Termination. (a) If this
+Agreement is terminated and the Transactions are abandoned as described in
+Section 6.01, this Agreement shall       38  become null and void and
+of no further force and effect, except for the provisions of (i) Section 3.16
+relating to broker\'s and finder\'s fees, (ii) Section 4.03 relating to the
+obligation of the Parent Parties to keep confidential certain information and
+data obtained by it from the other parties, (iii) Section 4.05 relating to
+certain expenses, (iv) Section 4.07 relating to publicity, and (v) Section
+6.01 and this Section 6.02 relating to termination. Nothing in this Section
+6.02 shall be deemed to release any party from any liability for any breach
+by such party of the terms and provisions of this Agreement.   (b) If this
+Agreement is terminated pursuant to Section 6.01(a)(iv), then USAi shall
+promptly reimburse Universal and its Affiliates for all of their documented,
+out of pocket expenses incurred in connection with this Agreement and the
+other Transaction Documents, up to a limit of $15,000,000. Such reimbursement
+shall be paid upon demand following such termination.    ARTICLE VII  
+Indemnification   SECTION 7.01. Indemnification by Each Parent Party. (a)
+Vivendi shall indemnify and hold harmless (x) USAi and its Affiliates and
+their respective officers, directors, shareholders, employees,
+representatives, agents or trustees and (y) the Partnership and its
+Affiliates and their respective officers, directors, partners, employees,
+representatives, agents or trustees (clauses (x) and (y) together, the "USAi
+Indemnified Parties"), from and against any Losses (other than any Losses
+relating to Taxes, the indemnification of which is governed solely by Section
+7.02), as incurred (payable promptly upon written request), to the extent
+arising from, relating to or otherwise in respect of:   (i) any breach of
+any representation or warranty of Universal  or its Affiliates contained in
+any Transaction Document or any  certificate delivered on behalf of Universal
+pursuant to Section  5.02(a) (in each case, without regard to any materiality
+or Material  Adverse Effect qualifier contained therein);   (ii) any
+failure by Universal or its Affiliates (including for  purposes of this
+Section 7.01(a)(ii), the Partnership) to perform or  fulfill any of its
+covenants or agreements contained in any  Transaction       39    
+Document (other than Sections 8.01, 8.02 and 8.06 of the Partnership 
+Agreement);   (iii) any fees, expenses or other payments incurred or owed
+by  Universal or its Affiliates to any brokers, financial advisors or 
+comparable other persons retained or employed by it in connection  with the
+Transactions;   (iv) any Excluded Liability of Universal or its Affiliates;
+and   (v) any dissolution or winding up of the Partnership or  Bankruptcy
+(as defined in the Partnership Agreement) of the general  partner of the
+Partnership, in each case at any time while the  Preferred Interests (as
+defined in the Partnership Agreement) are  outstanding;  but only (with
+respect to items described in Section 7.01(a)(i)) to the extent the aggregate
+amount of all such Losses of all such USAi Indemnified Parties exceed $150
+million (the "Basket"), provided, however, that the Basket shall not apply to
+the representations contained in Section 3.18.   (b) USAi shall indemnify
+and hold harmless (x) Universal and its Affiliates and their respective
+officers, directors, shareholders, employees, representatives, agents or
+trustees and (y) the Partnership and its Affiliates and their respective
+officers, directors, partners, employees, representatives, agents or trustees
+(clauses (x) and (y) together, the "Universal Indemnified Parties"), from and
+against any Losses (other than any Losses relating to Taxes, the
+indemnification of which is governed solely by Section 7.02), as incurred
+(payable promptly upon written request), to the extent arising from, relating
+to or otherwise in respect of:   (i) any breach of any representation or
+warranty of USAi or its  Affiliates contained in any Transaction Document or
+any certificate  delivered on behalf of USAi pursuant to Section 5.02(a) (in
+each  case, without regard to any materiality or Material Adverse Effect 
+qualifier contained therein);   (ii) any failure by USAi or its Affiliates
+to perform or  fulfill any of its covenants or agreements contained in any 
+Transaction Document;   (iii) any fees, expenses or other payments incurred
+or owed by  USAi or its Affiliates to any brokers,       40   
+financial advisors or comparable other persons retained or employed  by it in
+connection with the Transactions; and   (iv) any Excluded Liability of USAi
+or its Affiliates;  but only (with respect to items described in Section
+7.01(b)(i)) to the extent the aggregate amount of all such Losses of all such
+Universal Indemnified Parties exceed the Basket, provided, however, that the
+Basket shall not apply to the representation contained in Section 3.18.  
+SECTION 7.02. Tax Indemnification by Each Parent Party. (a) Vivendi shall be
+liable for, and shall indemnify and hold harmless USAi, the Partnership and
+their respective Affiliates from and against, the following Taxes:   (i)
+any and all Taxes with respect to its Existing Business and  any Taxes
+attributable to its ownership of USANi Shares, in each  case for any taxable
+period ending (or deemed pursuant to Section  7.02(c) to end) on or before
+the Closing Date; and   (ii) any several liability under Treasury Regulation
+Section  1.1502-6 or under any comparable or similar provision under state, 
+local or foreign laws or regulations for periods ending on or prior  to the
+Closing Date.   (b) In addition, Vivendi shall be liable for, and shall
+indemnify and hold harmless USAi and its Affiliates from and against any Tax
+Detriment incurred by USAi or any of its Affiliates solely as a result of (i)
+the breach by Universal or any of its Affiliates of any of the covenants set
+forth in Sections 2.07, 3.01(c), 5.05(a)(i), 5.05(a)(v) or 5.05(a)(vi) of
+the Partnership Agreement or (ii) if Vivendi has elected that any covenant
+set forth in Section 5.05(b) of the Partnership Agreement shall not apply,
+any action or inaction that would constitute a breach of such covenant.  
+(c) USAi shall be liable for, and shall indemnify and hold
+harmless Universal, the Partnership and their respective Affiliates from and
+against, the following Taxes:   (i) any and all Taxes with respect to its
+Existing Business  (other than Taxes attributable to the ownership of USANi
+Shares by  Universal or any of its Affiliates) for any taxable period
+beginning  on or after February 13, 1998 (in the case of Taxes
+relating       41   to USA Cable, Studios USA or their respective
+subsidiaries) and  May 29, 1999 (in the case of Taxes relating to USA Films
+or its  subsidiaries) and ending (or deemed pursuant to Section 7.02(c) to 
+end) on or before the Closing Date; and   (ii) any several liability under
+Treasury Regulation Section  1.1502-6 or under any comparable or similar
+provision under state,  local or foreign laws or regulations for periods
+beginning on or  after February 13, 1998 (in the case of Taxes relating to
+USA Cable,  Studios USA or their respective subsidiaries) and May 29, 1999
+(in  the case of Taxes relating to USA Films or its subsidiaries) and 
+ending on or prior to the Closing Date.   (d) In addition, USAi shall be
+liable for, and shall indemnify and hold harmless Universal and its
+Affiliates from and against any Tax Detriment incurred by Universal or any of
+its Affiliates solely as a result of the breach by USAi or any of its
+Affiliates of any covenant set forth in Section 2.07 or 3.01(c) of the
+Partnership Agreement.   (e) (i) The Parent Parties agree that if any entity
+transferred  to the Partnership is permitted but not required under
+applicable  foreign, state or local Income Tax laws to treat the day before
+the  Closing Date or the Closing Date as the last day of a taxable  period,
+such day shall be treated as the last day of a taxable  period.   (ii) For
+purposes hereof, in the case of any Taxes that are  imposed on a periodic
+basis and are payable for a period that begins  before the Closing Date and
+ends after the Closing Date, the portion  of such Tax that shall be deemed to
+be payable for the portion of  the period ending on the Closing Date shall
+(i) in the case of any  Taxes, other than Taxes based upon or related to
+income or receipts,  be deemed to be the amount of such Taxes for the entire
+period (or,  in the case of such Taxes determined on an arrears basis, the
+amount  of such Taxes for the immediately preceding period), whether 
+actually paid before, during, or after such period, multiplied by a  fraction
+the numerator of which is the number of calendar days in  the period ending
+on (and including) the Closing Date and the  denominator of which is the
+number of calendar days in the entire  period, and (ii) in the case of any
+Taxes based upon or related to  income or receipts (including but not limited
+to withholding Taxes),  be deemed equal       42   to the amount
+which would be payable if the taxable year ended on  the close of business on
+the Closing Date. Any credits for such a  period shall be prorated, based
+upon the fraction employed in clause  (i) of the preceding sentence. Such
+clause (i) shall be applied with  respect to Taxes for such period relating
+to capital (including net  worth or long-term debt) or intangibles by
+reference to the level of  such items on the Closing Date. Principles similar
+to those of this  Section 7.02(c)(ii) shall be applied in determining whether
+a Tax is  for a taxable period beginning on or after February 13, 1998 or 
+May 29, 1999, as applicable.   SECTION 7.03. Refunds. (a) Universal and its
+Affiliates shall be entitled to any refunds or credits of Taxes attributable
+to or arising in taxable periods ending (or deemed pursuant to Section
+7.02(c) to end) on or before the Closing Date with respect to its Existing
+Business or its ownership of the USANi Shares, as the case may be.   (b)
+USAi and its Affiliates shall be entitled to any refunds or credits of Taxes
+attributable to or arising in taxable periods ending (or deemed pursuant to
+Section 7.02(c) to end) on or before the Closing Date with respect to its
+Existing Business (other than with respect to the USANi Shares owned by
+Universal or any of its Affiliates).   SECTION 7.04. Calculation of Losses.
+The amount of any Loss, Tax, or Tax Detriment for which indemnification is
+provided under this Article VII shall be net of any amounts actually
+recovered by the indemnified party (as defined in Section 7.06(a)) under
+insurance policies or indemnities from third parties with respect to such
+Loss, Tax, or Tax Detriment and shall be (i) increased to take account of any
+net Tax cost incurred by the indemnified party arising from the receipt of
+indemnity payments hereunder (grossed up for such increase) and (ii) reduced
+to take account of any net Tax benefit realized by the indemnified party
+arising from the incurrence or payment of any such Loss, Tax or Tax
+Detriment. In computing the amount of any such Tax cost or Tax benefit, the
+indemnified party shall be deemed to fully utilize, at the highest marginal
+Tax rate then in effect, all Tax items arising from the receipt of any
+indemnity payment hereunder or the incurrence or payment of any indemnified
+Loss, Tax or Tax Detriment.   SECTION 7.05. Termination of Indemnification.
+The obligations to indemnify and hold harmless any party (i) pursuant to
+Section 7.01(a)(i) or 7.01(b)(i), as the       43  case may be, shall
+terminate when the applicable representation or warranty terminates pursuant
+to Section 7.07, (ii) pursuant to Section 7.02, shall terminate when the
+applicable statute of limitations expires (giving effect to any waiver,
+mitigation or extension thereof) and (iii) pursuant to the other clauses of
+Sections 7.01, shall not terminate; provided, however, that such obligations
+to indemnify and hold harmless shall not terminate with respect to any item
+as to which the Person to be indemnified shall have, before the expiration of
+the applicable period, previously made a claim by delivering a notice of such
+claim (stating in reasonable detail the basis of such claim) pursuant to
+Section 7.06 to the party to be providing the indemnification.   SECTION
+7.06. Procedures; Exclusivity. (a) In order for a party (the "indemnified
+party") to be entitled to any indemnification provided for under this
+Agreement in respect of, arising out of or involving a claim made by
+any Person against the indemnified party (a "Third Party Claim"), such
+indemnified party must notify the indemnifying party in writing (and in
+reasonable detail) of the Third Party Claim promptly following receipt by
+such indemnified party of written notice of the Third Party Claim; provided,
+however, that failure to give such notification shall not affect the
+indemnification provided hereunder except to the extent the indemnifying
+party shall have been actually prejudiced as a result of such failure.
+Thereafter, the indemnified party shall deliver to the indemnifying party,
+promptly after the indemnified party\'s receipt thereof, copies of all
+notices and documents (including court papers) received by the indemnified
+party relating to the Third Party Claim.   (b) If a Third Party Claim is
+made against an indemnified party, the indemnifying party shall be entitled
+to participate in the defense thereof and, if it so chooses, to assume the
+defense thereof with counsel selected by the indemnifying party; provided,
+however, that such counsel is not reasonably objected to by the indemnified
+party. Should the indemnifying party so elect to assume the defense of a
+Third Party Claim, the indemnifying party shall not be liable to the
+indemnified party for any legal expenses incurred from and after the date of
+such assumption by the indemnified party in connection with the defense
+thereof. If the indemnifying party assumes such defense, the indemnified
+party shall have the right to participate in the defense thereof and to
+employ counsel, at its own expense, separate from the counsel employed by the
+indemnifying party, it being understood that the indemnifying party shall
+control such defense. The indemnifying party shall be       44  liable
+for the fees and expenses of counsel employed by the indemnified party for
+any period during which the indemnifying party has not assumed the
+defense thereof. If the indemnifying party chooses to defend or prosecute a
+Third Party Claim, all the indemnified parties shall cooperate in the defense
+or prosecution thereof. Such cooperation shall include the retention and
+(upon the indemnifying party\'s request and at its expense) the provision to
+the indemnifying party of records and information which are reasonably
+relevant to such Third Party Claim, and making employees available on a
+mutually convenient basis to provide additional information and explanation
+of any material provided hereunder. Whether or not the indemnifying party
+assumes the defense of a Third Party Claim, the indemnified party shall not
+admit any liability with respect to, or settle, compromise or discharge, such
+Third Party Claim without the indemnifying party\'s prior written consent
+(which consent shall not be unreasonably withheld). If the indemnifying party
+assumes the defense of a Third Party Claim, the indemnified party shall agree
+to any settlement, compromise or discharge of a Third Party Claim that
+the indemnifying party may recommend and that by its terms obligates
+the indemnifying party to pay the full amount of the liability in connection
+with such Third Party Claim (or, in the case of any Third Party Claim with
+respect to Taxes, as to which the indemnifying party acknowledges in writing
+its obligation to make payment in full), that releases the indemnified
+party completely in connection with such Third Party Claim (or, in the case
+of any Third Party Claim with respect to Taxes, as to which the indemnifying
+party acknowledges in writing its obligation to make payment in full) and
+that would not otherwise materially and adversely affect the indemnified
+party. Notwithstanding the foregoing, the indemnifying party shall not be
+entitled to assume the defense of any Third Party Claim (and shall be liable
+for the reasonable fees and expenses of counsel incurred by the indemnified
+party in defending such Third Party Claim) if the Third Party Claim seeks an
+order, injunction or other equitable relief or relief for other than money
+damages against the indemnified party that the indemnified party
+reasonably determines, after conferring with its outside counsel, cannot be
+separated from any related claim for money damages.   (c) In the event any
+indemnified party should have a claim against any indemnifying party under
+this Article VII that does not involve a Third Party Claim being asserted
+against or sought to be collected from such indemnified party, the
+indemnified party shall deliver notice of such claim with reasonable
+promptness to the indemnifying party. So long as the indemnified
+party       45  provides notification to the indemnifying party prior
+to the termination of the obligation to indemnify as set forth in Section
+7.05, the failure by any indemnified party so to notify the indemnifying
+party shall not relieve the indemnifying party from any liability that it may
+have to such indemnified party under this Article VII, except to the extent
+that the indemnifying party demonstrates that it has been actually prejudiced
+by such failure. The indemnifying party and the indemnified party shall
+proceed in good faith to negotiate a resolution of any dispute with respect
+to such a claim and, if not resolved through negotiations, such dispute shall
+be resolved by litigation in an appropriate court of competent
+jurisdiction.   (d) After the Closing, Section 7.01 shall constitute the
+exclusive remedy for any misrepresentation or breach of warranty contained in
+this Agreement.   SECTION 7.07. Survival. The representations, warranties,
+covenants and agreements contained in the Transaction Documents or in any
+certificates delivered pursuant to Section 5.02(a) shall survive the Closing
+and shall terminate on March 31, 2003, except for those contained in Section
+3.18, which shall survive until the expiration of the applicable statute of
+limitations (giving effect to any waiver, mitigation or extensions
+thereof). Notwithstanding the foregoing, those covenants or agreements that
+contemplate or may involve actions to be taken or obligations in effect after
+the Closing shall survive in accordance with their terms.    ARTICLE
+VIII   Miscellaneous   SECTION 8.01. Approval of Transactions. By
+execution of this Agreement, each of the parties hereto approves and
+consents, in each case on its own behalf and on behalf of its Affiliates, to
+the Transactions (including in respect of any transaction to be taken after
+the Closing in respect of USAi Shares under Section 8.07 of the Partnership
+Agreement) and the actions necessary to be taken by USAi, USANi and their
+respective Affiliates in connection therewith, for all purposes under the
+Investment Agreement, the Governance Agreement, the Stockholders Agreement
+and the USANi LLC Agreement and all other agreements to which it or its
+Affiliates is a party that provides the right to consent to USAi\'s entering
+into the Transactions. Each of Diller, Universal and Liberty hereby waives
+any right of first refusal or tag along right and any restriction on
+Transfer       46  (as defined in the Stockholders Agreement) relating
+to the Transactions; provided that (x) Liberty will be entitled to exercise
+its preemptive rights in accordance with the Governance Agreement with
+respect to the Warrants to be issued to Universal pursuant to this Agreement
+and (y) nothing herein shall be deemed to constitute a waiver or consent of
+Diller or Liberty of his or its rights under the Stockholders Agreement or
+the Governance Agreement with respect to transactions relating to Transfers
+of USAi Shares occurring after the Closing Date (other than delivery by
+Universal or its Affiliates of USAi Shares in accordance with Section 8.07 of
+the Partnership Agreement).   SECTION 8.02. Notices. All notices, requests
+and other communications to any party under this Agreement shall be in
+writing (including a facsimile or similar writing) and shall be given to a
+party hereto at the address or facsimile number set forth for such party on
+Schedule 8.02 or as such party shall at any time otherwise specify by notice
+to each of the other parties to such agreement or instrument. Each such
+notice, request or other communication shall be effective (i) if given by
+facsimile, at the time such facsimile is transmitted and the appropriate
+confirmation is received (or, if such time is not during a Business Day, at
+the beginning of the next such Business Day), (ii) if given by mail, five
+Business Days (or, if to an address outside the United States, ten calendar
+days) after such communication is deposited in the United States mails with
+first-class postage prepaid, addressed as aforesaid, or (iii) if given by any
+other means, when delivered at the address specified pursuant hereto.  
+SECTION 8.03. No Third Party Beneficiaries. The terms of this Agreement are
+not intended to confer any rights or remedies hereunder upon, and shall not
+be enforceable by, any Person other than the parties hereto, other than (i)
+with respect to the provisions of Article VII hereof, each indemnified person
+and (ii) with respect to Section 4.13, the Partnership.   SECTION 8.04.
+Waiver. No failure by any party to this Agreement to insist upon the strict
+performance of any covenant, agreement, term or condition hereof or to
+exercise any right or remedy consequent upon a breach of such or any other
+covenant, agreement, term or condition shall operate as a waiver of such or
+any other covenant, agreement, term or condition of this Agreement. Any party
+to this Agreement, by notice given in accordance with Section 8.02, may, but
+shall not be under any obligation to, waive any of its rights or conditions
+to its obligations under this Agreement, or any duty, obligation or covenant
+of any other       47  party hereto. No waiver shall affect or alter
+the remainder of this Agreement and each and every covenant, agreement, term
+and condition hereof shall continue in full force and effect with respect to
+any other then existing or subsequent breach. Subject to Section 7.06(d), the
+rights and remedies provided by this Agreement are cumulative and the
+exercise of any one right or remedy by any party shall not preclude or waive
+its right to exercise any or all other rights or remedies.   SECTION 8.05.
+Assignment. Neither this Agreement nor any of the rights, interests or
+obligations hereunder shall be assigned by any of the parties hereto without
+the prior written consent of the other parties. Subject to the preceding
+sentence, this Agreement shall be binding upon, inure to the benefit of and
+be enforceable by the parties and their respective successors and
+assigns.   SECTION 8.06. Integration. This Agreement and the other
+Transaction Documents (including the schedules and exhibits hereto and
+thereto) constitute the entire agreement among the parties hereto pertaining
+to the subject matter hereof and supersede all prior agreements and
+understandings of the parties in connection herewith, and no covenant,
+representation or condition not expressed in such Transaction Documents shall
+affect, or be effective to interpret, change or restrict, the express
+provisions of this Agreement.   SECTION 8.07. Headings. The titles of
+Articles and Sections of this Agreement are for convenience only and shall
+not be interpreted to limit or otherwise affect the provisions of this
+Agreement.   SECTION 8.08. Counterparts. This Agreement may be executed by
+the parties hereto in multiple counterparts, each of which shall be deemed
+an original and all of which, taken together, shall constitute one and the
+same instrument.   SECTION 8.09. Severability. Each provision of this
+Agreement shall be considered separable and if for any reason any provision
+or provisions hereof are determined to be invalid and contrary to any
+applicable law, such invalidity shall not impair the operation of or affect
+those portions of this Agreement which are valid.   SECTION 8.10. Governing
+Law. This Agreement shall be governed by and construed in accordance with the
+laws of the State of Delaware without giving effect to the conflicts of law
+principles thereof.       48   SECTION 8.11. Jurisdiction. Each party
+to this Agreement irrevocably submits to the jurisdiction of (i) the courts
+of the State of Delaware, New Castle County, and (ii) the United States
+District Court for the District of Delaware, for the purposes of any suit,
+action or other proceeding (other than suits, actions or other proceedings
+arising solely out of the Universal/Liberty Merger Agreement) arising out of
+this Agreement or the Transactions. Each party agrees to commence any such
+action, suit or proceeding either in the courts of the State of Delaware, New
+Castle County or if such suit, action or other proceeding may not be brought
+in such court for jurisdictional reasons, in the District Court for the
+District of Delaware. Each party further agrees that service of any process,
+summons, notice or document by U.S. registered mail to such party\'s
+respective address in accordance with Section 8.02 shall be effective service
+of process for any action, suit or proceeding in Delaware with respect to any
+matters to which it has submitted to jurisdiction in this Section 8.11. Each
+party irrevocably and unconditionally waives any objection to the laying of
+venue of any action, suit or proceeding arising out of this Agreement or the
+Transactions in (i) the courts of the State of Delaware, New Castle, or (ii)
+the United States District Court for the District of Delaware, and hereby
+further irrevocably and unconditionally waives and agrees not to plead or
+claim in any such court that any such action, suit or proceeding brought in
+any such court has been brought in an inconvenient forum.   SECTION 8.12.
+Specific Performance. Each of the parties to this Agreement agrees that the
+other parties hereto would be irreparably damaged if any of the provisions of
+this Agreement are not performed in accordance with its specific terms and
+that monetary damages would not provide an adequate remedy in such event.
+Accordingly, in addition to any other remedy to which the nonbreaching
+parties may be entitled, at law or in equity, the nonbreaching parties (or
+the Partnership, in the case of Section 4.13) may be entitled to injunctive
+relief to prevent breaches of this Agreement and to specifically enforce the
+terms and provisions hereof.   SECTION 8.13. Amendments. This Agreement may
+be amended by an instrument in writing signed on behalf of each of the
+parties hereto at any time before or after receipt of the USAi Stockholder
+Approvals, provided, however, that after any such approval, there shall be
+made no amendment that by law requires further approval by such stockholders
+without the further approval of such stockholders.       49   SECTION
+8.14. Interpretation. References in this Agreement to Articles, Sections,
+Annexes, Exhibits and Schedules shall be deemed to be references to Articles
+and Sections of, and Annexes, Exhibits and Schedules to, this Agreement
+unless the context shall otherwise require. References to Schedules shall be
+deemed to be references to the respective Schedules of USAi and Universal, as
+applicable. All Annexes, Exhibits and Schedules attached to this Agreement
+shall be deemed incorporated therein as if set forth in full therein. The
+words "include", "includes" and "including" shall be deemed to be followed by
+the phrase "without limitation". The words "hereof", "herein" and "hereunder"
+and words of similar import when used in this Agreement shall refer to this
+Agreement as a whole and not to any particular provision of such agreement or
+instrument.       50   IN WITNESS WHEREOF, this Agreement has been
+duly executed by the parties as of the day and year first above
+written.    VIVENDI UNIVERSAL, S.A.,   By /s/ Jean-Marie Messier 
+------------------------------  Name: Jean-Marie Messier  Title: Chairman
+and Chief  Executive Officer    UNIVERSAL STUDIOS, INC.,   By /s/
+Guillaume Hannezo  ------------------------------  Name: Guillaume Hannezo 
+Title: Special Power of  Attorney    USA NETWORKS, INC.,   By /s/ Julius
+Genachowski  ------------------------------  Name: Julius Genachowski 
+Title: Senior Vice President  and General Counsel    USANi LLC,   By /s/
+Julius Genachowski  ------------------------------  Name: Julius
+Genachowski  Title: Senior Vice President  and General Counsel    LIBERTY
+MEDIA CORPORATION,   By /s/ Robert R. Bennett 
+------------------------------  Name: Robert R. Bennett  Title:
+President       51   Only for purposes of Sections  2.03(iv),
+2.03(v), 2.03(vii), 2.07,  4.10(d) and 8.01 only:   BARRY DILLER,   /s/
+Barry Diller  -------------------------------       ANNEX A    The
+terms defined below have the meanings set forth below for all purposes of
+this Agreement, and such meanings shall apply equally to both the singular
+and plural forms of the terms defined. Whenever the context may require, any
+pronoun shall include the corresponding masculine, feminine and neuter
+forms.   "Affiliate" of any specified Person means any other Person
+directly or indirectly controlling, controlled by or under direct or indirect
+common control with such specified Person. For purposes of the foregoing, (i)
+USANi and its Affiliates shall be deemed to be Affiliates of USAi, (ii) none
+of USAi, USANi or any of their respective Affiliates shall be deemed to be
+an Affiliate of Universal, (iii) none of Diller, Universal, Liberty or any
+of their respective Affiliates shall be deemed to be an Affiliate of USAi
+and (iv) none of USAi or Universal or any of their respective Affiliates
+shall be deemed to be an Affiliate of the Partnership.   "Ancillary
+Distribution Agreements" shall mean the Home Video Distribution Agreement,
+the Other Business Rights Agreement and the Music Administration
+Agreement.   "Applicable Law" shall have the meaning set forth in Section
+3.03.   "Balance Sheet" shall have the meaning set forth in Section
+3.06(b).   "Basket" shall have the meaning set forth in Section 7.01(a).  
+"Business" means the operation, programming or delivery of any general or
+genre-based entertainment television channel (irrespective of how such
+channel is delivered to the customer, including delivery by cable, satellite,
+the internet or other technologies), the production and distribution of
+entertainment television programming and feature films and any other business
+to be Contributed to the Partnership as of the Closing Date, including any
+reasonably foreseeable entertainment-focused extensions of such businesses
+after such date that are programming or film-oriented, other than in a
+transactional context. The term "Business" shall not include (i) televi sion
+channels (irrespective of how such channel is delivered to the
+customer, including delivery by cable, satellite, the internet or other
+technologies) which are consumer transaction-oriented, such as Home Shopping
+Network, America\'s Store and USAi\'s planned travel network or which
+provide informational services which lend themselves to      
+2  commerce (such as Travel Channel, Home and Garden Television, the Food
+Network, and Do It Yourself) or which otherwise serve as a means of
+introducing, starting or promoting transactional services, including
+transaction-oriented television channels whose primary focus is the provision
+of electronic retailing, auction services or gaming/gambling services or (ii)
+electronic commerce and retailing, information and services.   "Business
+Day" means any day other than a Saturday, a Sunday or a United States Federal
+holiday.   "CEO" means chief executive officer.   "Closing" and "Closing
+Date" shall have the meanings set forth in Section 2.06.   "Code" means the
+Internal Revenue Code of 1986, as amended.   "Committed LLC Shares" shall
+have the meaning set forth in Section 2.02.   "Consent" shall have the
+meaning set forth in Section 3.03.   "Contracts" means all contracts,
+agreements, commitments and other legally binding arrangements, whether oral
+or written.   "Contribute" means to contribute, assign, transfer, convey
+and deliver, and "Contributing" and "Contributed" shall have correlative
+meanings.   "Contributed Assets" means, with respect to any Parent Party,
+all the business, properties, assets, goodwill and rights of such Parent
+Party and its Affiliates of whatever kind and nature, real or personal,
+tangible or intangible, that are owned, leased or licensed by such Parent
+Party or its Affiliates immediately prior to the Effective Time and used,
+held for use or intended to be used primarily in the operation or conduct of
+its Existing Business, other than Excluded Assets, including (i) Real
+Property, (ii) tangible personal property and interests therein, including
+machinery, equipment, furniture and vehicles, (iii) Inventory, (iv) Licenses,
+(v) Investments, (vi) accounts receivable on the Closing Date arising out of
+the operation or conduct of its Existing Business, (vii) Intangible
+Property, (viii) Contracts, (ix) credits, prepaid expenses, deferred charges,
+advance payments, security deposits and other prepaid items, (x)
+rights,       3  claims and credits to the extent relating to any
+other Contributed Asset or Contributed Liability, including such items
+arising under insurance policies and all guarantees, warranties, indemnities
+and similar rights in favor of such Parent Party or its Affiliates in respect
+of any other Contributed Asset or Contributed Liability, (xi) Records, (xii)
+goodwill generated by or associated with its Existing Business and (xiii) in
+the case of USAi, the USA Name.   "Contributed Liabilities" means with
+respect to any Parent Party, (i) the liabilities, obligations and commitments
+contained in the Contracts primarily relating to such Parent Party\'s
+Existing Business, (ii) all accounts payable of such Parent Party and its
+Affiliates arising primarily out of the operation or conduct of its Existing
+Business prior to the Closing and (iii) all other liabilities, obligations
+and commitments of such Parent Party or its Affiliates of any nature whether
+known or unknown, absolute, accrued, contingent or otherwise and whether due
+or to become due, arising primarily out of the operation or conduct of its
+Existing Business before, on or after the Closing Date.   "Contributed
+Subsidiaries" means, with respect to USAi only, (i) New-U Studios Inc., (ii)
+Studios USA, (iii) Tier One Subsidiary, Inc., (iv) USA Cable, (v) USA Films,
+(vi) USA Networks Partner LLC and (vii) USA Television Production Group
+LLC.   "Diller" shall have the meaning set forth in the Preamble.  
+"Distribution Agreements" means the Domestic Television
+Distribution Agreement and the International Television Distribution
+Agreement.   "DGCL" means the Delaware General Corporation Law, as amended
+from time to time.   "Domestic Television Distribution Agreement" means the
+Domestic Television Distribution Agreement, dated as of February 12, 1998, by
+and between USAi and Universal.   "Effective Time" means the time at which
+the Closing shall have occurred.   "Exchange Agreement" means the Exchange
+Agreement dated as of October 19, 1997, by and among USAi, Universal, for
+itself and on behalf of certain of its subsidiaries and Liberty, for itself
+and on behalf of certain of its subsidiaries.       4     "Excluded
+Assets" means, with respect to any Parent Party, (i) all rights of such
+Parent Party under the Transaction Documents, (ii) all Records prepared for
+the purpose of the Transactions, (iii) all financial and tax records relating
+to such Parent Party\'s Existing Business that form part of its general
+ledger and (iv) all rights, claims and credits of such Parent Party and its
+Affiliates to the extent relating to any Excluded Asset or Excluded
+Liability, including such items arising under insurance policies and all
+guarantees, warranties, indemnities and similar rights in favor of
+such Parent Party or its Affiliates in respect of any other Excluded Asset
+or Excluded Liability. For the avoidance of doubt, with respect to USAi,
+the Excluded Assets shall include any and all outstanding obligations to
+USAi pursuant to the Non- Negotiable Promissory Note, dated May 28, 1999,
+between Universal Studios Holding I Corp., as borrower and USAi, as lender,
+in the principal amount of $200 million.   "Excluded Liability" means, with
+respect to any Parent Party, any (i) liability, obligation or commitment of
+such Parent Party that is not a Contributed Liability, (ii) any liability,
+commitment or obligation of an entity this is being Contributed to the
+Partnership to guarantee, indemnify or otherwise be liable for any obligation
+of USAi, Universal or any of their respective Affiliates that are not being
+Contributed to the Partnership or (iii) any liability, obligation or
+commitment under (A) the Warrant Agreements dated as of March 2, 1992 between
+Savoy Pictures and Allen and Co. or (B) the Warrant Agreement dated as of April
+20, 1994, by and between Savoy Pictures Entertainment Inc., GkH Partners,
+L.P. and GkH Private Limited.   "Existing Business" means, (i) with respect
+to Universal, the filmed entertainment, television and recreation businesses
+of Universal Studios, Inc., Centenary Holding N.V., and Universal Pictures
+International B.V. (excluding, for the avoidance of doubt all Universal Music
+Group and VU-Net businesses) in each case as conducted by such entities
+immediately prior to the Effective Time, and (ii) with respect to USAi, the
+programming, television distribution, cable networks and film businesses as
+conducted by USAi and its Affiliates immediately prior to the Effective Time
+(including, for the avoidance of doubt, USA Cable, USA Films and Studios
+USA), other than the business described in the second sentence of the
+definition of "Business".   "Expedia Agreement" means the Amended and
+Restated Agreement and Plan of Recapitalization and Merger by and among USAi,
+Expedia, Inc., Taipei, Inc., Microsoft       5  Corporation and
+Microsoft E-Holdings, Inc., dated as of July 15, 2001.   "Governance
+Agreement" means (i) with respect to periods prior to the Closing Date, the
+Governance Agreement among Universal, USAi, Liberty and Diller dated as of
+October 19, 1997 and (ii) with respect to periods on or after the Closing
+Date, the Amended and Restated Governance Agreement dated as of December 16,
+2001, among USAi, Universal, Liberty, Diller and Vivendi.   "Governmental
+Entity" shall have the meaning set forth in Section 3.03.   "Home Video
+Distribution Agreement" means the Home Video Distribution Agreement, dated as
+of February 12, 1998, between USAi and Universal Studies Home Video, Inc.  
+"Income Tax" means all Taxes based on or measured by net income.  
+"indemnified party" shall have the meaning set forth in Section 7.06(a).  
+"Intangible Property" means, with respect to an Existing Business, (i) any
+intellectual property asset of such Existing Business (other than
+such property licensed to such Existing Business), with a value, as reflected
+on such party\'s balance sheet, of $10 million or more and (ii) all
+material patents, trademarks, trade names, service marks, brand marks, brand
+names, proprietary computer programs, proprietary databases, industrial
+design, copyrights or any pending application therefor.   "International
+Television Distribution Agreement" means the International Television
+Distribution Agreement, dated as of February 12, 1998, by and between USAi
+and Universal.   "Inventory" means raw materials, work-in-process, finished
+goods, supplies, parts, spare parts and other inventories.   "Investment
+Agreement" means the Investment Agreement dated as of October 19, 1997, as
+amended and restated as of December 18, 1997, among, Universal, for itself
+and on behalf of certain of its subsidiaries, USAi, HSN, Inc. and Liberty,
+for itself and on behalf of certain of its subsidiaries.       6    
+"Investments" means partnership interests and any other equity interest in
+any corporation, company, limited liability company, partnership, joint
+venture, trust or other business association, including the
+Contributed Subsidiaries.   "Judgment" shall have the meaning set forth in
+Section 3.03.   "Liberty" shall have the meaning set forth in the
+Preamble.   "Liberty Exchange Agreement" means the Exchange Agreement dated
+as of December 20, 1996 by and between Silver King Communications, Inc.
+and Liberty HSN, Inc.   "Licenses" means all licenses, permits,
+construction permits, registrations, and other authorizations issued by any
+Governmental Entity for use in connection with the conduct of the business or
+operations of the relevant business, and all applications therefor, together
+with any renewals, extensions, modifications, or additions thereto between
+the date of this Agreement and the Closing Date.   "Lien" means any pledge,
+encumbrance, security interest, purchase option, call or similar right.  
+"Loss" means any loss, liability, claim, damage or expense (including
+reasonable legal fees and expenses).   "Material Adverse Effect" means, with
+respect to any applicable representation or warranty of a Parent Party, a
+material adverse effect on (x) the business, assets, financial condition or
+results of operations of such Parent Party\'s Existing Business or (y) such
+Parent Party\'s and its Affiliates\' ability to perform their obligations
+under any Transaction Document to which it is, or is specified to be, a party
+as of the date hereof, other than any such effect arising our of or resulting
+from general economic conditions, or from changes in or generally affecting
+the industries in which such Parent Party\'s Existing Business operates, or
+as a result of the September 11, 2001 terrorist attacks, their aftermath or
+any similar events.   "Material Contracts" means Contracts of USAi\'s
+Existing Business as of the date hereof which (i) at the time entered into,
+were outside the ordinary course of business as then conducted by such
+Existing Business, or (ii) are (A) cable television system affiliation
+agreements covering one million or more subscribers (in any
+individual       7  case) providing for payments to and from cable
+television system operators in excess of $1 million in any twelve-month
+period, (B) Contracts (other than with writer producers) with respect to the
+production, development, broadcast or distribution, of television programs
+with respect to which such Existing Business has a commitment to pay in
+excess of $10 million, (C) agreements with writer producers with respect to
+which such Existing Business has a commitment to pay in excess of $2 million
+per year, or (D) agreements to buy or sell advertising where the required
+payments to or from such Existing Business are in excess of $10 million.  
+"Material Real Property" means all of the Real Property attributed to USAi\'s
+Existing Business, providing individually for annual lease payments in excess
+of $3 million.   "Music Administration Agreement" means the Music
+Administration Agreement, dated as of February 12, 1998, between USAi and MCA
+Music Publishing.   "Organizational Documents" means, with respect to any
+Person at any time, such Person\'s certificate or articles of incorporation,
+corporate statutes, by-laws, memorandum and articles of association,
+certificate of formation of limited liability company, limited liability
+company agreement, and other similar organizational or constituent documents,
+as applicable, in effect at such time.   "Other Business Rights Agreement"
+means the Other Business Rights Agreement, dated as of February 12, 1998,
+between USAi and Universal.   "Parent Party" means each or any of Universal
+and USAi.   "Partnership" means the Delaware limited liability
+limited partnership to be formed pursuant to the Partnership Agreement.  
+"Partnership Agreement" means the Partnership Agreement, dated as of the
+Closing Date, by and between USAi, USAi Sub, Universal and Diller
+in substantially the form of Exhibit A hereto.   "Permitted Liens" shall
+mean, collectively, (i) all statutory or other liens for taxes or assessments
+which are not yet due or the validity of which is being contested in good
+faith by appropriate proceedings, (ii) all mechanics\', material men\'s,
+carriers\', workers\' and       8  repairers\' liens, and other
+similar liens imposed by law, incurred in the ordinary course of business,
+which allege unpaid amounts that are less than 30 days delinquent or which
+are being contested in good faith by appropriate proceedings, and (iii) all
+other Liens which do not materially detract from or materially interfere with
+the marketability, value or present use of the asset subject thereto or
+affected thereby.   "Person" means any individual, firm, corporation,
+partnership, limited liability company, trust, joint venture, governmental
+authority or other entity.   "Proceedings" shall have the meaning set forth
+in Section 3.14.   "Proxy Statement" means the proxy or information
+statement relating to the approval and authorization of the Transactions by
+the stockholders of USAi.   "Real Property" means real estate and buildings
+and other improvements thereon and leases and leasehold interests,
+leasehold improvements, fixtures and trade fixtures.   "Records" means
+books of account, ledgers, general financial, accounting, tax and personnel
+records, files, invoices, customers\' and suppliers\' lists, other
+distribution lists, billing records, sales and promotional literature,
+manuals, and customer and supplier correspondence (in all cases, in any form
+or medium).   "Reference Date" is defined in Section 2.04(i)(B).  
+"Returns" means returns, reports and forms required to be filed with any
+domestic or foreign taxing authority.   "SEC" means the United States
+Securities and Exchange Commission.   "SEC Reports" means, (i) with respect
+to USAi, the annual report of USAi on Form 10-K and (ii) with respect to
+Universal, the annual report of Vivendi on Form 20-F, in each case, in
+respect of the fiscal year ended December 31, 2000, and each report,
+schedule, proxy, information statement or registration statement (including
+all exhibits and schedules thereto and documents incorporated by reference
+therein) filed by USAi or Vivendi, as applicable, with the SEC following
+December 31, 2000, and on or before the date of this Agreement.      
+9   "Special Committee" shall have the meaning set forth in Section
+3.02.   "Stockholders Agreement" means (i) with respect to periods prior
+to the Closing Date, the Stockholders Agreement among Universal, Liberty,
+Diller, USAi and The Seagram Company Limited dated as of October 19, 1997 and
+(ii) with respect to periods on or after the Closing Date, the Amended and
+Restated Stockholders Agreement dated as of December 16, 2001 among
+Universal, Liberty, Diller, USAi and Vivendi.   "Studios USA" means Studios
+USA LLC.   "Tax Detriment" means, with respect to any Taxes incurred as
+a result of the recognition of income or gain by an indemnified party in
+a taxable period(s) earlier than the taxable period(s) in which such income
+or gain would otherwise have been recognized by such party solely as a result
+of an action or inaction by an indemnifying party, the excess, if any, of (i)
+the net present value of such Taxes incurred by the indemnified party in
+such earlier taxable period(s) over (ii) the net present value of the Taxes
+that would otherwise have been incurred in such later taxable period,
+assuming (i) a discount rate equal to USAi\'s borrowing rate in effect as of
+the time such net present values are calculated and (ii) that for all taxable
+years, the indemnified party is fully taxable at the highest applicable
+marginal U.S. federal income tax rate and the highest applicable marginal
+income and franchise tax rates of the state, local and foreign jurisdictions
+in which the Partnership or any of its subsidiaries conducts business
+(assuming full deductibility of state and local taxes, and full credit
+ability and deductibility of foreign taxes, for U.S. federal (and if
+applicable state and local) income tax purposes).   "Taxes" means (i) all
+taxes (whether federal, state, local or foreign) based upon or measured by
+income and any other tax whatsoever, including gross receipts, profits,
+sales, use, occupation, value added, ad valorem, transfer, franchise,
+withholding, payroll, employment, excise, or property taxes, together with
+any interest or penalties imposed with respect thereto and (ii) any
+obligations under any agreements or arrangements with respect to any Taxes
+described in clause (i) above.   "Taxing Authority" means any government
+authority having jurisdiction over the assessment, determination, collection
+or other imposition of Tax.       10   "Third Party Claim" shall have
+the meaning set forth in Section 7.06(a).    "Transaction Affiliates"
+means, (i) with respect to USAi, the Contributed Subsidiaries, USANi and
+USANi Sub, and (ii) with respect to Universal, Vivendi.   "Transaction
+Documents" means this Agreement, the Partnership Agreement, the Warrant
+Agreement, the Universal/Liberty Merger Agreement, the Stockholders Agreement
+and the Governance Agreement, collectively.   "Transactions" means the
+transactions contemplated by the Transaction Documents.   "Transfer Tax"
+shall have the meaning set forth in Section 4.05(b).   "Universal" shall
+have the meaning set forth in the Preamble.   "Universal Contributed
+Interests" means such entity or entities that, as of the Effective Time, will
+own all of Universal\'s Contributed Assets.   "Universal/Liberty Merger
+Agreement" means the Agreement and Plan of Merger and Exchange, among
+Vivendi, Universal, Light France Acquisition 1, S.A.S., the merger
+subsidiaries listed on the signature page thereto, Liberty Media Corporation,
+Liberty Programming Company LLC, Liberty Programming France, Inc. and the
+Liberty holding entities listed on the signature page thereto, dated as of
+December 16, 2001.   "USA Cable" means the cable network business of USAi
+and its Affiliates, including the USA Cable Network, the S-F Cable Network,
+Trio, Newsworld International and Crime Channel.   "USA Films" means USA
+Films LLC.   "USA Name" means "USA Networks", including the presentation of
+words on the cable network and promotional materials.   "USAi" shall have
+the meaning set forth in the Preamble.   "USAi Benefit Arrangements" shall
+have the meaning set forth in Section 3.19(a).       11     "USAi
+Board" means the board of directors of USAi.   "USAi Business Employees"
+shall have the meaning set forth in Section 3.19(a).   "USAi Class B Common
+Stock" shall have the meaning set forth in Section 3.04(a).   "USAi Common
+Equity" means USAi Common Stock and USAi Class B Common Stock.   "USAi
+Common Stock" means the common stock, par value $.01 per share, of USAi.  
+"USAi Pension Plans" shall have the meaning set forth in Section 3.19(b).  
+"USAi Preferred Stock" shall have the meaning set forth in
+Section 3.04(a).   "USAi SEC Documents" shall have the meaning set forth in
+Section 3.06(a).   "USAi Shares" shall have the meaning set forth in
+Section 3.04(a).   "USAi Stockholder Approvals" means (i) the authorization
+of the Transactions at an annual or special meeting by the affirmative vote
+of at least 66 2/3% of the outstanding voting stock, by voting power and by
+number of shares, which is not owned by Universal, Liberty or Diller or
+their respective Affiliates and (ii) the approval of the Transactions at an
+annual or special meeting by a majority of the votes cast by the shareholders
+of USAi pursuant to Rule 4350 of the National Association of Securities
+Dealers, Inc.   "USAi Stockholders Meeting" shall have the meaning set forth
+in Section 4.10(b).   "USANi" shall have the meaning set forth in the
+Preamble.   "USANi Contributed Interests" means (i) an 83.48% membership
+interest in USA Networks Partner LLC held by USANi Sub, (ii) 100% of the
+stock of Tier One Subsidiary, Inc., which is held by New-U Studios, Inc.
+(iii) 100% of the capital stock of New-U Studios Inc., which is held by New-U
+Studios Holdings, Inc., (iv) a 42.48% membership interest in Studios USA held
+by USANi Sub, (v) a 0.3% membership interest in Studios USA held by New-U
+Studios Inc., (vi) a 1% membership interest in USA Networks Partner LLC held
+by Tier One Subsidiary, Inc. and (vi) a 100%       12  membership
+interest in USA Television Production Group LLC held by USANi Sub.   "USANi
+Distributed Interests" means the USANi Universal Distributed Interests and
+the USANi Liberty Distributed Interests.   "USANi Liberty Distributed
+Interests" means a 15.52% membership interest in USA Networks Partner LLC
+held by USANi Sub.   "USANi Universal Distributed Interests" means (i) USANi
+Sub\'s 50% partnership interest in USA Cable, and (ii) a 57.22% membership
+interest in Studios USA held by USANi Sub.   "USANi Shares" means the
+shares representing a proportionate interest in the capital and profits and
+losses of USANi.   "USANi Sub" means USANi Sub LLC, a Delaware limited
+liability company.   "USANi LLC Agreement" means the Amended and Restated
+Limited Liability Company Agreement of USANi LLC dated as of February 12,
+1998.   "Vivendi" shall have the meaning set forth in the Preamble.  
+"Warrant Agreement" means the Equity Warrant Agreement between USAi and The
+Bank of New York substantially in the form of Exhibit B hereto.   "Warrants"
+means the warrants to purchase USAi Common Stock on the terms set forth in
+the Warrant Agreement.     '
+

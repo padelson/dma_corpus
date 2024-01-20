@@ -1,0 +1,1752 @@
+   Exhibit 10.1   AMENDED AND RESTATED
+CORPORATE AGREEMENT   THIS AMENDED AND RESTATED CORPORATE AGREEMENT
+(the "Agreement") is entered into as of June 9, 2002 by and between REUTERS
+LIMITED, a company organized under the laws of England and Wales ("Reuters"),
+and INSTINET GROUP INCORPORATED, a Delaware corporation ("Instinet").  
+RECITALS   WHEREAS, Reuters and Instinet have entered into the
+Corporate Agreement, dated as of May 17, 2001 (the "Existing Corporate
+Agreement").   WHEREAS, Instinet, Island Holding Company, Inc., a
+Delaware corporation ("Island") and Daiquiri Merger Corporation, a Delaware
+corporation and a wholly-owned subsidiary of Instinet, have entered into an
+Agreement and Plan of Merger, dated as of the date hereof (as it may be
+amended, supplemented or otherwise modified from time to time, the "Merger
+Agreement").   WHEREAS, Instinet, Reuters, Reuters C Corp., Reuters
+Holdings Switzerland SA, the Island Stockholders and Edward Nicoll have
+entered into the Island Stockholders Agreement in connection with the
+transactions contemplated by the Merger Agreement.   WHEREAS, the Merger
+Agreement contemplates that Instinet, Reuters (and/or one or more of its
+Affiliates), the Island Stockholders, Finanzas B.V. and certain additional
+stockholders of Instinet, if any, party thereto will enter into a
+registration rights agreement (the "Registration Rights Agreement") setting
+forth certain registration rights with respect to securities of Instinet held
+or to be held by the parties thereto, such registration rights to supercede
+the registration rights granted to Reuters under this Agreement for so long
+as the Registration Rights Agreement is in effect.   WHEREAS, Reuters and
+Instinet desire to enter into this amendment and restatement of the Existing
+Corporate Agreement in connection with the transactions contemplated by the
+Merger Agreement, as an inducement to the entry by Island into the Merger
+Agreement and to the entry by the Island Stockholders into the Island
+Stockholders Agreement and in order to redefine their agreement regarding
+certain corporate governance matters, certain registration rights with
+respect to the Registrable Securities and certain other matters with respect
+to the on-going relationship between Instinet and Reuters.   AGREEMENTS  
+NOW, THEREFORE, for good and valuable consideration, the receipt and
+sufficiency of which are hereby acknowledged, Reuters and Instinet, for
+themselves and their successors and assigns, hereby agree as
+follows:  ARTICLE I  DEFINITIONS   1.1. Definitions. As used in this
+Agreement, the following terms will have the following meanings, applicable
+both to the singular and the plural forms of the terms described:  
+"Affiliate" means, with respect to a given Person, any other Person that,
+directly or indirectly, controls, is controlled by, or is under common
+control with, such Person. For purposes of this definition,
+"control" (including, with correlative meanings, the terms "controlled by"
+and "under common control with"), as applied to any Person, means the
+possession, directly or indirectly, of the power to vote forty percent (40%)
+or more of the securities having voting power for the election of directors
+(or other Persons acting in similar capacities) of such Person or otherwise
+to direct or cause the direction of the management and policies of such
+Person, whether through the ownership of voting securities, by contract or
+otherwise.   "Affiliated Reuters Directors" means at any applicable
+time, those members of the Board of Directors who then fail to qualify as
+Nasdaq Independent Directors due to their relationship with a Reuters
+Entity.   "Agreement" has the meaning ascribed thereto in the
+preamble hereto, as such agreement may be amended and supplemented from time
+to time in accordance with its terms.   "Announcement Date" shall mean,
+with respect to any action, event or transaction described in Section 2.4,
+the earliest to occur of the taking of such action, occurrence of such event
+or final agreement on the terms of any such transaction (as applicable).  
+"Board of Directors" means the board of directors of Instinet.   "Business
+Day" means any day other than a Saturday, Sunday or any day on which banking
+institutions are authorized or obligated by law or executive order to be
+closed in London or New York.   "Cash Equivalents" means (i) United States
+dollars, Japanese Yen, Euros and British Pounds Sterling (and foreign
+currency exchangeable into such currencies within 30 days), (ii) securities
+issued or directly and fully guaranteed or insured by the United States
+government or any agency or instrumentality thereof (provided that the full
+faith and credit of the United States is pledged in support thereof) having
+maturities of not more than thirty-six months from the date of acquisition,
+(iii) certificates of deposit and eurodollar time deposits with maturities of
+twelve months or less from the date of acquisition, bankers\' acceptances
+with maturities not exceeding twelve months and overnight bank deposits, in
+each case with any domestic commercial bank having a long term credit rating
+of A3 or higher from Moody\'s Investors Service, Inc. or A- or higher from
+Standard and Poor\'s Corporation, (iv) repurchase obligations with a term of
+not more than seven days for underlying securities of the types described in
+clauses (ii) and (iii) above entered into with any financial institution
+meeting the qualifications specified in clause (iii) above and (v) commercial
+paper or similar short term securities having one of the two highest ratings
+obtainable from Moody\'s Investors Service, Inc. or Standard and Poor\'s
+Corporation and in each case maturing within twelve months after the date of
+acquisition.   "Common Stock" means the common stock, par value $0.01
+per share, of Instinet, and any other class of Instinet\'s capital stock
+representing the right to vote generally for the election of directors.  
+"Covered Transaction" has the meaning ascribed thereto in Section 2.1.  
+"Delaware 203" means Section 203 of the Delaware General Corporation Law, as
+in effect from time to time.   "Effective Time" has the meaning ascribed
+thereto in the Merger Agreement.   "Exchange" has the meaning ascribed
+thereto in Section 2.5(a)   "Exchange Act" has the meaning ascribed thereto
+in Section 3.10.   "Existing Corporate Agreement" has the meaning
+ascribed thereto in the preamble hereto.   "Holder" means the Reuters
+Entities and any Transferee.   "Holder Securities" has the meaning ascribed
+thereto in Section 3.2(c)   "Holders\' Representative" means Reuters or any
+other Holder designated by Reuters as a Holders\' Representative.   "HSR
+Act" means the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as
+amended, and the rules and regulations promulgated thereunder.  
+"Indebtedness" means, with respect to any Person, any indebtedness of such
+Person, whether or not contingent, in respect of borrowed money or evidenced
+by bonds, notes, debentures or similar instruments or letters of credit (or
+reimbursement agreements in respect thereof) or bankers\' acceptances or
+representing capital lease obligations or the balance deferred and unpaid of
+the purchase price of any property, except any such balance that constitutes
+an accrued expense or trade payable, if and to the extent any of
+the foregoing (other than letters of credit and hedging obligations) would
+appear as a liability upon a balance sheet of such Person prepared in
+accordance with US GAAP, as well as all Indebtedness of others secured by a
+lien on any asset of such Person (whether or not such Indebtedness is assumed
+by such Person) and, to the extent not otherwise included, the guarantee by
+such Person of any indebtedness of any other Person. The amount of any
+Indebtedness outstanding as of any date shall be (i) the accreted value
+thereof, in the case of any Indebtedness issued with original issue discount,
+and (ii) the principal amount thereof, together with any interest thereon
+that is more than 30 days past due, in the case of any other
+Indebtedness.   "Instinet" has the meaning ascribed thereto in the
+preamble hereto.   "Instinet Entities" means Instinet Parent, Instinet and
+their respective Subsidiaries from time to time, and "Instinet Entity" shall
+mean any of the Instinet Entities; provided, however, in each case, that any
+such Instinet Entity shall cease to be a "Instinet Entity" under this
+Agreement at such time as such Person no longer is a Subsidiary of Instinet
+Parent or Instinet, as the case may be.   "Instinet Parent" means any
+Person who succeeds Instinet as the parent corporation of the Instinet
+Entities as a result of a corporate reorganization, merger or otherwise.  
+"Instinet Securities" has the meaning ascribed thereto in Section 3.2(c).  
+"Instinet Transferee" shall mean any transferee or purchaser (together with
+its Affiliates) from an Instinet Entity of greater than 5% of the Total
+Voting Power of Instinet other than pursuant to an underwritten
+offering; provided such Person holds more than 5% of the Total Voting Power
+of Instinet at the time of the registration or offering in question.  
+"Involuntary Registration" has the meaning ascribed thereto in Section
+2.5(c).   "Island" has the meaning ascribed thereto in the
+preamble hereto.   "Island Stockholders" has the meaning ascribed thereto
+in the Island Stockholders Agreement.   "Island Stockholders Agreement"
+means that certain Stockholders Agreement, dated as of the date hereof, by
+and among Instinet Group Incorporated, Reuters Limited, Reuters C Corp.,
+Reuters Holdings Switzerland SA, the Island Stockholders, and Edward
+Nicoll.   "Lower Board Threshold" has the meaning ascribed thereto
+in Section 2.3(a).   "Lower Percentage" has the meaning ascribed thereto in
+Section 2.3(d).   "Market Capitalization" means the product of (A) the
+number of shares of Common Stock outstanding on the date 30 days prior to the
+date the Board of Directors authorizes the relevant Covered Transaction (or,
+if no such approval is given or the relevant Instinet Entity(ies) enter into
+a definitive agreement with respect to such Covered Transaction more than 60
+days after such approval, then on the date such agreement is entered into)
+(the "Measurement Date"), multiplied by (B) (i) the average of the last sale
+price of such shares of Common Stock on each of the thirty (30) trading days
+immediately preceding the Measurement Date on The Nasdaq National Market or,
+if such shares are not listed thereon, on the principal national securities
+exchange or automated interdealer quotation system on which such shares are
+traded or (ii) if such sale prices are unavailable or such shares are not so
+traded, the value of such shares on the Measurement Date determined in
+accordance with agreed-upon procedures reasonably satisfactory to each of
+Instinet and Reuters.   "Market Transaction" means any transaction effected
+on an exchange or in the over-the-counter market (as such terms are used in
+Section 4(4) of the Securities Act), on an "alternative trading system" (as
+defined in Regulation ATS) or directly with a "market maker" (as defined in
+Section 3(a)(38) of the Exchange Act).   "Material Agreement" means any
+written agreement, term sheet or document, binding or not, that relates to a
+Covered Transaction and sets forth or otherwise describes any of the
+contemplated or proposed material terms thereof.   "Merger Agreement" has
+the meaning ascribed thereto in the Recitals to this Agreement.   "Minimum
+Designee Amount" means 8,000,000 shares of Common Stock, as adjusted at any
+time and from time to time following the date hereof to account for any stock
+split, stock dividend, stock combination or similar event.   "Net
+Indebtedness" means the consolidated Indebtedness of the Instinet Entities,
+excluding any Indebtedness incurred in the ordinary course of their brokerage
+or other similar businesses in connection with the clearing of traded
+securities or obligations to securities exchanges or clearing systems, and
+less consolidated cash and Cash Equivalents.   "Original Nominee Threshold"
+has the meaning ascribed thereto in Section 2.3(a).   "Other Holders" has
+the meaning ascribed thereto in Section 3.2(d).   "Other Securities" has
+the meaning ascribed thereto in Section 3.1(d).   "Ownership Reduction"
+shall be deemed to have occurred when no Holder, together with its
+Affiliates, beneficially owns 20% or more of the Total Voting Power of
+Instinet.   "Permitted Acquisition" means an acquisition or series
+of related acquisitions by any Instinet Entity(ies), whether by merger,
+stock purchase, asset purchase or otherwise, of any business, Person or
+assets where the aggregate consideration to be paid by the Instinet
+Entity(ies) in such acquisition or related series of acquisitions does not
+exceed the lesser of (i) 20% of the Market Capitalization of Instinet or (ii)
+20% of the total consolidated revenues (calculated in accordance with US
+GAAP, and excluding any extraordinary non-recurring items) of the Instinet
+Entities for the last four completed fiscal quarters.   "Person" means any
+individual, partnership, limited liability company, joint venture,
+corporation, trust, unincorporated organization, government (and any
+department or agency thereof) or other entity.   "Ratio" has the meaning
+ascribed thereto in Section 2.3(b).   "Registrable Securities" means shares
+of Common Stock and any stock or other securities into which or for which
+such Common Stock may hereafter be changed, converted or exchanged and any
+other shares or securities issued to Holders of such Common Stock (or such
+shares or other securities into which or for which such shares are so
+changed, converted or exchanged) upon any reclassification, share
+combination, share subdivision, share dividend, share exchange, merger,
+consolidation or similar transaction or event. As to any particular
+Registrable Securities, such Registrable Securities shall cease to
+be Registrable Securities when (i) a registration statement with respect to
+the sale by the Holder thereof shall have been declared effective under
+the Securities Act and such securities shall have been disposed of in
+accordance with such registration statement, (ii) they shall have been
+distributed to the public in accordance with Rule 144, (iii) they shall have
+been otherwise transferred, new certificates for them not bearing a legend
+restricting further transfer shall have been delivered by Instinet and
+subsequent disposition of them shall not require registration or
+qualification of them under the Securities Act or any state securities or
+blue sky law then in effect or (iv) they shall have ceased to be
+outstanding.   "Registration Expenses" means any and all expenses incident
+to performance of or compliance with any registration of securities pursuant
+to Article III, including, without limitation, (i) the fees, disbursements
+and expenses of Instinet\'s counsel and accountants; (ii) all expenses,
+including filing fees, in connection with the preparation, printing and
+filing of the registration statement, any preliminary prospectus or final
+prospectus, any other offering document and amendments and supplements
+thereto and the mailing and delivering of copies thereof to any underwriters
+and dealers; (iii) the cost of printing or producing any underwriting
+agreements and blue sky or legal investment memoranda and any other documents
+in connection with the offering, sale or delivery of the securities to be
+disposed of; (iv) all expenses in connection with the qualification of the
+securities to be disposed of for offering and sale under state securities
+laws, including the fees and disbursements of counsel for the underwriters
+and the Holders of securities in connection with such qualification and in
+connection with any blue sky and legal investment surveys; (v) the filing
+fees incident to securing any required review by the National Association of
+Securities Dealers, Inc. of the terms of the sale of the securities to be
+disposed of; (vi) transfer agents\' and registrars\' fees and expenses and
+the fees and expenses of any other agent or trustee appointed in connection
+with such offering; (vii) all security engraving and security printing
+expenses; (viii) all fees and expenses payable in connection with the listing
+of the securities on any securities exchange or automated
+interdealer quotation system or the rating of such securities; (ix) all
+expenses with respect to road shows that the Company is obligated to pay
+pursuant to Section 3.5(j); and (x) any other fees and disbursements of
+underwriters customarily paid by the sellers of securities, but excluding
+underwriting discounts and commissions and transfer taxes, if any (which
+underwriting discounts and commissions and transfer taxes shall be borne by
+each selling stockholder participating in a particular offering and, if
+selling securities in such offering, Instinet, pro rata in accordance with
+the total amount of securities sold in such offering by each such Person in
+accordance with Section 3.4).   "Registration Rights Agreement" has the
+meaning ascribed thereto in the preamble hereto.   "Regulation 14C" means
+Regulation 14C promulgated under the Exchange Act, or any successor rule to
+similar effect.   "Reuters" has the meaning ascribed thereto in the
+preamble hereto.   "Reuters Audit Committee" means the audit committee of
+the Reuters Parent Board of Directors.   "Reuters Director" shall mean (i)
+any director designated by Reuters in accordance with the provisions of
+Section 2.3 and (ii) any director of Instinet who at such time as Reuters
+Entities cease to beneficially own a majority of the Total Voting Power of
+Instinet is a director or officer of Reuters.   "Reuters Entities" means
+the Reuters Parent and Subsidiaries of the Reuters Parent (other than
+Subsidiaries that constitute Instinet Entities) from time to time, and
+"Reuters Entity" shall mean any of the Reuters Entities; provided, however,
+in each case, that any Reuters Entity shall cease to be a "Reuters Entity"
+under this Agreement at such time as such Person no longer is a Subsidiary of
+the Reuters Parent.   "Reuters Parent" means the ultimate parent entity from
+time to time, of Reuters, which is currently Reuters Group PLC.   "Reuters
+Trust Principles" has the meaning used in the Memorandum of Association of
+Reuters Founders Share Company Limited, a company organized under the laws of
+England and Wales.   "Rule 144" means Rule 144 (or any successor rule to
+similar effect) promulgated under the Securities Act.   "Rule 415 Offering"
+means an offering on a delayed or continuous basis pursuant to Rule 415 (or
+any successor rule to similar effect) promulgated under the Securities
+Act.   "SEC" means the United States Securities and
+Exchange Commission.   "Section 3.2 Notice" shall have the meaning ascribed
+thereto in Section 3.2(a).   "Securities Act" means the Securities Act of
+1933, as amended, or any successor statute.   "Selling Holder" has the
+meaning ascribed thereto in Section 3.5(e).   "Shelf Registration
+Statement" has the meaning ascribed thereto in Section 3.3(a).  
+"Subsidiary" means, as to any Person, any corporation, association,
+partnership, joint venture or other business entity of which a majority of
+the voting power of capital stock or other voting ownership interests
+entitled (without regard to the occurrence of any contingency) to vote in the
+election of directors, managers or trustees thereof is owned or controlled,
+directly or indirectly, by such Person or by one or more of the Subsidiaries
+of such Person or by a combination thereof. "Subsidiary," when used with
+respect to Reuters or Instinet, shall also include any other
+entity affiliated with Reuters or Instinet, as the case may be, that Reuters
+and Instinet may hereafter agree in writing shall be treated as a
+"Subsidiary" of such Person for the purposes of this Agreement.   "Total
+Voting Power of Instinet" shall mean the total number of votes which may be
+cast in the election of members of the Board of Directors by all holders of
+Common Stock.   "Transferee" shall mean any of (i) the transferee of all
+or any portion of the Common Stock or other Registrable Securities held by
+any Reuters Entity or (ii) the subsequent transferee of all or any portion of
+the Common Stock or other Registrable Securities held by any Transferee;
+provided that no Transferee shall be entitled to any benefits of a Transferee
+hereunder unless such Transferee executes an instrument substantially in the
+form provided as Exhibit A, attached hereto.   "UK GAAP" means generally
+accepted accounting principles in the United Kingdom as have been approved by
+a significant segment of the U.K. accounting profession from time to time and
+as applied by Reuters in its public financial statements.   "US GAAP" means
+generally accepted accounting principles set forth in the opinions and
+pronouncements of the Accounting Principles Board of the American Institute
+of Certified Public Accountants and statements and pronouncements of the
+Financial Accounting Standards Board or in such other statements by such
+other entities as have been approved by a significant segment of the
+accounting profession, which are in effect from time to time, and
+with respect to Instinet, consistent with Instinet\'s public financial
+statements filed with the SEC.   1.2. Internal References. Unless the
+context indicates otherwise, references to Articles, Sections and paragraphs
+shall refer to the corresponding articles, sections and paragraphs in this
+Agreement and references to the parties shall mean the parties to this
+Agreement.   ARTICLE II  certain governance matters   2.1. Definition of
+Covered Transaction. For purposes of this Agreement, a "Covered Transaction"
+shall mean any of the following actions:   (a) The issuance of equity
+securities or securities convertible into, exchangeable for, or options or
+rights to acquire any equity securities (except for securities issued
+pursuant to any of Instinet\'s employee stock option, restricted stock award
+or employee benefits plans or in a Permitted Acquisition) in excess of (i),
+in any one-year period (commencing on the date after the Reuters Entities
+beneficially own less than a majority of the Total Voting Power of Instinet),
+10% of the capital stock of Instinet or Total Voting Power of Instinet
+outstanding on the last day of the calendar month immediately prior to such
+one-year period, or (ii), in any three-year period (commencing on the date
+after the Reuters Entities beneficially own less than a majority of the Total
+Voting Power of Instinet), 20% of the capital stock of Instinet or Total
+Voting Power of Instinet outstanding on the last day of the calendar month
+immediately prior to such three-year period; provided, that in calculating
+any such amounts of capital stock of Instinet, or Total Voting Power of
+Instinet above, such calculation shall also include shares issued pursuant
+to any of Instinet\'s employee stock option, restricted stock award or
+employee benefit plans during the relevant period on a weighted average
+basis;   (b) Any acquisition by any Instinet Entity whether by
+merger, stock acquisition, asset purchase or otherwise of any business,
+Person or assets by any Instinet Entity other than a Permitted Acquisition;
+or   (c) A sale or other disposition or series of related sales
+or dispositions by any Instinet Entity(ies), whether by merger, stock
+disposition, asset sale or otherwise, of any business, Person or assets where
+the aggregate consideration to be received by the Instinet Entity(ies) in
+such sale or disposition or related series of sales or dispositions exceeds
+the lesser of (i) 20% of the Market Capitalization of Instinet or (ii) 20% of
+the total consolidated revenues (calculated in accordance with US GAAP and
+excluding any extraordinary non-recurring items) of the Instinet Entities for
+the last four completed fiscal quarters.   2.2. Corporate Action Regarding
+Covered Transactions. (a) So long as Reuters Entities beneficially own no
+less than 35% and no more than 50% of the Total Voting Power of Instinet,
+Instinet agrees, and agrees to cause each Instinet Entity, not to execute any
+Material Agreement or complete a Covered Transaction, unless such Covered
+Transaction has been first submitted to Reuters for its approval and Reuters
+has approved such Covered Transaction in writing in accordance with the
+provisions of Section 2.2 (b) below.   (b) Any request for Reuters\'s
+approval of a Covered Transaction shall be submitted in writing to Reuters by
+notice which shall (i) describe the Covered Transaction in reasonable detail,
+and include reasonably sufficient information (including such information as
+is given or will be given to the Board of Directors), for Reuters to make a
+determination pursuant to this Section 2.2 and (ii) indicate that such notice
+is a formal request for Reuters\'s approval pursuant to this Section 2.2(b)
+and state the last date by which Reuters may respond to such request in
+accordance with the provisions of this Section 2.2(b). Instinet shall
+promptly provide Reuters with all information requested by Reuters which is
+in the possession of, or reasonably obtainable by, Instinet and relates to
+the Covered Transaction. Reuters shall in good faith use its commercially
+reasonable efforts to respond to such request as expeditiously as possible,
+but shall in no event respond later than ten Business Days after receipt of
+such notice (or such later date as Instinet and Reuters shall agree). Such
+request for Reuters\'s approval will be deemed approved by Reuters
+unless Reuters refuses such approval (in its sole discretion) in writing
+within such ten Business Day period.   2.3. Seats on Board of Directors.
+(a) So long as Reuters Entities beneficially own shares of Instinet\'s stock
+representing at least the Minimum Designee Amount, but having less than a
+majority of the Total Voting Power of Instinet, in connection with any
+election of directors of Instinet Reuters shall have the right to designate,
+and Instinet shall cause the nomination of, (x) if Reuters Entities
+beneficially own less than 10% of the Total Voting Power of Instinet, one
+director and (y) if Reuters Entities beneficially own 10% or more of the
+Total Voting Power of Instinet (the "Original Nominee Threshold"), such
+number of directors of Instinet such that after such election (assuming all
+such Reuters designees are elected to the Board of Directors), the number of
+Reuters Directors will be equal to the product of (1) the Total Voting Power
+of Instinet beneficially owned by the Reuters Entities multiplied by (2) the
+total number of members on the Board of Directors, rounded to the nearest
+whole number; provided that in no event shall the number of Reuters Directors
+nominated pursuant to this provision constitute (i) 50% or more of the
+members of the Board of Directors or (ii) less than one member of the Board
+of Directors. Notwithstanding the foregoing, if Instinet grants any other
+Person at any time or from time to time the right to nominate a director or
+directors based on a lesser percentage of the Total Voting Power of Instinet
+(the "Lower Board Threshold") than the Original Nominee Threshold, Reuters
+shall have the right to designate, and Instinet shall cause the nomination
+of, an equal number of members of the Board of Directors as such other Person
+(subject to the limitations and conditions imposed on such other Person\'s
+right, applied consistently to Reuters) so long as it beneficially
+owns shares of Common Stock representing an amount of capital stock greater
+than or equal to the Lower Board Threshold, provided that Reuters shall not
+be entitled to appoint additional directors pursuant to this provision solely
+because of the appointment of Additional Island Directors (as defined in the
+Island Stockholders Agreement) pursuant to Section 2.2(a)(ii) of the
+Island Stockholders Agreement. So long as Reuters Entities beneficially own
+shares of Instinet\'s stock having a majority of the Total Voting Power of
+Instinet, in connection with any election of directors of Instinet Reuters
+shall have the right to designate, and Instinet shall cause the nomination
+of, such number of directors of Instinet as Reuters shall elect to designate,
+subject to the provisions of the Island Stockholders Agreement, the
+certificate of incorporation and bylaws of Instinet and any requirements of
+applicable law or requirements of any stock exchange or inter-dealer
+quotation system on which the Common Stock is listed or quoted. If a vacancy
+occurs or exists on the Board of Directors at any time, including but not
+limited to a vacancy because of the death, disability, retirement,
+resignation or removal of any director for cause or otherwise, and the vacant
+position was held by a Reuters Director, and Reuters is otherwise entitled
+pursuant to this Section 2.3(a) to designate an individual to fill such
+directorship, then Reuters shall have the sole right to designate an
+individual to fill such vacancy, and, subject to the fiduciary duties of
+directors, the Board of Directors shall elect such nominee to fill such
+vacancy. At any time and from time to time when Reuters Entities beneficially
+own shares of Instinet\'s stock representing at least the Minimum Designee
+Amount (or, if applicable, the Lower Board Threshold), but having less than a
+majority of the Total Voting Power of Instinet and Reuters has not designated
+the full number of directors to which it is entitled pursuant to this Section
+2.3(a), (xx) to the extent permitted by law, Instinet shall use
+its commercially reasonable efforts to solicit from its stockholders proxies
+in order to effectuate, if necessary, any amendment of its certificate
+of incorporation and/or bylaws to ensure that there are a sufficient number
+of authorized directors permitted under its certificate of incorporation and
+bylaws to allow Reuters to designate the full number of directors to which it
+is entitled pursuant to this Section 2.3(a) and (yy) Reuters may propose that
+the Board of Directors be expanded to provide for the addition of up to the
+maximum incremental number of directors designated by Reuters to which
+Reuters is entitled pursuant to this Section 2.3(a), taking into account such
+expansion of the Board of Directors, based on the Total Voting Power of
+Instinet beneficially owned by the Reuters Entities at such time, and,
+subject to the provisions of the certificate of incorporation and bylaws of
+Instinet, the Board of Directors shall so expand the size of the Board of
+Directors and elect such additional designees of Reuters to fill such newly
+created vacancies. To the extent consistent with the provisions of
+Instinet\'s certificate of incorporation, any such additional designees shall
+be elected to the class of directors that has the longest possible term of
+office as of the time of election. At any time and from time to time when
+Reuters Entities beneficially own shares of Instinet\'s stock having a
+majority of the Total Voting Power of Instinet, Reuters may propose that the
+Board of Directors be expanded to provide for the addition of such number of
+directors designated by Reuters as Reuters shall elect, and the Board of
+Directors, subject to the provisions of the certificate of incorporation and
+bylaws of Instinet, shall so expand the size of the Board of Directors and
+elect such additional designees of Reuters to fill such newly created
+vacancies. To the extent consistent with the provisions of
+Instinet\'s certificate of incorporation, any such additional designees shall
+be elected to the class of directors that has the longest possible term of
+office as of the time of election. To the extent permitted by law, Instinet
+shall use its commercially reasonable efforts to solicit from the
+stockholders of Instinet eligible to vote for the election of directors
+proxies in favor of the nominees designated by Reuters in accordance with
+this Section 2.3(a).   (b) If at any time the total number of directors of
+Instinet is increased or decreased, the number of directors that Reuters
+shall have the right to designate pursuant to Section 2.3(a) above, shall as
+promptly as practicable be increased or decreased so that the adjusted ratio
+of Reuters Directors to total directors is not less than the ratio of Reuters
+Directors (determined immediately prior to such increase in accordance with
+the provisions of Section 2.3(a)) to the total number of directors of
+Instinet immediately prior to such increase or decrease, as the case may be
+(the "Ratio"). In such event, Reuters and Instinet shall take such steps
+consistent with the provisions of Section 2.3(a) to effectuate this increase
+or decrease of Reuters Directors in relation to the Ratio as rapidly as
+reasonably possible.   (c) If, upon the occurrence of the Trigger Date and
+from time to time thereafter upon any reduction in the percentage of the
+Total Voting Power of Instinet represented by shares of Instinet stock
+beneficially owned by the Reuters Entities, the number of Affiliated Reuters
+Directors exceeds the number of directors which Reuters is then entitled to
+designate pursuant to Section 2.3(a), taking into account such reduction,
+Reuters shall cause that number of Affiliated Reuters Directors that are in
+excess of such permitted number of designees to immediately offer to tender
+to the Board of Directors his, her or their resignations, provided that
+Reuters may elect from which Affiliated Reuters Directors to request such
+resignation(s). If such resignation(s) is requested by vote of a majority of
+the members of the Board of Directors (other than Affiliated Reuters
+Directors), each Affiliated Reuters Director who offered such resignation and
+whose resignation is so requested shall immediately tender such resignation
+as provided in the certificate of incorporation and bylaws of Instinet. In
+the event that any such Affiliated Reuters Director fails to deliver his or
+her resignation as required pursuant to this Section 2.3(c), Instinet shall
+be entitled to take all necessary and appropriate action to cause such
+Affiliated Reuters Director to be removed and Reuters shall cooperate fully
+therewith.   (d) At the request of Reuters, Instinet shall (x) use its
+best efforts to cause a special meeting of stockholders to be held proposing
+the removal of any Reuters Director provided, that if in the reasonable good
+faith determination by the Board of Directors it is materially detrimental to
+do so, then Instinet may delay calling such special meeting; provided that
+Instinet will cause such meeting to be held within 135 days of such request
+by Reuters and (y) to the extent permitted by law, use its commercially
+reasonable efforts to solicit from stockholders of Instinet eligible to vote
+for the election of directors proxies to remove such specified Reuters
+Directors.   (e) For so long as the Reuters Entities beneficially
+own shares of Instinet\'s stock having at least 25% of the Total Voting Power
+of Instinet, subject to the fiduciary duties of the directors, Reuters
+Directors shall be nominated to serve on each committee of the Board of
+Directors (other than any committee (i) whose membership is specified in the
+Island Stockholders Agreement (in which case Reuters Directors shall be
+entitled to be nominated to serve on such committee to the extent provided in
+the Island Stockholders Agreement) or (ii) required by law or requirement of
+any applicable self-regulatory organization or any stock exchange or inter-
+dealer quotation system on which the Common Stock is listed or quoted to
+consist solely of independent directors but only to the extent a sufficient
+number of Reuters Directors do not qualify as independent directors; provided
+that such lesser number of Reuters Directors that do qualify as independent
+directors shall be appointed to such committee; and provided further that no
+Reuters Director shall serve on a committee to the extent such individual
+would be prohibited from so serving by any such applicable law or
+requirement) so that after such appointment(s), the ratio of Reuters
+Directors who are members of such committee to the total number of members of
+such committee is not less than the Ratio, provided, however, that for so
+long as the Reuters Entities are entitled to designate at least two
+directors, at least one Reuters Director shall be nominated to serve on each
+committee of the Board of Directors (other than any committee required by law
+or requirement of any applicable self-regulatory organization or any stock
+exchange or inter-dealer quotation system on which the Common Stock is listed
+or quoted to consist solely of independent directors but only to the extent
+that no Reuters Director qualifies as an independent director; and provided
+further that no Reuters Director shall serve on a committee to the extent
+such individual would be prohibited from so serving by any such applicable
+law or requirement). Notwithstanding the foregoing, if Instinet grants any
+other Person at any time or from time to time the right to nominate a
+director or directors to serve on any committee(s) of the Board of Directors
+at a percentage less than 25% of the Total Voting Power of Instinet (the
+"Lower Percentage"), Reuters shall have the right to appoint an equal number
+of Reuters Directors to serve on such committee(s) as such other
+Person (subject to the same limitations and conditions as such other
+Person\'s right, applied consistently to Reuters) so long as the Reuters
+Entities beneficially own an amount of Instinet stock having at least the
+same amount of the Total Voting Power of Instinet as the Lower Percentage.
+For so long as (i) Reuters beneficially owns shares of Instinet\'s stock
+having at least 10% but less than the Lower Percentage of the Total Voting
+Power of Instinet and (ii) there is at least one Reuters Director, any such
+Reuters Director shall be permitted to observe the proceedings of (but shall
+not be a member of) any committee of the Board of Directors. Notwithstanding
+the foregoing, if Instinet grants any other Person at any time or from time
+to time the right to appoint a director or directors to observe the
+proceedings of any committee(s) of the Board of Directors at a percentage
+less than 10% of the Total Voting Power of Instinet, Reuters shall have the
+right to appoint an equal number of Reuters Directors to observe such
+proceedings as such other Person (subject to the same limitations and
+conditions as such other Person\'s right, applied consistently to Reuters)
+so long as the Reuters Entities beneficially own an amount of Instinet stock
+having at least the same amount of the Total Voting Power of Instinet as such
+lesser percentage.   (f) Nothing in this Section 2.3 shall limit or
+restrict the Reuters Entities from voting or otherwise exercising their
+rights with respect to the shares of capital stock of Instinet held by them,
+including acting by written consent, to the fullest extent permitted under
+Instinet\'s certificate of incorporation and bylaws and Delaware law.  
+2.4. Dilution. (a) (i) For so long as the Reuters Entities beneficially own
+more than 51% of the Total Voting Power of Instinet or during a period
+immediately following a decrease in ownership by Reuters Entities below 51%
+of the Total Voting Power of Instinet, until the date which is 21
+days following the later to occur of the date on which Instinet provides
+written notice to Reuters of such decrease in ownership and the date on which
+Instinet publicly discloses all material information regarding any action,
+event or transaction referred to in this Section 2.4 and any other
+information as would be required for Reuters to purchase shares of Common
+Stock in a Market Transaction in compliance with all applicable securities
+laws, Instinet shall not voluntarily take any action without Reuters\'s prior
+written consent which directly or indirectly causes or could reasonably be
+expected to cause the Reuters Entities to own less than 51% of the Total
+Voting Power of Instinet or less than 51% of Instinet\'s capital stock or,
+during any such period described above, causes further dilution of the
+ownership of Reuters Entities.   (ii) For so long as the Reuters Entities
+beneficially own  more than 51% of the Total Voting Power of Instinet, if
+Instinet  becomes aware of any event (x) that has caused the Reuters 
+Entities to own less than 51% of Instinet\'s capital stock or less  than 51%
+of the Total Voting Power of Instinet or (y) which could  reasonably be
+expected to cause the Reuters Entities to own less  than 53% of the Total
+Voting Power of Instinet or less than 53%  of Instinet\'s capital stock (or
+such lesser percentage as Reuters  may from time to time designate, but in
+any event no less than a  majority), such as receipt of an option holder\'s
+or warrant  holder\'s notice to exercise such option(s) or warrant(s), 
+Instinet shall immediately notify Reuters thereof.   (iii) Following any
+date on which the Reuters Entities shall  cease to own at least 51% of
+Instinet\'s capital stock, Reuters  shall give notice to Instinet, as
+promptly as practicable  following any such determination, if Reuters has
+determined that  it does not intend to maintain, or if necessary increase,
+its  ownership of Common Stock so that Reuters Entities will own at  least a
+majority of the then-outstanding shares of Common Stock.   (b) In connection
+with any action, event or transaction referred to in this Section 2.4,
+Instinet shall publicly disclose, as soon as practicable following the
+Announcement Date of such action or event, all material information regarding
+such action, event or transaction and any other information as would be
+required for Reuters to purchase shares of Common Stock in a Market
+Transaction in compliance with all applicable securities laws; provided,
+however, that (i) if Instinet determines, in the good faith judgment of the
+Board of Directors, that such disclosure of material non-public information
+would be materially detrimental to Instinet or would materially interfere
+with any material financing, acquisition, corporate reorganization or merger
+or other transaction involving Instinet and any of its Subsidiaries and the
+Board of Directors concludes, as a result of such disclosure or interference,
+that it is in the best interests of Instinet to defer such disclosure at such
+time, and (ii) Instinet shall furnish to Reuters a certificate signed by the
+chief executive officer of Instinet stating that in the good faith judgment
+of the Board of Directors, such disclosure would be materially detrimental to
+Instinet and that it is, therefore, in the best interests of Instinet to
+defer such disclosure, then Instinet shall have the right to defer such
+disclosure, provided that such deferral, together with any other deferral or
+suspension of its obligations under this Section 2.4(b), shall not be
+effected more than twice in any twelve-month period or for a period of more
+than one hundred and twenty (120) days, in the aggregate, for all
+such deferrals over such twelve-month period.   2.5. Exchange Registration.
+(a) Subject to clause (b) below, Instinet agrees that it will not, without
+Reuters\'s prior written consent, file or prosecute, or permit any of its
+Subsidiaries to file or prosecute, an application for registration as a
+national securities exchange under the Exchange Act (an "Exchange") if (i) at
+such time Reuters, directly or indirectly owns more than 30% of the Total
+Voting Power of Instinet and (ii) such registration would result in any
+material limitation or restriction on Reuters\'s direct or indirect ownership
+of equity interests in Instinet or on Reuters\'s ability to exercise,
+directly or indirectly to the fullest extent its voting or other rights
+relating to such equity interests. For the purposes hereof, "Subsidiary"
+means any entity in which Instinet owns, directly or indirectly, a majority
+of the outstanding equity interests.   (b) The prohibition set forth in
+clause (a) shall not apply in the event of an Involuntary Registration, as
+defined below. In the event that Instinet intends to file or prosecute an
+Involuntary Registration of Instinet or any of its Subsidiaries and (i) at
+such time Reuters owns more than 30% of the Total Voting Power in Instinet
+and (ii) such registration would result in any material limitation or
+restriction on Reuters\'s ownership of equity interests in Instinet or on
+Reuters\'s ability to exercise to the fullest extent its voting or other
+rights relating to such equity interests, then (x) Instinet shall
+provide Reuters prompt written notice of such intention and (y) Reuters and
+Instinet shall work together in good faith to, and Instinet will take all
+commercially reasonable actions which may be requested by Reuters to,
+mitigate the effect of any such limitations or restrictions and put Reuters
+as nearly as possible in the same position with respect to such equity
+interests (other than as they relate to the operational or regulatory
+functions of any affiliated Exchange) before such registration, including as
+appropriate entering into discussions with the SEC, making changes in
+Instinet\'s structure and/or operations, and/or modifying Reuters\'s then-
+existing rights and entitlements; provided that Instinet shall not be
+required to take any action which would materially adversely affect any
+material part of the business of Instinet and its Subsidiaries (taken as a
+whole) or Instinet\'s consolidated financial condition or results of
+operations.   (c) "Involuntary Registration" shall mean any
+prospective registration of Instinet or any of its Subsidiaries that results
+from any notice, demand, request or other communication from the SEC or its
+staff indicating that the SEC or its staff has determined that Instinet or
+such Subsidiary is required to register as an Exchange or would be required
+to curtail or modify in any material respect the scope or character of its
+business as an alternative to such registration or in order to avoid such
+registration.   2.6. Acknowledgment of Reuters Trust Principles.
+Instinet acknowledges that so long as Reuters Entities beneficially own a
+majority of the Total Voting Power of Instinet, Instinet will, and will cause
+each of the other Instinet Entities to, adhere to the Reuters Trust
+Principles.   2.7. Transfer of Instinet (Schweiz) AG. Notwithstanding
+any other provision contained herein, Instinet shall not transfer or dispose
+of any interests in Instinet (Schweiz) AG, or take any other action which
+under Swiss law or otherwise would require notification or action, until
+Reuters has received written notification of such intention and subsequently
+confirms that all necessary or required action has been taken by Instinet.
+Instinet hereby agrees to indemnify and hold Reuters harmless from and
+against any and all losses, liabilities, costs (including reasonable
+attorneys\' fees and disbursements) claims and damages arising out of, based
+upon or relating to a breach of its obligations in the immediately preceding
+sentence.   ARTICLE III  REGISTRATION RIGHTS   3.1. Demand Registration -
+Registrable Securities. (a) Upon written notice provided at any time from any
+Holders\' Representative requesting that Instinet effect the registration
+under the Securities Act of any or all of the Registrable Securities held by
+the Holders, which notice shall specify the number of such Registrable
+Securities to be registered and the intended method or methods of disposition
+of such Registrable Securities, Instinet shall use its commercially
+reasonable efforts to effect the registration under the Securities Act and
+applicable state securities laws of such Registrable Securities
+for disposition in accordance with the intended method or methods of
+disposition stated in such request; provided that:   (i) with respect to
+any registration statement filed, or to  be filed, pursuant to this Section
+3.1, (A) if Instinet  determines in the good faith judgment of the Board of
+Directors,  such registration would cause Instinet to disclose material 
+non-public information which disclosure would be materially  detrimental to
+Instinet or would materially interfere with any  material financing,
+acquisition, corporate reorganization or  merger or other transaction
+involving Instinet and any of its  Subsidiaries and the Board of Directors
+concludes, as a result of  such potential disclosure or interference, that it
+is in the best  interests of Instinet to defer the filing of such
+registration  statement at such time, and (B) Instinet shall furnish to
+such  Holders\' Representative a certificate signed by the chief  executive
+officer of Instinet stating that in the good faith  judgment of the Board of
+Directors it would be materially  detrimental to Instinet for such
+registration statement to be  filed in the near future and that it is,
+therefore, in the best  interests of Instinet to defer the filing of such
+registration  statement, then Instinet shall have the right to defer such 
+filing, provided that such deferral, together with any other  deferral or
+suspension of its obligations under Section 3.1 or  Section 3.3, shall not be
+effected more than twice in any  twelve-month period or for a period of more
+than one hundred and  twenty (120) days, in the aggregate, for all such
+deferrals or  suspensions over such twelve-month period;   (ii) after an
+Ownership Reduction, the Holders of  Registrable Securities may collectively
+exercise their rights  under this Section 3.1 through a Holders\'
+Representative on not  more than three occasions (it being acknowledged that
+prior to  any Ownership Reduction, there shall be no limit to the number of 
+occasions on which such Holders may exercise such rights;  provided, that
+each Transferee of 10% or less of the Total Voting  Power of Instinet shall
+be entitled to only one demand right  hereunder through a Holders\'
+Representative);   (iii) except as otherwise provided herein, the Holders
+of  Registrable Securities shall not have the right to exercise 
+registration rights pursuant to this Section 3.1 within the  90-day period
+following the registration and sale of Registrable  Securities effected
+pursuant to a prior exercise of the  registration rights provided in this
+Section 3.1;   (iv) Instinet will not be required to take any action 
+pursuant to this Section 3.1 if the Registrable Securities are  registered at
+the time of such demand under an effective Shelf  Registration Statement;
+and   (v) the estimated market value of the Registrable Securities  to be
+registered pursuant to this Section 3.1, together with any  Registrable
+Securities to be registered pursuant to Section 3.2,  at the time such demand
+is made is at least $60 million.   (b) Notwithstanding any other provision
+of this Agreement, a registration requested by a Holders\' Representative of
+Registrable Securities pursuant to this Section 3.1 shall not be deemed to
+have been effected (and, therefore, not requested for purposes of paragraph
+(a) above), (i) unless it has become effective, (ii) if after it has become
+effective such registration is interfered with by any stop order, injunction
+or other order or requirement of the SEC or other governmental agency or
+court for any reason other than a misrepresentation or an omission by such
+Holder and, as a result thereof, the Registrable Securities requested to be
+registered cannot be completely distributed in accordance with the plan of
+distribution set forth in the related registration statement or (iii) if the
+conditions to closing specified in the purchase agreement or underwriting
+agreement entered into in connection with such registration are not satisfied
+or waived other than by reason of some act or omission by such Holder of
+Registrable Securities.   (c) In the event that any registration pursuant to
+this Section 3.1 shall involve, in whole or in part, an underwritten
+offering, the Holders of a majority of the Registrable Securities to be
+registered shall have the right to designate an underwriter or underwriters
+in accordance with the provisions of the following two sentences. No later
+than ten Business Days following its receipt of notice by the Holders\'
+Representative pursuant to Section 3.1(a), Instinet shall deliver to the
+Holders\' Representative in writing a list (the "List") of at least five
+internationally recognized investment banking firms ranked in the top ten in
+the past year for equity underwritings by Thomson Financial Securities Data
+(or such similar ranking service if such ranking service ceases to exist
+other than by reason of merger, reorganization or consolidation or other
+acquisition). The Holders of a majority of the Registrable Securities to be
+registered shall select from the List an underwriter or underwriters (the
+"Holders\' Underwriters") and notify Instinet in writing of its selection of
+the Holders\' Underwriters no later than ten Business Days following receipt
+by it of the List.   (d) Instinet shall have the right to cause the
+registration of additional equity securities for sale for the account of any
+Instinet Entity, any existing or former directors, officers or employees of
+the Instinet Entities or any other stockholder of Instinet who is
+contractually entitled to include its shares in such registration in any
+registration of Registrable Securities requested by the Holders\'
+Representative pursuant to paragraph (a) above; provided, however, that if
+such Holders are advised in writing (with a copy to Instinet) by the lead
+Holders\' Underwriters that, in such firm\'s good faith view, all or a part
+of such Registrable Securities cannot be sold and the inclusion of all or a
+part of such additional equity securities in such registration would be
+likely to have an adverse effect on the price, timing or distribution of the
+offering and sale of the Registrable Securities then contemplated by any
+Holder, the registration of such additional equity securities or part thereof
+shall not be permitted but only to the extent such additional equity
+securities would be likely to have such adverse effect. The Holders of the
+Registrable Securities to be offered may require that any such additional
+equity securities be included in the offering proposed by such Holders on the
+same conditions as the Registrable Securities that are included therein. In
+the event that the number of Registrable Securities requested to be included
+in a registration statement by the Holders thereof exceeds the number which,
+in the good faith view of such investment banking firm, can be sold without
+adversely affecting the price, timing, distribution or sale of securities in
+the offering, the number shall be allocated pro rata among the requesting
+Holders on the basis of the relative number of Registrable Securities then
+held by each such Holder (provided that any number in excess of a
+Holder\'s request may be reallocated among the remaining requesting Holders
+in a like manner).   3.2. Piggyback Registration (a) In the event that
+Instinet at any time proposes or is required to register any of its Common
+Stock (including pursuant to Sections 3.1 or 3.3 hereof), any other of its
+equity securities or securities convertible into or exchangeable for its
+equity securities (collectively, the "Other Securities") under the Securities
+Act, whether or not for sale for its own account, in a manner that would
+permit registration of Registrable Securities for sale for cash to the public
+under the Securities Act, it shall at each such time give prompt written
+notice (the "Section 3.2 Notice") to each Holder of Registrable Securities of
+its intention to do so and of the rights of such Holder under this Section
+3.2. Subject to the terms and conditions hereof, such Section 3.2 Notice
+shall offer each such Holder the opportunity to include in such registration
+statement such number of Registrable Securities as such Holder may request.
+Upon the written request of any such Holder made within 15 Business Days
+after the receipt of the Section 3.2 Notice (which request shall specify the
+number of Registrable Securities intended to be disposed of), Instinet shall
+use its best efforts to effect, in connection with the registration of the
+Other Securities, the registration under the Securities Act of all
+Registrable Securities which Instinet has been so requested to register, to
+the extent required to permit the disposition (in accordance with such
+intended method of disposition thereof) of the Registrable Securities
+so requested to be registered; provided, that:   (b) if, at any time after
+giving such Section 3.2 Notice of its intention to register any Other
+Securities and prior to the effective date of the registration statement
+filed in connection with such registration, Instinet shall determine for any
+reason not to register the Other Securities, Instinet may, at its election
+(subject to any other obligations it may have in connection therewith), give
+written notice of such determination to such Holders and thereupon Instinet
+shall be relieved of its obligation to register such Registrable Securities
+in connection with the registration of such Other Securities, without
+prejudice, however, to the rights of a Holder of Registrable Securities
+immediately to request that such registration be effected as a registration
+under Section 3.1 or Section 3.3 to the extent permitted thereunder;   (c)
+if the registration referred to in the first sentence of this Section 3.2 is
+to be an underwritten registration on behalf of Instinet, and the lead
+underwriter or managing underwriter advises Instinet in writing that, in such
+firm\'s good faith view, all or a part of such Other Securities
+and Registrable Securities cannot be sold and the inclusion of all or a part
+of such Other Securities and Registrable Securities in such registration
+would be likely to have an adverse effect upon the price, timing or
+distribution of the offering and sale of the Other Securities and Registrable
+Securities then contemplated, Instinet shall include in such registration:
+(i) first, all Other Securities Instinet proposes to sell for its own account
+("Instinet Securities"), (ii) second, all (A) Other Securities proposed to be
+sold on behalf of any stockholder of Instinet who beneficially owns a greater
+number of shares of Common Stock than the Reuters Entities beneficially own
+and (B) Registrable Securities held by Holders that are requested to be
+included in such registration (Registrable Securities that are so held being
+sometimes referred to herein as "Holder Securities") in excess of the number
+of Instinet Securities to be sold in such offering pursuant to clause (i)
+above which, in the good faith view of such investment banking firm, can be
+sold without adversely affecting such offering (and (x) if such number is
+less than the full number of such Other Securities and Holder Securities,
+such number shall be allocated pro rata among holders of such Other
+Securities (other than Instinet Securities) and Holders of Registrable
+Securities on the basis of the number of securities requested to be included
+therein by each such holder) and (y) in the event that such investment
+banking firm advises that less than all of such Holder Securities may be
+included in such offering, such Holders may withdraw their request for
+registration of their Registrable Securities under this Section 3.2 and 90
+days subsequent to the effective date of the registration statement for the
+registration of such Other Securities and/or remaining Holder
+Securities request that such registration be effected as a registration under
+Section 3.1 or Section 3.3 to the extent permitted thereunder); and (iii)
+third, up to the full number of the Other Securities (other than those
+registered pursuant to clauses (i) and (ii) above), if any, in excess of the
+number of Other Securities and Registrable Securities to be sold in such
+offering pursuant to clauses (i) and (ii) above which, in the good faith view
+of such investment banking firm, can be so sold without so adversely
+affecting such offering;   (d) if the registration referred to in the first
+sentence of this Section 3.2 is to be an underwritten secondary registration
+on behalf of holders (other than Instinet) of Other Securities (the "Other
+Holders"), and the lead underwriter or managing underwriter advises Instinet
+in writing that in their good faith view, all or a part of such additional
+securities cannot be sold and the inclusion of such additional securities in
+such registration would be likely to have an adverse effect on the price,
+timing or distribution of the offering and sale of the Other Securities and
+Registrable Securities then contemplated, Instinet shall include in such
+registration (i) first, (A) Other Securities sought to be included therein by
+the Other Holders pursuant to the exercise of their demand registration
+rights, and (B) the number of Holder Securities sought to be included in such
+registration (and if such number is less than the full number of such Other
+Securities and Holder Securities, such number shall be allocated 66.67% among
+the holders of such Other Securities and 33.33% among the Holders of such
+Holder Securities (provided that (x) if such number of securities allocated
+to the Holders is less than the full number of Registrable Securities
+requested to be included, such number shall be allocated pro rata among
+Holders of Registrable Securities on the basis of the number of Registrable
+Securities then held by each such Holder (unless otherwise agreed by the
+Holders) and (y) any number of securities in excess of the request of
+the holders of Other Securities pursuant to clause (A) above shall be
+reallocated among the requesting Holders in a like manner); provided that in
+the event that less than all of such Holder Securities may be included in
+such offering, any Holder may withdraw its request for registration of its
+Registrable Securities under this Section 3.2 and 90 days subsequent to the
+effective date of the registration statement for the registration of such
+Other Securities and/or remaining Holder Securities request that such
+registration be effected as a registration under Section 3.1 or Section 3.3
+to the extent permitted thereunder, and (ii) second, up to the full number of
+the Other Securities (other than Other Securities registered pursuant to
+clause (i)), if any, in excess of the number of Other Securities and
+Registrable Securities to be sold in such offering pursuant to clause (i)
+above which, in the good faith view of such investment banking firm, can be
+sold without so adversely affecting such offering;   (e) Instinet shall not
+be required to effect any registration of Registrable Securities under this
+Section 3.2 incidental to the registration of any of its securities on Forms
+S-4 or S-8 (or any similar or successor form thereto in connection with
+mergers, acquisitions, exchange offers, subscription offers, dividend
+reinvestment plans or stock option or other executive or employee benefit or
+compensation plans) (or any other form that would not be available for
+registration of Registrable Securities); and   (f) no registration of
+Registrable Securities effected under this Section 3.2 shall relieve Instinet
+of its obligation to effect a registration of Registrable Securities pursuant
+to Section 3.1 or Section 3.3 (except as otherwise provided in Section 3.1 or
+Section 3.3).   3.3. Form S-3/Shelf Registration. (a) Instinet shall use
+all reasonable efforts to qualify for registration on Form S-3 or any
+comparable or successor form or forms. After Instinet has qualified for the
+use of Form S-3, in addition to the rights contained in the foregoing
+provisions of this Article III, the Holders of Registrable Securities, shall
+have the right at any time, and from time to time, to request that Instinet
+prepare and file with the SEC a "shelf" registration statement (the "Shelf
+Registration Statement") on the appropriate form for an offering to be made,
+covering all or part of the Registrable Securities, on a continuous or
+delayed basis pursuant to Rule 415 under the Securities Act (or any successor
+rule or similar provision then in effect) in the manner or manners designated
+by the Holders of the Registrable Securities participating in such offering
+(including, without limitation, one or more underwritten offerings). Instinet
+shall use all reasonable efforts to have the Shelf Registration Statement
+declared effective by the SEC as soon as practicable after such request is
+made and to keep such Shelf Registration Statement continuously effective and
+free of material misstatements or omissions (including the preparation and
+filing of any amendments and supplements necessary for that purpose) until
+the earlier of (i) the date on which all Holders have consummated the sale of
+all of such Holders\' Registrable Securities registered under the Shelf
+Registration Statement or (ii) two years from the date the Shelf Registration
+Statement first became effective. Notwithstanding any other provision
+contained herein, there shall be no limitation on the number of registrations
+on Form S-3 that may be requested and obtained by Holders pursuant to this
+Section 3.3.   (b) With respect to any Shelf Registration Statement filed,
+or to be filed, pursuant to this Section 3.3, (i) if Instinet determines in
+the good faith judgment of the Board of Directors, such registration would
+cause Instinet to disclose material non-public information which disclosure
+would be materially detrimental to Instinet or would materially interfere
+with any material financing, acquisition, corporate reorganization or merger
+or other transaction involving Instinet and any of its Subsidiaries and the
+Board of Directors concludes, as a result of such potential disclosure or
+interference, that it is in the best interests of Instinet to defer the
+filing of such Shelf Registration Statement at such time, and (ii) Instinet
+shall furnish to the Holders\' Representative a certificate signed by the
+chief executive officer of Instinet stating that in the good faith judgment
+of the Board of Directors, it would be materially detrimental to Instinet for
+such Shelf Registration Statement to be filed in the near future and that it
+is, therefore, in the best interests of Instinet to defer the filing of such
+Shelf Registration Statement, then Instinet shall have the right to defer
+such filing, provided that such deferral, together with any other deferral or
+suspension of its obligations under Section 3.1 or Section 3.3, shall not be
+effected more than twice in any twelve-month period or for a period of more
+than one hundred and twenty (120) days, in the aggregate, for all such
+deferrals or suspensions over such twelve-month period.   (c) Instinet
+agrees, if necessary, to supplement or amend the Shelf Registration
+Statement, as required by the rules, regulations or instructions applicable
+to the registration form used by Instinet for such Shelf Registration
+Statement or by the Securities Act or as otherwise required by
+this Agreement, and shall use its all reasonable efforts to have such
+supplements and amendments declared effective, if required, as soon as
+practicable after filing.   (d) A registration will not be deemed to have
+been effected pursuant to a Shelf Registration Statement unless the Shelf
+Registration Statement with respect thereto has been declared effective by
+the SEC and Instinet has complied in all material respects with its
+obligations under this Agreement with respect thereto; provided, however,
+that if after the Shelf Registration Statement has been declared effective,
+the offering of Registrable Securities pursuant to such Shelf Registration
+Statement is interfered with by any stop order, injunction, or other order or
+requirement of the SEC or any other governmental agency or court, such Shelf
+Registration Statement will be deemed not to have been effective during the
+period of such interference until the offering of Registrable Securities
+pursuant to such Shelf Registration Statement may legally resume.   (e) (i)
+If Instinet determines in the good faith judgment of the Board of Directors,
+the availability of the Shelf Registration Statement for use would cause
+Instinet to disclose material non-public information which disclosure would
+be materially detrimental to Instinet or would materially interfere with any
+material financing, acquisition, corporate reorganization or merger or other
+transaction involving Instinet and any of its Subsidiaries and the Board of
+Directors concludes, as a result of such potential disclosure
+or interference, that it is in the best interests of Instinet to suspend the
+use of such Shelf Registration Statement at such time, and (ii) Instinet
+shall furnish to each Holder a certificate signed by the chief executive
+officer of Instinet stating that in the good faith judgment of the Board of
+Directors, it would be materially detrimental to Instinet for such Shelf
+Registration Statement to be available for use in the near future and that it
+is, therefore, in the best interests of Instinet to suspend the use of such
+Shelf Registration Statement, then Instinet shall have the right to suspend
+the use of such Shelf Registration Statement, provided that such suspension,
+together with any other suspension or deferral of its obligations under
+Section 3.1 or Section 3.3, shall not be effected more than twice in any
+twelve-month period or for a period of more than one hundred and twenty (120)
+days, in the aggregate, for all such suspensions or deferrals over such
+twelve-month period.   (f) In the event that any registration pursuant to
+this Section 3.3 shall involve, in whole or in part, an underwritten
+offering, the Holders of a majority of the aggregate number of the
+Registrable Securities to be registered shall have the right to designate an
+underwriter or underwriters from the List, which List shall be delivered to
+the Holders\' Representative as promptly as practicable upon determination
+that an underwritten offering will be conducted. The Holders of a majority of
+the aggregate number of the Registrable Securities shall notify Instinet in
+writing of their selection of the Holders\' Underwriters as promptly as
+practicable following receipt of the List.   3.4. Expenses. Except as
+provided herein, Instinet shall pay all Registration Expenses with respect to
+a particular offering (or proposed offering). Except as provided herein, each
+Holder and Instinet shall be responsible for its own fees and expenses of
+counsel and financial advisors and internal administrative and similar costs,
+as well as their pro rata share of underwriters\' commissions and discounts,
+which shall not constitute Registration Expenses.   3.5. Registration and
+Qualification. If and whenever Instinet is required to effect the
+registration of any Registrable Securities under the Securities Act as
+provided in Sections 3.1, 3.2 or 3.3, Instinet shall as promptly as
+practicable:   (a) prepare, file and use its reasonable best efforts to
+cause to become effective a registration statement under the Securities Act
+relating to the Registrable Securities to be offered;   (b) prepare and
+file with the SEC such amendments and supplements to such registration
+statement and the prospectus used in connection therewith as may be necessary
+to keep such registration statement effective and to comply with the
+provisions of the Securities Act with respect to the disposition of all
+Registrable Securities until the earlier of (A) such time as all of such
+Registrable Securities have been disposed of in accordance with the intended
+methods of disposition set forth in such registration statement and (B) the
+expiration of six months (or two years in the case of a registration pursuant
+to Section 3.3) after such registration statement becomes
+effective; provided, that such six-month or two-year period shall be extended
+for such number of days that equals the number of days elapsing from (x) the
+date the written notice contemplated by paragraph (f) below is given by
+Instinet to (y) the date on which Instinet delivers to the Holders of
+Registrable Securities the supplement or amendment contemplated by paragraph
+(f) below;   (c) furnish to the Holders of Registrable Securities and
+to any underwriter of such Registrable Securities such number of conformed
+copies of such registration statement and of each such amendment and
+supplement thereto (in each case including all exhibits), such number of
+copies of the prospectus included in such registration statement (including
+each preliminary prospectus and any summary prospectus), in conformity with
+the requirements of the Securities Act, such documents incorporated by
+reference in such registration statement or prospectus, and such other
+documents, as the Holders of Registrable Securities or such underwriter may
+reasonably request, and upon request a copy of any and all transmittal
+letters or other correspondence to or received from, the SEC or any other
+governmental agency or self-regulatory body or other body having jurisdiction
+(including any domestic or foreign securities exchange) relating to such
+offering;   (d) use its commercially reasonable efforts to register
+or qualify all Registrable Securities covered by such registration statement
+under the securities or blue sky laws of such U.S. jurisdictions as the
+Holders of such Registrable Securities or any underwriter to such Registrable
+Securities shall request, and use its reasonable best efforts to obtain all
+appropriate registrations, permits and consents in connection therewith, and
+do any and all other acts and things which may be necessary or advisable to
+enable the Holders of Registrable Securities or any such underwriter to
+consummate the disposition in such jurisdictions of its Registrable
+Securities covered by such registration statement; provided, that Instinet
+shall not for any such purpose be required to qualify generally to do
+business as a foreign corporation in any such jurisdiction wherein it is not
+so qualified or to consent to general service of process in any such
+jurisdiction;   (e) (i) use its best efforts to furnish to each Holder
+of Registrable Securities included in such registration (each, a "Selling
+Holder") and to any underwriter of such Registrable Securities an opinion of
+counsel for Instinet addressed to each Selling Holder and dated the date of
+the closing under the underwriting agreement (if any) (or if such offering is
+not underwritten, dated the effective date of the registration statement),
+(ii) use its best efforts to furnish to each Selling Holder a "cold comfort"
+and "bring-down" letter addressed to each Selling Holder and any underwriter
+of such Registrable Securities and signed by the independent public
+accountants who have audited the financial statements of Instinet included in
+such registration statement, in each such case covering substantially the
+same matters with respect to such registration statement (and the prospectus
+included therein) as are customarily covered in opinions of issuer\'s counsel
+and in accountants\' letters delivered to underwriters in underwritten public
+offerings of securities and such other matters as the Selling Holders may
+reasonably request and, in the case of such accountants\' letter, with
+respect to events subsequent to the date of such financial statements and
+(iii) cause such authorized officers of Instinet to execute customary
+certificates as may be requested by the Selling Holders or any underwriter of
+such Registrable Securities;   (f) notify the Selling Holders in writing (i)
+at any time when a prospectus relating to a registration pursuant to Sections
+3.1, 3.2 or 3.3 is required to be delivered under the Securities Act of the
+happening of any event as a result of which the prospectus included in such
+registration statement, as then in effect, includes an untrue statement of a
+material fact or omits to state any material fact required to be stated
+therein or necessary to make the statements therein, in light of the
+circumstances under which they were made, not misleading and (ii) of any
+request by the SEC or any other regulatory body or other body having
+jurisdiction for any amendment of or supplement to any registration statement
+or other document relating to such offering, and in either such case, at the
+request of the Selling Holders prepare and furnish to the Selling Holders a
+reasonable number of copies of a supplement to or an amendment of such
+prospectus as may be necessary so that, as thereafter delivered to the
+purchasers of such Registrable Securities, such prospectus shall not include
+an untrue statement of a material fact or omit to state a material fact
+required to be stated therein or necessary to make the statements therein, in
+light of the circumstances under which they are made, not misleading;   (g)
+cause all such Registrable Securities registered pursuant hereunder to be
+listed on each securities exchange and automated interdealer quotation system
+on which similar securities issued by Instinet are then listed;  (h) provide
+a transfer agent and registrar for all Registrable Securities registered
+pursuant to such registration statement and a CUSIP number for all such
+Registrable Securities, in each case not later than the effective date
+of such registration;   (i) otherwise use its reasonable best efforts to
+comply with all applicable rules and regulations of the SEC, and make
+available to each seller of Registrable Securities, as soon as reasonably
+practicable, an earnings statement covering the period of at least twelve
+(12) months, but not more than eighteen (18) months, beginning with the first
+month after the effective date of the Registration Statement, which earnings
+statement shall satisfy the provisions of Section 11(a) of the Securities
+Act;   (j) to the extent reasonably requested by the lead or
+managing underwriters, send appropriate officers of Instinet to attend any
+"road shows" scheduled in connection with any such registration, with all
+out-of-pocket costs and expense incurred by Instinet or such officers in
+connection with such attendance to be paid by Instinet; provided that in
+connection with offerings made pursuant to Sections 3.1 and 3.3, Instinet
+shall only be obligated to pay such road show expenses in connection with a
+total of four such offerings; and   (k) furnish for delivery in connection
+with the closing of any offering of Registrable Securities pursuant to a
+registration effected pursuant to Sections 3.1, 3.2 or 3.3 unlegended
+certificates representing ownership of the Registrable Securities being sold
+in such denominations as shall be requested by the Selling Holders or the
+underwriters (it being understood that any Reuters Entity and any Transferee
+would agree to use their commercially reasonable efforts to arrange for
+delivery to the Depository Trust Company).   3.6. Conversion of Other
+Securities, Etc. In the event that any Holder offers any options, rights,
+warrants or other securities issued by it or any other Person that are
+offered with, convertible into or exercisable or exchangeable for any
+Registrable Securities, the Registrable Securities underlying such options,
+rights, warrants or other securities shall continue to be eligible for
+registration pursuant to Sections 3.1, 3.2 and 3.3.   3.7. Underwriting; Due
+Diligence. (a) If requested by the underwriters for any underwritten offering
+of Registrable Securities pursuant to a registration requested under this
+Article III, Instinet shall enter into an underwriting agreement with such
+underwriters for such offering, which agreement will contain such
+representations and warranties by Instinet and such other terms and
+provisions as are customarily contained in underwriting agreements
+of Instinet to the extent relevant and as are customarily contained in
+underwriting agreements generally with respect to secondary distributions to
+the extent relevant, including, without limitation, indemnification and
+contribution provisions substantially to the effect and to the extent
+provided in Section 3.8, and agreements as to the provision of opinions of
+counsel and accountants\' letters to the effect and to the extent provided in
+Section 3.5(e). The Selling Holders on whose behalf the Registrable
+Securities are to be distributed by such underwriters shall be parties to any
+such underwriting agreement and the representations and warranties by, and
+the other agreements on the part of, Instinet to and for the benefit of such
+underwriters, shall also be made to and for the benefit of such Selling
+Holders. Such underwriting agreement shall also contain such representations
+and warranties by such Selling Holders and such other terms and provisions as
+are customarily contained in underwriting agreements with respect to
+secondary distributions, when relevant, including, without limitation,
+indemnification and contribution provisions substantially to the effect and
+to the extent provided in Section 3.8.   (b) In connection with the
+preparation and filing of each registration statement registering Registrable
+Securities under the Securities Act pursuant to this Article III, Instinet
+shall give the Selling Holders of such Registrable Securities and the
+underwriters, if any, and their respective counsel and accountants, such
+reasonable and customary access to its books and records and such
+opportunities to discuss the business of Instinet with its officers and the
+independent public accountants who have certified the financial statements of
+Instinet as shall be necessary, in the opinion of such Holders and such
+underwriters or their respective counsel, to conduct a
+reasonable investigation within the meaning of the Securities Act.   3.8.
+Indemnification and Contribution. (a) In the case of each offering of
+Registrable Securities made pursuant to this Article III, Instinet agrees to
+indemnify and hold harmless, to the extent permitted by law, each Selling
+Holder, each underwriter of Registrable Securities so offered and
+each Person, if any, who controls any of the foregoing Persons within the
+meaning of the Securities Act, the Affiliates of each of the foregoing, and
+the officers, directors, employees and agents of each of the foregoing,
+against any and all losses, liabilities, costs (including reasonable
+attorney\'s fees and disbursements), claims and damages, joint or several, to
+which they or any of them may become subject, under the Securities Act or
+otherwise, including any amount paid in settlement of any litigation
+commenced or threatened, insofar as such losses, liabilities, costs, claims
+and damages (or actions or proceedings in respect thereof, whether or not
+such indemnified Person is a party thereto) arise out of or are based upon
+any untrue statement by Instinet or alleged untrue statement by Instinet of a
+material fact contained in the registration statement (or in any preliminary
+or final prospectus included therein) or in any offering memorandum or other
+offering document relating to the offering and sale of such Registrable
+Securities prepared by Instinet or at its direction, or any amendment thereof
+or supplement thereto, or in any document incorporated by reference therein,
+or any omission by Instinet or alleged omission by Instinet to state therein
+a material fact required to be stated therein or necessary to make the
+statements therein not misleading; provided, however that Instinet shall not
+be liable to any Person in any such case to the extent that any such loss,
+liability, cost, claim or damage arises out of or relates to any
+untrue statement or alleged untrue statement, or any omission, if such
+statement or omission shall have been made in reliance upon and in conformity
+with information relating to such Person, another holder of securities
+included in such registration statement or underwriter furnished to Instinet
+by or on behalf of such Person, other holder or underwriter specifically for
+use in the registration statement (or in any preliminary or final prospectus
+included therein), offering memorandum or other offering document, or any
+amendment thereof or supplement thereto. Such indemnity shall remain in full
+force and effect regardless of any investigation made by or on behalf of any
+Selling Holder, any other holder or any underwriter and shall survive the
+transfer of such securities. The foregoing indemnity agreement is in addition
+to any liability that Instinet may otherwise have to each Selling Holder,
+other holder or underwriter of the Registrable Securities or any controlling
+person of the foregoing and the officers, directors, Affiliates, employees
+and agents of each of the foregoing. Each Selling Holder, each underwriter of
+Registrable Securities so offered and each Person, if any, who controls any
+of the foregoing Persons within the meaning of the Securities Act, the
+Affiliates of each of the foregoing, and the officers, directors, employees
+and agents of each of the foregoing shall not enter into any settlement of
+any litigation commenced or threatened without the prior written consent of
+Instinet (such consent not to be unreasonably withheld) unless Instinet has
+failed to assume the defense of such action or employ counsel reasonably
+satisfactory to the indemnified party.   (b) In the case of each offering
+made pursuant to this Agreement, each Selling Holder, by exercising its
+registration rights hereunder, agrees to indemnify and hold harmless, and to
+cause each underwriter of Registrable Securities included in such offering
+(in the same manner and to the same extent as set forth in Section 3.8(a)) to
+agree to indemnify and hold harmless, Instinet, each other underwriter who
+participates in such offering, each other Selling Holder or other holder with
+securities included in such offering and in the case of an underwriter, such
+Selling Holder or other holder, and each Person, if any, who controls any of
+the foregoing within the meaning of the Securities Act and the officers,
+directors, Affiliates, employees and agents of each of the foregoing, against
+any and all losses, liabilities, costs (including reasonable attorney\'s fees
+and disbursements), claims and damages to which they or any of them may
+become subject, under the Securities Act or otherwise, including any amount
+paid in settlement of any litigation commenced or threatened, insofar as such
+losses, liabilities, costs, claims and damages (or actions or proceedings in
+respect thereof, whether or not such indemnified Person is a party thereto)
+arise out of or are based upon any untrue statement or alleged untrue
+statement by such Selling Holder or underwriter, as the case may be, of a
+material fact contained in the registration statement (or in any preliminary
+or final prospectus included therein) or in any offering memorandum or other
+offering document relating to the offering and sale of such
+Registrable Securities prepared by Instinet or at its direction, or any
+amendment thereof or supplement thereto, or any omission by such Selling
+Holder or underwriter, as the case may be, or alleged omission by such
+Selling Holder or underwriter, as the case may be, of a material fact
+required to be stated therein or necessary to make the statements therein not
+misleading, but in each case only to the extent that such untrue statement of
+a material fact is contained in, or such material fact is omitted from
+information relating to such Selling Holder or underwriter, as the case may
+be, furnished to Instinet by or on behalf of such Selling Holder or
+underwriter, as the case may be, specifically for use in such registration
+statement (or in any preliminary or final prospectus included therein),
+offering memorandum or other offering document, or any amendment thereof or
+supplement thereto. The foregoing indemnity is in addition to any liability
+which such Selling Holder or underwriter, as the case may be, may otherwise
+have to Instinet, or controlling persons and the officers,
+directors, Affiliates, employees and agents of each of the foregoing.   (c)
+Each party entitled to indemnification under this Section 3.8 shall give
+notice to the party required to provide indemnification promptly after such
+indemnified party has actual knowledge that a claim is to be made against the
+indemnified party as to which indemnity may be sought, and shall permit the
+indemnifying party to assume the defense of such claim or
+litigation resulting therefrom and any related settlement and settlement
+negotiations, subject to the limitations on settlement set forth below;
+provided, that counsel for the indemnifying party, who shall conduct the
+defense of such claim or any litigation resulting therefrom, shall be
+approved by the indemnified party (whose approval shall not unreasonably be
+withheld), and the indemnified party may participate in such defense at such
+party\'s expense; and provided, further, that the failure of any indemnified
+party to give notice as provided herein shall not relieve the indemnifying
+party of its obligations under this Section 3.8, to the extent such failure
+is not materially prejudicial. Notwithstanding the foregoing, an indemnified
+party shall have the right to retain separate counsel, with the reasonable
+fees and expenses of such counsel being paid by the indemnifying party, if
+representation of such indemnified party by the counsel retained by the
+indemnifying party would be inappropriate due to actual or potential
+differing interests between such indemnified party and any other
+party represented by such counsel or if the indemnifying party has failed to
+assume the defense of such action (provided that in no event shall the
+indemnifying party be responsible for the fees and costs of more than one
+such additional counsel for all indemnified parties). No indemnifying party,
+in the defense of any such claim or litigation, shall, except with the
+consent of each indemnified party, consent to entry of any judgment or enter
+into any settlement that does not include as an unconditional term thereof
+the giving by the claimant or plaintiff to such indemnified party of a
+release, reasonably satisfactory to the indemnified party, from all liability
+in respect to such claim or litigation. Each indemnified party shall furnish
+such information regarding itself or the claim in question as an indemnifying
+party may reasonably request in writing and as shall be reasonably required
+in connection with defense of such claim and litigation resulting
+therefrom.   (d) If the indemnification provided for in this Section
+3.8 shall for any reason be unavailable (other than in accordance with its
+terms) to an indemnified party in respect of any loss, liability, cost, claim
+or damage referred to therein, then each indemnifying party shall, in lieu of
+indemnifying such indemnified party, contribute to the amount paid or payable
+by such indemnified party as a result of such loss, liability, cost, claim or
+damage in such proportion as shall be appropriate to reflect (i) the relative
+benefits received by the indemnifying party on the one hand and the
+indemnified party on the other hand or (ii) if the allocation provided by
+clause (i) above is not permitted by applicable law, the relative benefits
+and the relative fault of the indemnifying party on the one hand and the
+indemnified party on the other with respect to the statements or omissions
+which resulted in such loss, liability, cost, claim or damage as well as any
+other relevant equitable considerations. The relative benefits received by
+the indemnifying party and the indemnified party shall be deemed to be in the
+same respective proportion as the net proceeds (before deducting expenses) of
+the offering received by such party (or, in the case of an underwriter, such
+underwriter\'s discounts and commissions) bear to the aggregate offering
+price of the Registrable Securities or Other Securities. The relative fault
+shall be determined by reference to whether the untrue or alleged untrue
+statement of a material fact or omission or alleged omission to state a
+material fact relates to information supplied by the indemnifying party on
+the one hand or the indemnified party on the other, the intent of the parties
+and their relative knowledge, access to information and opportunity to
+correct or prevent such statement or omission, but not by reference to any
+indemnified party\'s stock ownership in Instinet. The amount paid or payable
+by an indemnified party as a result of the loss, cost, claim, damage or
+liability, or action in respect thereof, referred to above in this paragraph
+(d) shall be deemed to include, for purposes of this paragraph (d), any legal
+or other expenses reasonably incurred by such indemnified party in connection
+with investigating or defending any such action or claim. No person guilty of
+fraudulent misrepresentation (within the meaning of Section 11(f) of the
+Securities Act) shall be entitled to contribution from any person who was not
+guilty of such fraudulent misrepresentation.   (e) Indemnification and
+contribution similar to that specified in the preceding paragraphs of this
+Section 3.8 (with appropriate modifications) shall be given by Instinet, the
+Selling Holders and underwriters with respect to any required registration or
+other qualification of securities under any state law or regulation or
+governmental authority.   (f) The obligations of the parties under this
+Section 3.8 shall be in addition to any liability which any party may
+otherwise have to any other party.   3.9. Information by Holder. Each
+Holder shall furnish to Instinet such information regarding such Holder and
+the distribution proposed by such Holder as Instinet may reasonably request
+in writing and as shall be reasonably required in connection with any
+registration, qualification or compliance referred to in this Article
+III.   3.10. Rule 144 and Form S-3. Instinet shall use all
+reasonable efforts to ensure that the conditions to the availability of Rule
+144 set forth in paragraph (c) thereof shall be satisfied. Instinet agrees to
+use all reasonable efforts to file with the SEC in a timely manner all
+reports and other documents required of Instinet under the Securities Act and
+the Securities Exchange Act of 1934, as amended (the "Exchange Act"), at any
+time after it has become subject to such reporting requirements. Upon the
+request of any Holder of Registrable Securities and for so long as such
+information is a necessary element of such Holders\' ability to avail itself
+of Rule 144, Instinet will deliver to such Holder (i) a written statement as
+to whether it has complied with such requirements and (ii) a copy of the most
+recent annual or quarterly report of Instinet, and such other reports and
+documents so filed as a Holder may reasonably request in availing itself of
+any rule or regulation of the SEC allowing a Holder to sell any such
+securities without registration. Instinet further agrees to use its
+reasonable efforts to cause all conditions to the availability of Form S-3
+(or any successor form) under the Securities Act of the filing of
+registration statements under this Agreement to be met as soon
+as practicable.   3.11. Holders\' Priority. The Holders may exercise their
+rights under Article III in such priority as they shall agree upon among
+themselves.   3.12. Holdback Agreement. (a) If any registration pursuant
+to this Article III shall be in connection with an underwritten public
+offering of Registrable Securities, each Holder of more than 5% of the Total
+Voting Power of Instinet at the time of such registration or offering agrees
+not to effect any public sale or distribution, including any sale under Rule
+144, of any equity security of Instinet or any security convertible into or
+exchangeable or exercisable for any equity security of Instinet, (otherwise
+than through the registered public offering then being made), within 7 days
+prior to or 90 days (or such lesser period as the lead or managing
+underwriters may permit) after the effective date of the registration
+statement (or the commencement of the offering to the public of such
+Registrable Securities in the case of Rule 415 offerings); provided that each
+such Holder shall only be bound so long as (i) each Instinet Transferee and
+(ii) each director and executive officer of Instinet is similarly bound.
+Instinet hereby also agrees to be subject to the restrictions set forth in
+the preceding sentence; provided, that, Instinet shall not be so restricted
+from effecting any public sale or distribution of any security in connection
+with any merger, acquisition, exchange offer, subscription offer, dividend
+reinvestment plan or stock option or other executive or employee benefit or
+compensation plan.   (b) Instinet agrees to require each Instinet Transferee
+to agree not to effect any public sale or distribution, including any sale
+under Rule 144, of any equity security of Instinet or any security
+convertible into or exchangeable or exercisable for any equity security of
+Instinet (otherwise than through the registered public offering then being
+made), within 7 days prior to or 90 days (or such lesser period as the lead
+or managing underwriters may permit) after the effective date of the
+registration statement (or the commencement of the offering to the public of
+such Registrable Securities in the case of Rule 415 offerings) for any
+registration pursuant to this Article III made in connection with an
+underwritten public offering of Registrable Securities.   3.13. Termination
+of Registration Rights. The right of any Holder to request registration
+pursuant to Article III shall be suspended on such date when all shares of
+Registrable Securities held or entitled to be held by such Holder may be sold
+pursuant to Rule 144(k) under the Securities Act; provided that in order for
+such rights to terminate with respect to such Holder, such Holder shall have
+received an opinion of counsel (which such counsel shall be satisfactory to
+such Holder) confirming that all shares of Registrable Securities held or
+entitled to be held by such Holder may be sold pursuant to Rule 144(k).
+Instinet shall pay all expenses with respect to the opinion referred to in
+this Section 3.13.   3.14. Suspension of Registration Rights. The provisions
+of this Article III shall be suspended, and no rights of Reuters pursuant to
+this Article III may be exercised, for so long as the Registration Rights
+Agreement is in effect.   ARTICLE IV  CERTAIN COVENANTS AND AGREEMENTS  
+4.1. No Violations. Instinet covenants and agrees that it will not, and will
+cause the Instinet Entities not to, take any action or enter into any
+commitment or agreement which may reasonably be anticipated to result,
+with or without notice and with or without lapse of time or otherwise, in
+a contravention of any stock exchange rule or similar requirement applicable
+to any Reuters Entity (of which Instinet has knowledge of or has otherwise
+been made aware by Reuters). Reuters covenants and agrees that it will not,
+and will cause the Reuters Entities not to, take any action or enter into any
+commitment or agreement which may reasonably be anticipated to result, with
+or without notice and with or without lapse of time or otherwise, in a
+contravention of any stock exchange (or inter-dealer quotation system) rule
+or similar requirement applicable to any Instinet Entity (of which Reuters
+has knowledge or has otherwise been made aware of by Instinet).   4.2.
+Regulatory Requirements. Subject to the terms and conditions hereof, Instinet
+agrees, and agrees to cause each Instinet Entity, and Reuters agrees, and
+agrees to cause each Reuters Entity, to use their commercially reasonable
+efforts to promptly take, or cause to be promptly taken, or to refrain or
+cause to refrain from, as applicable, all action and to do, or cause to be
+done, all things necessary, on their respective parts, to assist each other
+in obtaining all governmental licenses, permits, consents,
+approvals, authorizations, qualifications and orders and to permit each other
+to be in compliance with all legal and regulatory requirements (of which such
+party has knowledge or has otherwise been made aware of by the other party
+hereto) as are reasonably necessary in connection with the operation of their
+respective businesses. Instinet shall promptly furnish, and shall cause each
+Instinet Entity to furnish, Reuters with such information and assistance as
+Reuters may reasonably request in connection with the preparation of any
+necessary filings or submissions by any Reuters Entity to any governmental or
+regulatory agency or stock exchange or as otherwise necessary to comply with
+law or regulation, including, without limitation, any filings necessary under
+the provisions of the HSR Act, the Securities Act, the Exchange Act or any
+rules or regulations of the European Union or pursuant to the requirements of
+the London Stock Exchange. Reuters shall furnish, and shall cause each
+Reuters Entity to furnish, Instinet with such information and assistance as
+Instinet may reasonably request in connection with the preparation of any
+necessary filings or submissions by any Instinet Entity to any governmental
+or regulatory agency or stock exchange (or inter-dealer quotation system) or
+as otherwise necessary to comply with law or regulation, including, without
+limitation, any filings necessary under the provisions of the HSR Act, the
+Securities Act, the Exchange Act or any rules or regulations of the European
+Union.   4.3. Delaware 203. So long as the Reuters Entities or
+any Transferee and its Affiliates beneficially own 15% or more of the Total
+Voting Power of Instinet, Instinet hereby agrees not to amend its Certificate
+of Incorporation to "opt-in" to Delaware 203 without the prior written
+consent of Reuters or such Transferee. At any time within three years of the
+date the Reuters Entities cease to beneficially own at least 15% of the Total
+Voting Power of Instinet, Reuters shall vote all of the Common Stock held by
+Reuters Entities in favor of any amendment (which is approved by the Board of
+Directors) to Instinet\'s Certificate of Incorporation that proposes to "opt-
+in" to Delaware 203.   4.4. Limitation on Incurrence of Indebtedness. So
+long as the Reuters Entities beneficially own a majority of the Total Voting
+Power of Instinet, Instinet hereby agrees not to incur (after giving pro
+forma effect to such incurrence) in excess of an aggregate of $400 million of
+Net Indebtedness outstanding at any one time without Reuters\'s prior written
+consent.   4.5. Information Statements. (a) In the event that any
+action taken by any Reuters Entity or Entities pursuant to a written consent
+of stockholders is subject to the requirements of Regulation 14C, Instinet
+shall, (i) as promptly as practicable, take all actions required in order to
+comply with Regulation 14C, including without limitation preparing an
+information statement on Schedule 14C or any successor form (which
+information statement, and any amendments or supplements thereto, shall be
+subject to the review and consent, not to be unreasonably withheld, of the
+applicable Reuters Entities) and complying with all filing and mailing
+requirements with respect to such information statement and (ii) execute and
+deliver such other instruments and do and perform such other acts and things
+as may be necessary or desirable to make such action effective as soon as
+practicable. Without limiting the foregoing, if an information statement is
+required to be filed with the SEC pursuant to any such action by any Reuters
+Entity, Instinet shall use its reasonable best efforts to file such
+information statement as promptly as practicable after the date on which the
+applicable Reuters Entity or Entities provides notice to Instinet of such
+action. Instinet and Reuters shall cooperate with each other in connection
+with the preparation of any such information statement, and Reuters shall
+furnish all information concerning it and any other applicable
+Reuters Entities as Instinet may reasonably request in connection
+therewith.   4.6. Certain Charter and Bylaw Amendments. During the term
+of this Agreement, Instinet shall not amend or modify any provision of
+the certificate of incorporation or bylaws of Instinet in any way that
+prevents the Holders from exercising their rights under this Agreement.  
+ARTICLE V  INFORMATION RIGHTS   5.1. Financial Information. (a) So long as
+the Reuters Entities beneficially own a majority of the Total Voting Power of
+Instinet, Instinet shall deliver to the Reuters Parent:   (i) for each
+fiscal month, (x) a balance sheet of Instinet  and its consolidated
+Subsidiaries (including amounts owed by or  owing to the Reuters Entities) as
+of the end of such fiscal month  prepared on generally the same basis as is
+prepared by Instinet  and submitted to the Reuters Parent on the date hereof,
+together  with the related statements of stockholders\' equity and the 
+related income statements for Instinet and its consolidated  Subsidiaries for
+such fiscal month and for the year to date, and  broken out by each division
+or segment of Instinet for which  Instinet provides separate financial
+information, if any, on a  basis consistent with the basis Instinet reports
+to the Reuters  Parent on the date hereof; provided that Instinet may
+reasonably  change such reporting practices if written notice of such
+change  is provided to Reuters, (all of the foregoing financial  statements,
+collectively, the "Financial Statements") and (y) the  information set forth
+in Schedule 5.1(a) hereto; and   (ii) for each fiscal year, half-year and,
+if and when the Reuters Parent begins to publicly report its financial
+statements quarterly, each fiscal quarter, (A) draft Financial Statements and
+supporting information consistent with the Reuters Parent\'s accounting
+practices and policies (together with such information as is required by the
+Reuters Parent\'s accounting practices and policies as in effect from time to
+time in order to comply with UK GAAP or UK legal requirements) of Instinet
+and its consolidated Subsidiaries as of the last day of such fiscal year
+half-year or quarter, as the case may be, (or such other period as may be
+required by the Reuters Parent for public reporting purposes), together with
+a reconciliation thereof to US GAAP, (B) for year-end only audited US GAAP
+Financial Statements of Instinet and its consolidated Subsidiaries (reported
+on by Instinet\'s primary outside auditor who shall be an internationally
+recognized accounting firm) as of the last day of such fiscal year (or such
+other period as may be required by the Reuters Parent for public reporting
+purposes), together with a reconciliation thereof to UK GAAP, (together with
+such information as is required by the Reuters Parent\'s accounting practices
+and policies from time to time in order to comply with UK GAAP or UK legal
+requirements) and (C) commentary on key features of performance and
+comparisons of prior corresponding periods.   (b) So long as the Reuters
+Entities beneficially own 20% or more of the Total Voting Power of Instinet
+(or if the Reuters Parent is otherwise required to treat Instinet as an
+"associate" under UK GAAP), Instinet shall deliver to the Reuters Parent:  
+(i) for each fiscal quarter, (A) Financial Statements for  such fiscal
+quarter and for the year to date, together with a  reconciliation thereof to
+UK GAAP, (B) commentary on key features  of performance and comparisons of
+prior corresponding periods and  (C) the information set forth in Schedule
+5.1(b)(i) hereto;   (ii) for each fiscal year, half-year and, if and when
+the  Reuters Parent begins to publicly report its financial statements 
+quarterly, each fiscal quarter, (A) draft Financial Statements  and
+supporting information of Instinet and its consolidated  Subsidiaries as of
+the last day of such fiscal year, half-year or  quarter, as the case may be,
+together with a reconciliation  thereof to UK GAAP, (B) audited year-end only
+Financial  Statements of Instinet and its consolidated Subsidiaries, 
+together with a reconciliation thereof to UK GAAP, reported on by 
+Instinet\'s primary outside auditor who shall be an  internationally
+recognized accounting firm and (C) commentary on  key features of performance
+and comparisons of prior  corresponding periods.   (c) Instinet shall use
+all reasonable efforts consistent with past practices, and in consultation
+with the Reuters Parent, to prepare and submit (i) all Financial Statements
+and related financial information pursuant to Section 5.1(a), in accordance
+with the Reuters Parent accounting policies and practices (as may reasonably
+change from time to time) and (ii) all Financial Statements and related
+financial information pursuant to Section 5.1(b) in accordance with US GAAP,
+in each case except as otherwise set forth herein. The Reuters Parent shall
+provide Instinet with such assistance as is reasonably necessary, consistent
+with past practice, to assist Instinet in ensuring that such financial
+information is prepared in accordance with the Reuters Parent\'s accounting
+practices and policies in order to comply with UK GAAP and UK
+legal requirements. Instinet shall provide the Reuters Parent with reasonable
+access to such employees of the Instinet Entities as is reasonably necessary
+to understand and evaluate the information required to be submitted to the
+Reuters Parent by Instinet pursuant to Sections 5.1 (a) and (b).   (d) (i)
+So long as the Reuters Entities beneficially own a majority of the Total
+Voting Power of Instinet and except as otherwise expressly provided, the
+information required by Section 5.1(a) shall be delivered to the Reuters
+Parent within the timeframes required by the Reuters Parent\'s internal and
+external accounting and reporting practices as in effect on the date
+hereof or as may be reasonably modified by the Reuters Parent subject to
+Instinet\'s consent, which consent shall not be unreasonably withheld.
+Instinet shall use commercially reasonable efforts to provide all information
+to the Reuters Parent pursuant to this Section 5.1 in a format reasonably
+consistent with the format of the Reuters Parent public financial statements
+as in effect from time to time. Instinet shall cooperate with the Reuters
+Parent in connection with the preparation of the financial information
+required by the Reuters Parent, and shall make financial officers and
+managers available, upon reasonable notice and at reasonable times, to
+discuss and review with the Reuters Parent and its independent accountants
+the financial information provided to the Reuters Parent pursuant to this
+Section 5.1(d)(i).   (ii) So long as the Reuters Entities beneficially own
+at  least 20% or more but less than 50% of the Total Voting Power of 
+Instinet and except as otherwise expressly provided, Instinet  shall use
+reasonable commercial efforts to deliver, the  information required by
+Section 5.1(b) to the Reuters Parent  within the timeframes required by the
+Reuters Parent\'s internal  and external accounting and reporting practices
+as in effect on  the date hereof or as may be reasonably modified by the
+Reuters  Parent subject to Instinet\'s consent, which consent shall not be 
+unreasonably withheld. Instinet shall cooperate with Reuters in  connection
+with the preparation of the financial information  required by Reuters, and
+shall make financial officers and  managers available, upon reasonable notice
+and at reasonable  times, to discuss and review with Reuters and its
+independent  accountants the financial information provided to Reuters 
+pursuant to this Section 5.1(d)(ii).   (e) So long as Instinet is required
+to deliver information pursuant to Section 5.1(a),   (i) Instinet and the
+Reuters Parent shall coordinate the  public release and disclosure of their
+public financial  information including, but not limited to, (A) earnings
+releases  and trading statements, (B) quarterly and annual reports and (C) 
+restatement of earnings, so that all public disclosure of  material new
+financial information of either which includes or is  included in information
+of the other shall be made on the same  day and, as far as practicably
+possible, at the same time, and  provided that if either is unprepared to
+make its own release or  disclose on the scheduled day through no fault of
+the other, the  other may proceed with its release or disclosure as
+previously  contemplated provided, further, that the provisions of this 
+subsection (e)(i) shall not apply to either party, if in the  reasonable
+judgment of the releasing party, it is required by  law, market practice or
+regulation to release information on a  basis inconsistent with the other
+party\'s schedule;   (ii) Instinet shall provide the Reuters Parent with
+drafts  of Instinet\'s public quarterly, annual and other filings, 
+disclosures and reports that contain financial information and/or  discussion
+and the Reuters Parent shall provide Instinet with  drafts of the sections of
+the Reuters Parent\'s public quarterly,  annual and other filings,
+disclosures and reports that contain  financial information and/or discussion
+that relates to Instinet,  in each case sufficiently in advance of filing to
+permit the  recipient to review such materials to ensure consistency with 
+similar information to be included in its own materials; and   (iii) So long
+as the Reuters Entities beneficially own a  majority of the Total Voting
+Power of Instinet, Instinet shall  not change its fiscal year without the
+prior written consent of  Reuters.   5.2. Annual Business Plan and Budget.
+So long as the Reuters Entities beneficially own a majority of the Total
+Voting Power of Instinet, Instinet shall, consistent with past practice and
+in accordance with reporting timetables agreed to by the parties hereto, (A)
+prepare and submit to the Reuters Parent a profit forecast for the upcoming
+three fiscal years including (i) business forecasts and (ii) details of
+assumptions used, (B) provide the Reuters Parent a copy of the budget for the
+upcoming fiscal year and in accordance with the Reuters Parent\'s reporting
+timetable as may be changed from time to time subject to Instinet\'s consent,
+which such consent shall not be unreasonably withheld, including monthly
+projections of capital, profits and losses, manpower and cash flow
+(collectively the "Annual Budget"), (C) provide an updated quarterly outlook
+of information provided under clause (B) above for current and upcoming
+financial year in accordance with existing timetables (collectively the
+"Outlook") and (D) provide half-yearly tax forecasts consistent with past
+practice. Notwithstanding the foregoing, so long as the Reuters Entities
+beneficially own at least 20% or more of the Total Voting Power of Instinet,
+Instinet shall provide the Reuters Parent with an Annual Budget of profits or
+losses with quarterly updated Outlooks of profits or losses in accordance
+with reporting timetables agreed to by the parties hereto.   5.3. Audit
+Rights. To the extent that the Reuters Audit Committee is required by law or
+stock exchange requirements to audit, or cause to audit, any of the affairs
+of any Instinet Entity, Instinet shall allow on reasonable notice, the
+Reuters Audit Committee or its representatives to audit the affairs of
+Instinet, including (i) having access to (and take copies of) the records of
+the Instinet Entities (and the working papers of its accountants); (ii)
+having access to the premises of any Instinet Entity and to have the ability
+to consult and discuss matters with the auditors, advisors and management of
+any Instinet Entity (during normal office hours) and (iii) procuring that
+each Instinet Entity shall, co-operate fully with the Reuters Audit Committee
+and its representatives in relation to this process. In addition, Instinet
+shall use all reasonable efforts to allow the independent accountants of
+Reuters to audit the working papers of and to assist in any review undertaken
+by Instinet\'s independent accountants. The Reuters Audit Committee shall
+coordinate its efforts in good faith with, and work with and through, the
+Audit Committee of the Instinet board of directors and the Instinet internal
+audit department to accomplish such objectives.   ARTICLE VI 
+REPRESENTATIONS AND WARRANTIES   6.1. Reuters represents and warrants as
+follows:   (a) Status and Authority. Reuters is a company duly
+organized and validly existing under the laws of England and Wales. The
+execution and delivery by Reuters of this Agreement and the performance of
+its obligations hereunder have been duly authorized by all necessary
+corporate action on the part of Reuters, and this Agreement has been duly
+executed and delivered by the duly authorized officers of Reuters and
+constitutes the valid, legal and binding obligation of Reuters.   (b) No
+Conflicts.   (i) The execution, delivery and performance of this  Agreement
+by Reuters will not result in (A) any conflict with the  charter documents of
+any Reuters Entity, (B) any material breach  or violation of or default under
+any statute, law, rule,  regulation, judgment, decree, order or any material
+mortgage,  deed of trust, indenture, agreement or any other instrument to 
+which any Reuters Entity is a party or by which any of their  respective
+material properties or assets are bound, or (C) the  creation or imposition
+of any lien, charge, pledge or encumbrance  thereon, except for such
+breaches, violations or defaults and  such liens, charges, pledges or
+encumbrances as would not,  individually or in the aggregate, have a material
+adverse effect  on Reuters\'s business or adversely affect the ability of 
+Reuters\'s to perform its obligations hereunder.   (ii) No consent, approval
+or authorization of or filing with  any governmental authority is required
+with respect to Reuters in  connection with the execution and delivery of
+this Agreement, and  the performance by Reuters of its obligations
+hereunder.   (c) No Litigation. There no judicial or
+administrative actions, proceedings or investigations pending or, to the best
+knowledge or Reuters, threatened, which question the validity of this
+Agreement or any action taken or to be taken by Reuters in connection
+herewith.   6.2. Instinet represents and warrants as follows:   (a) Status
+and Authority. Instinet is a company duly organized, validly existing in good
+standing under the laws of Delaware. The execution and delivery by Instinet
+of this Agreement and the performance of its obligations hereunder have been
+duly authorized by all necessary corporate action on the part of Instinet,
+and this Agreement has been duly executed and delivered by the duly
+authorized officers of Instinet and constitutes the valid, legal and binding
+obligation of Instinet.   (b) No Conflicts.   (i) The execution, delivery
+and performance of this  Agreement by Instinet will not result in (A) any
+conflict with  the charter documents of any Instinet Entity, (B) any
+material  breach or violation of or default under any statute, law, rule, 
+regulation, judgment, decree, order or any material mortgage,  deed of trust,
+indenture, agreement or any other instrument to  which any Instinet Entity is
+a party or by which any of their  respective material properties or assets
+are bound, or (C) the  creation or imposition of any lien, charge, pledge or
+encumbrance  thereon, except for such breaches, violations or defaults and 
+such liens, charges, pledges or encumbrances as would not,  individually or
+in the aggregate, have a material adverse effect  on Instinet\'s business or
+adversely affect the ability of  Instinet to perform its obligations
+hereunder.   (ii) No consent, approval or authorization of or filing with 
+any governmental authority is required with respect to Instinet  in
+connection with the execution and delivery of this Agreement,  and the
+performance by Instinet of its obligations hereunder.   (c) No Litigation.
+There are no judicial or administrative actions, proceedings or
+investigations pending or to the best knowledge of Instinet, threatened,
+which question the validity of this Agreement or any action taken or to be
+taken by Instinet in connection herewith.   ARTICLE VII  MISCELLANEOUS  
+7.1. Subsidiaries. Reuters agrees and acknowledges that Reuters shall be
+responsible for the performance by each Reuters Entity of the obligations
+hereunder applicable to such Reuters Entity. Instinet agrees and acknowledges
+that Instinet shall be responsible for the performance by each Instinet
+Entity of the obligations hereunder applicable to such Instinet Entity.  
+7.2. Amendments. This Agreement may be amended, supplemented or otherwise
+modified only by a writing duly executed by or on behalf of each of the
+parties hereto. No waiver by any party of any of the provisions hereof
+shall be effective unless explicitly set forth in writing and executed by the
+party so waiving. Except as provided in the preceding sentence, no action
+taken pursuant to this Agreement, including without limitation, any
+investigation by or on behalf of any party, shall be deemed to constitute a
+waiver by the party taking such action of compliance with any
+representations, warranties, covenants or agreements contained herein. The
+waiver by any party hereto of a breach of any provision of this Agreement
+shall not operate or be construed as a waiver of any subsequent breach.  
+7.3. Severability. If any provision of this Agreement or the application of
+any such provision to any party or circumstances shall be determined by any
+court of competent jurisdiction to be invalid, illegal or unenforceable to
+any extent, the remainder of this Agreement or such provision of the
+application of such provision to such party or circumstances, other
+than those to which it is so determined to be invalid, illegal or
+unenforceable, shall remain in full force and effect to the fullest extent
+permitted by law and shall not be affected thereby, unless such a
+construction would be unreasonable.   7.4. Notices. All notices and other
+communications required or permitted hereunder shall be in writing, shall be
+deemed duly given upon actual receipt, and shall be delivered (a) in person,
+(b) by registered or certified mail, postage prepaid, return receipt
+requested or (c) by facsimile or other generally accepted means of electronic
+transmission (provided that a copy of any notice delivered pursuant to this
+clause (c) shall also be sent pursuant to clause (a) or (b)) above, addressed
+as follows:   (a) if to Instinet, to:   Instinet Group Incorporated 
+Three Times Square  10th Floor  Attention: General Counsel  Telecopy No.:
+646-223-9017   with a copy to:   Cleary, Gottlieb, Steen and Hamilton  One
+Liberty Plaza  New York, N.Y. 10006  Attention: Yvette P. Teofan, Esq. 
+Telecopy No.: 212-225-3999   (b) If to Reuters, to:   Reuters Limited  85
+Fleet Street  London England  EC4B 4AJ  Attention: General Counsel 
+Telecopy No.: 011-44-207-542-5896   with a copy to:   Reuters America
+Inc.  The Reuters Building  3 Times Square  New York, New York 10036 
+Attention: General Counsel  Telecopy No: 646-223-4250   and to:   Simpson
+Thacher and Bartlett  425 Lexington Avenue  New York, New York 10017 
+Attention: Vince Pagano, Esq.  William E. Curbow, Esq.  Telecopy No.:
+212-455-2502  or to such other addresses or telecopy numbers as may be
+specified by like notice to the other parties; provided, however, that all
+notices and other communications required or permitted hereunder regarding
+any Covered Transaction shall be delivered only to Instinet Group
+Incorporated and Reuters Limited (with a copy to Reuters America Inc.).  
+7.5. Further Assurances. Reuters and Instinet shall execute, acknowledge and
+deliver, or cause to be executed, acknowledged and delivered, such
+instruments and take such other action as may be reasonably necessary
+or advisable to carry out their obligations under this Agreement and under
+any exhibit, document or other instrument delivered pursuant hereto.   7.6.
+Governing Law. This Agreement shall be governed by, and construed and
+interpreted in accordance with, the law of the State of New York.   7.7.
+Entire Agreement. This Agreement constitutes the entire understanding of the
+parties hereto with respect to the subject matter hereof.   7.8. Successors.
+This Agreement shall be binding upon, and shall inure to the benefit of, the
+parties hereto and their respective successors and permitted assigns. Except
+as set forth in Section 7.11, nothing contained in this Agreement, express or
+implied, is intended to confer upon any other Person or entity any benefits,
+rights or remedies.   7.9. Jurisdiction; Specific Performance. The parties
+to this Agreement agree that jurisdiction and venue in any action brought by
+any party hereto pursuant to this Amendment shall properly lie and shall be
+brought in any federal or state court located in the Borough of Manhattan,
+City and State of New York. By execution and delivery of this Agreement, each
+party hereto irrevocably submits to the jurisdiction of such courts for
+itself or herself and in respect of its or her property with respect to such
+action. The parties hereto irrevocably agree that venue would be proper in
+such court, and hereby irrevocably waive any objection that such court is an
+improper or inconvenient forum for the resolution of such action. The parties
+hereto acknowledge and agree that irreparable damage would occur in the event
+that any of the provisions of this Agreement were not performed in accordance
+with their specific terms or were otherwise breached.   7.10. Counterparts.
+This Agreement may be executed in any number of counterparts, each of which
+shall be deemed an original instrument, but all of which together shall
+constitute but one and the same agreement.   7.11. Assignment. (a) Neither
+this Agreement nor any right or obligation hereunder is assignable in whole
+or in part by any party without the prior written consent of the other party
+hereto. Notwithstanding the foregoing, Reuters may transfer its rights and
+obligations under Section 2.3 (in whole or in part), Article III (in whole or
+in part), Sections 4.1 and 4.2 (in whole), Section 4.3 (in whole and in part)
+and/or Article V (in whole) to any Transferee (and any Transferee may
+transfer such rights and obligations to any subsequent Transferee) without
+the prior written consent of Instinet; provided that a Transferee of less
+than a majority of the Total Voting Power of Instinet may receive only those
+rights and obligations thereunder as to which Reuters would be entitled to as
+a holder of such percentage interest or as are specified herein.   (b) Any
+assignment pursuant to paragraph (a) of this Section 7.11 shall be effective
+upon receipt by Instinet of (i) written notice from the transferring Holder
+stating the name and address of any Transferee and identifying the number of
+shares of Common Stock with respect to which the rights under this Agreement
+are being transferred and the nature of the rights so transferred and (ii) a
+written agreement in substantially the form attached as Exhibit A hereto from
+such Transferee to be bound by the applicable terms of this Agreement.  
+7.12. Effectiveness. Notwithstanding anything in this Agreement to the
+contrary, this Agreement shall become effective only at the Effective Time
+(as defined in the Merger Agreement). In the event that the Effective Time
+does not occur, the Existing Corporate Agreement shall remain in full force
+and effect in accordance with its terms.       IN WITNESS WHEREOF, the
+parties hereto have executed this Agreement the day and year first above
+written.   REUTERS LIMITED       By: 
+-----------------------------------  Name: Devin Wenig  Title: Attorney in
+Fact     INSTINET GROUP INCORPORATED     By: 
+----------------------------------  Name:  Title:    EXHIBIT A  
+JOINDER   By execution of this Joinder, the undersigned agrees to become a
+party to that certain Amended and Restated Corporate Agreement, dated as
+of June 9, 2002 (the "Agreement"), between Reuters Limited and Instinet
+Group Incorporated. By execution of this Joinder, the undersigned shall have
+all the rights, and shall observe all the obligations specified in Section
+7.11 of the Agreement and to have made on the date hereof all representations
+and warranties set forth in Section 6.1 of the Agreement, modified, if
+necessary, to reflect the nature of the undersigned as a trust, estate or
+other entity.  Name:________________________   Address for Notices: With
+Copies to:  _____________________________
+_____________________________  _____________________________
+_____________________________  _____________________________
+_____________________________  _____________________________
+_____________________________  _____________________________
+_____________________________    Signature:_____________________________  Date:__________________________________       '
+

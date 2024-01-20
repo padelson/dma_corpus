@@ -1,0 +1,2048 @@
+ EX-10.2 SHARE PURCHASE AGREEMENT   
+EXHIBIT 10.2   SHARE PURCHASE AGREEMENT   between   ILLBRUCK GMBH,
+SABINA ILLBRUCK, MICHAEL ILLBRUCK   and   TREMCO GERMANY GMBH, RPOW UK
+LTD., RPM INTERNATIONAL INC.  Linklaters Oppenhoff and
+Raedler  Prinzregentenplatz 10 81675 Munchen Postfach 801520 81615
+Munchen  Telefon (49-89) 41808-0 Telefax (49-89) 41808-100  Zeichen
+L-095759 KRA/TET  TABLE OF CONTENTS    ~~  Index of
+Definitions..............................................................
+2  Index of
+Schedules................................................................
+8  PREAMBLE..........................................................................
+10  1 The Group
+Companies............................................................ 10  2
+Agreement to Sell and Transfer the Shares and the Seller\'s Intellectual 
+Property Rights; Agreement re Assignment of Seller\'s Loans; Transfer  of
+Contracts...................................................................
+16  3 Purchase Price; Preliminary Purchase Price and Purchase Price
+Adjustment....... 17  4 Effective Date
+Statement....................................................... 19  5
+Termination and Clearing of Agreements, etc. Among Related
+Companies........... 21  6 Rights and Covenants between Signing and
+Closing............................... 22  7 Closing; Closing
+Conditions.................................................... 25  8
+Seller\'s Guarantees; Seller\'s Best
+Knowledge................................... 27  9 Remedies for Breach of
+Seller\'s Guarantees..................................... 37  10
+Taxation.......................................................................
+42  11 Purchasers\' Guarantees; Purchasers\'
+Guarantor.................................. 45  12 Confidentiality; Press
+Releases; Public Disclosure; Covenants in the Case of  Non-Consummation of
+Closing ................................................... 46  13 Post-
+Closing Rights and Covenants; Non-Competition; Non-Solicitation...........
+47  14 Payments and
+Interest.......................................................... 51  15
+Notices........................................................................
+52  16
+Miscellaneous..................................................................
+53     1  INDEX OF DEFINITIONS  "ACCOUNTS 2005" shall have the meaning
+given to it in Clause 13.3.1;  "AFFILIATE(S)"shall mean affiliated companies
+within the meaning of Sections 15 et seq. AktG;  "AKTG" shall mean German
+Stock Corporation Act (Aktiengesetz);  "BASE INTEREST RATE" shall mean the
+interest rate as applicable from time to time pursuant to Section 247 BGB
+(Basiszinssatz im Sinne von Section 247 BGB);  "BGB" shall mean German Civil
+Code (Buergerliches Gesetzbuch);  "BIG" is illbruck Bau-Technik
+International GmbH with the particulars set forth in Clause 1.1.1;  "BIG-
+SUBSIDIARY/IES" shall have the meaning given to it in Clause
+1.2.1;  "BUSINESS" shall have the meaning given to it in Letter (F) of the
+Preamble;  "BUSINESS DAY" means a day other than a Saturday, Sunday or a
+public holiday in Cologne;  "CASH" shall have the meaning given to it in
+Clause 3.2.1(ii);  "CET" shall mean Central European Time as of the relevant
+date;  "CLOSING" shall have the meaning given to it in Clause
+7.1;  "CLOSING CONDITION(S)" shall have the meaning given to it in Clause
+7.2;  "CLOSING DATE" shall have the meaning given to it in Clause
+7.1;  "COMPANY/IES" shall have the meaning given to it in Clause
+1.1.2;  "COMPETENT AUTHORITIES" shall have the meaning given to it in Clause
+6.1.1;  "CONFIDENTIALITY AGREEMENT" is the agreement on confidentiality
+concluded between the Seller and the Purchasers\' Guarantor on 22 March
+2005;  "CONSOLIDATED AUDITED ACCOUNTS" are the consolidated annual accounts
+of the Group Companies as of 31 December 2004 prepared by the Seller and
+audited by the respective Seller\'s Auditor;  "CONSOLIDATED EFFECTIVE DATE
+ACCOUNTS" shall mean the consolidated accounts of the Group Companies as of
+the Effective Date, which, however, is not a legal but a virtual
+consolidation prepared only for the purpose of the sale of the
+Group Companies; the Consolidated Effective Date Accounts shall be based on
+audited year end accounts or audited interim accounts each as of the
+Effective Date for the individual Group Companies audited by the respective
+Seller\'s Auditor, to be accompanied by a certification of Seller\'s Auditor
+issuing - to the extent legally possible - an unqualified opinion
+(uneingeschraenkter Bestaetigungsvermerk), and having a language being as
+close as possible to the wording of an unqualified opinion as defined in Sec.
+322 para. 1 HGB. With regard to the execution of the audit and the
+preparation of the Consolidated Effective Date Accounts, it shall be taken
+into account that the Group Companies do not qualify as a group or a subgroup
+being subject to consolidated accounting within the meaning of Sec. 390 HGB
+(Konzern oder Teilkonzern), the Consolidated Effective Date Statements shall
+consist merely of a balance sheet and a profit and loss account without
+footnotes (Anhang), or a management discussion and analysis (Lagebericht).
+However, it is understood that the audit opinion will be qualified on the
+belief that the opening balances as of January 1, 2005 will be unaudited, as
+they will be derived from the Financial Statements as of December 31, 2004,
+which are unaudited (Saldovortrag).    2  "CONTAMINATION" shall be all
+air pollution, soil and/or groundwater contamination, artificial deposits,
+fillings, Hazardous Materials, ammunition, combat material;  "CONTRACTS"
+shall have the meaning given to it in Clause 2.8;  "CONTRACTUAL PARTIES"
+shall mean the Parties, SI, MI and the
+Purchasers\' Guarantor;  "CONTRACTUAL PARTY" shall mean any of the Parties,
+SI, MI and the Purchasers\' Guarantor;  "CORPORATE INCOME TAX REFUND CLAIM"
+shall mean "Koerperschaftsteuerguthaben" within the meaning of Section 37 of
+the German Corporate Income Tax
+Act (Koerperschaftsteuergesetz):  "COUNTERPARTY" shall have the meaning
+given to it in Clause 2.8;  "DEBT" shall have the meaning given to it in
+Clause 3.2.1(i);  "DE MINIMIS AMOUNT" shall have the meaning given to it in
+Clause 9.3.1;  "EFFECTIVE DATE" shall mean 00:00 hours (Central European
+Time) of the first day of the calendar month following the month in which the
+Closing occurs;  "EFFECTIVE DATE STATEMENT" shall have the meaning given to
+it in Clause 4.1;  "EK02" shall have the meaning given to it in Clause
+8.1.2(iv);  "ENCUMBRANCE" shall have the meaning given to it in Clause
+8.1.3(i);  "ENVIRONMENTAL CLAIM" shall mean any and all administrative or
+judicial actions, suits, orders, claims or proceedings pursuant to or
+relating to any Environmental Law by any Person based upon, alleging,
+asserting, or claiming any actual (I) violation of or liability under any
+Environmental Law or any permit or approval there under, or (II) liability
+for investigatory costs, cleanup costs, removal costs, remedial costs,
+property damage, personal injury, fines, or penalties related to pollution,
+Contamination or any Hazardous Material at any location;  "ENVIRONMENTAL
+COSTS" means any reasonable investigation, cleanup, remediation, removal or
+other response costs, expenses, losses, liabilities or obligations, payments,
+damages and disbursements resulting from environmental conditions and any
+claim by any governmental authority under Environmental Laws, any
+private party claim under Environmental Laws, or any act necessary to come
+into material compliance with the Environmental Laws;  "ENVIRONMENTAL LAWS"
+shall mean all applicable laws (including common law), ordinances, rules,
+regulations, permits, authorisations and orders relating to Environmental
+Matters and either being applicable as at the Closing Date or still having an
+impact on the Business as at the Closing Date, and applying in jurisdictions
+in which any of the Group Companies operate;  "ENVIRONMENTAL LIABILITIES"
+means the clean up of the contamination in or near Hall 1 and Hall 2 in Arkel
+pertaining to trichloroethylene, regardless whether pertaining to land owned
+by the Group Companies or by neighbouring third parties;  "ENVIRONMENTAL
+MATTERS" means any matter relating to pollution or Contamination or
+protection of the soil, ground water, surface water, land surfaces or
+natural resources;  "ESCROW ACCOUNT" shall have the meaning given to it in
+Clause 9.10;  "ESCROW AMOUNT" shall have the meaning given to it in Clauses
+3.3.1 and 9.10;  "ESTIMATED EFFECTIVE DATE STATEMENT" shall have the meaning
+given to it in Clause 3.3.1;  "EQUITY" shall have the meaning given to it
+in Clause 3.2.3;    3  "EXPERT" shall have the meaning given to it in
+Clause 9.6.2(i);  "FIXED AMOUNT" shall be the amount specified in Clause
+3.1;  "GERMAN GAAP" shall mean German generally accepted accounting
+principles;  "GERMAN LOAN" shall have the meaning given to it in Clause
+5.3;  "GERMAN PURCHASER" shall mean Tremco Germany GmbH; with the
+particulars given in Letter (C) of the Preamble;  "GERMAN SHARE(S)" shall
+have the meaning given to it in Clause 1.1.1;  "GKV" shall have the meaning
+given to it in Clause 9.6.2(i);  "GROUP COMPANY/IES" shall have the meaning
+given to it in the last sentence of Clause 1.2.2;  "GROUP SHARES" shall
+have the meaning given to it in Clause 1.2.2;  "HAZARDOUS MATERIAL(S)" shall
+mean any toxic, hazardous, infectious or radioactive substance, including
+those substances defined in or regulated or addressed by any Environmental
+Laws; petroleum and petroleum products including crude oil and any fractions
+thereof and materials and/or substances which have to be specially treated in
+the event of demolition work or removal (asbestos, PCB, lindane,
+etc.);  "HGB" shall mean German Commercial Code
+(Handelsgesetzbuch);  "INFORMATION TECHNOLOGY" or "IT" shall mean all
+computer hardware, software, configurations, and related equipment and
+service agreements which are used in order to run the Business as run in the
+past, including but not limited to (I) desktop computers, printers, scanners,
+data storage units, laptops and other decentralised and/or portable units,
+etc., (II) mail servers, data servers, web servers, other servers, proxies,
+cetrix systems, middleware, back-up units, hubs, other central and semi-
+central units, internal network, infrastructure and links between the
+different locations of the Group Companies, etc. (III) links to Internet
+providers, Internet gateways, firewalls, virus walls, mx records,
+IP addresses, denic, internic and similar entries, etc., (IV) web pages and
+their content, including content management systems, (V) all the software
+which runs on and/or which is used for the operation of the aforementioned
+components, including operating systems and the source code which is in the
+possession of any of the Group Companies, and (VI) all libraries and
+databases which are related to and/or stored on and/or used by and/or created
+by the aforementioned components;  "INTELLECTUAL PROPERTY RIGHTS" shall
+have the meaning given to it in Clause 8.1.5(i);  "INVENTORY" shall have
+the meaning given to it in Clause 8.1.4(iv);  "INVESTMENT" shall have the
+meaning given to it in Clause 6.2.1(ii);  "IT HARDWARE" shall mean the hard
+ware owned by the Seller and used by the Group Companies as of the Signing
+Date, including, without limitation thereto, the hardware listed in SCHEDULE
+2.4;  "KEY EMPLOYEES" shall have the meaning given to it in Clause
+8.1.6(vii);  "LEASED REAL PROPERTY" shall have the meaning given to it in
+Clause 8.1.3(ii);  "LEVERKUSEN LEASE AGREEMENT" shall have the meaning given
+to it in Clause 7.4.7;  "LICENSED INTELLECTUAL PROPERTY RIGHTS" shall have
+the meaning given to it in Clause 8.1.5(iv);  "LOCATION" shall have the
+meaning given to it in Clause 13.6;    4  "MATERIAL ADVERSE CHANGE" shall
+have the meaning given to it in Clause 7.2.4(i);  "MATERIALLY ADVERSE
+EFFECT" shall have the meaning given to it in Clause 6.2.1(iv);  "MATERIAL
+ASSETS" shall have the meaning given to it in Clause 8.1.4(i);  "MATERIAL
+CONTRACTS" shall mean any contract with regular payment obligations of either
+side of more than EUR 500,000 (in words: Euro five hundred thousand)
+per year;  "MI" is Michael Illbruck;  "MODIFICATION PROPOSAL" shall have
+the meaning given to it in Clause 7.2.4(ii);  "NEUTRAL AUDITOR" shall have
+the meaning given to it in Clause 4.4;  "NET WORKING CAPITAL" shall have the
+meaning given to it in Clause 3.2.2;  "NON-SBU-ENTITIES" and "NON-SBU-
+ENTITY" shall have the meaning given to it in Clause 5.2.1;  "NOTICES"
+shall have the meaning given to it in Clause 15.1;  "OBJECTIONS" shall have
+the meaning given to it in Clause 4.4;  "OFFSETTING" shall have the meaning
+given to it in Clause 5.3;  "OWNED REAL PROPERTY" shall have the meaning
+given to it in Clause 8.1.3(i);  "PARTIES" shall be the Seller and the
+Purchasers;  "PARTY" shall mean any of the Parties;  "PERSON" shall mean
+any individual, legal entity or governmental body;  "PERSON(S) RELATED TO SI
+OR MI" shall mean any Person who is either a descendant or a spouse of SI or
+MI or which is a legal entity which is controlled (in the meaning of Sec. 15
+German Stock Corporation Act - AktG) by SI and/or MI;  "PRELIMINARY PURCHASE
+PRICE" shall have the meaning given to it in Clause 3.3.1;  "PROVISIONAL
+SUPPLY AGREEMENTS" shall have the meaning given to it in
+Clause 13.1;  "PUBLIC LAW PERMITS" shall have the meaning given to it in
+Clause 8.1.9(i);  "PURCHASE PRICE" shall have the meaning given to it in
+Clause 3.1;  "PURCHASE PRICE ADJUSTMENT" shall have the meaning given to it
+in Clause 3.3.2;  "PURCHASER" shall mean either the German Purchaser or the
+UK Purchaser;  "PURCHASERS" shall mean the German Purchaser and the UK
+Purchaser;  "PURCHASERS\' ACCOUNT" shall have the meaning given to it in
+Clause 14.1.2;  "PURCHASERS\' GUARANTOR" shall be RPM International Inc.
+with the particulars given in Letter (E) of the Preamble;  "PURCHASERS\'
+SIDE" shall mean the Purchasers, the Purchasers\' Guarantor and
+the Purchasers\' Guarantor\'s Affiliates (in the meaning of Sec. 15 et. seq.
+German Stock Corporation Code - AktG -);  "REAL PROPERTY" shall have the
+meaning given to it in Clause 8.1.3(ii);  "RELEVANT ASSESSMENT PERIOD" shall
+have the meaning given to it in Clause 10.1.1;    5  "RELEVANT COMPANY"
+shall have the meaning given to it in Clause 9.5.1;  "RELEVANT EMPLOYEES"
+means the employees of the Group Companies who are employed by the Group
+Companies as at Signing Date;  "REMAINING BUSINESSES" are the businesses
+described in SCHEDULE A;  "REVISED ACCOUNTS 2005" shall have the meaning
+given to it in Clause 13.3.4;  "REVISED EFFECTIVE DATE STATEMENT" shall have
+the meaning given to it in Clause 4.3;  "SELLER" is illbruck GmbH, with the
+particulars given in Letter (A) of the Preamble;  "SELLER\'S ACCOUNT" shall
+have the meaning given to it in Clause 14.1.1;  "SELLER\'S AUDITOR" shall be
+such auditor appointed by Seller for such measures and tasks as further
+specified in this Agreement;  "SELLER\'S BEST KNOWLEDGE" shall have the
+meaning given to it in Clause 8.3;  "SELLER\'S FINANCING PAYABLES" shall
+have the meaning given to it in Clause 5.2.1;  "SELLER\'S FINANCING
+RECEIVABLES" shall have the meaning given to it in
+Clause 5.2.2;  "SELLER\'S GUARANTEES" shall have the meaning given to it in
+Clause 8.1;  "SELLER\'S INTELLECTUAL PROPERTY RIGHTS" shall mean the
+Intellectual Property Rights listed in SCHEDULE B or in any other way
+comparable to such intellectual property rights;  "SELLER\'S LOANS" shall
+mean the UK Loan and the German Loan;  "SELLER\'S SIDE" shall mean each of
+the Seller, the Seller\'s Affiliates other than the Group Companies, SI
+and/or MI and affiliates of SI and/or MI;  "SENSITIVE INFORMATION" shall
+have the meaning given to it in Clause 6.1.4;  "SHARES" shall have the
+meaning given to it in Clause 1.1.2;  "SI" is Sabina Illbruck;  "SIGNING
+DATE" shall mean the date this Agreement is signed on;  "TAXATION" or "TAX"
+means all forms of taxation whether direct or indirect and whether levied by
+reference to income, profits, gains, net wealth, asset values, turnover,
+added value or other reference and statutory, governmental,
+state, provincial, local governmental or municipal impositions, duties,
+contributions, rates and levies (including without limitation social security
+contributions and any other payroll taxes), whenever and wherever imposed
+(whether imposed by way of a withholding or deduction for or on account of
+tax or otherwise). The term "Taxation" or "Tax" shall also include any
+interest on Taxes and any amounts assessed by the Tax Authorities for not
+complying with obligations imposed by tax law (including but not limited to
+penalties for late filing and/or delay in payment, surcharges and penalties
+for not preparing or not furnishing transfer pricing studies or preparing or
+furnishing transfer pricing studies which do not meet the required
+standards);  "TAX AUDIT" shall have the meaning given to it in Clause
+10.2.1;  "TAX AUTHORITY/IES" means any tax or other authority competent to
+impose any liability in respect of Taxation or responsible for the
+administration and/or collection of Taxation or enforcement of any law in
+relation to Taxation;    6  "TAX CONTEST" shall have the meaning given to
+it in Clause 10.2.2;  "TAX SAVING" shall mean the net present value of
+reductions of any future tax payments resulting from future depreciation or
+expenses related to past depreciation or expenses not fully recognized in any
+tax audit. The net present value shall be calculated with a deemed total tax
+rate of 35% (in words: thirty-five per cent) and with an interest rate of 5%
+(in words: five per cent) per annum on the basis of future depreciations or
+expenses that will lead to a reduction of tax payments after the Effective
+Date;  "TERRITORY" shall have the meaning given in relation to each of the
+Remaining Businesses in SCHEDULE A;  "THIRD PARTY/IES" shall mean any
+individual person, legal entity or other subject having full or partial legal
+capacity ((Teil-)Rechtsfaehigkeit) which is not a Contractual
+Party;  "THRESHOLD AMOUNT" shall have the meaning given to it in Clause
+9.3.2;  "UK LOAN" shall have the meaning given to it in Clause
+1.1.2;  "UK-HOLDING" is illbruck Holdings Limited, with the particulars set
+forth in Clause 1.1.2;  "UK PURCHASER" is RPOW UK Ltd., with the
+particulars given in Letter (D) of the Preamble;  "UK-SHARE(S)" shall have
+the meaning given to it in Clause 1.1.2;  "UK-SUBSIDIARY/IES" shall have the
+meaning given to it in Clause 1.2.2;  "ZPO" shall mean the German Civil
+Procedure Code (Zivilprozessordnung).    7  INDEX OF SCHEDULES    ~~
+ SCHEDULE A Remaining Businesses and Territory SCHEDULE B Seller\'s
+Intellectual Property Rights SCHEDULE 2.2 UK Loan SCHEDULE 2.4 IT
+Hardware SCHEDULE 2.6 UK-Shares transfer form SCHEDULE 2.8 List of contracts
+to be transferred with approval of contractual partner SCHEDULE 5.1 Inter-
+company liabilities SCHEDULE 5.2.1 Certain Inter-company loans SCHEDULE
+6.2.2 Claims which may be assigned to Seller SCHEDULE 7.1 Group Companies to
+change business year SCHEDULE 7.4.4 Statement on termination of inter-company
+liabilities SCHEDULE 7.4.6 Cross-receipt SCHEDULE 7.4.7 Leverkusen Lease
+Agreement SCHEDULE 8.1.1(II) Pre-emptive Rights etc. in relation to Group
+Shares SCHEDULE 8.1.3(I)-1 List of Owned Real Property SCHEDULE 8.1.3(I)-2
+Excerpts of the land registers relating to Owned Real Property SCHEDULE
+8.1.3(II) List of Leased Real Property SCHEDULE 8.1.3(IV) List regarding
+condition of Owned Real Property SCHEDULE 8.1.4(I) Repair/maintenance of
+Material Assets SCHEDULE 8.1.4(III) Material Contracts SCHEDULE 8.1.5(I)
+List of certain intellectual property rights SCHEDULE 8.1.5(II)-(1) Dispute
+in relation to Intellectual Property Rights SCHEDULE 8.1.5(II)-(2) Potential
+Third Party Disputes in relation to Intellectual Property Rights SCHEDULE
+8.1.5(IV) Licensed Intellectual Property Rights SCHEDULE 8.1.6(II)
+Information on Relevant Employees SCHEDULE 8.1.6(III) Labour
+disputes SCHEDULE 8.1.6(VII) Key Employees SCHEDULE 8.1.8(I) Legal Disputes
+Exceeding EUR 100,000 SCHEDULE 8.1.8(II) Product liability disputes SCHEDULE
+8.1.9(II) Proceedings in relation to Public Law Permits and Environmental
+Claims SCHEDULE 8.1.10(I) Contingent Liabilities     8    ~~
+ SCHEDULE 8.3-(1) Persons whose knowledge is decisive for Seller\'s Best
+Knowledge SCHEDULE 8.3-(2) Persons to be enquired by persons listed in
+Schedule 8.3-(1) SCHEDULE 9.10 Escrow Agreement SCHEDULE 13.1 Provisional
+Supply Agreements SCHEDULE 13.4 IP-Agreement     9  PREAMBLE  (A)
+WHEREAS, the Seller is a limited liability company (Gesellschaft mit 
+beschraenkter Haftung) duly organized under the laws of the Federal  Republic
+of Germany, registered with the commercial register of the local  court
+(Amtsgericht) of Cologne under HRB 48451 ("SELLER");  (B) WHEREAS, Sabina
+Illbruck ("SI"), residing at Engelbertstrasse 21, 51381  Leverkusen, and
+Michael Illbruck ("MI"), residing at Dirschauerstrasse 5,  81927 Munich, are
+the sole shareholders of the Seller;  (C) WHEREAS, Tremco Germany GmbH is a
+limited liability company (Gesellschaft  mit beschraenkter Haftung) duly
+organized under the laws of the Federal  Republic of Germany, registered with
+the commercial register of the local  court (Amtsgericht) of Dusseldorf under
+HRB 52143 ("GERMAN PURCHASER");  (D) WHEREAS, RPOW UK Ltd. is a limited
+liability company duly organized under  the laws of England and Wales,
+registered with the Company\'s House, under  Company No 03205888 ("UK
+PURCHASER");  (E) WHEREAS, RPM International Inc., a company duly organized
+under the laws of  the US-State of Ohio with administrative headquarters at
+2628 Pearl Road,  Medina, Ohio 44258, is the ultimate shareholder of the
+Purchasers  ("PURCHASERS\' GUARANTOR");  (F) WHEREAS, the Seller is the
+sole shareholder of illbruck Bau-Technik  International GmbH, Germany, and of
+illbruck Holdings Ltd., United Kingdom,  which both hold direct and indirect
+participations in companies specialised  in the development, production and
+distribution of, in particular, high  performance sealant and adhesive
+systems for construction, window and door  applications. illbruck Bau-Technik
+International GmbH, illbruck Holdings  Ltd. and their respective subsidiaries
+constitute the sealant business unit  of the Seller (such business unit,
+taken as a whole, hereinafter also  referred to as the "BUSINESS") forming
+one of the leading European  manufacturer of innovative and high quality
+sealant and adhesive products  and systems;  (G) WHEREAS, the Seller has
+determined to sell all shares in (I) illbruck  Bau-Technik International
+GmbH, which the German Purchaser wishes to  acquire, and in (II) illbruck
+Holdings Ltd., which the UK Purchaser wishes  to acquire;  (H) WHEREAS, the
+Seller has determined to assign the German Loan, the IT  Hardware and the
+Seller\'s Intellectual Property Rights to the German  Purchaser and to assign
+the UK Loan to the UK Purchaser;  (I) WHEREAS, the Contractual Parties wish
+to enter into a non-competition  agreement; NOW, THEREFORE, the Contractual
+Parties agree as follows:  1 THE GROUP COMPANIES   1.1 Particulars of the
+Companies   1.1.1 illbruck Bau-Technik International GmbH ("BIG") is a
+limited  liability company (Gesellschaft mit beschraenkter Haftung) duly 
+organized under the laws of the Federal Republic of Germany,  registered with
+the commercial register of the local court  (Amtsgericht) of Cologne under
+HRB 49216. The registered share  capital (Stammkapital) of BIG amounts to DEM
+7,500,000 (in words:  Deutsche Mark seven million five hundred thousand).
+The  registered share capital of BIG is divided into the following  shares,
+all of which are held by the Seller (the "GERMAN SHARES",  and each a "GERMAN
+SHARE"):    10   (i) one German Share with a nominal value (Nennbetrag)
+of DEM  50,000 (in words: Deutsche Mark fifty thousand);   (ii) one German
+Share with a nominal value (Nennbetrag) of DEM  3,650,000 (in words: Deutsche
+Mark three million six hundred  and fifty thousand); and   (iii) one German
+Share with a nominal value (Nennbetrag) of DEM  3,800,000 (in words: Deutsche
+Mark three million eight  hundred thousand).   The Seller is the sole
+shareholder of BIG.   1.1.2 illbruck Holdings Ltd ("UK-HOLDING";
+collectively with BIG: the  "COMPANIES"; either of BIG and UK-Holding: the
+"COMPANY"), is a  limited liability company duly organized under the laws
+of  England and Wales, registered with the Companies House, London,  under
+Company No. 4737161. UK-Holding has an authorised share  capital of GBP
+5,000,000.00 (in words: British Pound five  million) and an issued share
+capital of GBP 3,800,000.00 (in  words: British Pound three million eight
+hundred thousand). The  issued share capital of UK-Holding is divided into
+3,800,000 (in  words: three million eight hundred thousand) shares each with
+a  nominal value of GBP 1.00 (in words: British Pound one)  (collectively:
+"UK-SHARES" and each of them: "UK-SHARE"; the UK  Shares and the German
+Shares collectively: the "SHARES"). The  Seller is the sole shareholder of
+UK-Holding.   1.2 Particulars of the Companies\' Subsidiaries   1.2.1
+Subsidiaries of BIG   BIG directly or indirectly holds shares or interests
+in the  following subsidiaries (collectively: "BIG-SUBSIDIARIES"; each of 
+them: "BIG-SUBSIDIARY"):   (i) illbruck Bau-Technik GmbH, Germany   BIG
+holds 100% (in words: one hundred per cent) of the  registered share capital
+(Stammkapital) of illbruck  Bau-Technik GmbH, a German limited liability
+company  (Gesellschaft mit beschraenkter Haftung) registered with the 
+commercial register of the local court (Amtsgericht) of  Cologne under HRB
+49826). The registered share capital of  illbruck Bau-Technik GmbH amounts to
+EUR 1,176,000.00 (in  words: Euro one million one hundred and seventy six 
+thousand) and is divided into one share with a nominal value  (Nennbetrag) of
+EUR 1,175,500.00 (in words: Euro one million  one hundred and seventy-five
+thousand five hundred) and one  share with a nominal value (Nennbetrag) of
+EUR 500.00 (in  words: Euro five hundred).   (ii) illbruck Sealant Systems
+B.V., The Netherlands   BIG holds 100% (in words: one hundred per cent) of
+the  shares in illbruck Sealant Systems B.V., a Dutch limited  liability
+company (Besloten Vennootschap) registered with  the commercial register of
+Rivierenland under B.V.-number  290 027. The share capital    11  
+(Geplaatst Aandelenkapital) of illbruck Sealant Systems B.V.  amounts to EUR
+267,500 (in words: Euro two hundred  sixty-seven thousand and five hundred)
+and is divided into  5,350 (in words: five thousand three hundred and
+fifty)  shares with a nominal value (Nennbetrag) of EUR 50 (in  words: Euro
+fifty).   illbruck Sealant Systems B.V. directly or indirectly holds 
+shares or interests in the following BIG-Subsidiaries:   (a) Arkelveste
+B.V., The Netherlands   illbruck Sealant Systems B.V. holds 100% (in words:
+one  hundred per cent) of the shares in Arkelveste B.V., a  Dutch limited
+liability company (Besloten Vennootschap)  registered with the commercial
+register of Rivierenland  under B.V.-number 611 51. The share capital
+(Geplaatste  Aandelenkapital) of Arkelveste B.V. amounts to EUR  226,890.11
+(in words: Euro two-hundred twenty-six  thousand eight hundred and ninety and
+Euro Cent  eleven).   (b) illbruck Sealant Systems Production S.A.,
+Belgium   illbruck Sealant Systems B.V. holds 499 (in words: four  hundred
+and ninety-nine) shares in illbruck Sealant  Systems Production S.A., a
+Belgian stock company  (Societe Anonyme) registered with the commercial 
+register of Tournai under Company number 0427.432.577.  The share capital of
+illbruck Sealant Systems  Production S.A. amounts to EUR 125,000.00 (in
+words:  Euro one hundred and twenty-five thousand) and is  divided into 500
+(in words: five hundred) shares. The  remaining share is held by Mr Fred van
+Gasteren.   illbruck Sealant Systems Production S.A. holds 100% (in  words:
+one hundred per cent) of the shares in Eurobond  S.A., a Belgian stock
+company (Societe Anonyme)  registered with the commercial register of
+Tournai  under company number 0460 460 879. The share capital of  Eurobond
+S.A.. amounts to EUR 285,077.55 (in words:  Euro two hundred eighty-five
+thousand and seventy-seven  and Euro Cent fifty-five) and is divided into 575
+(in  words: five hundred seventy-five) A-shares and 575 (in  words: five
+hundred seventy-five) B-shares each with a  nominal value (Nennbetrag) of EUR
+247,89 (in words:  Euro two hundred forty-seven and Euro Cent  eighty-
+nine).   (c) PDR Recycling GmbH + Co KG, Germany   illbruck Sealant
+Systems B.V. holds a limited partner\'s  interest (Kommanditanteil) in PDR
+Recycling GmbH + Co  KG, a German limited partnership 
+(Kommanditgesellschaft) registered with the commercial  register of the local
+court (Amtsgericht) of Bayreuth  under HRA 2539. illbruck Sealant   
+12   Systems B.V. holds an interest with a registered  nominal amount
+(Haftsumme) of EUR 58,901.00 (in words:  Euro fifty-eight thousand nine-
+hundred and one) out of  a total limited partners\' capital (Gesamtsumme
+der  Kommanditanteile) of EUR 708,190.00 (in words: Euro  seven-hundred
+eight thousand and one-hundred ninety).   (d) PDR GmbH, Germany   illbruck
+Sealant Systems B.V. holds 9.214% (in words:  nine point two one four per
+cent) of the registered  share capital (Stammkapital) of PDR GmbH, a German 
+limited liability company (Gesellschaft mit  beschraenkter Haftung)
+registered with the commercial  register of the local court (Amtsgericht) of
+Bayreuth  under HRB 2084. The registered share capital of PDR  GmbH amounts
+to EUR 28,000.00 (in words: Euro  twenty-eight thousand). illbruck Sealant
+Systems B.V.  holds one share with a nominal value of EUR 2,580.00  (in
+words: Euro two thousand five hundred and eighty).  PDR GmbH is the sole
+general partner of PDR Recycling  GmbH + Co. KG without any participation in
+the capital  (ohne Kapitalbeteiligung).   (e) illbruck Sealant Systems B.V.
+holds 100% (in words: one  hundred per cent) of the shares in Asbiton AG, a
+Swiss  stock corporation registered with the commercial  register of the
+Kanton Zurich under company number  CH-020.3.901.815-6 and currently under
+liquidation with  the liquidation proceedings presumably completed prior  to
+Closing Date.   (f) illbruck Sealant Systems B.V. holds 100% (in words:
+one  hundred per cent) of the shares in Cocon Polska  Sp.z.o.o., a Polish
+limited liability company  registered with the commercial register of the
+district  court of Krakow under company number KRS 0000087578  currently
+under liquidation with the liquidation  proceedings presumably completed
+prior to Closing Date.   (iii) illbruck Building Systems s.r.o., Czech
+Republic   BIG holds 100% (in words: one hundred per cent) of the  shares
+in illbruck Building Systems s.r.o., a Czech limited  liability company
+(Spolecnost s rucenim omezenym) registered  with the commercial register of
+the city court of Prague  under number C 1682 and ID-number 158 908 13.The
+share  capital of illbruck Building Systems s.r.o. amounts to CZK 
+1,200,000.00 (in words: Czech Crowns one million and two  hundred
+thousand).   (iv) illbruck Systemy Uszcz. Sp.z.o.o., Poland   BIG holds
+100% (in words: one hundred per cent) of the  shares in illbruck Systemy
+Uszcz. Sp.z.o.o., a Polish  limited liability company (Spolka z ograniczona 
+odpowiedzialnoscia) registered with the    13   commercial register of
+Krakow under number 96 230.The share  capital of illbruck Systemy Uszcz.
+Sp.z.o.o. amounts to PLN  3,202,000.00 (in words: Polish Zloty three million
+and two  hundred two thousand) and is divided into 3,202 (in words:  three
+thousand and two hundred two) shares with a nominal  value (Nennbetrag) of
+PLN 1,000.00 (in words: Polish Zloty  one thousand).   (v) illbruck Joints
+et Systemes S.A.S., France   BIG holds 100% (in words: one hundred per cent)
+of the  shares in illbruck Joints et Systemes S.A.S., a French stock 
+company (Societe par Actions Simplifiee) registered with the  commercial
+register of Strasbourg under TI-number 433 891  447 and under number 2000 B
+1474. The share capital of  illbruck Joints et Systemes S.A.S. amounts to
+EUR  2,880,000.00 (in words: Euro two million eight hundred and  eighty
+thousand).   (vi) illbruck Sealant Systems N.V., Belgium   BIG holds
+99.75% (in words: ninety-nine point seven five per  cent) of the shares in
+illbruck Sealant Systems N.V., a  Belgian stock company (Naamloze
+Vennootschap) registered  with the commercial register of Antwerpes under
+BTW-number  472 189 961 and HR-number 340 498. The share capital of 
+illbruck Sealant Systems N.V. amounts to EUR 100,000.00 (in  words: Euro one
+hundred thousand) and is divided into 400  (in words: four hundred) shares
+with a nominal value  (Nennbetrag) of EUR 250.00 out of which 399 (in words:
+three  hundred ninety-nine) are held by BIG and 1 (in words: one)  is held
+by Mr Klaus Dieter Hillringhaus.   illbruck Sealant Systems N.V. holds 100%
+(in words: hundred  per cent) of the shares in Colymit Contractors N.V., a 
+Belgian stock company (Naamloze Vennootschap) registered  with the Commercial
+Register of Antwerp under company number  0406.409.016.   Colymit
+Contractors N.V. holds 100% (in words: one hundred  per cent) of the shares
+in Colymit N.V., a Belgian stock  company (Naamloze Vennootschap) registered
+with the  commercial register of Antwerpes under BE-number 403 812 285  and
+under HR-number 134 971. The share capital of Colymit  N.V. amounts to EUR
+141,000.00 (in words: Euro one hundred  and forty-one thousand).   Colymit
+Contractors N.V. holds 100% (in words: one hundred  per cent) of the shares
+in Caseko Sealants B.V., a Dutch  limited liability company (Besloten
+Vennootschap) registered  with the commercial register of West-Brabant. The
+share  capital of Caseko Sealants B.V. amounts to EUR 18,151.21 (in  words:
+Euro eighteen thousand one hundred fifty-one and Euro  Cent twenty-
+one).    14   It is intended to merge Colymit Contractors N.V. onto 
+Colymit N.V. prior to Closing Date.   (vii) illbruck Bau-Technik
+International GmbH holds 100% (in  words: one hundred per cent) of the shares
+in illbruck  Sealant Systems Inc., a company incorporated under the laws  of
+the US-State of Minnesota. illbruck Sealant Systems, Inc.  currently is under
+liquidation with the liquidation  proceedings presumably completed prior to
+the Closing Date.   1.2.2 Subsidiaries of illbruck Holdings Ltd   UK-
+Holding directly or indirectly holds shares or interests in  the following
+subsidiaries (collectively: the "UK-SUBSIDIARIES";  each of them: "UK-
+SUBSIDIARY"):   UK-Holding is the sole shareholder of Alfas Group Limited,
+a  limited liability company duly organized under the laws of  England and
+Wales, registered with the Companies House, London,  under Company No.
+2448031. Alfas Group Limited has an authorised  share capital of GBP 400,000,
+divided into 120,000 A ordinary  shares of GPB 1 each, 20,000 B ordinary
+shares of GBP 1 each, and  260,000 ordinary shares of GBP 1 each. The issued
+share capital  of GBP 380,000.00 (in words: British Pound three hundred
+eighty  thousand) is divided in 260,000 (in words: two hundred sixty 
+thousand) ordinary shares each with a nominal value of GBP 1.00  (in words:
+British Pound one) and 120,000 (in words: hundred and  twenty thousand)
+shares classified "Ordinary A" each with a  nominal value of GBP 1.00 (in
+words: British Pound one).   Alfas Group Limited holds shares in the
+following subsidiaries:   (i) Alfas Group Limited is the sole shareholder of
+illbruck  Sealant Systems UK Limited, a limited liability company duly 
+organized under the laws of England and Wales, registered  with the Companies
+House, London, under Company No. 1583503.  illbruck Sealant Systems UK
+Limited. The issued share  capital of GBP 100,000.00 (in words: British Pound
+hundred  thousand) is divided in 100,000 (in words: hundred thousand) 
+ordinary shares each with a nominal value of GBP 1.00 (in  words: British
+Pound one).   (ii) Alfas Group Limited is the sole shareholder of
+Compriband  Limited, a limited liability company duly organized under  the
+laws of England and Wales, registered with the Companies  House, London,
+under Company No. 2802593. The authorised and  issued share capital of GBP
+600,000.00 (in words: British  Pound six hundred thousand) is divided in
+300,000 (in words:  three hundred thousand) shares classified "Ordinary A"
+each  with a nominal value of GBP 1.00 (in words: British Pound  one) and
+300,000 (in words: three hundred thousand) shares  classified "Ordinary B"
+each with a nominal value of GBP  1.00 (in words: British Pound one).   
+15   The Companies, the BIG-Subsidiaries and the UK-Subsidiaries, except 
+for Colymit Contractors N.V., Asbiton AG, Cocon Polska Sp.z.o.o. and 
+illbruck Sealant Systems Inc., are hereinafter collectively referred  to as
+the "GROUP COMPANIES" and each of them as "GROUP COMPANY". The  shares of,
+including the partner\'s interest in, the Group Companies  are collectively
+referred to as the "GROUP SHARES".  2 AGREEMENT TO SELL AND TRANSFER THE
+SHARES AND THE SELLER\'S INTELLECTUAL  PROPERTY RIGHTS; AGREEMENT RE
+ASSIGNMENT OF SELLER\'S LOANS; TRANSFER OF  CONTRACTS   2.1 On and subject
+to the terms of this Agreement, the Seller hereby sells  in personam
+(schuldrechtlich) the German Shares to the German  Purchaser and the German
+Purchaser hereby accepts such sale of the  German Shares.   2.2 On and
+subject to the terms of this Agreement, the Seller hereby sells  in personam
+(schuldrechtlich) the UK-Shares and the UK Loan as further  specified in
+SCHEDULE 2.2 to the UK Purchaser and the UK Purchaser  hereby accepts such
+sale of the UK-Shares and the UK Loan.   2.3 On and subject to the terms of
+this Agreement, the Seller hereby sells  in personam (schuldrechtlich) the
+German Loan to the German Purchaser.  The German Purchaser hereby accepts
+such sale of the German Loan.   2.4 On and subject to the terms of this
+Agreement, the Seller hereby sells  in personam (schuldrechtlich) the
+Seller\'s Intellectual Property  Rights as well as the IT Hardware to the
+German Purchaser. The German  Purchaser hereby accepts the sale of the
+Seller\'s Intellectual  Property Rights as well as the IT Hardware.   2.5
+The Seller hereby agrees to transfer in rem (dinglich) the German  Shares,
+the Seller\'s Intellectual Property Rights, the IT Hardware and  the German
+Loan to the German Purchaser, and the German Purchaser  hereby agrees to
+accept such transfer of the German Shares, the  Seller\'s Intellectual
+Property Rights, the IT Hardware and the German  Loan. The transfer of the
+German Shares, the Seller\'s Intellectual  Property Rights, the IT Hardware
+and the German Loan shall be  conditional (aufschiebend bedingt) to   2.5.1
+the Closing Conditions having all occurred; and   2.5.2 the Preliminary
+Purchase Price having been received by the  Seller and the Escrow Agents as
+specified in Clause 3.3.1.   2.6 The Seller and the UK Purchaser agree that
+the UK-Shares are not  transferred by virtue of this Agreement but will be
+transferred with  effect in rem (mit dinglicher Wirkung) at the Closing by
+means of a  separate stock transfer deed substantially in the form as
+attached  hereto as SCHEDULE 2.6. The Seller hereby agrees to transfer in
+rem  (dinglich) the UK Loan to the UK Purchaser and the UK Purchaser hereby 
+agrees to accept such transfer of the UK Loan. The transfer of the UK  Loan
+shall be conditioned to Clause 2.5.1 and 2.5.2.   2.7 The Shares, the
+Seller\'s Intellectual Property Rights, IT Hardware and  the Seller\'s Loans
+shall be sold together with all rights and  obligations attaching to them as
+at the Closing Date (including,  without limitation, the right to receive all
+dividends or  distributions declared, made or paid on or after the Closing
+Date, and  profit    16   generated during the current business year,
+including the period up to  the Closing Date, and interest, etc.) except as
+contemplated otherwise  in Clause 13.3.6.   2.8 The Parties are aware that
+some contracts including, without  limitation thereto, the contracts listed
+in SCHEDULE 2.8 for the  provision of services, etc. (e.g. lease agreements,
+hardware and  software licence agreements, etc.) to the Business as it has
+been  operated in the past have been entered into by the Seller (the 
+"CONTRACTS"). The Parties hereby acknowledge that the transfer of  those
+Contracts requires the consent of the respective contractual  partner (the
+"COUNTERPARTY"). The Parties shall jointly make intensive  endeavours to
+obtain the consent of third parties if this is necessary  for the transfer of
+the Contracts and entry into the Contracts as of  Closing or without any
+undue delay thereafter. Should a Counterparty  to any Contract not consent to
+the assumption of such Contract by one  of the Purchasers, the Seller shall,
+upon request of the Purchasers,  continue the respective contract for the
+benefit and at the expense of  the Group Companies if legally possible.  3
+PURCHASE PRICE; PRELIMINARY PURCHASE PRICE AND PURCHASE PRICE ADJUSTMENT  
+3.1 Purchase Price   The "PURCHASE PRICE" to be paid by Purchasers as joint
+and several  debtors to the Seller for the Shares, the Seller\'s
+Intellectual  Property Rights, the IT Hardware and the Seller\'s Loans as
+sold and  purchased hereunder shall be the aggregate of a fixed amount of
+EUR  115,000,000 (in words: Euro one hundred and fifteen million) ("FIXED 
+AMOUNT") subject to the adjustments specified in Clause 3.2.   3.2 Purchase
+Price Adjustments   3.2.1 The Purchase Price shall be decreased by the Debt
+as defined in  Clause 3.2.1 (i) below and increased by the Cash as defined
+in  Clause 3.2.1 (ii) below.   (i) "DEBT" shall be the aggregate
+consolidated nominal amount of  the following financial debt obligations 
+(Finanzverbindlichkeiten) of the Group Companies as of the  Effective
+Date:   (a) liabilities from borrowings within the meaning of  Section 266
+para 3 C no 1 HGB;   (b) liabilities owed to credit institutions 
+(Verbindlichkeiten gegenueber Kreditinstituten) within  the meaning of
+Section 266 para. 3 C no 2 HGB);   (c) liabilities from the acceptance of
+drawn bills of  exchange (gezogene Wechsel) and the issue of own bills  of
+exchange (Austellung eigener Wechsel) within the  meaning of Section 266
+para. 3 C no. 5 HGB;   (d) the amount payable pursuant to Clause 13.3.6 if
+BIG is  a debtor thereunder;   (ii) "CASH" shall be the aggregate
+consolidated amount of the  following items of cash and cash equivalents of
+the Group  Companies as of the Effective Date:    17   (a) cash, cash in
+banks and cash equivalents within the  meaning of Section 266 para. 2 (B)
+(IV) HGB as well as  the consolidated amount of securities (sonstige 
+Wertpapiere) within the meaning of Section 266 para. 2  lit. (B) (III) (3)
+HGB.   (b) The amount payable pursuant to Clause 13.3.6 if the  Seller is a
+debtor thereunder.   3.2.2 The Purchase Price shall be increased or
+decreased, as the case  may be, on a Euro-for-Euro basis, by any increase or
+decrease in  the Business\' Net Working Capital as of the Closing Date from
+EUR  33,400,000 (in words: Euro thirty three million and four hundred 
+thousand). Such calculation is based on and derived from the  Consolidated
+Effective Date Accounts. As used in this Agreement,  "NET WORKING CAPITAL"
+shall mean the difference between the  aggregate book values of Trade
+Accounts Receivable (Forderungen  aus Lieferungen und Leistungen) within the
+meaning of section 266  paragraph 2 B II. No. 1 HGB, Inventory (Vorraete)
+within the  meaning of section 266 paragraph 2 B I. No. 1 to 4 HGB, and 
+Accrued Expenses (Rechnungsabgrenzungsposten) within the meaning  of section
+266 paragraph 2 C. HGB, minus the aggregate book value  of Trade Accounts
+Payable (Verbindlichkeiten aus Lieferungen und  Leistungen) within the
+meaning of section 266 paragraph 3 C No. 4  HGB and Accrued Income
+(Rechnungsabgrenzungsposten) within the  meaning of section 266 paragraph 3 D
+HGB.   3.2.3 The Purchase Price shall be decreased on a Euro-for-Euro
+basis,  by any decrease in the Group Companies\' consolidated Equity as of 
+the Closing Date from EUR - 10,000,000 (in words: Euro minus ten  million).
+Such a calculation shall be based on and derived from  the Consolidated
+Effective Date Accounts. As used in this  Agreement, "EQUITY" shall have the
+meaning as given in Section  266 (3) A of the HGB. For the avoidance of
+doubt, it is hereby  stated that if the Equity is negative (i.e. a capital
+deficit  (nicht durch Eigenkapital gedeckter Fehlbetrag) within the  meaning
+of section 268 para 3 of the HGB), a higher capital  deficit shall lead to a
+decrease and a lower capital deficit  shall lead to an increase in the
+Purchase Price Adjustment.   3.2.4 The Parties hereby agree that each event
+is to be taken into  consideration only once and in the following sequence:
+(1)  Purchase Price Adjustment and (2) Guarantees.   3.3 Preliminary
+Purchase Price   3.3.1 The Seller shall at least 10 (in words: ten) Business
+Days prior  to the Closing Date deliver to the Purchasers an estimate, 
+calculated in good faith, of the (1) Debt and Cash, (2) the  Seller\'s Loans,
+(3) Net Working Capital, and (4) the Group  Companies\' consolidated Equity
+existing on the Effective Date  (the "ESTIMATED EFFECTIVE DATE STATEMENT").
+The Fixed Amount  increased or decreased by the Debt, the Cash, the
+adjustment  amount of Net Working Capital and the adjustment amount of the 
+Group Companies\' consolidated Equity as shown in the Estimated  Effective
+Date Statement, shall be the preliminary purchase price  to be paid at
+Closing    18   ("PRELIMINARY PURCHASE PRICE"). On the Closing Date,
+the  Preliminary Purchase Price becomes due and payable and shall be 
+credited on the same day, as follows:   (a) 85% of the Preliminary Purchase
+Price shall be paid into the  Seller\'s Account;   (b) 15% of the
+Preliminary Purchase Price shall be paid into the  Escrow Account (the
+"ESCROW AMOUNT").   3.3.2 If on the basis of the Effective Date Statement,
+the Purchase  Price is higher than the Preliminary Purchase Price, the 
+Purchasers shall pay to the Seller an amount equal to the amount  by which
+the Purchase Price exceeds the Preliminary Purchase  Price. If on the basis
+of the Effective Date Statement the  Preliminary Purchase Price is higher
+than the Purchase Price, the  Seller shall pay to the Purchasers an amount
+equal to the amount  by which the Preliminary Purchase Price exceeds the
+Purchase  Price. Any such amount to be paid by either the Purchasers or the 
+Seller ("PURCHASE PRICE ADJUSTMENT") shall be paid within 10 (in  words: ten)
+Business Days after the Effective Date Statement has  become final and
+binding upon the Parties in accordance with  Clause 4.3 to the Seller\'s
+Account or the Purchasers\' Account as  the case may be. Any Purchase Price
+Adjustment shall bear  interest as from Effective Date until the date of the
+actual  payment at a rate per annum of 4% (in words: four per cent) above 
+the Base Interest Rate. Interest shall be calculated on the basis  of actual
+days elapsed and a calendar year with 360 (in words:  three hundred sixty)
+days. Any Purchase Price Adjustment due by  Seller shall be paid in one
+amount to Purchasers; the  distribution between the Purchasers shall be dealt
+with  internally by them.  4 EFFECTIVE DATE STATEMENT   4.1 Preparation
+of the Effective Date Statement   The Purchase Price shall be bindingly
+determined in the Effective Date  Statement.   The "EFFECTIVE DATE
+STATEMENT" shall show (1) the Debt and the Cash  (2) the Seller\'s Loans, (3)
+the Net Working Capital, and (4) the Group  Companies\' consolidated Equity,
+each existing as per the Effective  Date, as well as any Purchase Price
+Adjustment resulting there from.   The Effective Date Statement shall be
+prepared by the Seller by  applying the figures of the Consolidated Effective
+Date Accounts. The  Consolidated Effective Date Accounts shall be prepared by
+the Seller  in accordance with German GAAP, whereby the virtual character of
+the  consolidation has to be taken into account, using the accounting 
+principles used in preparing the virtual consolidated accounts of the 
+Business as of 31 December 2004. The virtual consolidated accounts of  the
+Business as of 31 December 2004 were based on the Consolidated  Audited
+Accounts. In the event of discrepancies between German GAAP  and the
+principles applied in the past, German GAAP shall prevail  taking the virtual
+character of the consolidation into account. The  aforementioned
+determination of the Consolidated Effective Date  Accounts shall include the
+following joint understanding of the  Parties,    19   which shall be
+binding for the Seller, Purchasers and Neutral Auditor,  even if they deviate
+from the principles set forth in this third  sub-paragraph of Clause 4.1.  
+4.1.1 The Seller\'s Loans shall be accounted for at nominal value.   4.1.2
+No reserve shall be made for the costs mentioned in Clause  13.3.7   The
+Purchasers shall after the Closing Date instruct the management of  each
+Group Company to effectively assist the Seller in the preparation  of the
+Consolidated Effective Date Accounts and the Effective Date  Statement and
+give the Seller and the Seller\'s Auditor access to any  information
+reasonably requested by the Seller for this purpose.   4.2 Delivery of
+Effective Date Statement; Work Papers   The Effective Date Statement
+prepared by the Seller shall be delivered  by the Seller to the Purchasers no
+later than 60 (in words: sixty)  Business Days after the Closing Date. The
+Purchasers and its  representatives shall have the right to examine and make
+copies of the  work papers and other documents generated or reviewed in
+connection  with the preparation of the Consolidated Effective Date Accounts
+and  the Effective Date Statements.   4.3 Binding Effect; Revised Effective
+Date Statement   The determination of (1) the Debt and Cash, (2) Seller\'s
+Loans, (3)  the Net Working Capital, and (4) the Group Companies
+consolidated  Equity shall be based on the Effective Date Statement to the
+extent  that the Purchasers does not within 30 (in words: thirty) Business 
+Days after the receipt of the Effective Date Statement provide the  Seller
+with a written report asserting that the Effective Date  Statement received
+from the Seller does not meet the provisions of  this Agreement by way of
+stating specific objections to that effect.  In such event a revised
+Effective Date Statement shall be prepared by  the Purchasers and submitted
+to the Seller within a further 30 (in  words: thirty)-Business Day period
+which shall take into account the  changes that are necessary in the
+Purchasers\' view ("REVISED EFFECTIVE  DATE STATEMENT"). At Seller\'s request
+Seller\'s Auditor shall receive  all necessary assistance and shall be given
+access to the management  of the Group Companies and to all documentation
+relevant for reviewing  the Revised Effective Date Statement, including the
+working papers of  the Purchasers. If no written objections are raised by the
+Seller  within 30 (in words: thirty) Business Days following the delivery
+of  the Revised Effective Date Statement by the Purchasers, then the 
+Revised Effective Date Statement shall be final and binding on the  Parties
+and the determination of (1) the Debt and Cash, (2) the  Seller\'s Loans, (3)
+the Net Working Capital, and (4) the Group  Companies consolidated Equity,
+each existing as per the Effective  Date, as well as any Purchase Price
+Adjustment resulting there from,  shall be based on the Revised Effective
+Date Statement.   4.4 Arbitration Proceedings   If, after the Seller
+having raised in time and due form its objections  against the Revised
+Effective Date Statement ("OBJECTIONS"), the  Parties cannot agree on the
+changes to the Revised Effective Date  Statement within 30 (in words: thirty)
+Business Days following the  delivery of the Objections, each Party shall be
+entitled to request  the Institut der Wirtschaftspruefer in Deutschland e.V.,
+Duesseldorf,  to appoint an auditor to act as an arbitrator
+(Schiedsgutachter)  ("NEUTRAL AUDITOR") to    20   determine the correct
+amount of the Debt, the Cash, the Seller\'s  Loans, the Net Working Capital
+and the Group Companies\' consolidated  Equity as at the Effective Date, if
+and to the extent such positions  are in dispute between the Parties. The
+Neutral Auditor shall decide  in accordance with the principles set out in
+Clause 4.1 on the issues  in dispute within 30 (in words: thirty) Business
+Days after being  appointed. The Neutral Auditor shall give the Parties
+adequate  opportunity to present their views in writing and at a hearing or 
+hearings to be held in the presence of the Parties and their advisors.  The
+Neutral Auditor shall give reasons for its decision and on all  issues, which
+are in dispute between the Parties. The Effective Date  Statement as
+determined by the Neutral Auditor shall be final and  binding (having the
+effect of a Schiedsgutachten within the meaning of  Sections 317 et seq.
+BGB).   4.5 Costs of Reviews   The direct, actual costs of the preparation
+of the Effective Date  Statement as well as of the Consolidated Effective
+Date Accounts shall  be borne by the Purchasers and all costs arising out of
+or in  connection with the review by the Purchasers shall be borne by the 
+Purchasers. In the case of arbitration proceedings referred to in  Clause 4.4
+the Neutral Auditor shall decide upon the allocation of its  costs and
+expenses in accordance with Sections 91 et seq. ZPO.  5 TERMINATION AND
+CLEARING OF AGREEMENTS, ETC. AMONG RELATED COMPANIES   5.1 Termination  
+The Seller shall procure that with effect as of the Closing Date all 
+agreements, liabilities, contingent liabilities, etc. between the  Seller\'s
+Side, on the one hand and any of the Group Companies on the  other hand (such
+agreements, liabilities, contingent liabilities, etc.  listed - without
+limitation thereto - in SCHEDULE 5.1), except for  Seller\'s Loans, even
+though listed in SCHEDULE 5.1 and the amount  payable pursuant to Clause
+13.3.6, are terminated in such a way that  no party to any of those
+agreements has a claim or a liability under  any of those agreements.   5.2
+Assignment and Assumption   The Seller shall procure that prior to, or on
+the Closing Date   5.2.1 the outstanding balances (including interest
+accrued thereon)  payable to the Group Companies by the Seller\'s Side other
+than  the Group Companies ("NON-SBU-ENTITIES" or each individually the 
+"NON-SBU-ENTITY") under the intercompany financing agreements  including the
+respective loans listed in SCHEDULE 5.2.1 or for  goods delivered or for
+services provided or under any other  agreement, each of the outstanding
+balances existing as per the  Closing Date (herein "SELLER\'S FINANCING
+PAYABLES") shall be  assumed by the Seller with full release of the
+respective  Non-SBU-Entity (befreiende Schulduebernahme), providing in each 
+case the consent of the respective Group Company to such change  of debtor
+(Zustimmung zum Schuldnerwechsel); and   5.2.2 the outstanding balances
+(including interest accrued thereon)  payable by the Group Companies to the
+Seller\'s Side under the  inter-company financing agreements including the
+respective loans  listed in    21   SCHEDULE 5.2.1 or for goods
+delivered or services provided or  under any other agreement each of the
+outstanding balances  existing on the Effective Date (herein "SELLER\'S
+FINANCING  RECEIVABLES") shall be assigned (abgetreten) by the Seller\'s
+Side  to the Seller; and   5.2.3 the outstanding Seller\'s Financing
+Receivables existing as per  the Effective Date payable by any of the Group
+Companies other  than BIG to any Non-SBU-Entity shall be assumed by BIG for
+due  consideration with full release of the respective Group Company 
+(befreiende Schulduebernahme) providing in each case the consent  of the
+respective Non-SBU-Entity other than the Seller to such  change of debtor
+(Zustimmung zum Schuldnerwechsel); and   5.2.4 the outstanding Seller\'
+Financing Payables existing as per the  Effective Date payable to any of the
+Group Companies other than  BIG by any Non-SBU-Entity shall be assigned by
+the respective  Group Company to BIG.   5.3 Offsetting   The Seller\'s
+Financing Payables as well as any outstanding balance  payable by the Seller
+to BIG shall be offset (aufgerechnet) against  the Seller\'s Financing
+Receivables as well as any outstanding payable  by BIG to the Seller, each as
+of Closing Date (herein "OFFSETTING").  Seller shall procure that the
+respective debtor and creditor agree  upon the balance being due at Closing
+Date.   Claims resulting from the profit-and-loss pooling agreement
+existing  between Seller and BIG shall be excluded from the offsetting. The 
+party liable for payment of such claim under the profit-and-loss  pooling
+agreement between Seller and BIG shall pay the due amount  without undue
+delay as soon as the Accounts 2005 or the Revised  Accounts 2005, as
+applicable, shall be final and binding on the  Parties. Should BIG be liable
+for such claim, Purchasers will procure  that the obligation of such payment
+will be fulfilled by BIG as  provided for in the prior sentence.   The
+Offsetting shall not result in any adjustment, positive or  negative, to any
+element included in the calculation of the Net  Working Capital or the
+Equity.   The amount owed by BIG to the Seller once the Offsetting has
+been  consummated shall be referred to as the "GERMAN LOAN".   5.4 Clauses
+5.2 and 5.3 shall not apply to the UK Loan.  6 RIGHTS AND COVENANTS BETWEEN
+SIGNING AND CLOSING   6.1 Merger Control Proceedings   6.1.1 The
+Purchasers shall ensure that any filings to be made with the  Federal Cartel
+Office (Bundeskartellamt; "COMPETENT AUTHORITIES")  will be made at the
+latest within 10 (in words: ten) Business  Days after the Signing Date,
+unless the applicable laws and  regulations require an earlier filing. Such
+filings shall be made  by the Purchasers also on behalf of the Seller,
+provided,  however, that the contents of such filings shall require prior 
+written approval of the Seller, which shall not unreasonably be  withheld.
+Any filings with the Competent Authorities shall be  provided to the Seller
+at least 3 (in words: three) Business Days  prior to filing.    22  
+6.1.2 The Parties shall closely co-operate in the preparation of such 
+filings. Each Party shall without undue delay provide the other  Parties with
+copies of any correspondence with the Competent  Authorities and with copies
+of any written statement, order or  decision of the Competent Authorities.
+The Parties shall closely  co-operate in any discussions and negotiations
+with the Competent  Authorities with the objective to obtain clearance for
+the  transaction contemplated by this Agreement in the shortest time  period
+possible.   6.1.3 The Purchasers may withdraw (zuruecknehmen) filings with
+the  Competent Authorities or agree with them on the extension of any 
+examination period only with the express prior written consent of  the
+Seller.   6.1.4 Commercially or otherwise sensitive information on the
+Seller or  any of the Seller\'s Affiliates other than the Group Companies - 
+required for the merger control proceedings or other statutory or  regulatory
+requirements ("SENSITIVE INFORMATION") shall only be  provided by the Seller
+to the Purchasers\' external advisors  directly involved in such proceedings,
+but not to the Purchasers  themselves. The Seller may refuse to provide
+Sensitive  Information if the respective external advisors do not confirm
+in  writing that they will keep Sensitive Information confidential  and, in
+particular, that they will not disclose Sensitive  Information vis-a-vis the
+Purchasers. This Clause 6.1.4 shall  apply mutatis mutandis to commercially
+or otherwise sensitive  information on the Purchasers or any of the
+Purchasers\'  Affiliates.   6.1.5 If the Competent Authorities have not
+cleared the transaction  contemplated by this Agreement within 4 (in words:
+four) months  from the date of this Agreement, either Party shall be
+entitled  (in addition to and without prejudice to all other rights or 
+remedies available, including the right to claim damages) to  terminate
+(zuruecktreten) this Agreement without liability on its  part. After a
+termination in accordance with this Clause 6.1.5,  this Agreement shall cease
+to have force and effect and shall not  create any binding obligation between
+the Contractual Parties  except that Clauses 12, 15 and 16 shall remain in
+force and  effect.   6.2 Pre-Closing Rights and Covenants of the Seller  
+6.2.1 Between the Signing Date and the Closing Date, the Seller shall 
+procure, to the extent permissible under applicable law, that   (i) the
+Group Companies conduct their business operations in the  ordinary course of
+business and substantially in the same  manner as before;   (ii) any
+investment or business decision neither contained in the  respective Group
+Company\'s investment plan nor otherwise to  be regarded as falling within
+the ordinary course of  business which results (A) in annual payment
+obligations or  direct expenditures of more than EUR 250,000 (in words:
+Euro  two hundred and fifty thousand), or (B), in the case of the  signing
+of a contract, in annual payment obligations of  either contractual party of
+more than EUR 150,000 (in words:  Euro one hundred and fifty thousand) and a
+duration of more  than 1 (in words: one) year (each of these    23  
+investments or business decisions hereinafter referred to as  "INVESTMENT")
+shall only be taken/signed after the  Purchasers have approved such
+Investment. If the Group  Companies in relation to such Investment act in
+accordance  with the approval or non-approval of the Purchasers, this  shall
+neither directly nor indirectly lead to any liability  of the Seller vis-a-
+vis the Purchasers under this Agreement,  in particular on the basis of
+Clauses 8 to 10, unless the  Seller or the Group Companies retained
+information available  to it/them required for the assessment of the
+adverse  consequences of such Investment;   (iii) upon Purchasers\'
+request, the management, employees and  advisors of the Purchasers shall get
+reasonable access to  information on the Group Companies, in particular on
+the  development of the Business in 2005, provided that the  respective
+persons are either bound by the Confidentiality  Agreement or subject to
+professional secrecy obligations.   (iv) the Purchasers are immediately
+informed of any change in the  Business that has a Materially Adverse Effect.
+"MATERIALLY  ADVERSE EFFECT" shall mean (A) any incident that leads, on  the
+basis of the relevant business plan, to a loss on the  part of any of the
+Group Companies in excess of EUR 250,000  (in words: Euro two hundred and
+fifty thousand), or (B) the  termination of a contract entered into by any of
+the Group  Companies with annual payment obligations of either  contractual
+party in excess of EUR 150,000 (in words: Euro  one hundred and fifty
+thousand);   (v) upon written request by the UK Purchaser, the Seller
+shall  procure that illbruck Sealant Systems UK Ltd. exercises its 
+termination right regarding its lease agreements for the  Coalville real
+estate with effect as of 31 January 2006,  provided that such written request
+is received by the Seller  by 28 July 2005 at the latest.   6.2.2 Until the
+Effective Date the Seller shall have the right to  procure that the Group
+Companies assign to him the claims  (Forderungen) listed in SCHEDULE
+6.2.2.   6.2.3 The Seller shall use its reasonable best efforts (nach
+Kraeften  bemuhen) to obtain all Third Party approvals, consents and 
+authorisations which are necessary for the continuation by any of  the Group
+Companies, without breach or default as a result of  this Agreement, of all
+contracts containing a change of control  clause.   6.2.4 Seller shall
+procure that the profit and loss pooling agreement 
+(Ergebnisabfuehrungsvertrag) between Seller and BIG shall be  terminated as
+of Effective Date.   6.2.5 Seller shall inform the German Purchaser
+immediately after  having become aware of any breach of Seller\'s Guarantees
+between  the Signing Date and the Closing Date and start the remediation  of
+such breach irrespective of Purchasers\' rights pursuant to  Clause
+7.2.4.    24  7 CLOSING; CLOSING CONDITIONS   7.1 Closing; Closing
+Date   Unless the Parties agree otherwise, the consummation of the 
+transaction contemplated in this Agreement ("CLOSING") shall take  place at
+2.00 pm (CET) at the offices of Linklaters Oppenhoff and  Raedler,
+Prinzregentenplatz 10, 81675 Munich and when the Closing  Conditions set
+forth in Clause 7.2 are satisfied (or are duly waived  by mutual agreement of
+the Parties) on the last Business Day of the  respective calendar month,
+provided that, in the event the amendments  of the respective business year
+(Geschaeftsjahr) of the Group  Companies listed in SCHEDULE 7.1 to commence
+on the Effective Date  have not been approved by or registered with effect
+with the competent  authorities (in particular the Tax Authorities and the
+Commercial  Register), the Seller may postpone the Closing by providing the 
+Purchasers with at least 2 (in words: two) Business Days written  notice
+prior to the otherwise scheduled Closing of such non-approval  or non-
+registration. In such case, Closing shall occur on the last  Business Day of
+the calendar month in which the Seller provides the  Purchasers with at least
+2 (in words: two) Business Days written  notice prior to this last Business
+Day that the change of the business  year has been registered or will be
+registered prior to Closing.   The date on which the Closing shall occur in
+accordance with this  Clause 7.1 shall herein be referred to as the "CLOSING
+DATE".   7.2 Closing Conditions   The consummation of the transaction
+contemplated in this Agreement  shall be subject to the satisfaction of the
+following conditions to  Closing ("CLOSING CONDITIONS", each a "CLOSING
+CONDITION"):   7.2.1 Dresdner Bank AG and Sparkasse Leverkusen have
+confirmed in  writing that the pledge of the shares in illbruck Holdings
+Ltd.  has been terminated and that they no longer have any rights in  the
+shares in illbuck Holdings Ltd and the Dresdner Bank AG has  further released
+BIG and illbruck Bau-Technik GmbH from the  contingencies listed under No. 7
+and 8 in Schedule 8.1.10.(i).   7.2.2 Merger control clearance by the
+Competent Authorities has been  obtained or is deemed to have been obtained
+pursuant to  applicable statutory law.   7.2.3 The consultation/information
+of the French works Council has  taken place.   7.2.4 If a Material Adverse
+Change shall have occurred, the Seller  shall have accepted the Purchaser\'s
+Modification Proposal.   (i) "MATERIAL ADVERSE CHANGE" shall mean the
+occurrence of any  one or more of the following after the Signing Date and 
+prior to the Closing Date:   (a) any damage to or destruction of assets of
+any of the  Group Companies, irrespective of cause, which assets  have a
+value of EURO 5 million (in words: Euro five  million) or more;   (b)
+except for tax audits (Betriebspruefungen) the  commencement of any
+governmental investigation into the  business of any    25   one or more
+of the Group Companies which, if adversely  determined, can reasonably be
+expected to result in a  financial cost or other adverse financial impact to
+the  Group Companies of EUR 5 million (in words: Euro five  million) or
+more;   (c) the occurrence of any event which if adversely  determined can
+reasonably be expected to expose one or  more of the Group Companies to an
+Environmental Claim  of EUR 5 million (in words: Euro five million) or
+more;  or   (d) if, at the Closing Date, any four or more of the 
+following six Key Employees are no longer employed by  the Group Companies
+for any reason: Reiner Eisenhut,  Walter Geyer, Dr. Juergen Hess, Klaus
+Dieter  Hillringhaus, Fred van Gasteren and Matthias Wagner.   (ii) Upon
+the occurrence of Material Adverse Change, the  Purchasers shall be
+obligated, at their election, to: (A)  consummate the transaction
+contemplated herein on the terms  set forth in this Agreement or (B) propose
+to the Seller  reasonable adjustments to the terms of this Agreement, 
+including adjustments to the Purchase Price, generally  designed in so far as
+is practicable, to put the Purchasers  in the position they would have been
+in had the Material  Adverse Change not occurred (a "MODIFICATION PROPOSAL").
+If  the Seller shall not have accepted the Purchaser\'s  Modification
+Proposal within 10 days of the date thereof,  the Purchasers may terminate
+this Agreement without any  liability to the Seller whatsoever.   7.3
+Obligations with Respect to the Closing Conditions   The Parties undertake
+to use their best efforts and to cause the  Closing Conditions to be
+satisfied as soon as possible. With regard to  the merger control clearance,
+the obligations of the Seller and the  Purchasers are more specifically set
+out in Clause 6.1 above. The  Parties shall inform each other in writing
+within a period of 2 (in  words: two) Business Days of the fact that a
+Closing Condition has  been satisfied, by which act the due fulfilment of
+this Closing  Condition shall be deemed to have been satisfied.   7.4
+Actions on Closing   7.4.1 On Closing, the Seller shall deliver or make
+available to the  Purchasers evidence that the person(s) acting in the name
+and on  behalf of the Seller is/are authorised to execute this Agreement.  
+7.4.2 On Closing, each Purchaser shall deliver or make available to  the
+Seller evidence that the person(s) acting in the name and on  behalf of the
+respective Purchaser is/are authorised to execute  this Agreement.   7.4.3
+On Closing, after the performance of the Seller\'s obligations  set forth in
+Clause 7.4.1 the Purchasers shall pay the  Preliminary Purchase Price to the
+Seller in the way specified in  the last sentence of Clause 3.3.1.   
+26   7.4.4 On Closing, the Seller shall deliver to the Purchasers a 
+statement substantially in the form set out in SCHEDULE 7.4.4,  stating that
+all agreements, etc. (except for Seller\'s Loans) to  be terminated pursuant
+to Clause 5 have been terminated.   7.4.5 On Closing, simultaneously (Zug um
+Zug) with the payment of the  Preliminary Purchase Price the Seller shall
+transfer the  UK-Shares to the UK Purchaser by way of a separate stock
+transfer  deed as set out in Clause 2.6 and, further, the IP-Agreement as 
+described in greater detail in Clause 13.4 shall enter into  force.   7.4.6
+On Closing, the Seller and the Purchasers shall sign a  cross-receipt,
+substantially in the form as set forth in SCHEDULE  7.4.6, evidencing (I) the
+fulfilment of the Closing Conditions  set forth in Clause 7.1, and (II) the
+receipt by the Seller of  the Preliminary Purchase Price.   7.4.7 Once the
+cross-receipt has been signed pursuant to Clause 7.4.6,  the agreement in the
+form set forth in SCHEDULE 7.4.7 (the  "LEVERKUSEN LEASE AGREEMENT") shall
+enter into force.   7.5 Consequences of Non-Compliance/Failure of
+Closing   7.5.1 Rights in the Case of Non-Compliance   If the Seller or
+the Purchasers fail to comply with any  obligation set forth in this Clause
+7, the Purchasers, in the  case of non-compliance by the Seller, or the
+Seller, in the case  of non-compliance by any of the Purchasers, shall be
+entitled (in  addition to and without prejudice to all other rights or
+remedies  available, including the right to claim damages) by written 
+notice to either the Seller or the Purchasers as the case may be:   (i) to
+fix a new date for Closing (not being more than 30 (in  words: thirty)
+Business Days after the initial Closing Date)  in which case the provisions
+of this Clause 7, in particular  Clause 7.5.1(ii), shall apply to Closing as
+so deferred but  provided such deferral may only occur once; or   (ii) to
+terminate (zuruecktreten) this Agreement without  liability on its part.
+After a termination in accordance  with this Clause 7.5.1, this Agreement
+shall cease to have  force and effect and shall not create any binding
+obligation  between the Contractual Parties except that Clauses 12, 15  and
+16 shall remain in force and effect.   7.5.2 Right in the Case of Failure of
+Closing   If the Closing has not occurred within a period of 5 (in words: 
+five) months commencing with the Signing Date, either Party may  terminate
+(zuruecktreten) this Agreement. Any termination under  this Clause 7.5.2
+shall be valid only if the recipient Party has  received such written notice
+of termination prior to the date on  which the relevant Closing Condition has
+been satisfied or  waived. The last sentence of Clause 7.5.1(ii) shall apply
+mutatis  mutandis.  8 SELLER\'S GUARANTEES; SELLER\'S BEST KNOWLEDGE   
+27   The Seller hereby guarantees to the Purchasers by way of an
+independent  promise of guarantee pursuant to Section 311 para. 1 BGB
+(selbstaendiges  Garantieversprechen im Sinne des Section 311 Abs. 1 BGB)
+within the scope  and subject to the requirements and limitations provided in
+Clause 9 hereof  or otherwise in this Agreement that the statements set forth
+in Clause 8.1  are complete and correct as of the Signing Date and on the
+Closing Date  (collectively: "SELLER\'S GUARANTEES"). The Seller\'s
+Guarantees are not  granted, and shall not be qualified and construed as,
+quality guarantees in  relation to the object of the purchase (Garantien fuer
+die Beschaffenheit  der Sache) within the meaning of Sections 443, 444 2nd
+alternative BGB,  respectively, that Section 444 2nd alternative BGB shall
+not and does not  apply to the Seller\'s Guarantees.   8.1 Seller\'s
+Guarantees   8.1.1 Corporate Issues and Authority of the Seller   (i) The
+statements in Clause 1 hereof regarding the Group  Companies are complete and
+correct. The Group Companies have  been duly established and validly exist
+under the laws of  their respective jurisdiction.   (ii) The Group Shares
+have been validly issued, are fully paid  in, either in cash or in kind, have
+not been repaid and are  free from any in rem encumbrances (dingliche
+Rechte), they  are not subject to additional unilateral calls for capital 
+by the issuer (Nachschusspflichten) and there are no  pre-emptive rights,
+options or other direct or indirect  rights of Third Parties to acquire any
+of the Group Shares,  in each case except under statutory law or under the 
+articles of association of the respective Group Company or  except listed in
+SCHEDULE 8.1.1(II); the pledge of shares  listed under no. 1 in SCHEDULE
+8.1.1(II) shall be terminated  prior to the Closing Date.   (iii) No
+insolvency proceedings concerning any of the Group  Companies have been
+applied for or been opened and, to the  Seller\'s Best Knowledge, no
+circumstances exist which would  require an application for any insolvency
+proceedings.   (iv) The Seller is entitled to freely dispose of the Shares 
+without such a disposal infringing any rights of a Third  Party. The only
+Third Party consents required for the  Signing and consummation of this
+Agreement are set forth in  Clause 7.2.   (v) The execution and performance
+by the Seller of this  Agreement and the consummation of the transaction 
+contemplated hereby are within the powers of the Seller and  have been duly
+authorized by all necessary company action on  part of the Seller.   (vi)
+The execution and performance by the Seller of this  Agreement and the
+consummation of the transaction  contemplated herein do not violate the
+Articles of  Association of the Seller or any applicable law, regulation, 
+judgment or injunction binding on the Seller, and there is  no action,
+lawsuit, investigation or proceeding pending  (rechtshaengig) against, or, to
+the Seller\'s Best Knowledge,  threatened in writing against, the Seller
+before any court,  arbitration    28   panel or governmental authority
+which challenges or seeks to  prevent the transaction contemplated
+herein.   8.1.2 Tax Filing and Payment; Financial Statements   (i) The
+Companies have duly and timely made all Tax filings due,  and have paid all
+Taxes due and payable.   (ii) The Seller has delivered to the Purchaser the
+unaudited  consolidated balance sheets, income statements, and cash  flow
+statements of the Group Companies at December 31, 2004  and May 31, 2005 (the
+"Financial Statements"). The Financial  Statements have been prepared from
+the books and records of  the Group Companies and present a true and fair
+view of the  financial position of the Business, and the results of 
+operations and cash flows of the Business at the respective  dates and for
+the respective periods then ended in  accordance with German GAAP,
+consistently applied.   (iii) All shares held by BIG in Group Companies
+having the legal  form of a corporation, except for the shares in Illbruck 
+BauTechnik GmbH, acquired by BIG in course of the conversion  of Illbruck Bau
+Technik GmbH and Co. KG into the legal form of  a GmbH, as of the Effective
+Date are not subject to capital  gains taxation pursuant to Section 8b
+paragraph 4 of the  German Corporation Income Tax Act 
+(Koerperschaftsteuergesetz).   (iv) As at the Effective Date, BIG is
+entitled to a Corporation  Income Tax Refund Potential
+(Koerperschaftsteuerguthaben)  within the meaning of Section 37 of the
+Corporation Income  Tax Act (Koerperschaftsteuergesetz) equal to or higher
+than  3/7 (in words: three sevenths) of the positive portion of  the
+retained earnings within the meaning of Section 30  paragraph 2 no. 2 of the
+Corporation Income Tax Act in the  version of Article 4 of the Act dated 14
+July 2000 (herein  referred to as EK02).   8.1.3 Real Property   (i)
+SCHEDULE 8.1.3(I)-1 contains a list of real property owned  by the Group
+Companies and rights equivalent to real  property (grundstuecksgleiche
+Rechte), including, but not  limited to, hereditary building rights ("OWNED
+REAL  PROPERTY"). SCHEDULE 8.1.3(I)-2 contains a set of copies of  recent
+excerpts of the land registers (Grundbuecher) and  similar registers for all
+Owned Real Property, evidencing  all land charges (Grundpfandrechte) or other
+encumbrances  (beschraenkte dingliche Rechte) which require registration  in
+such register (each an "ENCUMBRANCE"). To the Seller\'s  Best Knowledge,
+there are no applications for registration  pending, nor are there any Third
+Party rights which are not  registered but which ought to be registered.
+There are no  pre-emptive rights, options or other direct or indirect 
+rights of Third Parties to acquire any of the Owned Real  Property, whether
+in whole or in part, however, in each case  except under statutory law   
+29   or except listed in SCHEDULE 8.1.3(I)-1 or shown in SCHEDULE 
+8.1.3(I)-2.   (ii) SCHEDULE 8.1.3(II) contains a complete and correct list
+of  real property leased or rented by the Group Companies, in  each case
+indicating (1) whether as lessee or as lessor, (2)  the respective lessee\'s
+lease payment obligations under the  lease agreements, (3) the duration of
+each lease, (4) the  notice periods, and (5) whether or not a renewal option
+(if  any) needs to be exercised prior to 31 December 2005 in  order to
+extend the lease (the "LEASED REAL PROPERTY",  together with the Owned Real
+Property the "REAL PROPERTY").  Each lease listed in SCHEDULE 8.1.3(II) is
+valid and binding  and in full force and effect and no party thereto is in 
+default therewith.   (iii) All of the buildings, structures, other
+improvements and  fixtures of the Real Property conform in all material 
+respects to applicable health, fire, safety, zoning and  building laws and
+ordinances and administrative regulations,  provided, however, that any non-
+compliance shall be regarded  irrelevant for the purpose of this Clause
+8.1.3(iii) unless  such non-compliance has detrimental financial effects on
+the  respective Group Company exceeding EUR 10,000 (in words:  Euro ten
+thousand) in the individual case of non-compliance  or, in the case of a
+series of non-compliances arising from  substantially identical facts or
+circumstances, exceeding  EUR 100,000 (in words: Euro one hundred thousand)
+in the  aggregate.   (iv) All of the buildings, structures, other
+improvements and  fixtures of the Owned Real Property are in good working 
+condition and repair, normal wear and tear excepted, except  as provided for
+in SCHEDULE 8.1.3(IV).   (v) No subsidies have been received with regard to
+the Owned  Real Property since its acquisition by any of the Group 
+Companies, and the Owned Real Property is not subject to  monument
+protection. To the Seller\'s Best Knowledge this  applies mutatis mutandis to
+the Leased Real Property.   (vi) There are no unfulfilled requirements of
+supply companies  (electricity, gas, water and waste water or the disposal
+of  rubbish) addressed in writing or unfulfilled requirements of  a public-
+law nature imposed by the competent authorities in  writing regarding the
+present condition of the Owned Real  Property and, to the Seller\'s Best
+Knowledge, regarding the  present condition of the Leased Real Property.  
+(vii) All development measures under the pertinent construction  codes, the
+building planning and permit ordinances and  similar laws of the respective
+countries  (Erschliessungsmassnahmen) with regard to the Owned Real 
+Property have been fully paid for.    30   (viii) Each Real Property can
+be accessed by vehicles typically  used for the Business at least to the same
+extent this was  possible during the last 12 (in words: twelve) months
+prior  to the Signing Date; to the Seller\'s Best Knowledge there  are no
+indications that this will change after the Signing  Date.   8.1.4 Material
+Assets, Information Technology, Material Contracts   (i) Each of the Group
+Companies owns, or holds lawful possession  of, all material assets which are
+necessary to carry on the  Business in substantially the same manner as it
+has been  carried on in the 12 (in words: twelve) months prior to the 
+Signing Date ("MATERIAL ASSETS"). Except as set forth in  Schedule 8.1.4 (i),
+all Material Assets are in working  condition, in a good state of
+preservation corresponding to  normal use, have been properly maintained and
+- insofar as  is applicable - the necessary construction engineering and 
+safety inspections have always been carried out with regard  thereto.  
+(ii) Each of the Group Companies is in lawful possession of or  has a valid
+usage licence for, or has acquired lawful  ownership of all IT necessary to
+carry on the Business in  substantially the same manner in which it was
+carried on in  the 12 (in words: twelve) months prior to the Signing
+Date.   (iii) The contracts listed in SCHEDULE 8.1.4(III) constitute all 
+Material Contracts. Each of the Material Contracts is valid  and binding and
+in full force and effect and no party  thereto is in default therewith.  
+(iv) The inventory specified in accordance with Section 266 B.I.  HGB of the
+Group Companies which will be shown in the  Consolidated Effective Date
+Account ("INVENTORY") will have  been acquired in the ordinary course of
+business. The  Inventory is usable and saleable in the ordinary course of 
+business.   8.1.5 Intellectual Property Rights   (i) The patents, design
+patents, trademarks, trade names,  utility models, copy rights, internet
+domain names,  unpatented inventions, recipes and respective applications 
+which are listed in SCHEDULE 8.1.5(I), together with  formulae, processes,
+designs and know-how used by the Group  Companies in the last 36 (in words:
+thirty-six) months prior  to the Signing Date, constitute the intellectual
+property  rights of the Business ("INTELLECTUAL PROPERTY RIGHTS"). The 
+Intellectual Property Rights are lawfully owned or have been  applied for by
+the Group Companies or will be transferred  lawfully as of the Closing Date
+to the German Purchaser.  There are no licence agreements with Third Parties
+for the  licensing of any of the Intellectual Property Rights.   (ii)
+Except as set out in SCHEDULE 8.1.5(II)-(1), the  Intellectual Property
+Rights are not subject to any pending  (rechtshaengig) proceedings for
+opposition, cancellation,  revocation or rectification which may    31  
+negatively affect the operation of the Business taken as a  whole and, to the
+Seller\'s Best Knowledge, no such  proceedings are threatened in writing. To
+the Seller\'s Best  Knowledge, the Intellectual Property Rights are neither 
+being materially infringed by Third Parties nor do they  materially infringe
+intellectual property rights of Third  Parties, except for the Intellectual
+Property Rights listed  in SCHEDULE 8.1.5(II)-(2) in relation to which
+conflicts may  arise.   (iii) Except for employee inventions, none of the
+past or present  employees, officers or directors of any of the Group 
+Companies has any rights in any of the Intellectual Property  Rights, nor has
+any person made in writing any claim to any  of the Intellectual Property
+Rights.   (iv) SCHEDULE 8.1.5(IV) contains a complete list of all 
+intellectual property rights licensed by one or more of the  Group Companies
+from Third Parties ("LICENSED INTELLECTUAL  PROPERTY RIGHTS"), stating (1)
+the parties to such licence  agreement, (2) its commencement date and (3) its
+expiry  date. Each of the licence agreements listed in SCHEDULE  8.1.5(IV)
+is valid and binding and in full force and effect  and no party thereto is in
+default therewith.   (v) Together with the Licensed Intellectual Property
+Rights, the  Intellectual Property Rights comprise all intellectual 
+property used, held or necessary to operate the Business as  it is currently
+conducted and was conducted in the last 12  (in words: twelve) months prior
+to the Signing Date.   8.1.6 Employment   (i) There are no collective
+bargaining agreements  (Tarifvertraege) by which any of the Group Companies
+is  bound.   (ii) SCHEDULE 8.1.6(II) contains the following information
+with  regard to the Relevant Employees:   - surname,   - first name,  
+- date of joining,   - working full-time or part-time,   - forecast annual
+salary 2005 (without commission) based  on the salary in the first 5 months
+of 2005,   - bonus, commission sums received 2004,   - bonus, commission
+entitlements 2005,   - travel costs flat-rate monthly,   -
+disabled/maternity leave,   - pre-retirement part-time work
+(Altersteilzeit),   - member of Works Council,   - company car,   -
+notice period,   - pension entitlement;   (iii) There are no other labour
+disputes pending (rechtshaengig)  except as set forth in SCHEDULE
+8.1.6(III).    32   (iv) There are no other pension plans except as set
+forth in  SCHEDULE 8.1.6(II).   (v) The Group Companies have claimed the
+rights in all notified  employee inventions within the time limits provided
+for by  law. All payments due under the respective employee  invention laws
+for used inventions have been made.   (vi) None of the Group Companies
+maintains a share option scheme  whereby an employee of any of the Group
+Companies is  entitled to acquire shares in any of the Group Companies,  nor
+has any current or former employee of any of the Group  Companies acquired
+any not yet fully satisfied claim under  such a share option scheme.  
+(vii) Except set forth otherwise in SCHEDULE 8.1.6(VII), no  current Key
+Employee of any of the Group Companies has  notified the Seller or the
+respective Group Company (being  the employer) in writing of his or her
+intention to  terminate his/her employment relationship, and the Seller  has
+no reason to believe that any Key Employee wishes to  terminate his/her
+employment relationship prematurely. For  the purposes of Clauses 8.1.6(vii)
+and 8.1.6(viii), "KEY  EMPLOYEE" shall mean any person listed in SCHEDULE 
+8.1.6(VII).   (viii) None of the Key Employees has been promised by any of
+the  Group Companies a stay bonus or a transaction bonus.   (ix) All
+employees transferred from the Seller to any of the  Group Companies in the
+last 6 (in words: six) months prior  to the Closing Date were working in the
+last 12 (in words:  twelve) months prior to being transferred predominantly
+for  the Business.   (x) The Dutch Companies do not have an agreement or
+other  arrangement with any trade union or other body representing  its
+employees or any of them and the Dutch Companies do not  have any dispute
+with any such body, and no such dispute is  anticipated.   (xi) The Dutch
+Companies are not involved in any industrial or  trade disputes
+(betriebsverfassungsrechtliche  Streitigkeiten) or any dispute or negotiation
+regarding a  claim of material importance with any trade union or 
+association or trade unions or organisations or body of  employees, and no
+such dispute is anticipated.   8.1.7 Insurance   The Group Companies
+maintain liability (Haftplichtversicherung),  product liability
+(Produkthaftpflichtversicherung), casualty  (Unfallversicherung), property
+loss (Sachversicherung) and  insurance cover against other material risks
+upon the Business.  With respect to the Group Companies and the operation of
+the  Business, in the 2 (in words: two) years prior to the Signing  Date,
+the Group Companies have not been refused any insurance nor  has their
+coverage been limited by any insurance company to which  they have applied
+for insurance or with which they have carried  insurance. All insurance
+premiums due and payable have been paid  (other than retroactive or
+retrospective premium adjustments  which are not yet, but    33   which
+may be, required to be paid with respect to any period  ending prior to the
+Closing Date), and, as of the Signing Date,  no notice of cancellation or
+termination has been received with  respect to any such policy which was not
+replaced on  substantially similar terms prior to the date of such 
+cancellation. For a period of 2 years after the Closing Date the  Seller
+shall maintain its DandO; insurance coverage in the same form  as before the
+Closing Date.   8.1.8 Litigation, Product Claims, Compliance with Laws  
+(i) Except as disclosed in SCHEDULE 8.1.8(I), there is no  written and
+reasonably detailed statement of claim  (Anspruchsschreiben), action, suit,
+proceedings or  investigation (limited, in the case of investigations, to 
+investigations by or before any government department,  commission, board,
+bureau, agency or instrumentality  -domestic or foreign), other than product
+claims, which are  subject solely to Clause 8.1.8(ii) below, pending 
+(rechtshaengig) or, to the Seller\'s Best Knowledge,  threatened in writing
+against any Group Company involving  any matter of more than EUR 100,000 (in
+words: Euro one  hundred thousand) individually, not including, however, 
+collection matters in the ordinary course of business.   (ii) Except as
+disclosed in SCHEDULE 8.1.8(II), in the three-year  period prior to the
+Closing Date, none of the Group  Companies has received in connection with
+any product  manufactured, sold or distributed by any of them in writing  
+(a) any claim of personal injury or death; or   (b) any claim of property
+damage, any claim for punitive or  exemplary damages, any claim for
+contribution or  indemnification or any claim for injunctive relief, in 
+each case with an amount in dispute exceeding EUR  100,000 (in words: Euro
+one hundred thousand).   other than claims which were resolved at the
+business level  through credit or replacement of goods or allowance 
+therefor.   (iii) Each of the Group Companies is in compliance with all 
+applicable statutes, laws, ordinances, rules, orders and  regulations of any
+governmental entity of any jurisdiction  in which such Group Company operates
+(including  Environmental Laws) provided, however, that any  non-compliance
+shall be regarded irrelevant for the purpose  of this Clause 8.1.8(iii)
+unless such non-compliance has  detrimental financial effects on the
+respective Group  Company exceeding EUR 10,000 (in words: Euro ten
+thousand)  in the individual case of non-compliance or, in the case of  a
+series of non-compliances arising from substantially  identical facts or
+circumstances, exceeding EUR 100,000 (in  words: Euro one hundred thousand)
+in the aggregate.    34   8.1.9 Public Law Permits, Environmental;
+Subsidies   (i) The Group Companies possess all material public-law
+permits,  concessions and licences necessary to conduct its current 
+operations taken as a whole (including material permits,  concessions and
+licences necessary under any Environmental  Laws) ("PUBLIC LAW PERMITS"). To
+the Seller\'s Best Knowledge  no circumstances exist which could justify a
+revocation of  such Public Law Permits, and all material conditions in 
+connection with such Public Law Permits are being complied  with.   None of
+the Public Laws Permits or any of the conditions of  any of the Public Laws
+Permits are personal or dependent on  any companies other than the Group
+Companies.   (ii) Except as set forth in SCHEDULE 8.1.9(II),   (a) none of
+the Group Companies is subject to pending or,  to the Seller\'s Best
+Knowledge, threatened (in writing)  administrative (behoerdliche Verfahren)
+or court  proceedings (Gerichtsverfahren) on the grounds of  violating
+Public-law Permits or Environmental Laws,  including, without limitation,
+disposal and/or storage  of industrial effluent, sewage (Abwasser) and
+other  waste;   (b) no Environmental Claims are pending (rechtshaengig)
+or,  to the Seller\'s Best Knowledge, threatened (in writing)  with regard
+to the Business.   (iii) The products, particularly the raw materials, used
+by the  Group Companies in the production process are lawfully  permitted to
+be used in such a production process under the  applicable Environmental
+Laws.   (iv) None of the Group Companies has received any subsidies which 
+may be reclaimed by the granting authorities.   8.1.10 Contingent
+Obligations; Corporate Liability Arising From  Restructuring   (i) The
+Group Companies do not have any contingent obligation  (such as - without
+limitation thereto - Buergschaften,  gesamtschuldnerische Haftung, etc.) for
+the Seller\'s Side,  except those set forth in SCHEDULE 8.1.10(I).   (ii)
+The Group Companies will not be held liable for (1) any  liability not
+related to the Business of any liquidated  company in which they held a share
+or interest, or (2)  unassumed liabilities of companies whose assets were
+taken  over by any Group Company, or (3) any liability related to a 
+business other than the Business, formerly operated by any  of the Group
+Companies or any of their subsidiaries at that  time spun off or otherwise
+transferred prior to Closing from  any of the Group Companies, in each case
+provided that such  liability is neither reflected in the respective Group 
+Company\'s annual accounts nor partially or in whole  compensated   
+35   by a benefit any of the Group Companies avails of due to 
+circumstances covered by this Clause 8.1.10(ii). This Clause  8.1.10(ii)
+shall include the following companies:   - illbruck Sanitaer-Technik
+GmbH   - illbruck Akustiksysteme GmbH   - illbruck Sealant Systems Inc.,
+USA   - Asbiton AG, Switzerland   - illbruck Bau AG, Switzerland   -
+Sealstrip Holdings Ltd., England   - Sealstrip Ltd., England   - Sealants
+Express Ltd., England   - Revac S.A., France   - Cocon Polska Sp. z.o.o.,
+Poland   - Colymit Contractors N.V., Belgium   - illbruck s.r.l.,
+Italy   - illbruck S.a.r.l., France.   (iii) The Group Companies will not
+be held liable by Third  Parties for any debt of legal entities which were
+merged  with any of the Group Companies prior to Closing, insofar as  such
+debt is not related to the Business as conducted by the  Group Companies as
+of the Closing Date or in the last 12 (in  words: twelve) months prior to the
+Closing Date.   (iv) The Group Companies will not be held liable for any 
+asbestos-related claims arising from the operation or  occupancy of the
+Coalville real estate or production and  sale of products from that site.  
+8.1.11 Ordinary Course of Operation Since the Accounts Date   Since 1
+January 2005 the Business has been carried on in the  ordinary course
+substantially in the same manner as before.   8.2 No other Seller\'s
+Guarantees   The Purchasers explicitly acknowledge to purchase and acquire
+the  Shares and the Business in the condition they are in on the Closing 
+Date based upon the inspection, examination and determination with  respect
+thereto performed in their interest, and to undertake the  acquisition based
+upon the inspection, examination and determination  performed in their
+interest without reliance upon any express or  implied representations,
+warranties or guarantees of any nature made  by the Seller except for the
+Seller\'s Guarantees as well as  indemnities and covenants explicitly given
+by the Seller under this  Agreement.   8.3 Seller\'s Best Knowledge   
+36   For the purpose of this Agreement, "SELLER\'S BEST KNOWLEDGE" shall 
+mean that the persons listed in SCHEDULE 8.3-(1) neither have actual 
+knowledge (positive Kenntnis) nor are they deemed to have knowledge  after
+having exercised reasonable care, and, after due inquiry of the  persons
+listed in SCHEDULE 8.3-(2) as can be reasonably expected of a  seller, acting
+prudently according to orderly business practice, that  the relevant
+statement in the Seller\'s Guarantees contained in this  Clause 8 is
+incorrect.  9 REMEDIES FOR BREACH OF SELLER\'S GUARANTEES   9.1 Types of
+Remedies and Recoverable Damages   In the event of any breach or non-
+fulfilment by the Seller of any  Seller\'s Guarantee the Seller shall at its
+sole discretion either (I)  put the respective Purchaser into the position
+this Purchaser would  have been in had the Seller\'s Guarantee not been
+breached (restitution  in kind; Naturalrestitution), or (II) pay to the
+respective Purchaser  monetary damages (Schadenersatz in Geld).   9.2
+Provision for Damage and Loss   The Seller shall not be liable for, and the
+Purchasers shall not be  entitled to claim for, any damage or losses of the
+Purchasers for a  breach of a Seller\'s Guarantee if and to the extent
+that   9.2.1 the matter to which the claim relates is provided for in the 
+Consolidated Effective Date Accounts; or   9.2.2 a valid and enforceable
+claim for repayment or indemnification  against a Third Party exists,
+including, but not limited to,  claims under existing insurance policies.  
+9.3 De Minimis Amount, Threshold Amount and Aggregate Liability   9.3.1 De
+Minimis Amount   The Purchasers shall only be entitled to any claims for
+breach of  any Seller\'s Guarantee to the extent each individual claim (or
+a  series of claims arising from substantially identical facts or 
+circumstances) exceeds an amount of EUR 50,000 (in words: Euro  fifty
+thousand) ("DE MINIMIS AMOUNT"). Where the liability agreed  or determined in
+respect of any such claim or series of claims  exceeds the De Minimis Amount,
+the liability of the Seller shall  be limited to the amount of the
+excess.   9.3.2 Threshold Amount   The Seller shall not be liable for
+breach of any Seller\'s  Guarantee in respect of any claim unless the
+aggregate amount of  all claims for which the Seller would otherwise be
+liable for  breach of any Seller\'s Guarantee exceeds EUR 500,000 (in
+words:  Euro five hundred thousand) ("THRESHOLD AMOUNT"). Where the  amount
+agreed or determined in respect of all claims referred to  in this Clause
+9.3.2 exceeds the Threshold Amount the liability  of the Seller shall be for
+the entire amount and not only for the  excess.   9.3.3 Aggregate
+Liability    37   The aggregate liability of the Seller under this
+Agreement  including, but not limited to, any and all claims for breach of 
+any of the Seller\'s Guarantees other than the Seller\'s Guarantees  given in
+Clauses 8.1.1(i), 8.1.1(ii), 8.1.1(iv), 8.1.10 and 10  shall not exceed the
+Escrow Amount. The aggregate liability of  the Seller for breach of the
+Seller\'s Guarantees given in Clauses  8.1.1(i), 8.1.1(ii), 8.1.1(iv), 8.1.10
+and Clause 10 shall be  limited to the Purchase Price.   9.4 Contingent
+Liabilities and Minority Shareholdings   9.4.1 The Seller shall also be
+liable for breach of any Seller\'s  Guarantee in respect of any liability
+which is contingent, but  the payment obligation shall only arise when the
+contingent  liability becomes an actual liability due and payable.   9.4.2
+In relation to PDR Recycling GmbH + Co KG and PDR GmbH Clause 8  shall not
+apply except for Clauses 8.1.1(i) and 8.1.1(iv).   9.5 Notification of
+Seller; Procedure in the Case of Third Party Claims   9.5.1 In the event
+that in connection with a breach of a Seller\'s  Guarantee any claim or
+demand of a Third Party is asserted  against either Purchaser or any of the
+Group Companies (for the  purposes of this Clause 9.5: the "RELEVANT
+COMPANY"), the  respective Purchaser shall (I) make available to the Seller
+a  copy of the Third Party claim or demand, and a copy of all  documents
+necessary to defend the Relevant Company against such  claim and (II) inform
+the Seller whether the Relevant Company  intends to defend against the Third
+Party claim.   (i) If the Relevant Company defends against the Third Party 
+claim, the Seller shall throughout the whole proceedings be  entitled to all
+information related to the Third Party claim  and to be represented by its
+own counsel in the respective  proceedings. Prior to their filing with the
+respective court  or arbitration panel the Seller shall be provided with
+any  written submission. The Seller may require that the claim be  litigated
+in accordance with its instructions.   (ii) If the Relevant Company decides
+not to defend, the Seller  shall have the right to defend the Relevant
+Company against  the Third Party claim by all appropriate proceedings and 
+shall have the power to direct such defence. In particular,  the Seller may
+(I) participate in and direct all  negotiations and correspondence with the
+Third Party  relating to the Third Party claim, (II) appoint and instruct 
+counsel acting, if necessary, in the name of the Relevant  Company, and (III)
+require that the claim be litigated in  accordance with the Seller\'s
+instructions. The Seller shall  conduct such proceedings in good faith with
+due regard to  the concerns of the respective Purchaser and the Relevant 
+Company.   (iii) In no event shall the Relevant Company be entitled to 
+acknowledge or settle a claim or permit any such  acknowledgement or
+settlement without the Seller\'s prior  written consent to the extent that
+such    38   claims may result in a liability of the Seller under
+Clauses  8 through 10.   (iv) The respective Purchaser and the Relevant
+Company shall, at  their expense, fully cooperate with the Seller in the 
+defence of any Third Party claim, provide the Seller and its  respective
+representatives (including, for the avoidance of  doubt, its advisors)
+reasonable access during normal  business hours to all relevant business
+records and  documents and permit the Seller and its respective 
+representatives to consult with the directors, employees and  representatives
+of the Relevant Company.   9.5.2 To the extent that the Seller is in breach
+of a Seller\'s  Guarantee, all costs and expenses reasonably incurred by
+the  Seller and the Relevant Company (including advisors\' fees) in 
+defending a Third Party claim shall be borne by the Seller. If it  turns out
+that the Seller was not in breach, any costs and  expenses reasonably
+incurred by the Seller and the Relevant  Company in connection with the
+defence (including advisors\' fees)  shall be borne by the Purchasers.  
+9.5.3 The failure of the Purchasers to comply with their obligations  under
+this Clause 9.5 shall release the Seller from its  respective obligation(s)
+under Clauses 8 and 9 unless the  non-compliance of the Purchasers with their
+obligations under  this Clause 9.5 has not caused a loss to the Seller.  
+9.6 Maturity of Claims depending on further Precondition; Expert\'s 
+Decision   9.6.1 Precondition to Maturity (Faelligkeitsvoraussetzung)  
+The Seller\'s Guarantees contained in Clauses 8.1.3(iii) and  8.1.8(iii)
+shall only become due if one of the following events  occurs:   (i) a final
+(bestandskraeftig) and enforceable (vollziehbar) or  immediately enforceable
+(sofort vollziehbar) order, decree  or demand is issued by any governmental
+authority  (Behoerde), or   (ii) a court judgment or an amicable settlement
+(in court or  outside court, gerichtlicher oder aussergerichtlicher 
+Vergleich) is rendered in connection with a private party  claim provided
+that such settlement is binding upon the  Seller due to its consent; or  
+(iii) the Expert\'s decision has become final and binding on the  Parties
+pursuant to Clause 9.6.2.   In the case of Clauses 9.6.2(i) and 9.6.2(ii),
+Clause 10.2 shall  apply mutatis mutandis.   9.6.2 Expert\'s Decision  
+(i) If in the Purchasers\' assessment a Seller\'s Guarantee  contained in
+Clauses 8.1.3(iii) or 8.1.8(iii) is breached  and within a period of 4 (in
+words: four) weeks commencing  with the delivery of a respective notice to
+the Seller the  Parties cannot agree upon how to resolve the matter in 
+dispute, an expert ("EXPERT") may be appointed by (A) the  Parties, or (B),
+if the Parties fail to agree on a person  within the    39   mentioned
+four-weeks-period, upon request of either Party by  the President of
+Gesamtverband der Kunsstoffverarbeitenden  Industrie e.V., Frankfurt am Main
+("GKV").   (ii) The Expert shall be a person who, considering his/her 
+education and occupational experience, (A) is sufficiently  acquainted with
+the industrial standards and the  cost-benefit calculations usually applied
+in companies of  similar size and ownership structure to the Group
+Companies  and engaged in similar types of business and operations, (B)  has
+the expertise to decide on the matter in dispute, and  (C) legally and
+economically independent from both the  Seller\'s Side and the Purchasers\'
+Side.   (iii) The Expert, acting as third party pursuant to Section 317 
+BGB, shall determine, independently and impartially from the  Seller\'s Side
+and the Purchasers\' Side, whether and to what  extent the respective
+Seller\'s Guarantee is breached and  which actions are to be taken in order
+to remedy such breach  when the industrial standards and the cost-benefit 
+calculations usually applied in companies of similar size  and ownership
+structure to the Group Companies and engaged  in similar types of business
+and operations as of the  Closing Date are applied, regardless of whether
+such  standards satisfy the applicable laws in every respect. The  Expert
+shall deliver its decision to the Parties in writing  and in the English
+language. The Expert\'s decision shall be  final and binding on the Parties
+once all Parties have  received a copy thereof.   (iv) The Expert shall
+give the Parties the opportunity to provide  their illustration and
+assessment of the disputed matter in  writing or, in one or several hearings
+announced to all  Parties, verbally. Except to the extent the Parties agree 
+upon certain facts or conclusions therefrom, the Expert  shall not be bound
+by either Party\'s illustration or  assessment.   (v) The Parties shall
+closely co-operate with the Expert. In  particular, each Party shall without
+undue delay provide the  Expert any information in relation to the matter in
+dispute  which he/she in his/her discretion deems necessary for  his/her
+decision. The Purchasers shall procure that upon  his/her request the Expert
+is given access to the Group  Companies\' premises and business papers, books
+and records.   (vi) Clause 9.5.2 shall apply mutatis mutandis.   (vii) The
+conducting of an Expert procedure as described in Claim  9.6.2(i) to (iv)
+shall not preclude the application of  Clause 9.6.1(i) or of Clause
+9.6.1(ii). In the event of  discrepancies in the measures to be taken, the
+decisions  pursuant to Clause 9.6.1(i) or 9.6.1(ii)shall prevail.   (viii)
+Irrespective of the due date of any of the claims pursuant  to Clause 9.6.1,
+the Purchasers shall be free to raise a  declaratory    40   order
+(Feststellungsklage) against the Seller in order to  prevent such claims to
+become time-barred.   9.7 Mitigation   Section 254 BGB shall remain
+unaffected, i.e. the Purchasers are in  particular obliged to prevent the
+occurrence of any damage and loss  and to limit the scope of any damage and
+loss incurred in accordance  with Section 254 BGB.   9.8 Limitation
+Periods   All claims for any breach of a Seller\'s Guarantee pursuant to
+Clause  8.1.1(i), 8.1.1(ii) and 8.1.1(iv) shall not become time-barred.
+Claims  with respect to Taxation (Clause 8.1.2(iii) and (iv) and Clause 10) 
+shall become time-barred in accordance with Clause 10.4. Claims with  respect
+to Environmental Matters (Clause 8.1.9) and pursuant to Clause  8.1.10 shall
+become time-barred 5 (in words: five) years after the  Closing Date. All
+other claims of the Purchasers under this Agreement  shall become time-barred
+18 (in words: eighteen) months after the  Closing Date. Section 203 BGB shall
+not apply.   9.9 Exclusion of Further Remedies, Effect of Payment   9.9.1
+To the extent permitted by law, any further claims and remedies  of the
+Purchasers other than explicitly provided for under this  Agreement,
+irrespective of which nature, amount or legal basis,  are hereby expressly
+waived and excluded, in particular, without  limitation, claims under pre-
+contractual fault (Section 311 para.  2 and 3 BGB), breach of contract
+(positive Vertragsverletzung)  and/or the right to reduce the Purchase Price
+(Minderung) or to  terminate this Agreement (Ruecktritt), and any liability
+in tort  (Deliktshaftung); provided, however, that this exclusion shall  not
+apply to any claims or remedies of any nature whatsoever  which are caused by
+or based upon gross negligence (grobe  Fahrlaessigkeit) or wilful misconduct
+(Vorsatz) of the Seller in  the context of this Agreement. Sections 826, 123,
+444, 2nd  alternative BGB shall not be affected.   9.9.2 Further to the
+statements made in Clause 8, the Parties agree  that the provisions contained
+in Clauses 8 and 9 of this  Agreement are no quality guarantees in relation
+to the object of  the purchase (Garantien fuer die Beschaffenheit der Sache)
+within  the meaning of Sections 443, 444, 2nd alternative BGB. In the  event
+that the provisions of Clauses 8 and 9 setting out the  scope and limitations
+of the Seller\'s liability are, contrary to  the intention and explicit
+understanding of the Parties, regarded  and construed as quality guarantees
+in relation to the object of  the purchase, and the limitations of the
+Seller\'s liability  contained herein are therefore found wholly or partially
+invalid,  the Purchasers hereby waive the right to assert claims going 
+beyond the limits of limitations provided for herein. The Seller  accepts
+such waivers.   9.10 Escrow, Escrow Agreement   As security for the
+fulfilment of the Seller\'s obligations under this  Agreement, the Escrow
+Amount shall be paid into the account set up in  mutual agreement by the
+Excrow Agents (the "ESCROW ACCOUNT"), free of  any costs and fees. Together
+with the Escrow Agents, the Parties have  entered into the Escrow Agreement
+attached    41   hereto as SCHEDULE 9.10. The Escrow Amount shall be
+released to the  Purchasers/Seller in accordance with the Escrow
+Agreement.  10 TAXATION   10.1 Tax Indemnification   10.1.1 The Seller
+agrees to indemnify the Purchasers from and against  all Taxes due and
+payable by the Group Companies for periods  ending on or before the Effective
+Date or which are assessed due  to events or circumstances that have occurred
+up to and including  the Effective Date ("RELEVANT ASSESSMENT PERIOD"),
+unless, and  except to the extent, that such Tax liabilities   (i) are
+shown or provided for in the Consolidated Effective Date  Accounts or the
+Accounts 2005 respectively the Revised  Accounts 2005 of the relevant Group
+Company, provided,  however, that (A) any Tax Saving related to the
+additional  Tax assessed shall be deducted from the amount to be paid by 
+the Seller and (B) any liabilities incurred for Taxes in a  BIG-Subsidiary
+not - directly or indirectly - 100%-owned  shall be taken into account only
+on a pro rata basis in  proportion to the respective shareholding
+(durchgerechnete  Beteiligung); or   (ii) are subject of a valid and
+enforceable claim for repayment  or indemnification against a Third Party;
+or   (iii) are caused by any reorganization initiated or by any other  acts
+(including any termination of the profit and loss  transfer agreement between
+BIG as organ parent and illbruck  Bau-Technik GmbH as organ company or any
+unduly fulfilment  of this profit and loss transfer agreement) committed by
+the  Purchasers other than the discontinuation of the business  which has
+been acquired by illbruck Bau-Technik GmbH under  the merger with Perennator
+GmbH.   10.1.2 In the event of the breach of the Seller\'s Guarantee
+contained  in Clause 8.1.2(ii), the Seller shall indemnify the Purchaser 
+against 95% (in words: ninety-five percent) of the Taxes  triggered by sale
+by BIG of shares in a Group Company in the  legal form of a corporation.  
+10.1.3 Indemnification payments due by the Seller under this Clause 10  shall
+be made within 30 (in words: thirty) Business Days  following written notice
+by the Purchasers, provided that the  payment of such amounts to the Tax
+Authority is due and that the  Seller shall not be required to make any
+payment earlier than 2  (in words: two) Business Days before such Taxes are
+due to the  Tax Authority. In the case of any Tax being contested in 
+accordance with Clause 10.2.2, payment of such Tax to the Tax  Authority will
+be considered due no earlier than on the date a  final (bestandskraeftig)
+determination to such effect is made  provided that tax suspension
+(Aussetzung der Vollziehung), is  granted by either the Tax Authority or the
+competent court.   10.2 Indemnification Procedures    42   10.2.1
+Notification   Following the Closing Date, the Purchasers shall notify the 
+Seller without undue delay of any Tax audit or administrative or  judicial
+proceeding (including request for furnishing transfer  pricing studies) that
+is announced or commenced and that might  constitute a basis for
+indemnification by the Seller pursuant to  this Clause 10 ("TAX AUDIT"). Such
+notice shall be in writing and  shall contain full factual information
+describing the object of  the Tax Audit or the asserted Tax liability in
+reasonable detail  and shall include copies of any notice or other document
+received  from any Tax Authority in respect of any such Tax Audit or 
+asserted Tax liability. The Purchasers shall further procure that  the Group
+Companies allow the Seller to fully participate in such  Tax Audit. In
+particular, the Seller shall be given the  opportunity to review any reports
+or other measures and receive  copies of all relevant orders (Bescheide) of
+any Tax Authority as  well as copies of any filings to any Tax Authority.
+Unless the  Seller is given notice without undue delay as required before, 
+the Seller shall not have any obligation to indemnify the  Purchasers for any
+damages arising out of such asserted Tax  liability.   10.2.2 Tax
+Contest   The Seller may elect to direct on its own or through counsel of 
+its choice and at its expense, any audit, claim for refund and 
+administrative or judicial proceeding (including the preparation  and
+furnishing of transfer pricing studies) involving any  asserted Tax liability
+with respect to which indemnity may be  sought under this Clause 10 (any such
+audit, claim for refund or  proceeding relating to an asserted Tax liability
+is hereinafter  referred to as a "TAX CONTEST"):   (i) If the Seller elects
+to direct a Tax Contest, then the  Seller shall within 30 (in words: thirty)
+Business Days of  receipt of the Purchasers\' written notice pursuant to
+Clause  10.2.1, but in any case no later than 3 (in words: three)  Business
+Days before the expiry of the period for filing for  the respective remedy,
+notify the Purchasers of its intent  to do so, and the Purchasers shall
+cooperate and cause the  Group Companies or the respective successors to
+cooperate,  in each phase of such Tax Contest. In particular, the 
+Purchasers shall promptly authorise, and shall cause the  respective Group
+Company to authorise, (by power-of-attorney  and such other documentation as
+may be necessary and  appropriate) the designated representative of the
+Seller to  represent the Purchasers or the respective Group Company or 
+their successors in the Tax Contest insofar as the Tax  Contest involves an
+asserted Tax liability for which the  Seller would be liable under this
+Clause 10. Further, the  Purchasers shall give and shall cause the Group
+Companies to  give reasonable information and assistance, including 
+reasonable access to premises and personnel and including  the right to
+examine and copy or photograph the relevant  documents and records for the
+purpose of avoiding,  disputing, denying, defending, resisting, appealing, 
+compromising    43   or contesting any tax liability of the Seller for
+Taxes for  the Relevant Assessment Period as the Seller or its  professional
+advisers may reasonably request.   (ii) If the Seller does not elect to
+direct such Tax Contest or  fails to notify the Purchasers of its election as
+herein  provided, the Purchasers or the respective Group Company may  pay,
+compromise or contest such asserted Tax liability,  provided that neither the
+Purchasers nor any of the Group  Companies may settle or compromise any
+asserted Tax  liability without prior written consent of the Seller. In  any
+event, Seller may participate, at its own expense, in  any Tax Contest. In
+such case Clause 10.2.2(i) sentence 3  shall apply mutatis mutandis.   10.3
+Tax Refunds, Liquidation and Usage of Tax Provisions   If any Group Company
+(i) will receive a Tax refund relating to any  period ending on or before the
+Effective Date, to the extent not  reflected in the Consolidated Effective
+Date Accounts as an asset,  (ii) will liquidate a Tax provision contained in
+the Consolidated  Effective Date Accounts due to a non-realisation of the
+risks for  which the provision has been set-up (Rueckstellungsaufloesung)
+or  (iii) will use a Tax provision contained in the Consolidated Effective 
+Date Accounts due to a realisation of the risks for which the  provision has
+been set-up (Rueckstellungsinanspruchnahme) as far as a  corresponding valid
+and enforceable claim for repayment or  indemnification against a Third Party
+exists, (iv) or for Taxes paid  as far as a corresponding valid and
+enforceable claim for repayment or  indemnification against a Third Party
+exists the amount of the Tax  refund or the amount of the provision
+liquidated or used shall be paid  by the Purchasers to the Seller. The
+Purchasers shall duly notify the  Seller of any Tax refund relating to any
+period ending on or before  the Effective Date and of any liquidation and of
+any usage of a  provision contained in the Consolidated Effective Date
+Accounts.  Payments under this Clause 10.3 shall be made within 30 (in
+words:  thirty) Business Days following the receipt of the Tax refund, 
+liquidation or usage of a Tax provision contained in the Consolidated 
+Effective Date Accounts by the respective Group Company.   10.4 Limitation
+Period   Claims of the Purchasers or the Seller under this Clause 10 shall 
+become time-barred (verjaehren) 3 (in words: three) months after the  final
+and binding assessment (bestandskraeftige Veranlagung) of the  relevant
+Tax.   10.5 Payments   Payments by the Seller to the Purchasers pursuant
+to Clause 10.1 and  10.2 constitute a decrease of the Purchase Price.
+Payments by the  Purchasers to the Seller pursuant to Clause 10.3 constitute
+an  increase of the Purchase Price.   10.6 Tax Audits   If and to the
+extent the Seller requests, the Parties shall use their  best efforts and in
+any respect fully co-operate, and the Purchasers  shall procure that after
+the Closing Date the Group Companies use  their best efforts and in any
+respect fully co-operate with the Seller  in order to achieve that as soon as
+possible after the Effective Date    44   the competent Tax Authorities
+conduct tax audits covering all the  Group Companies\' tax affairs up to and
+including the Effective Date.  For the avoidance of doubt it is hereby
+clarified that the Seller  shall be involved fully in accordance with the
+provisions of this  Clause 10.   10.7 Profit and Loss Pooling Agreement  
+The Purchasers shall procure that none of the Group Companies will  assert
+the invalidity of the profit and loss pooling agreement between  any of the
+Group Companies and the Seller.  11 PURCHASERS\' GUARANTEES; PURCHASERS\'
+GUARANTOR   11.1 Each Purchaser hereby guarantees by way of an independent
+promise of  guarantee pursuant to Section 311 para. 1 BGB (selbstaendiges 
+Garantieversprechen im Sinne des Section 311 Abs. 1 BGB):   11.1.1 The
+German Purchaser is duly incorporated and validly existing  under the laws of
+the Federal Republic of Germany. The UK  Purchaser is duly incorporated and
+validly existing under the  laws of England and Wales. Each Purchaser has all
+requisite  corporate power and authority to own its assets and to carry out 
+its business.   11.1.2 The execution and performance by the Purchasers of
+this  Agreement and the consummation of the transaction contemplated  hereby
+are within their powers and have been duly authorized by  all necessary
+company action on part of them except as set forth  in Clause 7.1.   11.1.3
+The execution and performance by the Purchasers of this  Agreement and the
+consummation of the transaction contemplated  herein do not (A) violate the
+articles of association or by-laws  of the Purchasers or (B) violate any
+applicable law, regulation,  judgment or injunction on the Purchasers, and
+(C) there is no  action, lawsuit, investigation or proceeding pending 
+(rechtshaengig) against, or to the knowledge of the Purchasers  threatened
+against, the Purchasers before any court, arbitration  panel or governmental
+authority which challenges or seeks to  prevent, alter or delay the
+transaction contemplated herein.   11.1.4 The Purchasers do not have "actual
+and specific knowledge" of a  breach by the Seller of any of the guarantees
+in this Agreement.  As used herein "knowledge of a breach" means that not
+only do the  Purchasers have knowledge of the facts that may constitute a 
+breach, but additionally, also believe that such facts constitute  a breach.
+For purposes of determining the Purchasers\' knowledge  of a breach by the
+Seller of the guarantees made hereunder, the  term "actual and specific
+knowledge", means the actual and  specific knowledge of Messrs. Frank
+Sullivan, Stephen Knoop,  Dennis Finn, Jeff Korach and Randy Korach or the
+following  advisors: Brian Kelly, Mara Babin, Theo Rauh. While the 
+Purchasers have conducted a review of the business of the Group  Companies to
+meet the Purchasers\' objectives, such review was not  intended to verify the
+accuracy of the Seller\'s guarantees and  Purchasers are relying on the
+Seller\'s Guarantees in entering  into this Agreement.    45   11.2 In
+the event that a Purchaser is in breach of any Purchasers\'  Guarantee
+pursuant to Clause 11.1, the respective Purchaser shall  indemnify and hold
+harmless the Seller from any damages incurred by  the Seller or any of the
+Group Companies.   11.3 The Purchasers\' Guarantor as joint and several
+debtor  (Gesamtschuldner) hereby unconditionally and irrevocably guarantees 
+the proper fulfilment of all obligations pursuant to this Agreement of  any
+Purchaser or any Purchasers\' Affiliate, in particular, but not  limited to,
+the payment of the Purchase Price. In the case of breach  of any such
+obligation the Purchasers\' Guarantor shall indemnify and  hold harmless the
+Seller\'s Side from any damages incurred.  12 CONFIDENTIALITY; PRESS
+RELEASES; PUBLIC DISCLOSURE; COVENANTS IN THE CASE  OF NON-CONSUMMATION OF
+CLOSING   12.1 Prior to Closing, no announcement or circular in connection
+with the  existence or the subject matter of this Agreement shall be made
+or  issued by or on behalf of the Seller\'s Side, the Group Companies or 
+the Purchasers\' Side without the prior written approval of the Seller  and
+the Purchasers.   12.2 The provisions of the Confidentiality Agreement shall
+cease to have  any force or effect from the Signing Date. Subject to Clause
+12.1 and  Clause 12.3, the Seller\'s Side and the Purchasers\' Side shall
+treat as  strictly confidential and not disclose or use any information
+received  or obtained as a result of entering into this Agreement which
+relates  to the provisions of this Agreement and the negotiations relating
+to  this Agreement. The Purchasers\' Side shall treat as strictly 
+confidential and not disclose or use any information relating to the 
+business, financial or other affairs (including future plans and  targets) of
+the Seller\'s Side.   12.3 Clauses 12.1 and 12.2 shall not prohibit
+disclosure or use of any  information referred therein if and to the
+extent:   12.3.1 the disclosure or use is required by law or any regulatory
+body  (e.g. 8k under the US SEC rules);   12.3.2 the disclosure or use is
+required for the purpose of any  judicial proceedings arising out of this
+Agreement or any other  agreement entered into under or pursuant to this
+Agreement or the  disclosure is made to a Tax Authority in connection with
+the Tax  affairs of the disclosing Contractual Party;   12.3.3 the
+disclosure is made to professional advisers of the Seller\'s  Side or the
+Purchasers\' Side who are under statutory obligations  of professional
+secrecy;   12.3.4 the information is or becomes publicly available (other
+than by  breach of the Confidentiality Agreement or of this Agreement);  
+12.3.5 the Contractual Party affected by the disclosure or use of 
+information has given prior written approval to such disclosure  or use;
+or   12.3.6 the information is independently developed after Closing;  
+provided that prior to disclosure or use of any information pursuant  to
+Clauses 12.3.1 and 12.3.2 the Contractual Party concerned shall  promptly
+notify the Contractual Party affected by such disclosure or  use of such
+requirement with a view    46   to providing that Contractual Party with
+the opportunity to contest  such disclosure or use or otherwise to agree the
+timing and content of  such disclosure or use.   12.4 Covenants in the Case
+of Non-Consummation of Closing   In the unlikely event that this Agreement
+is terminated without the  Closing having been consummated,   12.4.1 the
+Purchasers\' Side undertake to keep confidential all  information received
+from the Seller\'s Side in connection with  the transactions contemplated by
+this Agreement, including but  not limited to the Disclosed Information, and
+to return all  documents and information embodied otherwise which they
+received  from the Seller\'s Side, together with any copies thereof and to 
+destroy all documents and information embodied otherwise they  produced based
+on information received from the Seller\'s Side,  unless such information is
+in the public domain without breach of  a confidentiality obligation towards
+the Seller\'s Side or unless  the Purchasers\' Side is obliged by law to act
+otherwise. The  Purchasers\' Side shall not be entitled to any retention
+right  with respect to such documents or information;   12.4.2 the
+Purchasers shall indemnify and hold harmless the Seller and  the Group
+Companies from any damage incurred due to them  complying with the
+Purchasers\' non-approval pursuant to Clause  6.2.1(ii).   12.4.3 the
+Purchasers shall indemnify and hold harmless the Seller and  the Group
+Companies from any damage incurred due to the  termination of the lease
+agreements upon the UK Purchaser\'s  request pursuant to Clause
+6.2.1(v).  13 POST-CLOSING RIGHTS AND COVENANTS; NON-COMPETITION; NON-
+SOLICITATION   13.1 The "PROVISIONAL SUPPLY AGREEMENTS" as set forth in
+SCHEDULE 13.1  shall be signed prior to or on the Closing Date.   13.2
+After Closing the Purchasers shall procure that the Seller has access  to all
+information required in order to enforce the claims listed in  SCHEDULE
+6.2.2.   13.3 Accounts 2005   13.3.1 The Seller shall prepare the accounts
+as of Effective Date  except for PDR GMBH and PDR GMBH and Co. KG for such
+Group  Companies listed in SCHEDULE 7.1 for the shortened business year 
+ending on Effective Date and for all other Group Companies, if  the Effective
+Date is 31 December 2005 and if it is another date  interim accounts
+(Zwischenabschluesse) for such Group Companies  ("ACCOUNTS 2005"). These
+Accounts 2005 shall be prepared in  accordance with local GAAP, the
+accounting principles used in the  preparation of the respective accounts for
+the business year 2004  and such principles consistently applied with past
+practice and  subject to utilizing and continuing the same capitalization
+and  election rights, valuation and consolidation principles as used  in
+preparation of the respective accounts for the business year  2004. In the
+event of discrepancies between local GAAP and the  principles as applied in
+the past, local GAAP shall prevail.    47   13.3.2 The Purchasers shall
+after the Closing Date instruct the  management of each Group Company to
+effectively assist the Seller  in the preparation of the Accounts 2005 in any
+respect and to  give the Seller, its tax advisors and Seller\'s Auditor
+access to  any information requested by the Seller, its tax advisor and 
+Seller\'s Auditor. The Seller shall be given access to the  management and to
+the premises of the Group Companies. The Seller  shall have the right to make
+photocopies of any documents  relevant for the preparation of the Accounts
+2005.   13.3.3 The Accounts 2005 so prepared by the Seller shall be
+delivered  by the Seller to the Purchasers without undue delay. The Seller 
+shall arrange for an audit of the Accounts 2005 by Seller\'s  Auditor
+admitted to conduct the audit of the Accounts 2005 in the  jurisdiction in
+which the respective Group Company is  incorporated. Within 60 (in words:
+sixty) Business Days after the  Effective Date, the Seller shall deliver the
+Accounts 2005 to the  Purchasers, together with the reports by the respective
+auditors.   13.3.4 The Accounts 2005 shall be final and binding on the
+Parties,  unless and to the extent that the Purchasers do not within 30 (in 
+words: thirty) Business Days after the receipt of the Accounts  2005 provide
+the Seller with a written report asserting that the  Accounts 2005 received
+from the Seller do not meet the provisions  set forth in Clause 13.3.1 by way
+of stating specific objections  to that effect. In such event revised
+Accounts 2005 shall be  prepared by the Purchasers\' Auditor and submitted to
+the Seller  within the further 30 (in words: thirty) Business Days which 
+shall take into account the changes that are necessary in the  Purchasers\'
+Auditor\'s view ("REVISED ACCOUNTS 2005"). At Seller\'s  request Seller\'s
+Auditor shall receive all necessary assistance  and shall be given access to
+the management of the Group  Companies and to all documentation relevant for
+reviewing the  Revised Accounts 2005, including the working papers of the 
+Purchasers\' Auditor. If no written objections are raised by the  Seller
+within 30 (in words: thirty) Business Days following the  delivery of the
+Revised Accounts 2005 by the Purchasers\' Auditor,  then the Revised Accounts
+2005 shall be final and binding on the  Parties.   13.3.5 If, after the
+Seller having raised in time and due form its  objections against the Revised
+Accounts 2005, the Seller and the  Purchasers cannot agree on the changes to
+the Revised Accounts  2005 within 30 (in words: thirty) Business Days
+following the  delivery of the Seller\'s objections, Clause 4.4 shall apply 
+mutatis mutandis.   13.3.6 The Purchasers shall procure that within 30 (in
+words: thirty)  Business Days after the Accounts 2005 or the Revised
+Accounts  2005, as the case may be, have become final on the Parties 
+shareholders\' resolutions of each Group Company will be adopted  by which
+the Accounts 2005 or respectively the Revised Accounts  2005 will be approved
+in any respect in the form as has become  final on the Parties. With no undue
+delay after the approval of  the Accounts 2005 respectively the Revised
+Accounts 2005 Claims  resulting from the profit and loss pooling agreement
+existing  between the Seller and BIG shall be paid by the party liable. 
+Should BIG be    48   liable for such claim, the Purchasers will procure
+that the  obligation of such payment will be fulfilled by BIG as provided 
+for in the previous sentence.   13.3.7 The costs for the preparation of the
+Accounts 2005 and their  audits shall be borne by the respective Group
+Company. Clause 4.5  sentences 2 and 3 shall apply mutatis mutandis.   13.4
+The Seller and the German Purchaser have entered in accordance with  Clause
+7.4.5 into an agreement on the assignment, transfer and  delimitation of
+intellectual property rights (IP-Uebertragungs- und  Abgrenzungsvereinbarung;
+"IP-AGREEMENT") attached as SCHEDULE 13.4,  entering into effect on the
+Effective Date.   13.5 Non-Competition and Non-Solicitation   13.5.1
+Seller\'s Side   (i) For the period of 3 (in words: three) years commencing
+with  the Closing Date the Seller, SI and MI shall not, and the  Seller
+shall cause its Affiliates not to, and SI and MI  shall use reasonable
+efforts to cause the Persons Related to  SI or MI not to,   (a) develop,
+produce, market, sell or render (or assist any  other Person in developing,
+producing, marketing,  selling or rendering) products or services in 
+competition anywhere in the world with the products and  services sold or
+provided by the Business on the  Closing Date, or   (b) engage in business
+with, serve as an agent or  consultant to, or become a partner, member,
+principal  or stockholder (other than a holder of less than 5% (in  words:
+five percent) of the outstanding voting shares  of any publicly held company)
+of or be engaged by, any  person whose business competes anywhere in the
+world  with the Business as conducted on the Closing Date;   The Seller, SI
+and MI hereby agree that the Purchase Price  as set forth in Clause 3 of this
+Agreement includes  consideration for their agreement not to compete as set 
+forth in this Clause 13.5.1(i).   (ii) The Seller, SI and MI hereby
+undertake for a period of 2 (in  words: two) years commencing with the
+Closing Date not to  actively solicit directly or through Affiliates or
+Third  Parties any employee of the Business.   13.5.2 Purchasers\' Side  
+(i) For the period of 3 (in words: three) years commencing with  the Closing
+Date the Purchasers and the Purchasers\'  Guarantor shall not, and the
+Purchasers\' Guarantor shall  cause its Affiliates not to,   (a) develop,
+produce, market, sell or render (or assist any  other Person in developing,
+producing, marketing,  selling or rendering) products or services in 
+competition in the Territory with the products and  services sold or provided
+by the Remaining Businesses  on the Closing Date, or    49   (b) engage
+in business with, serve as an agent or  consultant to, or become a partner,
+member, principal  or stockholder (other than a holder of less than 5% (in 
+words: 5 per cent) of the outstanding voting shares of  any publicly held
+company) of or be engaged by, any  person whose business competes in the
+Territory with  the Remaining Businesses as conducted on the Closing  Date;
+except (1) if the business which competes in the  Territory with the
+Remaining Businesses is acquired  through the acquisition of a company or a
+group of  companies and if the competing business makes up not  more than
+10% (in words: ten percent) in balance sheet  value, of the balance sheet or
+consolidated balance  sheet of the acquired company or the acquired group
+of  companies as of the date of the closing of the  acquisition; (2) the
+Purchaser\'s Side is as of the  Signing Date already active in such
+business.   Clause 13.5.1, last sentence, applies mutatis mutandis.   (ii)
+The Purchasers hereby undertake for a period of 2 (in words:  two) years
+commencing with the Closing Date not to actively  solicit directly or through
+Affiliates or Third Parties any  employee of the Seller and the Remaining
+Businesses.   13.6 Without prejudice to Purchasers\' rights to make claims
+under the  Seller\'s guarantees, Seller will indemnify Purchasers and the
+Group  Companies and hold them harmless against all Environmental Costs 
+arising from the Environmental Liability in connection with the  property in
+Arkel, Holland ("LOCATION"). Environmental Costs shall be  pro rated on the
+following basis:   (i) the first EUR 800,000 (in words: Euro eight hundred 
+thousand) of Environmental Costs per Location will be paid  by Seller;  
+(ii) Environmental Costs from EUR 800,000 (in words: Euro eight  hundred
+thousand) to and including EUR 2,000,000 (in words:  EURO two million) shall
+be paid 90 % (in words: ninety per  cent) by the Seller and 10 % (in words:
+ten per cent) by the  Group Companies;   (iii) Environmental Costs from EUR
+2,000,000 (in words: EURO two  million) to and including EUR 3,000,000 (in
+words: EURO  three million) shall be paid 85 % (in words: eighty five per 
+cent) by Seller and 15 % (in words: fifteen per cent) by the  Group
+Companies; and   (iv) Environmental Costs in excess of EUR 3,000,000 (in
+words:  Euro three million) shall be paid 83 % (in words: eighty  three per
+cent) by Seller and 17 % (in words: seventeen) by  the Group Companies.  
+Environmental Costs shall be determined on an after-tax basis  provided,
+however, that Seller\'s maximum liability pursuant to this  Clause 13.6 shall
+be limited by Clause 9.3.3.   The Group Companies shall have the right to
+control the manner and  method of all remediation work using consultants and
+advisors of their  choice. The Group Companies and the Purchasers undertake
+to implement  any remediation program in    50   a manner that is
+designed to effectively and efficiently restore the  contaminated property to
+a condition that is in compliance with  applicable Environmental Law.
+Purchasers and the Group Companies shall  cause the remediation work to be
+effected in accordance with practices  that are customary in the industry and
+shall use reasonable efforts to  avoid the incurrence of costs in excess of
+such amounts as are  reasonable in order to effect the objectives of the
+remediation  program(s).   Until the Environmental Liability at the
+Location has been remediated  and is in compliance with Environmental Law, in
+each December the  Purchasers and/or any Group Company (each, a "CLAIMANT")
+may submit a  Reimbursement Certificate together with invoices for costs
+incurred or  contracts evidencing obligations to third parties, in each case
+solely  for costs of remediating the Environmental Liability at the
+Location.  The Remediation Certificate shall be a certificate of the Claimant
+and  shall provide as follows: (i) the Claimant has either paid, or 
+incurred obligations to third parties to pay, costs for the  remediation of
+the Environmental Condition at the Location (including  consulting and
+engineering costs), (ii) the amount of unreimbursed  costs that Claimant has
+paid ("UNREIMBURSED COSTS"), and (iii) the pro  rata portion of the
+Unreimbursed Costs that Claimant is entitled to be  paid pursuant to Clause
+13.6, first paragraph, of the Agreement. Not  later than January 10 of the
+following year, Seller will pay Claimant,  by wire transfer to an account
+designated by Claimant, the amount set  forth in (iii) of the previous
+sentence.   13.7 The Seller hereby grants to the respective Group Company
+that owns the  real estate specified under no. 5 in SCHEDULE 8.1.3(I)-(1) in
+the form  of a true contract in favour of a third party (echter Vertrag 
+zugunsten Dritter) the unconditional and irrevocable right, to sell  the
+Belgian real Estate to the Seller at book value. This offer is  limited in
+time until 31 January 2006 (the "BELGIAN REAL ESTATE"). In  the event of such
+a transfer the Group Company shall be entitled to  request a lease agreement
+for the Belgian Real Estate at arms\' length.  14 PAYMENTS AND INTEREST  
+14.1 Seller\'s Account; Purchasers\' Account   14.1.1 All payments owed by
+the Purchasers to the Seller under this  Agreement shall be paid by the
+Purchasers free of any costs and  fees by wire transfer or other electronic
+means. Except for the  Escrow Amount, all payments shall be paid to the
+Seller\'s bank  account kept with Dresdner Bank AG,    51   SWIFT-code
+DRES DE FF, IBAN DE12 3708 0040 0888 4754 02, bank  code (Bankleitzahl) 370
+800 40, account number 889 59 34  ("SELLER\'S ACCOUNT") or any other account
+to be nominated by the  Seller to the Purchasers in compliance with Clause 15
+with at  least 5 (in words: five) Business Days prior to the Closing
+Date.   14.1.2 All payments owed by the Seller to either of the Purchasers 
+under this Agreement shall be paid by the Seller free of any  costs and fees
+by wire transfer or other electronic means to the  German Purchaser\'s bank
+account kept with Deutsche Bank AG  Duesseldorf, SWIFT-code DEUTDEDD, IBAN
+DE22 3007 0010 0320 0177  00, sort code (Bankleitzahl) 300 700 10, account
+number 320 0177  00 ("PURCHASERS\' ACCOUNT") or any other account to be
+nominated  by the Purchasers to the Seller in compliance with Clause 15
+with  at least 5 (in words: five) Business Days prior to the Closing  Date.
+Purchasers may only nominate one account for the purposes  of this Agreement.
+Any payments made to any of the Purchasers  under this Agreement shall be
+made to the specified account. The  allocation of any amounts paid to the
+accounts of the Purchasers  by the Seller shall be dealt with internally
+between the  Purchasers.   14.2 Default Interest   If a Contractual Party
+defaults in the payment when due of any amount  payable under this Agreement,
+its liability shall be increased to  include interest on such amount from the
+date when such payment is due  until the date of actual payment at a rate per
+annum of 4% (in words:  four per cent) over the Base Interest Rate. Interest
+shall be  calculated on the basis of actual days elapsed and a calendar
+year  with 360 (in words: three hundred sixty) days.  15 NOTICES   15.1
+Form of Notice   All declarations, notices or other communications
+hereunder  ("NOTICES") shall be done in writing in the English language and 
+delivered by hand, registered mail, courier or by facsimile to the  person at
+the addresses set forth below, or such other addresses as  may be designated
+by the respective Contractual Party to the other  Contractual Parties in the
+same manner. Any notice to Seller\'s Side or  Purchasers\' Side, as
+applicable, shall be served and received  (zugestellt) if given to the
+addresses as specified in Clause 15.2 and  15.3 or any other address
+designated in accordance with this Clause  15. However, neither Seller\'s
+Side nor Purchasers\' Side may designate  more than one recipient and at a
+maximum two recipients receiving  copies of any Notice.   15.2 Notices to
+Seller\'s Side   Any Notice to be given hereunder to any Person of the
+Seller\'s Side  shall be addressed as follows:   ILLBRUCK GMBH  MANAGING
+DIRECTOR  BURSCHEIDER STRAssE 454  51381 LEVERKUSEN    52   GERMANY  
+Fax: +49 (0)2171-391-599   with a copy to:   LINKLATERS OPPENHOFF and
+RAEDLER  DR. WOLFGANG KRAUEL  PRINZREGENTENPLATZ 10  81675 MUNICH 
+GERMANY   Fax: +49 (0)89-41808-100   15.3 Notices to Purchasers\' Side  
+Any Notice to be given hereunder to any Person of the Purchasers\' Side 
+shall be addressed as follows:   ATTN: MR R. KORACH   TREMCO
+INCORPORATED  3735 GREEN ROAD  BEACHWOOD, OHIO 44122  USA   with a copy
+to:   MR STEVE KNOOP   RPM INTERNATIONAL, INC.  2628 PEARL RD., BOX 777 
+MEDINA, OH 44258  USA   and a copy to:   DR THEO RAUH   PPR and PARTNER 
+KOENIGSALLEE 70  40212 DUESSELDORF  GERMANY.   15.4 Change of Address  
+The Seller and the Purchasers are to, without being legally obliged  to,
+communicate any change of the respective addresses set forth in  this Clause
+15 as soon as possible in writing to the respective other  side. Until such
+communication, the address as hitherto shall be  relevant.  16
+MISCELLANEOUS    53   16.1 Whole Agreement, Schedules and Variation  
+16.1.1 This Agreement constitutes the full understanding of the  Contractual
+Parties and the complete and exclusive statements of  the terms and
+conditions of the Contractual Parties\' agreements  relating to the subject
+matter hereof and supersedes any and all  prior agreements and
+understandings, whether written or oral,  that may exist between the
+Contractual Parties with respect to  the subject matter of this Agreement or
+parts thereof. Side  agreements to this Agreement do not exist.   16.1.2
+All Schedules attached hereto form an integral part of this  Agreement.  
+16.1.3 No variation of this Agreement, including this Clause 16, shall  be
+effective unless in writing and signed by or on behalf of the  Contractual
+Parties, unless a stricter form (e.g. notarization)  is required under
+applicable law.   16.2 Definitions and Language   16.2.1 In this Agreement
+defined terms shall have the meaning as so  defined throughout the entire
+Agreement, unless a different  meaning is expressly attributed to the
+respective term in respect  of any single Clause of this Agreement.  
+16.2.2 Legal terms used in this Agreement shall have the meaning  attributed
+to them under German law, when translated into German.  If a German
+translation is given in italic such translation shall  be decisive. This
+Clause 16.2.2 shall apply mutatis mutandis to  any legal concept associated
+with any such legal term.   16.2.3 Legal terms under German law shall extend
+to any corresponding  or identical legal terms under foreign law to the
+extent that  relevant facts and circumstances must be assessed under such 
+foreign law. Where no corresponding or identical legal terms  under foreign
+law exist, such legal terms shall be introduced as  functionally come closest
+to the legal terms under German law.   16.3 No Assignment   Except as
+otherwise expressly provided in this Agreement, neither  Contractual Party
+may without the prior written consent of the  respective other Contractual
+Parties, assign, grant any security  interest over, hold on trust or
+otherwise transfer the benefit of the  whole or any part of this Agreement.
+Any assignment to Affiliates of  either the Seller or the Purchasers shall be
+permitted without written  consent of the respective other Contractual
+Parties, in which case the  assigning Contractual Party shall remain jointly
+and fully liable for  any obligation under this Agreement.   16.4 No Right
+to Set-off/Withhold   Unless expressly stated otherwise in this Agreement,
+any right of the  Purchasers\' Side to set-off and/or to withhold any
+payments due under  this Agreement is hereby expressly waived and excluded
+except for  claims which are undisputed (unstreitig) or have become res
+iudicatae  (rechtskraeftig festgestellt).   16.5 Costs    54   Unless
+provided otherwise in this Agreement including its Schedules,  each
+Contractual Party shall bear all costs incurred by it in  connection with the
+preparation and negotiation of this Agreement. Any  transaction fees, except
+for the fees, etc. covered in Clause 16.6,  arising at any of the Group
+Companies, including, but not limited to,  broker fees, transaction bonuses,
+advisors fees, etc. shall be borne  by the Seller.   16.6 Notarial Fees,
+Registration, Tax   All transfer Tax, costs for the notarisation of this
+Agreement, stamp  fees and any other charges and costs which result from this
+Agreement  and the Closing of the transaction considered hereby shall be
+borne by  the Purchasers. All charges, costs and fees which result from the 
+filings under the merger control laws, including, but not limited to,  the
+charges, costs and fees of the Competent Authorities, shall also  be borne by
+the Purchasers. The Purchasers shall be responsible for  arranging the
+payment of all such Tax, costs charges and fees,  including fulfilling any
+administrative or reporting obligation  imposed by the applicable laws in
+connection with the payment of such  Taxes and costs. The Purchasers shall
+indemnify the Seller\'s Side  against any damages and losses suffered by the
+Seller\'s Side as a  result of the Purchasers failing to comply with their
+obligations  under this Clause 16.6. Notwithstanding the above, each
+Contractual  Party shall bear the costs of its own advisors.   16.7
+Governing Law and Exclusive Jurisdiction   16.7.1 This Agreement shall be
+governed by and construed in accordance  with the laws of the Federal
+Republic of Germany.   16.7.2 In the event of any dispute between the
+Contractual Parties  arising out of or in connection with this Agreement,
+exclusive  jurisdiction shall be with the competent courts of Cologne.  
+16.8 Severability   Should any provision of this Agreement be or become
+invalid,  ineffective or unenforceable as a whole or in part, the validity, 
+effectiveness and enforceability of the remaining provisions shall not  be
+affected thereby. Any such invalid, ineffective or unenforceable  provision
+shall be deemed replaced by such valid, effective and  enforceable provision
+as comes closest to the economic intent and the  purpose of such invalid,
+ineffective or unenforceable provision as  regards subject-matter, amount,
+time, place and extent. The aforesaid  shall apply mutatis mutandis to any
+gap in this Agreement.  IN WITNESS thereof this Agreement has been duly
+executed.   ***    55   '
+

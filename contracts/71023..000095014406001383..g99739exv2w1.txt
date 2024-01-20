@@ -1,0 +1,2502 @@
+ EX-2.1 AGREEMENT AND PLAN OF MERGER    
+EXHIBIT 2.1   EXECUTION COPY   AGREEMENT AND PLAN OF MERGER   BY AND
+AMONG   FAITH MEDIA HOLDINGS, LLC,   FM MERGERCO, INC.   AND   THOMAS
+NELSON, INC.   DATED FEBRUARY 20, 2006     TABLE OF CONTENTS    
+Page  ----  ~~  ARTICLE I. THE MERGER
+................................................... 2  Section 1.1. The
+Merger ............................................. 2  Section 1.2. Closing
+................................................ 2  Section 1.3. Effective
+Time ......................................... 2  Section 1.4. Effects of the
+Merger .................................. 2  Section 1.5. Charter and Bylaws
+..................................... 2  Section 1.6. Directors and Officers
+................................. 2  ARTICLE II. EFFECT OF THE MERGER ON
+CAPITAL STOCK OF THE CONSTITUENT CORPORATIONS
+............................................................ 3  Section 2.1.
+Effect on Capital Stock ................................ 3  Section 2.2.
+Treatment of Options and Other Equity Awards ........... 3  Section 2.3.
+Adjustment of Merger Consideration and Option  Consideration
+.......................................... 4  Section 2.4. Payment and
+Exchange of Certificates; Payment for  Options
+................................................ 5  ARTICLE III.
+REPRESENTATIONS AND WARRANTIES OF THE COMPANY .............. 7  Section 3.1.
+Organization, Standing and Corporate Power ............. 7  Section 3.2.
+Subsidiaries ........................................... 7  Section 3.3.
+Capital Structure ...................................... 8  Section 3.4.
+Authority .............................................. 9  Section 3.5. Non-
+Contravention; Consents and Approvals .............. 9  Section 3.6. SEC
+Reports and Financial Statements; Internal  Controls
+............................................... 10  Section 3.7. No
+Undisclosed Liabilities ............................. 11  Section 3.8.
+Material Contracts; Royalty Agreements ................. 12  Section 3.9.
+Compliance with Applicable Laws ........................ 14  Section 3.10.
+Employment Agreements and Benefit Plans ................ 14  Section 3.11.
+Taxes .................................................. 16  Section 3.12.
+Environmental Matters .................................. 17  Section 3.13.
+Labor Matters .......................................... 18  Section 3.14.
+Intellectual Property .................................. 18  Section 3.15.
+Absence of Certain Changes or Events ................... 19  Section 3.16.
+Brokers ................................................ 19  Section 3.17.
+Absence of Litigation .................................. 19  Section 3.18.
+Insurance .............................................. 19  Section 3.19.
+Real Property .......................................... 20  Section 3.20.
+Affiliate Transactions ................................. 20  Section 3.21.
+Vote Required .......................................... 20  Section 3.22.
+Opinion of Company Financial Advisor ................... 21  Section 3.23.
+Information Supplied ................................... 21  Section 3.24.
+TBCA ................................................... 21  Section 3.25. No
+Other Representations or Warranties ................. 21     i     
+~~  ARTICLE IV. REPRESENTATIONS AND WARRANTIES OF PARENT AND MERGER SUB .....
+22  Section 4.1. Organization and Standing ..............................
+22  Section 4.2. Authority ..............................................
+22  Section 4.3. Non-Contravention; Consents and Approvals ..............
+22  Section 4.4. Financing ..............................................
+23  Section 4.5. Brokers ................................................
+23  Section 4.6. Merger Sub. ............................................
+23  Section 4.7. Company Stock ..........................................
+23  Section 4.8. Litigation .............................................
+23  Section 4.9. No Parent Vote Required ................................
+24  Section 4.10. Solvency of the Surviving Corporation ..................
+24  ARTICLE V. COVENANTS OF THE PARTIES
+..................................... 24  Section 5.1. Conduct of Business
+.................................... 24  Section 5.2. No Solicitation by the
+Company ......................... 27  Section 5.3. Securities Law Filings;
+Shareholders\' Meeting;  Preparation of Proxy Statement
+......................... 29  Section 5.4. Access to Information;
+Confidentiality ................. 30  Section 5.5. Commercially Reasonable
+Efforts; HSR Act ............... 31  Section 5.6. Financing
+.............................................. 32  Section 5.7. Delisting
+.............................................. 33  Section 5.8.
+Indemnification ........................................ 33  Section 5.9.
+Public Announcements ................................... 35  Section 5.10.
+Shareholder Litigation ................................. 35  Section 5.11.
+Employee Benefit Matters ............................... 35  Section 5.12.
+Notice and Cure ........................................ 36  Section 5.13.
+Fulfillment of Conditions .............................. 36  Section 5.14.
+Further Assurances ..................................... 37  Section 5.15.
+Undertakings of Parent ................................. 37  ARTICLE VI.
+CONDITIONS PRECEDENT ........................................ 37  Section
+6.1. Conditions to Each Party\'s Obligation to Effect the  Merger
+................................................. 37  Section 6.2. Conditions
+to Obligations of Parent and Merger Sub. .... 37  Section 6.3. Conditions to
+Obligations of the Company ............... 38  Section 6.4. Frustration of
+Closing Conditions ...................... 39  ARTICLE VII. TERMINATION
+................................................ 39  Section 7.1. Termination
+............................................ 39  Section 7.2. Effect of
+Termination .................................. 40  Section 7.3. Fees and
+Expenses ...................................... 41  ARTICLE VIII. GENERAL
+PROVISIONS ........................................ 42  Section 8.1. Non-
+survival of Representations and Warranties ......... 42  Section 8.2. Notices
+................................................ 42  Section 8.3.
+Interpretation ......................................... 43  Section 8.4.
+Counterparts ........................................... 43  Section 8.5.
+Entire Agreement; No Third-Party Beneficiaries ......... 43    
+ii      ~~   Section 8.6. Governing Law
+.......................................... 43  Section 8.7. Assignment
+............................................. 44  Section 8.8. Consent to
+Jurisdiction; Waiver of Jury Trial .......... 44  Section 8.9. Specific
+Enforcement ................................... 44  Section 8.10. Amendment
+.............................................. 44  Section 8.11. Extension;
+Waiver ...................................... 45  Section 8.12. Severability
+........................................... 45    INDEX OF APPENDICES AND
+EXHIBITS  APPENDIX I Definitions EXHIBIT A Charter of Surviving
+Corporation EXHIBIT B Bylaws of Surviving Corporation    iii   
+AGREEMENT AND PLAN OF MERGER   This AGREEMENT AND PLAN OF MERGER (this
+"Agreement"), dated as of February 20, 2006, by and among Faith Media
+Holdings, LLC, a Delaware limited liability company ("Parent"), FM Mergerco,
+Inc., a Tennessee corporation and a wholly owned subsidiary of Parent
+("Merger Sub"), and Thomas Nelson, Inc., a Tennessee corporation (the
+"Company"). Capitalized terms used herein shall have the meanings set forth
+in Appendix I annexed hereto.   RECITALS:   WHEREAS, the parties desire
+that Parent acquire the Company by means of a merger of Merger Sub with and
+into the Company, whereby the Company is the surviving entity, existing as a
+wholly-owned subsidiary of Parent (the "Merger");   WHEREAS, a special
+committee comprised solely of independent directors (the "Special Committee")
+of the Board of Directors of the Company (the "Company Board") has
+recommended to the Company Board that it approve the Merger, in accordance
+with the TBCA and upon the terms and conditions set forth herein;   WHEREAS,
+each of the Special Committee and the Company Board has (i) determined that
+it is in the best interests of the Company and its Shareholders, and declared
+it advisable for the Company, to enter into this Agreement with Parent and
+Merger Sub providing for the Merger, (ii) approved this Agreement
+in accordance with the TBCA, upon the terms and subject to the conditions set
+forth herein, and (iii) recommended adoption of this Agreement by the
+Shareholders;   WHEREAS, Sam Z. Moore and certain other Shareholders
+(collectively, the "Principal Shareholders") have entered into a Voting
+Agreement, dated the date hereof (the "Voting Agreement"), with Parent,
+Merger Sub and the Company pursuant to which the Principal Shareholders have
+agreed, subject to the terms and conditions of the Voting Agreement, to vote
+in favor of the adoption of this Agreement and to take, or refrain from
+taking, certain other actions; and   WHEREAS, the Board of Directors of
+Parent and the Board of Directors of Merger Sub have unanimously approved,
+and the Board of Directors of Merger Sub has declared it advisable for Merger
+Sub to enter into, this Agreement providing for the Merger in accordance with
+the TBCA, upon the terms and subject to the conditions set forth herein.  
+AGREEMENT:   NOW, THEREFORE, in consideration of the mutual representations,
+warranties, covenants and agreements herein contained, and intending to be
+legally bound hereby, Parent, Merger Sub and the Company hereby agree as
+follows:    1     ARTICLE I.  THE MERGER   Section 1.1. The Merger.
+On the terms and subject to the conditions set forth in this Agreement, and
+in accordance with the TBCA, Merger Sub will be merged with and into the
+Company at the Effective Time, the separate corporate existence of Merger Sub
+will thereupon cease and the Company shall continue as the surviving
+corporation of the Merger (the "Surviving Corporation") and a wholly owned
+subsidiary of Parent.   Section 1.2. Closing. The closing of the Merger (the
+"Closing") will take place at a time and on a date to be specified by the
+parties, which is to be no later than the second (2nd) Business Day after
+satisfaction or waiver (to the extent permitted by applicable Law) of the
+conditions set forth in Article VI of this Agreement (excluding conditions
+that, by their terms, cannot be satisfied until the Closing Date, but subject
+to the fulfillment or, to the extent permitted by applicable Law, waiver of
+those conditions), unless another time or date is agreed to by the parties to
+this Agreement. The Closing will be held at the offices of Sherrard and Roe,
+PLC, 424 Church Street, Suite 2000, Nashville, Tennessee 37219, or such other
+location to which the parties to this Agreement agree in writing.   Section
+1.3. Effective Time. On the Closing Date, the parties shall cause the Merger
+to be consummated by filing articles of merger (the "Articles of Merger")
+with the Secretary of State of the State of Tennessee, in such form as is
+required by, and executed in accordance with, the relevant provisions of
+the TBCA and the terms of this Agreement, and the parties shall make all
+other filings or recordings required under the TBCA in connection with the
+Merger. The Merger will become effective at such time as the Articles of
+Merger are duly filed with the Secretary of State of the State of Tennessee
+on the Closing Date, or at such subsequent date or time as the Company and
+Parent agree and specify in the Articles of Merger.   Section 1.4. Effects
+of the Merger. The Merger will have the effects set forth in the TBCA.
+Without limiting the generality of the foregoing, and subject thereto, at the
+Effective Time, all the property, rights, privileges, powers and franchises
+of the Company and Merger Sub will be vested in the Surviving Corporation,
+all debts, liabilities and duties of the Company and Merger Sub will become
+the debts, liabilities and duties of the Surviving Corporation, and all the
+capital stock of Merger Sub and all the Company Capital Stock shall
+be converted or cancelled in the manner provided in Article II.   Section
+1.5. Charter and Bylaws. At the Effective Time, the charter of the Company
+shall be amended and restated so as to read in its entirety in the
+form annexed hereto as Exhibit A and, as so amended, shall be the charter of
+the Surviving Corporation, until thereafter amended in accordance with its
+terms and applicable Law. At the Effective Time, the bylaws of the Company
+shall be amended and restated so as to read in its entirety in the form
+annexed hereto as Exhibit B and, as so amended, shall be the bylaws of the
+Surviving Corporation, until thereafter amended in accordance with their
+terms, the charter of the Surviving Corporation and applicable Law.  
+Section 1.6. Directors and Officers. The directors of the Company immediately
+prior to the Effective Time shall submit their resignations to be effective
+as of the Effective Time.    2    Immediately after the Effective Time,
+the directors of Merger Sub immediately prior to the Effective Time shall be
+the directors of the Surviving Corporation, each to hold office in accordance
+with the charter and bylaws of the Surviving Corporation. The officers of the
+Company immediately prior to the Effective Time shall be the officers of the
+Surviving Corporation, each to hold office until the earlier of his or her
+resignation or removal.   ARTICLE II.  EFFECT OF THE MERGER ON CAPITAL
+STOCK OF THE CONSTITUENT CORPORATIONS   Section 2.1. Effect on Capital
+Stock. At the Effective Time, by virtue of the Merger and without any action
+on the part of Parent, Merger Sub, the Company or the holders of any of the
+following securities:   (a) Each share of Company Capital Stock issued and
+outstanding immediately prior to the Effective Time ("Shares") (other than
+any Excluded Shares) shall be converted into and exchanged for the right to
+receive $29.85 in cash, without interest (the "Per Share Merger
+Consideration"). Shares converted in accordance with this paragraph shall no
+longer be outstanding and shall automatically be cancelled and retired and
+shall cease to exist.   (b) Each Share held in the treasury of the Company,
+or owned by Parent, Merger Sub or owned by any wholly owned direct or
+indirect Subsidiary of the Company, Parent or Merger Sub, in each case
+immediately prior to the Effective Time, shall automatically be cancelled and
+retired and shall cease to exist without any conversion thereof and no
+consideration shall be paid with respect thereto (the "Excluded Shares").  
+(c) Each share of common stock of Merger Sub issued and
+outstanding immediately prior to the Effective Time shall be converted into
+and become one (1) fully paid and non-assessable share of common stock of the
+Surviving Corporation.   Section 2.2. Treatment of Options and Other Equity
+Awards. Prior to the Effective Time, the Company shall take all action
+(including obtaining any consents required to take any of the actions
+described in this Section 2.2) necessary with respect to the Company\'s Stock
+Plans such that:   (a) As of the Effective Time, each option (an "Option")
+granted by the Company to purchase shares of Company Capital Stock that is
+outstanding as of immediately prior to the Effective Time, shall become fully
+vested and exercisable (whether or not then vested or subject to any
+performance condition that has not been satisfied). At the Effective Time,
+each Option not theretofore exercised shall be converted into the right to
+receive, upon the exercise thereof and payment of the applicable exercise
+price, an amount of cash, without interest, equal to the Per Share Merger
+Consideration multiplied by each share of Company Capital Stock subject to
+such Option so exercised, less applicable Taxes, if any, required to be
+withheld with respect to such payment. Unless so exercised at the Effective
+Time, each outstanding Option so converted shall, immediately following the
+Effective Time, be cancelled in exchange for a cash payment equal to the
+product of (x) the total number of shares of Company Capital Stock subject to
+such Option multiplied by (y) the excess, if any, of the Per   
+3    Share Merger Consideration over the applicable per share exercise
+price (with the aggregate amount of such payment to the holder to be rounded
+to the nearest cent) (the "Option Consideration"), less applicable Taxes, if
+any, required to be withheld with respect to such payment. Each Option with a
+per share exercise price in excess of the Per Share Merger Consideration
+shall be cancelled without payment to the holder thereof.   (b) As of the
+Effective Time, each outstanding share of Company Capital Stock granted under
+any of the Stock Plans that are subject to restrictions (each, a share of
+"Restricted Stock") which have not lapsed immediately prior to the Effective
+Time shall become fully vested and become free of all restrictions and shall
+be converted into the right to receive the Per Share Merger Consideration
+under Section 2.1(a).   (c) As of the Effective Time, each outstanding right
+to receive Company Capital Stock pursuant to a stock unit award or deferred
+stock award under any of the Stock Plans (each a "Stock Unit") that is
+outstanding as of immediately prior to the Effective Time, whether or not
+vested, shall be cancelled and the holder thereof shall be entitled to
+receive an amount in cash, without interest, equal to the Per Share Merger
+Consideration for each share of Company Capital Stock such holder would have
+been entitled to under such stock unit award or deferred stock award, less
+applicable Taxes, if any, required to be withheld with respect to such
+payment.   (d) Prior to the Effective Time, the Company shall take or cause
+to be taken all actions necessary to effectuate the foregoing treatment in
+this Section 2.2 to the extent such treatment is not expressly provided for
+by the terms of the applicable Stock Plans and related award agreements.
+Without Parent\'s consent, the Company may not pay or transfer any
+consideration to obtain consent to any of the actions described in this
+Section 2.2.   (e) The Company shall take such actions as are reasonably
+requested by Parent to ensure, as of immediately after the Effective Time,
+that no rights to acquire equity in the Company or any Company Subsidiary
+granted under Stock Plans exist or remain outstanding.   Section 2.3.
+Adjustment of Merger Consideration and Option Consideration. Notwithstanding
+anything in this Agreement to the contrary, if, between the date of this
+Agreement and the Effective Time, the issued and outstanding Shares shall
+have been changed into a different number of shares or a different class by
+reason of any stock split, reverse stock split, stock
+dividend, reclassification, redenomination, recapitalization, split-up,
+combination, exchange of shares or other similar transaction, the Per Share
+Merger Consideration, Option Consideration and any other dependent items
+shall be appropriately adjusted to provide to the holders of Company Capital
+Stock and Options the same economic effect as contemplated by this Agreement
+prior to such action and as so adjusted shall, from and after the date of
+such event, be the Per Share Merger Consideration, Option Consideration or
+other dependent item, subject to further adjustment in accordance with this
+sentence. Notwithstanding the terms of this Section 2.3, the Company shall at
+all times from and after the date of this Agreement to the earlier of the
+Effective Time and termination of this Agreement comply with the provisions
+of Section 5.1 hereof.    4     Section 2.4. Payment and Exchange of
+Certificates; Payment for Options.   (a) Following the date of this
+Agreement and in any event not less than three (3) Business Days prior to the
+mailing of the Proxy Statement to the Shareholders, Parent or Merger Sub
+shall designate a bank or trust company reasonably acceptable to the Company
+to act as paying agent in connection with the Merger (the "Paying Agent"). At
+or prior to the Effective Time, Parent will provide to, or cause the
+Surviving Corporation to provide to, and shall deposit in trust with, the
+Paying Agent, in accordance with an agreement to be entered into between the
+Paying Agent and Parent reasonably satisfactory in form and substance to
+Parent and the Company, the aggregate consideration to which the Shareholders
+and holders of Options of the Company become entitled under this Article II.
+Until used for that purpose, the funds shall be invested by the Paying Agent,
+as directed by Parent or the Surviving Corporation, in obligations of or
+guaranteed by the United States of America or obligations of an agency of the
+United States of America which are backed by the full faith and credit of the
+United States of America, in commercial paper obligations rated A-1 or P-1 or
+better by Moody\'s Investors Services Inc. or Standard and Poor\'s
+Corporation, or in deposit accounts, certificates of deposit or banker\'s
+acceptances of, repurchase or reverse repurchase agreements with, or
+Eurodollar time deposits purchased from, commercial banks, each of which has
+capital, surplus and undivided profits aggregating more than $500 million
+(based on the most recent financial statements of the banks which are then
+publicly available); provided that no such investment or losses thereon shall
+affect the Per Share Merger Consideration or Option Consideration payable to
+former Shareholders or holders of Options of the Company, and, in the event
+that the net amount of such investments or losses result in such funds being
+less than the aggregate amount required to be paid to former holders of
+Company Capital Stock and/or Options, Parent shall promptly provide, or shall
+cause the Surviving Corporation to promptly provide, additional funds to the
+Paying Agent in the net amount of any such losses. Any interest or other
+earnings resulting from such investments shall be promptly paid to
+Parent.   (b) Promptly after the Effective Time, the Surviving Corporation
+shall cause the Paying Agent to mail to each Person who was a record holder
+of Company Capital Stock immediately prior to the Effective Time, whose
+shares were converted pursuant to this Article II into the right to receive
+the Per Share Merger Consideration, (i) a form of letter of transmittal for
+use in effecting the surrender of stock certificates which immediately prior
+to the Effective Time represented Company Capital Stock (each, a
+"Certificate") in order to receive payment of the Per Share Merger
+Consideration (which shall specify that delivery shall be effected, and risk
+of loss and title to the Certificate shall pass, only upon actual delivery of
+the Certificates to the Paying Agent, and shall otherwise be in customary
+form) and (ii) instructions for use in effecting the surrender of the
+Certificates in exchange for payment of the Per Share Merger Consideration.
+When the Paying Agent receives a Certificate, together with a properly
+completed and executed letter of transmittal and any other required
+documents, the Paying Agent shall pay to the holder of the Shares formerly
+represented by the Certificate, or as otherwise directed in the letter of
+transmittal, the Per Share Merger Consideration with regard to each
+Share formerly represented by such Certificate, less any required
+withholdings in accordance with Section 2.4(d) below, and the Certificate
+shall be cancelled. No interest shall be paid or accrued on the Per Share
+Merger Consideration payable upon the surrender of Certificates. If payment
+is to be made to a Person other than the Person in whose name a surrendered
+Certificate is registered, it shall be a condition of payment that the
+Certificate so surrendered must be properly endorsed or otherwise   
+5    be in proper form for transfer, and the Person who surrenders the
+Certificate must provide funds for payment of any transfer or other Taxes
+required by reason of the payment to a Person other than the registered
+holder of the surrendered Certificate or establish to the satisfaction of the
+Surviving Corporation that the Tax has been paid or is not applicable. After
+the Effective Time, a Certificate shall represent only the right to receive
+the Per Share Merger Consideration in respect of the Shares formerly
+represented by such Certificate, without any interest thereon.   (c)
+Promptly after the Effective Time, the Surviving Corporation shall cause the
+Paying Agent to mail to each Person who holds Options immediately prior to
+the Effective Time, whose Options were converted pursuant to this Article II
+into the right to receive the Option Consideration, a form of letter of
+transmittal and/or instruction letter for use in effecting the surrender
+of Options in order to receive payment of the Option Consideration. When the
+Paying Agent receives a properly completed and executed letter
+of transmittal/instruction letter and any other required documents, the
+Paying Agent shall pay to the holder of such Options the Option Consideration
+with regard to each Option, less any required withholdings in accordance with
+Section 2.4(d) below, and such Options shall be cancelled. No interest shall
+be paid or accrued on the Option Consideration payable upon the surrender of
+Options. After the Effective Time, any Option agreement shall represent only
+the right to receive the Option Consideration in respect of the Options
+formerly represented by such agreement, without any interest thereon.   (d)
+The Paying Agent may withhold from the sum payable to any Person as a result
+of the Merger, and pay to the appropriate Taxing Authorities, any amounts
+which the Paying Agent or the Surviving Corporation may be required (or may
+reasonably believe it is required) to withhold under the Code, or
+any provision of state, local or foreign Tax Law. Any sum which is withheld
+and paid to a Taxing Authority as permitted by this Section 2.4 will be
+deemed to have been paid to the Person with regard to whom it is
+withheld.   (e) In the event that any Certificate shall have been lost,
+stolen or destroyed, upon the holder\'s compliance with the replacement
+requirements established by the Paying Agent, including, if necessary, the
+posting by the holder of a bond in customary amount as indemnity against any
+claim that may be made against the Parent, the Surviving Corporation or the
+Paying Agent with respect to the Certificate, the Paying Agent shall deliver
+in exchange for the lost, stolen or destroyed Certificate the applicable Per
+Share Merger Consideration payable in respect of the Shares formerly
+represented by the Certificate pursuant to this Article II.   (f) At any
+time which is more than one hundred eighty (180) calendar days after the
+Effective Time, Parent shall be entitled to require the Paying Agent to
+deliver to it any funds which had been deposited with the Paying Agent and
+have not been disbursed in accordance with this Article II
+(including, without limitation, interest and other income received by the
+Paying Agent in respect of the funds made available to it), and after the
+funds have been delivered to Parent pursuant to this Section 2.4(f), Persons
+entitled to payment in accordance with this Article II shall be entitled to
+look solely to Parent (subject to abandoned property, escheat or other
+similar Laws) as general creditors for payment of the Per Share Merger
+Consideration or Option Consideration, without any interest thereon. Any Per
+Share Merger Consideration remaining unclaimed as of a date which is
+immediately prior to such time as such amounts would, under applicable Law,
+otherwise escheat to or become property of any government entity shall, to
+the extent permitted by applicable Law, become the property of   
+6    Parent free and clear of any Liens, claims or interest of any Person
+previously entitled thereto. Neither the Surviving Corporation, Parent nor
+the Paying Agent will be liable to any Person entitled to payment under this
+Article II for any consideration which is delivered to a public official
+pursuant to any abandoned property, escheat or similar Law or which becomes
+the property of Parent pursuant to the preceding sentence.   (g) At the
+Effective Time, the stock transfer books of the Company shall be closed and
+thereafter there shall be no further registration of transfers of Shares that
+were outstanding prior to the Effective Time. After the Effective Time,
+Certificates presented to the Surviving Corporation for transfer shall be
+cancelled and exchanged for the Per Share Merger Consideration,
+without interest, in respect of the Shares formerly represented thereby.  
+(h) Except as otherwise provided herein, Parent shall pay all charges and
+expenses, including those of the Paying Agent, in connection with
+the exchange of the Per Share Merger Consideration for Certificates and the
+payment of the Option Consideration.   ARTICLE III.  REPRESENTATIONS AND
+WARRANTIES OF THE COMPANY   The Company hereby represents and warrants to
+Parent and Merger Sub as follows:   Section 3.1. Organization, Standing and
+Corporate Power. The Company and each of the Company Subsidiaries is a
+corporation or other legal entity duly organized, validly existing and in
+good standing (with respect to jurisdictions that recognize such concept)
+under the laws of the jurisdiction in which it is organized and has the
+requisite corporate or other power, as the case may be, and authority to
+carry on its business as now being conducted as of the date of this
+Agreement, except for any such failures to be in good standing that
+would not, individually or in the aggregate, reasonably be expected to have
+or result in a Material Adverse Effect. The Company and each of the Company
+Subsidiaries is duly qualified or licensed to do business in each
+jurisdiction in which the nature of its business or the ownership, leasing or
+operation of its properties makes such qualification or licensing necessary,
+except for those jurisdictions where the failure to be so qualified or
+licensed would not, individually or in the aggregate, reasonably be expected
+to have or result in a Material Adverse Effect. The Company has made
+available to Parent prior to the execution of this Agreement via the Data
+Site complete and correct copies of its charter and bylaws and the analogous
+constitutive and governing documents of the Company Subsidiaries, each as
+amended to the date of this Agreement (the "Charter Documents"), and as so
+made available are in full force and effect, and no other such documents are
+binding upon the Company or any Company Subsidiary.   Section 3.2.
+Subsidiaries. All outstanding shares of capital stock of, or other equity
+interests in, each Subsidiary of the Company (collectively, the "Company
+Subsidiaries" and, together with the Company, the "Company Entities") (i)
+have been validly issued and are fully paid and nonassessable and (ii)
+with respect to capital stock owned by the Company, are free and clear of all
+Liens other than Permitted Liens. Except as set forth in Section 3.2 of the
+disclosure schedules delivered by the Company to Parent and Merger Sub prior
+to the execution of this Agreement (the "Company Disclosure Schedules"),
+all outstanding shares of capital stock (or equivalent equity interests of
+entities other than corporations) of each of the Company   
+7    Subsidiaries are beneficially owned, directly or indirectly, by the
+Company. Section 3.2 of the Company Disclosure Schedules sets forth a true
+and complete list of each Company Subsidiary and its jurisdiction of
+incorporation or organization. Except for the Company Subsidiaries, the
+Company does not own any capital stock of or other equity interest in, or any
+interest convertible into or exercisable or exchangeable for any capital
+stock of or other equity interest in, any other Person. None of the Company
+Subsidiaries is, or has at any time been, subject to the reporting
+requirements of Sections 13(a) or 15(d) under the Exchange Act.   Section
+3.3. Capital Structure.   (a) The authorized capital stock of the Company
+consists of 20,000,000 shares of Company Common Stock, 5,000,000 shares of
+Company Class B Common Stock and 1,000,000 shares of the Company preferred
+stock, $1.00 par value per share ("Company Preferred Stock"). As of January
+31, 2006, (i) 14,060,160 shares of Company Common Stock were issued and
+outstanding, (ii) 948,728 shares of Company Class B Common Stock were issued
+and outstanding, (iii) no shares of Company Preferred Stock were issued and
+outstanding, (iv) no shares of Company Capital Stock were held in the
+Company\'s treasury, (v) 951,849 shares of Company Common Stock were reserved
+for issuance upon exercise of outstanding Options issued under the Stock
+Plans, and (vi) 481,318 shares of Company Class B Stock were reserved for
+issuance upon exercise of Options issued under the Stock Plans. Since such
+date, there has been no change in the number of issued or outstanding shares
+of Company Capital Stock or in the number of shares reserved for issuance,
+other than the issuance of shares of Company Capital Stock upon the exercise
+of Options issued under and in accordance with the Option Plans and
+the conversion of Company Class B Stock to Company Common Stock. All of the
+issued and outstanding shares of Company Capital Stock are duly authorized,
+validly issued, fully paid, nonassessable and free of preemptive rights. No
+Company Subsidiary owns any shares of Company Capital Stock.   (b) Except
+as set forth in Section 3.3(b) of the Company Disclosure Schedules and
+referred to in Section 3.3(a) above, as of the date of this Agreement there
+are not, and as of the Closing Date there will not be, (1) issued, reserved
+for issuance or outstanding (i) any shares of capital stock or other voting
+securities of the Company, (ii) any securities convertible into
+or exchangeable or exercisable for shares of capital stock or voting
+securities of the Company or any Company Subsidiary, or (iii) any warrants,
+calls, options or other rights to acquire from the Company or any Company
+Subsidiary any capital stock, voting securities or securities convertible
+into or exchangeable or exercisable for capital stock or voting securities of
+the Company or any Company Subsidiary and (2) any outstanding obligations of
+the Company or any Company Subsidiary to issue, deliver or sell, or cause to
+be issued, delivered or sold, any capital stock, voting securities or
+securities convertible into or exchangeable or exercisable for capital stock
+or voting securities of the Company or any Company Subsidiary. Except for the
+Stock Units granted pursuant to the Stock Plans (which Stock Units are set
+forth in Section 3.3(b) of the Company Disclosure Schedules), there are no
+outstanding obligations of the Company or any Company Subsidiary to
+repurchase, redeem or otherwise acquire any Company Capital Stock or other
+capital stock, voting securities or securities convertible into or
+exercisable or exchangeable for capital stock or voting securities of the
+Company or any Company Subsidiary or Affiliate or to provide funds to make
+any investment (in the form of a loan, capital contribution or otherwise) in
+any Company Subsidiary or any other Person, nor has the Company   
+8    or any Company Subsidiary granted or agreed to grant to any Person
+any stock appreciation rights or similar equity-based rights. Except as
+permitted by this Agreement, following the Merger neither the Company nor any
+Company Subsidiary nor the Surviving Corporation will have any obligation to
+issue, transfer or sell any shares of its capital stock or other equity
+interest pursuant to any employee benefit plan or otherwise. As of the date
+of this Agreement, (i) 12,914,281 shares of common stock of Live Event
+Management, Inc. were issued and outstanding and (ii) 130,000 shares of
+common stock of Live Event Management, Inc. were reserved for issuance upon
+exercise of options described in Section 3.3(b) of the Company Disclosure
+Schedules.   (c) There are no voting trusts or other agreements or
+understandings to which the Company or any Company Subsidiary is a party with
+respect to the voting of the capital stock of or other equity interest in the
+Company or any Company Subsidiary.   Section 3.4. Authority. The Company
+has all requisite corporate power and authority to enter into this Agreement
+and, subject to Shareholder Approval, to consummate the transactions
+contemplated by this Agreement. The execution and delivery of this Agreement
+by the Company and the consummation by the Company of the transactions
+contemplated hereby have been duly authorized by all necessary corporate
+action on the part of the Company, subject, in the case of the Merger, to
+receipt of Shareholder Approval. This Agreement has been duly executed
+and delivered by the Company and, assuming the due authorization, execution
+and delivery by Parent and Merger Sub, constitutes the legal, valid and
+binding obligation of the Company, enforceable against the Company in
+accordance with its terms, except as the enforcement thereof may be limited
+by applicable bankruptcy, insolvency, reorganization, moratorium, fraudulent
+conveyance or similar Laws generally affecting the rights of creditors and
+subject to general equity principles. The Company Board has, by resolutions
+duly adopted at a meeting duly called and held, (i) duly and validly approved
+and declared advisable this Agreement, (ii) determined that the transactions
+contemplated by this Agreement are advisable and in the best interests of the
+Company and the Shareholders and (iii) recommended to the Shareholders that
+they vote in favor of the adoption and approval of this Agreement and the
+Merger and the other transactions contemplated hereby.   Section 3.5. Non-
+Contravention; Consents and Approvals. Except as set forth in Section 3.5 of
+the Company Disclosure Schedules:   (a) The execution and delivery of this
+Agreement does not, and the consummation of the transactions contemplated by
+this Agreement and compliance with the provisions of this Agreement will not,
+(i) conflict with the Charter Documents of any of the Company Entities, (ii)
+result in any breach, violation or default (with or without notice or lapse
+of time, or both) under, or give rise to a right of termination, cancellation
+or creation or acceleration of any obligation or right of a third party or
+loss of a benefit under, or result in the creation of any Lien upon any of
+the properties or assets of any of the Company Entities under, any Material
+Contract, Significant Royalty Agreement or Lease or (iii) subject to the
+governmental filings and other matters referred to in Section 3.5(b),
+conflict with or violate any judgment, order, decree or Law applicable to any
+of the Company Entities or their respective properties or assets, other than,
+in the case of clauses (ii) and (iii), any such conflicts, breaches,
+violations, defaults, rights, losses or Liens that, individually or in the
+aggregate, would not    9    reasonably be expected to have or result
+in a Material Adverse Effect or materially adversely affect the ability of
+the Company to consummate the transactions contemplated by this
+Agreement.   (b) No consent, approval, order or authorization of, action by
+or in respect of, or registration, declaration or filing with, any
+Governmental Entity or any stock exchange is required by the Company in
+connection with the execution and delivery of this Agreement by the Company
+or the consummation by the Company of the transactions contemplated hereby,
+except for: (i) the filing with the SEC of (A) the Proxy Statement, and (B)
+such reports under Section 13(a) or 15(d) or such other applicable sections
+of the Exchange Act, as may be required in connection with this Agreement and
+the transactions contemplated hereby; (ii) the filing of the Articles of
+Merger with the Secretary of State of the State of Tennessee; (iii) the
+filing of a premerger notification and report form by the Company under the
+HSR Act; (iv) notifications to the NYSE; and (v) such other consents,
+approvals, orders or authorizations the failure of which to be made or
+obtained, individually or in the aggregate, would not reasonably be expected
+to have or result in a Material Adverse Effect or materially adversely affect
+the ability of the Company to consummate the transactions contemplated
+by this Agreement.   Section 3.6. SEC Reports and Financial Statements;
+Internal Controls.   (a) The Company has filed all forms, reports,
+statements and schedules and made all other filings with the SEC required to
+be filed by it pursuant to the federal securities laws and the SEC rules and
+regulations thereunder since April 1, 2003 (the "SEC Reports"). Each SEC
+Report (i) as of its date, complied in all material respects with the
+Securities Act or the Exchange Act, as the case may be, and (ii) did not as
+of the time it was filed contain any untrue statement of a material fact or
+omit to state a material fact required to be stated therein or necessary in
+order to make the statements therein, in light of the circumstances under
+which they were and will be made, not misleading.   (b) Since the enactment
+of the Sarbanes-Oxley Act of 2002, the Company has been and is in compliance
+in all material respects with (i) the applicable provisions of the Sarbanes-
+Oxley Act of 2002 and the rules and regulations promulgated thereunder (the
+"Sarbanes-Oxley Act") and (ii) the applicable listing and corporate
+governance rules and regulations of the NYSE.   (c) The Company has
+designed, established and maintained disclosure controls and procedures (as
+such term is defined in Rule 13a-15(e) under the Exchange Act) as required by
+Rule 13a-15(a) under the Exchange Act to ensure, among other things, that
+material information relating to the Company, including the Company
+Subsidiaries, is made known to the chief executive officer and the chief
+financial officer of the Company by others within those entities.   (d) The
+Company has, based on its most recent evaluation prior to the date hereof,
+made all required disclosures (if any) to the Company\'s auditors and the
+audit committee of the Company Board regarding (i) any
+significant deficiencies and material weaknesses in the design or operation
+of internal controls over financial reporting which are reasonably likely to
+adversely affect the Company\'s ability to record, process, summarize and
+report financial    10    information and (ii) any fraud or allegation
+of fraud, whether or not material, that involves management or other
+employees who have a significant role in the Company\'s internal controls
+over financial reporting. To the extent that there were any such disclosures,
+such disclosures have been set forth in Section 3.6(d) of the Company
+Disclosure Schedules. The Company and each Company Subsidiary currently
+maintains a system of internal accounting controls sufficient to comply with
+all legal requirements applicable to financial reporting by the Company and
+each Company Subsidiary.   (e) To the Company\'s Knowledge, there is no
+reason to believe that its auditors and its chief executive officer and chief
+financial officer will not be able to give the certifications and
+attestations required pursuant to the rules and regulations adopted pursuant
+to Section 404 of the Sarbanes-Oxley Act when next due.   (f) Since the
+enactment of the Sarbanes-Oxley Act, neither the Company nor any Company
+Subsidiary has made any loan to, extended or maintained credit, or arranged
+for or maintained an extension of credit to or for any executive officer (as
+defined in Rule 3b-7 under the Exchange Act) or director of the Company (an
+"Insider Loan"). In addition, since the enactment of the Sarbanes-Oxley Act,
+there has not been any material modification to any Insider Loan.   (g)
+Except as set forth in Section 3.6(g) of the Company Disclosure Schedules or
+otherwise stated in such financial statements, each of (i) the consolidated
+balance sheets for each of the two fiscal years ended as of March 31, 2004
+and March 31, 2005 and the consolidated balance sheet for the nine months
+ended as of December 31, 2005 included in the SEC Reports (including
+the related notes and schedules) were prepared from and in accordance with
+the books and records of the Company and the Company Subsidiaries and in
+accordance with GAAP applied on a basis consistent with the past practices of
+the Company and the Company Subsidiaries and fairly present, in all material
+respects, the consolidated financial position of the Company and the Company
+Subsidiaries at the respective dates thereof and (ii) the related
+consolidated statements of income, cash flows, shareholders\' equity and
+comprehensive income included in the SEC Reports (including any related notes
+and schedules) were prepared from and in accordance with the books and
+records of the Company and the Company Subsidiaries and in accordance with
+GAAP applied on a basis consistent with the past practices of the Company and
+the Company Subsidiaries throughout the periods covered and fairly present,
+in all material respects, the results of operations and cash flows of the
+Company and the Company Subsidiaries for the periods indicated (subject, in
+the case of the unaudited quarterly financial statements referenced in each
+of clauses (i) and (ii), to normal recurring year-end audit adjustments, none
+of which will be material, and the absence of full footnote disclosure).
+Except as set forth in Section 3.6(g) of the Company Disclosure Schedule,
+each Company Subsidiary is treated as a consolidated subsidiary of the
+Company in the financial statements for all periods covered thereby.  
+Section 3.7. No Undisclosed Liabilities. Since December 31, 2005, neither the
+Company nor any of the Company Subsidiaries has incurred any liabilities
+or obligations of any nature required by GAAP, applied on a basis consistent
+with the Most Recent Balance Sheet, to be reflected in a consolidated balance
+sheet or the notes thereto, except liabilities that (i) are accrued or
+reserved against in the consolidated balance sheet of the Company and each
+Company    11    Subsidiary as of December 31, 2005 included in the SEC
+Reports (the "Most Recent Balance Sheet") or are specifically set forth in
+the notes thereto, (ii) were incurred in the ordinary course of business
+consistent with past practice, (iii) are incurred pursuant to the
+transactions contemplated by this Agreement, or (iv) would not reasonably be
+expected to have, individually or in the aggregate, a Material Adverse
+Effect.   Section 3.8. Material Contracts; Royalty Agreements. Except as set
+forth in Section 3.8 of the Company Disclosure Schedules and except for
+contracts filed as an exhibit pursuant to Item 601(b)(10) of Regulation S-K
+of the SEC to the Company\'s SEC Reports filed prior to the date of this
+Agreement:   (a) Except with respect to Royalty Agreements, as of the date
+hereof, neither the Company nor any Company Subsidiary is a party to or bound
+by any (collectively, the "Material Contracts"):   (i) contract that would
+be required to be, but has not been,  filed by the Company as a material
+contract pursuant to Item 601(b)(10) of  Regulation S-K of the SEC;   (ii)
+written contract containing covenants of the Company or any  Company
+Subsidiary not to compete in any line of business, industry or  geographical
+area;   (iii) written contract which creates a partnership, joint  venture,
+strategic alliance or similar arrangement;   (iv) indenture, credit
+agreement, loan agreement, security  agreement, guarantee, note, mortgage or
+other evidence of indebtedness or  agreement providing for indebtedness
+(whether or not drawn or outstanding)  in excess of $100,000, or any guaranty
+thereof;   (v) any contract that by its terms provides for aggregate 
+payments over the remaining term of such contract in excess of $250,000 per 
+year or $500,000 in the aggregate;   (vi) any contract which cannot be
+terminated on ninety (90)  calendar days\' notice without payment of any
+penalty or other stated  obligation (excluding the particular goods or
+services covered by the  contract) on the part of the Company or any Company
+Subsidiary of more than  $100,000;   (vii) any other contract (other than
+this Agreement and purchase  orders for the purchase of inventory consistent
+with past practice and in  the ordinary course of business) under which the
+Company and the Company  Subsidiaries have made payments in excess of
+$1,000,000 within the last  three (3) years;   (viii) any contract (other
+than Employment Agreements and Plans)  relating to employee compensation or
+employment services, involving annual  payments    12     to the
+employee in excess of $100,000, or relating to consulting services, 
+involving annual payments to the consultant in excess of $250,000;   (ix)
+any contract granting a purchase right, a right of first  refusal or similar
+right with respect to any material asset of the Company  or a Company
+Subsidiary;   (x) any contract with any shareholder who owns or controls 5%
+or  more of the Company\'s voting stock; and   (xi) any contract requiring
+capital expenditures after the date  hereof in an amount in excess of
+$250,000.   (b) Set forth in Section 3.8(b) of the Company Disclosure
+Schedules is a list of the Royalty Agreements which, as of the date of this
+Agreement, are in effect and constitute the ten (10) most significant royalty
+relationships to which the Company is a party, based on the aggregate amount
+of outstanding royalty advances and binding commitments for royalty advances
+to any individual author or copyright proprietor (or group of authors or
+copyright proprietors) with respect to a single work or single catalog of
+works, exclusive of non-advanced royalties (collectively, the "Significant
+Royalty Agreements").   (c) As of the date of this Agreement there is not,
+and as of the Closing Date there will not be, any outstanding balance under
+the Revolving Credit Agreement, and the Company is, and will be, in material
+compliance with all covenants of the Revolving Credit Agreement.   (d)
+Except as set forth in Section 3.8(d) of the Company Disclosure Schedules (i)
+neither the Company nor any Company Subsidiary is in material breach of or
+material default under any Material Contract or Significant
+Royalty Agreement, (ii) neither the Company nor any Company Subsidiary has
+received any written notice or claim of a material default under any Material
+Contract or Significant Royalty Agreement or, except as would not reasonably
+be expected to have individually or in the aggregate, a Material Adverse
+Effect, any written notice of an intention to terminate any Material Contract
+or Significant Royalty Agreement (including as a result of the execution and
+performance of this Agreement), (iii) except as would not reasonably be
+expected to have, individually or in the aggregate, a Material Adverse
+Effect, each of the Material Contracts and Significant Royalty Agreements is
+in full force and effect, and is the valid and binding and enforceable
+obligation of the Company and the Company Subsidiaries and, to the Knowledge
+of the Company, each of the other parties thereto except as the enforcement
+thereof may be limited by applicable bankruptcy, insolvency, reorganization,
+moratorium, fraudulent conveyance or similar Laws generally affecting the
+rights of creditors and subject to general equity principles, and (iv) the
+Company and the Company Subsidiaries and, to the Knowledge of the Company,
+each of the other parties thereto have performed in all material respects all
+respective obligations required to be performed by them to date under the
+Material Contracts and Significant Royalty Agreements and are not (with or
+without the lapse of time or the giving of notice, or both) in material
+breach or material default thereunder. The Company has made available to
+Parent via the Data Site true and complete copies of each Material Contract
+and Significant Royalty Agreements, including all amendments thereto.   
+13     Section 3.9. Compliance with Applicable Laws. Except as set forth
+in Section 3.9 of the Company Disclosure Schedules, the Company and the
+Company Subsidiaries are not (and have not been since April 1, 2004) in
+violation of any Law, and have not received any written notice of any
+violation of Law, in each case except for any violation that is not having or
+would not reasonably be expected to have, individually or in the aggregate, a
+Material Adverse Effect. The Company and the Company Subsidiaries have, and
+are (and have been since April 1, 2004) in compliance with, all permits,
+licenses, authorizations, exemptions, orders, consents, approvals and
+franchises from Governmental Entities (each, a "Permit") required to conduct
+their respective businesses as now being conducted, except for any such
+Permit, the absence of, or the non-compliance, with which is not having or
+would not reasonably be expected to have, individually or in the aggregate, a
+Material Adverse Effect. No suspension or cancellation of any material
+Permits is pending, or to the Knowledge of the Company, threatened. The
+Company and the Company Subsidiaries have received no written notice that
+such entity is not in compliance in all material respects with the terms of
+the applicable material Permits. This Section 3.9 does not apply to SEC
+Reports or internal controls (for which Section 3.6 is applicable) employee
+benefits matters (for which Section 3.10 is applicable), tax matters (for
+which Section 3.11 is applicable), environmental matters (for which
+Section 3.12 is applicable) or labor matters (for which Section 3.13 is
+applicable).   Section 3.10. Employment Agreements and Benefit Plans. Except
+as set forth in Section 3.10 of the Company Disclosure Schedules:   (a)
+Section 3.10(a) of the Company Disclosure Schedules sets forth a true and
+complete list of (i) each "employee benefit plan" as defined in Section 3(3)
+of ERISA and each other bonus, pension, profit sharing,
+deferred compensation, retention, incentive compensation, equity-related,
+stock ownership, stock purchase, stock option, phantom stock, retirement,
+vacation, disability, death benefit, hospitalization, medical insurance, life
+insurance, welfare, severance or other employee benefit plan, agreement,
+arrangement or understanding maintained by the Company or any Company
+Subsidiary or to which the Company or any Company Subsidiary contributes or
+is obligated to contribute or with respect to which the Company or any
+Company Subsidiary has any actual or contingent liability, including each
+Multiemployer Plan (collectively, the "Benefit Plans") and (ii) each
+employment, consulting or change of control agreement providing benefits to
+any current or former employee, officer or director of the Company or any
+Company Subsidiary, to which the Company or any Company Subsidiary is a party
+or by which the Company or any Company Subsidiary is bound (collectively, the
+"Employment Agreements"). The Company has made available to Parent via the
+Data Site a true and correct copy of each Benefit Plan and Employment
+Agreement (collectively, the "Employment Agreements and Plans"). Neither the
+Company, any Company Subsidiary nor any entity required to be treated as a
+single employer with the Company or any Company Subsidiary (an "ERISA
+Affiliate"), has any actual or contingent or direct or secondary
+material liability that could arise under Title IV of ERISA and, to the
+Knowledge of the Company, there are no facts that could give rise to any such
+liability.   (b) No Benefit Plan is a (i) "defined benefit plan" within the
+meaning of section 414(j) of the Code, or (ii) a Multiemployer Plan;   
+14     (c) Except as specifically set forth in the SEC Reports filed prior
+to the date hereof or as would not have a Material Adverse Effect, neither
+the Company nor any Company Subsidiary has any liabilities or obligations
+with respect to any Benefit Plan, whether accrued, contingent or otherwise,
+nor to the Knowledge of the Company are any such liabilities or obligations
+expected to be incurred;   (d) Each Employment Agreement and Plan is in
+compliance with, and has been administered in accordance with, its terms and
+all applicable Laws, including ERISA and the Code, except for any failures
+that, individually or in the aggregate, would not reasonably be expected to
+have or result in a Material Adverse Effect. Each Benefit Plan that is
+intended to be qualified under Section 401(a), 401(k) or 4975(e)(7) of the
+Code has received a favorable determination letter from the IRS as to its
+qualified status and no fact or event has occurred which is reasonably likely
+to affect adversely the qualified status of any such Benefit Plan or the
+exempt status of any related trust, except for any occurrence that,
+individually or in the aggregate, would not reasonably be expected to have or
+result in a Material Adverse Effect. All trusts providing funding for Benefit
+Plans that are intended to comply with Section 501(c)(9) of the Code are
+exempt from federal income taxation and, together with any other welfare
+benefit funds (as defined in Section 419(e)(1) of the Code) maintained in
+connection with any of the Benefit Plans, have been operated and
+administered in compliance with all applicable requirements, except where a
+failure to comply with such requirements would not reasonably be expected to
+have or result in a Material Adverse Effect.   (e) With respect to each
+Benefit Plan, the Company has delivered or made available to Parent a true
+and complete copy of: (i) each writing constituting a part of such Benefit
+Plan, including all Benefit Plan documents and trust agreements; (ii) the
+three (3) most recent Annual Reports (Form 5500 Series) and accompanying
+schedules, if any; (iii) the most recent annual financial report, if any;
+(iv) the most recent actuarial report, if any; (v) the most recent summary
+plan description and any summaries of material modification, if any, (vi) the
+most recent determination letter from the Internal Revenue Service, if any;
+and (vii) the most recent calculations performed with respect to potential
+"parachute payments" or "excess parachute payments" (each as defined pursuant
+to Section 280G of the Code).   (f) There are no pending or, to the
+Knowledge of the Company, threatened material claims (other than claims for
+benefits in the ordinary course), lawsuits, investigations or arbitrations
+that (i) have been asserted or instituted against the Benefit Plans, any
+fiduciaries thereof with respect to their duties to the Benefit Plans or the
+assets of any of the trusts under any of the Benefit Plans or (ii) involve
+any Employment Agreement.   (g) No benefit or payment under any Employment
+Agreement and Plan, including, without limitation, any severance or parachute
+payment plan or agreement, will be established or become accelerated, vested,
+funded or payable by reason of any transaction contemplated under this
+Agreement and no Employment Agreement and Plan provides for any additional
+amounts to be paid with respect to any tax imposed under Section 4999 of the
+Code.   (h) Neither the Company nor any Company Subsidiary have incurred
+any obligation to make (or possibly make) any payments that (A) will be non-
+deductible under, or would otherwise constitute a "parachute payment"
+within the meaning of, Section 280G of the    15   Code (or any
+corresponding provision of state, local or foreign income Tax law) or (B) are
+or may be subject to the imposition of an excise tax under Section 4999 of
+the Code.   (i) No Employment Agreement and Plan provides welfare coverage
+that extends after the termination of employment other than for continued
+coverage provided pursuant to the requirements of Section 4980B of the Code
+or other similar provision of state law and each Employment Agreement and
+Plan providing such coverage may be amended, modified or terminated after the
+Effective Time without material cost or liability other than for claims for
+expenses actually incurred prior to the date of such amendment, modification
+or termination.   Section 3.11. Taxes.   (a) Except as set forth in
+Section 3.11 of the Company Disclosure Schedules: (i) the Company and each
+Company Subsidiary has filed all Tax Returns required to be filed, and all
+such returns are complete and accurate, other than such Tax Returns, the
+failure of which to file or the inaccuracy of which has not had or would not
+reasonably be expected to have, individually or in the aggregate, a Material
+Adverse Effect; (ii) other than Taxes currently being contested in good
+faith, the Company and each Company Subsidiary has paid all Taxes due, except
+for Taxes as to which the Most Recent Balance Sheet reflects an adequate
+reserve in accordance with GAAP applied on a basis consistent with the past
+practices of the Company (the "Tax Reserve") other than such Taxes,
+the failure to pay or maintain an adequate reserve would not reasonably be
+expected to have, individually or in the aggregate, a Material Adverse
+Effect; (iii) there are no Liens for Taxes upon the assets of the Company or
+any of the Company Subsidiaries, other than Liens for Taxes not yet due or
+Liens for Taxes as to which the Tax Reserve is adequate and except for Liens
+that would not reasonably be expected to have, individually or in the
+aggregate, a Material Adverse Effect; (iv) neither the Company nor any of the
+Company Subsidiaries has any liability for Taxes of any Person (other than
+the Company and the Company Subsidiaries) under Treasury Regulation Section
+1.1502-6 (or any comparable provision of Law) or as a transferee or
+successor, by contract, or otherwise, except for Taxes as to which the Tax
+Reserve is adequate; (v) neither the Company nor any Company Subsidiary is a
+party to any agreement relating to the allocation or sharing of Taxes; (vi)
+no claim has been made in writing by any Taxing Authority in a jurisdiction
+where the Company or any Company Subsidiary does not file Tax Returns that
+the Company or such Company Subsidiary is or may be subject to taxation by
+such jurisdiction; (vii) the Company and each Company Subsidiary has withheld
+and paid all material Taxes required to have been withheld and paid in
+connection with any amounts paid or owing to any employee, independent
+contractor, creditor, shareholder or other third party, except for Taxes as
+to which the Tax Reserve is adequate and except for any such failure
+to withhold that would not reasonably be expected to have a Material
+Adverse Effect; (viii) neither the Company nor any Company Subsidiary has (A)
+entered into a closing agreement or other similar agreement with a Taxing
+Authority relating to Taxes of the Company or any Company Subsidiary with
+respect to a taxable period for which the statute of limitations is still
+open, or (B) except with respect to extensions attributable to the statute of
+limitations in connection with sales and use Taxes and state income Taxes, in
+either case for which the corresponding Tax Reserve is adequate, granted any
+consent to extend any statute of limitations with respect to, or any
+extension of a period for the assessment of, any Tax, in either case, that is
+still outstanding; and (ix) neither the Company nor any Company Subsidiary is
+or has ever been a member of any affiliated, combined, consolidated,   
+16    unitary or similar Tax group that included any member other than the
+Company or a Company Subsidiary.   (b) All inter-company charges and
+transactions between C. R. Gibson and the Company or any of its other
+Subsidiaries that have been taken into account in determining whether the
+stock of C. R. Gibson was a "worthless security" within the meaning of
+Section 165(g) of the Code were (i) contemporaneously recorded in the
+ordinary course of business in the Company\'s financial statements and (ii)
+reflected at a later date in the general ledger of the Company and C. R.
+Gibson in a manner consistent with the amounts so recorded in the financial
+statements. All such charges reflect actual transactions, direct costs
+incurred by the Company or its other Subsidiaries on behalf of C. R. Gibson
+or reasonable allocations of corporate overhead costs or other
+similar charges consistently applied in all material respects over all
+periods. Any adverse developments with respect to the current ongoing audit
+relating to the deductions previously claimed with respect to the stock of
+C.R. Gibson that occur after the date hereof shall not be considered a breach
+of any representation or warranty in this Section 3.11.   Section 3.12.
+Environmental Matters.   (a) Except where failure to hold or noncompliance,
+individually or in the aggregate, would not reasonably be expected to have or
+result in a Material Adverse Effect, the Company Entities hold all
+Environmental Permits required under applicable Environmental Laws and are
+and have been at all times for the past three (3) years in compliance with
+all applicable Environmental Laws and Environmental Permits. Each of the
+Environmental Permits is in full force and effect and there are no actions to
+revoke, terminate, limit or appeal any Environmental Permit.   (b) To the
+Knowledge of the Company, there are no Environmental Claims pending or
+threatened against the Company or any Company Subsidiary, except for matters
+that, individually or in the aggregate, would not reasonably be expected to
+have or result in a Material Adverse Effect. No Liens have arisen under
+or pursuant to any Environmental Law on any site or facility owned, operated
+or leased by the Company or any of the Company Subsidiaries, and no action of
+any Governmental Entity has been taken or, to the Knowledge of the Company,
+is in process which could subject any of such properties to such Liens, and
+neither the Company nor any of the Company Subsidiaries would be required to
+place any notice or restriction relating to the presence of Hazardous
+Materials at any such site or facility owned, leased or operated by it in any
+deed to the real property on which such site or facility is located.   (c)
+Within the past three (3) years, none of the Company or the Company
+Subsidiaries has received from any Governmental Entity or other third party
+any written notice that any of them or any of their predecessors is or may be
+a potentially responsible party in respect of, or may otherwise
+bear liability or obligation for, any actual or threatened Release of any
+Hazardous Substance at or from any site or facility, including any that is or
+has been listed on the National Priorities List, the Comprehensive
+Environmental Response, Compensation and Liability Information System, the
+National Corrective Action Priority System or any similar or analogous list,
+schedule, inventory or database, except where the potential liability would
+not reasonably be expected to have or result in a Material Adverse
+Effect.    17     (d) Except as set forth in Section 3.12 of the
+Company Disclosure Schedules, (i) neither the Company nor any Company
+Subsidiary has assumed or become subject to a material liability or
+obligation of any third party arising under Environmental Laws, or (ii) to
+the Knowledge of the Company there has not been any Release of Hazardous
+Substances or any Environmental Condition that has or would be reasonably
+expected to cause a liability or a obligation to the Company or any Company
+Subsidiary under applicable Environmental Laws, except where the potential
+liability or obligation would not, individually or in the aggregate,
+reasonably be expected to have or result in a Material Adverse Effect.  
+(e) The Company has provided the Parent with copies of all environmental
+assessment, audit or investigation reports or other material environmental
+documents concerning the past or present facilities or operations of the
+Company or any Company Subsidiary that are in its possession or control.  
+Section 3.13. Labor Matters. Except as set forth in Section 3.13 of
+the Company Disclosure Schedules: (a) neither the Company nor any Company
+Subsidiary is a party to or bound by any contract, collective bargaining
+agreement or works council agreement with any labor or similar organization;
+(b) there are no pending or, to the Knowledge of the Company, threatened,
+organizational activities or demands in writing for recognition or
+certification by a labor organization seeking to represent employees of the
+Company or any Company Subsidiary; (c) within the past three (3) years, there
+has been no, and to the Knowledge of the Company, there is no pending labor
+dispute, strike or work stoppage against the Company or Company Subsidiaries;
+(d) there are no charges, appeals or Actions against the Company or any
+Company Subsidiary pending, or to the Knowledge of the Company, threatened,
+before or by the Equal Employment Opportunity Commission, the Department of
+Labor, Occupational Safety and Health Administration, the National Labor
+Relations Board or any other comparable Governmental Entity except for
+charges, appeals or Actions that would not, individually or in the aggregate,
+reasonably be expected to have or result in a Material Adverse Effect; (e)
+except as would not reasonably be expected to have a Material Adverse Effect,
+the Company and the Company Subsidiaries are in compliance all material
+respects with all applicable Laws relating to employment and employment
+practices, occupational health and safety, pay equity, wages, hours and terms
+and conditions of employment; and (f) the Company and each Company Subsidiary
+is in compliance with all Laws respecting labor, employment practices,
+workplace safety and the payment of wages other than for violations that,
+individually or in the aggregate, would not reasonably be expected to have or
+result in a Material Adverse Effect.   Section 3.14. Intellectual Property.
+Except as would not reasonably be expected to have, individually or in the
+aggregate, a Material Adverse Effect, the Company and the Company
+Subsidiaries own all right, title, and interest in, or have the right to use,
+pursuant to a license or otherwise, in each case, free and clear of all Liens
+except Permitted Liens, all material Intellectual Property required to
+operate their respective businesses as presently conducted (the "Company
+Intellectual Property"). As of the date hereof, except as set forth in
+Section 3.14 of the Company Disclosure Schedules and except as would not
+reasonably be expected to have, individually or in the aggregate, a
+Material Adverse Effect: (i) neither the Company nor any Company Subsidiary
+has received any written notice of any claims or threatened Actions alleging
+a violation, misappropriation or infringement of the Intellectual Property of
+any other Person, except for any of the foregoing that have since been
+finally resolved; (ii) no other Person    18    has violated,
+misappropriated or infringed the Company Intellectual Property owned by the
+Company or any Company Subsidiary; (iii) there are no Actions pending or, to
+the Knowledge of the Company, threatened in writing, challenging the
+ownership, enforceability, validity or use of any Company
+Intellectual Property owned by the Company or any Company Subsidiary; and
+(iv) each of the Company and the Company Subsidiaries take and have taken
+commercially reasonable actions to maintain and preserve its trade
+secrets.   Section 3.15. Absence of Certain Changes or Events. Except as set
+forth in Section 3.15 of the Company Disclosure Schedules, and except for
+liabilities incurred in connection with this Agreement or the transactions
+contemplated hereby, since December 31, 2005:   (a) the Company has
+conducted its operations in all material respects in the ordinary course
+consistent with past practice;   (b) there has not been a Material Adverse
+Effect, individually or in the aggregate; and   (c) neither the Company nor
+any Company Subsidiary has taken any action which, if taken after the date
+hereof, would constitute a breach of any provisions of Section 5.1(a).  
+Section 3.16. Brokers. Except for the Company Financial Advisor and SunTrust
+Capital Markets, Inc., no broker, investment banker, financial advisor or
+other Person is entitled to any broker\'s, finder\'s, financial advisor\'s
+or other similar fee or commission in connection with the transactions
+contemplated by this Agreement based upon arrangements made by or on behalf
+of the Company. True and complete copies of the engagement letters with the
+Company Financial Advisor and SunTrust Capital Markets, Inc. have been
+provided to Parent and there have not been any amendments or modifications
+thereto.   Section 3.17. Absence of Litigation. Except as set forth in
+Section 3.17 of the Company Disclosure Schedules, there is no litigation,
+suit, claim, action, proceeding, hearing, petition, grievance, complaint or
+investigation (each, an "Action") pending or, to the Knowledge of the
+Company, threatened against the Company or any Company Subsidiary, by or
+before any Governmental Entity other than any such Action that would not
+reasonably be expected to have, individually or in the aggregate, a Material
+Adverse Effect. As of the date of this Agreement, neither the Company nor any
+Company Subsidiary is subject to (i) any order of, consent decree, settlement
+agreement or other similar written agreement with, any Governmental
+Authority, or (ii) any order, writ, judgment, injunction, decree,
+determination or award of any Governmental Entity, except (in the case of (i)
+or (ii)) for those that would not reasonably be expected to have,
+individually or in the aggregate, a Material Adverse Effect.   Section 3.18.
+Insurance. (a) All material insurance policies of the Company and the Company
+Subsidiaries are in full force and effect and provide insurance in such
+amounts and against such risks as required by applicable Law and by Material
+Contracts, Significant Royalty Agreements, and Leases to which the Company or
+any Company Subsidiary is a party, (b) neither the Company nor any of the
+Company Subsidiaries is in breach or default, and neither the Company nor any
+of the Company Subsidiaries has taken any action or failed to take
+any action    19    which, with or without notice or lapse of time or
+both, would constitute such a breach or default, or permit termination or
+modification of, any of such insurance policies, except as would not,
+individually or in the aggregate, reasonably be expected to have a Material
+Adverse Effect, (c) to the Knowledge of the Company no insurer on any such
+policy has been declared insolvent or placed in receivership, conservatorship
+or liquidation, and (d) no written notice of cancellation or termination has
+been received with respect to any such policy.   Section 3.19. Real
+Property.   (a) Section 3.19(a) of the Company Disclosure Schedules contains
+a true, correct and complete list of all real property owned by the Company
+or the Company Subsidiaries, (the "Owned Real Property"). Except as set forth
+in Section 3.19(a) of the Company Disclosure Schedules, (i) the Company or
+the applicable Company Subsidiary owns good and marketable title to the Owned
+Real Property subject to no Liens except Permitted Real Property Encumbrances
+and Permitted Liens, and (ii) neither the Company nor any Company Subsidiary
+has leased all or any significant portion of any Owned Real Property.   (b)
+Section 3.19(b) of the Company Disclosure Schedules sets forth a true,
+correct and complete list of Leases. Except as would not reasonably
+be expected to have, individually or in the aggregate, a Material Adverse
+Effect: (i) all of the Leases are in full force and effect and (ii) neither
+the Company nor any Company Subsidiary, nor to the Knowledge of the Company,
+any other party to any such Lease, is in default under any of the Leases, and
+no event has occurred which, with notice or lapse of time, would constitute a
+default by the Company nor any Company Subsidiary under any of the
+Leases.   Section 3.20. Affiliate Transactions. Except as disclosed in the
+Company\'s SEC Reports filed prior to the date of this Agreement or set forth
+in Section 3.20 of the Company Disclosure Schedules, no executive officer or
+director of the Company or any Company Subsidiary or any Person who
+beneficially owns five percent (5%) or more of the Company Capital Stock (or
+any of such Person\'s Immediate Family Members or Affiliates) is a party to
+any contract with or binding upon the Company or any Company Subsidiary or
+any of their respective properties or assets or has any material interest in
+any material property owned by the Company or any Company Subsidiary or has
+engaged in any material transaction with any of the foregoing within the last
+twelve months, in each case, that is of the type that would be required to be
+disclosed under Item 404 of Regulation S-K under the Securities Act. In
+addition, except (i) the Voting Agreement, (ii) the Insurance Agreement,
+dated as of May 17, 1991, between the Company and Sam Z. Moore, (iii) the
+Employment Agreement, dated as of May 13, 1996, as amended February 20, 2006
+between the Company and Sam Z. Moore, and (iv) as disclosed in Section 3.20
+of the Company Disclosure Schedule, the Company has not entered into any
+agreement or arrangement with any Principal Shareholder or Affiliate or the
+Immediate Family Member of any Principal Shareholder and is not obligated to
+make any payment to any such Person, whether before or after the Closing Date
+(other than as required by this Agreement in their capacity as a Shareholder
+or Option holder).   Section 3.21. Vote Required. The affirmative vote of
+the holders of record of at least sixty-six and two-thirds percent (66 2/3%)
+of the votes entitled to be cast by the holders of the Company Common Stock
+and Company Class B Common Stock, voting together as a single   
+20    class with respect to the adoption of this Agreement, is the only
+vote of the holders of any class or series of the capital stock of the
+Company required to adopt this Agreement and approve the Merger and the other
+transactions contemplated hereby.   Section 3.22. Opinion of Company
+Financial Advisor. The Company has received the opinion of SunTrust Capital
+Markets, Inc., dated the date hereof, to the effect that the consideration to
+be received in the Merger by the Shareholders (other than the Principal
+Shareholders) is fair from a financial point of view to the Shareholders, and
+a true and complete copy of such opinion has been delivered to Parent.  
+Section 3.23. Information Supplied. The Proxy Statement and any
+other documents to be filed by the Company with the SEC or any other
+Governmental Entity in connection with the Merger and the other transactions
+contemplated hereby will not, on the date of its filing or, in the case of
+the Proxy Statement, at the date it is mailed to Shareholders and at the date
+of the Shareholders\' Meeting, contain any untrue statement of a material
+fact or omit to state any material fact required to be stated therein or
+necessary in order to make the statements therein, in light of the
+circumstances under which they are made, not misleading, except that no
+representation is made by the Company with respect to information supplied in
+writing by or on behalf of Parent or Merger Sub expressly for inclusion
+therein. The Proxy Statement and any such other documents filed by the
+Company with the SEC under the Exchange Act will comply as to form in all
+material respects with the requirements of the Exchange Act.   Section
+3.24. TBCA. The Company Board has taken all necessary actions so that the
+provisions of Section 48-103-205 of the TBCA will not apply to
+this Agreement, the Merger, the Voting Agreement or the other
+transactions contemplated hereby or thereby or the other transactions
+contemplated hereby.   Section 3.25. No Other Representations or
+Warranties.   (a) Except for the representations and warranties contained in
+this Article III, Parent and Merger Sub acknowledge that neither the Company
+nor any other Person on behalf of the Company makes any other express or
+implied representation or warranty with respect to the Company with respect
+to any other information provided to Parent or Merger Sub and their
+respective principals and advisors. Except in the case of fraud or willful
+misrepresentation, neither the Company nor any other Person will have or be
+subject to any liability to Parent, Merger Sub or any other Person resulting
+from the distribution to Parent or Merger Sub, or use by Parent or Merger Sub
+of, any such information, including any information, documents, projections,
+forecasts or other material made available to Parent and/or Merger Sub in
+certain "data rooms", confidential information memoranda or management
+presentations in expectation of the transactions contemplated by this
+Agreement.   (b) In connection with investigation by Parent and Merger Sub
+of the Company and the Company Subsidiaries, Parent and/or Merger Sub and
+their respective principals and advisors have received or may receive from
+the Company and/or the Company Subsidiaries certain projections, forward-
+looking statements and other forecasts and certain future business plan
+information. Parent and Merger Sub acknowledge that there are uncertainties
+inherent in attempting to make such, projections, statements, and other
+forecasts and future plans, that    21    Parent and Merger Sub are
+familiar with such uncertainties, that Parent and Merger Sub are taking full
+responsibility for making its own evaluations of the adequacy and accuracy of
+all projections, forward-looking statements and other forecasts and future
+plans so furnished to it (including the reasonableness of the assumptions
+underlying such projections, statements, forecasts or future plans), and
+that, except as set forth in this Article III, absent fraud or willful
+misrepresentation, neither Parent nor Merger Sub shall have any claim against
+anyone with respect thereto. Accordingly, Parent and Merger Sub acknowledge
+that neither the Company nor any Company Subsidiary make any representation
+or warranty with respect to such projections, forward-looking statements,
+forecasts or future plans (including the reasonableness of the assumptions
+underlying such projections, statements, forecasts or future plans).  
+ARTICLE IV.  REPRESENTATIONS AND WARRANTIES OF PARENT AND MERGER SUB   Each
+of Parent and Merger Sub hereby jointly and severally represents and warrants
+to the Company:   Section 4.1. Organization and Standing. Parent is a
+limited liability company and Merger Sub is a corporation, each duly
+organized, validly existing and in good standing (with respect to
+jurisdictions that recognize such concept) under the laws of the jurisdiction
+in which it is organized.   Section 4.2. Authority.   (a) Each of Parent
+and Merger Sub has all requisite limited liability company or corporate power
+and authority, as applicable, to enter into this Agreement and to consummate
+the transactions contemplated by this Agreement. The execution and delivery
+of this Agreement by Parent and Merger Sub and the consummation by Parent and
+Merger Sub of the transactions contemplated hereby have been duly authorized
+by all necessary limited liability company or corporate action on the part of
+Parent and Merger Sub, respectively.   (b) This Agreement has been duly
+executed and delivered by each of Parent and Merger Sub and, assuming the due
+authorization, execution and delivery by the Company, constitutes the legal,
+valid and binding obligation of Parent and Merger Sub, enforceable against
+Parent and Merger Sub in accordance with its terms, except as the enforcement
+thereof may be limited by applicable bankruptcy, insolvency, reorganization,
+moratorium, fraudulent conveyance or similar Laws generally affecting the
+rights of creditors and subject to general equity principles.   Section
+4.3. Non-Contravention; Consents and Approvals.   (a) The execution and
+delivery of this Agreement does not, and the consummation of the transactions
+contemplated by this Agreement and compliance with the provisions of this
+Agreement will not, (i) conflict with the certificate of formation or
+operating documents of Parent or the Charter Documents of Merger Sub, (ii)
+result in any breach, violation or default (with or without notice or lapse
+of time, or both) under, or give rise to a right of termination, cancellation
+or creation or acceleration of any obligation or right of a third party
+or    22    loss of a benefit under, or result in the creation of any
+Lien upon any of the properties or assets of Parent or Merger Sub under, any
+contract, agreement, loan or credit agreement, note, bond, mortgage,
+indenture or other agreement or instrument, or (iii) subject to the
+governmental filings and other matters referred to in Section 4.3(b),
+conflict with or violate any judgment, order, decree or Law applicable to
+Parent or Merger Sub or their respective properties or assets, other than, in
+the case of clauses (ii) and (iii), any such conflicts, breaches, violations,
+defaults, rights, losses or Liens that, individually or in the aggregate,
+would not prevent or materially delay consummation of the Merger.   (b) No
+consent, approval, order or authorization of, action by or in respect of, or
+registration, declaration or filing with, any Governmental Entity or any
+third party is required by Parent or Merger Sub in connection with
+the execution and delivery of this Agreement by either of them or the
+consummation by either of them of the transactions contemplated hereby,
+except for: (i) the filing with the SEC of the Proxy Statement; (ii) the
+filing of the Articles of Merger with the Secretary of State of the State of
+Tennessee; (iii) the filing of a premerger notification and report form by
+Parent under the HSR Act; and (iv) such other consents, approvals, orders or
+authorizations the failure of which to be made or obtained, individually or
+in the aggregate, would not prevent or materially delay consummation of the
+Merger.   Section 4.4. Financing. Parent has, or has binding commitments
+for, funds sufficient to pay the aggregate Per Share Merger Consideration and
+the Option Consideration and all of its and Merger Sub\'s other payment
+obligations hereunder and to otherwise consummate the transactions
+contemplated by this Agreement.   Section 4.5. Brokers. No broker,
+investment banker, financial advisor or other Person is entitled to any
+broker\'s, finder\'s, financial advisor\'s or other similar fee or commission
+in connection with the transactions contemplated by this Agreement based upon
+arrangements made by or on behalf of Parent or Merger Subsidiary for which
+the Company could have any liability if the Closing does not occur.  
+Section 4.6. Merger Sub. Merger Sub is a duly incorporated, validly existing
+direct, wholly owned Subsidiary of Parent organized under the laws of the
+State of Tennessee, was formed for the purpose of engaging in
+the transactions contemplated by this Agreement, does not have any
+Subsidiaries and has not undertaken any business or other activities other
+than in connection with entering into this Agreement and engaging in the
+transactions contemplated hereby. Parent owns all outstanding shares of
+capital stock of Merger Sub.   Section 4.7. Company Stock. Neither Parent
+nor Merger Sub is, and at no time during the last three (3) years has been,
+an "interested shareholder" of the Company as defined in Section 48-103-203
+of the TBCA. Neither Parent nor Merger Sub owns (directly or indirectly,
+beneficially or of record) or is a party to any agreement, arrangement or
+understanding for the purpose of acquiring, holding, voting or disposing of,
+in each case, any shares of Company Capital Stock (other than as contemplated
+by this Agreement and the Voting Agreement).   Section 4.8. Litigation. As
+of the date of this Agreement, there are not any Actions pending, or to the
+Knowledge of Parent, threatened in writing against or affecting, Parent or
+Merger Sub, except for any such Action that, individually or in the
+aggregate, would not    23    reasonably be likely to have a material
+adverse effect on Parent or that would prevent or materially delay
+consummation of the Merger.   Section 4.9. No Parent Vote Required. No vote
+or other action of the members of Parent is required by applicable Law, the
+operating agreement of Parent or otherwise for Parent and Merger Sub to
+consummate the Merger and the transactions contemplated hereby.   Section
+4.10. Solvency of the Surviving Corporation. Assuming the accuracy of the
+Company\'s representations and warranties in this Agreement and based on the
+projections for the Company and the Company Subsidiaries provided to
+Parent by the Company, immediately after giving effect to the Merger, the
+Financing and the other transactions contemplated by this Agreement to occur
+on the Closing Date (i) the Surviving Corporation (on a consolidated basis
+with the Company Subsidiaries) will be able to pay its debts as they become
+absolute and mature, (ii) the then present salable value of the assets of the
+Surviving Corporation (on a consolidated basis with the Company Subsidiaries)
+will exceed the amount that will be required to pay the probable liability of
+its debts and other liabilities (including contingent liabilities) as they
+become absolute and mature, (iii) the assets of the Surviving Corporation (on
+a consolidated basis with the Company Subsidiaries), in each case at a fair
+valuation, will exceed its debts (including contingent liabilities), and (iv)
+the Surviving Corporation (on a consolidated basis with the Company
+Subsidiaries) will not have unreasonably small capital to carry on its
+business, either (a) as then conducted or (b) as intended by Parent to be
+conducted following the Closing Date. No transfer of property is being made
+and no obligation is being incurred in connection with the transactions
+contemplated by this Agreement with the intent to hinder, delay or defraud
+any present or future creditors of the Surviving Corporation and its
+Subsidiaries.   ARTICLE V.  COVENANTS OF THE PARTIES   Section 5.1.
+Conduct of Business.   (a) Conduct of Business by the Company. Except as set
+forth in Section 5.1(a) of the Company Disclosure Schedules, except as
+otherwise specifically required by this Agreement or except as consented to
+in writing by Parent or Merger Sub, during the period from the date of this
+Agreement to the Effective Time (the "Interim Period"), the Company shall,
+and shall cause the Company Subsidiaries to, carry on their respective
+businesses in the ordinary course consistent with past practice and the
+Company and the Company Subsidiaries shall use all commercially reasonable
+efforts to preserve intact their present business organizations and
+reputation, to keep available the services of their key officers and
+employees, to maintain their assets and properties in good working order and
+condition, ordinary wear and tear excepted, to maintain insurance on their
+tangible assets and businesses in such amounts and against such risks and
+losses as are currently in effect, to preserve their relationships with
+customers, suppliers and authors and others having significant business
+dealings with them and to comply in all material respects with all laws and
+orders of all Governmental Entities applicable to them. Without limiting the
+generality of the foregoing, except as (i) set forth on Section 5.1(a) of the
+Company Disclosure Schedules, (ii) otherwise specifically required by this
+Agreement or (iii) consented to in writing by Parent or Merger Sub, during
+the Interim Period, the Company shall not and shall not permit any Company
+Subsidiary to:    24     (i) (A) other than the regular quarterly
+dividend expected to be paid by the Company to the Shareholders in April 2006
+in an amount not to exceed $0.05 per share of Company Capital Stock and
+dividends and distributions by a direct or indirect wholly owned Company
+Subsidiary to its parent, declare, set aside or pay any dividends on, or make
+any other distributions in respect of, any of its capital stock, (B) split,
+combine or reclassify any of its capital stock or take any other action that
+would require an adjustment of the Per Share Merger Consideration or Option
+Consideration pursuant to Section 2.3 of this Agreement, or (C) purchase,
+redeem or otherwise acquire any shares of capital stock of the Company or any
+of the Company Subsidiaries or any other securities thereof or any rights,
+warrants or options to acquire any such shares or other securities;   (ii)
+issue or authorize the issuance of, deliver or sell any shares of its capital
+stock (or any other securities in respect of, in lieu of, or in substitution
+for, shares of its capital stock), any other voting securities or any
+securities convertible into or exercisable or exchangeable for, or
+any rights, warrants or options to acquire, any such shares, voting
+securities or convertible securities, other than (A) as required pursuant to
+Employment Agreements and Plans in effect on the date of this Agreement and
+set forth in the Company Disclosure Schedules, or (B) the issuance of shares
+of Company Common Stock upon the exercise of the Options set forth in Section
+3.3 of the Company Disclosure Schedules under the Stock Plans or in
+connection with other awards or issuances of Common Stock under the Stock
+Plans, in any such case, outstanding as of the date of this Agreement and in
+accordance with their terms as in effect on the date of this Agreement;  
+(iii) amend its Charter Documents;   (iv) incur any indebtedness for
+borrowed money, other than indebtedness incurred in the ordinary course of
+business consistent with past practice under lines of credit existing on the
+date of this Agreement but, in no event, to exceed an aggregate principal
+amount of $250,000 (net of any amounts of any such indebtedness discharged
+during such period);   (v) other than sales of inventory in the ordinary
+course of business or sales of obsolete equipment and material, sell, lease
+or otherwise dispose of any of its assets and properties or grant any Lien in
+or otherwise encumber any of its material assets, except in connection with
+such indebtedness permitted under the preceding clause (iv);   (vi) enter
+into, adopt, amend in any material respect (except as required by applicable
+Law) or terminate any Employment Agreements and Plans;   (vii) (A) grant any
+increase in the compensation or benefits payable or to become payable by the
+Company or any Company Subsidiary to any director or former director of the
+Company or any Company Subsidiary; (B) grant any increase in the compensation
+or benefits payable or to become payable by the Company or any Company
+Subsidiary to any officer or employee of the Company or any Company   
+25    Subsidiary, other than (1) with the consent of Parent, to officers
+with the rank of Senior Vice-President or Executive Vice-President or above,
+and (2) increases with respect to employees that are not senior officers as
+detailed in the preceding clause in the ordinary course of business
+consistent with past practice, provided such increases do not exceed six
+percent (6%) of such employee\'s base salary for the prior year; (C) permit
+any director, officer or employee of the Company or any of its Subsidiaries
+who is not already a party to any agreement or a participant in a plan
+providing benefits upon or following a "change of control" to become party to
+any such agreement or a participant in any such plan; other than in case of
+clauses (A), (B) and (C), pursuant to a pre-existing contract or agreement
+set forth in Section 5.1(a) of the Company Disclosure Schedules or as
+required by applicable Law;   (viii) change the accounting principles used
+by it unless required by GAAP or any Governmental Entity;   (ix) (A) make,
+revoke or change a material Tax election with respect to the Company or any
+Company Subsidiary; (B) consent to extend the period of limitations for the
+payment or assessment of any Tax with respect to the Company or any Company
+Subsidiary; or (C) settle or compromise any material Tax liability or refund
+of the Company or any Company Subsidiary;   (x) acquire by merging or
+consolidating with, or by purchasing a substantial portion of the assets or
+stock of, or by any other manner, any significant business or any
+corporation, partnership, association or other entity or division thereof,
+except for acquisitions for consideration (including any liabilities assumed
+by the Company or any Company Subsidiary or that are outstanding as a
+liability of any party that became a Company Subsidiary) that is individually
+not in excess of $250,000, or in the aggregate, not in excess
+of $500,000;   (xi) make, authorize or enter into any commitment with
+respect to any single capital expenditure which is in excess of $1,000,000 or
+capital expenditures which are, in the aggregate, in excess of $2,000,000,
+other than as provided for in the Company\'s current budget, a copy of which
+is attached in Section 5.1 of the Company Disclosure Schedules (the
+"Budget");   (xii) knowingly take any action that would reasonably be likely
+to prevent or materially delay satisfaction of the conditions contained in
+Article VI;   (xiii) adopt a plan of complete or partial liquidation,
+dissolution, merger, consolidation, restructuring, recapitalization or
+reorganization;   (xiv) settle, compromise, waive, satisfy or institute any
+material litigation, suit, proceeding, arbitration or claim (other than
+claims which do not involve payment of any amount in excess of $50,000
+individually or $250,000 in the aggregate);   (xv) enter into any contract
+or amend or modify any existing contract, or engage in any new transaction
+with any Affiliate of the Company or any Company Subsidiary;    26   
+(xvi) make any voluntary payment or deposit of taxes in connection with the
+audit currently underway relating to deductions for the stock of C.
+R. Gibson; or   (xvii) authorize, commit or agree to take any of the
+foregoing actions.   (b) Conduct of Business by Merger Sub. During the
+Interim Period, Merger Sub shall not engage in any activities of any nature
+except as provided in or contemplated by this Agreement or in furtherance of
+the consummation of the transactions contemplated by this Agreement.   (c)
+No Interference with Marketing, Distribution or Pricing
+Decisions. Notwithstanding any provision of this Section 5.1 or any other
+section of this Agreement, neither Parent nor Merger Sub shall have the right
+to, nor shall either take any action which might reasonably be expected to,
+prohibit, restrict or interfere in any way with the Company\'s day-to-day
+decisions concerning the marketing, distribution or pricing of its products
+in the ordinary course of business consistent with past practices.   (d)
+Advice of Changes. The Company shall confer on a regular and frequent basis
+with Parent with respect to its business and operations and other matters
+relevant to the Merger, and shall promptly advise Parent of any change or
+event, including, without limitation, any complaint, investigation or
+hearing by any Governmental Entity (or communication indicating the same may
+be contemplated) or the institution or threat of litigation, having, or
+which, insofar as can be reasonably foreseen, would have, a Material Adverse
+Effect on the Company and the Company Subsidiaries taken as a whole or on the
+ability of the Company to consummate the transactions contemplated hereby;
+provided that the Company shall not be required to make any disclosure to the
+extent such disclosure would constitute a violation of any applicable
+Law.   Section 5.2. No Solicitation by the Company.   (a) Takeover
+Proposal. From and after the date of this Agreement, the Company agrees that
+(i) it and its officers, directors and employees shall, (ii) the Company
+Subsidiaries and their officers, directors, and employees shall, and (iii) it
+shall use its commercially reasonable efforts to ensure that its and the
+Company Subsidiaries\' financial advisors, attorneys, accountants and
+other advisors, investment bankers, representatives and agents (collectively,
+"Company Representatives"), immediately cease and cause to be terminated
+immediately all existing discussions and negotiations with any parties
+conducted heretofore with respect to any Takeover Proposal. From and after
+the date of this Agreement, the Company shall not, nor shall it permit any of
+the Company Subsidiaries to, and it shall use its commercially reasonable
+efforts to cause each of the Company Representatives not to (i) directly or
+indirectly, solicit, initiate or knowingly encourage a Takeover Proposal,
+(ii) enter into any agreement or agreement in principle with respect to any
+Takeover Proposal, (iii) participate in any discussions or negotiations
+regarding, or furnish or disclose to any Person (other than a party to this
+Agreement) any information with respect to, a Takeover Proposal, or (iv)
+other than as contemplated by this Agreement, grant any approval pursuant to
+Section 48-103-205 of the TBCA; provided, however, that, if at any time prior
+to Shareholder Approval: (A) the Company receives an unsolicited Takeover
+Proposal from a third party after the date hereof and (B) the   
+27    Special Committee determines in good faith (after consultation with
+its financial advisors and legal counsel) that such Takeover Proposal
+constitutes or could reasonably be expected to lead to a Superior Proposal;
+then the Company may, subject to compliance with this Section 5.2, (i)
+furnish information and/or draft agreements with respect to the Company to
+the Person making such Takeover Proposal (and its representatives) pursuant
+to a confidentiality agreement which restricts such Person no less than
+Parent is then restricted by the Confidentiality Agreement (except for such
+changes specifically necessary in order for the Company to be able to comply
+with its obligations under this Agreement), provided that a copy of all such
+information that has not previously been delivered to Parent is delivered to
+Parent prior to or concurrently with the delivery to such Person, and (ii)
+participate in discussions or negotiations with the Person making such
+Takeover Proposal (and its Representatives) regarding such Takeover Proposal.
+Notwithstanding the foregoing, during the period from the date of this
+Agreement through the Effective Time, (i) neither the Company nor any of
+Company Subsidiary shall terminate, amend, modify or waive any provision of
+any confidentiality or standstill agreement to which it is a party and (ii)
+the Company shall enforce, to the fullest extent permitted under applicable
+law, the provisions of any such agreement, including, but not limited to,
+seeking to obtain injunctions to prevent any breaches of such agreements and
+to enforce specifically the terms and provisions thereof in any court having
+jurisdiction.   (b) Actions by the Company. Notwithstanding any provision of
+this Section 5.2 to the contrary, the Company Board may (i) withdraw or
+modify in a manner adverse to Parent (or not continue to make) the approval
+recommendation or declaration of advisability by such Company Board or the
+Special Committee thereof of this Agreement, the Merger or the other
+transactions contemplated by this Agreement (the "Company Recommendation"),
+(ii) approve or recommend a Superior Proposal (any action described in clause
+(i) or this clause (ii), an "Adverse Recommendation Change"), and/or (iii)
+enter into an agreement regarding a Superior Proposal if (x) the Special
+Committee has determined in good faith based on the advice of counsel that
+taking such action is necessary for the members of the Special Committee to
+comply with their fiduciary duties under applicable Law, (y) in the case of
+an action described in clause (ii) or clause (iii) above, the Company has
+given Parent five (5) Business Days prior written notice of its intention to
+take such action and (z) in the case of an action described in clause (iii)
+above, (a) the Special Committee shall have considered in good faith any
+proposed changes to this Agreement proposed in writing by Parent and shall
+not have determined that the Superior Proposal would no longer constitute a
+Superior Proposal if such changes were to be given effect, (b) the Company
+has complied in all material respects with its obligations under this Section
+5.2 and (c) the Company shall have terminated this Agreement in accordance
+with the provisions of Section 7.1(d)(ii) hereof and the Company shall pay
+Parent the Termination Fee in accordance with Section 7.3(b).   (c) Notice
+of Takeover Proposal. The Company shall (i) promptly advise Parent orally and
+in writing of the Company\'s receipt of any Takeover Proposal received after
+the date hereof and any request for information received in connection with
+such Takeover Proposal and shall furnish to the Parent a copy of such
+Takeover Proposal (or, if not in writing, a complete summary of such Takeover
+Proposal, including the identity of the parties making the
+Takeover Proposal), (ii) notify Parent in writing if it intends to provide
+information to, or participate in discussions or negotiations with any person
+with respect to a Takeover Proposal, prior to the time such information is
+furnished or such discussions or negotiations are    28    commenced,
+and (iii) keep Parent informed on a current basis of the status and all
+material information with respect to any such discussions or
+negotiations. Promptly upon determination by the Company Board that a
+Takeover Proposal constitutes a Superior Proposal, the Company shall deliver
+to Parent a written notice advising it that the Company Board has made such
+determination.   (d) Rule 14e-2(a), Rule 14d-9 and Other Applicable Law.
+Nothing contained in this Section 5.2 shall prohibit the Company from (i)
+taking and disclosing to the Shareholders a position contemplated by Rule
+14e-2(a) or Rule 14d-9 promulgated under the Exchange Act or (ii) making any
+disclosure to the Shareholders if, in the good faith judgment of the Company
+Board (after consultation with outside counsel), failure so to disclose would
+be a breach of its fiduciary duties under applicable Law.   Section 5.3.
+Securities Law Filings; Shareholders\' Meeting; Preparation of Proxy
+Statement.   (a) The Company, Parent and Merger Sub shall use their
+respective reasonable best efforts to take or cause to be taken such actions
+as may be required to be taken under the Exchange Act, the Securities Act and
+any other federal securities laws, and under any applicable state securities
+or blue sky Laws in connection with the Merger and the other transactions
+contemplated herein.   (b) The Company shall duly call, give notice of,
+convene and hold a meeting of its shareholders (the "Shareholders\' Meeting")
+for the purpose of voting on the adoption of this Agreement as soon as
+reasonably practicable after the date hereof. Unless the Company Board has
+made an Adverse Recommendation Change in compliance with Section 5.2(b), the
+Company shall include in the Proxy Statement the Company Recommendation and
+shall use its reasonable best efforts to obtain Shareholder Approval. In the
+event that Shareholder Approval is not obtained on the date on which the
+Shareholders\' Meeting is initially convened, the Company Board shall adjourn
+such Shareholders\' Meeting at least twice for the purpose of obtaining
+Shareholder Approval and to use its reasonable best efforts during any such
+adjournments to obtain Shareholder Approval.   (c) In connection with the
+Merger and the Shareholders\' Meeting, the Company shall prepare and file
+with the SEC, as promptly as practicable, a proxy statement relating to the
+Shareholders\' Meeting (together with any amendments thereof or supplements
+thereto and any other required proxy materials, the "Proxy Statement")
+relating to the Merger and the other transactions contemplated by this
+Agreement and shall use its reasonable best efforts to respond to the
+comments of the SEC and to cause the Proxy Statement to be mailed to the
+Shareholders as promptly as practicable; provided, however, that prior to the
+filing of the Proxy Statement, the Company shall consult with Parent
+with respect to such filings and shall afford Parent and Merger Sub
+reasonable opportunity to comment thereon. Parent and Merger Sub shall
+provide the Company with any information for inclusion in the Proxy Statement
+which may be required under applicable Law and which is reasonably requested
+by the Company. The Company shall promptly notify Parent of the receipt of
+comments of the SEC and of any request from the SEC for amendments or
+supplements to the Proxy Statement or for additional information, and will
+promptly supply Parent with copies of all correspondence between the   
+29    Company or any of its representatives, on the one hand, and the SEC
+or members of its staff, on the other hand, with respect to the Proxy
+Statement or the Merger. If at any time prior to the Shareholders\' Meeting
+any event should occur which is required by applicable Law to be set forth in
+an amendment of, or a supplement to, the Proxy Statement, the Company will
+prepare and mail such amendment or supplement; provided, however, that prior
+to such mailing, the Company shall consult with Parent with respect to such
+amendment or supplement and shall afford Parent reasonable opportunity to
+comment thereon. The Company will notify Parent at least twenty-four (24)
+hours prior to the mailing of the Proxy Statement, or twenty-four (24) hours
+prior to the mailing of any amendment or supplement thereto, to the
+Shareholders.   (d) The Company represents and warrants to Parent and Merger
+Sub that the Proxy Statement will, as of the time the Proxy Statement (or any
+amendment thereof or supplement thereto) is first mailed to the Shareholders
+and as of the time of the Shareholders\' Meeting, not contain any untrue
+statement of a material fact or omit to state any material fact required to
+be stated therein or necessary in order to make the statements therein, in
+the light of the circumstances under which they were made, not misleading.
+The Proxy Statement will comply as to form in all material respects with the
+provisions of the Exchange Act. Notwithstanding the foregoing, the Company
+makes no representation or warranty with respect to any statements made or
+incorporated by reference in the Proxy Statement based on and in conformity
+with information supplied in writing by Parent or Merger Sub specifically for
+inclusion or incorporation by reference therein.   (e) Each of Parent and
+Merger Sub represent and warrant to the Company that the information supplied
+or to be supplied in writing by Parent and Merger Sub specifically for
+inclusion or incorporation by reference in the Proxy Statement will, as of
+the time the Proxy Statement (or any amendment thereof or supplement thereto)
+is first mailed to the Shareholders, and as of the time of the Shareholders\'
+Meeting, not contain any untrue statement of a material fact or omit to state
+any material fact required to be stated therein or necessary in order to make
+the statements therein, in the light of the circumstances under which they
+are made, not misleading. Notwithstanding the foregoing, Parent and Merger
+Sub make no representation or warranty with respect to any statements made or
+incorporated by reference in the Proxy Statement based on
+information supplied by Company for inclusion or incorporation by reference
+therein.   Section 5.4. Access to Information; Confidentiality. To the
+extent permitted by applicable Law and subject to the Confidentiality
+Agreement, dated as of April 29, 2005, between the Company, InterMedia
+Advisors, LLC and Parent (f/k/a/ Faith Media LLC) (the "Confidentiality
+Agreement"), the Company shall, and shall cause each of the Company
+Subsidiaries to, afford to Parent and its representatives full access, during
+normal business hours and after reasonable prior notice, during the period
+prior to the Effective Time, to the Company\'s and the Company Subsidiaries\'
+officers, employees, agents and accountants and to the Company\'s and the
+Company\'s Subsidiaries\' properties, books, contracts, commitments,
+personnel and records and all other information concerning their business,
+properties and personnel as such party may reasonably request. Parent and the
+Company shall hold, and shall cause their respective Affiliates
+and representatives to hold, any nonpublic information in accordance with the
+terms of the Confidentiality Agreement. Each party will use commercially
+reasonable efforts to minimize any disruption to the businesses of the other
+party and its    30   Subsidiaries which may result from the requests
+for access, data and information hereunder. Notwithstanding the foregoing, no
+investigation of the business of the Company or any Company Subsidiary shall
+affect any representation or warranty given by the Company hereunder.  
+Section 5.5. Commercially Reasonable Efforts; HSR Act.   (a) Commercially
+Reasonable Efforts. Subject to the terms and conditions set forth in this
+Agreement, including Section 5.2, and subject to applicable Law, each of the
+parties shall use its commercially reasonable efforts to take, or cause to be
+taken, all actions, and to do, or cause to be done, and to assist and
+cooperate with the other parties in doing, all things necessary, proper or
+advisable to consummate and make effective, as promptly as practicable, the
+Merger and the other transactions to be performed or consummated by such
+party in accordance with the terms of this Agreement, including (i) taking of
+all acts necessary to cause the conditions to Closing that are within the
+control of such party to be satisfied as promptly as practicable, (ii) making
+all registrations and filings (including filings with Governmental Entities,
+if any) required to be made by such party in connection with this Agreement
+and the transactions contemplated hereby and taking all steps necessary to
+obtain any approval or waiver from, or to avoid an action or proceeding by,
+any Governmental Entity, (iii) in the case of the Company, obtaining all
+necessary consents, approvals or waivers required from third parties under
+the Material Contracts, Significant Royalty Agreements, and Leases with
+respect to the transactions contemplated by this Agreement (iv) defending of
+any lawsuits or other legal proceedings, whether judicial or
+administrative, challenging this Agreement or the consummation of the
+transactions contemplated hereby, including seeking to have any stay or
+temporary restraining order entered by any court or other Governmental Entity
+vacated or reversed and (v) executing and delivering such additional
+instruments as may be reasonably requested by the other party and necessary
+to consummate the Merger and other transactions contemplated hereby and to
+fully carry out the purposes of this Agreement.   (b) HSR Filings. Without
+limiting the generality of Section 5.5(a), the Company and Parent shall (A)
+duly file with the FTC and the Antitrust Division the notification and report
+form (the "HSR Filing") required under the HSR Act and (B) duly make all
+notifications and other filings required (together with the HSR Filing, the
+"Antitrust Filings") under any other applicable competition, merger control,
+antitrust or similar Law or under any foreign investment Law that the Company
+and Parent deem advisable or appropriate, in each case with respect to the
+transactions contemplated by this Agreement and within twenty (20) Business
+Days of the execution of this Agreement. The Antitrust Filings shall be in
+substantial compliance with the requirements of the HSR Act or other Laws, as
+applicable. For the avoidance of doubt and notwithstanding anything to the
+contrary contained in this Agreement, neither the Company nor any Company
+Subsidiary shall, without the express written approval of Parent, commit to
+any divestitures, licenses or hold separate or similar arrangements with
+respect to assets or conduct of business arrangements as a condition to
+obtaining any and all approvals from any Governmental Entity for any reason
+in order to consummate and make effective, as promptly as practicable, the
+Merger and the other transactions to be performed or consummated by the
+Company and the Company Subsidiaries, including, without limitation, taking
+any and all actions necessary in order to ensure that (x) no requirement for
+non-action, a waiver, consent or approval of the FTC, the Antitrust Division,
+or other Governmental Entity, (y) no decree, judgment, injunction, temporary
+restraining order or any other order in any suit or proceeding,   
+31    and (z) no other matter relating to any antitrust or competition Law
+or regulation, would preclude consummation of the Merger. Neither party
+shall, nor shall it permit any of its Subsidiaries or Affiliates to, acquire
+or agree to acquire any business, Person or division thereof, or otherwise
+acquire or agree to acquire any assets if the entering into of a definitive
+agreement relating to or the consummation of such acquisition, would
+reasonably be expected to materially increase the risk of not obtaining the
+applicable clearance, approval or waiver from any Governmental Entity with
+respect to the transactions contemplated by this Agreement.   (c)
+Cooperation. Each party shall, subject to applicable Law and except as
+prohibited by any applicable representative of any applicable Governmental
+Entity: (i) promptly notify the other party of any written communication to
+that party from the FTC, the Antitrust Division, or any other Governmental
+Entity relating to this Agreement or the Merger, and permit the other Party
+to review in advance any proposed written communication to any of the
+foregoing; (ii) not agree to participate in any substantive meeting
+or discussion with any Governmental Entity in respect of any filings,
+investigation or inquiry concerning this Agreement or the Merger unless it
+consults with the other party in advance and, to the extent permitted by such
+Governmental Entity, gives the other party the opportunity to attend and
+participate thereat; and (iii) furnish the other party with copies of all
+correspondence, filings, and written communications (and memoranda setting
+forth the substance thereof) between them and its Affiliates and their
+respective representatives, on the one hand, and any Governmental Entity or
+members or their respective staffs, on the other hand, with respect to this
+Agreement and the Merger. Each party shall (y) respond as promptly as
+practicable under the circumstances to any inquiries received from the FTC or
+the Antitrust Division for additional information or documentation and to all
+inquiries and requests received from any Governmental Entity in connection
+with antitrust matters relating to this Agreement or the Merger and (z) not
+enter into any agreement with the FTC or the Antitrust Division not to
+consummate the transactions contemplated by this Agreement.   (d) No
+Takeover Statutes Apply. In connection with and without limiting the
+foregoing, the Company shall (i) take all action necessary to ensure that no
+"fair price," "moratorium," "control share acquisition," "business
+combination," or other anti-takeover law (each, a "Takeover Statute") or
+similar Law is or becomes applicable to the Merger, this Agreement or any
+of the other transactions contemplated hereby and (ii) if any Takeover
+Statute or similar Law becomes applicable to the Merger, this Agreement or
+any of the other transactions contemplated hereby, take all action reasonably
+necessary to ensure that the Merger and the other transactions contemplated
+hereby may be consummated as promptly as practicable on the terms
+contemplated by this Agreement and otherwise to minimize the effect of such
+Law on the Merger and the other transactions contemplated by this
+Agreement.   Section 5.6. Financing.   (a) Parent shall use its
+commercially reasonable efforts to take, or cause to be taken, all actions
+and to do, or cause to be done, all things necessary, proper or advisable to
+arrange the Financing pursuant to the existing commitment letters.   (b)
+The Company agrees to provide, and shall cause the Company Subsidiaries and
+its and the Company Representatives to provide, such cooperation as may
+reasonably be    32    requested by Parent (including with respect to
+timeliness) in connection with the arrangement, marketing or syndication of
+the debt financing contemplated by Parent\'s commitment letter, including (i)
+participating in meetings, drafting sessions and due diligence sessions, (ii)
+furnishing Parent and its financing sources with such financial and other
+pertinent information regarding the Company as may be reasonably requested by
+Parent, including all financial statements and financial data of the type
+required by Regulation S-X and Regulation S-K under the Securities Act, (iii)
+assisting Parent and its financing sources in the preparation of (A) offering
+documents for any of such debt financing and (B) materials for rating agency
+presentations, (iv) reasonably cooperating with the marketing efforts of
+Parent and its financing sources for any of such debt financing, (v)
+facilitating the pledging of collateral, (vi) using commercially reasonable
+efforts to obtain accountants\' comfort letters and consents, legal opinions,
+surveys and title insurance as reasonably requested by Parent, and (vii)
+executing and delivering such credit or loan agreements, securities purchase
+agreements, indentures and other collateral or similar documents reasonably
+requested by Parent; provided, that in the case of the foregoing clause
+(vii), the Company and the Company Subsidiaries shall not be obligated to
+incur any indebtedness or other obligation under any such agreement or
+instruments until the Effective Time.   Section 5.7. Delisting. Each of the
+parties hereto agrees to cooperate with the other party in taking, or causing
+to be taken, all actions necessary (i) to delist the Company Capital Stock
+from the NYSE, and (ii) to terminate the registration of the Company Capital
+Stock under the Exchange Act; provided that such delisting and termination
+shall not be effective until on or after the Effective Time.   Section 5.8.
+Indemnification.   (a) Obligations Assumed by Surviving Corporation. The
+Surviving Corporation shall, and Parent shall cause the Surviving Corporation
+to, indemnify and hold harmless, and provide advancement of expenses to, all
+current and former directors and officers of the Company and the Company
+Subsidiaries (in their capacities as such) (i) to the same extent such
+Persons have the right to be indemnified or have the right to advancement of
+expenses as of the date of this Agreement by the Company or a Company
+Subsidiary pursuant to the Company\'s or such Company Subsidiary\'s Charter
+Documents and indemnification agreements, if any, in existence on the date
+hereof with any current or former directors and officers of the Company and
+the Company Subsidiaries and (ii) without limitation to clause (i), to the
+fullest extent permitted by Law, in each case for acts or omissions occurring
+at or prior to the Effective Time (including for acts or omissions occurring
+in connection with the approval of this Agreement and the consummation of the
+transactions contemplated hereby). Without limiting the foregoing, Parent
+agrees that all obligations to provide indemnification (including obligations
+to advance funds for expenses) and exculpation from liabilities for acts or
+omissions occurring at or prior to the Effective Time in favor of the current
+or former directors or officers of the Company and the Company Subsidiaries
+as provided in their respective Charter Documents, indemnification agreements
+and/or as provided to the fullest extent of applicable Law will be assumed by
+the Surviving Corporation without further action, as of the Effective Time,
+and will survive the Merger and will continue in full force and effect in
+accordance with their terms and neither such obligations nor the rights to
+indemnification of individuals who on or prior to the Effective Time were
+directors or officers of the Company will be amended or otherwise modified in
+any manner    33    that would adversely affect such rights, unless
+such modification is required by Law. The Surviving Corporation shall not
+enter into any settlement of any claim in which the Surviving Corporation is
+jointly liable with such Indemnified Party unless such settlement provides
+for a full and final release of all claims asserted any such Indemnified
+Party of the Company or a Company Subsidiary.   (b) Successors and Assigns
+of Surviving Corporation. In the event that Parent or the Surviving
+Corporation or any of their respective successors or assigns (i) consolidates
+with or merges into any other Person and is not the continuing or surviving
+corporation or entity of such consolidation or merger or (ii) transfers or
+conveys all or substantially all of its properties and assets to any Person,
+then, and in each such case, Parent shall cause proper provisions to be made
+so that the successors and assigns of Parent or the Surviving Corporation, as
+the case may be, assume the obligations set forth in this Section 5.8.  
+(c) Continuing Coverage. For six (6) years after the Effective Time, Parent
+shall cause to be maintained in effect the current policies of
+directors\' and officers\' liability insurance maintained by the Company
+(provided that Parent may substitute therefor policies with reputable and
+financially sound carriers of at least the same coverage and amounts
+containing terms and conditions which are no less advantageous) covering acts
+or omissions occurring at or prior to the Effective Time with respect to
+those Persons who are currently covered by the Company\'s directors\' and
+officers\' liability insurance policy (a copy of which has been heretofore
+made available to Parent) (the "Indemnified Parties"); provided, however,
+that in no event will Parent or the Surviving Corporation be required to
+expend in any one year an amount in excess of three hundred percent (300%) of
+the annual premiums currently paid by the Company for such insurance (the
+"Maximum Premium"); and provided further, however, that, if the annual
+premiums of such insurance coverage exceed such amount, Parent will be
+obligated to obtain a policy with the greatest coverage available for a cost
+not exceeding the Maximum Premium; and provided further, however, that, (i)
+the Company may elect, subject to Parent\'s consent not to be unreasonably
+withheld, by giving written notice to Parent at least thirty (30) calendar
+days prior to the Effective Time, or (ii) the Parent may elect, in its sole
+discretion, at any time during such six (6) year period, to have the Company
+or the Surviving Corporation, as the case may be, purchase in lieu of the
+foregoing insurance a directors\' and officers\' liability insurance "tail"
+or "runoff" insurance program to be in effect until the end of such six (6)
+year period with respect to wrongful acts and/or omissions committed or
+allegedly committed at or prior to the Effective Time (such coverage shall
+have an aggregate coverage limit over the term of such policy in an amount
+not to exceed the annual aggregate coverage limit under the Company\'s
+existing directors and officers liability policy, and in all other respects
+shall be comparable to such existing coverage).   (d) Intended
+Beneficiaries. The obligations of Parent and the Surviving Corporation under
+this Section 5.8 shall not be terminated or modified after the Effective Time
+in such a manner as to adversely affect any Indemnified Party without the
+express written consent of such Indemnified Party. The provisions of this
+Section 5.8 are (i) intended to be for the benefit of, and will be
+enforceable by, each Indemnified Party, his or her heirs and his or
+her representatives and (ii) in addition to, and not in substitution for, any
+other rights to indemnification or contribution that any such Person may have
+under the Charter Documents, the    34    comparable organizational
+documents of the Surviving Corporation, by Law, by contract or otherwise.  
+Section 5.9. Public Announcements. Parent and the Company shall consult with
+each other before holding any press conferences and before issuing any press
+release or other public announcements that relate to the
+transactions contemplated by this Agreement, including the Merger. The
+parties will provide each other the reasonable opportunity to review and
+comment upon any press release or other public announcement or statement that
+primarily concern the transactions contemplated by this Agreement, including
+the Merger, and shall not issue any such press release or other public
+announcement or statement prior to such consultation or without the consent
+of the other party, such consent not to be unreasonably withheld, except as,
+in the reasonable judgment of the relevant party, may be required by
+applicable Law, court process or by obligations pursuant to any listing
+agreement with any national securities exchange. The parties agree that the
+initial press release or releases to be issued with respect to the
+transactions contemplated by this Agreement, including the Merger, shall be
+mutually agreed upon prior to the issuance thereof.   Section 5.10.
+Shareholder Litigation. The parties to this Agreement shall cooperate and
+consult with one another in connection with any shareholder litigation
+against any of them or any of their respective directors or officers with
+respect to the transactions contemplated by this Agreement. The Company shall
+notify Parent promptly of any shareholder litigation against the Company or
+any member of the Company Board relating to this Agreement and
+the transactions contemplated hereby, and of any material developments with
+respect to such litigation.   Section 5.11. Employee Benefit Matters.  
+(a) Parent Obligations. Parent shall and shall cause the
+Surviving Corporation to:   (i) assume the terms of all Employment
+Agreements and Plans and  honor and pay or provide the benefits required
+thereunder in accordance  with their terms, recognizing that the consummation
+of the transactions  contemplated hereby will constitute a "change in
+control" for purposes of  any of the Employment Agreements and Plans that
+include a definition of  "change in control" (notwithstanding anything to the
+contrary set forth in  any such Employment Agreement or Plan); and   (ii)
+with respect to employees of the Company and the Company  Subsidiaries as of
+the Effective Time (collectively, the "Company  Employees"), until the first
+anniversary of the Effective Time, or, if  earlier, until any such
+employee\'s employment is terminated, except as may  be required by
+applicable Law, (A) provide the Company Employees with a  level of
+compensation on substantially the same terms and conditions that,  with
+respect to each Company Employee, are no less favorable in the  aggregate
+than the compensation provided to such employee immediately prior  to the
+Effective Time and (B) maintain the Company Benefit Plans (except to  the
+extent any such plan provides equity-based compensation) that, with  respect
+to each Company Employee, are substantially similar in the  aggregate than
+the benefits provided to such employee immediately prior to  the Effective
+Time.    35     (b) Credit for Service of Company Employees. If Company
+Employees are included in any benefit plan maintained by Parent or any
+Subsidiary of Parent following the Effective Time, such Company Employees
+shall receive credit for service with the Company and the Company
+Subsidiaries and their predecessors prior to the Effective Time to the same
+extent and for the same purposes thereunder as such service was counted under
+similar Benefit Plans of the Company for eligibility and vesting purposes. If
+Company Employees or their dependents are included in any medical, dental or
+health plan (a "Successor Plan") other than the plan or plans in which they
+participated immediately prior to the Effective Time (a "Prior Plan"), for a
+period of one (1) year following the Effective Time, any such Successor Plan
+shall not include any restrictions or limitations with respect to pre-
+existing condition exclusions or any actively-at-work requirements (except to
+the extent such exclusions were applicable under any similar Prior Plan at
+the Effective Time) and any eligible expenses incurred by any Company
+Employee and his or her covered dependents during the portion of the plan
+year of such Prior Plan ending on the date such Company Employee\'s
+participation in such Successor Plan begins shall be taken into account under
+such Successor Plan for purposes of satisfying all deductible, coinsurance
+and maximum out-of-pocket requirements applicable to such Company Employee
+and his or her covered dependents for the applicable plan year as if such
+amounts had been paid in accordance with such Successor Plan. Without
+limiting the generality of the foregoing, for purposes of
+determining severance pay and benefits under any applicable Benefit Plan of
+the Company covering a Company Employee at or after the Effective Time, each
+such Company Employee shall receive credit for service prior to the Effective
+Time with the Company and the Company Subsidiaries and their predecessors to
+the same extent and for the same purposes as such service was counted under
+the applicable Benefit Plan of the Company as in effect before the Effective
+Time, as well as for service from and after the Effective Time with Parent
+and the Surviving Corporation.   Section 5.12. Notice and Cure. Each of
+Parent and the Company will notify the other of, and will use all
+commercially reasonable efforts to cure before the Closing, any event,
+transaction or circumstance, as soon as practical after it becomes known to
+such party, that causes or will cause any covenant or agreement of Parent,
+Merger Sub or the Company under this Agreement to be breached or that renders
+or will render untrue any representation or warranty of Parent, Merger Sub or
+the Company contained in this Agreement. Each of Parent and the Company also
+will notify the other in writing of, and will use all commercially reasonable
+efforts to cure, before the Closing, any violation or breach, as soon as
+practical after it becomes known to such party, of any representation,
+warranty, covenant or agreement made by Parent, Merger Sub or the Company. No
+notice given pursuant to this Section shall have any effect on the
+representations, warranties, covenants or agreements contained in
+this Agreement for purposes of determining satisfaction of any condition
+contained herein.   Section 5.13. Fulfillment of Conditions. Subject to the
+terms and conditions of this Agreement, each of Parent, Merger Sub and the
+Company will take or cause to be taken all commercially reasonable steps
+necessary or desirable and proceed diligently and in good faith to satisfy
+each condition to the other\'s obligations contained in this Agreement and to
+consummate and make effective the transactions contemplated by this
+Agreement, and neither Parent nor the Company will, nor will it permit any of
+its Subsidiaries to, take or fail to take any action that would reasonably be
+expected to result in the nonfulfillment of any such condition.   
+36     Section 5.14. Further Assurances. Each party hereto will, either
+prior to or after the Effective Time, execute such further documents,
+instruments, deeds, bills of sale, assignments and assurances and take such
+further actions as may reasonably be requested by one or more of the others
+to consummate the Merger, to vest the Surviving Corporation with full title
+to all assets, properties, privileges, rights, approvals, immunities and
+franchises of either of Merger Sub or the Company or to effect the other
+purposes of this Agreement.   Section 5.15. Undertakings of Parent. Parent
+shall perform, or cause to be performed, when due all obligations of the
+Merger Sub under this Agreement.   ARTICLE VI.  CONDITIONS PRECEDENT  
+Section 6.1. Conditions to Each Party\'s Obligation to Effect the Merger. The
+respective obligation of each party to effect the Merger is subject to
+the satisfaction or waiver on or prior to the Closing Date of the
+following conditions:   (a) Shareholder Approval. The Company shall have
+obtained the affirmative vote at the Shareholders\' Meeting of at least
+sixty-six and two-thirds percent (66 2/3%) of the votes entitled to be cast
+by the holders of the Company Common Stock and Company Class B Common Stock
+voting together as a single class (the "Shareholder Approval").   (b) No
+Laws, Orders or Injunctions. None of the parties hereto shall be subject to
+any Law, order or injunction of any Governmental Entity of competent
+jurisdiction that prohibits the consummation of the Merger;
+provided, however, that prior to asserting this condition, the party seeking
+termination shall have used its commercially reasonable efforts to prevent
+the entry of any such order or injunction and to appeal as promptly as
+possible any such order or injunction that may be entered.   (c) Antitrust
+Filings. The waiting period applicable to the consummation of the Merger
+under the HSR Act and any other applicable foreign antitrust law or foreign
+investment law shall have expired or been terminated.   Section 6.2.
+Conditions to Obligations of Parent and Merger Sub. The obligation of Parent
+and Merger Sub to effect the Merger is further subject to satisfaction or
+waiver of the following conditions:   (a) Representations and Warranties.
+The representations and warranties of the Company set forth herein shall be
+true and correct in all respects (without giving effect to any materiality or
+Material Adverse Effect qualifications contained therein) both when made and
+at and as of the Closing Date, as if made at and as of such time (except to
+the extent expressly made as of an earlier date, in which case as of such
+date), except where the failure of such representations and warranties to be
+so true and correct would not reasonably be expected to have or result in,
+individually or in the aggregate, a Material Adverse Effect.   (b)
+Performance of Obligations of the Company. The Company shall have performed
+all of its obligations required to be performed by it under this Agreement
+(without giving effect to any materiality or Material Adverse
+Effect qualifications contained therein),    37    expect where the
+failure to perform such obligations would not reasonably be expected to have
+or result in, individually or in the aggregate, a Material Adverse
+Effect.   (c) Officer\'s Certificate. The Company shall have furnished
+Parent with a certificate dated the Closing Date signed on its behalf by an
+executive officer to the effect that the conditions set forth in Sections
+6.2(a) and 6.2(b) have been satisfied.   (d) Absence of a Material Adverse
+Effect. There shall have not occurred after the date of this Agreement any
+event, change, condition, circumstance or state of facts, or aggregation of
+events, changes, conditions, circumstances or state of facts, that has had or
+would reasonably be expected to have, individually or in the aggregate, a
+Material Adverse Effect.   (e) Governmental Entity and Other Consents and
+Approvals. Other than the filing provided for by Section 1.3, there shall
+have been obtained (i) all consents, approvals and actions of, filings with
+and notices to any Governmental Entity required of Parent and Merger Sub or
+the Company and any Company Subsidiary to consummate the Merger and the other
+matters contemplated hereby, the failure of which to obtain would reasonably
+be expected to have a material adverse effect on Parent, Merger Sub or the
+Surviving Corporation, in each case taken as a whole, or on the ability of
+Parent and the Company to consummate the transactions contemplated hereby,
+and (ii) all consents required under any Material Contract or Significant
+Royalty Agreement, the failure of which to obtain would reasonably be
+expected to have, individually or in the aggregate, a Material Adverse
+Effect, all in form and substance reasonably satisfactory to Parent and the
+Company.   Section 6.3. Conditions to Obligations of the Company. The
+obligation of the Company to effect the Merger is further subject to
+satisfaction or waiver of the following conditions:   (a) Representations
+and Warranties. The representations and warranties of Parent and Merger Sub
+set forth herein shall be true and correct in all respects (without giving
+effect to any materiality or Material Adverse Effect qualifications contained
+therein) both when made and at and as of the Closing Date, as if made at and
+as of such time (except to the extent expressly made as of an earlier date,
+in which case as of such date), except where the failure of such
+representations and warranties to be so true and correct, individually or in
+the aggregate, would not prevent or materially delay consummation of
+the Merger.   (b) Performance of Obligations of Parent and Merger Sub. Each
+of Parent and Merger Sub shall have performed all of its obligations required
+to be performed by it under this Agreement at or prior to the Closing Date
+(without giving effect to any materiality or Material Adverse Effect
+qualifications contained therein), except where the failure to perform such
+obligations, individually or in the aggregate, would not prevent or
+materially delay consummation of the Merger.   (c) Officer\'s Certificate.
+Each of Parent and Merger Sub shall have furnished the Company with a
+certificate dated the Closing Date signed on its behalf by an executive
+officer to the effect that the conditions set forth in Sections 6.3(a) and
+6.3(b) have been satisfied.    38     Section 6.4. Frustration of
+Closing Conditions. Neither Parent nor Merger Sub nor the Company may rely on
+the failure of any condition set forth in Section 6.1, 6.2 or 6.3, as the
+case may be, to be satisfied if such failure was caused by such party\'s
+failure to comply with its obligations to use its commercially reasonable
+efforts to consummate the Merger and the other transactions contemplated by
+this Agreement, as required by and subject to Section 5.5.   ARTICLE VII. 
+TERMINATION   Section 7.1. Termination.   (a) Termination by Mutual
+Consent. This Agreement may be terminated at any time prior to the Effective
+Time, whether before or after Shareholder Approval, by mutual written consent
+of Parent, Merger Sub and the Company.   (b) Termination by Parent or the
+Company. This Agreement may be terminated at any time prior to the Effective
+Time, whether before or after Shareholder Approval, by written notice of
+either Parent or the Company:   (i) if the Merger has not been consummated
+by September 30, 2006,  or such later date, if any, as Parent and the Company
+agree upon in writing  (as such date may be extended, the "Outside Date");
+provided, however, that  the right to terminate this Agreement pursuant to
+this Section 7.1(b)(i) is  not available to any party whose breach of any
+provision of this Agreement  results in or causes the failure of the Merger
+to be consummated by such  time;   (ii) if the Shareholders\' Meeting
+(including any adjournment or  postponement thereof) has concluded, the
+Shareholders have voted and  Shareholder Approval was not obtained; or  
+(iii) if any Governmental Entity of competent jurisdiction issues  an order
+or injunction that permanently prohibits the Merger and such order  or
+injunction has become final and non-appealable; provided, however, that  the
+right to terminate this Agreement pursuant to this Section 7.1(b)(iii)  is
+not available to any party whose breach of any provision of this  Agreement
+results in or causes such order or injunction or who has not used  its
+commercially reasonable efforts to prevent the entry of such order or 
+injunction or to appeal or lift such order or injunction.   (c) Termination
+by Parent. This Agreement may be terminated at any time prior to the
+Effective Time, whether before or after Shareholder Approval, by written
+notice of Parent to the Company:   (i) if the Company (i) has breached or
+failed to perform any of  its covenants or other agreements contained in this
+Agreement to be  complied with by the Company such that the closing condition
+set forth in  Section 6.2(b) would not be satisfied or (ii) there exists a
+breach of any  representation or warranty of the Company contained in this
+Agreement such  that the closing condition set forth in Section 6.2(a) would
+not be  satisfied and, in the case of both (i) and (ii), such breach or
+failure to  perform (1) is not    39    cured within thirty (30)
+calendar days after receipt of written notice  thereof specifically
+referencing this Section 7.1(c)(i) or (2) is incapable  of being cured by the
+Company within such thirty (30) calendar day period;  provided, however, that
+Parent shall not have the right to terminate this  Agreement under this
+Section 7.1(c)(i) if Parent is then in material breach  of any of its
+covenants or agreements contained in this Agreement; or   (ii) if, prior to
+receipt of Shareholder Approval, the Company  Board or the Special Committee
+has made an Adverse Recommendation Change.   (d) Termination by the Company.
+This Agreement may be terminated at any time prior to the Effective Time by
+written notice of the Company to Parent:   (i) whether before or after
+Shareholder Approval, if either  Parent or Merger Sub (A) has breached or
+failed to perform any of its  covenants or other agreements contained in this
+Agreement to be complied  with by Parent or Merger Sub such that the closing
+condition set forth in  Section 6.3(b) would not be satisfied, or (B) there
+exists a breach of any  representation or warranty of Parent or Merger Sub
+contained in this  Agreement such that the closing condition set forth in
+Section 6.3(a) would  not be satisfied and, in the case of both (A) and (B),
+such breach or  failure to perform (1) is not cured within thirty (30)
+calendar days after  receipt of written notice thereof specifically
+referencing this Section  7.1(d)(i) or (2) is incapable of being cured by
+Parent within such thirty  (30) calendar day period; provided, however, that
+the Company shall not  have the right to terminate this Agreement under this
+Section 7.1(d)(i) if  the Company is then in material breach of any of its
+covenants or  agreements contained in this Agreement; or   (ii) if prior to
+receipt of Shareholder Approval, (A) the Company  Board has received a
+Superior Proposal, (B) the Special Committee  determines in good faith that
+termination of this Agreement is necessary  for the members of the Special
+Committee to comply with their fiduciary  duties under applicable Law (C) the
+Special Committee has complied in all  respects with the provisions of
+Section 5.2 and (D) not later than the  effective time of such termination,
+the Company shall have paid the  Termination Fee pursuant to Section
+7.3(b).   Section 7.2. Effect of Termination. In the event of termination
+of this Agreement by either the Company or Parent as provided in Section 7.1,
+this Agreement will forthwith become void and have no effect, without any
+liability or obligation on the part of Parent, Merger Sub or the Company,
+provided, however, that (i) the provisions of the Confidentiality Agreement,
+this Section 7.2, Section 7.3 and Article VIII shall survive such termination
+and (ii) payment of the Termination Fee and/or the Parent Expenses shall be
+the exclusive remedy of Parent and Merger Sub; provided, further, that
+neither the Company, Parent or Merger Sub shall be relieved or released from
+any liabilities or damages arising out of its willful and material breach of
+any provision of this Agreement. In no event shall any party to this
+Agreement be liable for punitive damages.    40     Section 7.3. Fees
+and Expenses.   (a) Expenses. Except as provided in this Section 7.3, all
+Expenses incurred in connection with the Merger, this Agreement and the
+transactions contemplated hereby will be paid by the party incurring such
+expenses, whether or not the Merger is consummated. In the event that this
+Agreement is terminated by Parent or the Company pursuant to Section
+7.1(b)(ii) or by the Parent pursuant to Section 7.1(c)(i) or Section
+7.1(c)(ii), then the Company shall promptly reimburse Parent and Merger Sub
+for their Expenses, up to an aggregate amount of $2,500,000 (the "Parent
+Expenses").   (b) Termination Fee Payable By Company.   (i) In the event
+this Agreement is terminated by the Company  pursuant to Section 7.1(d)(ii),
+then the Company shall pay Parent within  one (1) business day of delivery of
+any notice of termination an amount  equal to $14,000,000 (the "Termination
+Fee") payable by wire transfer of  same day funds to an account designated in
+writing to the Company by  Parent. Such termination by the Company shall not
+become effective until  the Termination Fee shall have been paid. In the
+event that this Agreement  is terminated pursuant to Section 7.1(b)(i),
+7.1(b)(ii), Section 7.1(c)(i)  or 7.1(c)(ii), then, in the event that, within
+one (1) year following such  termination the Company or any of the Company
+Subsidiaries enters into a  definitive agreement with respect to, or
+consummates, any Takeover  Proposal, then the Company shall pay Parent, upon
+the earlier to occur of  the execution of such definitive agreement or such
+consummation, the  Termination Fee payable by wire transfer of same day funds
+to an account  designated in writing to the Company by Parent; provided,
+however, that no  such Termination Fee shall be payable to Parent in the
+event that a  termination occurs pursuant to Section 7.1(c)(i) unless (A) the
+breach of  the representations and warranties giving rise to a termination
+pursuant to  Section 7.1(c)(i) results from the intentional and willful
+actions or  omissions of the Company, or (B) after the date hereof and prior
+to such  termination a Takeover Proposal shall have been made. In the event
+that the  Company has previously paid to the Parent Expenses and subsequently
+becomes  obligated to pay the Termination Fee, the amount of Parent
+Expenses  previously paid shall be credited toward the amount of such
+subsequent  Termination Fee. For the avoidance of doubt, in no event shall
+the Company  be obligated to pay, or cause to paid, more than once the
+Termination Fee  or the Parent Expenses.   (ii) The Company acknowledges
+that the agreements contained in  this Section 7.3 are an integral part of
+the transactions contemplated in  this Agreement, that the damages resulting
+from termination of this  Agreement under circumstances where a Termination
+Fee and the Parent  Expenses are payable are uncertain and incapable of
+accurate calculation  and that the amounts payable pursuant to this Section
+7.3 are reasonable  forecasts of the actual damages which may be incurred and
+constitute  liquidated damages and not a penalty, and that, without these
+agreements,  Parent would not enter into this Agreement; accordingly, if the
+Company  fails to promptly pay the Termination Fee and/or the Parent Expenses
+of the  Parent, and, in order to obtain such payments Parent commences a suit
+which  results in a judgment against the Company for    41     the
+Termination Fee or Parent Expenses, the Company shall pay to Parent its 
+costs and expenses (including reasonable attorney\'s fees) in connection 
+with such suit.   ARTICLE VIII.  GENERAL PROVISIONS   Section 8.1. Non-
+survival of Representations and Warranties. None of the representations and
+warranties in this Agreement or in any instrument delivered pursuant to this
+Agreement will survive the Effective Time. This Section 8.1 shall not limit
+any covenant or agreement of the parties which by its terms contemplates
+performance after the Effective Time.   Section 8.2. Notices. All notices,
+requests, claims, demands and other communications under this Agreement must
+be in writing and will be deemed given if delivered personally, telecopied
+(which is confirmed by telephone) or sent by a nationally recognized
+overnight courier service (providing proof of delivery) to the parties at the
+following addresses (or at such other address for a party as is specified by
+like notice):   if to the Company, to:   Thomas Nelson, Inc.  501 Nelson
+Place  Nashville, Tennessee 37214  Attention: Michael S. Hyatt  President
+and Chief Executive Officer  Telephone: (615) 902-2731  Facsimile: (425)
+969-5036   with a copy (which shall not constitute notice) to:   Sherrard
+and Roe, PLC  424 Church Street, Suite 2000  Nashville, Tennessee 37219 
+Attention: Thomas J. Sherrard  Telephone: (615) 742-4200  Facsimile: (615)
+742-4539   if to Parent or Merger Sub, to:   Faith Media Holdings, LLC 
+405 Lexington Avenue, 48th Floor  New York, New York 10174  Attention: Mark
+J. Coleman, Esq.  Telephone: (212) 503-2855  Facsimile: (212) 983-3174  
+with a copy (which shall not constitute notice) to:    42     Milbank,
+Tweed, Hadley and McCloy LLP  One Chase Manhattan Plaza  New York, New York
+10005  Attention: Thomas C. Janson  Telephone: (212) 530-5921  Facsimile:
+(212) 822-5899   Section 8.3. Interpretation. When a reference is made in
+this Agreement to an Article, Section or Exhibit, such reference is to an
+Article or Section of, or an Exhibit to, this Agreement unless otherwise
+indicated. The table of contents, table of defined terms and headings
+contained in this Agreement are for reference purposes only and do not affect
+in any way the meaning or interpretation of this Agreement. Whenever the
+words "include," "includes" or "including" are used in this Agreement, they
+will be deemed to be followed by the words "without limitation." The words
+"hereof," "herein" and "hereunder" and words of similar import when used in
+this Agreement will refer to this Agreement as a whole and not to any
+particular provision of this Agreement. All terms defined in this Agreement
+will have the defined meanings when used in any certificate or other document
+made or delivered pursuant hereto unless otherwise defined therein. The
+definitions contained in this Agreement are applicable to the singular as
+well as the plural forms of such terms and to the masculine as well as to the
+feminine and neuter genders of such term. Any agreement, instrument or
+statute defined or referred to herein or in any agreement or instrument that
+is referred to herein means such agreement, instrument or statute as from
+time to time amended, modified or supplemented, including (in the case of
+agreements or instruments) by waiver or consent and (in the case of statutes)
+by succession of comparable successor statutes. The parties hereto have
+participated jointly in the negotiating and drafting of this Agreement
+and, in the event an ambiguity or question of intent arises, this Agreement
+shall be construed as jointly drafted by the parties hereto and no
+presumption or burden of proof shall arise favoring or disfavoring any party
+by virtue of the authorship of any provision of this Agreement.   Section
+8.4. Counterparts. This Agreement may be executed in two or
+more counterparts, all of which will be considered one and the same agreement
+and will become effective when one or more counterparts have been signed by
+each of the parties and delivered to the other parties.   Section 8.5.
+Entire Agreement; No Third-Party Beneficiaries. This Agreement (including the
+documents and instruments relating to the Merger referred to herein) and the
+Confidentiality Agreement, taken together with the Company Disclosure
+Schedules, (a) constitute the entire agreement, and supersede all prior
+agreements and understandings, both written and oral, among the parties with
+respect to the subject matter of this Agreement and (b) except for
+the provisions of Section 5.8, are not intended to confer upon any Person
+other than the parties any rights or remedies.   Section 8.6. Governing
+Law. This Agreement is to be governed by, and construed in accordance with,
+the laws of the State of Tennessee, regardless of the laws that might
+otherwise govern under applicable principles of conflict of laws
+thereof.    43     Section 8.7. Assignment. Neither this Agreement nor
+any of the rights, interests or obligations under this Agreement may be
+assigned, in whole or in part, by operation of law or otherwise by any of the
+parties hereto without the prior written consent of the other parties. Any
+assignment in violation of this Section 8.7 will be void and of no effect.
+Subject to the preceding two sentences, this Agreement is binding upon,
+inures to the benefit of, and is enforceable by, the parties and their
+respective successors and assigns.   Section 8.8. Consent to Jurisdiction;
+Waiver of Jury Trial.   (a) Each of the parties hereto (i) consents to
+submit itself to the exclusive jurisdiction of the United States district
+court for the Middle District of Tennessee in the event any dispute arises
+out of this Agreement or any of the transactions contemplated by this
+Agreement, (ii) agrees that it will not attempt to deny or defeat such
+personal jurisdiction by motion or other request for leave from any such
+court and (iii) agrees that it will not bring any action relating to this
+Agreement or any of the transactions contemplated by this Agreement in any
+court other than the United States district court for the Middle District of
+Tennessee.   (b) EACH PARTY ACKNOWLEDGES AND AGREES THAT ANY CONTROVERSY
+WHICH MAY ARISE UNDER THIS AGREEMENT IS LIKELY TO INVOLVE COMPLICATED AND
+DIFFICULT ISSUES, AND THEREFORE IT HEREBY IRREVOCABLY AND UNCONDITIONALLY
+WAIVES ANY RIGHT IT MAY HAVE TO A TRIAL BY JURY IN RESPECT OF ANY LITIGATION
+DIRECTLY OR INDIRECTLY ARISING OUT OF OR RELATING TO THIS AGREEMENT AND ANY
+OF THE AGREEMENTS DELIVERED IN CONNECTION HEREWITH OR THE TRANSACTIONS
+CONTEMPLATED HEREBY OR THEREBY. EACH PARTY CERTIFIES AND ACKNOWLEDGES THAT
+(A) NO REPRESENTATIVE, AGENT OR ATTORNEY OF ANY OTHER PARTY HAS REPRESENTED,
+EXPRESSLY OR OTHERWISE, THAT SUCH OTHER PARTY WOULD NOT, IN THE EVENT OF
+LITIGATION, SEEK TO ENFORCE EITHER OF SUCH WAIVERS, (B) IT UNDERSTANDS AND
+HAS CONSIDERED THE IMPLICATIONS OF SUCH WAIVERS, (C) IT MAKES SUCH WAIVERS
+VOLUNTARILY, AND (D) IT HAS BEEN INDUCED TO ENTER INTO THIS AGREEMENT BY,
+AMONG OTHER THINGS, THE MUTUAL WAIVERS AND CERTIFICATIONS IN THIS SECTION
+8.8(B).   Section 8.9. Specific Enforcement. The parties agree that
+irreparable damage would occur in the event that any of the provisions of
+this Agreement were not performed in accordance with their specific terms or
+were otherwise breached. The parties accordingly agree that the parties will
+be entitled to seek an injunction or injunctions to prevent breaches of this
+Agreement and to enforce specifically the terms and provisions of this
+Agreement in the United States district court for the Middle District of
+Tennessee, this being in addition to any other remedy to which they are
+entitled at law or in equity.   Section 8.10. Amendment. This Agreement may
+be amended by the parties at any time before or after Shareholder Approval or
+adoption of this Agreement by Parent as sole shareholder of Merger Sub;
+provided, however, that, after such approvals, there is not to be made any
+amendment that by Law or stock exchange regulation requires further approval
+by the Shareholders or the shareholders of Parent, as applicable, without
+further approval of such    44    shareholders. This Agreement may not
+be amended except by an instrument in writing signed on behalf of each of the
+parties.   Section 8.11. Extension; Waiver. At any time prior to the
+Effective Time, a party may (a) extend the time for the performance of any of
+the obligations or other acts of the other party, (b) waive any inaccuracies
+in the representations and warranties of the other party contained in this
+Agreement or in any document delivered pursuant to this Agreement or (c)
+subject to the proviso of Section 8.10, waive compliance by the other parties
+with any of the agreements or conditions contained in this Agreement. Any
+agreement on the part of a party to any such extension or waiver will be
+valid only if set forth in an instrument in writing signed on behalf of such
+party. The failure of any party to this Agreement to assert any of its rights
+under this Agreement or otherwise will not constitute a waiver of such
+rights.   Section 8.12. Severability. If any term or other provision of
+this Agreement is invalid, illegal or incapable of being enforced by any rule
+of law or public policy, all other conditions and provisions of this
+Agreement will nevertheless remain in full force and effect. Upon such
+determination that any term or other provision is invalid, illegal or
+incapable of being enforced, the parties hereto shall negotiate in good faith
+to modify this Agreement so as to effect the original intent of the parties
+as closely as possible to the fullest extent permitted by applicable law in
+an acceptable manner to the end that the transactions contemplated hereby are
+fulfilled to the extent possible.   [Signature Page Follows]    45   
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to
+be signed by their respective officers thereunto duly authorized, all as of
+the date first written above.   PARENT:   FAITH MEDIA HOLDINGS, LLC  
+By: InterMedia Partners, L.P., its  managing member  By: HK Capital
+Partners, its general  partner    By: /s/ Leo Hindery, Jr. 
+--------------------------------  Name: Leo Hindery, Jr.  Title: General
+Partner    MERGER SUB:   FM MERGERCO, INC.    By: /s/ Leo Hindery,
+Jr.  --------------------------------  Name: Leo Hindery, Jr.  Title:
+Authorized Signatory    COMPANY:   THOMAS NELSON, INC.    By: /s/
+Michael S. Hyatt  --------------------------------  Name: Michael S. Hyatt 
+Title: CEO     APPENDIX I   DEFINITIONS   The following capitalized
+terms used in this Agreement have the meanings set forth or referenced
+below:   "Action" has the meaning set forth in Section 3.18.   "Adverse
+Recommendation Change" has the meaning set forth in Section 5.2(b).  
+"Affiliate" of any Person means another Person that directly or
+indirectly, through one or more intermediaries, controls, is controlled by,
+or is under common control with, such first Person, where "control" means the
+possession, directly or indirectly, of the power to direct or cause the
+direction of the management policies of a Person, whether through the
+ownership of voting securities, by contract or otherwise.   "Agreement" has
+the meaning set forth in the Preamble.   "Antitrust Division" means the
+Antitrust Division of the United States Department of Justice.   "Antitrust
+Filings" has the meaning set forth in Section 5.5(a).   "Articles of Merger"
+has the meaning set forth in Section 1.3.   "Benefit Plans" has the meaning
+set forth in Section 3.10(a).   "Budget" has the meaning set forth in
+Section 5.1(a)(x).   "Business Day" means any day other than Saturday,
+Sunday or any day on which banking institutions in Nashville, Tennessee are
+authorized or required by Law to be closed.   "Certificate" has the meaning
+set forth in Section 2.4(b).   "Charter Documents" has the meaning set forth
+in Section 3.1.   "Closing" has the meaning set forth in Section 1.2.  
+"Closing Date" means the date on which the Closing actually occurs.   "Code"
+means the Internal Revenue Code of 1986, as amended from time to time.  
+"Company" has the meaning set forth in the Preamble.   "Company Board" has
+the meaning set forth in the Recitals.   "Company Capital Stock" means,
+collectively, the Company Common Stock and the Company Class B Common
+Stock.    App-1     "Company Class B Common Stock" means the shares of
+the Class B Common Stock, $1.00 par value per share, of the Company.  
+"Company Common Stock" means the shares of the Common Stock, $1.00 par value
+per share, of the Company.   "Company Disclosure Schedules" has the meaning
+set forth in Section 3.2.   "Company Employees" has the meaning set forth in
+Section 5.11(a)(ii).   "Company Entities" has the meaning set forth in
+Section 3.2.   "Company Financial Advisor" means UBS Securities LLC.  
+"Company Intellectual Property" has the meaning set forth in Section 3.14.  
+"Company Preferred Stock" has the meaning set forth in Section 3.3(a).  
+"Company Recommendation" has the meaning set forth in Section 5.2(b).  
+"Company Representatives" has the meaning set forth in Section 5.2(a).  
+"Company Subsidiaries" has the meaning set forth in Section 3.2.  
+"Confidentiality Agreement" has the meaning set forth in Section 5.4.  
+"Data Site" means the data site established by the Company and located
+at https://datasite.merrilcorp.com/.   "Effective Time" means the date and
+time the Merger becomes effective.   "Employment Agreements" has the meaning
+set forth in Section 3.10(a).   "Employment Agreements and Plans" has the
+meaning set forth in Section 3.10(a).   "Environment" means soil, surface
+waters, ground water, land, stream sediment, surface and subsurface strata,
+ambient air, indoor air or indoor air quality.   "Environmental Claim"
+means any written demand, suit, action, proceeding, order, investigation or
+notice to any of the Company Entities by any Person alleging any potential
+liability under any Environmental Law.   "Environmental Condition" means any
+contamination, damage, injury or other condition related to Hazardous
+Substances and includes any present or former Hazardous Substance treatment,
+storage, or disposal or recycling units, underground storage tanks,
+wastewater treatment or management systems, wetlands, sumps, lagoons,
+impoundments, landfills, ponds, incinerators, wells, materials containing
+asbestos which may become friable, lead paint or PCB-
+containing materials.   App-2     "Environmental Laws" means all Laws
+relating to pollution or protection of the Environment; emissions,
+discharges, Releases or threatened Releases of Hazardous Substances; threats
+to human health or ecological resources arising from exposure to Hazardous
+Substances; or the manufacture, generation, processing, distribution, use,
+sale, treatment, receipt, storage, disposal, transport or handling of
+Hazardous Substances; "Environmental Laws" also include those portions of
+Laws relating to workplace health and safety that address any of the matters
+set forth above.   "Environmental Permit" means all Permits required by any
+Governmental Entity in connection with any Environmental Law, including
+without limitation all consent orders and binding agreements issued or
+entered into by any Governmental Entity, and the timely submission of
+applications for Permits, as required under Environmental Laws.   "ERISA"
+means the Employee Retirement Income Security Act of 1974, as amended.  
+"Exchange Act" means the Securities Exchange Act of 1934, as amended.  
+"Excluded Shares" has the meaning set forth in Section 2.1(b).   "Expenses"
+shall include all reasonable out-of-pocket expenses (including all reasonable
+and customary fees and expenses of counsel, accountants, investment bankers,
+financing sources, experts and consultants to a party hereto and its
+Affiliates) incurred by a party or on its behalf in connection with
+or related to the authorization, preparation, negotiation, execution
+and performance of this Agreement, the preparation, printing, filing and
+mailing of the Proxy Statement, the solicitation of Shareholder Approval,
+financing and all other matters related to the closing of the Merger or any
+transaction related thereto.   "FTC" means the United States Federal Trade
+Commission.   "GAAP" means United States generally accepted accounting
+principles.   "Governmental Entity" means any federal, state or local or
+foreign government, any court, administrative, regulatory or other
+governmental agency, commission or authority or any non-governmental United
+States or foreign self-regulatory agency, commission or authority or any
+arbitral tribunal.   "Hazardous Substance" means any chemical, substance or
+waste that is regulated under any Environmental Law as toxic, hazardous or
+radioactive or as a pollutant or a contaminant and any substance that is or
+contains asbestos which may become friable, urea formaldehyde foam
+insulation, PCBs, mold, petroleum or petroleum products, including without
+limitation crude oil and any fractions thereof, natural gas, synthetic gas
+and any mixture thereof, leaded paints or radon gas.   "HSR Act" means the
+Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended.   "HSR
+Filing" has the meaning set forth in Section 5.5(a).    App-3    
+"Immediate Family Member" includes a person\'s spouse, parents,
+children, siblings, mothers and fathers-in-law, sons and daughters-in-law,
+brothers and sisters-in-law, anyone (other than domestic employees) who
+shares such person\'s home, and any lineal descendants of the foregoing.  
+"Indemnified Parties" has the meaning set forth in Section 5.8(c).  
+"Intellectual Property" means all United States or foreign
+intellectual property, including (i) inventions, patents, patent applications
+and patent disclosures, together with all reissuances,
+continuations, continuations-in-part, divisions, revisions, extensions and
+reexaminations thereof, (ii) trademarks, service marks, logos, trade names,
+corporate names, domain names, trade dress, including all goodwill associated
+therewith, and all applications, registrations and renewals in connection
+therewith, (iii) copyrights and copyrightable works and all applications,
+registrations and renewals in connection therewith, (iv) trade secrets and
+confidential business information, whether or not subject to statutory
+registration (including research and development, know-how, formulas,
+compositions, manufacturing and production processes and techniques, methods,
+schematics, technology, technical data, designs, drawings, flowcharts, block
+diagrams, specifications, customer and supplier lists, pricing and cost
+information and business and marketing plans and proposals), and (v) computer
+software (including source code, databases and related documentation) (other
+than commercially available off-the-shelf software).   "Interim Period" has
+the meaning set forth in Section 5.1(a).   "Knowledge" means, with respect
+to the Company, the actual knowledge of the individuals set forth on Appendix
+I of the Company Disclosure Schedules, and with respect to Parent or Merger
+Sub, the actual knowledge of Mark J. Coleman.   "Law" means any foreign,
+federal, state, provincial or local civil or criminal law, statute, code,
+ordinance, regulation, legally binding rule or other legally enforceable
+obligation imposed by a court or other Governmental Entity.   "Leases"
+means all leases of real property leased by or to the Company or any Company
+Subsidiary.   "Liens" means any pledges, claims, liens, options, charges,
+mortgages, easements, restrictions, covenants, conditions of record,
+encroachments, possessory rights, options, title and survey matters,
+encumbrances and security interests of any kind or nature whatsoever.  
+"Material Adverse Effect" means any change, effect, event, occurrence
+or state of facts that is or would be materially adverse to the business,
+condition (financial or otherwise), assets, properties, results of operations
+or prospects of the Company and the Company Subsidiaries taken as a whole,
+other than any changes, effects, events, occurrences or state of facts that
+result from (i) changes in general economic conditions in the United States
+or elsewhere other than such changes that disproportionately impact the
+Company and the Company Subsidiaries, taken as a whole, (ii) general changes
+or developments in the industry in which the Company and the Company
+Subsidiaries operate other than such changes or developments that
+disproportionately impact the Company and the Company Subsidiaries, taken as
+a whole, (iii) the announcement of this Agreement and the transactions
+contemplated hereby, (iv) any actions required under this   
+App-4    Agreement to obtain any approval or authorization under
+applicable antitrust or competition laws for the consummation of the
+transactions contemplated by this Agreement, (v) the effect of incurring and
+paying expenses to the Company Financial Advisor and other advisors to the
+Company in connection with negotiating, entering into, performing and
+consummating the transactions contemplated by this Agreement, (vi) changes in
+GAAP or the interpretation thereof by the Financial Accounting Standards
+Board or the SEC after the date hereof other than such changes that
+disproportionately impact the Company and the Company Subsidiaries, and (vii)
+any outbreak of major hostilities in which the United States is involved or
+any act of insurrection, sabotage or terrorism within the United States or
+directed against its facilities or citizens wherever located, other than such
+outbreaks or acts that disproportionately impact the Company and the Company
+Subsidiaries, taken as a whole. In addition, adverse developments with
+respect to the current ongoing audit relating to the deductions previously
+claimed with respect to the stock of C.R. Gibson that occur after the date
+hereof shall not be considered, individually or in the aggregate, to
+constitute a Material Adverse Effect.   "Material Contract" has the meaning
+set forth in Section 3.8(a).   "Maximum Premium" has the meaning set forth
+in Section 5.8(c).   "Merger" has the meaning set forth in the Recitals.  
+"Merger Sub" has the meaning set forth in the Preamble.   "Most Recent
+Balance Sheet" has the meaning set forth in Section 3.7.   "Multiemployer
+Plan" means a multiemployer plan as defined in Section 4001(a)(3) of
+ERISA.   "NYSE" means the New York Stock Exchange.   "Option" has the
+meaning set forth in Section 2.2(a).   "Option Consideration" has the
+meaning set forth in Section 2.2(a).   "Outside Date" has the meaning set
+forth in Section 7.1(b)(i).   "Owned Real Property" has the meaning set
+forth in Section 3.20(a).   "Parent" has the meaning set forth in the
+Preamble.   "Parent Entities" has the meaning set forth in Section
+4.3(a).   "Parent Expenses" has the meaning set forth in Section 7.3(a).  
+"Parent Subsidiaries" has the meaning set forth in Section 4.3(a).   "Paying
+Agent" has the meaning set forth in Section 2.4(a).   "PCBs" means
+polychlorinated biphenyls.    App-5     "Per Share Merger
+Consideration" has the meaning set forth in Section 2.1(a).   "Permit" has
+the meaning set forth in Section 3.9.   "Permitted Liens" means (i)
+mechanics\', carriers\', workmen\'s, repairmen\'s or other like Liens arising
+or incurred in the ordinary course of business relating to obligations that
+are not delinquent or that are being contested in good faith by the relevant
+party or any Subsidiary of it and for which the relevant party or a
+Subsidiary of it has established adequate reserves, (ii) Liens for Taxes that
+are not due and payable or that may thereafter be paid without interest or
+penalty, (iii) Liens that are reflected as liabilities on the balance sheet
+of the relevant party and its consolidated Subsidiaries as of the end of the
+second quarter of fiscal 2006 contained in its SEC Reports (as hereinafter
+defined) or the existence of which is referred to in the notes to such
+balance sheet, (iv) Liens arising under conditional sales contracts or
+as purchase money security interests for the purchase or lease of personal
+property and (v) Liens that, individually or in the aggregate, do not
+materially impair, and would not reasonably be expected materially to impair,
+the value or the continued use and operation of the assets to which they
+relate.   "Permitted Real Property Encumbrances" means (i) easements,
+covenants, rights-of-way and other encumbrances or restrictions of record,
+(ii) any conditions that a current, accurate survey or physical inspection of
+any Owned Real Property may show, (iii) zoning, building and other similar
+restrictions and (iv) any unrecorded easements, covenants or rights-of-way
+that, individually or in the aggregate, do not materially impair, and would
+not reasonably be expected materially to impair, the value or the continued
+use and operation of the assets to which they relate.   "Person" means an
+individual, corporation, partnership, limited partnership, limited liability
+company, unlimited liability company, joint venture, association, trust,
+unincorporated organization, Governmental Entity or other entity (including
+its permitted successors and assigns).   "Principal Shareholders" has the
+meaning set forth in the Recitals.   "Prior Plan" has the meaning set forth
+in Section 5.11(b).   "Proxy Statement" has the meaning set forth in Section
+5.3(c).   "Release" means any (i) releasing, disposing, discharging,
+injecting, spilling, leaking, pumping, pouring, leaching, dumping, emitting,
+escaping, emptying, migrating, placing or otherwise entering into the
+Environment (including the abandonment or discarding of barrels, containers,
+and other closed receptacles containing any Hazardous Substances) or (ii)
+treating, storing, disposing, arranging for or permitting the disposal of or
+handling of any Hazardous Substance.   "Restricted Stock" has the meaning
+set forth in Section 2.2(b).   "Revolving Credit Agreement" means the
+Revolving Credit Agreement among the Company, as Borrower, the lenders
+appointed from time to time and Suntrust Bank as Administrative Agent and
+Lender, dated as of June 28, 2002 and amended August 27, 2004.   
+App-6     "Royalty Agreement" means an agreement between the Company or
+any Company Subsidiary and a creator or copyright proprietor of one or more
+works which provides the Company or Company Subsidiary with the right to
+publish such work(s) in exchange for such compensation to be paid to creator
+or proprietor as set forth in such agreement.   "Sarbanes-Oxley Act" has
+the meaning set forth in Section 3.6(b).   "SEC" means the Securities and
+Exchange Commission.   "SEC Reports" has the meaning set forth in Section
+3.6(a).   "Securities Act" means the Securities Act of 1933, as amended.  
+"Shareholder Approval" has the meaning set forth in Section 6.1(a).  
+"Shareholders" mean, collectively, the holders of the issued and outstanding
+Company Capital Stock.   "Shareholders\' Meeting" has the meaning set forth
+in Section 5.3(b).   "Shares" has the meaning set forth in Section
+2.1(a).   "Significant Royalty Agreements" has the meaning set forth in
+Section 3.8(b).   "Special Committee" has the meaning set forth in the
+Recitals.   "Stock Plans" means the Company\'s Amended and Restated 1992
+Employee Stock Incentive Plan and 2003 Stock Incentive Plan, each as amended
+to date, and each other plan, program or arrangement pursuant to which
+compensatory equity-related awards may be granted.   "Stock Unit" has the
+meaning set forth in Section 2.2(c).   "Subsidiary" of any Person means
+another Person, an amount of the voting securities, other voting ownership or
+voting partnership interests of which is sufficient to elect at least a
+majority of its Board of Directors or other governing body (or, if there are
+no such voting interests, fifty percent (50%) or more of the equity interest
+of which) is owned directly or indirectly by such first Person.  
+"Successor Plan" has the meaning set forth in Section 5.11(b).   "Superior
+Proposal" means a bona fide written Takeover Proposal from any Person to
+acquire, directly or indirectly, for consideration consisting of cash and/or
+securities, all of the combined voting power of the Company then outstanding
+(and which provides for the same price per share for all shares of company
+Capital Stock) or all or substantially all of the consolidated assets of the
+Company that is not subject to any financing condition or to any
+other condition to which the Merger is not subject and the Special
+Committee determines in its good faith judgment (after consulting its
+financial advisors and legal counsel), taking into account legal, regulatory,
+financial, timing and similar aspects of the proposal, the consideration
+offered and the Person    App-7    making it and any break-up fees and
+expense reimbursement provisions proposed, would be more favorable to the
+Shareholders than the transactions contemplated by this Agreement (for the
+avoidance of doubt, a Superior Proposal may be a transaction where the
+consideration per share to be received by the Shareholders has a lower
+nominal value than the Per Share Merger Consideration or is comprised of cash
+and/or other property or securities); provided, that for purposes of this
+definition, the term "Company" shall include any successor thereto.  
+"Surviving Corporation" has the meaning set forth in Section 1.1.  
+"Takeover Proposal" means any inquiry, proposal, offer, indication
+of interest, signed agreement or completed action from any Person relating to
+any (A) direct or indirect acquisition or purchase of a business that
+constitutes twenty percent (20%) or more of the net revenues, net income or
+the assets of the Company and the Company Subsidiaries, taken as a whole, (B)
+direct or indirect acquisition or purchase of equity securities of the
+Company representing twenty percent (20%) or more of the combined voting
+power of the Company, (C) any tender offer or exchange offer that if
+consummated would result in any Person beneficially owning equity securities
+of the Company representing twenty percent (20%) or more of the combined
+voting power of the Company, (D) any merger, consolidation, business
+combination, recapitalization, liquidation, dissolution or similar
+transaction involving the Company or any Company Subsidiary, other than the
+transactions contemplated by this Agreement, (E) the acquisition, license,
+purchase or other disposition of the business or assets (including any
+capital stock or assets of any Company Subsidiary) of the Company or any
+Company Subsidiary representing twenty percent (20%) or more of
+the consolidated assets, revenues or earnings of the Company and the
+Company Subsidiaries, taken as a whole, outside the ordinary course of
+business or inconsistent with past practice or (F) any combination of the
+foregoing; provided, that for purposes of this definition, the term "Company"
+shall include any successor thereto.   "Takeover Statute" has the meaning
+set forth in Section 5.5(c).   "Tax Reserve" has the meaning set forth in
+Section 3.11.   "Tax Return" means any return, report, statement or
+information required to be filed with any Taxing Authority with respect to
+Taxes.   "Taxes" means all federal, state or local or foreign net and gross
+income, alternative or add-on minimum, environmental, gross receipts, ad
+valorem, value added, goods and services, capital stock, profits, license,
+single business, employment, severance, stamp, unemployment, customs,
+property, sales, excise, use, occupation, service, transfer, payroll,
+franchise, withholding, escheat or abandoned property and other taxes,
+duties, charges, fees, levies or other assessments imposed by any Taxing
+Authority, including any interest, penalties or additions with respect
+thereto.   "Taxing Authority" means any domestic, foreign, federal,
+national, state, county or municipal or other local government, any
+subdivision, agency, commission or authority thereof, or any quasi-
+governmental body exercising any taxing authority or any other authority
+exercising Tax regulatory authority.   "TBCA" means the Tennessee Business
+Corporation Act, as amended.    App-8     "Termination Fee" has the
+meaning set forth in Section 7.3(b).    App-9     EXHIBIT A  
+CHARTER   [intentionally omitted]    Ex A-1     EXHIBIT B  
+BYLAWS   [intentionally omitted]    Ex B-1   '
+

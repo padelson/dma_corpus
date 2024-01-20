@@ -1,0 +1,985 @@
+ EXHIBIT 2.1    Exhibit 2.1   AGREEMENT
+AND PLAN OF MERGER   BY AND AMONG   MICROFIELD GROUP, INC.   AND   ECI
+ACQUISITION CO.   AND   ENERGYCONNECT, INC.   DATED AS OF OCTOBER 11,
+2005     AGREEMENT AND PLAN OF MERGER   THIS AGREEMENT AND PLAN OF
+MERGER is made as of October 11, 2005 by and among MICROFIELD GROUP, INC., an
+Oregon corporation ("Microfield"), ECI ACQUISITION CO., an Oregon corporation
+("Merger Sub"), and ENERGYCONNECT, INC., a Nevada corporation ("ECI").  
+RECITALS   A. The respective boards of directors of Microfield, Merger Sub
+and ECI have: (a) determined that the Merger of ECI with and into Merger Sub
+pursuant and subject to all of the terms and conditions of this Agreement is
+advisable, fair and in the best interests of Microfield, ECI and Merger Sub
+and their respective shareholders; and (b) approved the Merger, this
+Agreement and the transactions contemplated by this Agreement.   B. The
+board of directors of Microfield has authorized the issuance of Microfield
+Common Stock pursuant to this Agreement.   C. Microfield, ECI, and Merger
+Sub desire to make certain representations, warranties, covenants and
+agreements in connection with the Merger.   D. The parties intend that the
+structure of the Merger described in this Agreement be a tax-free
+reorganization within the meaning of Section 368(a) of the Code.   NOW,
+THEREFORE, in consideration of the covenants, conditions and agreements set
+forth herein and for other good and valuable consideration, the sufficiency
+of which are acknowledged, the parties agree as follows:   ARTICLE 1.
+DEFINITIONS   When used in this Agreement, the following terms shall have
+the meanings specified:   "AGREEMENT" means this Agreement and Plan of
+Merger, together with the attached Exhibits and Disclosure Schedules, as the
+same may be amended from time to time in accordance with the terms
+hereof.   "ARTICLES OF MERGER" means Articles of Merger in a form approved
+for filing in accordance with the OBCA.   "CLOSING" means the conference to
+be held at 10:00 a.m. on the Closing Date at the offices of Microfield, or
+such other time and place as the parties may mutually agree to in
+writing.    -1-     "CLOSING DATE" means October 13, 2005, or such
+other date as the parties may mutually agree in writing.   "CODE" means the
+Internal Revenue Code of 1986, as amended, and the regulations promulgated
+thereunder, as the same may be in effect from time to time.   "DISCLOSURE
+SCHEDULES" means the Disclosure Schedules attached to this Agreement.  
+"ECI" means EnergyConnect, Inc., a Nevada corporation.   "ECI OPTIONS" means
+options to purchase shares of ECI Stock granted to employees of ECI pursuant
+to the terms of the Employee Stock Option Plan adopted by ECI that are
+outstanding immediately prior to the Effective Time.   "ECI SHAREHOLDERS"
+means all the holders of record of ECI Stock immediately prior to the
+Effective Time.   "ECI STOCK" means shares of Class A common stock, without
+par value, of ECI.   "EFFECTIVE TIME" means the date and time when the
+Merger becomes effective pursuant to the OBCA.   "ENFORCEABILITY
+EXCEPTIONS" means the limits with respect to the enforceability of any
+agreement imposed by applicable bankruptcy, insolvency, reorganization or
+other similar laws affecting the enforcement of creditors\' rights generally
+and by principles of equity regarding the availability of remedies.  
+"GOVERNMENTAL AUTHORITY" means any nation or government, any state or
+other political subdivision thereof or any entity, authority or body
+exercising executive, legislative, judicial or regulatory functions of or
+pertaining to government, including, without limitation, any governmental or
+regulatory authority, agency, department, board, commission or
+instrumentality, any court, tribunal or arbitrator and any self-regulatory
+organization.   "KNOWLEDGE," with respect to a party, means the actual
+current knowledge of the existence or nonexistence of a fact or matter, after
+reasonable inquiry, by the executive officers or directors of Microfield or
+ECI, as applicable, taking into consideration the type of knowledge that the
+person would know by virtue of such person\'s position.   "LAW" means any
+federal, state, local or other law, rule, regulation or governmental
+requirement of any kind, and the rules, regulations and orders promulgated
+thereunder by any regulatory agencies.   "MATERIAL ADVERSE CHANGE" means any
+materially adverse change in the financial condition, properties, business or
+results of operations of a party that exceeds the sum of $250,000 or more,
+whether taken separately or together in the aggregate with other similar
+events, other than changes arising out of general economic conditions   
+-2-    unrelated to the business in which the party is engaged. When
+reference is made to Microfield in this context, such reference shall be
+deemed to refer to Microfield and its Subsidiaries taken as a whole.  
+"MATERIAL ADVERSE EFFECT" means any event, condition or fact that is,
+or reasonably may be expected to be, materially adverse to the financial
+condition, properties, business, results of operations or prospects of a
+party that exceeds the sum of $250,000 or more, whether taken separately or
+together in the aggregate with other similar events, other than events,
+conditions or facts arising out of general economic conditions unrelated to
+the business in which the party is engaged. When reference is made to
+Microfield in this context, such reference shall be deemed to refer to
+Microfield and its Subsidiaries taken as a whole.   "MATERIAL CONTRACTS"
+means any agreement or contract to which a party, or by which its properties
+or assets, is bound, which could reasonably be expected to result in a
+Material Adverse Change or have a Material Adverse Effect, including, but not
+limited, to: (a) all loan agreements, indentures, mortgages, pledges,
+conditional sale or title retention agreements, security
+agreements, guaranties, standby letters of credit, equipment leases or lease
+purchase agreements, each in an amount exceeding $50,000; and (b) all other
+contracts, agreements, commitments or other understandings or arrangements,
+but excluding contracts, agreements, commitments or other understandings or
+arrangements entered into in the ordinary course of business and involving
+individual payments or receipts by a party of less than $50,000 over the term
+of such contract, agreement, commitment or other understanding or
+arrangement.   "MERGER" means the merger of ECI with and into Merger Sub
+pursuant to this Agreement, the OBCA, and the NGCL.   "MERGER
+CONSIDERATION" means the aggregate number of shares of Microfield Common
+Stock and Microfield Warrants issuable to the ECI Shareholders pursuant to
+Section 2.7, subject to any rounding for fractional shares pursuant
+to Section 2.9(b).   "MERGER SUB" means ECI Acquisition Co., an Oregon
+corporation and a wholly owned Subsidiary of Microfield.   "MICROFIELD"
+means Microfield Group, Inc., an Oregon corporation.   "MICROFIELD COMMON
+STOCK" means shares of common stock, no par value, of Microfield.  
+"MICROFIELD WARRANT" means a warrant to purchase one share of
+Microfield Common Stock at a price equal to 110% of the average of the
+closing prices of Microfield Common Stock on the OTCBB on the five trading
+days immediately preceding the Closing Date, subject to the terms and
+conditions set forth in the Stock Purchase Warrant in the form attached as
+Exhibit A.   "NGCL" means the Nevada General Corporation Law, as the same
+shall be in effect from time to time.    -3-     "OBCA" means the
+Oregon Business Corporation Act, as the same shall be in effect from time to
+time.   "OPTION EXCHANGE RATIO" means 191,820 shares of Microfield Common
+Stock.   "PERSON" means a natural person, corporation, trust, partnership,
+limited liability company, governmental entity, agency or branch or
+department thereof, or any other legal entity.   "SUBSIDIARY" means any
+entity (a) at least a majority of the outstanding capital stock or ownership
+interest of which shall at the time be owned by Microfield or ECI, as
+applicable, directly or through one (1) or more entities that are themselves
+Subsidiaries or (b) with respect to which Microfield or ECI, as applicable,
+may elect a majority of the board of directors or similar governing body.  
+"SURVIVING CORPORATION" means Merger Sub, which shall survive the Merger
+of ECI with and into Merger Sub.   OTHER TERMS. The following terms shall
+have the meanings specified in the following noted sections of this
+Agreement:     TERM SECTION ----------------- ---------  ~~  Preferred
+Shares 4.2 Related Documents Article 7 Rule 144 2.10 Securities Act
+2.10    ARTICLE 2. THE MERGER   2.1 THE MERGER. At the Effective Time and
+upon and subject to the terms and conditions of this Agreement, ECI will be
+merged with and into Merger Sub. Merger Sub shall be the Surviving
+Corporation in the Merger and shall continue to be governed by the Laws of
+the state of Oregon, and the separate existence of ECI shall cease. The
+Merger shall be pursuant to the provisions of, and shall be with the effects
+provided in, the OBCA and the NGCL.   2.2 EFFECTIVE TIME. Subject to the
+terms and conditions of this Agreement, on the Closing Date, Merger Sub and
+ECI will cause the Articles of Merger to be executed, delivered and filed as
+provided in the OBCA and the NGCL. The Merger shall become effective at the
+time specified in of the Articles of Merger filed with the Oregon Secretary
+of State, Corporation Division, and the Nevada Secretary of State.   2.3
+ARTICLES OF INCORPORATION OF SURVIVING CORPORATION. The Articles of
+Incorporation of Merger Sub in effect immediately prior to the Effective
+Time shall be the Articles of Incorporation of the Surviving Corporation
+until amended in accordance with the OBCA, except for Article I thereof which
+shall be amended to read as follows:    -4-    "The name of the
+Corporation is EnergyConnect, Inc., and its duration shall be perpetual."  
+2.4 BYLAWS OF SURVIVING CORPORATION. The Bylaws of Merger Sub in effect
+immediately prior to the Effective Time shall be the Bylaws of the Surviving
+Corporation until amended in accordance with the OBCA.   2.5 DIRECTORS AND
+OFFICERS OF SURVIVING CORPORATION. The board of directors of the Surviving
+Corporation shall initially consist of five (5) director positions. The
+following directors are hereby elected and shall serve as the directors of
+the Surviving Corporation to hold office as provided in the Bylaws:  
+William C. McCormick  A. Mark Walter  Michael Stansell  Rodney M. Boucher 
+Gene Ameduri   The following officers shall be the officers of the
+Surviving Corporation, to hold office as provided in the Bylaws:   Gene
+Ameduri President  William C. McCormick Chairman of the Board  Rodney M.
+Boucher Chief Executive Officer  Michael Stansell Secretary   2.6 MERGER
+SUB STOCK. At and after the Effective Time, each share of Merger Sub common
+stock issued and outstanding immediately prior to the Closing Date shall
+remain an issued and outstanding share of common stock of the Surviving
+Corporation and shall not be affected by the Merger.   2.7 CONVERSION OF ECI
+STOCK. At the Effective Time, by virtue of the Merger and without any action
+on the part of Merger Sub, ECI or Microfield, each share of ECI Stock issued
+and outstanding immediately prior to the Effective Time shall be converted
+into the right to receive 141,058.27 validly issued, fully paid and
+nonassessable shares of Microfield Common Stock and 101,522.84 Microfield
+Warrants. The total number of Microfield Warrants to be issued to a given ECI
+Shareholder shall be rounded to the nearest whole share of Microfield Common
+Stock. No cash shall be paid in lieu of fractional shares. The
+ECI Shareholders will receive the following shares of Microfield Common Stock
+and Microfield Warrants:     TOTAL SHARES  OF  ECI STOCK MICROFIELD
+COMMON TOTAL ECI SHAREHOLDERS OWNED STOCK MICROFIELD
+WARRANTS ------------------------- ------------ ------------------------
+------------------------  ~~  Rodney M. Boucher 60 shares of  common stock
+8,463,496 6,091,371     -5-      ~~  Vince Cushing 40 shares of 
+common stock 5,642,331 4,060,914  Gene Ameduri 38 shares of  common stock
+5,360,214 3,857,868  Energy Fund II LLC 44 shares of  common stock
+6,206,564 4,467,005  Mark Boucher 1 share of  common stock 141,058
+101,523  Boucher Heritage Holdings 2 shares of LLC common stock 282,117
+203,046  Carey Halsted 2 shares of  common stock 282,117 203,046  Alan
+Gartner 1 share of  common stock 141,058 101,523  Wilfred A. Boucher 4
+shares of  common stock 564,233 406,091  Centerlogic, Inc. 2 shares of 
+common stock 282,117 203,046  Microfield Group, Inc. 5 shares of  common
+stock 0, see Section 2.8 below 0, see Section 2.8 below    2.8 CANCELLATION
+OF CERTAIN SHARES. Each share of ECI Common Stock held by Microfield
+immediately prior to the Effective Time will, by virtue of the Merger and
+without any action on the part of Microfield, cease to be outstanding, be
+canceled and retired without payment of any consideration therefor and cease
+to exist.   2.9 PROCEDURE FOR PAYMENT.   (a) SURRENDER OF STOCK. From and
+after the Effective Time, the holders of record of ECI Stock, upon surrender
+to Microfield or its agent designated for such purpose of any letters of
+transmittal or other documents as may be reasonably requested by Microfield
+or its agent, shall be entitled to receive one or more certificates
+representing the number of shares of Microfield Common Stock and one or more
+stock purchase warrants in the form attached as Exhibit A evidencing
+Microfield Warrants, in each case, into which such ECI Stock shall have been
+converted pursuant to the provisions of Section 2.7.   (b) NO FRACTIONAL
+SHARES. No certificates or scrip evidencing fractional shares of Microfield
+Common Stock shall be issued in the Merger, and such fractional share
+interests will not entitle the owner thereof to any rights as a shareholder
+of Microfield. The portion of the Merger Consideration to be issued to each
+holder of record of ECI Stock will be rounded to the nearest whole share.  
+(c) NO FURTHER RIGHTS IN ECI STOCK. All shares of Microfield Common Stock and
+Microfield Warrants issued upon conversion of the ECI Stock in accordance
+with the terms of this Agreement shall be deemed to have been issued (and
+paid) in full satisfaction of all rights of the holders of record of
+ECI Stock pertaining to    -6-    the ECI Stock. Following the
+Effective Time, the holders of record of ECI Stock shall cease to have any
+rights with respect to such ECI Stock except as otherwise provided in this
+Agreement or by law.   2.10 UNREGISTERED SHARES. All ECI Shareholders have
+been informed by Microfield that the Microfield Common Stock and the
+Microfield Warrants (as well as the shares of Microfield Common Stock
+underlying such warrants) conveyed hereunder as Merger Consideration have not
+been registered under the Securities Act of 1933 (the "SECURITIES ACT"). All
+ECI Shareholders have also been informed that such Microfield Common Stock
+will bear the legend set forth in Section 2.11, and that such Microfield
+Common Stock must be held for the time required by Rule 144 promulgated under
+the Securities Act ("RULE 144"), unless (a) the sale of the Microfield Common
+Stock has been registered under the Securities Act, (b) a sale of the
+Microfield Common Stock is made in conformity with the provisions of Rule
+144, or (c) in the opinion of counsel for an ECI shareholder, which opinion
+is reasonably acceptable to Microfield, some other exemption
+from registration is available with respect to any such sale, transfer or
+other disposition of such Microfield Common Stock. The Microfield Warrants
+will bear the legend set forth in the form attached as Exhibit A and will be
+subject to comparable restrictions on transfer as described above for the
+Microfield Common Stock.   2.11 STOCK CERTIFICATE LEGEND. Stock transfer
+instructions will be given to Microfield\'s transfer agent with respect to
+the Merger Consideration and there will be placed on the certificates for
+such shares, or any substitution therefor, the following legend:   "The
+securities evidenced by this certificate have not been  registered under the
+Securities Act of 1933 (the "Act") or any  applicable state law, and no
+interest therein may be sold,  distributed, assigned, offered, pledged or
+otherwise transferred  unless (a) there is an effective registration
+statement under  such Act and applicable state securities laws covering any
+such  transaction involving these securities or (b) the Company  receives an
+opinion of legal counsel for the holder of these  securities (acceptable to
+legal counsel for the Company) to the  effect that such transaction is exempt
+from registration or the  Company otherwise satisfies itself that such
+transaction is  exempt from registration."    -7-     2.12 ECI
+OPTIONS.   (a) NEW OPTIONS. At the Effective Time, by virtue of the
+Merger and without any action on the part of any holder of any ECI Option,
+each ECI Option, whether vested or unvested, exercisable or unexercisable,
+shall be deemed to constitute an option (a "New Option") to purchase, on the
+same terms and conditions as were applicable under the terms of the ECI
+Employee Stock Option Plan, a number of shares of Microfield Common Stock at
+an exercise price per share determined respectively as follows:   (i)
+Number of Shares. The number of shares of Microfield Common Stock subject to
+a New Option shall be equal to the product of (I) the number of shares of ECI
+Stock purchasable upon exercise of the ECI Option and (II) the Option
+Exchange Ratio, the product being rounded down to the nearest whole share;
+and   (ii) Exercise Price. The exercise price per share of Microfield
+Common Stock purchasable upon exercise of a New Option shall be equal to (I)
+the exercise price per share of ECI Stock under the ECI Option divided
+by (II) the Option Exchange Ratio, the quotient being rounded up to the
+nearest cent.   With respect to any such ECI Options that are "incentive
+stock options" (as defined in Section 422(b) of the Code) the foregoing
+adjustments shall be effected in a manner consistent with Section 424(a) of
+the Code and the regulations promulgated thereunder. Prior to the Effective
+Time, ECI or its Board of Directors will take all action necessary on its
+part to give effect to the provisions of this Section 2.12(a) and shall take
+such other actions reasonably requested by Microfield to give effect to the
+foregoing.   (b) RESERVATION AND REGISTRATION OF NEW OPTION SHARES. Prior
+to the Effective Time, Microfield shall take all corporate action necessary
+to reserve for future issuance a sufficient number of shares of Microfield
+Common Stock to provide for the satisfaction of its obligations, if any, with
+respect to the New Options. Prior to January 31, 2007, Microfield shall use
+its reasonable best efforts to file a registration statement on Form S-8 (or
+any successor or other appropriate form) under the Securities Act with
+respect to the Microfield Common Stock issuable upon exercise of the New
+Options and shall use its reasonable efforts to maintain the effectiveness of
+such registration statement and to comply with the disclosure requirements
+specified in Form S-8 for so long as such New Options remain outstanding.  
+(c) NOTICE TO HOLDERS. As soon as practicable after the Effective Time,
+Microfield shall deliver to the holders of ECI Options appropriate
+notices setting forth such holders\' rights pursuant to the New Options and
+that the agreements evidencing the grants of ECI Options shall continue in
+effect on the same terms and conditions (subject to the adjustments required
+by this Section 2.12 after giving effect to the Merger). The New Options
+shall be subject to the terms of the Microfield 2004 Stock Incentive Plan,
+including Section 13(d) thereof.    -8-     2.13 AGREEMENT TO VOTE IN
+FAVOR OF MERGER. For purposes of this Section 2.13 only, the following ECI
+shareholders covenant and agree to vote in favor of or consent to the Merger,
+and the transactions contemplated herein: Rodney M. Boucher, Gene Ameduri,
+and Energy Fund II, LLC.   ARTICLE 3. REPRESENTATIONS AND WARRANTIES OF
+ECI   ECI represents and warrants to Microfield and Merger Sub that, except
+as set forth in the Disclosure Schedules (whether or not in a
+correspondingly numbered section):   3.1 ORGANIZATION AND GOOD STANDING.
+ECI is a corporation duly organized and validly existing under the laws of
+the jurisdiction of its incorporation and has all requisite corporate power
+and authority to own, lease and operate its properties and to carry on its
+business as now being conducted. Except as set forth in Section 3.1 of the
+Disclosure Schedules, ECI is duly qualified or licensed and in good standing
+to do business in each jurisdiction in which the character of the property
+owned, leased or operated by it or the nature of the business conducted by it
+makes such qualification or licensing necessary, except where the failure to
+be so duly qualified or licensed and in good standing would not reasonably be
+expected to have a Material Adverse Effect on ECI. ECI has delivered to
+Microfield accurate and complete copies of its Articles of Incorporation and
+Bylaws, as currently in effect.   3.2 CAPITALIZATION. As of the Closing
+Date, the outstanding ECI Stock and the holders thereof will be as set forth
+in Section 3.2 of the Disclosure Schedules. As of the Closing Date, all
+issued and outstanding ECI Stock will be duly authorized, validly issued,
+fully paid and non-assessable. Except as disclosed in Section 3.2 of the
+Disclosure Schedules, there are no outstanding rights, subscriptions,
+warrants, puts, calls, unsatisfied preemptive rights, options or other
+agreements of any kind relating to any of the outstanding or unissued ECI
+Stock or any other security of ECI, and there is no authorized or outstanding
+security of any kind convertible into or exchangeable for any ECI Stock or
+other security. Except as disclosed in Section 3.2 of the
+Disclosure Schedules, there are no obligations, contingent or otherwise, of
+ECI to repurchase, redeem or otherwise acquire any ECI Stock or to provide
+funds to or otherwise make any investment (in the form of a loan, capital
+contribution or other similar investment) in any other entity.   3.3
+INTELLECTUAL PROPERTY. ECI has filed U.S. Application Serial No. 11/107,222
+titled "Enterprise Energy Automation" with the United States Patent and
+Trademark Office with a filing date of April 15, 2005.   3.4 CUSTOMERS.
+ECI\'s customers are as follows: (1) PJM Interconnection, L.L.P., and (2)
+Developers Diversified Realty Corporation. There have not been any changes in
+the business relationships of ECI with its aforementioned customers that
+would constitute a Material Adverse Effect on ECI, other than completion of
+contracted work in the normal course of business.    -9-     ARTICLE 4.
+REPRESENTATIONS AND WARRANTIES OF MICROFIELD AND MERGER SUB   Microfield and
+Merger Sub jointly and severally represent and warrant to ECI that, except as
+set forth in the Disclosure Schedules (whether or not in a correspondingly
+numbered section):   4.1 ORGANIZATION AND GOOD STANDING. Microfield and each
+of its Subsidiaries is a corporation duly organized and validly existing
+under the laws of the jurisdiction of its incorporation and is duly organized
+to do business in each domestic or foreign jurisdiction in which the failure
+to be so qualified is reasonably likely to have a Material Adverse Effect on
+it, and each such entity has all requisite corporate power and authority to
+own, lease and operate its properties and to carry on its business as now
+being conducted. Microfield and Merger Sub have each delivered to ECI
+accurate and complete copies of its Articles of Incorporation and Bylaws, as
+currently in effect.   4.2 CAPITALIZATION. The authorized capital stock of
+Microfield consists of (a) 125,000,000 shares of Microfield Common Stock and
+(b) 10,000,000 shares of preferred stock (the "PREFERRED SHARES"). As of
+October 3, 2005, (i) 21,150,801 shares of Microfield Common Stock were issued
+and outstanding (ii) 6,642,865 shares of Series 2 Preferred Shares were
+issued and outstanding, (iii) 3,602.709 shares of Series 3 Preferred Shares
+were issued and outstanding, (iv) 4,392.105 shares of Series 4 Preferred
+Shares were issued and outstanding, (v) 3,176,825 shares of Microfield Common
+Stock were reserved for future issuance pursuant to outstanding options to
+purchase Microfield Common Stock, (vi) 7,734,363 shares of Microfield Common
+Stock are available for issuance pursuant to the 2004 Stock Incentive Plan,
+as amended; and (vii) 5,252,372 shares of Microfield Common Stock were
+reserved for future issuance upon exercise of warrants to purchase Microfield
+Common Stock. Microfield is currently engaged in a private placement offering
+in which it will issue up to 6,428,571 shares of Microfield Common Stock and
+stock purchase warrant agreements to purchase up to 3,214,285 shares of
+Microfield Common Stock with an exercise price of $0.90 per share. No other
+capital stock or rights to acquire such capital stock of Microfield are
+authorized, issued, or outstanding. The outstanding shares of Microfield
+capital stock are, and the shares of Microfield Common Stock to be issued to
+the holders of record of ECI Stock in the Merger will be, duly authorized,
+validly issued, fully paid and nonassessable, and not subject to preemptive
+rights.   4.3 SEC REPORTS. To the Knowledge of Microfield and Merger Sub,
+except as disclosed in Section 4.3 of the Disclosure Schedules, all
+registration statements, reports and proxy statements, including amendments
+thereto, filed by Microfield with the SEC since December 31, 2002, and prior
+to the date of this Agreement, as of the date filed (A) complied in all
+material respects as to form with the applicable requirements under the
+Securities Act and the Securities Exchange Act of 1934, as the case may be,
+and the rules and regulations of the SEC promulgated thereunder, and (B) did
+not contain any untrue statement of a material fact or omit to state a
+material fact required to be stated therein or necessary to make the
+statements therein, in the light of the circumstances under which they were
+made, not misleading.    -10-     ARTICLE 5. ADDITIONAL COVENANTS OF
+ECI   ECI covenants and agrees as follows:   5.1 CONDUCT OF BUSINESS OF
+ECI.   (a) Unless Microfield shall otherwise consent in writing
+(which consent, in the case of paragraphs (iv), (v), (ix), (xi), (xii), or
+(xiii) below, shall not be unreasonably withheld, delayed or conditioned) and
+except as expressly contemplated by this Agreement or in the Disclosure
+Schedules, during the period from the date of this Agreement to the Effective
+Time, (i) ECI shall conduct its business in the ordinary course and
+consistent with past practice, and ECI shall use its reasonable best efforts
+to preserve substantially intact its business organization, to keep available
+the services of its present officers and employees and to preserve the
+present commercial relationships of ECI with Persons with whom ECI does
+significant business and (ii) without limiting the generality of the
+foregoing, ECI will not:   (i) Amend or propose to amend its Articles of
+Incorporation or Bylaws (or similar organizational documents);   (ii)
+Authorize for issuance, issue, grant, sell, pledge, dispose of or propose to
+issue, grant, sell, pledge or dispose of any equity interests in ECI, or any
+options, warrants, commitments, subscriptions or rights of any kind to
+acquire or sell any equity interests in or other securities of ECI,
+including, but not limited to, any securities convertible into
+or exchangeable for equity interests in ECI;   (iii) Split, combine or
+reclassify any of its Stock or declare, pay or set aside any dividend or
+other distribution (whether in cash, equity interests or property or any
+combination thereof) in respect of its Stock, or directly or indirectly
+redeem, purchase or otherwise acquire or offer to acquire any of its equity
+interests or other securities;   (iv) Create or incur any indebtedness for
+borrowed money, issue any debt securities or make any loans or advances, in
+each instance in excess of $25,000, except in the ordinary course of
+business;   (v) Sell, pledge, dispose of or encumber any assets of
+ECI, except in the ordinary course of business;   (vi) Authorize any
+capital expenditures or purchases of fixed assets in excess of $25,000,
+except in the ordinary course of business;   (vii) Assume, guarantee or
+endorse or otherwise as an accommodation become responsible for, the
+obligations of any Person;   (viii) Voluntarily incur any liability or
+obligation (absolute, contingent or otherwise) in excess of $25,000, except
+in the ordinary course of business.    -11-     (ix) Increase in any
+manner the compensation of any of its officers or employees or enter into,
+establish, amend or terminate any employment, consulting, retention, change
+in control, collective bargaining, bonus or other incentive compensation,
+profit sharing, health or other welfare, stock option or other equity,
+pension, retirement, vacation, severance, deferred compensation or other
+compensation or benefit plan, policy, agreement, trust, fund or arrangement
+with, for or in respect of, any shareholder, officer, director, employee,
+consultant or affiliate other than, in any such case referred to above, as
+may be required by Law or as required pursuant to the terms of agreements in
+effect on the date of this Agreement;   (x) Alter through merger,
+liquidation, reorganization, restructuring or in any other fashion the
+corporate structure or ownership of ECI;   (xi) Except as may be required
+as a result of a change in Law, change any of the accounting principles or
+practices used by it;   (xii) Make any tax election or settle or compromise
+any income tax liability;   (xiii) Pay, discharge or satisfy any material
+claims, liabilities or obligations (absolute, accrued, asserted or
+unasserted, contingent or other), other than the payment, discharge or
+satisfaction in the ordinary course of business and consistent with past
+practice of liabilities reflected or reserved against in, or contemplated by,
+the ECI Financial Statements (or the notes thereto) or incurred by ECI in the
+ordinary course of business consistent with past practice;   (xiv) Take, or
+agree in writing or otherwise to take, any of the foregoing actions or any
+action that would make any of the representations or warranties of ECI
+contained in this Agreement untrue or incorrect in any material respect at or
+prior to the Effective Time; or   (xv) Acquire (by merger, consolidation, or
+acquisition of stock or assets) any corporation, partnership or other
+business organization or division thereof.   (b) ECI shall comply with all
+Laws applicable to it or any of its properties, assets or business and
+maintain in full force and effect all Permits necessary for such business,
+except in any such case for any failure so to comply or maintain that would
+not reasonably be expected to result in a Material Adverse Effect on ECI.  
+5.2 NOTIFICATION OF CERTAIN MATTERS. ECI shall give prompt notice
+to Microfield if any of the following occur after the date of this Agreement:
+(a) receipt of any notice or other communication in writing from any party
+alleging that the Consent of such party is or may be required in connection
+with the transactions contemplated by this Agreement; (b) receipt of any
+notice or other communication from any Governmental Authority in connection
+with the transactions contemplated by this Agreement; (c) the occurrence of
+an event that would be reasonably likely (i) to have a Material Adverse
+Effect on ECI or (ii) to cause any condition set forth in Section 8.1 or 8.2
+to be    -12-    unsatisfied; or (d) the commencement or, to the
+Knowledge of ECI, threat of any Litigation involving or affecting ECI, any of
+its respective properties or assets, or any employee, agent, director,
+officer or shareholder, in his or her capacity as such, of ECI which, if
+pending on the date hereof, would have been required to have been disclosed
+pursuant to this Agreement or which relates to the completion of the
+Merger.   5.3 ACCESS AND INFORMATION. Between the date of this Agreement and
+the Effective Time, and without intending by this Section 5.3 to limit any of
+the other obligations of the parties under this Agreement, ECI will give, and
+shall direct its accountants and legal counsel to give, Microfield and its
+authorized representatives (including, without limitation, its financial
+advisors, accountants and legal counsel), at reasonable times and without
+undue disruption to or interference with the normal conduct of the business
+and affairs of ECI, access as reasonably required in connection with the
+transactions provided for in this Agreement to all offices and other
+facilities and to all contracts, agreements, commitments, books and records
+of or pertaining to ECI and will furnish Microfield with such financial and
+operating data and other information with respect to the business and
+properties of ECI as Microfield may from time to time reasonably request in
+connection with such transactions.   5.4 SHAREHOLDER APPROVAL. As soon as
+practicable, ECI will take all steps necessary to duly call, give notice of,
+convene and hold a special meeting of Shareholders for the purpose of voting
+upon the Merger, this Agreement and the transactions contemplated hereby, or
+to obtain the unanimous written consent of the holders of record of ECI Stock
+approving this Agreement and the transactions contemplated hereby, in
+accordance with the requirements of the NGCL and ECI\'s Articles of
+Incorporation and Bylaws.   5.5 REASONABLE BEST EFFORTS. Subject to the
+terms and conditions herein provided, ECI agrees to use reasonable best
+efforts to take, or cause to be taken, all actions and to do, or cause to be
+done, all things necessary, proper or advisable to complete and make
+effective as promptly as practicable the transactions contemplated by this
+Agreement, including, but not limited to, obtaining all Consents from
+Governmental Authorities and other parties required for the completion of the
+Merger and the transactions contemplated thereby applicable to ECI, including
+without limitation all Consents required under any Material Contract. Upon
+the terms and subject to the conditions hereof, ECI agrees to use reasonable
+best efforts to take, or cause to be taken, all actions and to do, or cause
+to be done, all things necessary to satisfy the other conditions of the
+Closing set forth herein for which ECI is responsible.   5.6 PUBLIC
+ANNOUNCEMENTS. So long as this Agreement is in effect, ECI shall not, and
+shall use reasonable best efforts to cause its affiliates not to, issue or
+cause the publication of any press release or any other announcement with
+respect to the Merger or the transactions contemplated hereby without
+the consent of Microfield, except where such release or announcement is
+required by applicable Law, in which case ECI, prior to making such
+announcement, will consult with Microfield regarding the same.   
+-13-     5.7 COMPLIANCE. In completing the transactions contemplated
+hereby, ECI shall comply, in all material respects, with all applicable
+Laws.   ARTICLE 6. ADDITIONAL COVENANTS OF MICROFIELD AND MERGER SUB  
+Microfield and Merger Sub covenant and agree as follows:   6.1 CONDUCT OF
+BUSINESS OF MICROFIELD.   (a) Unless ECI shall otherwise consent in writing
+(which consent, in the case of paragraphs (ii), (iii), (iv), (v), (ix), (x),
+(xii), or (xiii) below, shall not be unreasonably withheld, delayed or
+conditioned) and except as expressly contemplated by this Agreement or in the
+Disclosure Schedules, during the period from the date of this Agreement to
+the Effective Time, (i) Microfield shall conduct its business in the ordinary
+course and consistent with past practice, and Microfield shall use its
+reasonable best efforts to preserve substantially intact its business
+organization, to keep available the services of its present officers and
+employees and to preserve the present commercial relationships of Microfield
+with Persons with whom Microfield does significant business and (ii) without
+limiting the generality of the foregoing, Microfield will not:   (i) Amend
+or propose to amend its Articles of Incorporation or Bylaws (or similar
+organizational documents);   (ii) Authorize for issuance, issue, grant,
+sell, pledge, dispose of or propose to issue, grant, sell, pledge or dispose
+of any equity interests in Microfield, or any options, warrants, commitments,
+subscriptions or rights of any kind to acquire or sell any equity interests
+in or other securities of Microfield, including, but not limited to, any
+securities convertible into or exchangeable for equity interests in
+Microfield;   (iii) Split, combine or reclassify any of its Stock
+or declare, pay or set aside any dividend or other distribution (whether in
+cash, equity interests or property or any combination thereof) in respect of
+its Stock, or directly or indirectly redeem, purchase or otherwise acquire or
+offer to acquire any of its equity interests or other securities;   (iv)
+Create or incur any indebtedness for borrowed money, issue any debt
+securities or make any loans or advances, in each instance in excess of
+$25,000, except in the ordinary course of business;   (v) Sell, pledge,
+dispose of or encumber any assets of Microfield, except in the ordinary
+course of business;   (vi) Authorize any capital expenditures or purchases
+of fixed assets in excess of $50,000, except in the ordinary course of
+business;   (vii) Assume, guarantee or endorse or otherwise as
+an accommodation become responsible for, the obligations of any Person;   
+-14-     (viii) Voluntarily incur any liability or obligation (absolute,
+contingent or otherwise) in excess of $50,000, except in the ordinary course
+of business;   (ix) Increase in any manner the compensation of any of
+its officers or employees or enter into, establish, amend or terminate
+any employment, consulting, retention, change in control, collective
+bargaining, bonus or other incentive compensation, profit sharing, health or
+other welfare, stock option or other equity, pension, retirement, vacation,
+severance, deferred compensation or other compensation or benefit plan,
+policy, agreement, trust, fund or arrangement with, for or in respect of, any
+shareholder, officer, director, employee, consultant or affiliate other than,
+in any such case referred to above, as may be required by Law or as required
+pursuant to the terms of agreements in effect on the date of this
+Agreement;   (x) Alter through merger, liquidation,
+reorganization, restructuring or in any other fashion the corporate structure
+or ownership of Microfield or its Subsidiaries;   (xi) Except as may be
+required as a result of a change in Law, change any of the accounting
+principles or practices used by it;   (xii) Make any tax election or settle
+or compromise any income tax liability;   (xiii) Pay, discharge or satisfy
+any material claims, liabilities or obligations (absolute, accrued, asserted
+or unasserted, contingent or other), other than the payment, discharge or
+satisfaction in the ordinary course of business and consistent with past
+practice of liabilities reflected or reserved against in, or contemplated by,
+the Microfield Financial Statements (or the notes thereto) or incurred by
+Microfield in the ordinary course of business consistent with past
+practice;   (xiv) Take, or agree in writing or otherwise to take, any
+of the foregoing actions or any action that would make any of the
+representations or warranties of Microfield or Merger Sub contained in this
+Agreement untrue or incorrect in any material respect at or prior to the
+Effective Time; or   (xv) Acquire (by merger, consolidation, or acquisition
+of stock or assets) any corporation, partnership or other business
+organization or division thereof.   (b) Microfield and its Subsidiaries
+shall comply with all Laws applicable to them or any of their properties,
+assets or business and maintain in full force and effect all Permits
+necessary for such business, except in any such case for any failure so to
+comply or maintain that would not reasonably be expected to result in a
+Material Adverse Effect on Microfield.   6.2 NOTIFICATION OF CERTAIN
+MATTERS. Microfield shall give prompt notice to ECI if any of the following
+occur after the date of this Agreement: (a) receipt of any notice or other
+communication in writing from any party alleging that the Consent of   
+-15-    such party is or may be required in connection with the
+transactions contemplated by this Agreement; (b) receipt of any notice or
+other communication from any Governmental Authority in connection with the
+transactions contemplated by this Agreement; (c) the occurrence of an event
+that would be reasonably likely (i) to have a Material Adverse Effect on
+Microfield or (ii) to cause any condition set forth in Section 8.1 or 8.3 to
+be unsatisfied; or (d) the commencement or, to Microfield\'s Knowledge,
+threat of any Litigation involving or affecting Microfield, or any of its
+respective properties or assets or any employee, agent, director or officer,
+in his or her capacity as such, of Microfield which, if pending on the date
+hereof, would have been required to have been disclosed pursuant to this
+Agreement or which relates to the completion of the Merger.   6.3 ACCESS
+AND INFORMATION. Between the date of this Agreement and the Effective Time,
+and without intending by this Section 6.3 to limit any of the other
+obligations of the parties under this Agreement, Microfield will give,
+and shall direct its accountants and legal counsel to give, ECI and the
+ECI Shareholders and their authorized representatives (including,
+without limitation, its financial advisors, accountants and legal counsel),
+at reasonable times and without undue disruption to or interference with the
+normal conduct of the business and affairs of Microfield, access as
+reasonably required in connection with the transactions provided for in this
+Agreement to all offices and other facilities and to all contracts,
+agreements, commitments, books and records of or pertaining to Microfield and
+will furnish ECI and the ECI Shareholders with such financial and operating
+data and other information with respect to the business and properties of
+Microfield as ECI or the ECI Shareholders may from time to time reasonably
+request in connection with such transactions.   6.4 REASONABLE BEST
+EFFORTS. Subject to the terms and conditions herein provided, Microfield and
+Merger Sub agree to use reasonable best efforts to take, or cause to be
+taken, all actions and to do, or cause to be done, all things necessary,
+proper or advisable to complete and make effective as promptly as practicable
+the transactions contemplated by this Agreement, including, but not limited
+to, obtaining all Consents from Governmental Authorities and other third
+parties required for the completion of the Merger and the
+transactions contemplated by this Agreement. Upon the terms and subject to
+the conditions hereof, Microfield and Merger Sub agree to use reasonable best
+efforts to take, or cause to be taken, all actions and to do, or cause to be
+done, all things necessary to satisfy the other conditions of the Closing set
+forth herein.   6.5 PUBLIC ANNOUNCEMENTS. So long as this Agreement is in
+effect, Microfield and Merger Sub shall not, and shall use reasonable best
+efforts to cause their affiliates not to, issue or cause the publication of
+any press release or any other announcement with respect to the Merger or the
+transactions contemplated by this Agreement without the consent of ECI (such
+consent not to be unreasonably withheld or delayed), except where such
+release or announcement is required by applicable Law, in which case
+Microfield, prior to making such announcement, will consult with ECI
+regarding the same.    -16-     6.6 COMPLIANCE. In completing the
+transactions contemplated by this Agreement, Microfield and Merger Sub shall
+comply, and cause their Subsidiaries to comply or to be in compliance, in all
+material respects, with all applicable Laws.   ARTICLE 7. SURVIVAL All
+representations and warranties contained in this Agreement or in any exhibit,
+schedule, certificate or agreement delivered in accordance with this
+Agreement (collectively, the "RELATED DOCUMENTS"), will survive any
+investigation by or on behalf of any party, the execution and delivery of
+this Agreement, and the consummation of the transactions contemplated hereby
+for a period ending on the Closing Date, after which such representations and
+warranties shall expire and be of no further force and effect except with
+respect to breaches asserted in writing prior to such expiration date. All
+other covenants and agreements of the parties to this Agreement shall survive
+the Closing Date until fully performed.   ARTICLE 8. CONDITIONS
+PRECEDENT   8.1 MERGER CONDITIONS. The respective obligations of each party
+to effect the Merger shall be subject to the fulfillment or waiver at or
+prior to the Effective Time of the following conditions:   (a) ECI
+SHAREHOLDER APPROVAL. The Merger, this Agreement and the transactions
+contemplated by this Agreement shall have been approved at or prior to the
+Effective Time by the required vote or written consent of the
+ECI shareholders in accordance with the NGCL and the Articles and Bylaws of
+ECI, and no ECI shareholder shall have properly and timely exercised
+dissenters\' rights under the NGCL.   (b) NO INJUNCTION OR ACTION. No
+order, statute, rule, regulation, executive order, stay, decree, judgment or
+injunction shall have been enacted, entered, promulgated or enforced by any
+court or other Governmental Authority that prohibits or prevents the
+completion of the Merger which has not been vacated, dismissed or withdrawn
+prior to the Effective Time. ECI and Microfield shall use all reasonable best
+efforts to have any of the foregoing vacated, dismissed or withdrawn by the
+Effective Time.   8.2 CONDITIONS PRECEDENT TO THE OBLIGATIONS OF MICROFIELD
+AND MERGER SUB. The obligations of Microfield and Merger Sub to be performed
+on the Closing Date shall be subject to the satisfaction prior to or at the
+Closing of the following express conditions precedent:   (a) COMPLIANCE
+WITH AGREEMENT. ECI shall have performed and complied in all respects with
+all of its obligations under this Agreement that are to be performed or
+complied with by it prior to or on the Closing Date, except where the failure
+to perform or comply, individually or in the aggregate, would not or would
+not be reasonably likely to result in a Material Adverse Effect.   (b)
+REPRESENTATIONS AND WARRANTIES OF ECI. The representations and warranties
+made by ECI in this Agreement shall be true and correct in all respects when
+made and as of the Closing Date with the same force and effect as though made
+on    -17-    the Closing Date, except where the effect of any breaches
+of the representations and warranties of ECI made in this Agreement,
+individually or in the aggregate, would not be reasonably likely to result in
+a Material Adverse Effect.   (c) NO MATERIAL ADVERSE EFFECT. During the
+period from the date of this Agreement to the Closing Date there shall not
+have occurred, and be continuing on the Closing Date, any Material Adverse
+Effect on ECI.   (d) CONFIDENTIALITY AND NONSOLICITATION AGREEMENTS. Rodney
+M. Boucher and Gene Ameduri shall each have executed a Confidentiality
+and Nonsolicitation Agreement in the form attached as Exhibit B.   (e)
+CLOSING CERTIFICATES. ECI shall have delivered to Microfield (a) a
+certificate signed on behalf of ECI by the Chief Executive Officer of
+ECI, dated on the Closing Date, to the effect that, to such person\'s
+Knowledge, the conditions set forth in Sections 8.2 (a), (b), (c), and (d)
+have been satisfied; and (b) a secretary\'s certificate as to such ECI
+corporate matters in connection with the Merger as Microfield may reasonably
+request.   (f) FINANCIAL STATEMENTS. ECI shall have delivered to
+Microfield the audited financial statements as of and for the years ended
+December 31, 2003 and 2004, and unaudited financial statements as of and for
+the eight months ended August 31, 2005.   8.3 CONDITIONS PRECEDENT TO THE
+OBLIGATIONS OF ECI. The obligations of ECI to be performed on the Closing
+Date shall be subject to the satisfaction prior to or at the Closing of the
+following express conditions precedent:   (a) COMPLIANCE WITH AGREEMENT.
+Microfield and Merger Sub shall have performed and complied in all respects
+with all of their obligations under this Agreement which are to be performed
+or complied with by them prior to or on the Closing Date, except where the
+failure to perform or comply, individually or in the aggregate, would not or
+would not be reasonably likely to result in a Material Adverse Effect with
+respect to Microfield.   (b) REPRESENTATIONS AND WARRANTIES OF MICROFIELD
+AND MERGER SUB. The representations and warranties made by Microfield and
+Merger Sub in this Agreement shall be true and correct in all respects when
+made and as of the Closing Date with the same force and effect as though such
+representations and warranties had been made on the Closing Date, except
+where the effect of any breaches of the representations and warranties of
+Microfield and/or Merger Sub made in this Agreement, individually or in the
+aggregate, would not or would not be reasonably likely to result in a
+Material Adverse Effect.   (c) APPOINTMENT OF OFFICERS. The board of
+directors of Merger Sub shall have appointed the officers of the Surviving
+Corporation as set forth in Section 2.5 above, effective immediately after
+the Effective Time.    -18-     (d) MICROFIELD DIRECTORS AND OFFICERS.
+Rodney M. Boucher and Gene Ameduri shall have been appointed as directors of
+Microfield and Rodney M. Boucher shall have been appointed as Chief Executive
+Officer, in each case effective immediately after the Effective Time. Robert
+Jesenik and Steven Wright shall have submitted their written resignations as
+directors of Microfield, effective immediately after the Effective Time.  
+(e) NO MATERIAL ADVERSE EFFECT. During the period from the date of this
+Agreement to the Closing Date, there shall not have occurred, and
+be continuing on the Closing Date, any Material Adverse Effect on
+Microfield.   (f) CONSENTS. Microfield shall have obtained or timely filed
+all required Consents under all applicable state securities laws or Blue Sky
+laws necessary to issue the Merger Consideration.   (g) FINANCIAL
+STATEMENTS OF CHRISTENSON ELECTRIC, INC. Microfield shall have filed audited
+and pro forma financial statements of Christenson Electric, Inc., with the
+SEC in compliance with the requirements of Form 8-K.   (h) CLOSING
+CERTIFICATES. Microfield shall have delivered to ECI (i) a certificate signed
+on behalf of Microfield by the Chairman of the Board of Microfield, dated the
+Closing Date, to the effect that, to such officer\'s knowledge, the
+conditions set forth in Sections 8.3(a), (b), (c), (d), (e), (f), and (g) of
+this Agreement have been satisfied; and (ii) secretary\'s certificates of
+Microfield and Merger Sub as to such corporate matters in connection with
+the Merger as ECI may reasonably request.   ARTICLE 9. TERMINATION AND
+ABANDONMENT   9.1 TERMINATION. This Agreement may be terminated at any time
+prior to the Effective Time, whether before or after approval of the ECI
+shareholders described herein:   (a) By mutual written consent of
+Microfield and ECI;   (b) By either Microfield or ECI if (i) any
+Governmental Authority shall have issued an order, decree or ruling or taken
+any other action permanently enjoining, restraining or otherwise prohibiting
+the completion of the transactions contemplated by this Agreement and such
+order, decree or ruling or other action shall have become final and
+nonappealable, or (ii) the ECI Shareholders do not approve the Merger;  
+(c) By Microfield if:   (i) ECI shall have breached or failed to perform in
+any material respect any of its representations, warranties, covenants or
+other agreements contained in this Agreement, which breach or failure to
+perform is incapable of being cured or has not been cured within five (5)
+days after the giving of written notice thereof to ECI;    -19-    
+(ii) Any representation or warranty of ECI shall not have been true and
+correct when made (without for this purpose giving effect to qualifications
+of materiality contained in such representation and warranty), if such
+failure to be true and correct, individually or in the aggregate,
+would reasonably be expected to have a Material Adverse Effect;   (iii) Any
+representation or warranty of ECI shall cease to be true and correct as of
+the Closing Date (without for this purpose giving effect to qualifications of
+materiality contained in such representation and warranty) as if made on such
+date (other than representations and warranties made as of a specified date)
+other than as a result of a breach or failure to perform by Microfield of any
+of its covenants or agreements under this Agreement if such failure to be
+true and correct, individually or in the aggregate, would reasonably be
+expected to have a Material Adverse Effect; provided, however, that such
+representation or warranty is incapable of being cured or has not been cured
+within five (5) days after the giving of written notice thereof to ECI;  
+(iv) Since the date of this Agreement, ECI shall have suffered a Material
+Adverse Change.   (d) By ECI if:   (i) Microfield or Merger Sub shall have
+breached or failed to perform in any material respect any of its
+representations, warranties, covenants or other agreements contained in this
+Agreement, which breach or failure to perform is incapable of being cured or
+has not been cured within five (5) days after the giving of written notice
+thereof to Microfield;   (ii) Any representation or warranty of Microfield
+or Merger Sub shall not have been true and correct when made (without for
+this purpose giving effect to qualifications of materiality contained in such
+representation and warranty), if such failure to be true and correct,
+individually or in the aggregate, would reasonably be expected to have a
+Material Adverse Effect;   (iii) Any representation or warranty of
+Microfield or Merger Sub shall cease to be true and correct as of the Closing
+Date (without for this purpose giving effect to qualifications of materiality
+contained in such representation and warranty) as if made on such date (other
+than representations and warranties made as of a specified date) other than
+as a result of a breach or failure to perform by ECI of any of its covenants
+or agreements under this Agreement if such failure to be true and correct,
+individually or in the aggregate, would reasonably be expected to have a
+Material Adverse Effect; provided, however, that such representation or
+warranty is incapable of being cured or has not been cured within five (5)
+days after the giving of written notice thereof to Microfield or Merger
+Sub;   (iv) Since the date of this Agreement, Microfield shall
+have suffered a Material Adverse Change.    -20-     (e) By either
+Microfield or ECI if the Merger is not completed on or before December 31,
+2005, provided that the right to terminate this Agreement pursuant to this
+Section 9.1(e) shall not be available to any party where failure to perform
+any of its obligations under this Agreement results in the failure of the
+Merger to be completed by such time.   The party desiring to terminate this
+Agreement pursuant to the preceding paragraphs shall give written notice of
+such termination to the other party in accordance with Section 10.5
+hereof.   9.2 EFFECT OF TERMINATION AND ABANDONMENT. In the event of
+termination of this Agreement and the abandonment of the Merger pursuant to
+this Article 9, this Agreement (other than Sections 9.2, 10.1, 10.2, 10.4,
+10.5, 10.6, 10.7, 10.8, 10.9, 10.10, 10.11, 10.12, 10.14, and 10.15) shall
+become void and of no effect with no liability on the part of any party
+hereto (or of any of its directors, officers, members, employees, agents,
+legal or financial advisors or other representatives). If this Agreement is
+terminated as provided herein, each party shall use all reasonable best
+efforts to redeliver all documents, work papers and other material (including
+any copies thereof) of any other party relating to the transactions
+contemplated hereby, whether obtained before or after the execution hereof,
+to the party furnishing the same.   ARTICLE 10. MISCELLANEOUS.   10.1 DUE
+DILIGENCE. Each party to this Agreement hereby represents and acknowledges
+that it was provided all requested due diligence materials and was given open
+access to the records of the applicable business entity and has entered into
+this Agreement on the basis of its own examination, personal knowledge, and
+opinion as to the value of the respective business entities. Each party
+further represents and acknowledges that it has not relied on
+any representations made by another party to this Agreement other than
+those specified in this Agreement.   10.2 CONFIDENTIALITY.   (a) Unless
+(i) otherwise expressly provided in this Agreement, (ii) required by
+applicable Law, (iii) necessary to secure any required Consents as to which
+the other party has been advised or (iv) consented to in writing
+by Microfield and ECI, all information (whether oral or written) and
+documents furnished in connection herewith together with analyses,
+compilations, studies or other documents prepared by such party which contain
+or otherwise reflect such information shall be kept strictly confidential by
+Microfield, ECI, Merger Sub and their respective officers, directors,
+employees, agents, and the ECI Shareholders. Prior to any disclosure
+permitted pursuant to the preceding sentence, the party intending to make
+such disclosure shall consult with the other party regarding the nature and
+extent of the disclosure. Nothing contained herein shall preclude disclosures
+to the extent necessary to comply with obligations imposed by applicable
+Law.    -21-     (b) In the event the transactions contemplated by this
+Agreement are not completed, each party shall return to the other any
+documents furnished by the other and all copies thereof that any of them may
+have made and will hold in confidence any information obtained from the other
+party except to the extent (i) such party is required to disclose such
+information by Law or such disclosure is necessary or desirable in connection
+with the pursuit or defense of a claim, (ii) such information was known by
+such party prior to such disclosure (and provided that, except with respect
+to information referred to in the following clause (iii), such party shall
+have advised the other party of such knowledge upon or promptly after its
+receipt of such information) or was thereafter developed or obtained by such
+party independent of such disclosure, or (iii) such information is or becomes
+generally available to the public other than by breach of this Article 10
+(or, to such party\'s Knowledge, breach of a confidentiality agreement with
+the other party). Prior to any disclosure of information pursuant to the
+exception in clause (i) of the preceding sentence, the party intending to
+disclose the same shall so notify the party which provided the same in order
+that such party may seek a protective order or other appropriate remedy
+should it choose to do so.   10.3 AMENDMENT AND MODIFICATION. This Agreement
+may be amended, modified or supplemented only by a written agreement among
+ECI, Microfield and Merger Sub.   10.4 WAIVER OF COMPLIANCE; CONSENTS. Any
+failure of ECI on the one hand, or Microfield and Merger Sub on the other
+hand, to comply with any obligation, covenant, agreement or condition herein
+may be waived by Microfield (or Merger Sub, as the case may be) on the one
+hand, or ECI on the other hand, only by a written instrument signed by the
+party granting such waiver, but such waiver or failure to insist upon strict
+compliance with such obligation, covenant, agreement or condition shall not
+operate as a waiver of, or estoppel with respect to, any subsequent or other
+failure. Whenever this Agreement requires or permits consent by or on behalf
+of any party hereto, such consent shall be given in writing in a manner
+consistent with the requirements for a waiver of compliance as set forth in
+this Section 10.4.   10.5 NOTICES. All notices and other communications
+hereunder shall be in writing and shall be deemed to have been duly given
+when delivered in person, or on the next business day when sent by overnight
+courier or on the second succeeding business day when sent by registered or
+certified mail (postage prepaid, return receipt requested) to the respective
+parties at the following addresses (or at such other address for a party as
+shall be specified by like notice):   (a) IF TO ECI, TO:   5487 Vicenza
+Way  San Jose, California 95138  Attn: Rodney M. Boucher  Tel: (408)
+532-7454    -22-     WITH A COPY TO:   Miller Nash LLP  111 SW Fifth
+Avenue, Suite 3400  Portland, OR 97204  Attn: Frank Cable  Tel: (503)
+205-2508   (b) IF TO MICROFIELD OR MERGER SUB, TO:   Microfield Group,
+Inc.  1631 NW Thurman Street, Ste. 200  Portland, OR 97209  Attn:
+President  Tel: (503) 419-3600   WITH A COPY TO:   Dunn Carney Allen
+Higgins and Tongue LLP  851 SW 6th Avenue, Ste. 1500  Portland, OR 97204 
+Attn: Jonathan A. Bennett  Tel: (503) 224-6440   10.6 BINDING EFFECT;
+ASSIGNMENT. This Agreement and all of the provisions hereof shall be binding
+upon and inure to the benefit of the parties hereto and their respective
+successors and permitted assigns. Neither this Agreement nor any of the
+rights, interests or obligations hereunder shall be assigned by any of the
+parties hereto prior to the Effective Time without the prior written consent
+of ECI, in the case of a proposed assignment by Microfield or Merger Sub, or
+by Microfield, in the case of a proposed assignment by ECI.   10.7 FEES AND
+EXPENSES. All costs and expenses incurred in connection with this Agreement
+and the transactions contemplated hereby shall be paid by the party incurring
+such costs or expenses.   10.8 GOVERNING LAW. This Agreement shall be deemed
+to be made in, and in all respects shall be interpreted, construed and
+governed by and in accordance with the laws of, the state of Oregon. Each
+party consents to jurisdiction and venue in Multnomah County, Oregon.  
+10.9 COUNTERPARTS. This Agreement may be executed in one or
+more counterparts, each of which shall be deemed an original, but all of
+which together shall constitute one and the same instrument.   
+-23-     10.10 INTERPRETATION. The article and section headings contained
+in this Agreement are solely for the purpose of reference, are not part of
+the agreement of the parties and shall not in any way affect the meaning
+or interpretation of this Agreement.   10.11 ENTIRE AGREEMENT. This
+Agreement and the documents or instruments referred to herein including, but
+not limited to, the attached Exhibits and Disclosure Schedules, which
+Exhibits and Disclosure Schedules are incorporated herein by reference,
+embody the entire agreement and understanding of the parties hereto in
+respect of the subject matter contained herein. There are no restrictions,
+promises, representations, warranties, covenants, or undertakings other than
+those expressly set forth or referred to herein. This Agreement supersedes
+all prior agreements and understandings among the parties with respect to
+such subject matter.   10.12 SEVERABILITY. In case any provision in this
+Agreement shall be held invalid, illegal or unenforceable in a jurisdiction,
+such provision shall be modified or deleted, as to the jurisdiction involved,
+only to the extent necessary to render the same valid, legal and enforceable,
+and the validity, legality and enforceability of the remaining provisions
+hereof shall not in any way be affected or impaired thereby nor shall the
+validity, legality or enforceability of such provision be affected thereby in
+any other jurisdiction.   10.13 SPECIFIC PERFORMANCE. The parties hereto
+agree that irreparable damage would occur in the event that any of the
+provisions of this Agreement were not performed in accordance with their
+specific terms or were otherwise breached. Accordingly, the parties further
+agree that each party shall be entitled to an injunction or restraining order
+to prevent breaches of this Agreement and to enforce specifically the terms
+and provisions hereof in any court of the United States or any state having
+jurisdiction, this being in addition to any other right or remedy to which
+such party may be entitled under this Agreement, at law or in equity.  
+10.14 THIRD PARTIES. Nothing contained in this Agreement or in any instrument
+or document executed by any party in connection with the
+transactions contemplated hereby shall create any rights in, or be deemed to
+have been executed for the benefit of, any Person that is not a party hereto
+or thereto or a successor or permitted assign of such a party.   10.15
+DISCLOSURE SCHEDULES. Both Microfield and ECI acknowledge that the Disclosure
+Schedules (a) relate to certain matters concerning the disclosures required
+and transactions contemplated by this Agreement, (b) are qualified in their
+entirety by reference to specific provisions of this Agreement, and (c) are
+not intended to constitute and shall not be construed as indicating that any
+such matter is required to be disclosed, nor should such disclosure be
+construed as an admission that such information is material with respect to
+ECI or Microfield, as the case may be, except to the extent required by this
+Agreement.   [SIGNATURES ON FOLLOWING PAGE]    -24-     IN WITNESS
+WHEREOF, the parties have caused this Agreement to be executed as of the date
+first above written.  ENERGYCONNECT, INC. MICROFIELD GROUP, INC. a Nevada
+corporation an Oregon corporation   By: /s/ Rodney M. Boucher By: /s/ A.
+Mark Walter  ---------------------------------
+------------------------------------  Rodney M. Boucher, Chairman, A. Mark
+Walter, President  CEO and President   ECI ACQUISITION CO.  an Oregon
+corporation    By: /s/ A. Mark Walter 
+------------------------------------  A. Mark Walter, President  FOR
+PURPOSES OF SECTION 2.13 ONLY:  ENERGY FUND II, LLC By: Aequitas Capital
+Management, Inc., its Manager   By: /s/ Robert J. Jesenik /s/ Rodney M.
+Boucher  ---------------------------------
+------------------------------------  Robert J. Jesenik, CEO Rodney M.
+Boucher   /s/ Gene Ameduri  ---------------------------------  Gene
+Ameduri    -25-     EXHIBIT A   FORM OF STOCK PURCHASE WARRANT  
+[See attached]    -1-     EXHIBIT B   FORM OF CONFIDENTIALITY AND
+NONSOLICITATION AGREEMENT     LIST OF SCHEDULES  SCHEDULE: CONTAINS: 
+3.1 Good Standing of ECI  3.2 ECI capitalization  4.3 Microfield SEC
+reports    ~~  ARTICLE 1.
+DEFINITIONS.................................................. 1  ARTICLE 2.
+THE MERGER................................................... 4  2.1 The
+Merger...................................................... 4  2.2 Effective
+Time.................................................. 4  2.3 Articles of
+Incorporation of Surviving Corporation.............. 4  2.4 Bylaws of
+Surviving Corporation................................. 5  2.5 Directors and
+Officers of Surviving Corporation................. 5  2.6 Merger Sub
+Stock................................................ 5  2.7 Conversion of
+ECI Stock......................................... 5  2.9 Procedure for
+Payment........................................... 6  2.10 Unregistered
+Shares............................................. 6  2.11 Stock Certificate
+Legend........................................ 7  2.12 ECI
+Options..................................................... 7  2.13
+Agreement to Vote in Favor of Merger........................... 8  ARTICLE
+3. REPRESENTATIONS AND WARRANTIES OF ECI........................ 8  3.1
+Organization and Good Standing.................................. 8  3.2
+Capitalization.................................................. 8  3.3
+Intellectual Property........................................... 9  3.4
+Customers....................................................... 9  ARTICLE
+4. REPRESENTATIONS AND WARRANTIES OF MICROFIELD AND MERGER SUB.. 9  4.1
+Organization and Good Standing.................................. 9  4.2
+Capitalization.................................................. 9  4.3 SEC
+Reports..................................................... 9  ARTICLE 5.
+ADDITIONAL COVENANTS OF ECI.................................. 10     
+TABLE OF CONTENTS  (CONTINUED)     PAGE  ----  ~~   5.1 Conduct of
+Business of ECI...................................... 10  5.2 Notification of
+Certain Matters................................. 11  5.3 Access and
+Information.......................................... 12  5.4 Shareholder
+Approval............................................ 12  5.5 Reasonable Best
+Efforts......................................... 12  5.6 Public
+Announcements............................................ 12  5.7
+Compliance...................................................... 13  ARTICLE
+6. ADDITIONAL COVENANTS OF MICROFIELD AND MERGER SUB............ 13  6.1
+Conduct of Business of Microfield............................... 13  6.2
+Notification of Certain Matters................................. 15  6.3
+Access and Information.......................................... 15  6.4
+Reasonable Best Efforts......................................... 15  6.5
+Public Announcements............................................ 15  6.6
+Compliance...................................................... 16  ARTICLE
+7. SURVIVAL..................................................... 16  ARTICLE
+8. CONDITIONS PRECEDENT......................................... 16  8.1
+Merger Conditions............................................... 16  8.2
+Conditions Precedent to the Obligations of Microfield and Merger 
+Sub.......................................................... 16  8.3
+Conditions Precedent to the Obligations of ECI.................. 17  ARTICLE
+9. TERMINATION AND ABANDONMENT.................................. 18  9.1
+Termination..................................................... 18  9.2
+Effect of Termination and Abandonment........................... 20  ARTICLE
+10. MISCELLANEOUS................................................ 20  10.2
+Confidentiality................................................. 20  10.3
+Amendment and Modification...................................... 21  10.4
+Waiver of Compliance; Consents.................................. 21  10.5
+Notices......................................................... 21  10.6
+Binding Effect; Assignment...................................... 22  10.7
+Fees and Expenses............................................... 22  10.8
+Governing Law................................................... 22    
+-2-     TABLE OF CONTENTS  (CONTINUED)     PAGE  ----  ~~   10.9
+Counterparts.................................................... 23  10.10
+Interpretation.................................................. 23  10.11
+Entire Agreement................................................ 23  10.12
+Severability.................................................... 23  10.13
+Specific Performance............................................ 23  10.14
+Third Parties................................................... 23  10.15
+Disclosure Schedules............................................ 23    
+-3-   '
+
