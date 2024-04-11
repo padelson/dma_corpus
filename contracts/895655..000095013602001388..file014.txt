@@ -1,0 +1,2037 @@
+<DOCUMENT>
+<TYPE>EX-10.12
+<SEQUENCE>15
+<FILENAME>file014.txt
+<DESCRIPTION>PURCHASE AGREEMENT
+<TEXT>
+<PAGE>
+
+                                                                  EXECUTION COPY
+
+
+
+
+                              Alltrista Corporation
+
+
+                           The guarantors party hereto
+
+
+
+                                  $150,000,000
+
+                    9 3/4% Senior Subordinated Notes due 2012
+
+
+
+                               Purchase Agreement
+
+                              dated April 10, 2002
+
+
+
+
+
+
+
+
+
+
+
+                         Banc of America Securities LLC
+
+                            CIBC World Markets Corp.
+
+                            NatCity Investments, Inc.
+
+
+<PAGE>
+
+
+                                Table of Contents
+
+<TABLE>
+<CAPTION>
+
+        <S>                                                                                            <C>
+SECTION 1.        Representations and Warranties.........................................................3
+   (a)   No Registration Required........................................................................3
+   (b)   No Integration of Offerings or General Solicitation.............................................3
+   (c)   Eligibility for Resale under Rule 144A..........................................................3
+   (d)   The Offering Memorandum.........................................................................3
+   (e)   The Purchase Agreement..........................................................................4
+   (f)   The Registration Rights Agreement and DTC Agreement.............................................4
+   (g)   Authorization of the Credit Agreement...........................................................4
+   (h)   Authorization of the Seller Notes...............................................................4
+   (i)   Authorization of the Acquisition................................................................5
+   (j)   Acquisition Agreement...........................................................................5
+   (k)   Authorization of the Securities and the Exchange Securities.....................................5
+   (l)   Authorization of the Indenture..................................................................5
+   (m)     Description of the Securities and the Indenture...............................................6
+   (n)     No Material Adverse Change....................................................................6
+   (o)   Independent Accountants.........................................................................6
+   (p)   Preparation of the Financial Statements.........................................................6
+   (q)   Incorporation and Good Standing of the Company, the Guarantors and their Respective Subsidiaries7
+   (r)   Capitalization..................................................................................7
+   (s)   Stock Exchange Listing..........................................................................7
+   (t)   Non-Contravention of Existing Instruments; No Further Authorizations or Approvals Required......8
+   (u)     No Material Actions or Proceedings............................................................8
+   (v)   Intellectual Property Rights....................................................................9
+   (w)     All Necessary Permits, etc....................................................................9
+   (x)   Title to Properties.............................................................................9
+   (y)   Tax Law Compliance..............................................................................9
+   (z)   Company Not an "Investment Company"............................................................10
+   (aa)    Insurance....................................................................................10
+   (bb)    No Price Stabilization or Manipulation.......................................................10
+   (cc)    Company's Accounting System..................................................................10
+   (dd)    Compliance with Environmental Laws...........................................................10
+   (ee)    Periodic Review of Costs of Environmental Compliance.........................................11
+   (ff)    ERISA Compliance.............................................................................11
+   (gg)    No Default in Senior Indebtedness............................................................12
+   (hh)    Compliance with Regulation S.................................................................12
+   (ii)    Reporting Issuer.............................................................................12
+   (jj)    Other Representations and Warranties.........................................................12
+SECTION 2.        Purchase, Sale and Delivery of the Securities.........................................13
+   (a)   The Securities.................................................................................13
+   (b)   The Closing Date...............................................................................13
+   (c)   Delivery of the Securities.....................................................................13
+   (d)   Delivery of Offering Memorandum to the Initial Purchasers......................................13
+   (e)   Initial Purchasers as Qualified Institutional Buyers...........................................13
+SECTION 3.        Additional Covenants..................................................................14
+   (a)   Initial Purchasers' Review of Proposed Amendments and Supplements..............................14
+   (b)   Amendments and Supplements to the Offering Memorandum and Other Securities Act Matters.........14
+   (c)   Copies of the Offering Memorandum..............................................................15
+   (d)   Blue Sky Compliance............................................................................15
+   (e)   Use of Proceeds................................................................................15
+   (f)   The Depositary.................................................................................15
+
+                                       i
+<PAGE>
+
+   (g)   Additional Issuer Information..................................................................15
+   (h)   Agreement Not To Offer or Sell Additional Securities...........................................15
+   (i)   Future Reports to the Initial Purchasers.......................................................16
+   (j)   No Integration.................................................................................16
+   (k)   Legended Securities............................................................................16
+   (l)   PORTAL.........................................................................................16
+   (m)     Acquisition..................................................................................16
+   (n)     Contingent Payment Debt Instruments..........................................................16
+SECTION 4.        Payment of Expenses...................................................................17
+SECTION 5.        Conditions of the Obligations of the Initial Purchasers...............................17
+   (a)   Accountants' Comfort Letter....................................................................17
+   (b)   No Material Adverse Change or Ratings Agency Change............................................18
+   (c)   Opinion of Counsel for the Company.............................................................18
+   (d)   Opinion of Counsel for the Initial Purchasers..................................................18
+   (e)   Officers' Certificate..........................................................................18
+   (f)   Bring-down Comfort Letter......................................................................18
+   (g)   PORTAL Listing.................................................................................19
+   (h)   Registration Rights Agreement..................................................................19
+   (i)   Indenture......................................................................................19
+   (j)   Acquisition Agreement..........................................................................19
+   (k)   Credit Agreement...............................................................................19
+   (l)   Additional Documents...........................................................................19
+SECTION 6.        Reimbursement of Initial Purchasers' Expenses.........................................20
+SECTION 7.        Offer, Sale and Resale Procedures.....................................................20
+SECTION 8.        Indemnification.......................................................................21
+   (a)   Indemnification of the Initial Purchasers......................................................21
+   (b)   Indemnification of the Company, the Guarantors, their Directors and Officers...................22
+   (c)   Notifications and Other Indemnification Procedures.............................................23
+   (d)   Settlements....................................................................................23
+SECTION 9.        Contribution..........................................................................24
+SECTION 10.       Termination of this Agreement.........................................................25
+SECTION 11.       Representations and Indemnities to Survive Delivery...................................25
+SECTION 12.       Notices...............................................................................26
+SECTION 13.       Successors............................................................................27
+SECTION 14.       Partial Unenforceability..............................................................27
+SECTION 15.       Governing Law Provisions..............................................................27
+   (a)   Consent to Jurisdiction........................................................................27
+SECTION 16.       Default of One or More of the Several Initial Purchasers..............................28
+SECTION 17.       General Provisions....................................................................28
+
+</TABLE>
+                                       ii
+<PAGE>
+
+                               Purchase Agreement
+
+
+                                                                 April 10, 2002
+
+BANC OF AMERICA SECURITIES LLC
+CIBC WORLD MARKETS CORP.
+NatCity Investments, Inc.
+   As representatives of the several Initial Purchasers c/o BANC OF AMERICA
+SECURITIES LLC 9 West 57th Street, 31st Floor
+New York, New York  10019
+
+Ladies and Gentlemen:
+
+                  Alltrista Corporation, a Delaware corporation (the "Company"),
+proposes to issue and sell to the several Initial Purchasers named in Schedule A
+(the "Initial Purchasers"), acting severally and not jointly, the respective
+amounts set forth in such Schedule A of the Company's 9 3/4% Senior Subordinated
+Notes due 2012 (the "Notes"). Banc of America Securities LLC, CIBC World Markets
+Corp. and NatCity Investments, Inc. have agreed to act as the representatives of
+the several Initial Purchasers in connection with the offering and sale of the
+Notes.
+
+                  The Notes will be issued pursuant to an indenture, to be dated
+as of April 24, 2002 (the "Indenture"), among the Company, the Guarantors (as
+defined below) and The Bank of New York, as trustee (the "Trustee"). Notes
+issued in book-entry form will be issued in the name of Cede & Co., as nominee
+of The Depository Trust Company (the "Depositary") pursuant to a DTC Agreement,
+to be dated as of the Closing Date (as defined in Section 2) (the "DTC
+Agreement"), among the Company, the Trustee and the Depositary.
+
+                  The holders of the Notes will be entitled to the benefits of a
+registration rights agreement, to be dated as of April 24, 2002 (the
+"Registration Rights Agreement"), among the Company, the Guarantors (as defined
+below) and the Initial Purchasers, pursuant to which the Company will agree to
+file, within 60 days of the Closing Date, a registration statement with the
+Commission registering the Exchange Securities (as defined below) under the
+Securities Act of 1933 (as amended, the "Securities Act," which term, as used
+herein, includes the rules and regulations of the Commission promulgated
+thereunder).
+
+                  The payment of principal, premium and Liquidated Damages (as
+defined in the Indenture), if any, and interest on the Notes and the Exchange
+Notes (as defined below) will be fully and unconditionally guaranteed on a
+senior unsecured basis, jointly and severally, by (i) the parties named in
+Schedule B and (ii) any subsidiary of the Company or any party named in Schedule
+B formed or acquired after the Closing Date that executes an additional
+guarantee in accordance with the terms of the Indenture, and their respective
+successors and assigns (collectively, the "Guarantors"), pursuant to their
+guarantees (the "Guarantees"). The Notes and the Guarantees attached thereto are
+herein collectively referred to as the "Securities"; and the Exchange Notes and
+the Guarantees attached thereto are herein collectively referred to as the
+"Exchange Securities."
+
+<PAGE>
+
+                  The Securities are being issued and sold in connection with
+the acquisition by the Company of substantially all of the assets and
+liabilities of Tilia International, Inc. and its subsidiaries, Tilia, Inc. and
+Tilia Canada, Inc. (the "Acquisition"), pursuant to an asset purchase agreement
+dated as of March 27, 2002 (the "Acquisition Agreement"). In order to (a) pay
+for the Acquisition, (b) repay its existing revolving credit facility and
+existing five-year term loan facility (together, the "Existing Senior Credit
+Facility") and (c) pay related fees and expenses, the Company expects (i) to
+enter into new term loan and revolving credit facilities in the amounts of $50.0
+million and $50.0 million, respectively, with none of the revolving credit
+facility expected to be drawn upon the closing of the Acquisition (collectively,
+the "New Senior Credit Facility") pursuant to a credit agreement among the
+Company, the Guarantors and the lenders party thereto (the "Credit Agreement")
+and (ii) to issue an unsecured subordinated seller note due 2003 payable to
+Tilia International, Inc. in the principal amount of $10.0 million and an
+unsecured subordinated seller note due 2004 payable to Tilia International, Inc.
+in the principal amount of $5.0 million (collectively, the "Seller Notes"). As
+used herein, the term "the Transaction" means collectively (x) the offering of
+the Securities, (y) entering into the New Senior Credit Facility and (z) the
+Acquisition.
+
+                  The net proceeds from the offering of the Notes (the "Net
+Proceeds") will be deposited with the Trustee pending the consummation of the
+Transaction. If the Transaction is terminated or is not consummated on or prior
+to July 15, 2002 (the "Special Mandatory Redemption Date"), (i) the Company will
+be obligated to redeem the Notes at a special mandatory redemption price of 101%
+of the aggregate principal amount of the Notes, plus accrued interest on the
+Notes (the "Special Mandatory Redemption Price"), and (ii) the Company and the
+Guarantors will provide, if and when due, the difference between the Net
+Proceeds and the Special Mandatory Redemption Price.
+
+                  The Company understands that the Initial Purchasers propose to
+make an offering of the Securities on the terms and in the manner set forth
+herein and in the Offering Memorandum (as defined below) and agrees that the
+Initial Purchasers may resell, subject to the conditions set forth herein, all
+or a portion of the Securities to purchasers (the "Subsequent Purchasers") at
+any time after the date of this Agreement. The Securities are to be offered and
+sold to or through the Initial Purchasers without being registered with the
+Securities and Exchange Commission (the "Commission") under the Securities Act
+in reliance upon exemptions therefrom. The terms of the Securities and the
+Indenture will require that investors that acquire Securities expressly agree
+that Securities may only be resold or otherwise transferred, after the date
+hereof, if such Securities are registered for sale under the Securities Act or
+if an exemption from the registration requirements of the Securities Act is
+available (including the exemptions afforded by Rule 144A ("Rule 144A") or
+Regulation S ("Regulation S") thereunder).
+
+                  The Company has prepared and delivered to each Initial
+Purchaser copies of a Preliminary Offering Memorandum, dated March 28, 2002 (the
+"Preliminary Offering Memorandum"), and has prepared and will deliver to each
+Initial Purchaser, copies of the Offering Memorandum, dated April 10, 2002
+describing the terms of the Securities, each for use by such Initial Purchaser
+in connection with its solicitation of offers to purchase the Securities. As
+used herein, the "Offering Memorandum" shall mean, with respect to any date or
+time referred to in this Agreement, the Company's Offering Memorandum, dated
+April 10, 2002, including amendments or supplements thereto and any exhibits
+thereto, in the most recent form that has been prepared and delivered by the
+Company to the Initial Purchasers in connection with their solicitation of
+offers to purchase Securities. Further, any reference to the Preliminary
+Offering Memorandum or the Offering Memorandum shall be deemed to refer to and
+include any Additional Issuer Information (as defined in Section 3) furnished by
+the Company prior to the completion of the distribution of the Securities.
+
+                                       2
+<PAGE>
+
+                  The Company and each of the Guarantors hereby confirm their
+agreements with the Initial Purchasers as follows:
+
+                  Representations and Warranties. Each of the Company and the
+Guarantors, jointly and severally, hereby represent, warrant and covenant to
+each Initial Purchaser as follows:
+
+                  No Registration Required. Subject to compliance by the Initial
+Purchasers with the representations and warranties set forth in Section 2 hereof
+and with the procedures set forth in Section 7 hereof, it is not necessary in
+connection with the offer, sale and delivery of the Securities to the Initial
+Purchasers and to each Subsequent Purchaser in the manner contemplated by this
+Agreement and the Offering Memorandum to register the Securities under the
+Securities Act or, until such time as the Exchange Securities are issued
+pursuant to an effective registration statement, to qualify the Indenture under
+the Trust Indenture Act of 1939 (the "Trust Indenture Act," which term, as used
+herein, includes the rules and regulations of the Commission promulgated
+thereunder).
+
+                  No Integration of Offerings or General Solicitation. Neither
+the Company nor any Guarantor has, directly or indirectly, solicited any offer
+to buy or offered to sell, nor will, directly or indirectly, solicit any offer
+to buy or offer to sell, in the United States or to any United States citizen or
+resident, any security that is or would be integrated with the sale of the
+Securities in a manner that would require the Securities to be registered under
+the Securities Act. None of the Company or the Guarantors, their respective
+affiliates (as such term is defined in Rule 501 under the Securities Act (each,
+an "Affiliate"), or any person acting on any of their respective behalf (other
+than the Initial Purchasers, as to whom the Company and the Guarantors make no
+representation or warranty) has engaged or will engage, in connection with the
+offering of the Securities, in any form of general solicitation or general
+advertising within the meaning of Rule 502 under the Securities Act. With
+respect to those Securities sold in reliance upon Regulation S, (i) none of the
+Company, the Guarantors, their respective Affiliates or any person acting on any
+of their respective behalf (other than the Initial Purchasers, as to whom the
+Company and the Guarantors make no representation or warranty) has engaged or
+will engage in any directed selling efforts within the meaning of Regulation S
+and (ii) each of the Company, the Guarantors and their respective Affiliates and
+any person acting on any of their respective behalf (other than the Initial
+Purchasers, as to whom the Company and the Guarantors make no representation or
+warranty) has complied and will comply with the offering restrictions set forth
+in Regulation S.
+
+                  Eligibility for Resale under Rule 144A. The Securities are
+eligible for resale pursuant to Rule 144A and will not be, at the Closing Date,
+of the same class as securities listed on a national securities exchange
+registered under Section 6 of the Exchange Act or quoted in a U.S. automated
+interdealer quotation system.
+
+                  The Offering Memorandum. The Offering Memorandum does not, and
+at the Closing Date will not, include an untrue statement of a material fact or
+omit to state a material fact necessary in order to make the statements therein,
+in the light of the circumstances under which they were made, not misleading;
+provided that this representation, warranty and agreement shall not apply to
+statements in or omissions from the Offering Memorandum made in reliance upon
+and in conformity with information furnished to the Company in writing by any
+Initial Purchaser through Banc of America Securities LLC expressly for use in
+the Offering Memorandum. Each of the Preliminary Offering Memorandum and the
+Offering Memorandum, as of its date, contains all the information specified in,
+and meeting the requirements of, Rule 144A. Neither the Company nor any
+Guarantor has distributed or will distribute, prior to the later of the Closing
+Date and the completion of the Initial Purchasers' distribution of the
+Securities, any offering material in connection with the offering and sale of
+the Securities other
+
+                                       3
+<PAGE>
+
+than a Preliminary Offering Memorandum or the Offering Memorandum.
+
+                  The Purchase Agreement. This Agreement has been duly
+authorized, executed and delivered by, and is a valid and binding agreement of,
+the Company and the Guarantors, enforceable against the Company and the
+Guarantors in accordance with its terms, except as rights to indemnification
+hereunder may be limited by applicable law and except as the enforcement hereof
+may be limited by bankruptcy, insolvency, reorganization, moratorium or other
+similar laws relating to or affecting the rights and remedies of creditors or by
+general equitable principles and except as rights to indemnification under the
+Registration Rights Agreement may be limited by applicable law.
+
+                  The Registration Rights Agreement and DTC Agreement. At the
+Closing Date, each of the Registration Rights Agreement and the DTC Agreement
+will be duly authorized, executed and delivered by, and will be a valid and
+binding agreement of, (i) in the case of the Registration Rights Agreement, the
+Company and the Guarantors, enforceable against the Company and the Guarantors
+in accordance with its terms, and (ii) in the case of the DTC Agreement, the
+Company, enforceable against the Company in accordance with its terms, except in
+both cases as the enforcement thereof may be limited by bankruptcy, insolvency,
+reorganization, moratorium or other similar laws relating to or affecting the
+rights and remedies of creditors or by general equitable principles and except
+as rights to indemnification under the Registration Rights Agreement may be
+limited by applicable law.
+
+                  Authorization of the Credit Agreement. The Credit Agreement
+has been duly and validly authorized by the Company and each of the Guarantors
+and, when duly executed and delivered by the Company and each of the Guarantors,
+will be the valid and legally binding obligation of the Company and each of the
+Guarantors, enforceable in accordance with its terms, except as the enforcement
+thereof may be limited by bankruptcy, insolvency, reorganization, moratorium or
+other similar laws relating to or affecting the rights and remedies of creditors
+or by general equitable principles.
+
+                  Authorization of the Seller Notes. The Seller Notes have been
+duly and validly authorized by the Company and, when duly executed and delivered
+by the Company, will be the valid and legally binding obligation of the Company,
+enforceable in accordance with their terms, except as the enforcement thereof
+may be limited by bankruptcy, insolvency, reorganization, moratorium or other
+similar laws relating to or affecting the rights and remedies of creditors or by
+general equitable principles.
+
+                  Authorization of the Acquisition. The Acquisition has been
+duly authorized by all necessary corporate action of the Company including, to
+the extent required by applicable law, all necessary action by its board of
+directors and stockholders.
+
+                  Acquisition Agreement. The Acquisition Agreement has been duly
+authorized, executed and delivered by, and is a valid and binding obligation of,
+the Company, enforceable against the Company in accordance with its terms,
+except as the enforcement thereof may be limited by bankruptcy, insolvency,
+reorganization, moratorium or other similar laws relating to or affecting the
+rights and remedies of creditors or by general equitable principles.
+
+                  Authorization of the Securities and the Exchange Securities.
+
+                  (i) The Notes to be purchased by the Initial Purchasers from
+the Company are in the form contemplated by the Indenture, have been duly
+authorized for issuance and sale pursuant to this Agreement and the Indenture
+and, when executed by the Company and
+
+                                       4
+<PAGE>
+
+authenticated by the Trustee in the manner provided for in the Indenture and
+delivered against payment of the purchase price therefor, will constitute valid
+and binding agreements of the Company, enforceable in accordance with their
+terms, except as the enforcement thereof may be limited by bankruptcy,
+insolvency, reorganization, moratorium or other similar laws relating to or
+affecting the rights and remedies of creditors or by general equitable
+principles and will be entitled to the benefits of the Indenture.
+
+                  (ii) The Exchange Notes have been duly and validly authorized
+for issuance by the Company, and when issued and authenticated in accordance
+with the terms of the Indenture, the Registration Rights Agreement and the
+Exchange Offer, will constitute valid and binding obligations of the Company,
+enforceable against the Company in accordance with their terms, except as the
+enforcement thereof may be limited by bankruptcy, insolvency, reorganization,
+moratorium, or similar laws relating to or affecting enforcement of the rights
+and remedies of creditors or by general principles of equity and will be
+entitled to the benefits of the Indenture.
+
+                  (iii) The Guarantees of the Notes and the Exchange Notes are
+in the respective forms contemplated by the Indenture, have been duly authorized
+for issuance and sale pursuant to this Agreement and the Indenture and, when
+executed by each of the Guarantors and authenticated by the Trustee in the
+manner provided for in the Indenture and delivered against payment of the
+purchase price therefor, will constitute valid and binding agreements of the
+Guarantors, enforceable in accordance with their terms, except as the
+enforcement thereof may be limited by bankruptcy, insolvency, reorganization,
+moratorium or other similar laws relating to or affecting the rights and
+remedies of creditors or by general equitable principles and will be entitled to
+the benefits of the Indenture.
+
+                  Authorization of the Indenture. The Indenture has been duly
+authorized by the Company and the Guarantors and, when duly executed and
+delivered by the Company and the Guarantors and will constitute a valid and
+binding agreement of the Company and the Guarantors, enforceable against the
+Company and the Guarantors in accordance with its terms, except as the
+enforcement thereof may be limited by bankruptcy, insolvency, reorganization,
+moratorium or other similar laws relating to or affecting the rights and
+remedies of creditors or by general equitable principles.
+
+                  Description of the Securities and the Indenture. The Notes,
+the Exchange Notes, the Guarantees of the Notes and the Exchange Notes and the
+Indenture will conform in all material respects to the respective statements
+relating thereto contained in the Offering Memorandum.
+
+                  No Material Adverse Change. Except as otherwise disclosed in
+the Offering Memorandum, subsequent to the respective dates as of which
+information is given in the Offering Memorandum: (i) there has been no material
+adverse change, or any development that could reasonably be expected to result
+in a material adverse change, in the condition, financial or otherwise, or in
+the earnings, business, operations or prospects, whether or not arising from
+transactions in the ordinary course of business, of the Company, the Guarantors,
+and their respective subsidiaries, considered as one entity (any such change is
+called a "Material Adverse Change"); (ii) the Company, the Guarantors and their
+respective subsidiaries, considered as one entity, have not incurred any
+material liability or obligation, indirect, direct or contingent, not in the
+ordinary course of business nor entered into any material transaction or
+agreement not in the ordinary course of business; and (iii) there has been no
+dividend or distribution of any kind declared, paid or made by the Company or,
+except for dividends paid to the Company, the Guarantors or their respective
+subsidiaries, by any of the Guarantors, the subsidiaries of the
+
+                                       5
+<PAGE>
+Guarantors or the subsidiaries of the Company on any class of capital stock or
+repurchase or redemption by the Company, the Guarantors or their respective
+subsidiaries of any class of capital stock.
+
+                  Independent Accountants. Each of Ernst & Young LLP, who have
+expressed their opinion with respect to the financial statements of the Company
+and its subsidiaries (which term as used in this Agreement includes the related
+notes thereto) included in the Offering Memorandum, and Arthur Andersen LLP, who
+have expressed their opinion with respect to the financial statements of Tilia
+International, Inc. and its subsidiaries included in the Offering Memorandum,
+are independent public or certified public accountants within the meaning of
+Regulation S-X under the Securities Act and the Exchange Act.
+
+                  Preparation of the Financial Statements. The financial
+statements, together with the related schedules and notes, included in the
+Offering Memorandum present fairly in all material respects the consolidated
+financial position of each of (i) the Company, the Guarantors and their
+respective subsidiaries and (ii) Tilia International, Inc. and its subsidiaries
+as of and at the dates indicated and the results of their operations and cash
+flows for the periods specified. Such financial statements have been prepared in
+conformity with generally accepted accounting principles as applied in the
+United States applied on a consistent basis throughout the periods involved,
+except as may be expressly stated in the related notes thereto. The financial
+data set forth in the Offering Memorandum under the captions "Offering
+Memorandum Summary--Summary Consolidated Historical and Pro Forma Financial and
+Operating Data" and "Selected Historical and Financial Data" fairly present in
+all material respects the information set forth therein on a basis consistent
+with that of the audited financial statements contained in the Offering
+Memorandum. The pro forma condensed consolidated financial statements of the
+Company, the Guarantors and their respective subsidiaries and the related notes
+thereto included under the captions "Offering Memorandum Summary--Summary
+Consolidated Historical and Pro Forma Financial and Operating Data" and
+"Unaudited Pro Forma Condensed Consolidated Financial Statements" and included
+elsewhere in the Offering Memorandum present fairly in all material respects the
+information contained therein, have been prepared in accordance with the
+Commission's rules and guidelines with respect to pro forma financial statements
+and have been properly presented in all material respects on the bases described
+therein, and the assumptions used in the preparation thereof are appropriate in
+all material respects to give effect to the transactions and circumstances
+referred to therein.
+
+                  Incorporation and Good Standing of the Company, the Guarantors
+and their Respective Subsidiaries. Each of the Company, the Guarantors and their
+respective subsidiaries has been duly incorporated or formed, as applicable, and
+is validly existing as a corporation or limited partnership, as the case may be,
+in good standing under the laws of the jurisdiction of its incorporation or
+formation and has corporate power or limited partnership power, as the case may
+be, and authority to own, lease and operate its properties and to conduct its
+business as described in the Offering Memorandum and, in the case of the Company
+and each of the Guarantors, to enter into and perform their respective
+obligations under each of this Agreement, the Registration Rights Agreement, the
+Securities, the Exchange Securities, the Indenture and the Credit Agreement,
+and, in the case of the Company, to enter into and perform its obligations under
+the DTC Agreement and the Acquisition Agreement. Each of the Company, the
+Guarantors and their respective subsidiaries is duly qualified as a foreign
+corporation or limited partnership, as the case may be, to transact business and
+is in good standing in each jurisdiction in which such qualification is
+required, whether by reason of the ownership or leasing of property or the
+conduct of business, except for such jurisdictions where the failure to so
+qualify or to be in good standing would not, individually or in the aggregate,
+result in a Material Adverse Change. All of the issued and outstanding capital
+stock or limited partnership interests,
+
+                                       6
+<PAGE>
+as applicable, of each subsidiary has been duly authorized and validly issued,
+is fully paid and nonassessable and, is owned by the Company, directly or
+through subsidiaries, free and clear of any security interest, mortgage, pledge,
+lien, encumbrance or claim, except for security interests, mortgages, pledges,
+liens, encumbrances or claims in connection with the Existing Senior Credit
+Facility and the New Senior Credit Facility. The Company does not own or
+control, directly or indirectly, any corporation, association or other entity
+other than the subsidiaries listed in Schedule C hereto.
+
+                  Capitalization. At December 31, 2001, on a consolidated basis,
+after giving pro forma effect to the issuance and sale of the Securities
+pursuant hereto, the Company would have an authorized and outstanding
+capitalization as set forth in the Offering Memorandum under the caption
+"Capitalization" (other than for subsequent issuances of capital stock, if any,
+pursuant to employee benefit plans described in the Offering Memorandum or upon
+exercise of outstanding options described in the Offering Memorandum).
+
+                  Stock Exchange Listing. The Common Stock is registered
+pursuant to Section 12b of the Exchange Act and is listed on the New York Stock
+Exchange (the "NYSE"), and the Company has taken no action designed to, or
+likely to have the effect of, terminating the registration of the Common Stock
+under the Exchange Act or delisting the Common Stock from the NYSE, nor has the
+Company received any notification that the Commission or the NYSE is
+contemplating terminating such registration or listing.
+
+                  Non-Contravention of Existing Instruments; No Further
+Authorizations or Approvals Required. None of the Company, the Guarantors or any
+of their respective subsidiaries is in violation of its charter or by-laws or is
+in default (or, with the giving of notice or lapse of time, would be in default)
+("Default") under any indenture, mortgage, loan or credit agreement, note,
+contract, franchise, lease or other instrument to which the Company, the
+Guarantors or any of their respective subsidiaries is a party or by which any of
+them may be bound (including, without limitation, the Company's Existing Senior
+Credit Facility and letters of credit issued thereunder), or to which any of the
+property or assets of the Company, the Guarantors or any of their respective
+subsidiaries is subject (each, an "Existing Instrument"), except for such
+Defaults as would not, individually or in the aggregate, result in a Material
+Adverse Change. The Company's and the Guarantors' execution, delivery and
+performance of this Agreement, the Registration Rights Agreement, the Indenture
+(including, without limitation, redemption of the Securities at the Special
+Mandatory Redemption Price), and the Credit Agreement, the Company's execution,
+delivery and performance of the DTC Agreement, the Seller Notes and the
+Acquisition Agreement, and the issuance and delivery of the Securities or the
+Exchange Securities, and consummation of the transactions contemplated hereby
+and thereby and by the Offering Memorandum (i) have been duly authorized by all
+necessary corporate action and will not result in any violation of the
+provisions of the charter or by-laws of the Company, the Guarantors or any of
+their respective subsidiaries, (ii) will not conflict with or constitute a
+breach of, or Default under, or result in the creation or imposition of any
+lien, charge or encumbrance upon any property or assets of the Company, the
+Guarantors or any of their respective subsidiaries pursuant to, or require the
+consent of any other party to, any Existing Instrument, except for such
+conflicts, breaches, Defaults, liens, charges or encumbrances as would not,
+individually or in the aggregate, result in a Material Adverse Change and
+except, with respect to the Existing Senior Credit Facility, as waived in
+accordance with the terms thereof, and (iii) will not result in any violation of
+any law, administrative regulation or administrative or court decree applicable
+to the Company, the Guarantors or any of their respective subsidiaries. No
+consent, approval, authorization or other order of, or registration or filing
+with, any court or other governmental or regulatory authority or agency, is
+required for the Company's or the Guarantors' execution, delivery and
+performance of this Agreement, the Registration Rights
+
+                                       7
+<PAGE>
+
+Agreement, the DTC Agreement, the Indenture (including, without limitation,
+redemption of the Securities at the Special Mandatory Redemption Price), the
+Credit Agreement, the Seller Notes, or the Acquisition Agreement, as applicable,
+or the issuance and delivery of the Securities or the Exchange Securities, or
+consummation of the transactions contemplated hereby and thereby and by the
+Offering Memorandum, except such as have been obtained or made by the Company or
+the Guarantors and are in full force and effect under the Securities Act,
+applicable state securities or blue sky laws and except such as may be required
+by federal and state securities laws with respect to the Company's or the
+Guarantors' obligations under the Registration Rights Agreement.
+
+                  No Material Actions or Proceedings. Except as otherwise
+disclosed in the Offering Memorandum, there are no legal or governmental
+actions, suits or proceedings pending or, to the best of the Company's or any
+Guarantor's knowledge, threatened (i) against or affecting the Company, the
+Guarantors or any of their respective subsidiaries or (ii) that has as the
+subject thereof any property owned or leased by, the Company, the Guarantors or
+any of their respective subsidiaries, where in any such case (x) there is a
+reasonable possibility that such action, suit or proceeding might be determined
+adversely to the Company, any Guarantor or any such subsidiary and (y) any such
+action, suit or proceeding, if so determined adversely, would reasonably be
+expected to result in a Material Adverse Change or adversely affect the
+consummation of the transactions contemplated by this Agreement. No material
+labor dispute with the employees of the Company, the Guarantors or any of their
+respective subsidiaries, or with the employees of any principal supplier of the
+Company, exists or, to the best of the Company's or any Guarantor's knowledge,
+is threatened or imminent.
+
+                  Intellectual Property Rights. The Company, the Guarantors and
+their respective subsidiaries own or possess sufficient trademarks, trade names,
+patent rights, copyrights, licenses, approvals, trade secrets and other similar
+rights (collectively, "Intellectual Property Rights") reasonably necessary to
+conduct their businesses as now conducted; and the expected expiration of any of
+such Intellectual Property Rights would not result in a Material Adverse Change.
+None of the Company, the Guarantors or any of their respective subsidiaries has
+received any notice of infringement or conflict with asserted Intellectual
+Property Rights of others, which infringement or conflict, if the subject of an
+unfavorable decision, would result in a Material Adverse Change.
+
+                  All Necessary Permits, etc. Each of the Company, the
+Guarantors and their respective subsidiaries possesses such valid and current
+certificates, authorizations or permits issued by the appropriate state, federal
+or foreign regulatory agencies or bodies necessary to conduct their respective
+businesses, except where failure to possess such certificates, authorizations or
+permits could not reasonably be expected to have a material adverse effect on
+such businesses, and none of the Company, the Guarantors, or any of their
+respective subsidiaries has received any notice of proceedings relating to the
+revocation or modification of, or non-compliance with, any such certificate,
+authorization or permit that, singly or in the aggregate, if the subject of an
+unfavorable decision, ruling or finding, could result in a Material Adverse
+Change.
+
+                  Title to Properties. The Company, the Guarantors and each of
+their respective subsidiaries have good and marketable title to all the
+properties and assets reflected as owned in the financial statements referred to
+in Section 1 above (and elsewhere in the Offering Memorandum), in each case free
+and clear of any security interests, mortgages, liens, encumbrances, equities,
+claims and other defects, except such as do not materially and adversely affect
+the value of such property and do not materially interfere with the use made or
+proposed to be made of such property by the Company, such Guarantor or such
+subsidiary. The real
+
+8
+<PAGE>
+
+property, improvements, equipment and personal property held under lease by the
+Company, the Guarantors or any of their respective subsidiaries are held under
+valid and enforceable leases, with such exceptions as are not material and do
+not materially interfere with the use made or proposed to be made of such real
+property, improvements, equipment or personal property by the Company, such
+Guarantor or such subsidiary.
+
+                  Tax Law Compliance. The Company and its consolidated
+subsidiaries (including the Guarantors) have filed all necessary federal, state
+and foreign income and franchise tax returns and have paid all taxes required to
+be paid by any of them and, if due and payable, any related or similar
+assessment, fine or penalty levied against any of them (except taxes,
+assessments, fines or penalties the validity of which the Company is contesting
+in good faith). The Company has made adequate charges, accruals and reserves in
+the applicable financial statements referred to in Section 1 above in respect of
+all federal, state and foreign income and franchise taxes for all periods as to
+which the tax liability of the Company or any of its consolidated subsidiaries
+(including the Guarantors) has not been finally determined.
+
+                  Company Not an "Investment Company". The Company has been
+advised of the rules and requirements under the Investment Company Act of 1940,
+as amended (the "Investment Company Act"). The Company is not, and after receipt
+of payment for the Securities will not be, an "investment company" within the
+meaning of Investment Company Act and will conduct its business in a manner so
+that it will not become subject to the Investment Company Act.
+
+                  Insurance. Each of the Company, the Guarantors and their
+respective subsidiaries are insured by recognized, financially sound
+institutions with policies in such amounts and with such deductibles and
+covering such risks as are, in the opinion of the Company, adequate for their
+businesses. Each of the Company and the Guarantors have no reason to believe
+that it or any of its respective subsidiaries will not be able (i) to renew its
+existing insurance coverage as and when such policies expire or (ii) to obtain
+comparable coverage from similar institutions as may be necessary or appropriate
+to conduct its business as now conducted and at a cost that would not result in
+a Material Adverse Change. None of the Company, the Guarantors or any of their
+respective subsidiaries has been denied any insurance coverage that it has
+sought or for which it has applied.
+
+                  No Price Stabilization or Manipulation. Neither the Company
+nor any Guarantors has taken, nor will take, directly or indirectly, any action
+designed to or that might be reasonably expected to cause or result in
+stabilization or manipulation of the price of any security of the Company to
+facilitate the sale or resale of the Securities.
+
+                  Company's Accounting System. The Company and each Guarantor
+maintain a system of accounting controls sufficient to provide reasonable
+assurances that (i) transactions are executed in accordance with management's
+general or specific authorization; (ii) transactions are recorded as necessary
+to permit preparation of financial statements in conformity with generally
+accepted accounting principles as applied in the United States and to maintain
+accountability for assets; (iii) access to assets is permitted only in
+accordance with management's general or specific authorization; and (iv) the
+recorded accountability for assets is compared with existing assets at
+reasonable intervals and appropriate action is taken with respect to any
+differences.
+
+                  Compliance with Environmental Laws. Except as otherwise
+disclosed in the Offering Memorandum or as would not, individually or in the
+aggregate, result in a Material Adverse Change (i) none of the Company, the
+Guarantors or any of their respective subsidiaries is in violation of any
+federal, state, local or foreign law or regulation relating to pollution or
+
+                                       9
+<PAGE>
+
+protection of human health or the environment (including, without limitation,
+ambient air, surface water, groundwater, land surface or subsurface strata) or
+wildlife, including without limitation, laws and regulations relating to
+emissions, discharges, releases or threatened releases of chemicals, pollutants,
+contaminants, wastes, toxic substances, hazardous substances, petroleum and
+petroleum products (collectively, "Materials of Environmental Concern"), or
+otherwise relating to the manufacture, processing, distribution, use, treatment,
+storage, disposal, transport or handling of Materials of Environmental Concern
+(collectively, "Environmental Laws"), which violation includes, but is not
+limited to, noncompliance with any permits or other governmental authorizations
+required for the operation of the business of the Company, the Guarantors or
+their respective subsidiaries under applicable Environmental Laws, or
+noncompliance with the terms and conditions thereof, nor has the Company, the
+Guarantors or any of their respective subsidiaries received any written
+communication, whether from a governmental authority, citizens group, employee
+or otherwise, that alleges that the Company, the Guarantors or any of their
+respective subsidiaries is in violation of any Environmental Law; (ii) there is
+no claim, action or cause of action filed with a court or governmental
+authority, no investigation with respect to which the Company or any Guarantor
+has received written notice, and no written notice by any person or entity
+alleging potential liability for investigatory costs, cleanup costs,
+governmental responses costs, natural resources damages, property damages,
+personal injuries, attorneys' fees or penalties arising out of, based on or
+resulting from the presence, or release into the environment, of any Material of
+Environmental Concern at any location owned, leased or operated by the Company,
+the Guarantors or any of their respective subsidiaries, now or in the past
+(collectively, "Environmental Claims"), pending or, to the best of the Company's
+or any Guarantor's knowledge, threatened against the Company, the Guarantors or
+any of their respective subsidiaries or any person or entity whose liability for
+any Environmental Claim the Company, the Guarantors or any of their respective
+subsidiaries has retained or assumed either contractually or by operation of
+law; and (iii) to the best of the knowledge of the executive officers and key
+employees listed as such in the Offering Memorandum and of those other officers
+and employees of the Company and the Guarantors with primary responsibility for
+managing the environmental affairs of the Company and the Guarantors and their
+respective facilities, there are no past or present actions, activities,
+circumstances, conditions, events or incidents, including, without limitation,
+the release, emission, discharge, presence or disposal of any Material of
+Environmental Concern, that reasonably could result in a violation of any
+Environmental Law or form the basis of a potential Environmental Claim against
+the Company, the Guarantors or any of their respective subsidiaries or against
+any person or entity whose liability for any Environmental Claim the Company,
+the Guarantors or any of their respective subsidiaries has retained or assumed
+either contractually or by operation of law.
+
+                  Periodic Review of Costs of Environmental Compliance. To the
+knowledge of the Company and the Guarantors, based upon their assessment of the
+effect of Environmental Laws on the business, operations and properties of the
+Company, the Guarantors and their respective subsidiaries, and taking into
+account the amount of any established reserves, the Company and the Guarantors
+have reasonably concluded that associated costs and liabilities (including,
+without limitation, any capital or operating expenditures required for clean-up,
+closure of properties or compliance with Environmental Laws or any permit,
+license or approval, any related constraints on operating activities and any
+potential liabilities to third parties) will not, individually or in the
+aggregate, result in a Material Adverse Change.
+
+                  ERISA Compliance. The Company, the Guarantors, their
+respective subsidiaries and any "employee benefit plan" (as defined under the
+Employee Retirement Income Security Act of 1974, as amended, and the regulations
+and published interpretations thereunder (collectively, "ERISA")) established or
+maintained by the Company, the Guarantors, their
+
+                                       10
+<PAGE>
+
+respective subsidiaries or their "ERISA Affiliates" (as defined below) are in
+compliance in all material respects with ERISA. "ERISA Affiliate" means, with
+respect to the Company, any Guarantor or any of their respective subsidiaries,
+any member of any group of organizations described in Sections 414(b), (c), (m)
+or (o) of the Internal Revenue Code of 1986, as amended, and the regulations and
+published interpretations thereunder (the "Code") of which the Company, such
+Guarantor or such subsidiary is a member. No "reportable event" (as defined
+under ERISA) has occurred or is reasonably expected to occur with respect to any
+"employee benefit plan" established or maintained by the Company, the Guarantors
+or their respective subsidiaries or any of their ERISA Affiliates, except as
+would not, individually or in the aggregate, result in a Material Adverse
+Change. No employee benefit plan" established or maintained by the Company, the
+Guarantors, their respective subsidiaries or any of their ERISA Affiliates, if
+such "employee benefit plan" were terminated, would have any "amount of unfunded
+benefit liabilities" (as defined under ERISA), except as would not, individually
+or in the aggregate, result in a Material Adverse Change. None of the Company,
+the Guarantors, their respective subsidiaries or any of their ERISA Affiliates
+have incurred or reasonably expect to incur any liability under Title IV of
+ERISA with respect to termination of, or withdrawal from, any "employee benefit
+plan" or Sections 412, 4971, 4975 or 4980B of the Code, except as would not,
+individually or in the aggregate, result in a Material Adverse Change. Except as
+would not, individually or in the aggregate, result in a Material Adverse
+Change, each "employee benefit plan" established or maintained by the Company,
+the Guarantors, their respective subsidiaries or any of their ERISA Affiliates
+that is intended to be qualified under Section 401 of the Code is so qualified
+and nothing has occurred, whether by action or failure to act, that would cause
+the loss of such qualification.
+
+                  No Default in Senior Indebtedness. No event of default exists
+under any contract, indenture, mortgage, loan agreement, note, lease or other
+agreement or instrument constituting Senior Debt (as defined in the Indenture).
+
+                  Compliance with Regulation S. The Company, the Guarantors,
+their respective Affiliates and all persons acting on their behalf (other than
+the Initial Purchasers, as to whom the Company and the Guarantors make no
+representation) have complied with and will comply with the offering
+restrictions requirements of Regulation S in connection with the offering of the
+Securities outside the United States, and, in connection therewith, the Offering
+Memorandum will contain the disclosure required by Rule 902.
+
+                  Reporting  Issuer.  Each of the Company and the Guarantors is
+a "reporting  issuer" as defined in Rule 902 under the Securities Act.
+
+                  Other Representations and Warranties. All the representations
+and warranties of the Company and the Guarantors set forth (1) in the
+Acquisition Agreement are true and correct and, as of the Closing Date, will be
+true and correct, and (2) in the Credit Agreement, as of the Closing Date, will
+be true and correct.
+
+                  Any certificate signed by an officer of the Company or any of
+the Guarantors and delivered to the Initial Purchasers or to counsel for the
+Initial Purchasers shall be deemed to be a representation and warranty by the
+Company or such Guarantor to each Initial Purchaser as to the matters set forth
+therein.
+
+SECTION 2.        PURCHASE, SALE AND DELIVERY OF THE SECURITIES.
+
+                  The Securities. The Company agrees to issue and sell to the
+several Initial Purchasers, severally and not jointly, all of the Securities
+upon the terms herein set forth. On the
+
+                                       11
+<PAGE>
+
+basis of the representations, warranties and agreements herein contained, and
+upon the terms but subject to the conditions herein set forth, the Initial
+Purchasers agree, severally and not jointly, to purchase from the Company the
+aggregate principal amount of Securities set forth opposite their names on
+Schedule A, at a purchase price of 95.686% of the principal amount thereof
+payable on the Closing Date.
+
+                  The Closing Date. Delivery of certificates for the Securities
+in definitive form to be purchased by the Initial Purchasers and payment
+therefor shall be made at the offices of Latham & Watkins, 885 Third Avenue, New
+York, New York (or such other place as may be agreed to by the Company and the
+Initial Purchasers) at 9:00 a.m. New York City time, on April 24, 2002, or such
+other time and date as the Initial Purchasers shall designate by notice to the
+Company (the time and date of such closing are called the "Closing Date"). The
+Company hereby acknowledges that circumstances under which the Initial
+Purchasers may provide notice to postpone the Closing Date as originally
+scheduled include, but are in no way limited to, any determination by the
+Company or the Initial Purchasers to recirculate to investors copies of an
+amended or supplemented Offering Memorandum or a delay as contemplated by the
+provisions of Section 16.
+
+                  Delivery of the Securities. The Company shall deliver, or
+cause to be delivered, to Banc of America Securities LLC for the accounts of the
+several Initial Purchasers certificates for the Securities at the Closing Date
+against the irrevocable release of a wire transfer of immediately available
+funds for the amount of the purchase price therefor. The certificates for the
+Securities shall be in such denominations and registered in the name of Cede &
+Co., as nominee of the Depository, pursuant to the DTC Agreement, and shall be
+made available for inspection on the business day preceding the Closing Date at
+a location in New York City, as the Initial Purchasers may designate. Time shall
+be of the essence, and delivery at the time and place specified in this
+Agreement is a further condition to the obligations of the Initial Purchasers.
+
+                  Delivery of Offering Memorandum to the Initial Purchasers. Not
+later than 12:00 p.m. on the second business day following the date of this
+Agreement, the Company shall deliver or cause to be delivered copies of the
+Offering Memorandum in such quantities and at such places as the Initial
+Purchasers shall reasonably request.
+
+                  Initial Purchasers as Qualified Institutional Buyers. Each
+Initial Purchaser severally and not jointly represents and warrants to, and
+agrees with, the Company that it is a "qualified institutional buyer" within the
+meaning of Rule 144A (a "Qualified Institutional Buyer") and an "accredited
+investor" within the meaning of Rule 501 under the Securities Act (an
+"Accredited Investor").
+
+                  Additional Covenants. The Company and the Guarantors, jointly
+and severally, further covenant and agree with each Initial Purchaser as
+follows:
+
+                  Initial Purchasers' Review of Proposed Amendments and
+Supplements. Prior to amending or supplementing the Offering Memorandum, the
+Company shall furnish to the Initial Purchasers for review a copy of each such
+proposed amendment or supplement, and the Company shall not use any such
+proposed amendment or supplement to which the Initial Purchasers reasonably
+object.
+
+                  Amendments and Supplements to the Offering Memorandum and
+Other Securities Act Matters. If, prior to the completion of the placement of
+the Securities by the Initial Purchasers with the Subsequent Purchasers, any
+event shall occur or condition exist as a result of which it is necessary to
+amend or supplement the Offering Memorandum in order to make the
+
+                                       12
+<PAGE>
+
+statements therein, in the light of the circumstances when the Offering
+Memorandum is delivered to a purchaser, not misleading, or if in the opinion of
+the Initial Purchasers (or counsel for the Initial Purchasers) or the Company
+(or counsel for the Company) it is otherwise necessary to amend or supplement
+the Offering Memorandum to comply with law, the Company agrees to promptly
+prepare (subject to Section 3 hereof) and furnish at its own expense to the
+Initial Purchasers, amendments or supplements to the Offering Memorandum so that
+the statements in the Offering Memorandum as so amended or supplemented will
+not, in the light of the circumstances when the Offering Memorandum is delivered
+to a purchaser, be misleading or so that the Offering Memorandum, as amended or
+supplemented, will comply with law.
+
+                  Following the consummation of the Exchange Offer or the
+effectiveness of an applicable shelf registration statement and for so long as
+the Securities are outstanding if, in the reasonable judgment of the Initial
+Purchasers, the Initial Purchasers or any of their affiliates (as such term is
+defined in the rules and regulations under the Securities Act) are required to
+deliver a prospectus in connection with sales of, or market-making activities
+with respect to, such securities, to periodically amend the applicable
+registration statement so that the information contained therein complies with
+the requirements of Section 10 of the Securities Act, to amend the applicable
+registration statement or supplement the related prospectus or the documents
+incorporated therein when necessary to reflect any material changes in the
+information provided therein so that the registration statement and the
+prospectus will not contain any untrue statement of a material fact or omit to
+state any material fact necessary in order to make the statements therein, in
+the light of the circumstances existing as of the date the prospectus is so
+delivered, not misleading and to provide the Initial Purchasers with copies of
+each amendment or supplement filed and such other documents as the Initial
+Purchasers may reasonably request.
+
+                  The Company and the Guarantors hereby expressly acknowledge
+that the indemnification and contribution provisions of Sections 8 and 9 hereof
+are specifically applicable and relate to each offering memorandum, registration
+statement, prospectus, amendment or supplement referred to in this Section 3.
+
+                  Copies of the Offering Memorandum. The Company agrees to
+furnish the Initial Purchasers, without charge, as many copies of the Offering
+Memorandum and any amendments and supplements thereto as they shall have
+reasonably requested.
+
+                  Blue Sky Compliance. The Company shall cooperate with the
+Initial Purchasers and counsel for the Initial Purchasers to qualify or register
+the Securities for sale under (or obtain exemptions from the application of) the
+Blue Sky or state securities laws of those jurisdictions designated by the
+Initial Purchasers, shall comply with such laws and shall continue such
+qualifications, registrations and exemptions in effect so long as required for
+the distribution of the Securities. The Company shall not be required to qualify
+as a foreign corporation or to take any action that would subject it to general
+service of process in any such jurisdiction where it is not presently qualified
+or where it would be subject to taxation as a foreign corporation. The Company
+will advise the Initial Purchasers promptly of the suspension of the
+qualification or registration of (or any such exemption relating to) the
+Securities for offering, sale or trading in any jurisdiction or any initiation
+or threat of any proceeding for any such purpose, and in the event of the
+issuance of any order suspending such qualification, registration or exemption,
+the Company shall use its reasonable best efforts to obtain the withdrawal
+thereof at the earliest possible moment.
+
+                  Use of Proceeds. The Company shall apply the net proceeds from
+the sale of the Securities sold by it in the manner described under the caption
+"Use of Proceeds" in the Offering Memorandum.
+
+                                       13
+<PAGE>
+
+                  The Depositary. The Company shall cooperate with the Initial
+Purchasers and use its best efforts to permit the Securities to be eligible for
+clearance and settlement through the facilities of the Depositary.
+
+                  Additional Issuer Information. Prior to the completion of the
+placement of the Securities by the Initial Purchasers with the Subsequent
+Purchasers, the Company shall file, on a timely basis, with the Commission and
+the New York Stock Exchange all reports and documents required to be filed under
+Section 13 or 15 of the Exchange Act. Additionally, at any time when the Company
+is not subject to Section 13 or 15 of the Exchange Act, for the benefit of
+holders and beneficial owners from time to time of Securities, the Company shall
+furnish, at its expense, upon request, to holders and beneficial owners of
+Securities and prospective purchasers of Securities information ("Additional
+Issuer Information") satisfying the requirements of subsection of Rule 144A.
+
+                  Agreement Not To Offer or Sell Additional Securities. During
+the period of 180 days following the date of the Offering Memorandum, the
+Company will not, without the prior written consent of Banc of America
+Securities LLC (which consent may be withheld at the sole discretion of Banc of
+America Securities LLC), directly or indirectly, sell, offer, contract or grant
+any option to sell, pledge, transfer or establish an open "put equivalent
+position" within the meaning of Rule 16a-1 under the Exchange Act, or otherwise
+dispose of or transfer, or announce the offering of, or file any registration
+statement under the Securities Act in respect of, any debt securities of the
+Company or securities exchangeable for or convertible into debt securities of
+the Company (other than as contemplated by this Agreement and to register the
+Exchange Securities).
+
+                  Future Reports to the Initial Purchasers. For so long as any
+Securities or Exchange Securities remain outstanding, the Company and the
+Guarantors shall furnish to Banc of America Securities LLC (i) as soon as
+practicable after the end of each fiscal year, copies of the Annual Report of
+the Company containing the balance sheet of the Company and its consolidated
+subsidiaries as of the close of such fiscal year and statements of income,
+stockholders' equity and cash flows for the year then ended and the opinion
+thereon of the Company's and the Guarantors' independent public or certified
+public accountants; (ii) as soon as practicable after the filing thereof, copies
+of each proxy statement, Annual Report on Form 10-K, Quarterly Report on Form
+10-Q, Current Report on Form 8-K or other report filed by the Company and the
+Guarantors with the Commission, the NASD or any securities exchange; and (iii)
+as soon as available, copies of any report or communication of the Company or
+the Guarantors mailed generally to holders of its capital stock or debt
+securities (including the holders of the Securities).
+
+                  No Integration. The Company agrees that it will not and will
+cause its Affiliates not to make any offer or sale of securities of the Company
+of any class if, as a result of the doctrine of "integration" referred to in
+Rule 502 under the Securities Act, such offer or sale would render invalid (for
+the purpose of the sale of the Securities by the Company to the Initial
+Purchasers, (i) the resale of the Securities by the Initial Purchasers to
+Subsequent Purchasers or (ii) the resale of the Securities by such Subsequent
+Purchasers to others) the exemption from the registration requirements of the
+Securities Act provided by Section 4 thereof or by Rule 144A or by Regulation S
+thereunder or otherwise.
+
+                  Legended Securities. Each certificate for a Note will bear the
+legend contained in "Notice to Investors" in the Offering Memorandum for the
+time period and upon the other terms stated in the Offering Memorandum.
+
+                                       14
+<PAGE>
+
+                  PORTAL. The Company shall use its best efforts to cause such
+Notes to be eligible for the National Association of Securities Dealers, Inc.
+PORTAL market (the "PORTAL market").
+
+                  Acquisition. The Company shall use its reasonable best efforts
+to consummate the Acquisition on or prior to the Special Mandatory Redemption
+Date.
+
+                  Contingent Payment Debt Instruments. The Company shall not
+treat the Securities as contingent payment debt instruments (within the meaning
+of United States Treasury Regulation Section 1.1275-4) for U.S. federal income
+tax purposes unless required to do so pursuant to a final determination of the
+Internal Revenue Service or a court of competent jurisdiction.
+
+                  Banc of America Securities LLC, on behalf of the several
+Initial Purchasers, may, in its sole discretion, waive in writing the
+performance by the Company or any Guarantor of any one or more of the foregoing
+covenants or extend the time for their performance.
+
+                  Payment of Expenses. The Company agrees to pay all costs, fees
+and expenses incurred in connection with the performance of its obligations
+hereunder and in connection with the transactions contemplated hereby, including
+without limitation (i) all expenses incident to the issuance and delivery of the
+Securities (including all printing and engraving costs), (ii) all necessary
+issue, transfer and other stamp taxes in connection with the issuance and sale
+of the Securities to the Initial Purchasers, (iii) all fees and expenses of the
+Company's and the Guarantors' counsel, independent public or certified public
+accountants and other advisors, (iv) all costs and expenses incurred in
+connection with the preparation, printing, filing, shipping and distribution of
+each preliminary Offering Memorandum and the Offering Memorandum (including
+financial statements and exhibits), and all amendments and supplements thereto,
+this Agreement, the Registration Rights Agreement, the Indenture, the DTC
+Agreement, the Notes and the Guarantees and the Escrow Agreement, (v) all filing
+fees, attorneys' fees and expenses incurred by the Company, the Guarantors or
+the Initial Purchasers in connection with qualifying or registering (or
+obtaining exemptions from the qualification or registration of) all or any part
+of the Securities for offer and sale under the Blue Sky laws and, if requested
+by the Initial Purchasers, preparing and printing a "Blue Sky Survey" or
+memorandum, and any supplements thereto, advising the Initial Purchasers of such
+qualifications, registrations and exemptions, (vi) the fees and expenses of the
+Trustee, including the fees and disbursements of counsel for the Trustee in
+connection with the Indenture, the Securities and the Exchange Securities, (vii)
+any fees payable in connection with the rating of the Securities or the Exchange
+Securities with the ratings agencies and the listing of the Securities with the
+PORTAL market, (viii) any filing fees incident to, and any reasonable fees and
+disbursements of counsel to the Initial Purchasers in connection with, the
+review by the National Association of Securities Dealers, Inc., if any, of the
+terms of the sale of the Securities or the Exchange Securities, (ix) all fees
+and expenses (including reasonable fees and expenses of counsel) of the Company
+and the Guarantors in connection with approval of the Securities by DTC for
+"book-entry" transfer, and the performance by the Company and the Guarantors of
+their respective other obligations under this Agreement. Except as provided in
+this Section 4, Section 6, Section 8 and Section 9 hereof, the Initial
+Purchasers shall pay their own expenses, including the fees and disbursements of
+their counsel.
+
+                  Conditions of the Obligations of the Initial Purchasers. The
+obligations of the several Initial Purchasers to purchase and pay for the
+Securities as provided herein on the Closing Date shall be subject to the
+accuracy of the representations and warranties on the part of the Company and
+the Guarantors set forth in Section 1 hereof as of the date hereof and as of the
+Closing Date as though then made and to the timely performance by the Company
+and the
+
+                                       15
+<PAGE>
+Guarantors of their respective covenants and other obligations hereunder, and to
+each of the following additional conditions:
+
+                  Accountants' Comfort Letter. On the date hereof, the Initial
+Purchasers shall have received from each of Ernst & Young LLP, independent
+public or certified public accountants for the Company, and Arthur Andersen LLP,
+independent public or certified public accountants for Tilia International,
+Inc., a letter dated the date hereof addressed to the Initial Purchasers, in
+form and substance satisfactory to the Initial Purchasers, containing statements
+and information of the type ordinarily included in accountant's "comfort
+letters" to Initial Purchasers, delivered according to Statement of Auditing
+Standards Nos. 72 and 76 (or any successor bulletins), with respect to the
+audited and unaudited financial statements and certain financial information
+contained in the Registration Statement and the Offering Memorandum.
+
+                  No Material Adverse Change or Ratings Agency Change. For the
+period from and after the date of this Agreement and prior to the Closing Date:
+
+                  (i) in the reasonable judgment of the Initial Purchasers
+there shall not have occurred any Material Adverse Change; and
+
+                  (ii) there shall not have occurred any downgrading, nor shall
+any notice have been given of any intended or potential downgrading or of any
+review for a possible change that does not indicate the direction of the
+possible change, in the rating accorded any securities of the Company, the
+Guarantors or any of their respective subsidiaries by any "nationally recognized
+statistical rating organization" as such term is defined for purposes of Rule
+436 under the Securities Act.
+
+                  Opinion of Counsel for the Company. On the Closing Date, the
+Initial Purchasers shall have received the favorable opinion of Willkie Farr &
+Gallagher, counsel for the Company and the Guarantors, dated as of such Closing
+Date, the form of which is attached as Exhibit A.
+
+                  Opinion of Counsel for the Initial Purchasers. On the Closing
+Date, the Initial Purchasers shall have received the favorable opinion of Latham
+& Watkins, counsel for the Initial Purchasers, dated as of such Closing Date,
+with respect to such matters as may be reasonably requested by the Initial
+Purchasers.
+
+                  Officers' Certificate. On the Closing Date, the Initial
+Purchasers shall have received a written certificate executed by the Chairman of
+the Board, Chief Executive Officer or President of the Company and the Chief
+Financial Officer or Chief Accounting Officer of the Company and each Guarantor,
+dated as of the Closing Date, to the effect set forth in subsection (b) of this
+Section 5, and further to the effect that:
+
+                  (iii) for the period from and after the date of this Agreement
+and prior to the Closing Date there has not occurred any Material Adverse
+Change;
+
+                  (iv) the representations, warranties and covenants of the
+Company and of such Guarantor set forth in Section 1 of this Agreement are true
+and correct with the same force and effect as though expressly made on and as of
+the Closing Date; and
+
+                  (v) the Company and such Guarantor has complied with all the
+agreements and satisfied all the conditions on its part to be performed or
+satisfied at or prior to the Closing Date.
+
+                                       16
+<PAGE>
+                  Bring-down Comfort Letter. On the Closing Date the Initial
+Purchasers shall have received from each of Ernst & Young LLP, independent
+public or certified public accountants for the Company, and Arthur Andersen LLP,
+independent public or certified public accountants for Tilia International,
+Inc., a letter dated such date, in form and substance satisfactory to the
+Initial Purchasers, to the effect that they reaffirm the statements made in the
+letter furnished by them pursuant to subsection of this Section 5, except that
+the specified date referred to therein for the carrying out of procedures shall
+be no more than three business days prior to the Closing Date.
+
+                  PORTAL Listing. At the Closing Date the Notes shall have been
+designated for trading on the PORTAL market.
+
+                  Registration Rights Agreement. The Company and each Guarantor
+shall have entered into the Registration Rights Agreement and the Initial
+Purchasers shall have received executed counterparts thereof.
+
+                  Indenture . The Company, the Guarantors and the Trustee shall
+have entered into the Indenture and the Initial Purchasers shall have received
+an executed copy thereof.
+
+                  Acquisition Agreement. The Company shall have entered into the
+Acquisition Agreement prior to or on the Closing Date and the Initial Purchasers
+shall have received an executed copy thereof.
+
+                  Credit Agreement. Either (i) the Company, the Guarantors and
+the lenders party to the Credit Agreement shall have entered into the Credit
+Agreement prior to or on the Closing Date or (ii) the Company and the Guarantors
+shall have obtained consents from the lenders party to the Existing Senior
+Credit Facility permitting the Company and the Guarantors to incur the debt
+under the Securities, and, in either case, the Initial Purchasers shall have
+received an executed copy thereof.
+
+                  Additional Documents. On or before the Closing Date, the
+Initial Purchasers and counsel for the Initial Purchasers shall have received
+such information, documents and opinions as they may reasonably require for the
+purposes of enabling them to pass upon the issuance and sale of the Securities
+as contemplated herein, or in order to evidence the accuracy of any of the
+representations and warranties, or the satisfaction of any of the conditions or
+agreements, herein contained.
+
+                  If any condition specified in this Section 5 is not satisfied
+when and as required to be satisfied, this Agreement may be terminated by the
+Initial Purchasers by notice to the Company at any time on or prior to the
+Closing Date, which termination shall be without liability on the part of any
+party to any other party, except that Section 4, Section 6, Section 8 and
+Section 9 shall at all times be effective and shall survive such termination.
+
+                  Reimbursement of Initial Purchasers' Expenses. If this
+Agreement is terminated by the Initial Purchasers pursuant to Section 5, or if
+the sale to the Initial Purchasers of the Securities on the Closing Date is not
+consummated because of any refusal, inability or failure on the part of the
+Company or the Guarantors to perform any agreement herein or to comply with any
+provision hereof, each of the Company and the Guarantors agrees, jointly and
+severally, to reimburse the Initial Purchasers (or such Initial Purchasers as
+have terminated this Agreement with respect to themselves), severally, upon
+demand for all out-of-pocket expenses that shall have been reasonably incurred
+by the Initial Purchasers in connection with the proposed purchase and the
+offering and sale of the Securities, including but not limited to reasonable
+fees
+
+                                       17
+<PAGE>
+and disbursements of counsel, printing expenses, travel expenses, postage,
+facsimile and telephone charges.
+
+                  Offer, Sale and Resale Procedures. Each of the Initial
+Purchasers, on the one hand, and the Company and each of the Guarantors, on the
+other hand, hereby establish and agree to observe the following procedures in
+connection with the offer and sale of the Securities:
+
+        (a) Offers and sales of the Securities will be made only by the Initial
+        Purchasers or Affiliates thereof qualified to do so in the jurisdictions
+        in which such offers or sales are made. Each such offer or sale shall
+        only be made to persons whom the offeror or seller reasonably believes
+        to be qualified institutional buyers (as defined in Rule 144A under the
+        Securities Act) or non-U.S. persons outside the United States to whom
+        the offeror or seller reasonably believes offers and sales of the
+        Securities may be made in reliance upon Regulation S under the
+        Securities Act, upon the terms and conditions set forth in Annex I
+        hereto, which Annex I is hereby expressly made a part hereof.
+
+        (b) The Securities will be offered by approaching prospective Subsequent
+        Purchasers on an individual basis. No general solicitation or general
+        advertising (within the meaning of Rule 502 under the Securities Act)
+        will be used in the United States in connection with the offering of the
+        Securities.
+
+        (c) original issuance by the Company, and until such time as the same is
+        no longer required under the applicable requirements of the Securities
+        Act, the Securities (and all securities issued in exchange therefor or
+        in substitution thereof, other than the Exchange Securities) shall bear
+        the following legend:
+
+                    "THE SECURITY (OR ITS PREDECESSOR) EVIDENCED HEREBY WAS
+                    ORIGINALLY ISSUED IN A TRANSACTION EXEMPT FROM REGISTRATION
+                    UNDER SECTION 5 OF THE UNITED STATES SECURITIES ACT OF 1933
+                    (THE "SECURITIES ACT"), AND THE SECURITY EVIDENCED HEREBY
+                    MAY NOT BE OFFERED, SOLD OR OTHERWISE TRANSFERRED IN THE
+                    ABSENCE OF SUCH REGISTRATION OR AN APPLICABLE EXEMPTION
+                    THEREFROM. EACH PURCHASER OF THE SECURITY EVIDENCED HEREBY
+                    IS HEREBY NOTIFIED THAT THE SELLER MAY BE RELYING ON THE
+                    EXEMPTION FROM THE PROVISIONS OF SECTION 5 OF THE SECURITIES
+                    ACT PROVIDED BY RULE 144A THEREUNDER. THE HOLDER OF THE
+                    SECURITY EVIDENCED HEREBY AGREES FOR THE BENEFIT OF THE
+                    COMPANY THAT (A) SUCH SECURITY MAY BE RESOLD, PLEDGED OR
+                    OTHERWISE TRANSFERRED, ONLY (i)(a) TO A PERSON WHOM THE
+                    SELLER REASONABLY BELIEVES IS A QUALIFIED INSTITUTIONAL
+                    BUYER (AS DEFINED IN RULE 144A UNDER THE SECURITIES ACT) IN
+                    A TRANSACTION MEETING THE REQUIREMENTS OF RULE 144A, (b) IN
+                    A TRANSACTION MEETING THE REQUIREMENTS OF RULE 144 UNDER THE
+                    SECURITIES ACT, (c) OUTSIDE THE UNITED STATES TO A FOREIGN
+                    PERSON IN A TRANSACTION MEETING THE REQUIREMENTS OF RULE 903
+                    OR RULE 904 OF REGULATION S UNDER THE SECURITIES ACT,
+                     (d) TO AN INSTITUTIONAL "ACCREDITED INVESTOR" (AS DEFINED
+                    IN RULE 501(a)(1), (2), (3) or (7) OF THE SECURITIES ACT)
+                    THAT, PRIOR TO SUCH TRANSFER, FURNISHES THE TRUSTEE A SIGNED
+                    LETTER CONTAINING CERTAIN REPRESENTATIONS AND
+
+                                       18
+<PAGE>
+
+                    AGREEMENTS (THE FORM OF WHICH CAN BE OBTAINED FROM THE
+                    TRUSTEE) AND, IF SUCH TRANSFER IS IN RESPECT OF AN AGGREGATE
+                    PRINCIPAL AMOUNT OF NOTES LESS THAN $250,000, AN OPINION OF
+                    COUNSEL ACCEPTABLE TO THE COMPANY THAT SUCH TRANSFER IS IN
+                    COMPLIANCE WITH THE SECURITIES ACT, OR (e) IN ACCORDANCE
+                    WITH ANOTHER EXEMPTION FROM THE REGISTRATION REQUIREMENTS OF
+                    THE SECURITIES ACT (AND BASED UPON AN OPINION OF COUNSEL IF
+                    THE COMPANY SO REQUESTS), (ii) TO THE COMPANY OR (iii)
+                    PURSUANT TO AN EFFECTIVE REGISTRATION STATEMENT AND, IN EACH
+                    CASE, IN ACCORDANCE WITH ANY APPLICABLE SECURITIES LAWS OF
+                    ANY STATE OF THE UNITED STATES OR ANY OTHER APPLICABLE
+                    JURISDICTION AND (B) THE HOLDER WILL, AND EACH SUBSEQUENT
+                    HOLDER IS REQUIRED TO, NOTIFY ANY PURCHASER OF THE SECURITY
+                    EVIDENCED HEREBY OF THE RESALE RESTRICTIONS SET FORTH IN (A)
+                    ABOVE. NO REPRESENTATION CAN BE MADE AS TO THE AVAILABILITY
+                    OF THE EXEMPTION PROVIDED BY RULE 144 FOR RESALE OF THE
+                    SECURITY EVIDENCED HEREBY."
+
+Following the sale of the Securities by the Initial Purchasers to Subsequent
+Purchasers pursuant to the terms hereof, the Initial Purchasers shall not be
+liable or responsible to the Company for any losses, damages or liabilities
+suffered or incurred by the Company, including any losses, damages or
+liabilities under the Securities Act, arising from or relating to any resale or
+transfer of any Security.
+
+SECTION 3.        INDEMNIFICATION.
+
+                  Indemnification of the Initial Purchasers. The Company and the
+Guarantors, jointly and severally, agree to indemnify and hold harmless each
+Initial Purchaser, its directors, officers and employees, and each person, if
+any, who controls any Initial Purchaser within the meaning of the Securities Act
+and the Exchange Act against any loss, claim, damage, liability or expense, as
+incurred, to which such Initial Purchaser or such controlling person may become
+subject, under the Securities Act, the Exchange Act or other federal or state
+statutory law or regulation, or at common law or otherwise (including in
+settlement of any litigation, if such settlement is effected with the written
+consent of the Company), insofar as such loss, claim, damage, liability or
+expense (or actions in respect thereof as contemplated below) arises out of or
+is based (i) upon any untrue statement or alleged untrue statement of a material
+fact contained in the Preliminary Offering Memorandum or the Offering Memorandum
+(or any amendment or supplement thereto), or the omission or alleged omission
+therefrom of a material fact necessary in order to make the statements therein,
+in the light of the circumstances under which they were made, not misleading; or
+(ii) in whole or in part upon any inaccuracy in the representations and
+warranties of the Company or any of the Guarantors contained herein; or (iii) in
+whole or in part upon any failure of the Company or any of the Guarantors to
+perform its obligations hereunder or under law; or (iv) any act or failure to
+act or any alleged act or failure to act by any Initial Purchaser in connection
+with, or relating in any manner to, the offering contemplated hereby, and which
+is included as part of or referred to in any loss, claim, damage, liability or
+action arising out of or based upon any matter covered by clause (i) above;
+provided that the Company and the Guarantors shall not be liable under this
+clause (iv) to the extent that a court of competent jurisdiction shall have
+determined by a final judgment that such loss, claim, damage, liability or
+action resulted directly from any such acts or failures to act undertaken or
+omitted to be taken by such Initial Purchaser through its gross negligence or
+willful misconduct; and to reimburse each Initial Purchaser and each such
+controlling person for any and all expenses
+
+                                       19
+<PAGE>
+(including the reasonable fees and disbursements of counsel chosen by Banc of
+America Securities LLC) as such expenses are reasonably incurred by such Initial
+Purchaser or such controlling person in connection with investigating,
+defending, settling, compromising or paying any such loss, claim, damage,
+liability, expense or action; provided, however, that the foregoing indemnity
+agreement shall not apply to any loss, claim, damage, liability or expense to
+the extent, but only to the extent, arising out of or based upon any untrue
+statement or alleged untrue statement or omission or alleged omission made in
+reliance upon and in conformity with written information furnished to the
+Company by the Initial Purchasers expressly for use in any Preliminary Offering
+Memorandum or the Offering Memorandum (or any amendment or supplement thereto).
+The indemnity agreement set forth in this Section 8 shall be in addition to any
+liabilities that the Company or any of the Guarantors may otherwise have.
+
+                  Indemnification of the Company, the Guarantors, their
+Directors and Officers. Each Initial Purchaser agrees, severally and not
+jointly, to indemnify and hold harmless the Company, the Guarantors and each of
+their respective directors and each person, if any, who controls the Company and
+the Guarantors within the meaning of the Securities Act or the Exchange Act,
+against any loss, claim, damage, liability or expense, as incurred, to which the
+Company or any such director, or controlling person may become subject, under
+the Securities Act, the Exchange Act, or other federal or state statutory law or
+regulation, or at common law or otherwise (including in settlement of any
+litigation, if such settlement is effected with the written consent of such
+Initial Purchaser), insofar as such loss, claim, damage, liability or expense
+(or actions in respect thereof as contemplated below) arises out of or is based
+upon any untrue or alleged untrue statement of a material fact contained in any
+Preliminary Offering Memorandum or the Offering Memorandum (or any amendment or
+supplement thereto), or arises out of or is based upon the omission or alleged
+omission to state therein a material fact required to be stated therein or
+necessary to make the statements therein not misleading, in each case to the
+extent, but only to the extent, that such untrue statement or alleged untrue
+statement or omission or alleged omission was made in any Preliminary Offering
+Memorandum or the Offering Memorandum (or any amendment or supplement thereto),
+in reliance upon and in conformity with written information furnished to the
+Company by the Initial Purchasers expressly for use therein; and to reimburse
+the Company, any such Guarantor, or any such director or controlling person for
+any legal and other expenses reasonably incurred by the Company, any such
+Guarantor, or any such director or controlling person in connection with
+investigating, defending, settling, compromising or paying any such loss, claim,
+damage, liability, expense or action. The Company and the Guarantors hereby
+acknowledge that the only information that the Initial Purchasers have furnished
+to the Company and the Guarantors expressly for use in any Preliminary Offering
+Memorandum or the Offering Memorandum (or any amendment or supplement thereto)
+are the statements set forth (i) in the fifth paragraph on page ii of the
+Offering Memorandum concerning stabilization by the Initial Purchasers, (ii) in
+the second sentence of the paragraph under the caption "Risk Factors--Risks
+Relating to the Notes--You cannot be sure that an active trading market will
+develop for these notes," and (iii) in the last sentence of the third paragraph,
+in the second sentence of the fourth paragraph and in the fifth paragraph under
+the caption "Plan of Distribution" in the Offering Memorandum; and the Initial
+Purchasers confirm that such statements are correct. The indemnity agreement set
+forth in this Section 8 shall be in addition to any liabilities that each
+Initial Purchaser may otherwise have.
+
+                  Notifications and Other Indemnification Procedures. Promptly
+after receipt by an indemnified party under this Section 8 of notice of the
+commencement of any action, such indemnified party will, if a claim in respect
+thereof is to be made against an indemnifying party under this Section 8, notify
+the indemnifying party in writing of the commencement thereof, but the omission
+so to notify the indemnifying party will not relieve it from any liability which
+it may have to any indemnified party for contribution or otherwise than under
+the indemnity agreement
+
+                                       20
+<PAGE>
+
+contained in this Section 8 or to the extent it is not prejudiced as a proximate
+result of such failure. In case any such action is brought against any
+indemnified party and such indemnified party seeks or intends to seek indemnity
+from an indemnifying party, the indemnifying party will be entitled to
+participate in and, to the extent that it shall elect, jointly with all other
+indemnifying parties similarly notified, by written notice delivered to the
+indemnified party promptly after receiving the aforesaid notice from such
+indemnified party, to assume the defense thereof with counsel reasonably
+satisfactory to such indemnified party; provided, however, if the defendants in
+any such action include both the indemnified party and the indemnifying party
+and the indemnified party shall have reasonably concluded that a conflict may
+arise between the positions of the indemnifying party and the indemnified party
+in conducting the defense of any such action or that there may be legal defenses
+available to it and/or other indemnified parties which are different from or
+additional to those available to the indemnifying party, the indemnified party
+or parties shall have the right to select separate counsel to assume such legal
+defenses and to otherwise participate in the defense of such action on behalf of
+such indemnified party or parties. Upon receipt of notice from the indemnifying
+party to such indemnified party of such indemnifying party's election so to
+assume the defense of such action and approval by the indemnified party of
+counsel, the indemnifying party will not be liable to such indemnified party
+under this Section 8 for any legal or other expenses subsequently incurred by
+such indemnified party in connection with the defense thereof unless the
+indemnified party shall have employed separate counsel in accordance with the
+proviso to the next preceding sentence (it being understood, however, that the
+indemnifying party shall not be liable for the expenses of more than one
+separate counsel (together with local counsel), approved by the indemnifying
+party (Banc of America Securities LLC in the case of Section 8 and Section 9),
+representing the indemnified parties who are parties to such action) or (ii) the
+indemnifying party shall not have employed counsel satisfactory to the
+indemnified party to represent the indemnified party within a reasonable time
+after notice of commencement of the action, in each of which cases the fees and
+expenses of counsel shall be at the expense of the indemnifying party.
+
+                  Settlements. The indemnifying party under this Section 8 shall
+not be liable for any settlement of any proceeding effected without its written
+consent, but if settled with such consent or if there be a final judgment for
+the plaintiff, the indemnifying party agrees to indemnify the indemnified party
+against any loss, claim, damage, liability or expense by reason of such
+settlement or judgment. Notwithstanding the foregoing sentence, if at any time
+an indemnified party shall have requested an indemnifying party to reimburse the
+indemnified party for fees and expenses of counsel as contemplated by Section 8
+hereof, the indemnifying party agrees that it shall be liable for any settlement
+of any proceeding effected without its written consent if such settlement is
+entered into more than 30 days after receipt by such indemnifying party of the
+aforesaid request and (ii) such indemnifying party shall not have reimbursed the
+indemnified party in accordance with such request prior to the date of such
+settlement. No indemnifying party shall, without the prior written consent of
+the indemnified party, effect any settlement, compromise or consent to the entry
+of judgment in any pending or threatened action, suit or proceeding in respect
+of which any indemnified party is or could have been a party and indemnity was
+or could have been sought hereunder by such indemnified party, unless such
+settlement, compromise or consent includes an unconditional release of such
+indemnified party from all liability on claims that are the subject matter of
+such action, suit or proceeding.
+
+SECTION 4.        CONTRIBUTION.
+
+                  If the indemnification provided for in Section 8 is for any
+reason held to be unavailable to or otherwise insufficient to hold harmless an
+indemnified party in respect of any losses, claims, damages, liabilities or
+expenses referred to therein, then each indemnifying party
+
+                                       21
+<PAGE>
+
+shall contribute to the aggregate amount paid or payable by such indemnified
+party, as incurred, as a result of any losses, claims, damages, liabilities or
+expenses referred to therein (i) in such proportion as is appropriate to reflect
+the relative benefits received by the Company or any of the Guarantors, on the
+one hand, and the Initial Purchasers, on the other hand, from the offering of
+the Securities pursuant to this Agreement or (ii) if the allocation provided by
+clause above is not permitted by applicable law, in such proportion as is
+appropriate to reflect not only the relative benefits referred to in clause
+above but also the relative fault of the Company or any of the Guarantors, on
+the one hand, and the Initial Purchasers, on the other hand, in connection with
+the statements or omissions or inaccuracies in the representations and
+warranties herein that resulted in such losses, claims, damages, liabilities or
+expenses, as well as any other relevant equitable considerations. The relative
+benefits received by the Company or any of the Guarantors, on the one hand, and
+the Initial Purchasers, on the other hand, in connection with the offering of
+the Securities pursuant to this Agreement shall be deemed to be in the same
+respective proportions as the total net proceeds from the offering of the
+Securities pursuant to this Agreement (before deducting expenses) received by
+the Company, and the total discount received by the Initial Purchasers bear to
+the aggregate initial offering price of the Securities. The relative fault of
+the Company or any of the Guarantors, on the one hand, and the Initial
+Purchasers, on the other hand, shall be determined by reference to, among other
+things, whether any such untrue or alleged untrue statement of a material fact
+or omission or alleged omission to state a material fact or any such inaccurate
+or alleged inaccurate representation or warranty relates to information supplied
+by the Company or any of the Guarantors, on the one hand, or the Initial
+Purchasers, on the other hand, and the parties' relative intent, knowledge,
+access to information and opportunity to correct or prevent such statement or
+omission.
+
+                  The amount paid or payable by a party as a result of the
+losses, claims, damages, liabilities and expenses referred to above shall be
+deemed to include, subject to the limitations set forth in Section 8, any legal
+or other fees or expenses reasonably incurred by such party in connection with
+investigating or defending any action or claim. The provisions set forth in
+Section 8 with respect to notice of commencement of any action shall apply if a
+claim for contribution is to be made under this Section 9; provided, however,
+that no additional notice shall be required with respect to any action for which
+notice has been given under Section 8 for purposes of indemnification.
+
+                  The Company, the Guarantors and the Initial Purchasers agree
+that it would not be just and equitable if contribution pursuant to this Section
+9 were determined by pro rata allocation (even if the Initial Purchasers were
+treated as one entity for such purpose) or by any other method of allocation
+which does not take account of the equitable considerations referred to in this
+Section 9.
+
+                  Notwithstanding the provisions of this Section 9, no Initial
+Purchaser shall be required to contribute any amount in excess of the discount
+received by such Initial Purchaser in connection with the Securities distributed
+by it. No person guilty of fraudulent misrepresentation (within the meaning of
+Section 11 of the Securities Act) shall be entitled to contribution from any
+person who was not guilty of such fraudulent misrepresentation. The Initial
+Purchasers' obligations to contribute pursuant to this Section 9 are several,
+and not joint, in proportion to their respective commitments as set forth
+opposite their names in Schedule A. For purposes of this Section 9, each
+director, officer and employee of an Initial Purchaser and each person, if any,
+who controls an Initial Purchaser within the meaning of the Securities Act and
+the Exchange Act shall have the same rights to contribution as such Initial
+Purchaser, and each director of the Company and each director of the Guarantors,
+and each person, if any, who controls the Company or a Guarantor with the
+meaning of the Securities Act and the Exchange Act shall have the same rights to
+contribution as the Company and such Guarantor.
+
+                                       22
+<PAGE>
+                  Termination of this Agreement. Prior to the Closing Date, this
+Agreement may be terminated by the Initial Purchasers by notice given to the
+Company if at any time (i) trading or quotation in any of the Company's
+securities shall have been suspended or limited by the Commission or by the New
+York Stock Exchange, or trading in securities generally on either the Nasdaq
+Stock Market or the New York Stock Exchange shall have been suspended or
+limited, or minimum or maximum prices shall have been generally established on
+any of such stock exchanges by the Commission or the NASD; (ii) a general
+banking moratorium shall have been declared by any of federal, New York,
+Delaware or California authorities; (iii) there shall have occurred any outbreak
+or escalation of national or international hostilities or any crisis or
+calamity, or any change in the United States or international financial markets,
+or any substantial change or development involving a prospective substantial
+change in United States' or international political, financial or economic
+conditions, as in the judgment of the Initial Purchasers is material and adverse
+and makes it impracticable to market the Securities in the manner and on the
+terms described in the Offering Memorandum or to enforce contracts for the sale
+of securities; (iv) in the judgment of the Initial Purchasers there shall have
+occurred any Material Adverse Change; or (v) the Company, the Guarantors or
+their respective subsidiaries shall have sustained a loss by strike, fire,
+flood, earthquake, accident or other calamity of such character as in the
+judgment of the Initial Purchasers may interfere materially with the conduct of
+the business and operations of the Company, the Guarantors or their respective
+subsidiaries regardless of whether or not such loss shall have been insured. Any
+termination pursuant to this Section 10 shall be without liability on the part
+of (x) the Company and the Guarantors to any Initial Purchaser, except that the
+Company and the Guarantors shall be obligated to reimburse the expenses of the
+Initial Purchasers pursuant to Sections 4 and 6 hereof, (y) any Initial
+Purchaser to the Company, or (z) of any party hereto to any other party except
+that the provisions of Section 8 and Section 9 shall at all times be effective
+and shall survive such termination.
+
+                  Representations and Indemnities to Survive Delivery. The
+respective indemnities, agreements, representations, warranties and other
+statements of the Company and the Guarantors, of their respective officers and
+of the several Initial Purchasers set forth in or made pursuant to this
+Agreement will remain in full force and effect, regardless of any investigation
+made by or on behalf of any Initial Purchaser or the Company, the Guarantors or
+any of its or their respective partners, officers or directors or any
+controlling person, as the case may be, and will survive delivery of and payment
+for the Securities sold hereunder and any termination of this Agreement.
+
+                  Notices. All communications hereunder shall be in writing and
+shall be mailed, hand delivered or telecopied and confirmed to the parties
+hereto as follows:
+
+                                       23
+<PAGE>
+
+If to the Initial Purchasers:
+
+         Banc of America Securities LLC
+         9 West 57th Street, 31st Floor
+         New York, NY 10019
+
+         Facsimile:  212-583-8324
+         Attention:  High Yield Capital Markets
+
+         and
+
+         CIBC World Markets Corp.
+         425 Lexington Avenue, 5th Floor
+         New York, NY 10017
+
+         Facsimile:  (212) 885-4801
+         Attention:  High Yield Capital Markets
+
+with a copy to:
+
+         Latham & Watkins
+         885 Third Avenue, Suite 1000
+         New York, NY 10022
+
+         Facsimile:  (212) 751-4864
+         Attention:  Ian Blumenstein
+
+If to the Company or  the Guarantors:
+
+         Alltrista Corporation
+         Suite B-302
+         555 Theodore Fremd Avenue
+         Rye, NY 10580
+
+         Facsimile:  (914) 967-9405
+         Attention:  Ian G.H. Ashken
+
+with a copy to:
+
+         Willkie Farr & Gallagher
+         787 Seventh Avenue
+         New York, NY 10019
+
+         Facsimile:  (212) 728-8111
+         Attention:  William J. Grant
+
+Any party hereto may change the address for receipt of communications by giving
+written notice to the others.
+
+                  Successors. This Agreement will inure to the benefit of and be
+binding upon the parties hereto, including any substitute Initial Purchasers
+pursuant to Section 16 hereof, and to the benefit of the employees, officers and
+directors and controlling persons referred to in
+
+                                       24
+<PAGE>
+
+Section 8 and Section 9, and in each case their respective successors, and no
+other person will have any right or obligation hereunder. The term "successors"
+shall not include any purchaser of the Securities as such from any of the
+Initial Purchasers merely by reason of such purchase.
+
+                  Partial Unenforceability. The invalidity or unenforceability
+of any Section, paragraph or provision of this Agreement shall not affect the
+validity or enforceability of any other Section, paragraph or provision hereof.
+If any Section, paragraph or provision of this Agreement is for any reason
+determined to be invalid or unenforceable, there shall be deemed to be made such
+minor changes (and only such minor changes) as are necessary to make it valid
+and enforceable.
+
+                  Governing Law Provisions. THIS AGREEMENT SHALL BE GOVERNED BY
+AND CONSTRUED IN ACCORDANCE WITH THE INTERNAL LAWS OF THE STATE OF NEW YORK
+APPLICABLE TO AGREEMENTS MADE AND TO BE PERFORMED IN SUCH STATE.
+
+                  Consent to Jurisdiction. Any legal suit, action or proceeding
+arising out of or based upon this Agreement or the transactions contemplated
+hereby ("Related Proceedings") may be instituted in the federal courts of the
+United States of America located in the City and County of New York or the
+courts of the State of New York in each case located in the City and County of
+New York (collectively, the "Specified Courts"), and each party irrevocably
+submits to the non-exclusive jurisdiction (except for proceedings instituted in
+regard to the enforcement of a judgment of any such court (a "Related
+Judgment"), as to which such jurisdiction is non-exclusive) of such courts in
+any such suit, action or proceeding. Service of any process, summons, notice or
+document by mail to such party's address set forth above shall be effective
+service of process for any suit, action or other proceeding brought in any such
+court. The parties irrevocably and unconditionally waive any objection to the
+laying of venue of any suit, action or other proceeding in the Specified Courts
+and irrevocably and unconditionally waive and agree not to plead or claim in any
+such court that any such suit, action or other proceeding brought in any such
+court has been brought in an inconvenient forum.
+
+                  Default of One or More of the Several Initial Purchasers. If
+any one or more of the several Initial Purchasers shall fail or refuse to
+purchase Securities that it or they have agreed to purchase hereunder on the
+Closing Date, and the aggregate number of Securities which such defaulting
+Initial Purchaser or Initial Purchasers agreed but failed or refused to purchase
+does not exceed 10% of the aggregate number of the Securities to be purchased on
+such date, the other Initial Purchasers shall be obligated, severally, in the
+proportions that the number of Securities set forth opposite their respective
+names on Schedule A bears to the aggregate number of Securities set forth
+opposite the names of all such non-defaulting Initial Purchasers, or in such
+other proportions as may be specified by the Initial Purchasers with the consent
+of the non-defaulting Initial Purchasers, to purchase the Securities which such
+defaulting Initial Purchaser or Initial Purchasers agreed but failed or refused
+to purchase on such date. If any one or more of the Initial Purchasers shall
+fail or refuse to purchase Securities and the aggregate number of Securities
+with respect to which such default occurs exceeds 10% of the aggregate number of
+Securities to be purchased on the Closing Date, and arrangements satisfactory to
+the Initial Purchasers and the Company for the purchase of such Securities are
+not made within 48 hours after such default, this Agreement shall terminate
+without liability of any party to any other party except that the provisions of
+Section 4, Section 6, Section 8 and Section 9 shall at all times be effective
+and shall survive such termination. In any such case either the Initial
+Purchasers or the Company shall have the right to postpone the Closing Date, as
+the case may be, but in no event for longer than seven days in order that the
+required changes, if any, to the Offering Memorandum or any other documents or
+arrangements may be effected.
+
+                                       25
+<PAGE>
+
+                  As used in this Agreement, the term "Initial Purchaser" shall
+be deemed to include any person substituted for a defaulting Initial Purchaser
+under this Section 10. Any action taken under this Section 16 shall not relieve
+any defaulting Initial Purchaser from liability in respect of any default of
+such Initial Purchaser under this Agreement.
+
+                  General Provisions. This Agreement constitutes the entire
+agreement of the parties to this Agreement and supersedes all prior written or
+oral and all contemporaneous oral agreements, understandings and negotiations
+with respect to the subject matter hereof. This Agreement may be executed in two
+or more counterparts, each one of which shall be an original, with the same
+effect as if the signatures thereto and hereto were upon the same instrument.
+This Agreement may not be amended or modified unless in writing by all of the
+parties hereto, and no condition herein (express or implied) may be waived
+unless waived in writing by each party whom the condition is meant to benefit.
+The Table of Contents and the section headings herein are for the convenience of
+the parties only and shall not affect the construction or interpretation of this
+Agreement.
+
+                  If the foregoing is in accordance with your understanding of
+our agreement, kindly sign and return to the Company the enclosed copies hereof,
+whereupon this instrument, along with all counterparts hereof, shall become a
+binding agreement in accordance with its terms.
+
+                                       26
+<PAGE>
+                                    Very truly yours,
+
+                                    ALLTRISTA CORPORATION
+
+
+
+
+                                    By: /s/ Ian G.H. Ashken
+                                        ----------------------------------
+                                    Name:  Ian G.H. Ashken
+                                    Title: Vice Chairman, Chief Financial
+                                           Officer and Secretary
+
+
+                                    ALLTRISTA NEWCO CORPORATION
+
+
+
+
+                                    By: /s/ Ian G.H. Ashken
+                                        ----------------------------------
+                                    Name:  Ian G.H. Ashken
+                                    Title: Treasurer and Secretary
+
+
+                                    QUOIN CORPORATION
+
+
+
+
+                                    By: /s/ Ian G.H. Ashken
+                                        ----------------------------------
+                                    Name:  Ian G.H. Ashken
+                                    Title: Treasurer
+
+
+                                    HEARTHMARK, INC.
+
+
+
+
+                                    By: /s/ Ian G.H. Ashken
+                                        ----------------------------------
+                                    Name:  Ian G.H. Ashken
+                                    Title: Treasurer and Secretary
+
+
+                                    ALLTRISTA PLASTICS CORPORATION
+
+
+
+
+                                    By: /s/ Ian G.H. Ashken
+                                        ----------------------------------
+                                    Name:  Ian G.H. Ashken
+                                    Title: Treasurer and Secretary
+
+                                       27
+<PAGE>
+
+
+                                    ALLTRISTA ZINC PRODUCTS, L.P.
+
+                                    By:  Alltrista Newco Corporation,
+                                         its General Partner
+
+
+
+
+                                    By: /s/ Ian G.H. Ashken
+                                        ----------------------------------
+                                    Name:  Ian G.H. Ashken
+                                    Title: Treasurer and Secretary
+
+
+
+
+                                    ALLTRISTA ACQUISITION I, INC
+
+
+
+
+                                    By: /s/ Ian G.H. Ashken
+                                        ----------------------------------
+                                    Name:  Ian G.H. Ashken
+                                    Title: Treasurer and Secretary
+
+
+                                    ALLTRISTA ACQUISITION II, Inc
+
+
+
+
+                                    By: /s/ Ian G.H. Ashken
+                                        ----------------------------------
+                                    Name:  Ian G.H. Ashken
+                                    Title: Treasurer and Secretary
+
+
+                                    ALLTRISTA ACQUISITION III, Inc
+
+
+
+
+                                    By: /s/ Ian G.H. Ashken
+                                        ----------------------------------
+                                    Name:  Ian G.H. Ashken
+                                    Title: Treasurer and Secretary
+
+
+                                    PENN VIDEO, INC.
+
+
+
+
+                                    By: /s/ Ian G.H. Ashken
+                                        ----------------------------------
+                                    Name:  Ian G.H. Ashken
+                                    Title: Treasurer and Secretary
+
+                                       28
+<PAGE>
+
+                                    LAFAYETTE STEEL & ALUMINUM
+                                    CORPORATION
+
+
+
+
+                                    By: /s/ Ian G.H. Ashken
+                                        ----------------------------------
+                                    Name:  Ian G.H. Ashken
+                                    Title: Treasurer and Secretary
+
+
+                                    CASPERS TIN PLATE COMPANY
+
+
+
+
+                                    By: /s/ Ian G.H. Ashken
+                                        ----------------------------------
+                                    Name:  Ian G.H. Ashken
+                                    Title: Treasurer and Secretary
+
+
+                                    UNIMARK PLASTICS, INC.
+
+
+
+
+                                    By: /s/ Ian G.H. Ashken
+                                        ----------------------------------
+                                    Name:  Ian G.H. Ashken
+                                    Title: Treasurer and Secretary
+
+
+                                    LUMENX CORPORATION
+
+
+
+
+                                    By: /s/ Ian G.H. Ashken
+                                        ----------------------------------
+                                    Name:  Ian G.H. Ashken
+                                    Title: Treasurer and Secretary
+
+
+                                    ALLTRISTA UNIMARK, INC.
+
+
+
+
+                                    By: /s/ Ian G.H. Ashken
+                                        ----------------------------------
+                                    Name:  Ian G.H. Ashken
+                                    Title: Treasurer and Secretary
+
+
+                                    TRIENDA CORPORATION
+
+
+
+
+                                    By: /s/ Ian G.H. Ashken
+                                        ----------------------------------
+                                    Name:  Ian G.H. Ashken
+                                    Title: Treasurer and Secretary
+
+                                       29
+<PAGE>
+
+
+                  The foregoing Purchase Agreement is hereby confirmed and
+accepted by the Initial Purchasers as of the date first above written.
+
+
+BANC OF AMERICA SECURITIES LLC
+CIBC WORLD MARKETS CORP.
+NATCITY INVESTMENTS, INC.
+         As representatives of the several
+         Initial Purchasers listed on Schedule A
+
+By:  Banc of America Securities LLC
+
+
+
+By: /s/ Bruce Thompson
+    -----------------------------
+Name:  Bruce Thompson
+Title: Managing Director
+
+                                       30
+
+<PAGE>
+
+
+
+                                   SCHEDULE A
+
+
+
+
+                                                         Aggregate Principal
+                                                         Amount of Securities
+                                                         to be Purchased
+Initial Purchasers
+-----------------------------------------------------   -----------------------
+
+Banc of America Securities LLC ......................    $ 75,000,000
+CIBC World Markets Corp..............................    $ 67,500,000
+NatCity Investments, Inc. ...........................    $   7,500,000
+
+         Total.......................................    $150,000,000
+
+
+<PAGE>
+
+
+
+                                   SCHEDULE B
+
+                                   Guarantors
+
+Alltrista Newco Corporation
+Quoin Corporation
+Hearthmark, Inc.*
+Alltrista Plastics Corporation**
+Alltrista Zinc Products, L.P.***
+Alltrista Acquisition I, Inc.
+Alltrista Acquisition II, Inc.
+Alltrista Acquisition III, Inc.
+Penn Video, Inc.
+Lafayette Steel & Aluminum Corporation
+Caspers Tin Plate Company
+Unimark Plastics, Inc.
+LumenX Corporation
+Alltrista Unimark, Inc.
+TriEnda Corporation
+
+
+
+*        (DBA) Alltrista Consumer Products Company
+**       (DBA) Alltrista Unimark Plastics Company and Alltrista Industrial
+         Plastics Company
+***      (DBA) Alltrista Zinc Products Company
+
+
+
+
+
+</TEXT>
+</DOCUMENT>

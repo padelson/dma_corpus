@@ -1,0 +1,4263 @@
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>4
+<FILENAME>ex10.txt
+<DESCRIPTION>CONTRACT
+<TEXT>
+                            SHARE PURCHASE AGREEMENT
+
+This Share Purchase Agreement ("Agreement") is executed on July 25, 2005, coming
+into force on August 1, 2005, by Global Gold Mining, LLC, a Delaware, USA
+limited liability company ("Buyer"), Mr. Karapet Khachatryan, an individual
+resident in Armenia ("A"), and Mr. Arthur Gevorgyan, an individual resident in
+Armenia ("B"and, collectively with A consisting of one hundred percent of the
+"participants" of Mego Gold, LLC an Armenian limited liability company,
+"Sellers").
+
+
+
+
+
+
+
+                                    RECITALS
+
+Sellers desire to sell, and Buyer desires to purchase, all of the issued and
+outstanding shares of participation (the "Shares") in Mego Gold, LLC an Armenian
+limited liability company which holds valid exploration licenses, a pilot plant,
+and other assets and improvements in Armenia for the mining property known as
+Toukhmanuk and other license areas all as described in the Disclosure Letter
+attached and by the Closing shall have mutually acceptable special mining
+licenses and agreements for such properties (the "Company"), for the
+consideration and on the terms set forth in this Agreement.
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+                                    AGREEMENT
+
+The parties, intending to be legally bound, agree as follows:
+
+
+
+DEFINITIONS. For purposes of this Agreement, the following terms have the
+meanings specified or referred to in this Section 1:
+
+
+
+         "Acquired Company"--the Company.
+
+
+         "Adjustment Amount"--as defined in Section 2.5.
+
+
+         "Applicable Contract"--any Contract (a) under which the Acquired
+Company has or may acquire any rights, (b) under which the Acquired Company has
+or may become subject to any obligation or liability, or (c) by which the
+Acquired Company or any of the assets owned or used by it is or may become
+bound.
+
+
+
+
+
+         "Balance Sheet"--as defined in Section 3.4.
+
+
+         "Best Efforts"--the efforts that a prudent Person desirous of achieving
+a result would use in similar circumstances to ensure that such result is
+achieved as expeditiously as possible
+
+
+<PAGE>
+
+         "Breach"--a "Breach" of a representation, warranty, covenant,
+obligation, or other provision of this Agreement or any instrument delivered
+pursuant to this Agreement will be deemed to have occurred if there is or has
+been (a) any inaccuracy in or breach of, or any failure to perform or comply
+with, such representation, warranty, covenant, obligation, or other provision,
+or (b) any claim (by any Person) or other occurrence or circumstance that is or
+was inconsistent with such representation, warranty, covenant, obligation, or
+other provision, and the term "Breach" means any such inaccuracy, breach,
+failure, claim, occurrence, or circumstance.
+
+
+
+
+
+
+
+         "Buyer"--as defined in the first paragraph of this Agreement.
+
+
+
+         "Closing"--as defined in Section 2.3.
+
+
+         "Closing Date"--the date and time as of which the Closing actually
+takes place.
+
+
+
+         "Company"--as defined in the Recitals of this Agreement.
+
+
+
+         "Consent"--any approval, consent, ratification, waiver, or other
+authorization (including any Governmental Authorization).
+
+
+<PAGE>
+
+         "Contemplated Transactions"--all of the transactions contemplated by
+this Agreement, including:
+
+
+
+                  (a) The sale of the Shares by Sellers to Buyer;
+
+                  (b) the execution, delivery, and performance of the Employment
+         Agreements, the Noncompetition Agreements, the Sellers' Releases;
+
+                  (c) the performance by Buyer and Sellers of their respective
+         covenants and obligations, including the delivery of the Corporate
+         Guarantee from Buyer, under this Agreement; and
+
+
+
+                  (d) Buyer's acquisition and ownership of the Shares and
+         exercise of control over the Acquired Companies.
+
+
+
+         "Contract"--any agreement, contract, obligation, promise, or
+undertaking (whether written or oral and whether express or implied) that is
+legally binding.
+
+
+
+         "Damages"--as defined in Section 10.2.
+
+<PAGE>
+
+         "Disclosure Letter"--the disclosure letter delivered by Sellers to
+Buyer concurrently with the execution and delivery of this Agreement, attached
+hereto as Exhibit A and made a part hereof.
+
+         "Employment Agreements"--as defined in
+Section 2.4(a)(iii).
+
+
+         "Encumbrance"--any charge, claim, community property interest,
+condition, equitable interest, lien, option, pledge, security interest, right of
+first refusal, or restriction of any kind, including any restriction on use,
+voting, transfer, receipt of income, or exercise of any other attribute of
+ownership.
+
+
+         "Environment"--soil, land surface or subsurface strata, surface waters
+(including any waters, streams, ponds, drainage basins, and wetlands),
+groundwaters, drinking water supply, stream sediments, ambient air (including
+indoor air), plant and animal life, and any other environmental medium or
+natural resource.
+
+
+         "Environmental, Health, and Safety Liabilities"--any cost, damages,
+expense, liability, obligation, or other responsibility arising from or under
+Environmental Law or Occupational Safety and Health Law and consisting of or
+relating to:
+
+
+<PAGE>
+
+                  (a) any environmental, health, or safety matters or conditions
+         (including on-site or off-site contamination, occupational safety and
+         health, and regulation of chemical substances or products);
+
+
+                  (b) fines, penalties, judgments, awards, settlements, legal or
+         administrative proceedings, damages, losses, claims, demands and
+         response, investigative, remedial, or inspection costs and expenses
+         arising under Environmental Law or Occupational Safety and Health Law;
+
+
+                  (c) financial responsibility under Environmental Law or
+         Occupational Safety and Health Law for cleanup costs or corrective
+         action, including any investigation, cleanup, removal, containment, or
+         other remediation or response actions ("Cleanup") required by
+         applicable Environmental Law or Occupational Safety and Health Law
+         (whether or not such Cleanup has been required or requested by any
+         Governmental Body or any other Person) and for any natural resource
+         damages; or
+
+
+                  (d) any other compliance, corrective, investigative, or
+         remedial measures required under Environmental Law or Occupational
+         Safety and Health Law.
+
+
+
+
+<PAGE>
+
+         "Environmental Law"--any Legal Requirement that requires or relates to:
+
+
+
+                  (a) advising appropriate authorities, employees, and the
+         public of Armenia of intended or actual releases of pollutants or
+         hazardous substances or materials, violations of discharge limits, or
+         other prohibitions and of the commencements of activities, such as
+         resource extraction or construction, that could have significant impact
+         on the Environment;
+
+
+
+                  (b) preventing or reducing to acceptable levels the release of
+         pollutants or hazardous substances or materials into the Environment;
+
+
+
+                  (c) reducing the quantities, preventing the release, or
+         minimizing the hazardous characteristics of wastes that are generated;
+
+                  (d) assuring that products are designed, formulated, packaged,
+         and used so that they do not present unreasonable risks to human health
+         or the Environment when used or disposed of;
+
+
+
+                  (e) protecting resources, species, or ecological amenities;
+
+
+<PAGE>
+
+                  (f) reducing to acceptable levels the risks inherent in the
+         transportation of hazardous substances, pollutants, oil, or other
+         potentially harmful substances;
+
+                  (g) cleaning up pollutants that have been released, preventing
+         the threat of release, or paying the costs of such clean up or
+         prevention; or
+
+                  (h) making responsible parties pay private parties, or groups
+         of them, for damages done to their health or the Environment, or
+         permitting self-appointed representatives of the public interest to
+         recover for injuries done to public assets.
+
+
+
+         "Facilities"--any real property, leaseholds, or other interests
+currently or formerly owned or operated by the Acquired Company and any
+buildings, plants, structures, or equipment (including motor vehicles, tank
+cars, and rolling stock) currently or formerly owned or operated by the Acquired
+Company.
+
+
+
+
+
+         "GAAP"--generally accepted United States accounting principles, applied
+on a basis consistent with the basis on which the Balance Sheet and the other
+financial statements referred to in Section 3.4(b) were prepared.
+
+
+<PAGE>
+
+         "Governmental Authorization"--any approval, consent, license, permit,
+waiver, or other authorization issued, granted, given, or otherwise made
+available by or under the authority of any Governmental Body or pursuant to any
+Legal Requirement.
+
+
+         "Governmental Body"--any:
+
+
+                  (a) nation, state, county, city, town, village, district, or
+         other jurisdiction of any nature;
+
+
+
+                  (b) national, marz, local, municipal, foreign, or other
+         government;
+
+                  (c) governmental or quasi-governmental authority of any nature
+         (including any governmental agency, branch, department, official, or
+         entity and any court or other tribunal);
+
+
+                  (d) multi-national organization or body; or
+
+                  (e) body exercising, or entitled to exercise, any
+         administrative, executive, judicial, legislative, police, regulatory,
+         or taxing authority or power of any nature.
+
+
+<PAGE>
+
+         "Hazardous Activity"--the distribution, generation, handling,
+importing, management, manufacturing, processing, production, refinement,
+Release, storage, transfer, transportation, treatment, or use (including any
+withdrawal or other use of groundwater) of Hazardous Materials in, on, under,
+about, or from the Facilities or any part thereof into the Environment, and any
+other act, business, operation, or thing that increases the danger, or risk of
+danger, or poses an unreasonable risk of harm to persons or property on or off
+the Facilities, or that may affect the value of the Facilities or the Acquired
+Companies.
+
+
+
+         "Hazardous Materials"--any waste or other substance that is listed,
+defined, designated, or classified as, or otherwise determined to be, hazardous,
+radioactive, or toxic or a pollutant or a contaminant under or pursuant to any
+Environmental Law, including any admixture or solution thereof, and specifically
+including petroleum and all derivatives thereof or synthetic substitutes
+therefor and asbestos or asbestos-containing materials.
+
+
+
+         "Intellectual Property Assets"--as defined in
+Section 3.22.
+
+
+
+         "Interim Balance Sheet"--as defined in
+Section 3.4.
+
+
+
+         "IRS"--the United States Internal Revenue Service or any successor
+agency, and, to the extent relevant, the United States Department of the
+Treasury.
+
+
+
+         "Knowledge"--an individual will be deemed to have "Knowledge" of a
+particular fact or other matter if:
+
+
+<PAGE>
+
+                  (a) such individual is actually aware of such fact or other
+         matter; or
+
+                  (b) a prudent individual could be expected to discover or
+         otherwise become aware of such fact or other matter in the course of
+         conducting a reasonably comprehensive investigation concerning the
+         existence of such fact or other matter.
+
+
+
+         A Person (other than an individual) will be deemed to have "Knowledge"
+of a particular fact or other matter if any individual who is serving, or who
+has at any time served, as a director, officer, partner, executor, or trustee of
+such Person (or in any similar capacity) has, or at any time had, Knowledge of
+such fact or other matter.
+
+
+         "Legal Requirement"--any federal, state, local, municipal, foreign,
+international, multinational, or other administrative order, constitution, law,
+ordinance, principle of common law, regulation, statute, or treaty.
+
+
+
+         "Noncompetition Agreements"--as defined in
+Section 2.4(a) (iv).
+
+
+<PAGE>
+
+         "Occupational Safety and Health Law"--any Legal Requirement designed to
+provide safe and healthful working conditions and to reduce occupational safety
+and health hazards, and any program, whether governmental or private (including
+those promulgated or sponsored by industry associations and insurance
+companies), designed to provide safe and healthful working conditions.
+
+
+         "Order"--any award, decision, injunction, judgment, order, ruling,
+subpoena, or verdict entered, issued, made, or rendered by any court,
+administrative agency, or other Governmental Body or by any arbitrator.
+
+
+
+
+         "Ordinary Course of Business"--an action taken by a Person will be
+deemed to have been taken in the "Ordinary Course of Business" only if:
+
+
+                  (a) such action is consistent with the past practices of such
+         Person and is taken in the ordinary course of the normal day-to-day
+         operations of such Person;
+
+                  (b) such action is not required to be authorized by the board
+         such Person (or by any Person or group of Persons exercising similar
+         authority); and
+
+<PAGE>
+
+                  (c) such action is similar in nature and magnitude to actions
+         customarily taken, without any authorization by the board (or by any
+         Person or group of Persons exercising similar authority), in the
+         ordinary course of the normal day-to-day operations of other Persons
+         that are in the same line of business as such Person.
+
+
+
+         "Organizational Documents"--(a) the articles or certificate of
+incorporation and the bylaws of a corporation; (b) the partnership agreement and
+any statement of partnership of a general partnership; (c) the limited
+partnership agreement and the certificate of limited partnership of a limited
+partnership; (d) the certificate of formation, participants decisions, and the
+charter or operating agreement of any limited liability company; (e) any charter
+or similar document adopted or filed in connection with the creation, formation,
+or organization of a Person; and (e) any minutes, protocols, or documents
+related to a Person's decisions or actions; and (f) any amendment to any of the
+foregoing.
+
+
+
+
+
+
+
+
+
+
+
+         "Person"--any individual, corporation (including any non-profit
+corporation), general or limited partnership, limited liability company, joint
+venture, estate, trust, association, organization, labor union, or other entity
+or Governmental Body.
+
+
+
+
+<PAGE>
+
+          "Proceeding"--any action, arbitration, audit, hearing, investigation,
+litigation, or suit (whether civil, criminal, administrative, investigative, or
+informal) commenced, brought, conducted, or heard by or before, or otherwise
+involving, any Governmental Body or arbitrator.
+
+
+
+
+
+          "Related Person"--with respect to a particular individual:
+
+
+
+                  (a) each other member of such individual's Family;
+
+                  (b) any Person that is directly or indirectly controlled by
+         such individual or one or more members of such individual's Family;
+
+
+
+                  (c) any Person in which such individual or members of such
+         individual's Family hold (individually or in the aggregate) a Material
+         Interest; and
+
+                  (d) any Person with respect to which such individual or one or
+         more members of such individual's Family serves as a director, officer,
+         partner, executor, or trustee (or in a similar capacity).
+
+With respect to a specified Person other than an individual:
+
+                  (a) any Person that directly or indirectly controls, is
+         directly or indirectly controlled by, or is directly or indirectly
+         under common control with such specified Person;
+
+
+<PAGE>
+
+                  (b) any Person that holds a Material Interest in such
+         specified Person;
+
+                  (c) each Person that serves as a director, officer, partner,
+         executor, or trustee of such specified Person (or in a similar
+         capacity);
+
+                  (d) any Person in which such specified Person holds a Material
+         Interest;
+
+                  (e) any Person with respect to which such specified Person
+         serves as a general partner or a trustee (or in a similar capacity);
+         and
+
+                  (f) any Related Person of any individual described in clause
+         (b) or (c).
+
+For purposes of this definition, (a) the "Family" of an individual includes (i)
+the individual, (ii) the individual's spouse, (iii) any other natural person who
+is related to the individual or the individual's spouse within the second
+degree, and (iv) any other natural person who resides with such individual, and
+(b) "Material Interest" means direct or indirect beneficial ownership of voting
+securities or other voting interests representing at least 20% of the
+outstanding voting power of a Person or equity securities or other equity
+interests representing at least 20% of the outstanding equity securities or
+equity interests in a Person.
+
+
+
+
+<PAGE>
+
+         "Release"--any spilling, leaking, emitting, discharging, depositing,
+escaping, leaching, dumping, or other releasing into the Environment, whether
+intentional or unintentional.
+
+
+
+         "Representative"--with respect to a particular Person, any authorised
+director, officer, employee, agent, consultant, advisor, or other representative
+of such Person, including legal counsel, accountants, and financial advisors.
+
+
+
+         "Sellers"--as defined in the first paragraph of this Agreement.
+
+
+
+         "Sellers' Releases"--as defined in Section 2.4.
+
+
+         "Shares"--as defined in the Recitals of this Agreement.
+
+         "Subsidiary"--with respect to any Person (the "Owner"), any corporation
+or other Person of which securities or other interests having the power to elect
+a majority of that corporation's or other Person's board of directors or similar
+governing body, or otherwise having the power to direct the business and
+policies of that corporation or other Person (other than securities or other
+interests having such power only upon the happening of a contingency that has
+not occurred) are held by the Owner or one or more of its Subsidiaries.
+
+
+
+<PAGE>
+
+         "Tax Return"--any return (including any information return), report,
+statement, schedule, notice, form, or other document or information filed with
+or submitted to, or required to be filed with or submitted to, any Governmental
+Body in connection with the determination, assessment, collection, or payment of
+any Tax or in connection with the administration, implementation, or enforcement
+of or compliance with any Legal Requirement relating to any Tax.
+
+
+
+         "Threat of Release"--a substantial likelihood of a Release that may
+require action in order to prevent or mitigate damage to the Environment that
+may result from such Release.
+
+
+
+         "Threatened"--a claim, Proceeding, dispute, action, or other matter
+will be deemed to have been "Threatened" if any demand or statement has been
+made (orally or in writing) or any notice has been given (orally or in writing),
+or if any other event has occurred or any other circumstances exist, that would
+lead a prudent Person to conclude that such a claim, Proceeding, dispute,
+action, or other matter is likely to be asserted, commenced, taken, or otherwise
+pursued in the future.
+
+
+
+SALE AND TRANSFER OF SHARES; CLOSING.
+
+         Shares. Subject to the terms and conditions of this Agreement, at the
+Closing, Sellers will sell and transfer the Shares to Buyer, and Buyer will
+purchase the Shares from Sellers.
+
+<PAGE>
+
+         Purchase Price. The purchase price (the "Purchase Price") for the
+Shares will be Three Million Five Hundred Thousand United States Dollars
+($3,500,000.00 USD), payable as follows: (a) One Million Five Hundred Thousand
+United States Dollars ($1,500,000 USD) at the Closing in exchange for Fifty One
+percent (51%) of all of the Shares; respectively, at the Closing A shall receive
+Seven Hundred Thirty Five Thousand Two Hundred Ninety Four US dollars and Twelve
+US cents ($735,294.12 USD) for the Twenty Five percent (25%) out of Fifty
+percent (50%) of its Shares, and B shall receive Seven Hundred Sixty Four
+Thousand Seven Hundred Five US dollars and Eighty Eight cents ($764,705.88 USD);
+and (b) Two Million United States Dollars ($2,000,000 USD) in exchange for the
+remaining Forty Nine percent (49%) of Seller's shares to be paid within Two (2)
+years of the date of the Closing; respectively, within Two (2) years of the date
+of the Closing A shall receive One Million Twenty Thousand Four Hundred Eight US
+dollars and Sixteen US cents ($1,020,408.16 USD), and B shall receive Nine
+Hundred Seventy Nine Thousand Five Hundred Ninety One US dollars and Eighty Four
+US cents ($979,591.84). Until the date Buyer has purchased the Forty Nine
+percent (49%) balance of Sellers' Shares as provided in Section 2.2 (b) above,
+the Company shall pay Sellers, in proportion to each one's Shares, annual profit
+distributions from the Company's business activities; profit distributions shall
+be made within Forty Five Days after the determination of annual profit.
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+Buyer shall give Ten (10) days advance notice of the payment provided in Section
+2.2 (b) above, and on that date Sellers shall transfer the balance of their
+Shares to Buyer; if Sellers fail in whole or in part to make such transfer, each
+Seller hereby grants a limited power of attorney to Buyer's designee to execute
+all necessary documents to effectuate the transfer in exchange for the agreed
+payment. Purchase Price is inclusive of and the Sellers are solely and
+separately responsible for all taxes, fees and levies, duties and other charges
+applicable now or those which may become applicable in the future, including
+such taxes, duties or other charges acknowledged retroactive, which may be
+imposed on any of the Purchase Price (including, but not limited to, the
+property tax, profit or income tax, VAT) (all taxes, duties or other charges
+hereinafter collectively referred to as the "Taxes"), associated with, or
+payment of, such Purchase Price. Buyer may calculate, and withhold from the
+Purchase Price and pay any Tax on behalf of the Sellers.
+
+
+
+
+
+
+
+
+
+
+
+         Closing. The purchase and sale (the "Closing") provided for in this
+Agreement will take place at the offices of Arax Consulting Yerevan, Armenia, at
+10:00 a.m. (local time) on the later of (i) August 30, 2005 or (ii) the date
+that is ten business days following the notice that all parties are prepared to
+close, or at such other time and place as the parties may agree. Subject to the
+provisions of Section 9, failure to consummate the purchase and sale provided
+for in this Agreement on the date and time and at the place determined pursuant
+to this Section 2.3 will not result in the termination of this Agreement and
+will not relieve any party of any obligation under this Agreement.
+
+
+
+
+
+
+<PAGE>
+
+         Closing Obligations.  At the Closing:
+
+
+                  Sellers will deliver to Buyer:
+
+                           certificates representing the Shares, duly endorsed
+                  (or accompanied by duly executed powers), with signatures
+                  guaranteed, for transfer to Buyer and corresponding changes to
+                  the Company's official list of participants and charter;
+
+
+
+
+
+                           releases in the form of
+                  Exhibit 2.4(a)(ii) executed by Sellers (collectively,
+                  "Sellers' Releases");
+
+
+
+
+
+                           noncompetition agreements in
+                  the form of Exhibit 2.4(a)(iv),
+                  executed by Sellers (collectively, the
+                  "Noncompetition Agreements"); and
+
+                           a certificate executed by Sellers representing and
+                  warranting to Buyer that each of Sellers' representations and
+                  warranties in this Agreement was accurate in all respects as
+                  of the date of this Agreement and is accurate in all respects
+                  as of the Closing Date as if made on the Closing Date (giving
+                  full effect to any supplements to the Disclosure Letter that
+                  were delivered by Sellers to Buyer prior to the Closing Date
+                  in accordance with Section 5.5);
+
+
+
+                           all records, assets, and
+                  materials related to the Company, not
+                  in the Company's possession as of the
+                  Closing date; and
+
+
+                           one or more special mining licenses and special
+                  mining concession agreements covering the right to mine,
+                  process, and sell gold and other minerals for terms of at
+                  least Twenty (20) years at the properties described in the
+                  Disclosure Letter.
+
+
+
+
+<PAGE>
+
+                  Buyer will deliver to Sellers:
+
+                           the following amounts totaling One Million Five
+                  Hundred Thousand US Dollars ($1,500,000 USD) by bank cashier's
+                  or certified check payable to the order of or by wire transfer
+                  to accounts specified by A and B, respectively: Seven Hundred
+                  Thirty Five Thousand Two Hundred Ninety Four US dollars and
+                  Twelve US cents ($735,294.12) to A, and Seven Hundred Sixty
+                  Four Thousand Seven Hundred Five US dollars and Eighty Eight
+                  cents ($764,705.88 USD) to B;
+
+
+
+                            a certificate executed by Buyer to the effect that,
+                  except as otherwise stated in such certificate, each of
+                  Buyer's representations and warranties in this Agreement was
+                  accurate in all respects as of the date of this Agreement and
+                  is accurate in all respects as of the Closing Date as if made
+                  on the Closing Date.
+
+
+
+                           Corporate Guarantee issued by the Buyer for the
+                  payment of the Two Million US dollars ($2,000,000 USD) to
+                  Sellers within Two (2) years of the Closing date, as provided
+                  in Section 2.2 above.
+
+
+<PAGE>
+
+                  Buyer shall assume full management control of the Company and
+         shall be responsible for financing the development and operations of
+         the Company's properties. Sellers agree to execute documents and
+         otherwise cooperate in these actions as requested by Buyer, and Sellers
+         shall have the reasonable right to inspect the Company's books to
+         ensure they are receiving accurate profit distributions, for so long as
+         they continue to hold Shares in the Company.
+
+
+
+
+
+
+
+
+
+         Adjustment Amounts. The Adjustment Amount (which may be a positive or
+negative number) will be equal to the difference, if any, in the value of the
+assets from the date of this Agreement up to the Closing date.
+
+
+
+         Adjustment Procedure.
+
+                  Sellers will prepare and will cause Amyot Exco, the Company's
+         certified public accountants, to audit consolidated financial
+         statements ("Closing Financial Statements") of the Company as of the
+         Closing Date and for the period from the date of the Balance Sheet
+         through the Closing Date, including an updated asset list. Sellers will
+         deliver the Closing Financial Statements to Buyer within sixty days
+         after the Closing Date. If within thirty days following delivery of the
+         Closing Financial Statements, Buyer has not given Sellers notice of its
+         objection to the Closing Financial Statements (such notice must contain
+
+<PAGE>
+
+         a statement of the basis of Buyer's objection), then the reflected in
+         the Closing Financial Statements will be used in computing the
+         Adjustment Amount. If Buyer gives such notice of objection, then the
+         issues in dispute will be submitted to KPMG (the "Accountants"), for
+         resolution. If issues in dispute are submitted to the Accountants for
+         resolution, (i) each party will furnish to the Accountants such
+         workpapers and other documents and information relating to the disputed
+         issues as the Accountants may request and are available to that party
+         or its Subsidiaries (or its independent public accountants), and will
+         be afforded the opportunity to present to the Accountants any material
+         relating to the determination and to discuss the determination with the
+         Accountants; (ii) the determination by the Accountants, as set forth in
+         a notice delivered to both parties by the Accountants, will be binding
+         and conclusive on the parties; and (iii) Buyer will bear the fees of
+         the Accountants for such determination.
+
+
+
+                  On the tenth business day following the final determination of
+         the Adjustment Amount, if the Purchase Price is greater than the
+         aggregate of the payments made pursuant to Sections 2, Buyer will pay
+         the difference to Sellers, and if the Purchase Price is less than such
+         aggregate amount, Sellers will pay the difference to Buyer Payments
+         must be made in immediately available funds. Payments to Sellers must
+         be made in the manner and will be allocated in the proportions set
+         forth in Section 2.4(b) (i). Payments to Buyer must be made by wire
+         transfer to such bank account as Buyer will specify.
+
+
+
+
+<PAGE>
+
+REPRESENTATIONS AND WARRANTIES OF SELLERS.  Sellers
+represent and warrant to Buyer as follows:
+
+
+
+         Organization and Good Standing.
+
+
+                  Part 3.1 of the Disclosure Letter contains a complete and
+         accurate list for the Acquired Company of its name, its jurisdiction of
+         incorporation, other jurisdictions in which it is authorized to do
+         business, and its capitalization (including the identity of each
+         participant and the number of shares held by each). The Acquired
+         Company is a company duly organized, validly existing, and in good
+         standing under the laws of its jurisdiction of incorporation, with full
+         corporate power and authority to conduct its business as it is now
+         being conducted, to own or use the properties and assets that it
+         purports to own or use, and to perform all its obligations under
+         Applicable Contracts. The Acquired Company is duly qualified to do
+         business as a foreign corporation and is in good standing under the
+         laws of each jurisdiction in which either the ownership or use of the
+         properties owned or used by it, or the nature of the activities
+         conducted by it, requires such qualification.
+
+
+
+
+
+
+
+<PAGE>
+
+                  Sellers have delivered to Buyer copies of the Organizational
+         Documents of the Acquired Company, as currently in effect.
+
+
+
+         Authority; No Conflict.
+
+
+
+                  This Agreement constitutes the legal, valid, and binding
+         obligation of Sellers, enforceable against Sellers in accordance with
+         its terms. Upon the execution and delivery by Sellers of the Sellers'
+         Releases, and the Noncompetition Agreements (collectively, the
+         "Sellers' Closing Documents"), the Sellers' Closing Documents will
+         constitute the legal, valid, and binding obligations of Sellers,
+         enforceable against Sellers in accordance with their respective terms.
+         Sellers have the absolute and unrestricted right, power, authority, and
+         capacity to execute and deliver this Agreement and the Sellers' Closing
+         Documents and to perform their obligations under this Agreement and the
+         Sellers' Closing Documents.
+
+
+                  Except as set forth in Part 3.2 of the Disclosure Letter,
+         neither the execution and delivery of this Agreement nor the
+         consummation or performance of any of the Contemplated Transactions
+         will, directly or indirectly (with or without notice or lapse of time):
+
+
+
+                           contravene, conflict with, or result in a violation
+                  of any provision of the Organizational Documents of the
+                  Acquired Company, or (B) any resolution adopted by the board
+                  or the participants of the Acquired Company;
+
+
+
+
+
+                           contravene, conflict with, or result in a violation
+                  of, or give any Governmental Body or other Person the right to
+                  challenge any of the Contemplated Transactions or to exercise
+                  any remedy or obtain any relief under, any Legal Requirement
+                  or any Order to which the Acquired Company or either Seller,
+                  or any of the assets owned or used by the Acquired Company,
+                  may be subject;
+
+<PAGE>
+
+
+                           contravene, conflict with, or result in a violation
+                  of any of the terms or requirements of, or give any
+                  Governmental Body the right to revoke, withdraw, suspend,
+                  cancel, terminate, or modify, any Governmental Authorization
+                  that is held by the Acquired Company or that otherwise relates
+                  to the business of, or any of the assets owned or used by, the
+                  Acquired Company;
+
+
+
+                           cause Buyer or the Acquired
+                  Company to become subject to, or to
+                  become liable for the payment of, any
+                  Tax;
+
+
+
+                           cause any of the assets owned
+                  by the Acquired Company to be
+                  reassessed or revalued by any taxing
+                  authority or other Governmental Body;
+
+
+<PAGE>
+
+                           contravene, conflict with, or result in a violation
+                  or breach of any provision of, or give any Person the right to
+                  declare a default or exercise any remedy under, or to
+                  accelerate the maturity or performance of, or to cancel,
+                  terminate, or modify, any Applicable Contract; or
+
+
+
+
+
+
+
+                           result in the imposition or creation of any
+                  Encumbrance upon or with respect to any of the assets owned or
+                  used by the Acquired Company.
+
+
+
+
+
+
+
+                  Except as set forth in Part 3.2 of the Disclosure Letter, no
+                  Seller or the Acquired Company is or will be required to give
+                  any notice to or obtain any Consent from any Person in
+                  connection with the execution and delivery of this Agreement
+                  or the consummation or performance of any of the Contemplated
+                  Transactions, including specifically but not limited to the
+                  Company's rights to engage in commercial mining at Toukhmanouk
+                  and the surrounding license areas well as to operate an
+                  associated pilot plant there, including the sale of their
+                  products domestically and for export.
+
+<PAGE>
+
+
+         Capitalization. The authorized equity of the Company consist of 50218
+shares of participants interests, book value 50 218 000 AMD per share. Sellers
+are and will be on the Closing Date the record and beneficial owners and holders
+of the Shares, free and clear of all Encumbrances. A owns 25 109 of the Shares,
+and B owns 25 109 of the Shares. No legend or other reference to any purported
+Encumbrance appears upon any certificate representing the Shares of the Acquired
+Company. All of the Shares of the Acquired Company have been duly registered4
+are fully paid and nonassessable. There are no Contracts relating to the
+issuance, sale, or transfer of any Shares or other securities of the Acquired
+Company. None of the Shares or other securities of the Acquired Company was
+issued in violation of any Legal Requirement. The Acquired Company does not own,
+nor has any Contract to acquire, any equity securities or other securities of
+any Person (other than Acquired Company) nor any direct or indirect equity nor
+ownership interest in any other business.
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+         Financial Statements. Sellers have delivered to Buyer: (a) consolidated
+balance sheets of the Acquired Companies as at December 31 in each of the years
+2001 through 2004, and the related consolidated statements of income, changes in
+participants' equity, and cash flow for each of the fiscal years then ended,
+together with the report thereon of Amyot Exco, independent certified public
+accountants, (b) a consolidated balance sheet of the Acquired Company as at
+December 31, 2004 (including the notes thereto, the "Balance Sheet"), and the
+related consolidated statements of income, changes in participants' equity, and
+cash flow for the fiscal year then ended, together with the report thereon of
+Amyot Exco, independent certified public accountants, and (c) an unaudited
+consolidated balance sheet of the Acquired Company as at June 30, 2005 (the
+"Interim Balance Sheet") and the related unaudited consolidated statements of
+income, changes in shareholders' equity, and cash flow for the three months then
+ended, including in each case the notes thereto. Such financial statements and
+notes fairly present the financial condition and the results of operations,
+changes in shareholders' equity, and cash flow of the Acquired Company as at the
+respective dates of and for the periods referred to in such financial
+statements, all in accordance with GAAP; the financial statements referred to in
+this Section 3.4 reflect the consistent application of such accounting
+principles throughout the periods involved. No financial statements of any
+Person other than the Acquired Company are required by GAAP to be included in
+the consolidated financial statements of the Company.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+         Books and Records. The books of account, minute books, share record
+books, and other records of the Acquired Company, all of which have been made
+available to Buyer, are complete and correct and have been maintained in
+accordance with sound business practices and applicable law, including the
+maintenance of an adequate system of internal controls. The minute books of the
+Acquired Company contain accurate and complete records of all meetings held of,
+and Company action taken by, the participants, management, the Board, and
+committees of the Board of the Acquired Company, and no meeting of any such
+participants, management, Board, or committee has been held for which minutes
+have not been prepared and are not contained in such minute books. At the
+Closing, all of those books and records will be in the possession of the
+Acquired Company.
+
+
+
+
+
+         Title to Properties; Encumbrances. Part 3.6 of the Disclosure Letter
+contains a complete and accurate list of all real property, licenses, mining
+agreements, leaseholds, or other interests therein owned by the Acquired
+Company. Sellers have delivered or made available to Buyer copies of the deeds
+and other instruments (as recorded) by which the Acquired Company acquired such
+real property and interests, and copies of all title insurance policies,
+opinions, abstracts, and surveys in the possession of Sellers or the Acquired
+Company and relating to such property or interests. The Acquired Company owns
+(with good and marketable title in the case of real property, subject only to
+the matters permitted by the following sentence) all the properties, and assets
+(whether real, personal, or mixed and whether tangible or intangible) that they
+purport to own located in the facilities owned or operated by the Acquired
+Company or reflected as owned in the books and records of the Acquired Company,
+including all of the properties and assets reflected in the Balance Sheet and
+the Interim Balance Sheet (except for assets held under capitalized leases
+disclosed or not required to be disclosed in Part 3.6 of the Disclosure Letter
+and personal property sold since the date of the Balance Sheet and the Interim
+
+<PAGE>
+
+Balance Sheet, as the case may be, in the Ordinary Course of Business), and all
+of the properties and assets purchased or otherwise acquired by the Acquired
+Company since the date of the Balance Sheet (except for personal property
+acquired and sold since the date of the Balance Sheet in the Ordinary Course of
+Business and consistent with past practice) which subsequently purchased or
+acquired properties and assets (other than inventory and short-term investments)
+are listed in Part 3.6 of the Disclosure Letter. All material properties and
+assets reflected in the Balance Sheet and the Interim Balance Sheet are free and
+clear of all Encumbrances and are not, in the case of real property, subject to
+any rights of way, building use restrictions, exceptions, variances,
+reservations, or limitations of any nature except, with respect to all such
+properties and assets, (a) mortgages or security interests shown on the Balance
+Sheet or the Interim Balance Sheet as securing specified liabilities or
+obligations, with respect to which no default (or event that, with notice or
+lapse of time or both, would constitute a default) exists, (b) mortgages or
+security interests incurred in connection with the purchase of property or
+assets after the date of the Interim Balance Sheet (such mortgages and security
+interests being limited to the property or assets so acquired), with respect to
+which no default (or event that, with notice or lapse of time or both, would
+constitute a default) exists, (c) liens for current taxes not yet due, and (d)
+with respect to real property, (i) minor imperfections of title, if any, none of
+which is substantial in amount, materially detracts from the value or impairs
+the use of the property subject thereto, or impairs the operations of the
+Acquired Company, and (ii) zoning laws and other land use restrictions that do
+not impair the present or anticipated use of the property subject thereto. All
+buildings, plants, and structures owned by the Acquired Company lie wholly
+within the boundaries of the real property owned by the Acquired Company and do
+not encroach upon the property of, or otherwise conflict with the property
+rights of, any other Person.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+
+         Condition and Sufficiency of Assets. The structures, and equipment of
+the Acquired Company are structurally sound, are in good operating condition and
+repair, and are adequate for the uses to which they are being put, and none of
+such buildings, plants, structures, or equipment is in need of maintenance or
+repairs except for ordinary, routine maintenance and repairs that are not
+material in nature or cost. The building, plants, structures, and equipment of
+the Acquired Company are sufficient for the continued conduct of the Acquired
+Company's businesses after the Closing in substantially the same manner as
+conducted prior to the Closing.
+
+
+
+
+
+
+
+         Accounts Receivable. All accounts receivable of the Acquired Company
+that are reflected on the Balance Sheet or the Interim Balance Sheet or on the
+accounting records of the Acquired Company as of the Closing Date (collectively,
+the "Accounts Receivable") represent or will represent valid obligations arising
+from sales actually made or services actually performed in the Ordinary Course
+of Business. Unless paid prior to the Closing Date, the Accounts Receivable are
+
+<PAGE>
+
+or will be as of the Closing Date current and collectible net of the respective
+reserves shown on the Balance Sheet or the Interim Balance Sheet or on the
+accounting records of the Acquired Company as of the Closing Date (which
+reserves are adequate and calculated consistent with past practice and, in the
+case of the reserve as of the Closing Date, will not represent a greater
+percentage of the Accounts Receivable as of the Closing Date than the reserve
+reflected in the Interim Balance Sheet represented of the Accounts Receivable
+reflected therein and will not represent a material adverse change in the
+composition of such Accounts Receivable in terms of aging). Subject to such
+reserves, each of the Accounts Receivable either has been or will be collected
+in full, without any set-off, within ninety days after the day on which it first
+becomes due and payable. There is no contest, claim, or right of set-off, other
+than returns in the Ordinary Course of Business, under any Contract with any
+obligor of an Accounts Receivable relating to the amount or validity of such
+Accounts Receivable. Part 3.8 of the Disclosure Letter contains a complete and
+accurate list of all Accounts Receivable as of the date of the Interim Balance
+Sheet, which list sets forth the aging of such Accounts Receivable.
+
+
+
+
+
+
+
+
+
+         Inventory. All inventory of the Acquired Company, whether or not
+reflected in the Balance Sheet or the Interim Balance Sheet, consists of a
+quality and quantity usable and salable in the Ordinary Course of Business,
+except for obsolete items and items of below-standard quality, all of which have
+been written off or written down to net realizable value in the Balance Sheet or
+the Interim Balance Sheet or on the accounting records of the Acquired Company
+as of the Closing Date, as the case may be. All inventories not written off have
+been priced at the lower of cost or balance value basis. The quantities of each
+item of inventory (whether raw materials, work-in-process, or finished goods)
+are not excessive, but are reasonable in the present circumstances of the
+Acquired Company.
+
+
+
+
+
+
+<PAGE>
+
+         No Undisclosed Liabilities. Except as set forth in Part 3.10 of the
+Disclosure Letter, the Acquired Company has no liabilities or obligations of any
+nature (whether known or unknown and whether absolute, accrued, contingent, or
+otherwise) except for liabilities or obligations reflected or reserved against
+in the Balance Sheet or the Interim Balance Sheet and current liabilities
+incurred in the Ordinary Course of Business since the respective dates thereof.
+
+
+
+
+
+
+
+         Taxes.
+
+                  The Acquired Company has filed or caused to be filed (on a
+         timely basis since 2001) all Tax Returns that are or were required to
+         be filed by or with respect to any of them, either separately or as a
+         member of a group of corporations, pursuant to applicable Legal
+         Requirements. Sellers have delivered to Buyer copies of, and Part 3.11
+         of the Disclosure Letter contains a complete and accurate list of, all
+         such Tax Returns filed since 2001. The Acquired Company has paid, or
+         made provision for the payment of, all Taxes that have or may have
+         become due pursuant to those Tax Returns or otherwise, or pursuant to
+         any assessment received by Sellers or the Acquired Company, except such
+         Taxes, if any, as are listed in Part 3.11 of the Disclosure Letter and
+         are being contested in good faith and as to which adequate reserves
+         (determined in accordance with GAAP) have been provided in the Balance
+         Sheet and the Interim Balance Sheet.
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+
+                  The Tax Returns of the Acquired Company subject to such Taxes
+         have been audited by the relevant tax authorities or are closed by the
+         applicable statute of limitations for all taxable years through 2004.
+         Part 3.11 of the Disclosure Letter contains a complete and accurate
+         list of all audits of all such Tax Returns, including a reasonably
+         detailed description of the nature and outcome of each audit. All
+         deficiencies proposed as a result of such audits have been paid,
+         reserved against, settled, or, as described in Part 3.11 of the
+         Disclosure Letter, are being contested in good faith by appropriate
+         proceedings. Part 3.11 of the Disclosure Letter describes all
+         adjustments to the Tax Returns filed by the Acquired Company for all
+         taxable years since 2001, and the resulting deficiencies proposed.
+         Except as described in Part 3.11 of the Disclosure Letter, no Seller or
+         the Acquired Company has given or been requested to give waivers or
+         extensions (or is or would be subject to a waiver or extension given by
+         any other Person) of any statute of limitations relating to the payment
+         of Taxes of the Acquired Company or for which the Acquired Company may
+         be liable.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+                  The charges, accruals, and reserves with respect to Taxes on
+         the respective books of the Acquired Company are adequate (determined
+         in accordance with GAAP) and are at least equal to the Acquired
+         Company's liability for Taxes. There exists no proposed tax assessment
+         against the Acquired Company except as disclosed in the Balance Sheet
+         or in Part 3.11 of the Disclosure Letter. All Taxes that the Acquired
+         Company is or was required by Legal Requirements to withhold or collect
+         have been duly withheld or collected and, to the extent required, have
+         been paid to the proper Governmental Body or other Person.
+
+
+
+
+
+
+
+
+
+                  All Tax Returns filed by (or that include on a consolidated
+         basis) the Acquired Company are true, correct, and complete. There is
+         no tax sharing agreement that will require any payment by the Acquired
+         Company after the date of this Agreement.
+
+
+
+
+
+
+
+         No Material Adverse Change. Since the date of the Balance Sheet, there
+has not been any material adverse change in the business, operations,
+properties, prospects, assets, or condition of the Acquired Company, and no
+event has occurred or circumstance exists that may result in such a material
+adverse change.
+
+
+
+
+
+
+
+         Employee benefits.
+
+
+
+                  As used in this Section 3.13, the following terms have the
+         meanings set forth below.
+
+
+<PAGE>
+
+                  "Company Other Benefit Obligation" means any Obligation owed,
+                  adopted, or followed by the Acquired Company.
+
+
+
+                  "Company Plan" means all Plans of which the Acquired Company
+                  or an Affiliate of the Acquired Company is or was a Plan
+                  Sponsor, or to which the Acquired Company or an Affiliate of
+                  the Acquired Company otherwise contributes or has contributed,
+                  or in which the Acquired Company or an Affiliate of the
+                  Acquired Company otherwise participates or has participated.
+                  All references to Plans are to Company Plans unless the
+                  context requires otherwise.
+
+                  "Other Benefit Obligations" means all obligations,
+                  arrangements, or customary practices, whether or not legally
+                  enforceable, to provide benefits, other than salary, as
+                  compensation for services rendered, to present or former
+                  directors, employees, or agents, other than obligations,
+                  arrangements, and practices that are Plans. Other Benefit
+                  Obligations include consulting agreements under which the
+                  compensation paid does not depend upon the amount of service
+                  rendered, sabbatical policies, severance payment policies, and
+                  fringe benefits.
+
+
+
+
+
+
+
+
+<PAGE>
+
+                    (i) Part 3.13(i) of the Disclosure Letter contains a
+                  complete and accurate list of all Company Plans and Company
+                  Other Benefit Obligations, and identifies as such all Company
+                  Plans.
+
+                           Part 3.13(ii) of the Disclosure Letter contains a
+                  complete and accurate list of (A) all Affiliates of the
+                  Acquired Company, and (B) all Plans of which any such
+                  Affiliate is or was a Plan Sponsor, in which any such
+                  Affiliate participates or has participated, or to which any
+                  such Affiliate contributes or has contributed.
+
+
+
+                           Part 3.13(iii) of the Disclosure Letter sets forth a
+                  calculation of the liability of the Acquired Company for
+                  benefits.
+
+
+
+                           Part 3.13(iv) of the Disclosure Letter sets forth the
+                  financial cost of all obligations owed under any Company Plan
+                  or Company Other Benefit Obligation.
+
+
+<PAGE>
+
+                  Sellers have delivered to Buyer, or will deliver to Buyer
+         within ten days of the date of this Agreement:
+
+                           all documents that set forth the terms of each
+                  Company Plan or Company Other Benefit Obligation and of any
+                  related matter, including (A) all plan descriptions and
+                  summary plan descriptions, and (B) all summaries and
+                  descriptions furnished to participants and beneficiaries
+                  regarding Company Plans and Company Other Benefit Obligations;
+
+
+
+
+
+
+
+                           all personnel, payroll, and
+                  employment manuals and policies;
+
+
+
+                           all collective bargaining and union agreements
+                  pursuant to which contributions have been made or obligations
+                  incurred by the Acquired Company and the Affiliates of the
+                  Acquired Company, and all collective bargaining agreements
+                  pursuant to which contributions are being made or obligations
+                  are owed by such entities;
+
+
+<PAGE>
+
+                           a written description of any
+                  Company Plan or Company Other Benefit
+                  Obligation that is not otherwise in
+                  writing;
+
+
+
+                           all statements filed with
+                  respect to any Company Plan;
+
+
+
+                           all insurance policies
+                  purchased by or to provide benefits
+                  under any Company Plan;
+
+
+
+                           all contracts with third
+                  parties that relate to any Company
+                  Plan or Company Other Benefit
+                  Obligation;
+
+
+
+                           all reports submitted within the four years preceding
+                  the date of this Agreement by third parties with respect to
+                  any Company Plan or Company Other Benefit Obligation; and
+
+
+
+                           all notifications to
+                  employees of their rights.
+
+
+
+                  Except as set forth in Part 3.13(vi) of the Disclosure Letter:
+
+
+<PAGE>
+
+                           The Acquired Company have performed all of their
+                  respective obligations under all Company Plans, Company Other
+                  Benefit Obligations, and Company. The Acquired Company has
+                  made appropriate entries in its financial records and
+                  statements for all obligations and liabilities under such
+                  Plans and Obligations that have accrued but are not due.
+
+
+
+
+
+                           No statement, either written or oral, has been made
+                  by the Acquired Company to any Person with regard to any Plan
+                  or Other Benefit Obligation that was not in accordance with
+                  the Plan or Other Benefit Obligation and that could have an
+                  adverse economic consequence to the Acquired Company or to
+                  Buyer.
+
+
+
+                           The Acquired Company, with respect to all Company
+                  Plans and Company Other Benefits Obligations are, and each
+                  Company Plan and Company Other Benefit Obligation is, in full
+                  compliance with applicable laws.
+
+
+
+
+<PAGE>
+
+                           Each Company Plan can be terminated within thirty
+                  days, without payment of any additional contribution or amount
+                  and without the vesting or acceleration of any benefits
+                  promised by such Plan.
+
+                           Since June 30, 2005, there has been no establishment
+                  or amendment of any Company Plan or Company Other Benefit
+                  Obligation.
+
+                           No event has occurred or circumstance exists that
+                  could result in a material increase in premium costs of
+                  Company Plans and Company Other Benefit Obligations that are
+                  insured, or a material increase in benefit costs of such Plans
+                  and Obligations that are self-insured.
+
+
+
+                           Other than claims for benefits submitted by
+                  participants or beneficiaries, no claim against, or legal
+                  proceeding involving, any Company Plan or, Company Other
+                  Benefit Obligation is pending or, to Sellers' Knowledge, is
+                  Threatened.
+
+
+
+                           No Company Plan is a stock bonus, pension, or
+                  profit-sharing plan.
+
+
+<PAGE>
+
+                           The consummation of the Contemplated Transactions
+                  will not result in the payment, vesting, or acceleration of
+                  any benefit.
+
+
+
+
+
+         Compliance with Legal Requirements;
+Governmental Authorizations.
+
+
+
+                  Except as set forth in Part 3.14 of the Disclosure Letter:
+
+                           the Acquired Company is, and at all times since
+                  December 11, 2000 has been, in full compliance with each Legal
+                  Requirement that is or was applicable to it or to the conduct
+                  or operation of its business or the ownership or use of any of
+                  its assets;
+
+
+
+
+
+
+
+                           no event has occurred or circumstance exists that
+                  (with or without notice or lapse of time) (A) may constitute
+                  or result in a violation by the Acquired Company of, or a
+                  failure on the part of the Acquired Company to comply with,
+                  any Legal Requirement, or (B) may give rise to any obligation
+                  on the part of the Acquired Company to undertake, or to bear
+                  all or any portion of the cost of, any remedial action of any
+                  nature; and
+
+
+
+
+<PAGE>
+
+                           the Acquired Company has not received, at any time
+                  since December 11, 2000, any notice or other communication
+                  (whether oral or written) from any Governmental Body or any
+                  other Person regarding (A) any actual, alleged, possible, or
+                  potential violation of, or failure to comply with, any Legal
+                  Requirement, or (B) any actual, alleged, possible, or
+                  potential obligation on the part of the Acquired Company to
+                  undertake, or to bear all or any portion of the cost of, any
+                  remedial action of any nature.
+
+
+
+
+
+
+
+                  Part 3.14 of the Disclosure Letter contains a complete and
+         accurate list of each Governmental Authorization that is held by the
+         Acquired Company or that otherwise relates to the business of, or to
+         any of the assets owned or used by, the Acquired Company. Each
+         Governmental Authorization listed or required to be listed in Part 3.14
+         of the Disclosure Letter is valid and in full force and effect, and
+         copies of each are attached to the Disclosure Letter. Except as set
+         forth in Part 3.14 of the Disclosure Letter:
+
+
+
+
+
+
+<PAGE>
+
+                           the Acquired Company is, and at all times since
+                  December 11, 2000 has been, in full compliance with all of the
+                  terms and requirements of each Governmental Authorization
+                  identified or required to be identified in Part 3.14 of the
+                  Disclosure Letter;
+
+
+
+
+
+
+
+                           no event has occurred or circumstance exists that may
+                  (with or without notice or lapse of time) (A) constitute or
+                  result directly or indirectly in a violation of or a failure
+                  to comply with any term or requirement of any Governmental
+                  Authorization listed or required to be listed in Part 3.14 of
+                  the Disclosure Letter, or (B) result directly or indirectly in
+                  the revocation, withdrawal, suspension, cancellation, or
+                  termination of, or any modification to, any Governmental
+                  Authorization listed or required to be listed in Part 3.14 of
+                  the Disclosure Letter;
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+                           the Acquired Company has not received, at any time
+                  since December 11, 2000 any notice or other communication
+                  (whether oral or written) from any Governmental Body or any
+                  other Person regarding (A) any actual, alleged, possible, or
+                  potential violation of or failure to comply with any term or
+                  requirement of any Governmental Authorization, or (B) any
+                  actual, proposed, possible, or potential revocation,
+                  withdrawal, suspension, cancellation, termination of, or
+                  modification to any Governmental Authorization; and
+
+
+
+
+
+
+
+                           all applications required to have been filed for the
+                  renewal of the Governmental Authorizations listed or required
+                  to be listed in Part 3.14 of the Disclosure Letter have been
+                  duly filed on a timely basis with the appropriate Governmental
+                  Bodies, and all other filings required to have been made with
+                  respect to such Governmental Authorizations have been duly
+                  made on a timely basis with the appropriate Governmental
+                  Bodies.
+
+
+
+
+
+
+
+
+<PAGE>
+
+         The Governmental Authorizations listed in Part 3.14 of the Disclosure
+         Letter collectively constitute all of the Governmental Authorizations
+         necessary to permit the Acquired Company to lawfully explore for, mine,
+         process, sell domestically and export gold, silver, and other metals in
+         commercially reasonable quantities as well as to lawfully conduct and
+         operate their businesses in the manner they currently conduct and
+         operate such businesses and to permit the Acquired Company to own and
+         use their assets in the manner in which they currently own and use such
+         assets.
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+         Legal Proceedings; Orders.
+
+                  Except as set forth in Part 3.15 of the Disclosure Letter,
+         there is no pending Proceeding:
+
+
+
+                           that has been commenced by or against the Acquired
+                  Company or that otherwise relates to or may affect the
+                  business of, or any of the assets owned or used by, the
+                  Acquired Company; or
+
+
+
+
+
+                           that challenges, or that may have the effect of
+                  preventing, delaying, making illegal, or otherwise interfering
+                  with, any of the Contemplated Transactions.
+
+
+
+         To the Knowledge of Sellers and the Acquired Company, (1) no such
+         Proceeding has been Threatened, and (2) no event has occurred or
+         circumstance exists that may give rise to or serve as a basis for the
+         commencement of any such Proceeding. Sellers have delivered to Buyer
+         copies of all pleadings, correspondence, and other documents relating
+         to each Proceeding listed in Part 3.15 of the Disclosure Letter. The
+         Proceedings listed in Part 3.15 of the Disclosure Letter will not have
+         a material adverse effect on the business, operations, assets,
+         condition, or prospects of the Acquired Company.
+
+
+
+
+<PAGE>
+
+                  Except as set forth in Part 3.15 of the Disclosure Letter:
+
+
+
+                           there is no Order to which
+                  the Acquired Company, or any of the
+                  assets owned or used by the Acquired
+                  Company, is subject;
+
+                           neither Seller is subject to
+                  any Order that relates to the business
+                  of, or any of the assets owned or used
+                  by, the Acquired Company; and
+
+
+
+
+
+                           no officer, director, agent, or employee of the
+                  Acquired Company is subject to any Order that prohibits such
+                  officer, director, agent, or employee from engaging in or
+                  continuing any conduct, activity, or practice relating to the
+                  business of the Acquired Company.
+
+
+
+
+<PAGE>
+
+                  Except as set forth in Part 3.15 of the Disclosure Letter:
+
+
+
+                           the Acquired Company is, and at all times since
+                  Decenber 111, 2000 has been, in full compliance with all of
+                  the terms and requirements of each Order to which it, or any
+                  of the assets owned or used by it, is or has been subject;
+
+
+
+
+
+
+
+                           no event has occurred or circumstance exists that may
+                  constitute or result in (with or without notice or lapse of
+                  time) a violation of or failure to comply with any term or
+                  requirement of any Order to which the Acquired Company, or any
+                  of the assets owned or used by the Acquired Company, is
+                  subject; and
+
+
+
+
+
+
+<PAGE>
+
+                           the Acquired Company has not received, at any time
+                  since December 11, 2000any notice or other communication
+                  (whether oral or written) from any Governmental Body or any
+                  other Person regarding any actual, alleged, possible, or
+                  potential violation of, or failure to comply with, any term or
+                  requirement of any Order to which the Acquired Company, or any
+                  of the assets owned or used by the Acquired Company, is or has
+                  been subject.
+
+
+
+
+
+
+
+         Absence of Certain Changes and Events. Except as set forth in Part 3.16
+of the Disclosure Letter, since the date of the Balance Sheet, the Acquired
+Company has conducted businesses only in the Ordinary Course of Business and
+there has not been any:
+
+
+
+                  change in the Acquired Company's authorized or issued capital
+         stock; grant of any stock option or right to purchase shares of capital
+         stock of the Acquired Company; issuance of any security convertible
+         into such capital stock; grant of the registration rights; purchase,
+         redemption, retirement, or other acquisition by the Acquired Company of
+         any shares of any such capital stock; or declaration or payment of any
+         dividend or other distribution or payment in respect of shares of
+         capital stock;
+
+
+
+
+<PAGE>
+
+                  amendment to the Organizational
+         Documents of the Acquired Company;
+
+                  payment or increase by the Acquired Company of any bonuses,
+         salaries, or other compensation to any participant, director, officer,
+         or (except in the Ordinary Course of Business) employee or entry into
+         any employment, severance, or similar Contract with any director,
+         officer, or employee;
+
+
+
+
+
+                  adoption of, or increase in the payments to or benefits under,
+         any profit sharing, bonus, deferred compensation, savings, insurance,
+         pension, retirement, or other employee benefit plan for or with any
+         employees of the Acquired Company;
+
+
+
+
+
+                  damage to or destruction or loss of any asset or property of
+         the Acquired Company, whether or not covered by insurance, materially
+         and adversely affecting the properties, assets, business, financial
+         condition, or prospects of the Acquired Company, taken as a whole;
+
+
+<PAGE>
+
+                  entry into, termination of, or receipt of notice of
+         termination of (i) any license, distributorship, dealer, sales
+         representative, joint venture, credit, or similar agreement, or (ii)
+         any Contract or transaction involving a total remaining commitment by
+         or to the Acquired Company of at least One Thousand US Dollars
+         ($1,000.00);
+
+
+
+
+
+
+
+                  sale (other than sales of inventory in the Ordinary Course of
+         Business), lease, or other disposition of any asset or property of the
+         Acquired Company or mortgage, pledge, or imposition of any lien or
+         other encumbrance on any material asset or property of the Acquired
+         Company, including the sale, lease, or other disposition of any of the
+         Intellectual Property Assets;
+
+
+
+
+
+
+
+                  cancellation or waiver of any claims or rights with a value to
+         the Acquired Company in excess of One Thousand US Dollars ($1,000.00);
+
+
+
+                  material change in the accounting
+         methods used by the Acquired Company; or
+
+
+<PAGE>
+
+                  agreement, whether oral or written, by
+         the Acquired Company to do any of the foregoing.
+
+
+
+
+
+
+
+         Contracts; No Defaults.
+
+
+
+                  Part 3.17(a) of the Disclosure Letter contains a complete and
+         accurate list, and Sellers have delivered to Buyer true and complete
+         copies, of:
+
+
+
+                           each Applicable Contract that involves performance of
+                  services or delivery of goods or materials by the Acquired
+                  Company of an amount or value in excess of One Thousand US
+                  Dollars ($1,000.00);
+
+
+
+                           each Applicable Contract that involves performance of
+                  services or delivery of goods or materials to one or more
+                  Acquired Company of an amount or value in excess of One
+                  Thousand US Dollars ($1,000.00);
+
+
+<PAGE>
+
+                           each Applicable Contract that was not entered into in
+                  the Ordinary Course of Business and that involves expenditures
+                  or receipts of one or more Acquired Company in excess of One
+                  Thousand US Dollars ($1,000.00);
+
+                           each lease, rental or occupancy agreement, license,
+                  installment and conditional sale agreement, and other
+                  Applicable Contract affecting the ownership of, leasing of,
+                  title to, use of, or any leasehold or other interest in, any
+                  real or personal property (except personal property leases and
+                  installment and conditional sales agreements having a value
+                  per item or aggregate payments of less than One thousand US
+                  Dollars ($1,000.00) and with terms of less than one year);
+
+
+
+
+
+
+
+
+
+
+
+                           each licensing agreement or other Applicable Contract
+                  with respect to patents, trademarks, copyrights, or other
+                  intellectual property, including agreements with current or
+                  former employees, consultants, or contractors regarding the
+                  appropriation or the non-disclosure of any of the Intellectual
+                  Property Assets;
+
+
+
+
+<PAGE>
+
+                           each collective bargaining agreement and other
+                  Applicable Contract to or with any labor union or other
+                  employee representative of a group of employees;
+
+
+                           each joint venture, partnership, and other Applicable
+                  Contract (however named) involving a sharing of profits,
+                  losses, costs, or liabilities by the Acquired Company with any
+                  other Person;
+
+
+
+
+
+
+
+                           each Applicable Contract containing covenants that in
+                  any way purport to restrict the business activity of the
+                  Acquired Company or the Affiliate of the Acquired Company or
+                  limit the freedom of the Acquired Company or any Affiliate of
+                  the Acquired Company to engage in any line of business or to
+                  compete with any Person;
+
+
+
+
+<PAGE>
+
+                           each Applicable Contract providing for payments to or
+                  by any Person based on sales, purchases, or profits, other
+                  than direct payments for goods;
+
+
+
+
+
+                           each power of attorney that
+                  is currently effective and outstanding;
+
+
+
+                           each Applicable Contract entered into other than in
+                  the Ordinary Course of Business that contains or provides for
+                  an express undertaking by the Acquired Company to be
+                  responsible for consequential damages;
+
+
+
+                           each Applicable Contract for
+                  capital expenditures in excess of Five
+                  Thousand US Dollars ($5,000.00);
+
+                           each written warranty, guaranty, and or other similar
+                  undertaking with respect to contractual performance extended
+                  by the Acquired Company other than in the Ordinary Course of
+                  Business; and
+
+
+
+
+<PAGE>
+
+                           each amendment, supplement,
+                  and modification (whether oral or
+                  written) in respect of any of the
+                  foregoing.
+
+
+
+
+
+         Part 3.17(a) of the Disclosure Letter sets forth reasonably complete
+         details concerning such Contracts, including the parties to the
+         Contracts, the amount of the remaining commitment of the Acquired
+         Company under the Contracts, and the Acquired Company's office where
+         details relating to the Contracts are located.
+
+
+
+
+
+                  Except as set forth in Part 3.17(b) of the Disclosure Letter:
+
+                           neither Seller (and no Related Person of either
+                  Seller) has or may acquire any rights under, and neither
+                  Seller has or may become subject to any obligation or
+                  liability under, any Contract that relates to the business of,
+                  or any of the assets owned or used by, the Acquired Company;
+                  and
+
+
+
+
+
+
+<PAGE>
+
+                           no officer, director, participant, agent, employee,
+                  consultant, or contractor of the Acquired Company is bound by
+                  any Contract that purports to limit the ability of such
+                  officer, director, participant, agent, employee, consultant,
+                  or contractor to (A) engage in or continue any conduct,
+                  activity, or practice relating to the business of the Acquired
+                  Company, or (B) assign to the Acquired Company or to any other
+                  Person any rights to any invention, improvement, or discovery.
+
+
+
+
+
+
+
+
+
+
+
+                  Except as set forth in Part 3.17(c) of the Disclosure Letter,
+         each Contract identified or required to be identified in Part 3.17(a)
+         of the Disclosure Letter is in full force and effect and is valid and
+         enforceable in accordance with its terms.
+
+
+
+
+
+                  Except as set forth in Part 3.17(d) of the Disclosure Letter:
+
+
+<PAGE>
+
+                           the Acquired Company is, and at all times since
+                  December 11, 2000 has been, in full compliance with all
+                  applicable terms and requirements of each Contract under which
+                  such Acquired Company has or had any obligation or liability
+                  or by which such Acquired Company or any of the assets owned
+                  or used by such Acquired Company is or was bound;
+
+
+
+                           each other Person that has or had any obligation or
+                  liability under any Contract under which the Acquired Company
+                  has or had any rights is, and at all times since December 11,
+                  2000 has been, in full compliance with all applicable terms
+                  and requirements of such Contract;
+
+
+
+
+
+
+
+                           no event has occurred or circumstance exists that
+                  (with or without notice or lapse of time) may contravene,
+                  conflict with, or result in a violation or breach of, or give
+                  the Acquired Company or other Person the right to declare a
+                  default or exercise any remedy under, or to accelerate the
+                  maturity or performance of, or to cancel, terminate, or
+                  modify, any Applicable Contract; and
+
+
+
+
+
+
+<PAGE>
+
+                           the Acquired Company has not given to or received
+                  from any other Person, at any time since January 1, 2001, any
+                  notice or other communication (whether oral or written)
+                  regarding any actual, alleged, possible, or potential
+                  violation or breach of, or default under, any Contract.
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  There are no renegotiations of, attempts to renegotiate or
+         outstanding rights to renegotiate any material amounts paid or payable
+         to the Acquired Company under current or completed Contracts with any
+         Person and no such Person has made written demand for such
+         renegotiation.
+
+
+
+                  The Contracts relating to the sale, design, manufacture, or
+         provision of products or services by the Acquired Company have been
+         entered into in the Ordinary Course of Business and have been entered
+         into without the commission of any act alone or in concert with any
+         other Person, or any consideration having been paid or promised, that
+         is or would be in violation of any Legal Requirement.
+
+
+<PAGE>
+
+         Insurance.
+
+                  Sellers have delivered to Buyer:
+
+
+
+                           true and complete copies of all policies of insurance
+                  to which the Acquired Company is a party or under which the
+                  Acquired Company, or any director of the Acquired Company, is
+                  or has been covered at any time within the three years
+                  preceding the date of this Agreement;
+
+
+
+                           true and complete copies of
+                  all pending applications for policies
+                  of insurance; and
+
+
+
+                           any statement by the auditor of the Acquired
+                  Company's financial statements with regard to the adequacy of
+                  such entity's coverage or of the reserves for claims.
+
+
+
+
+
+
+
+
+<PAGE>
+
+                  Part 3.18(b) of the Disclosure Letter
+         describes:
+
+
+
+                           any self-insurance
+                  arrangement by or affecting the
+                  Acquired Company, including any
+                  reserves established thereunder;
+
+
+
+
+
+                           any contract or arrangement,
+                  other than a policy of insurance, for
+                  the transfer or sharing of any risk by
+                  the Acquired Company; and
+
+
+
+
+
+                           all obligations of the Acquired Company to third
+                  parties with respect to insurance (including such obligations
+                  under leases and service agreements) and identifies the policy
+                  under which such coverage is provided.
+
+
+
+
+
+
+<PAGE>
+
+                  Part 3.18(c) of the Disclosure Letter sets forth, by year, for
+         the current policy year and each of the three preceding policy years:
+
+
+
+                           a summary of the loss
+                  experience under each policy;
+
+
+
+                           a statement describing each claim under an insurance
+                  policy for an amount in excess of One Thousand US Dollars
+                  ($1,000.00), which sets forth:
+
+
+
+                                    the name of the
+                           claimant;
+
+
+
+                                    a description of the
+                           policy by insurer, type of
+                           insurance, and period of
+                           coverage; and
+
+
+
+
+
+                                    the amount and a
+                           brief description of the
+                           claim; and
+
+
+<PAGE>
+
+                           a statement describing the loss experience for all
+                  claims that were self-insured, including the number and
+                  aggregate cost of such claims.
+
+
+
+
+
+                  Except as set forth on Part 3.18(d) of the Disclosure Letter:
+
+
+
+                           All policies to which the Acquired Company is a party
+                  or that provide coverage to either Seller, the Acquired
+                  Company, or any director or officer of the Acquired Company:
+
+
+
+
+
+                                    are valid,
+                           outstanding, and enforceable;
+
+                                    are issued by an
+                           insurer that is financially
+                           sound and reputable;
+
+
+
+
+
+                                    taken together,
+                           provide adequate insurance
+                           coverage for the assets and
+                           the operations of the
+                           Acquired Company;
+
+
+
+
+<PAGE>
+
+                                     are sufficient for
+                           compliance with all Legal
+                           Requirements and Contracts to
+                           which the Acquired Company is
+                           a party or by which any of
+                           them is bound;
+
+
+
+
+
+                                    will continue in
+                           full force and effect
+                           following the consummation of
+                           the Contemplated
+                           Transactions; and
+
+
+
+
+
+                                    do not provide for any retrospective premium
+                           adjustment or other experienced-based liability on
+                           the part of the Acquired Company.
+
+
+
+
+
+
+<PAGE>
+
+                           No Seller or the Acquired Company has received (A)
+                  any refusal of coverage or any notice that a defense will be
+                  afforded with reservation of rights, or (B) any notice of
+                  cancellation or any other indication that any insurance policy
+                  is no longer in full force or effect or will not be renewed or
+                  that the issuer of any policy is not willing or able to
+                  perform its obligations thereunder.
+
+
+
+
+
+
+
+
+
+                           The Acquired Company has paid all premiums due, and
+                  have otherwise performed all of their respective obligations,
+                  under each policy to which the Acquired Company is a party or
+                  that provides coverage to the Acquired Company or director
+                  thereof.
+
+
+
+
+
+
+
+                           The Acquired Company has given notice to the insurer
+                  of all claims that may be insured thereby.
+
+
+
+
+<PAGE>
+
+         Environmental Matters.  Except as set forth in
+
+part 3.19 of the disclosure letter:
+
+                  The Acquired Company is, and at all times has been, in full
+         compliance with, and has not been and is not in violation of or liable
+         under, any Environmental Law. No Seller or the Acquired Company has any
+         basis to expect, nor has any of them or any other Person for whose
+         conduct they are or may be held to be responsible received, any actual
+         or Threatened order, notice, or other communication from (i) any
+         Governmental Body or private citizen acting in the public interest, or
+         (ii) the current or prior owner or operator of any Facilities, of any
+         actual or potential violation or failure to comply with any
+         Environmental Law, or of any actual or Threatened obligation to
+         undertake or bear the cost of any Environmental, Health, and Safety
+         Liabilities with respect to any of the Facilities or any other
+         properties or assets (whether real, personal, or mixed) in which
+         Sellers or the Acquired Company has had an interest, or with respect to
+         any property or Facility at or to which Hazardous Materials were
+         generated, manufactured, refined, transferred, imported, used, or
+         processed by Sellers, the Acquired Company, or any other Person for
+         whose conduct they are or may be held responsible, or from which
+         Hazardous Materials have been transported, treated, stored, handled,
+         transferred, disposed, recycled, or received.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+                  There are no pending or, to the Knowledge of Sellers and the
+         Acquired Company, Threatened claims, Encumbrances, or other
+         restrictions of any nature, resulting from any Environmental, Health,
+         and Safety Liabilities or arising under or pursuant to any
+         Environmental Law, with respect to or affecting any of the Facilities
+         or any other properties and assets (whether real, personal, or mixed)
+         in which Sellers or the Acquired Company has or had an interest.
+
+
+
+
+
+
+
+
+
+
+
+                  No Seller or the Acquired Company has any basis to expect, nor
+         has any of them or any other Person for whose conduct they are or may
+         be held responsible, received, any citation, directive, inquiry,
+         notice, Order, summons, warning, or other communication that relates to
+         Hazardous Activity, Hazardous Materials, or any alleged, actual, or
+         potential violation or failure to comply with any Environmental Law, or
+         of the alleged, actual, or potential obligation to undertake or bear
+         the cost of any Environmental, Health, and Safety Liabilities with
+         respect to any of the Facilities or any other properties or assets
+         (whether real, personal, or mixed) in which Sellers or the Acquired
+         Company had an interest, or with respect to any property or facility to
+         which Hazardous Materials generated, manufactured, refined,
+         transferred, imported, used, or processed by Sellers, the Acquired
+         Company, or any other Person for whose conduct they are or may be held
+         responsible, have been transported, treated, stored, handled,
+         transferred, disposed, recycled, or received.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+                  No Seller or the Acquired Company, or any other Person for
+         whose conduct they are or may be held responsible, has any
+         Environmental, Health, and Safety Liabilities with respect to the
+         Facilities or with respect to any other properties and assets (whether
+         real, personal, or mixed) in which Sellers or the Acquired Company (or
+         any predecessor), has or had an interest, or at any property
+         geologically or hydrologically adjoining the Facilities or any such
+         other property or assets.
+
+
+
+
+
+
+
+
+
+                  There are no Hazardous Materials present on or in the
+         Environment at the Facilities or at any geologically or hydrologically
+         adjoining property, including any Hazardous Materials contained in
+         barrels, above or underground storage tanks, landfills, land deposits,
+         dumps, equipment (whether moveable or fixed) or other containers,
+         either temporary or permanent, and deposited or located in land, water,
+         sumps, or any other part of the Facilities or such adjoining property,
+         or incorporated into any structure therein or thereon. No Seller, the
+         Acquired Company, any other Person for whose conduct they are or may be
+         held responsible, or any other Person, has permitted or conducted, or
+         is aware of, any Hazardous Activity conducted with respect to the
+         Facilities or any other properties or assets (whether real, personal,
+         or mixed) in which Sellers or the Acquired Company has or had an
+         interest.
+
+
+
+
+
+
+<PAGE>
+
+                  There has been no Release or, to the Knowledge of Sellers and
+         the Acquired Company, Threat of Release, of any Hazardous Materials at
+         or from the Facilities or at any other locations where any Hazardous
+         Materials were generated, manufactured, refined, transferred, produced,
+         imported, used, or processed from or by the Facilities, or from or by
+         any other properties and assets (whether real, personal, or mixed) in
+         which Sellers or the Acquired Company has or had an interest, or any
+         geologically or hydrologically adjoining property, whether by Sellers,
+         the Acquired Company, or any other Person.
+
+
+
+
+
+
+
+
+
+                  Sellers have delivered to Buyer true and complete copies and
+         results of any reports, studies, analyses, tests, or monitoring
+         possessed or initiated by Sellers or the Acquired Company pertaining to
+         Hazardous Materials or Hazardous Activities in, on, or under the
+         Facilities, or concerning compliance by Sellers, the Acquired Company,
+         or any other Person for whose conduct they are or may be held
+         responsible, with Environmental Laws.
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+         Employees.
+
+                  Part 3.20 of the Disclosure Letter contains a complete and
+         accurate list of the following information for each employee or
+         director of the Acquired Company, including each employee on leave of
+         absence or layoff status: employer; name; job title; current
+         compensation paid or payable and any change in compensation since
+         December 11, 2000; vacation accrued; and service credited for purposes
+         of vesting and eligibility to participate under any pension,
+         retirement, profit-sharing, thrift-savings, deferred compensation,
+         stock bonus, stock option, cash bonus, employee stock ownership
+         (including investment credit or payroll stock ownership), severance
+         pay, insurance, medical, welfare, or vacation plan, other Employee
+         Pension Benefit Plan or Employee Welfare Benefit Plan, or any other
+         employee benefit plan or any Director Plan.
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+                  No employee, participant, or director of the Acquired Company
+         is a party to, or is otherwise bound by, any agreement or arrangement,
+         including any confidentiality, noncompetition, or proprietary rights
+         agreement, between such employee or director and any other Person
+         ("Proprietary Rights Agreement") that in any way adversely affects or
+         will affect (i) the performance of his duties as an employee or
+         director of the Acquired Company, or (ii) the ability of the Acquired
+         Company to conduct its business, including any Proprietary Rights
+         Agreement with Sellers or the Acquired Company by any such employee or
+         director.
+
+
+
+
+
+
+
+
+
+                  Part 3.20 of the Disclosure Letter also contains a complete
+         and accurate list of the following information for each retired
+         employee or director of the Acquired Company, or their dependents,
+         receiving benefits or scheduled to receive benefits in the future:
+         name, pension benefit, pension option election, retiree medical
+         insurance coverage, retiree life insurance coverage, and other
+         benefits.
+
+
+
+
+
+
+<PAGE>
+
+         Labor Relations; Compliance. Since December 11, 2000, the Acquired
+Company has not been nor is a party to any collective bargaining or other labor
+Contract. Since December 11, 2000, there has not been, there is not presently
+pending or existing, and there is not Threatened, (a) any strike, slowdown,
+picketing, work stoppage, or employee grievance process, or (b) any Proceeding
+against or affecting the Acquired Company relating to the alleged violation of
+any Legal Requirement pertaining to labor relations or employment matters. No
+event has occurred or circumstance exists that could provide the basis for any
+work stoppage or other labor dispute. There is no lockout of any employees by
+the Acquired Company, and no such action is contemplated by the Acquired
+Company. The Acquired Company has complied in all respects with all Legal
+Requirements relating to employment, equal employment opportunity,
+nondiscrimination, immigration, wages, hours, benefits, collective bargaining,
+the payment of social security and similar taxes, occupational safety and
+health, and plant closing. The Acquired Company is not liable for the payment of
+any compensation, damages, taxes, fines, penalties, or other amounts, however
+designated, for failure to comply with any of the foregoing Legal Requirements.
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Intellectual Property.
+
+
+
+                  Intellectual Property Assets.  The
+         term "Intellectual Property Assets" includes:
+
+
+<PAGE>
+
+                           the name, Mego Gold, all fictional business names,
+                  trading names, registered and unregistered trademarks, service
+                  marks, and applications (collectively, "Marks");
+
+
+
+
+
+                           all patents, patent
+                  applications, and inventions and
+                  discoveries that may be patentable
+                  (collectively, "Patents");
+
+
+
+
+
+                           all copyrights in both
+                  published works and unpublished works
+                  (collectively, "Copyrights"); and
+
+
+
+
+
+                           all know-how, trade secrets, confidential
+                  information, customer lists, software, technical information,
+                  data, process technology, plans, drawings, and blue prints
+                  (collectively, "Trade Secrets"); owned, used, or licensed by
+                  the Acquired Company as licensee or licensor.
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+                  Agreements. Part 3.22(b) of the Disclosure Letter contains a
+         complete and accurate list and summary description, including any
+         royalties paid or received by the Acquired Company, of all Contracts
+         relating to the Intellectual Property Assets to which the Acquired
+         Company is a party or by which the Acquired Company is bound, except
+         for any license implied by the sale of a product and perpetual, paid-up
+         licenses for commonly available software programs with a value of less
+         than One Thousand US Dollars ($1,000.00) under which the Acquired
+         Company is the licensee. There are no outstanding and, to Sellers'
+         Knowledge, no Threatened disputes or disagreements with respect to any
+         such agreement.
+
+
+
+
+
+                  Know-How Necessary for the Business.
+
+                           The Intellectual Property Assets are all those
+                  necessary for the operation of the Acquired Company's
+                  businesses as they are currently conducted. The Acquired
+                  Company is the owner of all right, title, and interest in and
+                  to each of the Intellectual Property Assets, free and clear of
+                  all liens, security interests, charges, encumbrances,
+                  equities, and other adverse claims, and has the right to use
+                  without payment to a third party all of the Intellectual
+                  Property Assets.
+
+
+
+
+
+
+
+
+<PAGE>
+
+                           Except as set forth in Part 3.22(c) of the Disclosure
+                  Letter, all former and current employees of the Acquired
+                  Company have executed written Contracts with the Acquired
+                  Company that assign to the Acquired Company all rights to any
+                  inventions, improvements, discoveries, or information relating
+                  to the business of the Acquired Company. No employee of the
+                  Acquired Company has entered into any Contract that restricts
+                  or limits in any way the scope or type of work in which the
+                  employee may be engaged or requires the employee to transfer,
+                  assign, or disclose information concerning his work to anyone
+                  other than the Acquired Company.
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+                  Patents.
+
+                           Part 3.22(d) of the Disclosure Letter contains a
+                  complete and accurate list and summary description of all
+                  Patents. One or more of the Acquired Company is the owner of
+                  all right, title, and interest in and to each of the Patents,
+                  free and clear of all liens, security interests, charges,
+                  encumbrances, entities, and other adverse claims.
+
+
+
+
+
+
+
+
+
+                           All of the issued Patents are currently in compliance
+                  with formal legal requirements (including payment of filing,
+                  examination, and maintenance fees and proofs of working or
+                  use), are valid and enforceable, and are not subject to any
+                  maintenance fees or taxes or actions falling due within ninety
+                  days after the Closing Date.
+
+
+
+
+
+
+<PAGE>
+
+                           No Patent has been or is now involved in any
+                  interference, reissue, reexamination, or opposition
+                  proceeding. To Sellers' Knowledge, there is no potentially
+                  interfering patent or patent application of any third party.
+
+
+
+
+
+                           No Patent is infringed or, to Sellers' Knowledge, has
+                  been challenged or threatened in any way. None of the products
+                  manufactured and sold, nor any process or know-how used, by
+                  the Acquired Company infringes or is alleged to infringe any
+                  patent or other proprietary right of any other Person.
+
+
+
+
+
+
+
+
+<PAGE>
+
+                  Trademarks.
+
+                           Part 3.22(e) of Disclosure Letter contains a complete
+                  and accurate list and summary description of all Marks. The
+                  Acquired Company is the owner of all right, title, and
+                  interest in and to each of the Marks, free and clear of all
+                  liens, security interests, charges, encumbrances, equities,
+                  and other adverse claims.
+
+
+
+
+
+
+
+
+
+                           No Mark has been or is now involved in any
+                  opposition, invalidation, or cancellation and, to Sellers'
+                  Knowledge, no such action is Threatened with the respect to
+                  any of the Marks.
+
+
+
+
+
+                           To Sellers' Knowledge, there is no potentially
+                  interfering trademark or trademark application of any third
+                  party.
+
+
+
+                           No Mark is infringed or, to Sellers' Knowledge, has
+                  been challenged or threatened in any way. None of the Marks
+                  used by the Acquired Company infringes or is alleged to
+                  infringe any trade name, trademark, or service mark of any
+                  third party.
+
+
+
+
+
+
+
+
+<PAGE>
+
+                  Copyrights.
+
+
+
+                           Part 3.22(f) of the Disclosure Letter contains a
+                  complete and accurate list and summary description of all
+                  Copyrights. The Acquired Company is the owner of all right,
+                  title, and interest in and to each of the Copyrights, free and
+                  clear of all liens, security interests, charges, encumbrances,
+                  equities, and other adverse claims.
+
+
+
+
+
+
+
+
+
+
+
+                           All the Copyrights have been registered and are
+                  currently in compliance with formal legal requirements, are
+                  valid and enforceable, and are not subject to any maintenance
+                  fees or taxes or actions falling due within ninety days after
+                  the date of Closing.
+
+
+
+
+
+
+<PAGE>
+
+                           No Copyright is infringed or, to Sellers' Knowledge,
+                  has been challenged or threatened in any way. None of the
+                  subject matter of any of the Copyrights infringes or is
+                  alleged to infringe any copyright of any third party or is a
+                  derivative work based on the work of a third party.
+
+
+
+
+
+
+
+
+
+
+
+                           All works encompassed by the Copyrights have been
+                  marked with the proper copyright notice.
+
+
+
+
+
+                  Trade Secrets.
+
+
+
+                           With respect to each Trade Secret, the documentation
+                  relating to such Trade Secret is current, accurate, and
+                  sufficient in detail and content to identify and explain it
+                  and to allow its full and proper use without reliance on the
+                  knowledge or memory of any individual.
+
+
+
+
+
+
+<PAGE>
+
+                           Sellers and the Acquired Company have taken all
+                  reasonable precautions to protect the secrecy,
+                  confidentiality, and value of their Trade Secrets.
+
+
+
+
+
+
+
+                           The Acquired Company has good title and an absolute
+                  (but not necessarily exclusive) right to use the Trade
+                  Secrets. The Trade Secrets are not part of the public
+                  knowledge or literature, and, to Sellers' Knowledge, have not
+                  been used, divulged, or appropriated either for the benefit of
+                  any Person (other than the Acquired Company) or to the
+                  detriment of the Acquired Company. No Trade Secret is subject
+                  to any adverse claim or has been challenged or threatened in
+                  any way.
+
+
+
+
+
+
+<PAGE>
+
+         Certain Payments. Since December 11, 2000, the Acquired Company has not
+nor has any director, officer, participant, Seller, agent, or employee of the
+Acquired Company, or any other Person associated with or acting for or on behalf
+of the Acquired Company, directly or indirectly (a) made any contribution, gift,
+bribe, rebate, payoff, influence payment, kickback, or other payment to any
+Person, private or public, regardless of form, whether in money, property, or
+services (i) to obtain favorable treatment in securing business, (ii) to pay for
+favorable treatment for business secured, (iii) to obtain special concessions or
+for special concessions already obtained, for or in respect of the Acquired
+Company or any Affiliate of an Acquired Company, or (iv) in violation of any
+Legal Requirement, (b) established or maintained any fund or asset that has not
+been recorded in the books and records of the Acquired Company.
+
+
+
+
+
+
+
+
+
+         Disclosure.
+
+                  No representation or warranty of Sellers in this Agreement and
+         no statement in the Disclosure Letter omits to state a material fact
+         necessary to make the statements herein or therein, in light of the
+         circumstances in which they were made, not misleading.
+
+
+
+
+
+
+<PAGE>
+
+                  No notice given pursuant to Section 5.5 will contain any
+         untrue statement or omit to state a material fact necessary to make the
+         statements therein or in this Agreement, in light of the circumstances
+         in which they were made, not misleading.
+
+
+
+
+
+
+
+                  There is no fact known to either Seller that has specific
+         application to either Seller or the Acquired Company (other than
+         general economic or industry conditions) and that materially adversely
+         affects the assets, business, prospects, financial condition, or
+         results of operations of the Acquired Company (on a consolidated basis)
+         that has not been set forth in this Agreement or the Disclosure Letter.
+
+
+
+
+
+         Relationships with Related Persons. No Seller or any Related Person of
+Sellers or of the Acquired Company has, or has had, any interest in any property
+(whether real, personal, or mixed and whether tangible or intangible), used in
+or pertaining to the Acquired Company's businesses. No Seller or any Related
+Person of Sellers or of the Acquired Company is, or since has owned (of record
+or as a beneficial owner) an equity interest or any other financial or profit
+interest in, a Person that has (i) had business dealings or a material financial
+interest in any transaction with the Acquired Company, or (ii) engaged in
+competition with the Acquired Company (a "Competing Business") in any market
+presently served by the Acquired Company. Except as set forth in Part 3.25 of
+the Disclosure Letter, no Seller or any Related Person of Sellers or of the
+Acquired Company is a party to any Contract with, or has any claim or right
+against, the Acquired Company.
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+         Brokers or Finders. Sellers and their agents have incurred no
+obligation or liability, contingent or otherwise, for brokerage or finders' fees
+or agents' commissions or other similar payment in connection with this
+Agreement.
+
+
+
+
+
+
+
+REPRESENTATIONS AND WARRANTIES OF BUYER.  Buyer
+represents and warrants to Sellers as follows:
+
+
+
+
+
+         Organization and Good Standing. Buyer is a limited liability company
+duly organized, validly existing, and in good standing under the laws of the
+State of Delaware, USA. Until Buyer purchases the Seller's 49%, the Buyer shall
+not change its organizational form, and shall not change or otherwise allianate
+its 51% share, without the Seller's concent.
+
+
+
+
+<PAGE>
+
+         Authority; No Conflict.
+
+
+
+                  This Agreement constitutes the legal, valid, and binding
+         obligation of Buyer, enforceable against Buyer in accordance with its
+         terms. Buyer has the absolute and unrestricted right, power, and
+         authority to execute and deliver this Agreement and to perform its
+         obligations under this Agreement.
+
+
+
+
+
+
+
+
+
+                  Except as set forth in Schedule 4.2, neither the execution and
+         delivery of this Agreement by Buyer nor the consummation or performance
+         of any of the Contemplated Transactions by Buyer will give any Person
+         the right to prevent, delay, or otherwise interfere with any of the
+         Contemplated Transactions pursuant to:
+
+                           any provision of Buyer's
+                            Organizational Documents;
+
+
+<PAGE>
+
+                           any resolution adopted by the
+                  board or the member(s) of Buyer;
+
+                           any Legal Requirement or
+                  Order to which Buyer may be subject; or
+
+
+
+                           any Contract to which Buyer
+                  is a party or by which Buyer may be
+                  bound.
+
+
+
+
+
+         Except as set forth in Schedule 4.2, Buyer is not and will not be
+         required to obtain any Consent from any Person in connection with the
+         execution and delivery of this Agreement or the consummation or
+         performance of any of the Contemplated Transactions.
+
+         Investment Intent.  Buyer is acquiring the
+Shares for its own account.
+
+
+
+         Certain Proceedings. There is no pending Proceeding that has been
+commenced against Buyer and that challenges, or may have the effect of
+preventing, delaying, making illegal, or otherwise interfering with, any of the
+Contemplated Transactions. To Buyer's Knowledge, no such Proceeding has been
+Threatened.
+
+
+<PAGE>
+
+         Brokers or Finders. Buyer and its officers and agents have incurred no
+obligation or liability, contingent or otherwise, for brokerage or finders' fees
+or agents' commissions or other similar payment in connection with this
+Agreement and will indemnify and hold Sellers harmless from any such payment
+alleged to be due by or through Buyer as a result of the action of Buyer or its
+officers or agents.
+
+
+
+
+
+
+
+COVENANTS OF SELLERS PRIOR TO CLOSING DATE.
+
+         Access and investigation. Between the date of this Agreement and the
+Closing Date, Sellers will, and will cause the Acquired Company and its
+Representatives to, (a) afford Buyer and its Representatives and prospective
+lenders and their Representatives (collectively, "Buyer's Advisors") full and
+free access to each Acquired Company's personnel, properties (including
+subsurface testing), contracts, books and records, and other documents and data,
+(b) furnish Buyer and Buyer's Advisors with copies of all such contracts, books
+and records, and other existing documents and data as Buyer may reasonably
+request, and (c) furnish Buyer and Buyer's Advisors with such additional
+financial, operating, and other data and information as Buyer may reasonably
+request.
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+         Operation of the Businesses of the Acquired Company. Between the date
+of this Agreement and the Closing Date, Sellers will, and will cause the
+Acquired Company to:
+
+
+
+                  conduct the business of such Acquired
+         Company only in the Ordinary Course of Business;
+
+
+
+                  use their Best Efforts to preserve intact the current business
+         organization of such Acquired Company, keep available the services of
+         the current officers, employees, and agents of such Acquired Company,
+         and maintain the relations and good will with suppliers, customers,
+         landlords, creditors, employees, agents, and others having business
+         relationships with such Acquired Company;
+
+
+
+
+
+
+
+
+
+                  confer with Buyer concerning
+         operational matters of a material nature; and
+
+
+
+                  otherwise report periodically to Buyer concerning the status
+         of the business, operations, and finances of such Acquired Company.
+
+
+<PAGE>
+
+         Negative Covenant. Except as otherwise expressly permitted by this
+Agreement, between the date of this Agreement and the Closing Date, Sellers will
+not, and will cause the Acquired Company not to, without the prior consent of
+Buyer, take any affirmative action, or fail to take any reasonable action within
+their or its control, as a result of which any of the changes or events listed
+in Section 3.16 is likely to occur.
+
+
+
+
+
+         Required Approvals. As promptly as practicable after the date of this
+Agreement, Sellers will, and will cause the Acquired Company to, make all
+filings required by Legal Requirements to be made by them in order to consummate
+the Contemplated Transactions (including the qualification of the Acquired
+Company as a foreign investor under Armenian law). Between the date of this
+Agreement and the Closing Date, Sellers will, and will cause each Acquired
+Company to, (a) cooperate with Buyer with respect to all filings that Buyer
+elects to make or is required by Legal Requirements to make in connection with
+the Contemplated Transactions, and (b) cooperate with Buyer in obtaining all
+consents identified in Schedule 4.2 of the Disclosure Letter.
+
+
+
+
+
+
+
+
+<PAGE>
+
+         Notification. Between the date of this Agreement and the Closing Date,
+each Seller will promptly notify Buyer in writing if such Seller or the Acquired
+Company becomes aware of any fact or condition that causes or constitutes a
+Breach of any of Sellers' representations and warranties as of the date of this
+Agreement, or if such Seller or the Acquired Company becomes aware of the
+occurrence after the date of this Agreement of any fact or condition that would
+(except as expressly contemplated by this Agreement) cause or constitute a
+Breach of any such representation or warranty had such representation or
+warranty been made as of the time of occurrence or discovery of such fact or
+condition. Should any such fact or condition require any change in the
+Disclosure Letter if the Disclosure Letter were dated the date of the occurrence
+or discovery of any such fact or condition, Sellers will promptly deliver to
+Buyer a supplement to the Disclosure Letter specifying such change. During the
+same period, each Seller will promptly notify Buyer of the occurrence of any
+Breach of any covenant of Sellers in this Section 5 or of the occurrence of any
+event that may make the satisfaction of the conditions in Section 7 impossible
+or unlikely.
+
+
+
+
+
+
+
+
+
+
+
+         Payment of Indebtedness by Related Persons. Except as expressly
+provided in this Agreement, Sellers will cause all indebtedness owed to the
+Acquired Company by either Seller or any Related Person of either Seller to be
+paid in full prior to Closing.
+
+<PAGE>
+
+         No Negotiation. Until such time, if any, as this Agreement is
+terminated pursuant to Section 9, Sellers will not, and will cause the Acquired
+Company and each of their Representatives not to, directly or indirectly
+solicit, initiate, or encourage any inquiries or proposals from, discuss or
+negotiate with, provide any non-public information to, or consider the merits of
+any unsolicited inquiries or proposals from, any Person (other than Buyer)
+relating to any transaction involving the sale of the business or assets (other
+than in the Ordinary Course of Business) of the Acquired Company, or any of the
+capital stock of the Acquired Company, or any merger, consolidation, business
+combination, or similar transaction involving the Acquired Company.
+
+
+
+
+
+         Best Efforts. Between the date of this Agreement and the Closing Date,
+Sellers will use their Best Efforts to cause the conditions in Sections 7 and 8
+to be satisfied.
+
+
+
+COVENANTS OF BUYER PRIOR TO CLOSING DATE.
+
+
+
+         Approvals of Governmental Bodies. As promptly as practicable after the
+date of this Agreement, Buyer will, and will cause each of its Related Persons
+to, make all filings required by Legal Requirements to be made by them to
+consummate the Contemplated Transactions. Between the date of this Agreement and
+the Closing Date, Buyer will, and will cause each Related Person to, cooperate
+with Sellers with respect to all filings that Sellers are required by Legal
+Requirements to make in connection with the Contemplated Transactions, and (ii)
+cooperate with Sellers in obtaining all consents identified in Part 3.2 of the
+Disclosure Letter; provided that this Agreement will not require Buyer to
+dispose of or make any change in any portion of its business or to incur any
+other burden to obtain a Governmental Authorization.
+
+
+
+
+
+
+<PAGE>
+
+         Best Efforts. Except as set forth in the proviso to Section 6.1,
+between the date of this Agreement and the Closing Date, Buyer will use its Best
+Efforts to cause the conditions in Sections 7 and 8 to be satisfied.
+
+
+
+CONDITIONS PRECEDENT TO BUYER'S OBLIGATION TO CLOSE. Buyer's obligation to
+purchase the Shares and to take the other actions required to be taken by Buyer
+at the Closing is subject to the satisfaction, at or prior to the Closing, of
+each of the following conditions (any of which may be waived by Buyer, in whole
+or in part):
+
+
+
+
+
+         Accuracy of Representations.
+
+
+                  All of Sellers' representations and warranties in this
+         Agreement (considered collectively), and each of these representations
+         and warranties (considered individually), must have been accurate in
+         all material respects as of the date of this Agreement, and must be
+         accurate in all material respects as of the Closing Date as if made on
+         the Closing Date, without giving effect to any supplement to the
+         Disclosure Letter.
+
+
+
+
+
+
+<PAGE>
+
+                  Each of Sellers' representations and warranties must have been
+         accurate in all respects as of the date of this Agreement, and must be
+         accurate in all respects as of the Closing Date as if made on the
+         Closing Date, without giving effect to any supplement to the Disclosure
+         Letter.
+
+
+
+
+
+         Sellers' Performance.
+
+                  All of the covenants and obligations that Sellers are required
+         to perform or to comply with pursuant to this Agreement at or prior to
+         the Closing (considered collectively), and each of these covenants and
+         obligations (considered individually), must have been duly performed
+         and complied with in all material respects.
+
+
+
+
+
+                  Each document required to be delivered pursuant to Section 2.4
+         must have been delivered, and each of the other covenants and
+         obligations must have been performed and complied with in all respects.
+
+
+
+         Consents. Each of the Consents identified in Part 3.2 of the Disclosure
+Letter and each Consent identified in Schedule 4.2, must have been obtained and
+must be in full force and effect.
+
+
+
+
+
+         Additional Documents.  Each of the following
+documents must have been delivered to Buyer:
+
+                  An opinion of legal counsel, dated as
+         of the closing date in the form of Exhibit
+         7.4(a);
+
+
+<PAGE>
+
+                  such other documents as Buyer may reasonably request for the
+         purpose of (i) enabling its counsel to provide the opinion referred to
+         in Section 8.4(a), (ii) evidencing the accuracy of any of Sellers'
+         representations and warranties, (iii) evidencing the performance by
+         either Seller of, or the compliance by either Seller with, any covenant
+         or obligation required to be performed or complied with by such Seller,
+         (iv) evidencing the satisfaction of any condition referred to in this
+         Section 7, or (v) otherwise facilitating the consummation or
+         performance of any of the Contemplated Transactions.
+
+         No Proceedings. Since the date of this Agreement, there must not have
+been commenced or Threatened against Buyer, or against any Person affiliated
+with Buyer, any Proceeding (a) involving any challenge to, or seeking damages or
+other relief in connection with, any of the Contemplated Transactions, or (b)
+that may have the effect of preventing, delaying, making illegal, or otherwise
+interfering with any of the Contemplated Transactions.
+
+
+
+         No Claim Regarding Share Ownership or Sale Proceeds. There must not
+have been made or Threatened by any Person any claim asserting that such Person
+(a) is the holder or the beneficial owner of, or has the right to acquire or to
+obtain beneficial ownership of, any stock of, or any other voting, equity, or
+ownership interest in, the Acquired Company, or (b) is entitled to all or any
+portion of the Purchase Price payable for the Shares.
+
+
+
+
+
+         No Prohibition. Neither the consummation nor the performance of any of
+the Contemplated Transactions will, directly or indirectly (with or without
+notice or lapse of time), materially contravene, or conflict with, or result in
+a material violation of, or cause Buyer or any Person affiliated with Buyer to
+suffer any material adverse consequence under, (a) any applicable Legal
+Requirement or Order, or (b) any Legal Requirement or Order that has been
+published, introduced, or otherwise proposed by or before any Governmental Body.
+
+
+
+
+
+
+<PAGE>
+
+         7.8 Technical Results. Analyses of representative ore samples and
+concentrate produced there from at the plant taken by Buyer and independently
+tested for content and processing meet or surpass the amounts and recovery
+percentages reported in the GKZ analyses provided to Buyer.
+
+
+
+
+
+         7.9 Tax Liabilities. Sellers shall deliver a binding release from the
+Armenian Tax Ministry describing all Tax consequences related to the
+Contemplated Transactions and Sellers shall assume sole and full liability for
+any and all Tax consequences, stated or unstated, actual or potential, in
+connection with the Acquired Company prior to and including the consummation of
+all of the Contemplated Transactions.
+
+
+
+CONDITIONS PRECEDENT TO SELLERS' OBLIGATION TO CLOSE. Sellers' obligation to
+sell the Shares and to take the other actions required to be taken by Sellers at
+the Closing is subject to the satisfaction, at or prior to the Closing, of each
+of the following conditions (any of which may be waived by Sellers, in whole or
+in part):
+
+
+
+
+
+         Accuracy of Representations. All of Buyer's representations and
+warranties in this Agreement (considered collectively), and each of these
+representations and warranties (considered individually), must have been
+accurate in all material respects as of the date of this Agreement and must be
+accurate in all material respects as of the Closing Date as if made on the
+Closing Date.
+
+
+
+
+
+
+<PAGE>
+
+         Buyer's Performance.
+
+                  All of the covenants and obligations that Buyer is required to
+         perform or to comply with pursuant to this Agreement at or prior to the
+         Closing (considered collectively), and each of these covenants and
+         obligations (considered individually), must have been performed and
+         complied with in all material respects.
+
+
+
+
+
+                  Buyer must have delivered each of the documents required to be
+         delivered by Buyer pursuant to Section 2.4 and must have made the
+         payments required to be made by Buyer pursuant to Sections 2.4(b)(i)
+         and 2.4(b)(ii).
+
+
+
+
+
+         Consents. Each of the Consents identified in Part 3.2 of the Disclosure
+Letter must have been obtained and must be in full force and effect.
+
+
+<PAGE>
+
+         Additional Documents.  Buyer must have caused
+the following documents to be delivered to Sellers:
+
+
+
+                  an opinion of legal counsel, dated the
+         Closing Date, in the form of Exhibit 8.4(a); and
+
+
+
+                  such other documents as Sellers may reasonably request for the
+         purpose of (i) enabling their counsel to provide the opinion referred
+         to in Section 7.4(a), (ii) evidencing the accuracy of any
+         representation or warranty of Buyer, (iii) evidencing the performance
+         by Buyer of, or the compliance by Buyer with, any covenant or
+         obligation required to be performed or complied with by Buyer, (iv)
+         evidencing the satisfaction of any condition referred to in this
+         Section 8, or (v) otherwise facilitating the consummation of any of the
+         Contemplated Transactions.
+
+         No Injunction. There must not be in effect any Legal Requirement or any
+injunction or other Order that (a) prohibits the sale of the Shares by Sellers
+to Buyer, and (b) has been adopted or issued, or has otherwise become effective,
+since the date of this Agreement.
+
+
+
+TERMINATION.
+
+         Termination Events.  This Agreement may, by
+notice given prior to or at the Closing, be terminated:
+
+
+
+                  by either Buyer or Sellers if a material Breach of any
+         provision of this Agreement has been committed by the other party and
+         such Breach has not been waived;
+
+<PAGE>
+
+                  (i) by Buyer if any of the conditions in Section 7 has not
+         been satisfied as of the Closing Date or if satisfaction of such a
+         condition is or becomes impossible (other than through the failure of
+         Buyer to comply with its obligations under this Agreement) and Buyer
+         has not waived such condition on or before the Closing Date; or (ii) by
+         Sellers, if any of the conditions in Section 8 has not been satisfied
+         of the Closing Date or if satisfaction of such a condition is or
+         becomes impossible (other than through the failure of Sellers to comply
+         with their obligations under this Agreement) and Sellers have not
+         waived such condition on or before the Closing Date;
+
+
+
+
+
+
+
+
+
+                  by mutual consent of Buyer and
+         Sellers; or
+
+
+
+                  by either Buyer or Sellers if the Closing has not occurred
+         (other than through the failure of any party seeking to terminate this
+         Agreement to comply fully with its obligations under this Agreement) on
+         or before September 30, 2005, or such later date as the parties may
+         agree upon.
+
+
+
+
+<PAGE>
+
+         Effect of Termination. Each party's right of termination under Section
+9.1 is in addition to any other rights it may have under this Agreement or
+otherwise, and the exercise of a right of termination will not be an election of
+remedies. If this Agreement is terminated pursuant to Section 9.1, all further
+obligations of the parties under this Agreement will terminate, except that the
+obligations in Sections 11.1 and 11.3 will survive; provided, however, that if
+this Agreement is terminated by a party because of the Breach of the Agreement
+by the other party or because one or more of the conditions to the terminating
+party's obligations under this Agreement is not satisfied as a result of the
+other party's failure to comply with its obligations under this Agreement, the
+terminating party's right to pursue all legal remedies will survive such
+termination unimpaired.
+
+
+
+
+
+
+
+INDEMNIFICATION; REMEDIES.
+
+
+         Survival; Right to Indemnification not Affected by Knowledge. All
+representations, warranties, covenants, and obligations in this Agreement, the
+Disclosure Letter, the supplements to the Disclosure Letter, the certificate
+delivered pursuant to Section 2.4(a)(v), and any other certificate or document
+delivered pursuant to this Agreement will survive the Closing. The right to
+indemnification, payment of Damages or other remedy based on such
+representations, warranties, covenants, and obligations will not be affected by
+any investigation conducted with respect to, or any Knowledge acquired (or
+capable of being acquired) at any time, whether before or after the execution
+and delivery of this Agreement or the Closing Date, with respect to the accuracy
+or inaccuracy of or compliance with, any such representation, warranty,
+covenant, or obligation. The waiver of any condition based on the accuracy of
+any representation or warranty, or on the performance of or compliance with any
+covenant or obligation, will not affect the right to indemnification, payment of
+Damages, or other remedy based on such representations, warranties, covenants,
+and obligations.
+
+
+
+
+
+
+
+
+<PAGE>
+
+         Indemnification and Payment of Damages by Sellers. Sellers, jointly and
+severally, will indemnify and hold harmless Buyer, the Acquired Company, and
+their respective Representatives, shareholders, controlling persons, and
+affiliates (collectively, the "Indemnified Persons") for, and will pay to the
+Indemnified Persons the amount of, any loss, liability, claim, damage (including
+incidental and consequential damages), expense (including costs of investigation
+and defense and reasonable attorneys' fees) or diminution of value, whether or
+not involving a third-party claim (collectively, "Damages"), arising, directly
+or indirectly, from or in connection with:
+
+
+
+
+
+
+
+                  any Breach of any representation or warranty made by Sellers
+         in this Agreement (without giving effect to any supplement to the
+         Disclosure Letter), the Disclosure Letter, the supplements to the
+         Disclosure Letter, or any other certificate or document delivered by
+         Sellers pursuant to this Agreement;
+
+
+
+
+
+
+<PAGE>
+
+                  any Breach of any representation or warranty made by Sellers
+         in this Agreement as if such representation or warranty were made on
+         and as of the Closing Date without giving effect to any supplement to
+         the Disclosure Letter, other than any such Breach that is disclosed in
+         a supplement to the Disclosure Letter and is expressly identified in
+         the certificate delivered pursuant to Section 2.4(a)(v) as having
+         caused the condition specified in Section 7.1 not to be satisfied;
+
+
+
+
+
+
+
+                  any Breach by either Seller of any
+         covenant or obligation of such Seller in this
+         Agreement;
+
+
+
+                  any product shipped or manufactured
+         by, or any services provided by, the Acquired
+         Company prior to the Closing Date;
+
+
+
+                  any matter addressed in the Disclosure
+         Letter; or
+
+
+
+                  any claim by any Person for brokerage or finder's fees or
+         commissions or similar payments based upon any agreement or
+         understanding alleged to have been made by any such Person with either
+         Seller or the Acquired Company (or any Person acting on their behalf)
+         in connection with any of the Contemplated Transactions.
+
+
+<PAGE>
+
+The remedies provided in this Section 10.2 will not be exclusive of or limit any
+other remedies that may be available to Buyer or the other Indemnified Persons.
+
+
+
+
+
+
+
+         Indemnification and Payment of Damages by Sellers; Environmental
+Matters. In addition to the provisions of Section 10.2, Sellers, jointly and
+severally, will indemnify and hold harmless Buyer, the Acquired Company, and the
+other Indemnified Persons for, and will pay to Buyer, the Acquired Company, and
+the other Indemnified Persons the amount of, any Damages (including costs of
+cleanup, containment, or other remediation) arising, directly or indirectly,
+from or in connection with:
+
+
+
+                  any Environmental, Health, and Safety Liabilities arising out
+         of or relating to: (i) (A) the ownership, operation, or condition at
+         any time on or prior to the Closing Date of the Facilities or any other
+         properties and assets (whether real, personal, or mixed and whether
+         tangible or intangible) in which Sellers or the Acquired Company has or
+         had an interest, or (B) any Hazardous Materials or other contaminants
+         that were present on the Facilities or such other properties and assets
+         at any time on or prior to the Closing Date; or (ii) (A) any Hazardous
+         Materials or other contaminants, wherever located, that were, or were
+         allegedly, generated, transported, stored, treated, Released, or
+         otherwise handled by Sellers or the Acquired Company or by any other
+         Person for whose conduct they are or may be held responsible at any
+         time on or prior to the Closing Date, or (B) any Hazardous Activities
+         that were, or were allegedly, conducted by Sellers or the Acquired
+         Company or by any other Person for whose conduct they are or may be
+         held responsible; or
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+                  any bodily injury (including illness, disability, and death,
+         and regardless of when any such bodily injury occurred, was incurred,
+         or manifested itself), personal injury, property damage (including
+         trespass, nuisance, wrongful eviction, and deprivation of the use of
+         real property), or other damage of or to any Person, including any
+         employee or former employee of Sellers or the Acquired Company or any
+         other Person for whose conduct they are or may be held responsible, in
+         any way arising from or allegedly arising from any Hazardous Activity
+         conducted or allegedly conducted with respect to the Facilities or the
+         operation of the Acquired Company prior to the Closing Date, or from
+         Hazardous Material that was (i) present or suspected to be present on
+         or before the Closing Date on or at the Facilities (or present or
+         suspected to be present on any other property, if such Hazardous
+         Material emanated or allegedly emanated from any of the Facilities and
+         was present or suspected to be present on any of the Facilities on or
+         prior to the Closing Date) or (ii) Released or allegedly Released by
+         Sellers or the Acquired Company or any other Person for whose conduct
+         they are or may be held responsible, at any time on or prior to the
+         Closing Date.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Buyer will be entitled to control any Cleanup, any related Proceeding, and,
+except as provided in the following sentence, any other Proceeding with respect
+to which indemnity may be sought under this Section 10.3. The procedure
+described in Section 10.9 will apply to any claim solely for monetary damages
+relating to a matter covered by this Section 10.3.
+
+
+
+
+<PAGE>
+
+         Indemnification and Payment of Damages by Buyer. Buyer will indemnify
+and hold harmless Sellers, and will pay to Sellers the amount of any Damages
+arising, directly or indirectly, from or in connection with (a) any Breach of
+any representation or warranty made by Buyer in this Agreement or in any
+certificate delivered by Buyer pursuant to this Agreement, (b) any Breach by
+Buyer of any covenant or obligation of Buyer in this Agreement, or (c) any claim
+by any Person for brokerage or finder's fees or commissions or similar payments
+based upon any agreement or understanding alleged to have been made by such
+Person with Buyer (or any Person acting on its behalf) in connection with any of
+the Contemplated Transactions.
+
+
+
+
+
+
+
+         Time Limitations. If the Closing occurs, Sellers will have no liability
+(for indemnification or otherwise) with respect to any representation or
+warranty, or covenant or obligation to be performed and complied with prior to
+the Closing Date, other than those in Sections 3.3, 3.11, 3.13, and 3.19, unless
+on or before December 31, 2005, Buyer notifies Sellers of a claim specifying the
+factual basis of that claim in reasonable detail to the extent then known by
+Buyer; a claim with respect to Section 3.3, 3.11, 3.13, or 3.19, or a claim for
+indemnification or reimbursement not based upon any representation or warranty
+or any covenant or obligation to be performed and complied with prior to the
+Closing Date, may be made at any time. If the Closing occurs, Buyer will have no
+liability (for indemnification or otherwise) with respect to any representation
+or warranty, or covenant or obligation to be performed and complied with prior
+to the Closing Date, unless on or before December 31, 2005 Sellers notify Buyer
+of a claim specifying the factual basis of that claim in reasonable detail to
+the extent then known by Sellers.
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+         Limitations on Amount--Sellers. Sellers will have no liability (for
+indemnification or otherwise) with respect to the matters described in clause
+(a), clause (b) or, to the extent relating to any failure to perform or comply
+prior to the Closing Date, clause (c) of Section 10.2 until the total of all
+Damages with respect to such matters exceeds Ten Thousand US Dollars
+($10,000.00), and then only for the amount by which such Damages exceed Ten
+Thousand US Dollars ($10,000.00). Sellers will have no liability (for
+indemnification or otherwise) with respect to the matters described in clause
+(d) of Section 10.2 until the total of all Damages with respect to such matters
+exceeds Ten Thousand US Dollars ($10,000.00), and then only for the amount by
+which such Damages exceed Ten Thousand US Dollars ($10,000.00). However, this
+Section 10.6 will not apply to any Breach of any of Sellers' representations and
+warranties of which either Seller had Knowledge at any time prior to the date on
+which such representation and warranty is made or any intentional Breach by
+either Seller of any covenant or obligation, and Sellers will be jointly and
+severally liable for all Damages with respect to such Breaches.
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Limitations on Amount--Buyer. Buyer will have no liability (for
+indemnification or otherwise) with respect to the matters described in clause
+(a) or (b) of Section 10.4 until the total of all Damages with respect to such
+matters exceeds Ten Thousand US Dollars ($10,000.00), and then only for the
+amount by which such Damages exceed Ten Thousand US Dollars ($10,000.00).
+However, this Section 10.7 will not apply to any Breach of any of Buyer's
+representations and warranties of which Buyer had Knowledge at any time prior to
+the date on which such representation and warranty is made or any intentional
+Breach by Buyer of any covenant or obligation, and Buyer will be liable for all
+Damages with respect to such Breaches.
+
+
+
+         Right of Set-off. Upon notice to Sellers specifying in reasonable
+detail the basis for such set-off, Buyer may set off any amount to which it may
+be entitled under this Section 10 against amounts otherwise payable or may give
+notice of a Claim in such amount, if any. The exercise of such right of set-off
+by Buyer in good faith, whether or not ultimately determined to be justified,
+will not constitute a breach of contract. Neither the exercise of nor the
+failure to exercise such right of set-off or to give a notice of a Claim, if
+any, will constitute an election of remedies or limit Buyer in any manner in the
+enforcement of any other remedies that may be available to it.
+
+
+
+
+
+
+<PAGE>
+
+         Procedure for Indemnification--Third Party
+Claims.
+
+                  Promptly after receipt by an indemnified party under Section
+         10.2, 10.4, or (to the extent provided in the last sentence of Section
+         10.3) Section 10.3 of notice of the commencement of any Proceeding
+         against it, such indemnified party will, if a claim is to be made
+         against an indemnifying party under such Section, give notice to the
+         indemnifying party of the commencement of such claim, but the failure
+         to notify the indemnifying party will not relieve the indemnifying
+         party of any liability that it may have to any indemnified party,
+         except to the extent that the indemnifying party demonstrates that the
+         defense of such action is prejudiced by the indemnifying party's
+         failure to give such notice.
+
+
+
+
+
+
+
+                  If any Proceeding referred to in Section 10.9(a) is brought
+         against an indemnified party and it gives notice to the indemnifying
+         party of the commencement of such Proceeding, the indemnifying party
+         will, unless the claim involves Taxes, be entitled to participate in
+         such Proceeding and, to the extent that it wishes (unless (i) the
+         indemnifying party is also a party to such Proceeding and the
+         indemnified party determines in good faith that joint representation
+         would be inappropriate, or (ii) the indemnifying party fails to provide
+         reasonable assurance to the indemnified party of its financial capacity
+         to defend such Proceeding and provide indemnification with respect to
+         such Proceeding), to assume the defense of such Proceeding with counsel
+         satisfactory to the indemnified party and, after notice from the
+         indemnifying party to the indemnified party of its election to assume
+         the defense of such Proceeding, the indemnifying party will not, as
+         long as it diligently conducts such defense, be liable to the
+         indemnified party under this Section 10 for any fees of other counsel
+         or any other expenses with respect to the defense of such Proceeding,
+         in each case subsequently incurred by the indemnified party in
+         connection with the defense of such Proceeding, other than reasonable
+         costs of investigation. If the indemnifying party assumes the defense
+         of a Proceeding, (i) it will be conclusively established for purposes
+         of this Agreement that the claims made in that Proceeding are within
+         the scope of and subject to indemnification; (ii) no compromise or
+         settlement of such claims may be effected by the indemnifying party
+         without the indemnified party's consent unless (A) there is no finding
+         or admission of any violation of Legal Requirements or any violation of
+         the rights of any Person and no effect on any other claims that may be
+         made against the indemnified party, and (B) the sole relief provided is
+         monetary damages that are paid in full by the indemnifying party; and
+         (iii) the indemnified party will have no liability with respect to any
+         compromise or settlement of such claims effected without its consent.
+         If notice is given to an indemnifying party of the commencement of any
+         Proceeding and the indemnifying party does not, within ten days after
+         the indemnified party's notice is given, give notice to the indemnified
+         party of its election to assume the defense of such Proceeding, the
+         indemnifying party will be bound by any determination made in such
+         Proceeding or any compromise or settlement effected by the indemnified
+         party.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+                  Notwithstanding the foregoing, if an indemnified party
+         determines in good faith that there is a reasonable probability that a
+         Proceeding may adversely affect it or its affiliates other than as a
+         result of monetary damages for which it would be entitled to
+         indemnification under this Agreement, the indemnified party may, by
+         notice to the indemnifying party, assume the exclusive right to defend,
+         compromise, or settle such Proceeding, but the indemnifying party will
+         not be bound by any determination of a Proceeding so defended or any
+         compromise or settlement effected without its consent (which may not be
+         unreasonably withheld).
+
+
+
+
+
+
+
+                  Sellers hereby consent to the non-exclusive jurisdiction of
+         any court in which a Proceeding is brought against any Indemnified
+         Person for purposes of any claim that an Indemnified Person may have
+         under this Agreement with respect to such Proceeding or the matters
+         alleged therein, and agree that process may be served on Sellers with
+         respect to such a claim anywhere in the world.
+
+
+
+
+
+         Procedure for Indemnification--Other Claims. A claim for
+indemnification for any matter not involving a third-party claim may be asserted
+by notice to the party from whom indemnification is sought.
+
+
+
+GENERAL PROVISIONS.
+
+
+         Expenses. Except as otherwise expressly provided in this Agreement,
+each party to this Agreement will bear its respective expenses incurred in
+connection with the preparation, execution, and performance of this Agreement
+and the Contemplated Transactions, including all fees and expenses of agents,
+representatives, counsel, and accountants. Sellers will cause the Acquired
+Company not to incur any out-of-pocket expenses in connection with this
+Agreement. In the event of termination of this Agreement, the obligation of each
+party to pay its own expenses will be subject to any rights of such party
+arising from a breach of this Agreement by another party.
+
+
+
+
+
+
+<PAGE>
+
+         Public Announcements. Any public announcement or similar publicity with
+respect to this Agreement or the Contemplated Transactions will be issued, if at
+all, at such time and in such manner as Buyer determines. Unless consented to by
+Buyer in advance or required by Legal Requirements, prior to the Closing Sellers
+shall, and shall cause the Acquired Company to, keep this Agreement strictly
+confidential and may not make any disclosure of this Agreement to any Person.
+Sellers and Buyer will consult with each other concerning the means by which the
+Acquired Company's employees, customers, and suppliers and others having
+dealings with the Acquired Company will be informed of the Contemplated
+Transactions, and Buyer will have the right to be present for any such
+communication.
+
+
+
+
+
+
+
+
+
+         Confidentiality. Between the date of this Agreement and the Closing
+Date, Buyer and Sellers will maintain in confidence, and will cause the
+directors, participants, officers, employees, agents, and advisors of Buyer and
+the Acquired Company to maintain in confidence, any written, oral, or other
+information obtained from another party or the Acquired Company in connection
+with this Agreement or the Contemplated Transactions, unless (a) such
+information is already known to such party or to others not bound by a duty of
+confidentiality or such information becomes publicly available through no fault
+of such party, (b) the use of such information is necessary or appropriate in
+making any filing or obtaining any consent or approval required for the
+consummation of the Contemplated Transactions, or (c) the furnishing or use of
+such information is required by legal proceedings.
+
+
+
+
+
+
+<PAGE>
+
+         If the Contemplated Transactions are not consummated, each party will
+return or destroy as much of such written information as the other party may
+reasonably request.
+
+
+
+         Notices. All notices, consents, waivers, and other communications under
+this Agreement must be in writing and will be deemed to have been duly given
+when (a) delivered by hand (with written confirmation of receipt), (b) sent by
+telecopier (with written confirmation of receipt), provided that a copy is
+mailed by registered mail, return receipt requested, or (c) when received by the
+addressee, if sent by a nationally recognized overnight delivery service
+(receipt requested), in each case to the appropriate addresses and telecopier
+numbers set forth below (or to such other addresses and telecopier numbers as a
+party may designate by notice to the other parties):
+
+
+
+
+
+
+         Jurisdiction; Service of Process. Any action or proceeding seeking to
+enforce any provision of, or based on any right arising out of, this Agreement
+may be brought against any of the parties in the courts of the State of New
+York, County of New York, or, if it has or can acquire jurisdiction, in the
+United States District Court for the Southern District of New York, and each of
+the parties consents to the jurisdiction of such courts (and of the appropriate
+appellate courts) in any such action or proceeding and waives any objection to
+venue laid therein. Process in any action or proceeding referred to in the
+preceding sentence may be served on any party anywhere in the world.
+
+
+
+
+
+
+
+
+<PAGE>
+
+         Further Assurances. The parties agree (a) to furnish upon request to
+each other such further information, (b) to execute and deliver to each other
+such other documents, and (c) to do such other acts and things, all as the other
+party may reasonably request for the purpose of carrying out the intent of this
+Agreement and the documents referred to in this Agreement.
+
+
+
+
+
+         Waiver. The rights and remedies of the parties to this Agreement are
+cumulative and not alternative. Neither the failure nor any delay by any party
+in exercising any right, power, or privilege under this Agreement or the
+documents referred to in this Agreement will operate as a waiver of such right,
+power, or privilege, and no single or partial exercise of any such right, power,
+or privilege will preclude any other or further exercise of such right, power,
+or privilege or the exercise of any other right, power, or privilege. To the
+maximum extent permitted by applicable law, (a) no claim or right arising out of
+this Agreement or the documents referred to in this Agreement can be discharged
+by one party, in whole or in part, by a waiver or renunciation of the claim or
+right unless in writing signed by the other party; (b) no waiver that may be
+given by a party will be applicable except in the specific instance for which it
+is given; and (c) no notice to or demand on one party will be deemed to be a
+waiver of any obligation of such party or of the right of the party giving such
+notice or demand to take further action without notice or demand as provided in
+this Agreement or the documents referred to in this Agreement.
+
+
+
+
+
+
+
+<PAGE>
+
+         Entire Agreement and Modification. This Agreement supersedes all prior
+agreements between the parties with respect to its subject matter and
+constitutes (along with the documents referred to in this Agreement) a complete
+and exclusive statement of the terms of the agreement between the parties with
+respect to its subject matter. This Agreement may not be amended except by a
+written agreement executed by the party to be charged with the amendment.
+
+
+
+
+
+         Disclosure Letter.
+
+
+
+                  The disclosures in the Disclosure Letter, and those in any
+         Supplement thereto, must relate only to the representations and
+         warranties in the Section of the Agreement to which they expressly
+         relate and not to any other representation or warranty in this
+         Agreement.
+
+
+
+
+
+                  In the event of any inconsistency between the statements in
+         the body of this Agreement and those in the Disclosure Letter (other
+         than an exception expressly set forth as such in the Disclosure Letter
+         with respect to a specifically identified representation or warranty),
+         the statements in the body of this Agreement will control.
+
+
+
+         Assignments, Successors and No Third Party Rights. Neither party may
+assign any of its rights under this Agreement without the prior consent of the
+other parties, which will not be unreasonably withheld. Subject to the preceding
+sentence, this Agreement will apply to, be binding in all respects upon, and
+inure to the benefit of the successors and permitted assigns of the parties.
+Nothing expressed or referred to in this Agreement will be construed to give any
+Person other than the parties to this Agreement any legal or equitable right,
+remedy, or claim under or with respect to this Agreement or any provision of
+this Agreement. This Agreement and all of its provisions and conditions are for
+the sole and exclusive benefit of the parties to this Agreement and their
+successors and assigns.
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+         Severability. If any provision of this Agreement is held invalid or
+unenforceable by any court of competent jurisdiction, the other provisions of
+this Agreement will remain in full force and effect. Any provision of this
+Agreement held invalid or unenforceable only in part or degree will remain in
+full force and effect to the extent not held invalid or unenforceable.
+
+
+
+         Section Headings, Construction. The headings of Sections in this
+Agreement are provided for convenience only and will not affect its construction
+or interpretation. All references to "Section" or "Sections" refer to the
+corresponding Section or Sections of this Agreement. All words used in this
+Agreement will be construed to be of such gender or number as the circumstances
+require. Unless otherwise expressly provided, the word "including" does not
+limit the preceding words or terms.
+
+
+
+
+
+
+
+         Time of Essence.  With regard to all dates and
+time periods set forth or referred to in this Agreement,
+time is of the essence.
+
+
+
+         Governing Law.  This Agreement will be governed
+by the laws of the State of New York, USA without regard
+to conflicts of laws principles.
+
+         Counterparts. This Agreement may be executed in one or more
+counterparts, each of which will be deemed to be an original copy of this
+Agreement and all of which, when taken together, will be deemed to constitute
+one and the same agreement. This Agreement has been prepared in English and
+Armenian. All documents, notices, waivers and all other communication written or
+otherwise between the parties hereto in connection with this Agreement shall be
+in English. This Agreement shall also be translated into and executed in
+Armenian. If there is any inconsistency betweeen the versions, English version
+shall prevail.
+
+
+
+
+<PAGE>
+
+IN WITNESS WHEREOF, the parties have executed and delivered this Agreement as of
+the date first written above.
+
+
+
+Signed for and on behalf                    Signed for and on behalf
+of the Sellers                              of the Buyers
+
+
+--------------------------                  ------------------------
+Karapet Khachatryan                         Van Krikorian
+                                            Manager
+                                            Global Gold Mining, LLC
+
+
+--------------------------
+Arthur Gevorgyan
+
+</TEXT>
+</DOCUMENT>

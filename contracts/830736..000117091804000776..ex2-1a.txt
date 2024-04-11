@@ -1,0 +1,2916 @@
+<DOCUMENT>
+<TYPE>EX-2
+<SEQUENCE>2
+<FILENAME>ex2-1a.txt
+<DESCRIPTION>EX-2.1
+<TEXT>
+                                                                     EXHIBIT 2.1
+
+
+
+
+
+
+
+
+                          AGREEMENT AND PLAN OF MERGER
+
+
+
+
+
+                                  BY AND AMONG
+
+                                  XTRANA, INC.,
+
+                             AIC MERGER CORPORATION
+
+                                       AND
+
+                           ALPHA INNOTECH CORPORATION
+
+
+
+
+
+                          DATED AS OF DECEMBER 14, 2004
+
+
+
+
+
+<PAGE>
+
+
+                          AGREEMENT AND PLAN OF MERGER
+
+         This AGREEMENT AND PLAN OF MERGER  ("AGREEMENT")  made this 14th day of
+December, 2004 is entered into by and among Xtrana, Inc., a Delaware corporation
+("XTRANA"),  AIC Merger Corporation,  a California  corporation and wholly-owned
+subsidiary of Xtrana ("MERGERCO"),  and Alpha Innotech Corporation, a California
+corporation ("AIC").  Xtrana,  MergerCo and AIC are sometimes referred to herein
+individually as a "PARTY" and collectively as the "PARTIES."
+
+                                    RECITALS:
+
+         A. The  Parties  intend  to  effect  the  acquisition  of AIC by Xtrana
+through the statutory  merger of MergerCo  with and into AIC in accordance  with
+this Agreement and the CGCL, upon the  consummation of which MergerCo will cease
+to exist as a separate entity and AIC will survive as a wholly-owned  subsidiary
+of Xtrana.
+
+         B. The  respective  Boards of Directors of each of the Parties have (i)
+determined  that  this  Agreement  and  the  transactions  contemplated  hereby,
+including the Merger (as defined below), are advisable and in the best interests
+of  their  respective  stockholders  and (ii)  adopted  this  Agreement  and the
+transactions contemplated hereby.
+
+         C. In connection  with the  execution  and delivery of this  Agreement,
+Xtrana has agreed to make a loan to AIC in the amount of  $500,000  pursuant  to
+the terms of the Promissory Note (as defined below), upon completion of the Note
+Conversion.
+
+         D. It its  contemplated  that prior to the  Effective  Time Xtrana will
+effect a one-for-ten reverse split of its Common Stock.
+
+         E. The  Parties  desire to make  certain  representations,  warranties,
+covenants and  agreements  in  connection  with the Merger and also to prescribe
+various conditions to the Merger.
+
+                                   AGREEMENT:
+
+         NOW, THEREFORE,  in consideration of the  representations,  warranties,
+covenants and  agreements  contained in this  Agreement,  and for other good and
+valuable  consideration,   the  receipt  and  sufficient  of  which  are  hereby
+acknowledged, the parties hereto agree as follows:
+
+1.       DEFINITIONS.
+
+         1.1      CERTAIN DEFINITIONS.  The following terms used herein, as used
+in this Agreement, shall have the following meanings:
+
+                  "AFFILIATE"  of any  specified  Person  means any other Person
+directly or indirectly  Controlling or Controlled by or under direct or indirect
+common Control with such specified Person.
+
+                  "AIC COMMON  EXCHANGE RATIO" means  0.1136072,  as adjusted to
+reflect  appropriately the effect of any stock split, reverse stock split, stock
+dividend (including any
+
+
+                                       2
+<PAGE>
+
+
+dividend or  distribution of securities  convertible  into Xtrana Common Stock),
+reorganization,  recapitalization,  reclassification  or other like  change with
+respect to Xtrana  Common Stock  occurring on or after the date hereof and prior
+to the Effective Time, other than the Reverse Stock Split.
+
+                  "AIC COMMON STOCK" means the Common Stock of AIC.
+
+                  "AIC  INDEMNIFICATION  SHARES" means 500,000 additional shares
+of Xtrana Common Stock (as adjusted to reflect  appropriately  the effect of any
+stock split,  reverse stock split,  stock  dividend  (including  any dividend or
+distribution   of   securities    convertible   into   Xtrana   Common   Stock),
+reorganization,  recapitalization,  reclassification  or other like  change with
+respect to Xtrana  Common Stock  occurring on or after the date hereof and prior
+to the Effective Time except for the Reverse Stock Split), which shares shall be
+deposited at Closing in escrow,  to be held pursuant to the terms and conditions
+of this  Agreement  and the  Escrow  Agreement  for the  purpose  of  satisfying
+Xtrana's  indemnification  obligations,  if any,  set forth in SECTION 9 of this
+Agreement.  For avoidance of doubt,  the  foregoing  number has been adjusted to
+reflect to the anticipated Reverse Stock Split.
+
+                  "AIC  INDEMNIFIED  PARTIES" means AIC and its Affiliates,  and
+each of their respective  officers,  directors,  agents and  representatives and
+each of the heirs, executors, successors and assigns of any of the foregoing.
+
+                  "AIC POST-MERGER  REPRESENTATIVE" means William Snider or such
+other individual as may be selected by the AIC Shareholders immediately prior to
+the  Effective  Time,  and who  shall  act as the  agent of the AIC  Indemnified
+Parties for purposes of representing  and protecting  their interests under this
+SECTION 9.
+
+                  "AIC SERIES A PREFERRED  EXCHANGE RATIO" means  0.2868318,  as
+adjusted to reflect  appropriately the effect of any stock split,  reverse stock
+split,  stock  dividend  (including any dividend or  distribution  of securities
+convertible  into  Xtrana  Common  Stock),   reorganization,   recapitalization,
+reclassification  or other  like  change  with  respect to Xtrana  Common  Stock
+occurring  on or after the date hereof and prior to the  Effective  Time,  other
+than the Reverse Stock Split.
+
+                  "AIC SERIES A-1 PREFERRED EXCHANGE RATIO" means 0.2868318,  as
+adjusted to reflect  appropriately the effect of any stock split,  reverse stock
+split,  stock  dividend  (including any dividend or  distribution  of securities
+convertible  into  Xtrana  Common  Stock),   reorganization,   recapitalization,
+reclassification  or other  like  change  with  respect to Xtrana  Common  Stock
+occurring  on or after the date hereof and prior to the  Effective  Time,  other
+than the Reverse Stock Split.
+
+                  "AIC  SERIES A PREFERRED  STOCK"  means the Series A Preferred
+Stock of AIC.
+
+                  "AIC  SERIES  A-1  PREFERRED   STOCK"  means  the  Series  A-1
+Preferred Stock of AIC.
+
+                  "AIC SHARES" means,  collectively,  the AIC Common Stock,  AIC
+Series A Preferred Stock and AIC Series A-1 Preferred Stock.
+
+
+                                       3
+<PAGE>
+
+
+                  "AIC SHAREHOLDERS" means, collectively, the holders of the AIC
+Common Stock, AIC Series A Preferred Stock and AIC Series A-1 Preferred Stock.
+
+                  "BENEFIT  PLAN" means any collective  bargaining  agreement or
+any  bonus,   pension,   profit  sharing,   deferred   compensation,   incentive
+compensation,  stock  ownership,  stock  purchase,  phantom  stock,  retirement,
+vacation,  severance,  disability,  death benefit,  hospitalization,  medical or
+other plan,  arrangement or understanding (whether or not legally binding) under
+which a Party to this Agreement  currently has an obligation to provide benefits
+to any current or former employee, officer or director of such Party.
+
+                  "CGCL" means the California General Corporation Law.
+
+                  "CODE" means the Internal Revenue Code of 1986, as amended.
+
+                  "CONTROL,"  when used with  respect to any  specified  Person,
+means the power to direct the management  and policies of such Person,  directly
+or indirectly,  whether through the ownership of voting securities,  by contract
+or otherwise.
+
+                  "EFFECTIVE  TIME"  means the date and time the Merger  becomes
+effective as specified in the Certificate of Merger or as otherwise  provided in
+accordance with the CGCL.
+
+                  "ENVIRONMENTAL  LAWS"  means all  applicable  laws,  statutes,
+by-laws and regulations of any Governmental Entity relating to protection of the
+environment, pollution control, product registration and Hazardous Materials.
+
+                  "ESCROW  AGREEMENT"  means the Escrow  Agreement to be entered
+into  by and  among  Xtrana,  the AIC  Post-Merger  Representative,  the  Xtrana
+Post-Merger Representative and a mutually acceptable escrow agent, substantially
+in the form attached hereto as EXHIBIT B.
+
+                  "ESCROW SHARES" means,  collectively,  the Holdback Shares and
+the AIC Indemnification Shares.
+
+                  "EXCHANGE ACT" means the  Securities  Exchange Act of 1934, as
+amended.
+
+                  "GAAP"  means  generally  accepted  accounting  principles  as
+applied in the United States of America.
+
+                  "GOVERNMENTAL ENTITY" means any national, state, municipal, or
+other government or any court, administrative or regulatory agency or commission
+or other governmental authority or agency, domestic or foreign.
+
+                  "HAZARDOUS MATERIALS" means any waste, pollutant, contaminant,
+hazardous  substance,   toxic,  ignitable,   reactive  or  corrosive  substance,
+hazardous  waste,  special  waste,  industrial  substance,  by-product,  process
+intermediate  product or waste,  petroleum  or  petroleum-derived  substance  or
+waste,   chemical  liquids  or  solids,  liquid  or  gaseous  products,  or  any
+constituent  of any such  substance or waste,  the use,  handling or disposal of
+which by the  Company is in any way  governed  by or  subject to any  applicable
+Environmental Law.
+
+
+                                       4
+<PAGE>
+
+
+                  "HOLDBACK   SHARES"   means,   out  of  Xtrana   Common  Stock
+constituting the Merger Consideration, 500,000 shares of Xtrana Common Stock (as
+adjusted to reflect  appropriately the effect of any stock split,  reverse stock
+split,  stock  dividend  (including any dividend or  distribution  of securities
+convertible  into  Xtrana  Common  Stock),   reorganization,   recapitalization,
+reclassification  or other  like  change  with  respect to Xtrana  Common  Stock
+occurring on or after the date hereof and prior to the Effective Time except for
+the Reverse Stock Split),  which shares shall be deposited at Closing in escrow,
+to be held pursuant to the terms and conditions of this Agreement and the Escrow
+Agreement for the purpose of satisfying AIC's  indemnification  obligations,  if
+any,  set forth in SECTION 9 of this  Agreement.  For  avoidance  of doubt,  the
+foregoing  number has been adjusted to reflect to the anticipated  Reverse Stock
+Split.
+
+                  "INTELLECTUAL  PROPERTY"  means any and all United  States and
+foreign:  (i)  patent  registrations  and  patent  applications  (including  all
+reissues,  divisions,  continuations,   continuations-in-part,   extensions  and
+reexaminations)  and all rights therein and all  improvements  to the inventions
+disclosed in each such  registration or application,  (ii)  trademarks,  service
+marks, trade dress, trade names and corporate names,  whether or not registered,
+including  but not  limited to all  common law  rights,  and  registrations  and
+applications  for  registration  thereof,  (iii)  copyrights  (including but not
+limited to copyrights on designs)  (registered or otherwise)  and  registrations
+and applications for registration  thereof,  (iv) computer software,  including,
+without limitation,  source code,  operating systems and  specifications,  data,
+data bases, files,  documentation and other materials related thereto,  data and
+documentation,  (v)  trade  secrets  and  confidential  technical  and  business
+information (including but not limited to formulas, compositions, and inventions
+reduced to practice,  whether or not patentable),  (vi) confidential  technology
+(including  know-how and show-how),  manufacturing and production  processes and
+techniques,  research and  development  information,  drawings,  specifications,
+designs,  plans,  proposals,  technical data,  copyrightable  works,  financial,
+marketing  and  business  data,  pricing  and  cost  information,  business  and
+marketing plans and customer and supplier lists and information, (vii) any right
+arising  under any law providing  protection  to  industrial  or other  designs,
+(viii) all rights to obtain and  rights to apply for  patents,  and to  register
+trademarks  and  copyrights,  and (ix) all rights to sue or  recover  and retain
+damages and costs and attorneys fees for present and past infringement of any of
+the foregoing.
+
+                  "LICENSES"   means  all   notifications,   licenses,   permits
+(including,  without  limitation,  environmental,   construction  and  operation
+permits),  franchises,  certificates,  approvals,  exemptions,  classifications,
+registrations  and  other  similar  documents  and  authorizations  issued  by a
+Governmental Entity, and applications therefor.
+
+                  "LIENS"  mean  all   mortgages,   liens,   pledges,   security
+interests,   charges,  claims,  restrictions  and  encumbrances  of  any  nature
+whatsoever, other than Permitted Liens.
+
+                  "MARKET  PRICE" means the average of the closing bid and asked
+prices for the Xtrana Common Stock, as reported on the Over-the-Counter Bulletin
+Board, for the ten (10) trading day period commencing on the Closing Date and as
+adjusted for the Reverse Stock Split.
+
+                  "MATERIAL  ADVERSE CHANGE" or "MATERIAL ADVERSE EFFECT" means,
+when used in  connection  with AIC or Xtrana,  any change or effect  that either
+individually  or in the  aggregate  with all other  such  changes  or effects is
+materially adverse to the business, assets, properties,
+
+
+                                       5
+<PAGE>
+
+
+condition  (financial  or  otherwise) or results of operations of such Party and
+its Subsidiaries taken as a whole.
+
+                  "MERGER"  means  the  merger  of  MergerCo  with  and into AIC
+pursuant to this Agreement and the CGCL.
+
+                  "MERGERCO COMMON STOCK" means the Common Stock of MergerCo.
+
+                  "MERGER  CONSIDERATION"  means that number of shares of Xtrana
+Common Stock computed using the following formula:
+
+                       MC =     (OS/0.17) - OS
+
+                       WHERE: MC =  the number of shares of  Xtrana Common Stock
+                                    constituting the Merger Consideration.
+                              OS =  the number of shares of  Xtrana Common Stock
+                                    issued  and outstanding immediately prior to
+                                    the Effective Time.
+
+
+                  "MINIMUM   CLOSING   DATE  CASH"  means  an  amount  equal  to
+$2,950,000 LESS (i) the Audit Fees, and (ii) all other  out-of-pocket  costs and
+expenses  incurred by Xtrana on or after January 1, 2005 and through the Closing
+Date which  would not have  otherwise  been  incurred by Xtrana but for delay in
+consummation of the Merger resulting from the necessity of such audit of the AIC
+financial  statements,  including,  but not limited to, the  consulting  fees of
+$5,000  per month  payable to James  Chamberlain  for  serving as interim  Chief
+Executive  Officer and interim Chief Financial  Officer of Xtrana,  the director
+fees incurred by Xtrana  (consistent with past practice and policy),  consulting
+fees for the services of Dennis  Lineberry,  and similar  direct costs  incurred
+after  January 1, 2005 and through the Closing  Date,  but not  exceeding in the
+aggregate $15,000 per month,  unless otherwise agreed in writing between AIC and
+Xtrana.
+
+                  "PERMITTED  LIENS"  means (i) liens  for  taxes,  assessments,
+governmental  charges,  or claims  that are  being  contested  in good  faith by
+appropriate  proceedings  and  only  to the  extent  that  a  reserve  or  other
+appropriate  provision,  if any, has been made on the face of the AIC  Financial
+Statements  in an amount equal to the  liability for which the lien is asserted,
+(ii) statutory  liens of landlords and  warehousemen's,  carriers',  mechanics',
+suppliers',   materialmen's,   repairmen's,   or  other  like  liens  (including
+contractual  landlords'  liens)  arising in the ordinary  course of business and
+with respect to amounts not yet  delinquent or being  contested in good faith by
+appropriate proceedings,  only to the extent that a reserve or other appropriate
+provision,  if any, has been made on the face of the AIC Financial Statements in
+an amount equal to the liability for which the lien is asserted; and (iii) liens
+incurred or deposits made in the ordinary  course of business in connection with
+workers' compensation,  unemployment insurance and other similar types of social
+security.
+
+
+                                       6
+<PAGE>
+
+
+                  "PERSON"  means  any  individual,  corporation,   partnership,
+limited liability company, joint venture,  trust,  unincorporated  organization,
+government or any agency or political subdivision thereof or other entity.
+
+                  "POST-MERGER   REPRESENTATIVES"   means  the  AIC  Post-Merger
+Representative and the Xtrana Post-Merger Representative.
+
+                  "PROMISSORY  NOTE" means that certain Secured  Promissory Note
+in the principal amount of $500,000 to be made by AIC in favor of Xtrana, in the
+form attached hereto as EXHIBIT A.
+
+                  "SEC"  means  the  United  States   Securities   and  Exchange
+Commission.
+
+                  "SECURITIES ACT" means the Securities Act of 1933, as amended.
+
+                  "SUBSIDIARY" of any Person means another Person,  an amount of
+the voting securities, other voting ownership or voting partnership interests of
+another Person,  which are sufficient to elect at least a majority of such other
+Person's  board of directors or other  governing  body (or, if there are no such
+voting  interests,  fifty  percent (50%) or more of such other  Person's  equity
+interests).
+
+                  "TAXES" means all taxes,  assessments,  charges, duties, fees,
+levies or other governmental charges (including interest, penalties or additions
+associated  therewith),   including  income,  franchise,   capital  stock,  real
+property, personal property, tangible, withholding,  employment, payroll, social
+security, social contribution,  unemployment compensation, disability, transfer,
+sales, use, excise, gross receipts,  value-added and all other taxes of any kind
+for which a Person may have any liability  imposed by any  Governmental  Entity,
+whether disputed or not, and any charges,  interest or penalties  imposed by any
+Governmental Entity.
+
+                  "TAX RETURN" means any report,  return,  declaration  or other
+information  required to be supplied to a Governmental Entity in connection with
+Taxes,  including  estimated  returns and reports of every kind with  respect to
+Taxes.
+
+                  "XTRANA COMMON STOCK" means the Common Stock,  par value $0.01
+per share, of Xtrana.
+
+                  "XTRANA INDEMNIFIED  PARTIES" means Xtrana and its Affiliates,
+and each of their respective officers, directors, agents and representatives and
+each of the heirs, executors, successors and assigns of any of the foregoing.
+
+                  "XTRANA POST-MERGER REPRESENTATIVE" means James H. Chamberlain
+or such other  individual  as may be selected  by the  holders of Xtrana  Common
+Stock immediately prior to the Effective Time, and who shall act as the agent of
+the Xtrana Indemnified Parties for purposes of representing and protecting their
+interests under this SECTION 9.
+
+         1.2      OTHER  DEFINITIONS.  The  following  terms are  defined in the
+following sections of this Agreement:
+
+
+                                       7
+<PAGE>
+
+
+         DEFINED TERM                                                    SECTION
+         ------------                                                    -------
+         ABI.......................................................       4.17
+         ABI Agreements............................................       4.17
+         AIC.......................................................     Preamble
+         AIC Audited Financial Statements..........................        6.2
+         AIC Contracts.............................................       3.17
+         AIC Disclosure Schedule...................................         3
+         AIC Financial Statements..................................        3.6
+         AIC Intellectual Property.................................       3.21
+         AIC Shareholders' Approval................................       3.33
+         AIC Subsidiaries..........................................        3.2
+         Agreement.................................................     Preamble
+         Assumed Options and Warrants..............................       2.9.8
+         Audit Fees................................................        6.2
+         Certificate of Merger.....................................        2.3
+         Certificates..............................................      2.10.1
+         Claims Deadline...........................................        9.2
+         Closing...................................................        2.2
+         Closing Date..............................................        2.2
+         Damages...................................................       9.3.1
+         Deferred Compensation.....................................       6.11
+         Hearing Notice............................................        6.3
+         Hearing Request...........................................        6.3
+         Indemnification Termination Period........................        9.4
+         Indemnitee................................................        9.4
+         Independent Accountants...................................        6.2
+         Letter of Transmittal.....................................      2.10.1
+         MergerCo..................................................     Preamble
+         Merger Share Certificate..................................      2.10.2
+         NIST Agreement............................................       4.17
+         Note Conversion...........................................        3.3
+         Notice Materials..........................................        6.3
+         Party(ies)................................................     Preamble
+         Permit....................................................        6.3
+         Proxy Statement...........................................        4.8
+         Reverse Stock Split.......................................       6.4.2
+         Secretary of State........................................        2.3
+         Surviving Corporation.....................................        2.1
+         Terminated Xtrana Contracts...............................       4.18
+         Notice Materials..........................................        6.3
+         US Army Agreement.........................................       4.17
+         Xtrana Contracts..........................................       4.18
+         Xtrana Disclosure Schedule................................         4
+         Xtrana SEC Documents......................................       4.6.1
+         Xtrana Stockholders' Approval.............................       4.15
+         Xtrana Stockholders' Meeting..............................       6.4.2
+
+
+                                       8
+<PAGE>
+
+
+2.       THE MERGER.
+
+         2.1      THE MERGER.  Upon the terms and subject to the  conditions set
+forth in this  Agreement,  and in accordance  with the CGCL,  MergerCo  shall be
+merged with and into AIC at the  Effective  Time.  At the  Effective  Time,  the
+separate  existence  of  MergerCo  shall  cease,  and AIC shall  continue as the
+surviving  corporation following the Merger (the "SURVIVING  CORPORATION").  The
+corporate  existence  of  AIC,  with  all  its  purposes,   rights,  privileges,
+franchises,  powers and objects, shall continue unaffected and unimpaired by the
+Merger and, as the  Surviving  Corporation,  it shall be governed by the laws of
+the State of California.  As a result of the Merger,  the outstanding  shares of
+capital stock of AIC and MergerCo  shall be converted or cancelled in the manner
+provided in SECTION 2.9.
+
+         2.2      CLOSING.  Unless this Agreement shall have been terminated and
+the  transactions  herein  contemplated  shall have been  abandoned  pursuant to
+SECTION 8.1 and subject to the satisfaction or waiver (where  applicable) of the
+conditions  set forth in SECTION 7, the  closing of the Merger  (the  "CLOSING")
+will take place at 10:00 a.m. on the first  business day after  satisfaction  of
+the  conditions  set forth in  SECTION 7 (or as soon as  practicable  thereafter
+following  satisfaction or waiver of the conditions set forth in SECTION 7) (the
+"CLOSING  DATE"),  at the  offices of Stubbs  Alderton & Markiles,  LLP,  unless
+another date, time or place is agreed to in writing by the parties hereto.
+
+         2.3      ACTIONS AND  DELIVERIES AT CLOSING.  An agreement of merger in
+the form attached  hereto as EXHIBIT C (the  "CERTIFICATE  OF MERGER")  shall be
+duly  prepared and  executed,  and shall be filed with the Secretary of State of
+the State of California  (the  "SECRETARY OF STATE") in accordance with the CGCL
+on the Closing Date.  The Merger shall become  effective  upon the filing of the
+Certificate  of Merger with the Secretary of State,  or at such other time as is
+permissible in accordance with the CGCL and as Xtrana and AIC shall agree should
+be specified in the Certificate of Merger. In addition, at the Closing,
+
+                  2.3.1    AIC will deliver to Xtrana:
+
+                           (a)      An officers'  certificate,  substantially in
+the form of  EXHIBIT  D, duly  executed  on AIC's  behalf,  as to  whether  each
+condition  specified in SECTIONS  7.2.1 through 7.2.7 has been  satisfied in all
+respects.
+
+                           (b)      A Secretary's certificate,  substantially in
+the form of EXHIBIT E, duly executed on AIC's behalf.
+
+                           (c)      The Escrow  Agreement,  duly executed by the
+AIC Post-Merger Representative.
+
+                           (d)      A  legal   opinion   of   counsel   to  AIC,
+substantially in the form of EXHIBIT F hereto.
+
+
+                                       9
+<PAGE>
+
+
+                  2.3.2    Xtrana will deliver to AIC:
+
+                           (a)      An officers'  certificate,  substantially in
+the form of EXHIBIT G, duly  executed  on Xtrana and  MergerCo's  behalf,  as to
+whether  each  condition  specified  in SECTIONS  7.3.1  through  7.3.5 has been
+satisfied in all respects.
+
+                           (b)      A Secretary's certificate,  substantially in
+the form of EXHIBIT H, duly executed on each of Xtrana's and MergerCo's behalf.
+
+                           (c)      The  Escrow  Agreement,   duly  executed  by
+Xtrana and the Xtrana Post-Merger Representative.
+
+                           (d)      A  legal   opinion  of  counsel  to  Xtrana,
+substantially in the form of EXHIBIT I hereto.
+
+                  2.3.3    Xtrana will  deliver the Escrow  Shares to the escrow
+agent pursuant to the Escrow Agreement.
+
+         2.4      EFFECTS OF THE MERGER.  Subject to the foregoing,  the effects
+of the Merger shall be as provided in the applicable  provisions of the CGCL. At
+the Effective Time all MergerCo's  property,  rights,  privileges,  powers,  and
+franchises will vest in the Surviving Corporation,  and all debts,  liabilities,
+and  duties  of  MergerCo  will  become  the  Surviving   Corporation's   debts,
+liabilities, and duties.
+
+         2.5      GOVERNING  DOCUMENTS OF THE SURVIVING  CORPORATION.  As of the
+Effective  Time,  by virtue of the Merger and  without any action on the part of
+Parties:
+
+                  2.5.1    ARTICLES   OF   INCORPORATION.    The   Articles   of
+Incorporation of the Surviving  Corporation shall be amended and restated in its
+entirety to read as set forth on EXHIBIT J hereto; and
+
+                  2.5.2    BYLAWS.  The Bylaws of AIC, as in effect  immediately
+prior to the Effective  Time, will be the Surviving  Corporation's  Bylaws until
+thereafter amended.
+
+         2.6      DIRECTORS OF THE SURVIVING CORPORATION. At the Effective Time,
+the Board of  Directors of the  Surviving  Corporation  shall  consist of Haseeb
+Chaudhry  and Darryl Ray,  who shall  serve as the  directors  of the  Surviving
+Corporation,  each of such  directors to hold office,  subject to the applicable
+provisions  of the  Articles  of  Incorporation  and  Bylaws  of  the  Surviving
+Corporation,  in each case,  until their  respective  successors shall have been
+elected and qualified or until otherwise provided by law. All other directors of
+MergerCo  immediately prior to the Effective Time shall resign,  effective as of
+the Effective Time.
+
+         2.7      OFFICERS OF THE SURVIVING  CORPORATION.  At the Effective Time
+the officers of MergerCo  immediately  prior to the Effective Time shall resign,
+effective  as of the  Effective  Time,  and shall be replaced  by the  following
+individuals:
+
+                  Haseeb Chaudhry........  President and Chief Executive Officer
+                  Darryl Ray, Ph.D.......  Chief Financial Officer and Secretary
+
+
+                                       10
+<PAGE>
+
+
+who  shall  serve  as  officers  of the  Surviving  Corporation  subject  to the
+applicable  provisions  of the  Articles  of  Incorporation  and  Bylaws  of the
+Surviving  Corporation,  in each case, until their  respective  successors shall
+have been duly appointed or until otherwise provided by law.
+
+         2.8      EFFECT ON CAPITAL STOCK OF MERGERCO. At the Effective Time, by
+virtue of the Merger and without  any action on the part of the holder  thereof,
+each share of MergerCo Common Stock issued and outstanding  immediately prior to
+the Effective Time shall  automatically be converted into and become one validly
+issued,  fully paid and  nonassessable  share of Common  Stock of the  Surviving
+Corporation.
+
+         2.9      EFFECT ON CAPITAL  STOCK OF AIC.  At the  Effective  Time,  by
+virtue of the Merger and without any action on the part of the holder thereof:
+
+                  2.9.1    AGGREGATE   CONSIDERATION   TO  BE  RECEIVED  BY  AIC
+SHAREHOLDERS  AND  ESCROW.  The  aggregate  merger  consideration  issued at the
+Effective  Time  to  AIC  Shareholders  will  be  that  number  of  fully  paid,
+nonassessable   shares  of  Xtrana   Common   Stock   constituting   the  Merger
+Consideration,  which  number  includes  the  Holdback  Shares).  To the  extent
+necessary,  the  Parties  shall make  appropriate  adjustment  to the AIC Common
+Exchange  Ratios,  AIC  Series A  Preferred  Exchange  Ratio and AIC  Series A-1
+Preferred  Ratio,  as  applicable,  to  ensure  that the  shares  issued  at the
+Effective Time to the AIC Shareholders (including the Holdback Shares) shall not
+exceed the Merger Consideration. Of the total Merger Consideration,  that number
+of shares of Xtrana  Common  Stock  constituting  the  Holdback  Shares shall be
+deposited at Closing in escrow, along with the AIC Indemnification  Shares which
+shall be  deposited in escrow at Closing by Xtrana,  to be held  pursuant to the
+terms and conditions of this Agreement and the Escrow  Agreement  until released
+for distribution to the AIC Shareholders or for cancellation.
+
+                  2.9.2    CONVERSION  OF AIC  COMMON  STOCK.  Each  issued  and
+outstanding share of AIC Common Stock (other than shares of AIC Common Stock, if
+any, that are held by Xtrana or MergerCo)  shall be converted  into the right to
+receive  that  number of fully paid and  nonassessable  shares of Xtrana  Common
+Stock equal to the AIC Common Exchange Ratio, subject in all respects to SECTION
+2.9.1 and the Escrow Agreement.
+
+                  2.9.3    CONVERSION  OF AIC  SERIES A  PREFERRED  STOCK.  Each
+issued and outstanding  share of AIC Series A Preferred Stock (other than shares
+of AIC Series A Preferred  Stock,  if any,  that are held by Xtrana or MergerCo)
+shall be  converted  into the right to  receive  that  number of fully  paid and
+nonassessable  shares of Xtrana Common Stock equal to the AIC Series A Preferred
+Exchange  Ratio,  subject  in all  respects  to  SECTION  2.9.1  and the  Escrow
+Agreement.
+
+                  2.9.4    CONVERSION  OF AIC SERIES A-1 PREFERRED  STOCK.  Each
+issued and  outstanding  share of AIC Series A-1  Preferred  Stock  (other  than
+shares of AIC Series A-1  Preferred  Stock,  if any,  that are held by Xtrana or
+MergerCo) shall be converted into the right to receive that number of fully paid
+and  nonassessable  shares of Xtrana  Common  Stock  equal to the AIC Series A-1
+Preferred  Exchange  Ratio,  subject in all  respects  to SECTION  2.9.1 and the
+Escrow Agreement.
+
+
+                                       11
+<PAGE>
+
+
+                  2.9.5    CANCELLATION  OF  TREASURY  SHARES AND SHARES HELD BY
+XTRANA.  Any and all AIC  Shares  owned by  Xtrana  or  MergerCo  or held in the
+treasury of AIC shall be cancelled and cease to exist at the Effective Time, and
+no consideration shall be paid with respect thereto.
+
+                  2.9.6    NO FRACTIONAL  SHARES. No fractional shares of Xtrana
+Common Stock shall be issued in the Merger.  If the number of shares a holder of
+AIC Shares holds immediately  prior to the Closing  multiplied by the applicable
+exchange  ratio would  result in the  issuance of a  fractional  share of Xtrana
+Common  Stock,  that product will be rounded down to the nearest whole number of
+shares of Xtrana  Common Stock if it is less than the fraction of one-half  (.5)
+of one share of Xtrana  Common Stock or round up to the nearest  whole number of
+shares of Xtrana  Common  Stock if the said  product is equal to or greater than
+the fraction of one-half (.5) of one share of Xtrana Common Stock.
+
+                  2.9.7    CANCELLATION AND RETIREMENT OF AIC SHARES.  As of the
+Effective Time, all AIC Shares issued and outstanding  immediately  prior to the
+Effective  Time  shall no  longer be  outstanding  and  shall  automatically  be
+cancelled and retired and shall cease to exist, and each holder of a certificate
+representing  any such AIC Shares  shall cease to have any rights  with  respect
+thereto, except the right to receive the Merger Consideration per share upon the
+surrender of such  certificate  in  accordance  with SECTION  2.10,  without any
+interest thereon, subject to any applicable withholding tax.
+
+                  2.9.8    STOCK  OPTIONS AND WARRANTS.  At the Effective  Time,
+all  options to purchase  shares of AIC Common  Stock then  outstanding  and all
+warrants  to purchase  shares of AIC Common  Stock or AIC  Preferred  Stock then
+outstanding, in each case whether vested or unvested, shall be assumed by Xtrana
+or replaced with Xtrana options and warrants on  substantially  identical  terms
+(the "ASSUMED  OPTIONS AND  WARRANTS") in  accordance  with this SECTION  2.9.8,
+provided  that  warrants  to  purchase  shares of AIC  Preferred  Stock  will be
+exercisable  into shares of Xtrana  Common Stock based on the relevant  Exchange
+Ratio. Each Assumed Option and Warrant will continue to have, and be subject to,
+the same terms and conditions of such options immediately prior to the Effective
+Time (including, without limitation, any repurchase rights or vesting provisions
+and provisions  regarding the acceleration of vesting on certain  transactions),
+except that (i) each  Assumed  Option and Warrant will be  exercisable  (or will
+become exercisable in accordance with its terms) for that number of whole shares
+of Xtrana  Common  Stock  equal to the  product  of the  number of shares of AIC
+Common  Stock that were  issuable  upon  exercise  of such AIC option or warrant
+immediately  prior to the Effective Time  multiplied by the AIC Common  Exchange
+Ratio,  and (ii) the per share  exercise  price for the shares of Xtrana  Common
+Stock issuable upon exercise of each Assumed Option and Warrant will be equal to
+the quotient  determined by dividing the exercise  price per share of AIC Common
+Stock at which such AIC option or warrant was exercisable  immediately  prior to
+the Effective Time by the AIC Common Exchange Ratio.
+
+         2.10     EXCHANGE OF CERTIFICATES.
+
+                  2.10.1   EXCHANGE   PROCEDURES.    As   soon   as   reasonably
+practicable  after the  Effective  Time,  Xtrana shall deliver to each holder of
+record  of a  certificate  or  certificates  which,  immediately  prior  to  the
+Effective Time represented outstanding shares of AIC Shares (the
+
+
+                                       12
+<PAGE>
+
+
+"CERTIFICATES")  whose  shares are  converted  pursuant  to SECTION 2.9 into the
+right to receive Merger Consideration:  (i) a letter of transmittal (the "LETTER
+OF TRANSMITTAL") (which shall specify that delivery shall be effected,  and risk
+of loss and title to the  Certificates  shall  pass,  only upon  delivery of the
+Certificates  to  Xtrana or its  designated  agent and shall be in such form and
+have such other customary  provisions as Xtrana may reasonably specify) and (ii)
+instructions  for use in effecting the surrender of the  Certificate in exchange
+for the Merger  Consideration  allocable to the AIC Shares formerly  represented
+thereby.
+
+                  2.10.2   MERGER  SHARE  CERTIFICATES.   Upon  surrender  of  a
+Certificate  for  cancellation  to  Xtrana,  or to any agent or agents as may be
+appointed by Xtrana, together with the Letter of Transmittal, duly completed and
+executed in accordance  with its terms and such other documents as Xtrana or its
+agent or agents,  the holder of such Certificate shall be entitled to receive in
+exchange therefore, a certificate ("MERGER SHARE CERTIFICATE")  representing the
+number of shares of Xtrana  Common  Stock  which  such  holder  has the right to
+receive  pursuant to the  provisions  of SECTION 2.9 less such holder's pro rata
+portion of the  Holdback  Shares  (calculated  as that  percentage  of the total
+number of shares issuable as Merger Consideration that such holder has the right
+to receive  pursuant to SECTION 2.9) and the  Certificate so  surrendered  shall
+forthwith be cancelled. If any certificate for such Xtrana Common Stock is to be
+issued  in a name  other  than  that in which  the  certificate  for AIC  Shares
+surrendered for exchange is registered, it shall be a condition of such exchange
+that the certificate so surrendered shall be properly  endorsed,  with signature
+guaranteed,  or  otherwise  in  proper  form for  transfer  and that the  Person
+requesting  such exchange shall pay to Xtrana or its transfer agent any transfer
+or other taxes or other costs required by reason of the issuance of certificates
+for such Xtrana Common Stock in a name other than that of the registered  holder
+of the certificate  surrendered,  or establish to the  satisfaction of Xtrana or
+its  transfer  agent  that all  taxes  have  been  paid.  Until  surrendered  as
+contemplated by this SECTION  2.10.2,  each  Certificate  shall be deemed at any
+time after the Effective  Time to represent  only the right to receive upon such
+surrender the Merger Consideration as contemplated by SECTION 2.9.
+
+                  2.10.3   LOST CERTIFICATES.  If any Certificate has been lost,
+stolen or destroyed,  upon the making of an affidavit of that fact by the Person
+claiming such  Certificate  to be lost,  stolen or destroyed and, if required by
+Xtrana, the posting by such Person of a bond in such reasonable amount as Xtrana
+may  direct as  indemnity  against  any claim  that may be made  against it with
+respect to such  Certificate,  Xtrana  shall  issue in  exchange  for such lost,
+stolen or destroyed  Certificate,  the Merger Consideration due to such Person a
+provided in SECTION 2.9.
+
+                  2.10.4   DISTRIBUTIONS WITH RESPECT TO UNEXCHANGED  SHARES. No
+dividends  or other  distributions  with  respect to Xtrana  Common Stock with a
+record  date  after  the  Effective  Time  shall  be paid to the  holder  of any
+unsurrendered  certificate  for AIC Shares with  respect to the shares of Xtrana
+Common  Stock,  the right to receive  which is  represented  thereby,  until the
+surrender of such certificate in accordance with this SECTION 2.10.
+
+                  2.10.5   NO FURTHER OWNERSHIP RIGHTS IN AIC SHARES. All shares
+of  Xtrana  Common  Stock  issued  upon the  surrender  of the  Certificates  in
+accordance  with the terms of this  SECTION 2 and placed in escrow  pursuant  to
+SECTION  2.9.1,  shall  be  deemed  to  have  been  issued  (and  paid)  in full
+satisfaction of all rights pertaining to AIC Shares  theretofore  represented by
+such certificates.
+
+
+                                       13
+<PAGE>
+
+
+                  2.10.6   NO LIABILITY.  None of the Parties shall be liable to
+any  Person in respect of any shares of Xtrana  Common  Stock (or  dividends  or
+distributions  with respect thereto)  delivered to a public official pursuant to
+any applicable  abandoned property,  escheat or similar law. If any certificates
+representing AIC Shares shall not have been surrendered prior to the first (1st)
+anniversary  of the Closing,  any such shares,  dividends  or  distributions  in
+respect of such  certificate  shall, to the extent  permitted by applicable law,
+become the property of Xtrana,  free and clear of all claims or interests of any
+Person previously entitled thereto.
+
+3.       REPRESENTATIONS AND WARRANTIES OF AIC.
+
+         Except  as set forth in the  disclosure  schedule  delivered  by AIC to
+Xtrana at the time of execution of this Agreement and attached  hereto (the "AIC
+DISCLOSURE  SCHEDULE")  and  arranged in section  corresponding  to the numbered
+subsections  contained in this SECTION 3, AIC  represents and warrants to Xtrana
+as follows:
+
+         3.1      ORGANIZATION,   STANDING  AND  CORPORATE   POWER.   AIC  is  a
+corporation duly organized, validly existing and in good standing under the laws
+of the State of California and has the requisite  corporate  power and authority
+to carry on its business as now being conducted and currently contemplated to be
+conducted.  AIC is duly  qualified  or licensed  to do  business  and is in good
+standing  in each  jurisdiction  in which  the  nature  of its  business  or the
+ownership or leasing of its  properties  makes such  qualification  or licensing
+necessary, other than in such jurisdictions where the failure to be so qualified
+or licensed (individually or in the aggregate) would not have a Material Adverse
+Effect on AIC.
+
+         3.2      SUBSIDIARIES.  The only direct or indirect Subsidiaries of AIC
+are listed in the AIC  Disclosure  Schedule  (the "AIC  SUBSIDIARIES").  All the
+outstanding  shares  of  capital  stock  of  each  AIC  Subsidiary  which  is  a
+corporation have been validly issued and are fully paid and  nonassessable  and,
+except as set forth in the AIC  Disclosure  Schedule,  are owned (of  record and
+beneficially) by AIC, free and clear of all Liens.  Except for the capital stock
+of the AIC Subsidiaries,  which are corporations,  AIC does not own, directly or
+indirectly,  any capital stock or other ownership  interest in any  corporation,
+partnership, business association, joint venture or other entity.
+
+         3.3      CAPITAL  STRUCTURE.   The  authorized  capital  stock  of  AIC
+consists of  70,000,000  shares of AIC Common  Stock,  14,000,000  shares of AIC
+Series A  Preferred  Stock and  10,000,000  shares of AIC Series  A-1  Preferred
+Stock, of which 23,177,526 shares of AIC Common Stock,  10,533,334 shares of AIC
+Series A  Preferred  Stock and no shares of AIC Series A-1  Preferred  Stock are
+issued and outstanding. In addition, the AIC Board of Directors has approved the
+issuance of approximately  7,343,418 shares of AIC Series A-1 Preferred Stock in
+exchange for the conversion of all outstanding  principal,  accrued  interest or
+other  obligations  under  all  convertible  notes  or  other  convertible  debt
+obligations of AIC  outstanding  as of the date hereof (the "NOTE  CONVERSION").
+Except as set forth  above,  no shares  or other  equity  securities  of AIC are
+issued, reserved for issuance or outstanding.  All outstanding shares of AIC are
+duly authorized, validly issued, fully paid and nonassessable and not subject to
+preemptive rights.  There are no outstanding bonds,  debentures,  notes or other
+indebtedness or other securities of AIC having the right to vote (or convertible
+into, or exchangeable  for,  securities having the right to vote) on any matters
+on which  shareholders  of AIC may vote. The AIC Disclosure  Schedule
+
+
+                                       14
+<PAGE>
+
+
+sets  forth  the  outstanding  capitalization  of AIC,  including  a list of all
+holders of AIC Shares and their respective holdings.  Except as set forth on the
+AIC Disclosure Schedule, there are no outstanding securities, options, warrants,
+calls, rights, commitments, agreements, arrangements or undertakings of any kind
+to which AIC is a party or by which it is bound obligating AIC to issue, deliver
+or sell, or cause to be issued,  delivered or sold,  additional  shares or other
+equity or voting securities of AIC or obligating AIC to issue,  grant, extend or
+enter  into  any  such  security,  option,  warrant,  call,  right,  commitment,
+agreement,  arrangement or  undertaking.  There are no  outstanding  contractual
+obligations,  commitments,  understandings  or  arrangements  of AIC or any  AIC
+Subsidiaries to repurchase,  redeem or otherwise  acquire or make any payment in
+respect  of any  securities  of AIC.  There are no  agreements  or  arrangements
+pursuant to which AIC is or could be required  to register  AIC Common  Stock or
+other  securities  under the Securities Act, or other agreements or arrangements
+with or among any security holders of AIC with respect to securities of AIC.
+
+         3.4      AUTHORITY. AIC has the requisite corporate and other power and
+authority  to enter  into this  Agreement  and,  subject  to  obtaining  the AIC
+Shareholders'  Approval (as defined in SECTION 3.33), to perform its obligations
+hereunder and to consummate the transactions  contemplated hereby. The execution
+and  delivery  of  this  Agreement  by AIC and  the  consummation  by AIC of the
+transactions  contemplated  hereby  have  been duly  authorized  by the Board of
+Directors  of AIC;  the Board of  Directors  has  recommended  adoption  of this
+Agreement by the shareholders of AIC; and no other corporate  proceedings on the
+part of AIC or its  shareholders  are  necessary  to  authorize  the  execution,
+delivery and performance of this Agreement by AIC and the consummation by AIC of
+the transaction  contemplated hereby, other than obtaining the AIC Shareholders'
+Approval.  This  Agreement  has been  duly  executed  and  delivered  by AIC and
+constitutes a valid and binding  obligation of AIC,  enforceable  against AIC in
+accordance  with its terms,  subject to applicable  bankruptcy,  insolvency  and
+other similar laws affecting the  enforceability of creditors' rights generally,
+general equitable  principles and the discretion of courts in granting equitable
+remedies.
+
+         3.5      NON-CONTRAVENTION.   The   execution   and  delivery  of  this
+Agreement do not, and the consummation of the transactions  contemplated by this
+Agreement and compliance with the provisions  hereof will not, conflict with, or
+result in any  breach or  violation  of, or default  (with or without  notice or
+lapse  of  time,  or  both)  under,  or give  rise to a  right  of  termination,
+cancellation or acceleration of or "put" right with respect to any obligation or
+to loss of a material  benefit under, or result in the creation of any Lien upon
+any of the properties or assets of AIC under,  (i) the Articles of Incorporation
+or  Bylaws of AIC,  (ii) any loan or credit  agreement,  note,  bond,  mortgage,
+indenture, lease or other agreement,  instrument, permit, concession,  franchise
+or license  applicable to AIC, its properties or assets, or (iii) subject to the
+governmental  filings and other matters  referred to in the following  sentence,
+any judgment,  order,  decree,  statute,  law,  ordinance,  rule,  regulation or
+arbitration  award  applicable to AIC, its properties or assets,  other than, in
+the case of clauses (ii) and (iii),  any such conflicts,  breaches,  violations,
+defaults,  rights,  losses or Liens that  individually or in the aggregate would
+not have either a Material Adverse Effect on AIC or would not prevent, hinder or
+delay the ability of AIC to consummate  the  transactions  contemplated  by this
+Agreement.  No consent,  approval,  order or authorization  of, or registration,
+declaration or filing with, or notice to, any Governmental Entity is required by
+or with respect to AIC in  connection  with the  execution  and delivery of this
+Agreement by AIC or the  consummation  by AIC of the  transactions  contemplated
+hereby,
+
+
+                                       15
+<PAGE>
+
+
+except,  with respect to this  Agreement,  for the filing of the  Certificate of
+Merger and other  appropriate  merger  documents  required  by the CGCL with the
+Secretary of State and  appropriate  documents with the relevant  authorities of
+other states in which AIC is qualified to do business.
+
+         3.6      FINANCIALS  STATEMENTS.   Set  forth  on  the  AIC  Disclosure
+Schedule are the following financial statements (collectively the "AIC FINANCIAL
+STATEMENTS"):  (a)  unaudited  consolidated  balance  sheets and  statements  of
+income,  changes in shareholders' equity, and cash flow as of and for the fiscal
+years ended  December 31, 2002 and 2003 for AIC and (b)  unaudited  consolidated
+balance sheets and statements of income,  changes in shareholders'  equity,  and
+cash flow as of and for the ten months  ended  October 31, 2004 for AIC. The AIC
+Financial  Statements  have been prepared in  accordance  with GAAP applied on a
+consistent  basis  throughout the periods  covered  thereby,  present fairly the
+financial condition of AIC as of such dates and the results of operations of AIC
+for such periods,  are correct and complete,  and are consistent  with the books
+and records of AIC;  PROVIDED,  HOWEVER,  that the unaudited  interim  financial
+statements  are  subject  to  normal  year-end  adjustments  (which  will not be
+material  individually  or in  the  aggregate)  and  lack  footnotes  and  other
+presentation items. Since September 30, 2004, AIC has not effected any change in
+any method of  accounting  or  accounting  practice,  except for any such change
+required because of a concurrent change in GAAP.
+
+         3.7      NO UNDISCLOSED LIABILITIES.  AIC does not have any liabilities
+or  obligations  (whether  absolute,  contingent  or  otherwise),  which are not
+adequately reflected or provided for in the AIC Financial Statements, except for
+liabilities  and  obligations  (i) that have been incurred since the date of the
+most recent  balance  sheet  included  in the AIC  Financial  Statements  in the
+ordinary course of business and are not (singly or in the aggregate) material to
+AIC's  business,  and (ii) not due and payable or to be  performed  or satisfied
+after the date hereof under AIC  Contracts in  accordance  with their terms,  in
+each case which are not (singly or in the aggregate) material to AIC's business.
+
+         3.8      ABSENCE OF CERTAIN CHANGES OR EVENTS.  Since October 31, 2004,
+AIC has conducted its business only in the ordinary course  consistent with past
+practice,  and there is not and has not been:  (i) any Material  Adverse  Change
+with respect to AIC; (ii) any condition,  event or occurrence which individually
+or in the  aggregate  could  reasonably  be expected to have a Material  Adverse
+Effect or give rise to a Material  Adverse Change with respect to AIC; (iii) any
+event which,  if it had taken place  following the execution of this  Agreement,
+would not have been permitted by SECTION 5.1 without prior consent of Xtrana; or
+(iv) any condition,  event or occurrence  which could  reasonably be expected to
+prevent,  hinder  or  materially  delay the  ability  of AIC to  consummate  the
+transactions contemplated by this Agreement.
+
+         3.9      LEGAL   PROCEEDINGS.   There  is  no  suit,   action,   claim,
+arbitration,  proceeding or  investigation  pending or, to the knowledge of AIC,
+threatened  against,  relating to or involving AIC, or real or personal property
+of AIC, before any Governmental Entity or other third party. To the knowledge of
+AIC, there is no basis for any such suit, action, proceeding or investigation.
+
+         3.10     COMPLIANCE  WITH  LAW.  AIC  is  compliance  in  all  material
+respects with all applicable laws  (including,  without  limitation,  applicable
+laws  relating  to zoning,  environmental  matters  and the safety and health of
+employees), ordinances, regulations and orders of all
+
+
+                                       16
+<PAGE>
+
+
+Governmental  Entities.  AIC has not been charged with and, to the  knowledge of
+AIC,  is not now  under  investigation  with  respect  to,  a  violation  of any
+applicable  law,  regulation,   ordinance,  order  or  other  requirement  of  a
+Governmental  Entity.  AIC is not a party to or bound  by any  order,  judgment,
+decree or injunction of any Governmental  Entity.  AIC has filed all reports and
+has all Licenses required to be filed with any Governmental  Entity on or before
+the date  hereof  the  failure to file or to obtain  would  result in a Material
+Adverse Effect on AIC.
+
+         3.11     OFFICERS  AND  EMPLOYEES.  AIC has made  available to Xtrana a
+schedule  containing a true and complete list of all of the  employees  (whether
+full-time,  part-time or otherwise) and independent contractors of AIC as of the
+date  hereof,  specifying  with  respect  to  each  such  individual  his or her
+position,  status, annual salary and hourly wages, including consulting or other
+independent  contractor  fees.  AIC is not a party to or bound by any employment
+agreement.  AIC has not  made  any  verbal  commitments  to any  such  officers,
+employees or former  employees,  consultants  or  independent  contractors  with
+respect to compensation, promotion, retention, termination, severance or similar
+matters in connection  with the  transactions  contemplated by this Agreement or
+otherwise.
+
+         3.12     EMPLOYEE RELATIONS. To the knowledge of AIC, no executive, key
+employee,  or group of employees has any plans to terminate employment with AIC.
+AIC is not a party to or bound by any collective bargaining  agreement,  nor has
+AIC  experienced  any strikes,  grievances,  claims of unfair labor practices or
+other  collective  bargaining  disputes.  AIC has not committed any unfair labor
+practice (as determined under any applicable  law).  There is no  organizational
+effort  currently  being made or  threatened  by or on behalf of any labor union
+with respect to any of AIC's employees.
+
+         3.13     BENEFIT PLANS. The AIC Disclosure Schedule contains a true and
+complete  list  of  each  Benefit  Plan  currently   sponsored,   maintained  or
+contributed  to by AIC. Any special tax status  enjoyed by such plan is noted on
+such schedule.  With respect to each Benefit Plan  identified the AIC Disclosure
+Schedule,  AIC has  heretofore  delivered  or made  available to Xtrana true and
+complete  copies of the plan  documents and any  amendments  thereto (or, if the
+plan is not written, a written  description  thereof).  AIC's records accurately
+reflect its employees' employment  histories,  including their hours of service,
+and all such data is maintained in a usable form.
+
+         3.14     CERTAIN  EMPLOYEE  PAYMENTS.   AIC  is  not  a  party  to  any
+employment agreement which could result in the payment to any current, former or
+future  director or employee of AIC of any money or other  property or rights or
+accelerate  or provide  any other  rights or  benefits  to any such  employee or
+director as a result of the transactions contemplated by this Agreement, whether
+or not (i) such payment, acceleration or provision would constitute a "parachute
+payment"  (within the meaning of Section  280G of the Code),  or (ii) some other
+subsequent action or event would be required to cause such payment, acceleration
+or provision to be triggered.
+
+         3.15     TAX  RETURNS  AND  TAX  PAYMENTS.  AIC is not  subject  to any
+liabilities  or claims for Taxes,  including  Taxes  relating to prior  periods,
+other than those set forth or adequately  reserved  against in the AIC Financial
+Statements  or those  incurred  since the date of the most recent  balance sheet
+included in the AIC Financial Statements in the ordinary course of
+
+
+                                       17
+<PAGE>
+
+
+business.  AIC has duly filed when due all Tax Returns in connection with and in
+respect  of its  business,  assets  and  employees,  and  has  timely  paid  and
+discharged  all amounts shown as due thereon.  AIC has made  available to Xtrana
+accurate and complete  copies of all of its Tax Returns for all periods,  except
+those periods for which returns are not yet due. AIC has not received any notice
+of any Tax deficiency outstanding,  proposed or assessed against or allocable to
+it,  and has not  executed  any  waiver of any  statute  of  limitations  on the
+assessment or  collection of any Tax or executed or filed with any  Governmental
+Entity any contract or other  agreement  now in effect  extending the period for
+assessment  or  collection of any Taxes against it. There are no Liens for Taxes
+upon,  pending  against  or  threatened  against,  any asset of AIC.  AIC is not
+subject to any Tax allocation or sharing agreement.
+
+         3.16     ENVIRONMENTAL  MATTERS.   Except  as  set  forth  on  the  AIC
+Disclosure  Schedule,  (i) AIC is in compliance with all  Environmental  Laws in
+connection with owning, using,  maintaining or operating its business or assets;
+(ii) each  location at which AIC operates,  or has operated,  its business is in
+compliance  with all  Environmental  Laws; and (iii) there are no pending or, to
+AIC's knowledge,  threatened  allegations by any Person that AIC's properties or
+assets is not, or that its businesses has not been conducted, in compliance with
+all  Environmental  Laws.  No material  expenditures  are or will be required in
+order for AIC to  comply  with any  applicable  Environmental  Law.  AIC has not
+received any written or oral notice,  report or other information  regarding any
+actual or alleged violation of Environmental Laws or any liabilities,  including
+any investigatory,  remedial or corrective liabilities,  relating to AIC, or its
+facilities  arising  under  Environmental  Laws.  Neither  AIC  nor  any  of its
+predecessors or Affiliates has, either expressly or by operation of law, assumed
+or undertaken any liability, including any obligation for corrective or remedial
+action, of any other Person relating to Environmental Laws.
+
+         3.17     CONTRACTS  AND  COMMITMENTS.   The  AIC  Disclosure   Schedule
+contains a true,  complete and accurate list of each of the  following  written,
+and to AIC's knowledge,  oral,  contracts,  agreements,  understandings or other
+obligations  to which AIC is a party or by which any of its assets or properties
+are bound (together the "AIC CONTRACTS"):
+
+                  3.17.1   all bonds,  debentures,  notes, loans, credit or loan
+agreements  or loan  commitments,  mortgages,  indentures,  guarantees  or other
+contracts  relating to the borrowing of money or binding upon any  properties or
+assets (real, personal or mixed, tangible or intangible) of AIC;
+
+                  3.17.2   all rental or use agreements, contracts, covenants or
+obligations which may involve the payment by or to AIC of more than $25,000;
+
+                  3.17.3   any contract, agreement,  commitment or obligation to
+make any capital expenditures in excess of $25,000;
+
+                  3.17.4   contracts,    agreements,    commitments   or   other
+obligations  with any Person  containing any provision or covenant  limiting the
+ability of AIC to engage in any line of business or to compete with or to obtain
+products  or services  from any Person or limiting  the ability of any Person to
+compete  with or to provide  products  or  services  to, or obtain  products  or
+services from, AIC, or covering  indemnification of another Person other than in
+the ordinary course of business;
+
+
+                                       18
+<PAGE>
+
+
+                  3.17.5   any  profit-sharing or similar  contract,  agreement,
+understanding or obligation with any Person;
+
+                  3.17.6   contracts,    agreements,    commitments   or   other
+obligations  with  respect to the  purchase or sale by or to AIC of any product,
+equipment,  facility,  or  similar  item that by their  respective  terms do not
+expire or terminate or are not terminable by AIC,  without  penalty,  premium or
+other  liability  within 30 days or may involve the payment by or to AIC of more
+than $25,000;
+
+                  3.17.7   contracts,    agreements,    commitments   or   other
+obligations  to provide  services or facilities by or to AIC or to or by another
+Person which is not terminable by AIC within 30 days without penalty, premium or
+other  liability  or  involving  payment by AIC or the other Person of more than
+$25,000;
+
+                  3.17.8   any contract that  provides for an increased  payment
+or benefit, or accelerated  vesting,  upon the execution of this Agreement or in
+connection with the transactions contemplated hereby;
+
+                  3.17.9   any contract or agreement  granting any Person a Lien
+on all or any part of any asset of AIC;
+
+                  3.17.10  any contract  providing  for the  indemnification  or
+holding  harmless  by  AIC of any  of  its  shareholders,  officers,  directors,
+employees or representatives;
+
+                  3.17.11  all other contracts, agreements, commitments or other
+obligations  whether or not made in the  ordinary  course of business  which may
+involve the  expenditure by AIC of funds in excess of $25,000 per commitment (or
+under a group of similar commitments), or are otherwise material to AIC; or
+
+                  3.17.12  all  other  contracts,  agreements,  commitments,  or
+other  obligations  of any kind that  involve or relate to any AIC  Shareholder,
+officer,  director,  employee or  consultant of AIC or any Affiliate or relative
+thereof.
+
+True,  correct and complete copies of all AIC Contracts have been made available
+to Xtrana. To the knowledge of AIC, the AIC Contracts are legal, valid,  binding
+and  enforceable in accordance with their  respective  terms with respect to AIC
+and each other party to such AIC  Contracts.  There are no existing  defaults or
+breaches of AIC under any AIC  Contract  (or events or  conditions  which,  with
+notice or lapse of time or both would  constitute  a default or breach)  and, to
+the knowledge of AIC, there are no such defaults (or events or conditions which,
+with notice or lapse of time or both, would constitute a default or breach) with
+respect to any third party to any AIC  Contract.  Except as set forth on the AIC
+Disclosure Schedule, AIC is not participating in any discussions or negotiations
+regarding  modification  of or amendment to any AIC Contract or entry in any new
+material contract applicable to AIC or the real or personal property of AIC. The
+AIC  Disclosure  Schedule  specifically  identifies  each AIC Contract set forth
+therein  that  requires  the consent of or notice to the other party  thereto to
+avoid any breach,  default or  violation  of such  contract,  agreement or other
+instrument in connection with the transactions contemplated by this Agreement.
+
+
+                                       19
+<PAGE>
+
+
+         3.18     RECEIVABLES.  All of the  receivables of AIC are  enforceable,
+represent BONA FIDE  transactions,  and arose in the ordinary course of business
+of AIC,  and are  reflected  properly  in its  books and  records.  All of AIC's
+receivables are reasonably  believed by AIC to be collectible in accordance with
+past  practice  and  the  terms  of  such   receivables,   without  set  off  or
+counterclaims  except to the extent of reserves  therefor  set forth in the most
+recent  balance  sheet  included  in  the  AIC  Financial   Statements  or,  for
+receivables  arising subsequent to September 30, 2004, as reflected on the books
+and records of AIC. No customer or supplier of AIC has any  reasonable  basis to
+believe  that it has or would be entitled to any payment  terms other than terms
+in the ordinary course of business, including any prior course of conduct.
+
+         3.19     PERSONAL PROPERTY. AIC has good, clear and marketable title to
+all the  tangible  properties  and  tangible  assets  reflected  in AIC's latest
+balance  sheet as being owned by AIC or acquired  after the date  thereof  which
+are,  individually  or in the  aggregate,  material  to AIC's  business  (except
+properties sold or otherwise  disposed of since the date thereof in the ordinary
+course of business),  free and clear of all Liens. All equipment and other items
+of  tangible  personal  property  and  assets  of AIC (a) are in good  operating
+condition and in a state of good maintenance and repair,  ordinary wear and tear
+excepted,  and (b) are  usable  in the  regular  and  ordinary  course  of AIC's
+business.
+
+         3.20     REAL  PROPERTY.  AIC does not own any real  property.  The AIC
+Disclosure Schedule sets forth all real property leases to which AIC is a party.
+AIC has a valid leasehold interest in such leased real property, and such leases
+are in full  force  and  effect.  The  improvements  and  fixtures  on such real
+property  leased by AIC are in good  operating  condition and in a state of good
+maintenance and repair, ordinary wear and tear excepted.
+
+         3.21     INTELLECTUAL  PROPERTY  RIGHTS.  AIC owns,  or is  licensed or
+otherwise  has the valid rights to use, all  Intellectual  Property  used in the
+conduct of its business (the "AIC  INTELLECTUAL  PROPERTY").  The AIC Disclosure
+Schedule  contains  an  accurate  and  complete  list of all:  (a)  Intellectual
+Property owned by AIC, (b) Intellectual  Property  licensed to AIC,  including a
+list of all  agreements  related  thereto,  and (c)  licenses  granted by AIC to
+others to use AIC's  Intellectual  Property,  including a list of all agreements
+related  thereto (in each case excluding  licenses  available in consumer retail
+stores or subject to "shrink-wrap" license agreements), in each case that is the
+subject  of  an  application,   certificate,   filing  or  registration  with  a
+Governmental  Entity.  AIC owns all  right,  title  and  interest  in and to the
+Intellectual Property owned by it, free and clear of any Liens. AIC has the sole
+and exclusive  right to use AIC  Intellectual  Property  licensed to it, and the
+consummation of the transaction contemplated hereby will not alter or impair any
+such  rights.  No  claims  have  been  asserted  by any  Person  challenging  or
+questioning the validity or effectiveness of any licenses or agreements  related
+to the  Intellectual  Property  licensed  by, or licensed  to,  AIC,  and to the
+knowledge of AIC,  there is no valid basis for any such claim.  To the knowledge
+of AIC, the use by AIC of any Intellectual Property owned or licensed to it does
+not  violate or  infringe  the rights of any Person.  To the  knowledge  of AIC,
+neither  AIC nor any other  Person is in  default  under  any  license  or other
+agreement relating to any AIC Intellectual  Property,  and all such licenses and
+agreements are valid,  in full force and effect and  enforceable.  AIC has taken
+reasonable steps to safeguard and maintain the secrecy and  confidentiality  of,
+and its proprietary rights in, AIC Intellectual  Property.  No present or former
+employee or  consultant of AIC owns or has any  proprietary,
+
+
+                                       20
+<PAGE>
+
+
+financial or other interest, direct or indirect (other than through ownership of
+AIC Common Stock), in whole or in part, in any AIC Intellectual Property.
+
+         3.22     TRANSACTIONS  WITH RELATED PARTIES.  AIC is not a party to any
+contract,  lease,  license,  commitment or arrangement,  written or oral, which,
+were  AIC a  "registrant"  under  the  Exchange  Act,  would be  required  to be
+disclosed pursuant to Item 404(a) or (c) of Regulation S-B as promulgated by the
+SEC, and there are no loans  outstanding to or from any Person specified in Item
+404(a) of Regulation S-B from or to AIC.
+
+         3.23     NO GUARANTIES.  None of the  obligations or liabilities of AIC
+incurred in  connection  with the  operation of its business is guaranteed by or
+subject to a similar  contingent  obligation  of any other  Person.  AIC has not
+guaranteed or become  subject to a similar  contingent  obligation in respect of
+the  obligations or  liabilities  of any other Person.  There are no outstanding
+letters of credit,  surety  bonds or  similar  instruments  of AIC or any of its
+Affiliates.
+
+         3.24     INSURANCE. The AIC Disclosure Schedule contains a complete and
+correct list of all insurance policies carried by or for the benefit of AIC. AIC
+delivered to Xtrana  schedules  specifying the insurer,  amount of and nature of
+coverage,  the risk insured against, the deductible amount (if any) and the date
+through which coverage will continue by virtue of premiums  already paid of each
+such  insurance  policies.  AIC is insured by insurers of  recognized  financial
+responsibility  against such losses and risks and in such amounts as are prudent
+and customary in the  businesses in which AIC is engaged.  AIC does not have any
+reason  to  believe  that it will not be able to renew  its  existing  insurance
+coverage as and when such coverage  expires or to obtain  similar  coverage from
+similar  insurers  as may be  necessary  to  continue  its  business  without  a
+significant increase in cost.
+
+         3.25     CUSTOMER  RELATIONS.  The AIC Disclosure  Schedule  contains a
+complete and accurate  list of the names and  addresses  of each  customer  that
+generated  more than  $40,000 in revenue for AIC during  since  January 1, 2003.
+Except as set forth in the AIC  Disclosure  Schedule no such customer (or former
+customer) during the last twelve (12) months has canceled, terminated or, to the
+knowledge of AIC, made any threat to cancel or otherwise  terminate its contract
+or to decrease its usage of AIC's services or products. AIC has not received any
+notice or has any knowledge to the effect that any current  customer or supplier
+may terminate or materially  alter its business  relations with AIC, either as a
+result of the transactions contemplated by this Agreement or otherwise.
+
+         3.26     PRODUCT OR SERVICE DEFECTS; LIABILITY. AIC is not aware of any
+material defects in any of its products or the design thereof, nor in any of the
+services it provides.  AIC has not received  any  customer  complaints  or third
+party reports concerning alleged defects in its products,  the design thereof or
+its services that, if true, could have a Material Adverse Effect on AIC, nor has
+AIC had any of its  products  returned  by a  purchaser  thereof  other than for
+minor,  nonrecurring  warranty  problems.  AIC has no  liabilities  (and, to the
+knowledge of AIC, there is no basis for any present or future action against AIC
+giving  rise to any  liability)  arising  out of any  injury to  individuals  or
+property as a result of ownership,  possession  or use of any product  designed,
+manufactured, sold, leased or delivered by AIC.
+
+
+                                       21
+<PAGE>
+
+
+         3.27     PRODUCT WARRANTY.  Each product manufactured,  sold, leased or
+delivered by AIC has been manufactured,  sold, leased or delivered,  as the case
+may be, in conformity  in all material  respects  with all  applicable  law, all
+contracts to which AIC is a party, and all express and implied  warranties,  and
+AIC does not have any liability (and, to the knowledge of AIC, there is no basis
+for any present or future actions against AIC giving rise to any such liability)
+for  replacement  or repair  thereof or other damages in  connection  therewith,
+subject only to the reserve for product warranty claims set forth on the face of
+the Financial  Statements (rather than in any notes thereto) as adjusted for the
+passage of time through the Effective Time in accordance  AIC's ordinary  course
+of business,  consistent  with GAAP. No product  designed,  manufactured,  sold,
+leased  or  delivered  by AIC is  subject  to any  guaranty,  warranty  or other
+indemnity  or  similar  liability  beyond  the  applicable  standard  terms  and
+conditions of sale or lease.
+
+         3.28     LICENSES.  AIC owns or possesses all of the material  Licenses
+which  are  necessary  to  enable  it to  carry  on its  business  as  presently
+conducted.  All such Licenses are valid,  binding, and in full force and effect.
+The execution,  delivery, and performance of this Agreement and the consummation
+of the  transactions  contemplated  hereby  will not  adversely  affect any such
+License.
+
+         3.29     RECORDS.  The books of account,  corporate  records and minute
+books of AIC are  complete and correct in all  material  respects.  Complete and
+accurate copies of all such books of account, corporate records and minute books
+and of the stock register of AIC have been provided to Xtrana.
+
+         3.30     NO  BROKERS  OR  FINDERS.  AIC has  not,  and its  Affiliates,
+officers,  directors  or  employees  have not,  employed any broker or finder or
+incurred any  liability  for any  brokerage or finder's  fee or  commissions  or
+similar payment in connection with any of the transactions contemplated hereby.
+
+         3.31     BOARD  RECOMMENDATION.  The  Board  of  Directors  of AIC  has
+unanimously  determined that the terms of the Merger are fair to and in the best
+interests of the AIC  Shareholders  and  recommended  that the AIC  Shareholders
+approve the Merger.
+
+         3.32     DISCLOSURE.  AIC has disclosed to Xtrana all facts material to
+AIC's  business,   operations,  assets,  liabilities,   prospects,   properties,
+condition  (financial  or  otherwise)  and results of  operations.  Neither this
+Agreement,  nor any  Schedule  or  Exhibit  to  this  Agreement,  nor any  other
+statements,  documents or certificates made or delivered in connection  herewith
+or therewith  contains any untrue statement of a material fact or omits to state
+a material fact  necessary to make the statements  contained  herein and therein
+not misleading in light of the  circumstances  under which such  statements were
+made.  None  of  the  information   supplied  by  AIC  in  connection  with  the
+solicitation by Xtrana of the Xtrana Stockholders' Approval contained any untrue
+statement of a material  fact or omitted to state any material  fact required to
+be stated therein or necessary in order to make the statements therein, in light
+of the circumstances under which they are made, not misleading.
+
+         3.33     REQUIRED AIC VOTE. The affirmative votes of (a) the holders of
+a  majority  of the  shares of AIC  Shares  voting  together  as one class on an
+as-converted  basis and (b) the
+
+
+                                       22
+<PAGE>
+
+
+holders of AIC Series A  Preferred  Stock and AIC  Series A-1  Preferred  Stock,
+voting together as one class,  are the only votes of the holders of any class or
+series  of  AIC's   securities   necessary  to  approve  the  Merger  (the  "AIC
+SHAREHOLDERS' APPROVAL").
+
+4.       REPRESENTATIONS AND WARRANTIES OF XTRANA AND MERGERCO.
+
+         Except as set forth in the disclosure  schedule  delivered by Xtrana to
+AIC at the time of execution of this Agreement and attached  hereto (the "XTRANA
+DISCLOSURE SCHEDULE"), Xtrana and MergerCo, jointly and severally, represent and
+warrant to AIC as follows:
+
+         4.1      ORGANIZATION,  STANDING AND  CORPORATE  POWER.  Xtrana is duly
+organized,  validly existing and in good standing under the laws of the State of
+Delaware,  and has the requisite  corporate  power and authority to carry on its
+business as now being  conducted.  MergerCo is duly organized,  validly existing
+and in good  standing  under  the laws of the State of  California,  and has the
+requisite  corporate  power and  authority to carry on its business as now being
+conducted.
+
+         4.2      NO  SUBSIDIARIES.   Other  than  MergerCo,   Xtrana  does  not
+currently  own,  directly or  indirectly,  any capital stock or other  equities,
+securities  or interests in any other  corporation  or in any limited  liability
+company, partnership, joint venture or other association.
+
+         4.3      CAPITAL STRUCTURE.
+
+                  4.3.1    The  authorized  capital stock of Xtrana  consists of
+50,000,000  shares of Xtrana Common Stock,  $0.01 par value, of which 16,533,269
+shares of Xtrana Common Stock are issued and  outstanding as of the date of this
+Agreement. All outstanding shares of capital stock of Xtrana are, and all shares
+which may be issued  pursuant  to this  Agreement  will be,  when  issued,  duly
+authorized,  validly issued,  fully paid and  nonassessable  and, not subject to
+preemptive  rights,  and  issued in  compliance  with all  applicable  state and
+federal laws  concerning  the issuance of  securities.  There are no outstanding
+bonds,  debentures,  notes or other  indebtedness or other  securities of Xtrana
+having the right to vote (or convertible into, or exchangeable  for,  securities
+having the right to vote) on any matters on which holders of Xtrana Common Stock
+may vote.  Except as set forth on the Xtrana Disclosure  Schedule,  there are no
+outstanding  securities,   options,   warrants,   calls,  rights,   commitments,
+agreements,  arrangements or undertakings of any kind to which Xtrana is a party
+or by which any of them is bound obligating Xtrana to issue, deliver or sell, or
+cause to be issued,  delivered or sold,  additional  shares of capital  stock or
+other equity  securities  of Xtrana or  obligating  Xtrana to issue,  deliver or
+sell,  or cause to be issued,  delivered or sold,  additional  shares of capital
+stock or other equity securities of Xtrana or obligating Xtrana to issue, grant,
+extend  or  enter  into  any  such  security,   option,  warrant,  call,  right,
+commitment,  agreement,  arrangement  or  undertaking.  There are no outstanding
+contractual obligations,  commitments,  understandings or arrangements of Xtrana
+to repurchase, redeem or otherwise acquire or make any payment in respect of any
+shares of  capital  stock of Xtrana.  There are no  agreements  or  arrangements
+pursuant to which  Xtrana is or could be  required to register  shares of Xtrana
+Common Stock or other securities under the Securities Act or other agreements or
+arrangements  with or among any  holder of Xtrana  securities  with  respect  to
+securities of Xtrana.
+
+
+                                       23
+<PAGE>
+
+
+                  4.3.2    The authorized  capital stock of MergerCo consists of
+1,000 shares of Common Stock,  all of which are issued and outstanding as of the
+date of this  Agreement and held by Xtrana.  All  outstanding  shares of capital
+stock  of  MergerCo  are  duly  authorized,   validly  issued,  fully  paid  and
+nonassessable.  There  are no  outstanding  bonds,  debentures,  notes  or other
+indebtedness  or other  securities  of  MergerCo  having  the  right to vote (or
+convertible into, or exchangeable  for,  securities having the right to vote) on
+any matters on which  holders of MergerCo  Common Stock may vote.  Other than as
+provided  in this  Agreement,  there  are no  outstanding  securities,  options,
+warrants, calls, rights, commitments,  agreements,  arrangements or undertakings
+of any  kind to  which  MergerCo  is a party  or by  which  any of them is bound
+obligating MergerCo to issue, deliver or sell, or cause to be issued,  delivered
+or sold,  additional  shares of  capital  stock or other  equity  securities  of
+MergerCo  or  obligating  MergerCo  to issue,  deliver  or sell,  or cause to be
+issued,  delivered or sold,  additional  shares of capital stock or other equity
+securities of MergerCo or obligating  MergerCo to issue,  grant, extend or enter
+into any such security,  option,  warrant, call, right,  commitment,  agreement,
+arrangement or undertaking.
+
+         4.4      AUTHORITY.  Each of  Xtrana  and  MergerCo  has the  requisite
+corporate  and other  power and  authority  to enter  into this  Agreement  and,
+subject to obtaining  the Xtrana  Stockholders'  Approval (as defined in SECTION
+4.15), to perform its obligations  hereunder and to consummate the  transactions
+contemplated hereby. The execution and delivery of this Agreement by each Xtrana
+and MergerCo  and the  consummation  by Xtrana and MergerCo of the  transactions
+contemplated  hereby  have been duly  authorized  by the Board of  Directors  of
+Xtrana; the Board of Directors has recommended adoption of this Agreement by the
+stockholders of Xtrana; and no other corporate proceedings on the part of Xtrana
+or its  stockholders  are  necessary to  authorize  the  execution,  deliver and
+performance  of this Agreement by Xtrana and the  consummation  by Xtrana of the
+transaction  contemplated  hereby, other than obtaining the Xtrana Stockholders'
+Approval.  This Agreement has been duly executed and delivered by each of Xtrana
+and MergerCo and  constitutes  a valid and binding  obligation of each of Xtrana
+and  MergerCo,  enforceable  against  such Party in  accordance  with its terms,
+subject to applicable  bankruptcy,  insolvency  and other similar laws affecting
+the enforceability of creditors' rights generally,  general equitable principles
+and the discretion of courts in granting equitable remedies.
+
+         4.5      NON-CONTRAVENTION.   The   execution   and  delivery  of  this
+Agreement do not, and the consummation of the transactions  contemplated by this
+Agreement and compliance with the provisions  hereof will not, conflict with, or
+result in any  breach or  violation  of, or default  (with or without  notice or
+lapse  of  time,  or  both)  under,  or give  rise to a  right  of  termination,
+cancellation or acceleration of or "put" right with respect to any obligation or
+to loss of a material  benefit under, or result in the creation of any Lien upon
+any of the  properties  or assets of either  Xtrana or MergerCo  under,  (i) the
+Certificate or Articles of Incorporation  or Bylaws of Xtrana or MergerCo,  (ii)
+any loan or credit agreement,  note, bond, mortgage,  indenture,  lease or other
+agreement,  instrument,  permit, concession,  franchise or license applicable to
+Xtrana or MergerCo,  their respective  properties or assets, or (iii) subject to
+the  governmental  filings  and  other  matters  referred  to in  the  following
+sentence, any judgment, order, decree, statute, law, ordinance, rule, regulation
+or  arbitration  award  applicable  to  Xtrana  or  MergerCo,  their  respective
+properties  or assets,  other than,  in the case of clauses (ii) and (iii),  any
+such conflicts,  breaches,  violations,  defaults,  rights, losses or Liens that
+individually or in the aggregate could not have either a Material Adverse Effect
+on Xtrana or  MergerCo  or could not  prevent,  hinder or
+
+
+                                       24
+<PAGE>
+
+
+delay  the  ability  of  Xtrana  or  MergerCo  to  consummate  the  transactions
+contemplated by this Agreement. No consent, approval, order or authorization of,
+or  registration,  declaration  or filing with,  or notice to, any  Governmental
+Entity is required by or with respect to Xtrana or MergerCo in  connection  with
+the  execution  and  delivery  of this  Agreement  by Xtrana or  MergerCo or the
+consummation  by Xtrana and MergerCo of the  transactions  contemplated  hereby,
+except,  with respect to this  Agreement,  for the filing of the  Certificate of
+Merger and other  appropriate  merger  documents  required  by the CGCL with the
+Secretary of State and  appropriate  documents with the relevant  authorities of
+other states in which Xtrana is qualified to do business.
+
+         4.6      SEC DOCUMENTS; UNDISCLOSED LIABILITIES.
+
+                  4.6.1    For all periods subsequent to January 1, 2000, Xtrana
+has filed all  reports,  schedules,  forms,  statements  and other  documents as
+required by the SEC in a timely basis (or has received a valid extension of such
+time of filing and has filed any such  reports or other  documents  prior to the
+expiration of any such extension), and Xtrana has delivered or made available to
+AIC all reports, schedules, forms, statements and other documents filed with the
+SEC during such period  (collectively,  and in each case  including all exhibits
+and  schedules  thereto and documents  incorporated  by reference  therein,  the
+"XTRANA  SEC  DOCUMENTS").  As  of  their  respective  dates  (or,  if  amended,
+supplemented or superseded by a filing prior to the date hereof,  then as of the
+date of such  amendment,  supplement  or  superseding  filing)  the  Xtrana  SEC
+Documents  complied  in all  material  respects  with  the  requirements  of the
+Securities  Act or the  Exchange  Act,  as the case may be,  and the  rules  and
+regulations  of the SEC  promulgated  thereunder  applicable  to such Xtrana SEC
+Documents,  and  none  of the  Xtrana  SEC  Documents  (including  any  and  all
+consolidated  financial  statements  included therein) as of such date contained
+any  untrue  statement  of a material  fact or omitted to state a material  fact
+required  to be stated  therein  or  necessary  in order to make the  statements
+therein,  in  light  of the  circumstances  under  which  they  were  made,  not
+misleading.  The  consolidated  financial  statements of Xtrana included in such
+Xtrana SEC Documents comply as to form in all material  respects with applicable
+accounting  requirements and the published rules and regulations of the SEC with
+respect thereto, have been prepared in accordance with GAAP (except, in the case
+of unaudited consolidated  quarterly statements,  as permitted by Form 10-QSB of
+the SEC) applied on a consistent  basis during the periods  involved  (except as
+may be indicated in the notes  thereto)  and fairly and  accurately  present the
+consolidated  financial  position  of  Xtrana as of the  dates  thereof  and the
+consolidated  results of  operations  and  changes in cash flows for the periods
+covered thereby  (subject,  in the case of unaudited  quarterly  statements,  to
+normal  year-end  audit  adjustments  as  determined  by  Xtrana's   independent
+accountants).  Except as set forth in the Xtrana SEC  Documents,  at the date of
+the most  recent  financial  statements  of Xtrana  included  in the  Xtrana SEC
+Documents, Xtrana did not have, and since such date Xtrana has not incurred, any
+liabilities or obligations of any nature (whether accrued, absolute,  contingent
+or otherwise)  except for liabilities  and  obligations  that have been incurred
+since the date of the most recent balance sheet included in the Xtrana Financial
+Statements  in the  ordinary  course of  business  and are not (singly or in the
+aggregate) material to Xtrana's business.
+
+                  4.6.2    The Xtrana SEC Documents  include all  certifications
+and  statements  required of it, if any, by (i) Rule 13a-14 or 15d-14  under the
+Exchange Act, and (ii) 18 U.S.C. Section 1350 (Section 906 of the Sarbanes-Oxley
+Act of  2002),  and  each of  such  certifications  and  statements  contain  no
+qualifications or exceptions to the matters certified
+
+
+                                       25
+<PAGE>
+
+
+therein other than a knowledge  qualification,  permitted  under such provision,
+and have not been  modified  or  withdrawn  and  neither  Xtrana  nor any of its
+officers has received any notice from the SEC or any other  Governmental  Entity
+questioning or challenging the accuracy,  completeness, form or manner of filing
+or submission of such certifications or statements.
+
+                  4.6.3    Xtrana is in compliance in all material respects with
+all of the provisions of the  Sarbanes-Oxley  Act of 2002, and the provisions of
+the Exchange Act and the Securities  Act relating  thereto which under the terms
+of such  provisions  (including the dates by which such  compliance is required)
+have become applicable to Xtrana.
+
+         4.7      ABSENCE OF CERTAIN  CHANGES OR EVENTS.  Except as disclosed in
+the Xtrana SEC Documents, since the date of the most recent financial statements
+included in the Xtrana SEC Documents,  Xtrana has conducted its business only in
+the  ordinary  course  consistent  with past  practice  in light of its  current
+business  circumstances,  and  there is not and has not been:  (i) any  Material
+Adverse Change with respect to Xtrana;  (ii) any condition,  event or occurrence
+which, individually or in the aggregate,  could reasonably be expected to have a
+Material  Adverse Effect or give rise to a Material  Adverse Change with respect
+to Xtrana;  (iii) any event which, if it had taken place following the execution
+of this  Agreement,  would not have been  permitted  by SECTION  5.1 without the
+prior consent of AIC; or (iv) any  condition,  event or  occurrence  which could
+reasonably  be expected to prevent,  hinder or  materially  delay the ability of
+Xtrana to consummate the transactions contemplated by this Agreement.
+
+         4.8      INFORMATION  SUPPLIED.  None of the  information  included  or
+incorporated  by  reference  in the  proxy  statement  relating  to  the  Xtrana
+Stockholders'  Meeting (as defined in SECTION 6.4.2), as amended or supplemented
+from time to time (as so amended and supplemented,  the "PROXY STATEMENT"),  and
+any other documents to be filed by Xtrana with the SEC or any other Governmental
+Entity in  connection  with the Merger and the other  transactions  contemplated
+hereby will,  on the date of its filing or, in the case of the Proxy  Statement,
+at the date it is mailed to stockholders of Xtrana and at the time of the Xtrana
+Stockholders'  Meeting,  contain any untrue statement of a material fact or omit
+to state any material fact  required to be stated  therein or necessary in order
+to make the statements  therein,  in light of the circumstances under which they
+are made,  not  misleading  or necessary to correct any statement in any earlier
+communication  with  respect  to any  solicitation  of  proxies  for the  Xtrana
+Stockholders'  Meeting which shall have become false or misleading,  except that
+no  representation  is made by Xtrana with  respect to  information  supplied in
+writing by or on behalf of AIC for inclusion therein.  The Proxy Statement filed
+by  Xtrana  with  the  SEC  under  the  Exchange  Act  relating  to  the  Xtrana
+Stockholders'  Meeting,  and any  other  documents  to be filed  with the SEC in
+connection with the Merger, will comply as to form in all material respects with
+the Exchange Act.
+
+         4.9      CERTAIN  EMPLOYEE  PAYMENTS.  Xtrana  is  not a  party  to any
+employment agreement which could result in the payment to any current, former or
+future  director or employee of Xtrana of any money or other  property or rights
+or  accelerate  or provide any other rights or benefits to any such  employee or
+director as a result of the transactions contemplated by this Agreement, whether
+or not (i) such payment, acceleration or provision would constitute a "parachute
+payment"  (within the meaning of Section  280G of the Code),  or (ii) some other
+subsequent action or event would be required to cause such payment, acceleration
+or provision to be triggered.
+
+
+                                       26
+<PAGE>
+
+
+         4.10     TAX  RETURNS  AND TAX  PAYMENTS.  Xtrana is not subject to any
+liabilities  or claims for Taxes,  including  Taxes  relating to prior  periods,
+other  than those set forth or  adequately  reserved  against  in the  financial
+statements included in the Xtrana SEC Documents or those incurred since the date
+of the most recent  balance  sheet  included in the Xtrana SEC  Documents in the
+ordinary  course of business.  Xtrana has duly filed when due all Tax Returns in
+connection  with and in respect of its business,  assets and employees,  and has
+timely paid and  discharged  all amounts  shown as due thereon.  Xtrana has made
+available to AIC accurate and complete  copies of all of its Tax Returns for all
+periods,  except those periods for which returns are not yet due. Xtrana has not
+received  any notice of any Tax  deficiency  outstanding,  proposed  or assessed
+against or  allocable  to it, and has not  executed any waiver of any statute of
+limitations on the assessment or collection of any Tax or executed or filed with
+any Governmental  Entity any contract or other agreement now in effect extending
+the period for  assessment  or  collection of any Taxes against it. There are no
+Liens for Taxes  upon,  pending  against  or  threatened  against,  any asset of
+Xtrana. Xtrana is not subject to any Tax allocation or sharing agreement.
+
+         4.11     RECORDS.  The books of accounts,  corporate records and minute
+books of Xtrana and MergerCo are complete and correct in all material  respects.
+Complete and accurate copies of all such books of account, corporate records and
+minute books of Xtrana and MergerCo have been provided to AIC.
+
+         4.12     MERGERCO.  MergerCo  has been  formed for the sole  purpose of
+effecting the Merger and, except as contemplated by this Agreement, MergerCo has
+not  conducted  any  business   activities   and  does  not  have  any  material
+liabilities.
+
+         4.13     NO BROKERS OR FINDERS.  Neither  Xtrana,  MergerCo,  nor their
+respective  Affiliates,  officers,  directors  or employees  have,  employed any
+broker or finder or incurred any  liability for any brokerage or finder's fee or
+commissions  or  similar  payment  in  connection  with any of the  transactions
+contemplated hereby.
+
+         4.14     BOARD  RECOMMENDATION.  The Board of  Directors  of Xtrana has
+unanimously  determined that the terms of the Merger are fair to and in the best
+interests  of the  Stockholders  of Xtrana and  recommended  that the holders of
+Xtrana Common Stock approve the Merger.
+
+         4.15     REQUIRED XTRANA VOTE. The affirmative vote of the holders of a
+majority of shares of Xtrana Common Stock is the only vote of the holders of any
+class or series of  Xtrana's  securities  necessary  to approve  the Merger (the
+"XTRANA STOCKHOLDERS' APPROVAL").
+
+         4.16     LEGAL   PROCEEDINGS.   There  is  no  suit,   action,   claim,
+arbitration, proceeding or investigation pending or, to the knowledge of Xtrana,
+threatened  against,  relating  to or  involving  Xtrana,  or real  or  personal
+property of Xtrana,  before any Governmental Entity or other third party. To the
+knowledge of Xtrana, there is no basis for any such suit, action,  proceeding or
+investigation.
+
+         4.17     TRANSACTIONS WITH APPLERA CORPORATION.  Xtrana provided to AIC
+true and complete copies of all agreements, instruments,  certificates and other
+documents entered or
+
+
+                                       27
+<PAGE>
+
+
+delivered in connection  with the Assignment  Agreement  dated as of January 26,
+2004  by and  between  Xtrana  and  Applera  Corporation,  through  its  Applied
+Biosystems  Group  ("ABI"),  as amended  by the First  Amendment  to  Assignment
+Agreement  dated as of March 31, 2004,  between Xtrana and ABI (as amended,  the
+"ASSIGNMENT  AGREEMENT"),  including all amendments,  supplements,  exhibits and
+ancillary agreements related thereto (collectively, the "ABI AGREEMENTS"). Other
+than breaches or potential breaches that have been waived,  all  representations
+warranties  made by Xtrana in the Assignment  Agreement were true and correct on
+the date of the  Assignment  Agreement  and on the  closing of the  transactions
+under the Assignment Agreement. Xtrana is in compliance in all material respects
+with and has not breached,  violated or defaulted under in any material respect,
+or received notice that it has breached, violated or defaulted under, any of the
+terms or conditions of the ABI  Agreements,  nor has there occurred any event or
+condition that could reasonably  constitute such a breach,  violation or default
+with the lapse of time, giving of notice or both, and Xtrana is not aware of any
+legitimate  basis for any  indemnification  claim  against  Xtrana under the ABI
+Agreements.  The  ABI  Agreements  and  the  consummation  of  the  transactions
+contemplated  thereby did not breach or caused a default  under the  Cooperation
+Agreement  No.  70NANB5H1109  between  Xtrana  and the  National  Institutes  of
+Standards  and  Technology  (the  "NIST   AGREEMENT")  or  under  Contract  DAMB
+17-00-C-001  between Xtrana and the U.S. Army (the "US ARMY AGREEMENT").  Xtrana
+has at all times  complied with all terms and  conditions of the NIST  Agreement
+and the US Army  Agreement,  and except  pursuant to the  Confirmatory  Licenses
+dated February 18, 2004 and February 20, 2004, true and complete copies of which
+were delivered to AIC, Xtrana has no obligations under the NIST Agreement or the
+US Army Agreement required to be performed after the date of this Agreement.
+
+         4.18     CONTRACTS  AND  COMMITMENTS.  The Xtrana  Disclosure  Schedule
+contains a true,  complete and accurate list of each of the  following  written,
+and to Xtrana's knowledge, oral, contracts, agreements,  understandings or other
+obligations  to  which  Xtrana  is a party  or by  which  any of its  assets  or
+properties are bound (together the "XTRANA CONTRACTS"):
+
+                  4.18.1   all bonds,  debentures,  notes, loans, credit or loan
+agreements  or loan  commitments,  mortgages,  indentures,  guarantees  or other
+contracts  relating to the borrowing of money or binding upon any  properties or
+assets (real, personal or mixed, tangible or intangible) of Xtrana;
+
+                  4.18.2   all rental or use agreements, contracts, covenants or
+obligations which may involve the payment by or to Xtrana of more than $25,000;
+
+                  4.18.3   any contract, agreement,  commitment or obligation to
+make any capital expenditures in excess of $25,000;
+
+                  4.18.4   contracts,    agreements,    commitments   or   other
+obligations  with any Person  containing any provision or covenant  limiting the
+ability of Xtrana to engage in any line of  business  or to  compete  with or to
+obtain  products  or  services  from any Person or  limiting  the ability of any
+Person to compete with or to provide products or services to, or obtain products
+or services from,  Xtrana, or covering  indemnification  of another Person other
+than in the ordinary course of business;
+
+
+                                       28
+<PAGE>
+
+
+                  4.18.5   any  profit-sharing or similar  contract,  agreement,
+understanding or obligation with any Person;
+
+                  4.18.6   contracts,    agreements,    commitments   or   other
+obligations with respect to the purchase or sale by or to Xtrana of any product,
+equipment,  facility,  or  similar  item that by their  respective  terms do not
+expire or terminate or are not terminable by Xtrana, without penalty, premium or
+other  liability  within 30 days or may  involve  the payment by or to Xtrana of
+more than $25,000;
+
+                  4.18.7   contracts,    agreements,    commitments   or   other
+obligations  to  provide  services  or  facilities  by or to  Xtrana or to or by
+another Person which is not terminable by Xtrana within 30 days without penalty,
+premium or other liability or involving payment by Xtrana or the other Person of
+more than $25,000;
+
+                  4.18.8   any contract that  provides for an increased  payment
+or benefit, or accelerated  vesting,  upon the execution of this Agreement or in
+connection with the transactions contemplated hereby;
+
+                  4.18.9   any contract or agreement  granting any Person a Lien
+on all or any part of any asset of Xtrana;
+
+                  4.18.10  any contract  providing  for the  indemnification  or
+holding  harmless  by Xtrana of any of its  shareholders,  officers,  directors,
+employees or representatives;
+
+                  4.18.11  all other contracts, agreements, commitments or other
+obligations  whether or not made in the  ordinary  course of business  which may
+involve the  expenditure  by Xtrana of funds in excess of $25,000 per commitment
+(or under a group of similar commitments),  or are otherwise material to Xtrana;
+or
+
+                  4.18.12  all  other  contracts,  agreements,  commitments,  or
+other  obligations  of any kind that  involve  or relate to any holder of Xtrana
+Common  Stock,  officer,  director,  employee  or  consultant  of  Xtrana or any
+Affiliate or relative thereof.
+
+True,  correct  and  complete  copies  of all  Xtrana  Contracts  have been made
+available to AIC. To the  knowledge of Xtrana,  the Xtrana  Contracts are legal,
+valid,  binding and enforceable in accordance with their  respective  terms with
+respect to Xtrana and each other  party to such Xtrana  Contracts.  There are no
+existing  defaults or breaches of Xtrana under any Xtrana Contract (or events or
+conditions  which,  with  notice  or lapse of time or both  would  constitute  a
+default or breach) and, to the  knowledge of Xtrana,  there are no such defaults
+(or events or  conditions  which,  with  notice or lapse of time or both,  would
+constitute  a default or breach)  with  respect to any third party to any Xtrana
+Contract.  Except as set forth on the Xtrana Disclosure Schedule,  Xtrana is not
+participating  in any discussions or negotiations  regarding  modification of or
+amendment  to any  Xtrana  Contract  or  entry  in  any  new  material  contract
+applicable  to Xtrana or the real or  personal  property  of Xtrana.  The Xtrana
+Disclosure  Schedule  specifically  identifies  each Xtrana  Contract  set forth
+therein  that  requires  the consent of or notice to the other party  thereto to
+avoid any breach,  default or  violation  of such  contract,  agreement or other
+instrument in connection with the transactions contemplated by this Agreement.
+
+
+                                       29
+<PAGE>
+
+
+         The Xtrana Disclosure  Schedule contains a true,  complete and accurate
+list of each written contract,  agreement,  understanding or other obligation to
+which Xtrana was a party or by which any of its assets or  properties  was bound
+that was  terminated  by Xtrana  since May 14, 2004  (together  the  "TERMINATED
+XTRANA  Contracts").  True, correct and complete copies of all Terminated Xtrana
+Contracts  have  been  made  available  to AIC.  Each of the  Terminated  Xtrana
+Contracts was terminated in full  compliance  with its terms or with the written
+consent of the other  party to such  Terminated  Xtrana  Contract,  in each case
+without any liability to Xtrana.
+
+         4.19     INSURANCE.  The Xtrana Disclosure Schedule contains a complete
+and  correct  list of all  insurance  policies  carried by or for the benefit of
+Xtrana,  specifying  the  insurer,  amount of and nature of  coverage,  the risk
+insured  against,  the  deductible  amount (if any) and the date  through  which
+coverage will continue by virtue of premiums already paid.
+
+         4.20     PRODUCT OR SERVICE DEFECTS;  LIABILITY. Xtrana is not aware of
+any material defects in any of its products  (including  products  developed and
+sold prior to completion of the  transactions  under the ABI  Agreements) or the
+design thereof, nor in any of the services it provides.  Xtrana has not received
+any customer complaints or third party reports concerning alleged defects in its
+products,  the  design  thereof  or its  services  that,  if true,  could have a
+Material  Adverse  Effect on  Xtrana,  nor has  Xtrana  had any of its  products
+returned  by a purchaser  thereof  other than for minor,  nonrecurring  warranty
+problems.  Xtrana has no liabilities (and, to the knowledge of Xtrana,  there is
+no basis for any  present or future  action  against  Xtrana  giving rise to any
+liability)  arising out of any injury to  individuals or property as a result of
+ownership, possession or use of any product designed, manufactured, sold, leased
+or delivered by Xtrana.
+
+         4.21     PRODUCT WARRANTY.  Each product manufactured,  sold, leased or
+delivered by Xtrana has been  manufactured,  sold,  leased or delivered,  as the
+case may be, in conformity in all material respects with all applicable law, all
+contracts  to which Xtrana is a party,  and all express and implied  warranties,
+and Xtrana does not have any liability  (and, to the knowledge of Xtrana,  there
+is no basis for any present or future actions  against Xtrana giving rise to any
+such liability) for replacement or repair thereof or other damages in connection
+therewith,  subject only to the reserve for product warranty claims set forth on
+the face of the  financial  statements  included  in the  Xtrana  SEC  Documents
+(rather  than in any notes  thereto) as adjusted for the passage of time through
+the  Effective  Time  in  accordance   Xtrana's  ordinary  course  of  business,
+consistent  with  GAAP.  No  product  designed,  manufactured,  sold,  leased or
+delivered by Xtrana is subject to any guaranty,  warranty or other  indemnity or
+similar liability beyond the applicable standard terms and conditions of sale or
+lease.
+
+         4.22     BENEFIT PLANS. The Xtrana Disclosure  Schedule contains a true
+and complete  list of each  Benefit  Plan  currently  sponsored,  maintained  or
+contributed  to by Xtrana as well as any  "employee  benefit plan" as defined in
+Section 3(3) of ERISA of Xtrana.  Any special tax status enjoyed by such plan is
+noted on such schedule.  With respect to each Benefit Plan and "employee benefit
+plan"  identified  on the Xtrana  Disclosure  Schedule,  Xtrana  has  heretofore
+delivered  or made  available  to AIC  true  and  complete  copies  of the  plan
+documents and any amendments  thereto (or, if the plan is not written, a written
+description  thereof).  Xtrana  has  performed  in  all  material  respects  all
+obligations required to be performed by it under each Benefit Plan and "employee
+benefit  plan"  identified  on the  Xtrana  Disclosure  Schedule,  and each
+
+
+                                       30
+<PAGE>
+
+
+such Benefit Plan has been  established and maintained in all material  respects
+in  accordance  with its  terms  and in  compliance  with all  applicable  laws,
+statutes,  orders, rules and regulations,  including but not limited to ERISA or
+the  Code.  Xtrana's  records  accurately  reflect  its  employees'   employment
+histories,  including their hours of service, and all such data is maintained in
+a usable form.  Xtrana has taken all actions  required to terminate  the Xtrana,
+Inc. 401(k) Plan.
+
+         4.23     DISCLOSURE.  None of the  information  supplied  by  Xtrana in
+connection  with  the  solicitation  by AIC of the  AIC  Shareholders'  Approval
+contained  any  untrue  statement  of a  material  fact or  omitted to state any
+material  fact  required to be stated  therein or necessary in order to make the
+statements therein, in light of the circumstances under which they are made, not
+misleading.
+
+5.       COVENANTS RELATING TO CONDUCT OF BUSINESS PRIOR TO MERGER.
+
+         5.1      CONDUCT  OF AIC,  XTRANA  AND  MERGERCO.  Except as  expressly
+permitted  by  this  Agreement,  between  the  date of  this  Agreement  and the
+Effective  Time,  each of Xtrana and AIC shall  conduct its business only in the
+ordinary course in substantially  the same manner as heretofore  conducted,  and
+use  all  its  reasonable  efforts  to  preserve  intact  its  present  business
+organization and employees and to preserve the goodwill of Persons with which it
+has business relations. Without limiting the generality of the foregoing, except
+as  otherwise  expressly  provided in this  Agreement,  between the date of this
+Agreement and the Effective  Time, (i) each of Xtrana and AIC shall pay accounts
+payable and pay and perform other  obligations  of its business when they become
+due and  payable  in the  ordinary  course  of  business  consistent  with  past
+practice, or when required to be performed, as the case may be, and (ii) each of
+Xtrana, MergerCo and AIC shall (unless otherwise mutually agreed to in writing):
+
+                  5.1.1    not amend or alter its  certificate  or  articles  of
+incorporation,  bylaws,  or similar  charter  documents  (except as  required to
+effect the Reverse  Stock Split (as defined in SECTION 6.4.2 below) and the Note
+Conversion);
+
+                  5.1.2    not engage in any  transaction,  except in the normal
+and ordinary course of business,  or create or suffer to exist any Lien or other
+encumbrance upon any of its assets or which will not be discharged in full prior
+to the Effective Time;
+
+                  5.1.3    not  sell,  exchange,   lease,  assign  or  otherwise
+transfer any of its assets, or cancel or compromise any debts or claims relating
+to their assets,  other than for fair value, in the ordinary course of business,
+and consistent with past practice;
+
+                  5.1.4    not, other than in connection  with the Reverse Stock
+Split, with respect to Xtrana, and the Note Conversion, with respect to AIC, (i)
+declare,  set  aside or pay any  dividends  on or make  other  distributions  in
+respect of any of its capital shares,  (ii) split,  combine,  reclassify or take
+similar  action with respect to any of its capital  shares or issue or authorize
+or propose the issuance of any other  securities in respect of, in lieu of or in
+substitution for its capital shares (other than the Reverse Stock Split),  (iii)
+adopt a plan of complete or partial liquidation or resolutions  providing for or
+authorizing such liquidation or a dissolution, merger,
+
+
+                                       31
+<PAGE>
+
+
+consolidation, restructuring,  recapitalization or other reorganization, or (iv)
+directly or  indirectly  redeem,  repurchase  or  otherwise  acquire any capital
+shares or any option with respect thereto,  except for repurchases in connection
+with an  existing  option  plan that  result  from a  participant's  use of such
+Party's Common Stock to exercise options or pay withholding  taxes in connection
+with such exercise;
+
+                  5.1.5    not sell,  issue,  grant or authorize the issuance or
+grant of any capital  stock,  other security  (including  the sale,  transfer or
+grant of any treasury shares) or any obligation  convertible or exchangeable for
+capital  stock  or any  other  security,  except  that  (i) AIC may  issue up to
+7,343,418  shares  of AIC  Series  A-1  Preferred  Stock  pursuant  to the  Note
+Conversion, (ii) AIC may issue AIC Common Stock upon the valid exercise of stock
+options and warrants  outstanding as of the date of this Agreement and (iii) AIC
+may grant options to purchase shares of AIC Common Stock at fair market value in
+the ordinary course of business  consistent with past practice to its employees,
+officers, directors and consultants;
+
+                  5.1.6    not fail to use reasonable efforts to preserve intact
+its present business organizations, keep available the services of its employees
+(except as expressly  provided  herein) and preserve its material  relationships
+with customers, suppliers, licensors, licensees, distributors and others, to the
+end that its  good  will and  on-going  business  not be  impaired  prior to the
+Effective Time;
+
+                  5.1.7    not  organize any  subsidiary  or acquire any capital
+stock or other  equity  securities  of any  Person or any  equity  or  ownership
+interest in any business;
+
+                  5.1.8    not enter into any instrument  which would constitute
+an AIC Contract, as applicable, or enter into any material amendment, supplement
+or waiver in respect of any AIC  Contract,  in each case except in the  ordinary
+course of business consistent with past practice;
+
+                  5.1.9    not incur any severance  pay  obligation by reason of
+this Agreement or the transactions contemplated hereby;
+
+                  5.1.10   not grant or extend any power of attorney  other than
+in the ordinary  course of business which does not affect a material part of its
+business;
+
+                  5.1.11   keep in full force and effect insurance comparable in
+amount and scope of coverage to insurance now carried by it;
+
+                  5.1.12   not make any  material  change with  respect to their
+business in accounting or bookkeeping methods,  principles or practices,  except
+as required by GAAP;
+
+                  5.1.13   promptly  advise  the other  Party in  writing of any
+Material Adverse Effect with respect to it;
+
+                  5.1.14   not agree or otherwise commit,  whether in writing or
+otherwise,  to do, or take any  action  or omit to take any  action  that  would
+result in, any of the foregoing;
+
+
+                                       32
+<PAGE>
+
+
+                  5.1.15   not  acquire  or  agree to  acquire,  by  merging  or
+consolidating  with,  by  purchasing  an equity  interest in or a portion of the
+assets of, by licensing or by any other manner, any business or any corporation,
+partnership,  association or other business organization or division thereof, or
+otherwise acquire or agree to acquire any assets of any other Person, except for
+the  purchase  of assets from  suppliers  or vendors in the  ordinary  course of
+business; or
+
+                  5.1.16   not make any expenditure or enter into any commitment
+or transaction  exceeding $30,000 other than purchases in the ordinary course of
+business consistent with past practices.
+
+         5.2      ADVICE OF CHANGES.  Each Party shall promptly advise the other
+Party in  writing  of (a) any  event  occurring  subsequent  to the date of this
+Agreement that would render any  representation  or warranty of AIC contained in
+SECTION 3 or Xtrana  contained in SECTION 4 untrue or  inaccurate  such that the
+condition  set forth in  SECTIONS  7.2 or 7.3 would  not be  satisfied,  (b) any
+breach of any covenant or obligation of AIC or Xtrana pursuant to this Agreement
+such  that  the  condition  set  forth  in  SECTIONS  7.2 and 7.3  would  not be
+satisfied,  (c) any Material  Adverse Change or Effect in AIC or Xtrana,  or (d)
+any change,  event,  circumstance,  condition or effect that would reasonably be
+expected  to result in a Material  Adverse  Change or Effect on AIC or Xtrana or
+cause  any of  the  conditions  set  forth  in  SECTIONS  7.2  or 7.3  not to be
+satisfied, including any communication related to the ABI Agreements;  PROVIDED,
+HOWEVER,  that the delivery of any notice pursuant to this SECTION 5.2 shall not
+be deemed to amend or supplement the AIC or Xtrana Disclosure Schedule.
+
+         5.3      SEC REPORTS.  Xtrana shall use commercially reasonable efforts
+to (a) cause the  forms,  reports,  schedules,  statements  and other  documents
+required to be filed with the SEC by Xtrana  between the date of this  Agreement
+and the  Effective  Time to be  filed  in a  timely  manner  and  (b)  remain  a
+"reporting person" for purposes of the Exchange Act.
+
+6.       ADDITIONAL AGREEMENTS.
+
+         6.1      PROMISSORY NOTE. As soon as reasonably practicable, but in any
+event within two (2) business days,  following the completion by AIC of the Note
+Conversion and delivery of evidence  satisfactory to Xtrana and its counsel that
+all obligations under all convertible  promissory notes of AIC outstanding as of
+the date hereof have been satisfied in full,  Xtrana shall make a loan to AIC in
+the amount of $500,000, in exchange for execution and delivery of the Promissory
+Note and the Security  Agreement (as defined in the  Promissory  Note) by AIC to
+Xtrana.  The  issuance of the  Promissory  Note,  the  borrowing  of the amounts
+thereunder and the grant of the liens  contemplated  by the Promissory  Note and
+the Security Agreement by AIC are expressly consented to by the Parties an shall
+not constitute a breach of SECTION 5.1 of this Agreement.
+
+         6.2      AIC AUDIT. As soon as practicable  following the execution and
+delivery of this Agreement but in no event later March 31, 2005, AIC shall cause
+its  consolidated  financial  statements for the fiscal years ended December 31,
+2004 and 2003 to be audited (the "AIC AUDITED  FINANCIAL  STATEMENTS") by a firm
+of independent certified public accountants (the "INDEPENDENT  ACCOUNTANTS") and
+the  Independent  Accountants  shall have  consented to the inclusion of the AIC
+Audited  Financial  Statements,  including the Independent  Accountants'
+
+
+                                       33
+<PAGE>
+
+
+report  thereon,  in the Proxy  Statement to be filed by Xtrana with the SEC and
+delivered to the Xtrana stockholders. The AIC Audited Financial Statements shall
+comply with all  applicable  requirements  of the Exchange Act and the rules and
+regulations  of the SEC so that  they may be  included  by  Xtrana  in the Proxy
+Statement  and any other  filings  required  to be made by Xtrana  with the SEC.
+Xtrana will pay the fees and  expenses of the  Independent  Accountants  for the
+audit of the AIC Audited  Financial  Statements and providing  their consent for
+inclusion of the AIC Audited  Financial  Statements in the Proxy  Statement (the
+"AUDIT FEES") upon submission of invoices by AIC.
+
+         6.3      FAIRNESS HEARING.  Promptly after execution of this Agreement,
+the Parties will use  commercially  reasonable  efforts to take,  or cause to be
+taken,  all  actions  and to do,  or  cause to be done,  all  things,  including
+preparation  and filing with the California  Commissioner of Corporations of the
+documents  required  by the  California  Corporations  Code,  including  but not
+limited to any  required  Permit  Application,  request for a hearing  ("HEARING
+REQUEST") or notice of a hearing  ("HEARING  NOTICE") pursuant to Sections 25121
+and  25142  of  the  California  Corporations  Code  (collectively  the  "NOTICE
+MATERIALS"),  in  connection  with the  Merger  and the  issuance  of the Merger
+Consideration  and the  assumption  or  replacement  of the Assumed  Options and
+Warrants,  in order to perfect  the  exemption  from  registration  provided  by
+Section  3(a)(10)  of the  Securities  Act.  Each  Party  will use  commercially
+reasonable efforts to have the Permit  Application,  Hearing Request and Hearing
+Notice   declared   effective  and  to  obtain  the  permit  of  the  California
+Commissioner  of  Corporation  under  the  California   Corporations  Code  (the
+"PERMIT") as promptly as practicable after such filing. Each of the Parties will
+promptly  provide all  information  relating to their  respective  business  and
+operations  necessary  for  inclusion  in the Notice  Materials  to satisfy  all
+requirements  of  applicable  state and  federal  securities  laws.  Each of the
+Parties will be solely responsible for any statement, information or omission in
+the  Notice  Materials  relating  to it  or  its  Affiliates  upon  the  written
+information furnished by it or its representatives.
+
+         6.4      STOCKHOLDER APPROVALS.
+
+                  6.4.1    AIC SHAREHOLDERS' APPROVAL. AIC shall, as promptly as
+practicable  following  obtaining the Permit, duly submit this Agreement and the
+transactions contemplated by this Agreement to the AIC Shareholders for approval
+and  adoption.  In  connection  with the Merger,  this  Agreement  and the other
+transactions  contemplated  hereby,  the  Board of  Directors  of AIC  shall (i)
+recommend to the AIC Shareholders that they consent to, and use all commercially
+reasonable  efforts  to obtain the  approvals  by the AIC  Shareholders,  of the
+Merger, this Agreement and the other transactions  contemplated hereby, and (ii)
+otherwise  comply with all  requirements of applicable law and AIC's Articles of
+Incorporation  and Bylaws in connection  with  obtaining  the AIC  Shareholders'
+Approval.  AIC shall prepare and  distribute to the AIC  Shareholders  a consent
+solicitation  disclosure  statement  in  connection  with  the  solicitation  of
+consents to obtain the AIC  Shareholders'  Approval,  and shall provide Xtrana a
+reasonable  period  of time to  review  the  disclosure  statement  prepared  in
+connection  with  such  consent  solicitation  prior  to the  delivery  of  such
+disclosure statement to the AIC Shareholders.
+
+                  6.4.2    XTRANA  STOCKHOLDERS'   MEETING.   Xtrana  shall,  as
+promptly as  practicable  following  the  delivery of the AIC Audited  Financial
+Statements,  duly  call,  give  notice  of,  convene  and hold a meeting  of its
+stockholders (the "XTRANA  STOCKHOLDERS'  MEETING")
+
+
+                                       34
+<PAGE>
+
+
+for the purpose of approving (a) the Merger  pursuant to this  Agreement and the
+other  transactions  contemplated  by  this  Agreement,  (b) the  change  of its
+corporate  name  to  Alpha  Innotech  Corp.,  and  (c)  the  authorization  of a
+one-for-ten  reverse  split of the Xtrana  Common Stock to effected  immediately
+prior the Effective  Time (the "REVERSE STOCK  SPLIT").  In connection  with the
+Merger, this Agreement and the other transactions contemplated hereby, the Board
+of Directors of Xtrana shall (i)  recommend to the  stockholders  of Xtrana that
+they  consent  to,  and use all  commercially  reasonable  efforts to obtain the
+approvals by the stockholders of Xtrana,  of the Merger,  this Agreement and the
+other  transactions  contemplated  hereby,  and (ii)  otherwise  comply with all
+requirements  of applicable law and Xtrana's  Certificate of  Incorporation  and
+Bylaws in connection with obtaining the Xtrana Shareholders' Approval.
+
+         6.5      BOARD OF DIRECTORS AND OFFICERS FOLLOWING CLOSING.
+
+                  6.5.1    BOARD OF  DIRECTORS.  Xtrana  covenants and agrees to
+take all actions  necessary such that,  immediately  following the Closing,  the
+Board of Directors of Xtrana shall consist of the following individuals:
+
+                  Nagesh Mhatre, Ph.D.               William Snider
+                  Haseeb Chaudhry                    Michael Bick, Ph.D.
+                  Darryl Ray, Ph.D.                  James Chamberlain
+
+who shall  serve as the  directors  of Xtrana,  each of such  directors  to hold
+office, subject to the applicable provisions of the Certificate of Incorporation
+and Bylaws of Xtrana, in each case, until their respective successors shall have
+been  elected  and  qualified  or until  otherwise  provided  by law.  All other
+directors  of Xtrana  immediately  prior to the  Effective  Time  shall  resign,
+effective as of the Effective Time.
+
+                  6.5.2    OFFICERS. Each of the Parties covenants and agrees to
+take all actions  necessary such that,  immediately  following the Closing,  the
+officers of Xtrana  immediately  prior to the  Effective  Time shall  resign and
+shall be replaced by the following individuals:
+
+                  Haseeb Chaudhry..................  Chief Executive Officer
+                  Darryl Ray, Ph.D.................  President, Chief  Financing
+                                                     Officer and Chief Operating
+                                                     Officer
+
+who shall serve as officers of Xtrana  subject to the  applicable  provisions of
+the Certificate of Incorporation and Bylaws of Xtrana, in each case, until their
+respective successors shall have been duly appointed or until otherwise provided
+by law.
+
+         6.6      ACCESS TO INFORMATION; CONFIDENTIALITY.
+
+                  6.6.1    ACCESS.  Each of Xtrana and AIC shall,  and shall (a)
+cause  its  officers,   employees,   counsel,   financial   advisors  and  other
+representatives to, afford to the other Party and its representatives reasonable
+access  during  normal  business  hours during the period prior to the Effective
+Time to its properties, books, contracts, commitments, personnel and records and
+(b) during such period,  cause its officers,  employees and  representatives to,
+furnish
+
+
+                                       35
+<PAGE>
+
+
+promptly to the other Party all information concerning its business, properties,
+financial condition,  operations and personnel as such other Party may from time
+to time  reasonably  request.  Except as required by law, each of AIC and Xtrana
+will  hold,  and will  cause  its  respective  directors,  officers,  employees,
+accountants,   counsel,   financial  advisors  and  other   representatives  and
+Affiliates  to hold,  any  nonpublic  information  in strict  confidence  and in
+accordance with the provisions of the  Nondisclosure  Agreement dated August 30,
+2004 between AIC and Xtrana.
+
+                  6.6.2    LIMITATIONS.   No  investigation   pursuant  to  this
+SECTION 6.6 shall affect any representations or warranties of the parties herein
+or the conditions to the obligations of the parties hereto.
+
+         6.7      COMMERCIALLY REASONABLE EFFORTS. Upon the terms and subject to
+the  conditions set forth in this  Agreement,  each of the parties agrees to use
+its commercially  reasonable efforts to take, or cause to be taken, all actions,
+and to do,  or cause to be done,  and to  assist  and  cooperate  with the other
+parties in doing,  all things  necessary,  proper or advisable to consummate and
+make effective,  in the most expeditious manner practicable,  the Merger and the
+other transactions contemplated by this Agreement. Xtrana and AIC will use their
+commercially  reasonable  efforts and cooperate with one another (i) in promptly
+determining whether any filings are required to be made or consents,  approvals,
+waivers, permits or authorizations are required to be obtained (or, which if not
+obtained,  would result in an event of default,  termination or  acceleration of
+any agreement or any put right under any agreement)  under any applicable law or
+regulation or from any Governmental Entities or third parties, including parties
+to loan  agreements  or other debt  instruments  and  including  such  consents,
+approvals, waivers, permits or authorizations as may be required to transfer the
+assets  and  related  liabilities  of AIC to the  Surviving  Corporation  in the
+Merger, in connection with the transactions  contemplated by this Agreement, and
+(ii) in promptly making any such filings, in furnishing  information required in
+connection  therewith  and in  timely  seeking  to  obtain  any  such  consents,
+approvals, permits or authorizations.
+
+         6.8      PUBLIC ANNOUNCEMENTS. No party will issue any press release or
+other statements to any third party (other than to their respective agents) with
+respect to the transactions  contemplated by this Agreement  without the express
+written  consent  of the other  parties,  except as may be advised by counsel is
+necessary under applicable securities laws.
+
+         6.9      PREPARATION OF PROXY STATEMENT.  Xtrana shall prepare and file
+with the SEC promptly after receiving the AIC Audited Financial  Statement,  the
+Proxy Statement with such assistance from AIC as may be required. If at any time
+prior to the  Effective  Time of the Merger any event shall occur that should be
+set forth in an amendment or a supplement to the Proxy  Statement,  Xtrana shall
+prepare and file with the SEC such amendment or supplement as soon thereafter as
+is reasonably practicable. Xtrana and AIC shall cooperate with each other in the
+preparation of the Proxy  Statement,  and Xtrana shall notify AIC of the receipt
+of any  comments  of the SEC with  respect  to the  Proxy  Statement  and of any
+requests by the SEC for any  amendment or supplement  thereto or for  additional
+information,  and shall  provide to AIC  promptly  copies of all  correspondence
+between the Xtrana or any  representative  of Xtrana and the SEC with respect to
+the  Proxy  Statement.   Xtrana  shall  give  AIC  and  its  counsel  reasonable
+opportunity  to review the Proxy  Statement  and all  responses  to requests for
+additional
+
+
+                                       36
+<PAGE>
+
+
+information by and replies to comments of the SEC before their being filed with,
+or  sent  to,  the  SEC.  Each of  Xtrana  and AIC  agrees  to use  commercially
+reasonable efforts, after consultation with the other parties hereto, to respond
+promptly to all such  comments of and requests by the SEC and to cause the Proxy
+Statement to be mailed to the holders of Xtrana Common Stock entitled to vote at
+the Xtrana Stockholders' Meeting at the earliest practicable time.
+
+         6.10     AMENDING  SCHEDULES.  From time to time prior to the  Closing,
+the Parties  shall  promptly  supplement  or amend AIC  Disclosure  Schedules or
+Xtrana Disclosure  Schedules,  as applicable,  hereto with respect to any matter
+arising after the date of this Agreement  which, if existing or occurring at the
+date of this  Agreement,  would have been required to have been set forth in AIC
+Disclosure  Schedules  or  Xtrana  Disclosure  Schedules,  as  applicable.  Such
+supplement   or   amendment   shall  have  the  effect  of  curing  any  related
+misrepresentation or breach of warranty made in connection with the transactions
+contemplated by this Agreement;  PROVIDED, HOWEVER, each Party shall have a five
+(5)  business  days  following  receipt  of  any  supplemented  or  amended  AIC
+Disclosure  Schedules  or Xtrana  Disclosure  Schedules,  as  applicable,  which
+supplement or amend the AIC Disclosure Schedules or Xtrana Disclosure Schedules,
+as  applicable,  in a material  respect to elect (a) to terminate this Agreement
+without  any further  liability  to any other  Party  hereunder,  or (b) in such
+non-amending  Party's  sole  discretion,  to  elect  to waive  such  breach  and
+consummate the transactions contemplated by this Agreement.
+
+         6.11     DEFERRED   COMPENSATION.   At  the  Closing,  AIC's  aggregate
+obligations for all deferred  compensation  shall be not more than $550,000 (the
+"DEFERRED  COMPENSATION").  A  schedule  of the  Deferred  Compensation  will be
+delivered  by AIC to  Xtrana  prior the  Closing  and will be  attached  to this
+Agreement as SCHEDULE 6.11. At or promptly following the Closing,  the Surviving
+Corporation  or  Xtrana  may  pay up to a  total  of  $100,000  of the  Deferred
+Compensation.  Following the Closing, the Surviving Corporation and Xtrana shall
+be  permitted  to pay up to a total  $30,000 of the  Deferred  Compensation  per
+month; PROVIDED,  HOWEVER, that no payment of any Deferred Compensation shall be
+permitted  to the extent such payment  would  result in Xtrana  having less than
+$1.7 million in cash following the payment.  Notwithstanding the foregoing,  all
+remaining  Deferred  Compensation  may be paid by the Surviving  Corporation  or
+Xtrana at any time after June 30, 2006.
+
+         6.12     EXPENSES.  Except as expressly provided in this Agreement, all
+costs  and  expenses   incurred  in  connection  with  this  Agreement  and  the
+transactions  contemplated  hereby  shall be paid by the  Party  incurring  such
+expenses.
+
+         6.13     NO SOLICITATION.  Except as previously agreed to in writing by
+the other Party,  neither AIC nor Xtrana nor any of their  respective  officers,
+directors,  agents,  representatives,  or advisors  shall  solicit,  initiate or
+encourage  or take  any  action  to  facilitate  the  submission  of  inquiries,
+proposals  or offers  from any  Person  relating  to any matter  concerning  any
+merger, consolidation,  business combination, acquisition of all or any material
+part of the assets,  business or stock,  recapitalization or similar transaction
+involving AIC or Xtrana,  respectively,  other than the transaction contemplated
+by this Agreement or any other  transaction  the  consummation of which would or
+could  reasonably be expected to impede,  interfere  with,  prevent or delay the
+Merger or which would or could be expected to dilute the  benefits to AIC of the
+transactions contemplated hereby. AIC or Xtrana will immediately cease and cause
+to be
+
+
+                                       37
+<PAGE>
+
+
+terminated  any  existing  activities,  discussions  and  negotiations  with any
+parties conducted heretofore with respect to any of the foregoing.
+
+         6.14     DILUTIVE FINANCINGS.  From the Effective Date and for a period
+of twelve (12) months  thereafter,  Xtrana  shall not,  directly or  indirectly,
+without the unanimous  approval of the Xtrana Board of Directors,  offer or sell
+any  shares of Xtrana  Common  Stock,  securities  convertible,  exercisable  or
+exchangeable  for Xtrana Common Stock or other equity  securities of Xtrana at a
+price per share of Xtrana  Common  Stock  issued  (or  issuable  upon  exercise,
+conversion  or  exchange  of such other  securities)  less than one  hundred ten
+percent  (110%) of the  Market  Price;  PROVIDED,  HOWEVER,  that the  foregoing
+restriction  shall not apply to shares of Xtrana  Common  Stock (or  options  to
+purchase such shares of Xtrana Common Stock) issued or issuable at not less than
+fair market value to officers,  employees,  or directors of, or consultants  to,
+Xtrana  pursuant to any stock  purchase or option plan or other  employee  stock
+bonus  arrangement  or other  similar  agreement  as approved by Xtrana Board of
+Directors  or  upon  exercise  or  conversion  of  any  securities  convertible,
+exercisable or exchangeable  for Xtrana Common Stock  outstanding on the Closing
+Date.
+
+         6.15     TAX  REPORTING.  Consistent  with the  intent  of the  parties
+hereto,  each of AIC and Xtrana  shall  treat,  and cause its  Affiliates  to so
+treat, the Merger as a  reorganization  under Section 368(a) with respect to all
+Tax Returns, to the extent consistent with law.
+
+         6.16     FURTHER  ASSURANCES.  Each of Xtrana and AIC shall,  and shall
+cause its  Subsidiaries  to,  execute such further  actions as may reasonably be
+requested by the other in order to consummate  the Merger and other  transaction
+contemplated  by this Agreement and to use  commercially  reasonable  efforts to
+take or cause to be taken all actions, and to do or cause to be done all things,
+necessary,  proper  or  advisable  under  applicable  laws  and  regulations  to
+consummated   and  make   effective  the  Merger  and  the  other   transactions
+contemplated  hereby,  including fully  cooperating  with the other in obtaining
+required  statutory  approvals and  authorization of any  Governmental  Entities
+necessary or advisable to consummate the transactions contemplated hereby.
+
+7.       CONDITIONS PRECEDENT.
+
+         7.1      CONDITIONS  TO EACH PARTY'S  OBLIGATION  TO EFFECT THE MERGER.
+The respective  obligations of each Party to effect the Merger is subject to the
+satisfaction  or  waiver  on or  prior  to the  Closing  Date  of the  following
+conditions:
+
+                  7.1.1    STOCKHOLDER   APPROVAL.   The  Xtrana   Stockholders'
+Approval shall have been obtained.
+
+                  7.1.2    FAIRNESS  HEARING.  Xtrana  shall have been  issued a
+permit  from the  California  Department  of  Corporations  with  respect to the
+issuance of Xtrana  Common  Stock  pursuant to this  Agreement,  and such permit
+shall be in full force and effect.
+
+                  7.1.3    NO   INJUNCTIONS   OR   RESTRAINTS.    No   temporary
+restraining order,  preliminary or permanent injunction or other order issued by
+any court of competent  jurisdiction  or other legal  restraint  or  prohibition
+preventing the consummation of the Merger shall be in effect.
+
+
+                                       38
+<PAGE>
+
+
+                  7.1.4    REVERSE  STOCK SPLIT.  Xtrana shall have effected the
+Reverse Stock Split.
+
+         7.2      CONDITIONS TO OBLIGATIONS OF XTRANA. The obligations of Xtrana
+to effect the Merger are further subject to the following conditions:
+
+                  7.2.1    REPRESENTATIONS  AND WARRANTIES.  The representations
+and warranties of AIC set forth in this  Agreement  shall be true and correct in
+all material  respects,  in each case as of the date of this Agreement and as of
+the Closing Date as though made on and as of the Closing Date, unless made as of
+another  date,  in which  case they shall be true and  correct  in all  material
+respects as of such date.
+
+                  7.2.2    PERFORMANCE  OF  OBLIGATIONS  OF AIC.  AIC shall have
+performed in all material  respects all obligations  required to be performed by
+it under this Agreement at or prior to the Closing Date.
+
+                  7.2.3    NO  MATERIAL  ADVERSE  CHANGE.  Since the date hereof
+there  must  have been no  event,  series  of  events or the lack of  occurrence
+thereof which,  singularly or in the aggregate,  could reasonably be expected to
+have a Material Adverse Effect on AIC.
+
+                  7.2.4    CONSENTS,  ETC. Xtrana shall have received  evidence,
+in form  and  substance  reasonably  satisfactory  to it,  that  such  licenses,
+permits,  consents,  approvals,  authorizations,  qualifications  and  orders of
+Governmental  Entities and other third parties as necessary in  connection  with
+the transactions contemplated hereby have been obtained.
+
+                  7.2.5    SHAREHOLDER APPROVAL.  The AIC Shareholders' Approval
+shall  have been  obtained  by a vote of  holders at least 90% of the issued and
+outstanding AIC Shares.
+
+                  7.2.6    NO  DISSENTERS.   No  AIC  Shareholders   shall  have
+dissented  to the  Merger  or be  entitled  to  exercise  dissenters'  rights in
+connection with the Merger.
+
+                  7.2.7    NO   LITIGATION.   There  shall  not  be  pending  or
+threatened by any Governmental  Entity any suit, action or proceeding (or by any
+other Person any suit, action or proceeding which has a reasonable likelihood of
+success)  challenging or seeking to restrain or prohibit the consummation of the
+Merger.
+
+                  7.2.8    CONVERSION  OF  CONVERTIBLE  NOTES.  All  convertible
+notes or other  convertible  debt  obligations  of AIC shall have been converted
+into equity securities of AIC prior the Closing.
+
+                  7.2.9    DEFERRED  COMPENSATION.  AIC's aggregate  obligations
+for all deferred compensation shall be not more than $550,000.
+
+                  7.2.10   LEGAL  OPINION.  Xtrana shall have received the legal
+opinion of counsel to AIC, in substantially the form of EXHIBIT F hereto.
+
+                  7.2.11   OFFICER'S CERTIFICATE.  Xtrana shall have received an
+officer's certificate,  substantially in the form of EXHIBIT D, duly executed on
+AIC's behalf.
+
+
+                                       39
+<PAGE>
+
+
+                  7.2.12   SECRETARY'S CERTIFICATE. Xtrana shall have received a
+Secretary's  certificate,  substantially in the form of EXHIBIT E, duly executed
+on AIC's behalf.
+
+                  7.2.13   TERMINATION OF AIC  SHAREHOLDER  AGREEMENTS.  Each of
+(a) that certain Alpha Innotech Corporation Amended and Restated Information and
+Registration  Rights  Agreement  among AIC and the  persons  listed on Exhibit A
+thereto and (b) that certain  Alpha  Innotech  Corporation  Amended and Restated
+Voting  Agreement  among AIC and the AIC  Shareholders  (in each  case,  as such
+agreements may be amended in connection  with the Note Conversion or otherwise),
+shall have been  terminated  or shall  automatically  terminate at the Effective
+Time.
+
+         7.3      CONDITIONS  TO  OBLIGATION  OF AIC. The  obligation  of AIC to
+effect the Merger is further subject to the following conditions:
+
+                  7.3.1    REPRESENTATIONS  AND WARRANTIES.  The representations
+and warranties of Xtrana set forth in this  Agreement  shall be true and correct
+in all material  respects,  in each case as of the date of this Agreement and as
+of the Closing Date as though made on and as of the Closing Date, unless made as
+of another  date,  in which case they shall be true and correct in all  material
+respects as of such date.
+
+                  7.3.2    PERFORMANCE OF  OBLIGATIONS  OF XTRANA.  Xtrana shall
+have performed in all material respects all obligations required to be performed
+by it under this Agreement at or prior to the Closing Date.
+
+                  7.3.3    NO  MATERIAL  ADVERSE  CHANGE.  Since the date hereof
+there  must  have been no  event,  series  of  events or the lack of  occurrence
+thereof which,  singularly or in the aggregate,  could reasonably be expected to
+have a Material Adverse Effect on Xtrana.
+
+                  7.3.4    CONSENTS,  ETC. AIC shall have received evidence,  in
+form and substance reasonably  satisfactory to it, that such licenses,  permits,
+consents, approvals,  authorizations,  qualifications and orders of Governmental
+Entities  and  other  third  parties  as  necessary  in   connection   with  the
+transactions contemplated hereby have been obtained.
+
+                  7.3.5    NO   LITIGATION.   There  shall  not  be  pending  or
+threatened by any Governmental  Entity any suit, action or proceeding (or by any
+other Person any suit, action or proceeding which has a reasonable likelihood of
+success)  challenging or seeking to restrain or prohibit the consummation of the
+Merger.
+
+                  7.3.6    RESIGNATIONS.  Xtrana  shall  deliver to AIC  written
+resignations  of the members of the Xtrana Board of Directors not  continuing as
+directors  following the Effective Time and of all of the officers of Xtrana, as
+required by SECTION 6.5.
+
+                  7.3.7    NAME CHANGE.  Xtrana shall have changed its corporate
+name, as of the Closing, to "Alpha Innotech Corp.".
+
+                  7.3.8    LEGAL  OPINION.  AIC shall  have  received  the legal
+opinion of counsel to Xtrana, in substantially the form of EXHIBIT I hereto.
+
+
+                                       40
+<PAGE>
+
+
+                  7.3.9    OFFICER'S  CERTIFICATE.  AIC shall have  received  an
+officer's certificate,  substantially in the form of EXHIBIT G, duly executed on
+Xtrana's behalf.
+
+                  7.3.10   SECRETARY'S  CERTIFICATE.  AIC shall have  received a
+Secretary's  certificate,  substantially in the form of EXHIBIT H, duly executed
+on Xtrana's behalf.
+
+                  7.3.11   CASH  AND  CASH   EQUIVALENTS.   The  cash  and  cash
+equivalents less current  liabilities of Xtrana on the Closing Date shall be not
+less  than  the  Minimum  Closing  Date  Cash  and AIC  shall  have  received  a
+certificate from Xtrana to such effect signed by a duly authorized officer.
+
+8.       TERMINATION.
+
+         8.1      TERMINATION. This Agreement may be terminated and abandoned at
+any time prior to the Effective Time:
+
+                  8.1.1    by mutual written consent of Xtrana and AIC;
+
+                  8.1.2    by either  Xtrana or AIC if any  Governmental  Entity
+shall  have  issued  an order,  decree  or  ruling  or taken  any  other  action
+permanently enjoining,  restraining or otherwise prohibiting the Merger and such
+order, decree, ruling or other action shall have become final and nonappealable;
+
+                  8.1.3    by either  Xtrana or AIC if the Merger shall not have
+been  consummated  on or before  July 31,  2005  (other  than as a result of the
+failure  of the Party  seeking  to  terminate  this  Agreement  to  perform  its
+obligations  under this  Agreement  required to be  performed at or prior to the
+Effective Time);
+
+                  8.1.4    by Xtrana,  if a Material  Adverse  Change shall have
+occurred relative to AIC;
+
+                  8.1.5    by  Xtrana,  if AIC  materially  breaches  any of its
+representations and warranties contained in this Agreement or willfully fails to
+perform in any  material  respect  any of its  material  obligations  under this
+Agreement,  which  failure  or breach is not cured  within  ten (10) days  after
+Xtrana has  notified  AIC of its or their  intent to  terminate  this  Agreement
+pursuant to this SECTION 8.1.5;
+
+                  8.1.6    by Xtrana, if the AIC Shareholders do not approve and
+adopt the Merger and the  transactions  contemplated by this Agreement under the
+CGCL;
+
+                  8.1.7    by AIC,  if a  Material  Adverse  Change  shall  have
+occurred relative to Xtrana;
+
+                  8.1.8    by AIC,  if  Xtrana  materially  breaches  any of its
+representations  and warranties  contained in this Agreement  willfully fails to
+perform in any  material  respect  any of its  material  obligations  under this
+Agreement,  in each case,  which  failure or breach is not cured within ten (10)
+days after AIC has  notified  Xtrana of its or their  intent to  terminate  this
+Agreement pursuant to this SECTION 8.1.7; and
+
+
+                                       41
+<PAGE>
+
+
+                  8.1.9    by AIC, if the  stockholders of Xtrana vote to reject
+the  approval and adoption of the Merger and the  transactions  contemplated  by
+this Agreement under the CGCL and the Delaware General Corporation Code.
+
+         8.2      TERMINATION FEE.
+
+                  8.2.1    If this  Agreement is terminated by: (i) AIC pursuant
+to SECTIONS  8.1.3,  8.1.7,  8.1.8 or 8.1.9 or (ii)  Xtrana  pursuant to SECTION
+8.1.3,  then Xtrana shall pay $100,000 to AIC by offset against the  obligations
+of AIC to Xtrana pursuant to the Promissory Note, in each case to compensate AIC
+for,  among other  things,  its  expenses  and  management  time in pursuing the
+transactions contemplated by this Agreement and for lost opportunity costs.
+
+                  8.2.2    If this Agreement is terminated for any reason,  then
+the Promissory  Note shall become due and payable on the date that is six months
+from the date of such termination and in accordance with its terms.
+
+         8.3      EFFECT OF  TERMINATION.  In the event of  termination  of this
+Agreement  by either AIC or Xtrana as provided in SECTION  8.1,  this  Agreement
+shall  forthwith  become  void and have no  effect,  without  any  liability  or
+obligation on the part of Xtrana or AIC,  other than the  provisions of the last
+sentence of SECTION 6.6.1, SECTION 8.2, SECTION 8.4, SECTION 10 and this SECTION
+8.3. Nothing contained in this Section shall relieve any Party for any breach of
+the  representations,  warranties,  covenants  or  agreements  set forth in this
+Agreement.
+
+         8.4      RETURN  OF  DOCUMENTS.  In the  event of  termination  of this
+Agreement  for any reason,  Xtrana and AIC will return to the other Party all of
+the other Party's documents, work papers, and other materials (including copies)
+relating to the  transactions  contemplated in this Agreement,  whether obtained
+before or after  execution  of this  Agreement.  Xtrana and AIC will not use any
+information  so obtained  from the other Party for any purpose and will take all
+reasonable steps to have such other Party's information kept confidential.
+
+9.       INDEMNIFICATION AND RELATED MATTERS.
+
+         9.1      SURVIVAL.  All  representations,   warranties,  covenants  and
+agreements  of  contained  in this  Agreement  or in any  certificate  delivered
+pursuant to this  Agreement  shall  survive  the Closing for a period  ending on
+March 31, 2006.
+
+         9.2      TIME  LIMITATIONS.  Neither  Xtrana  nor AIC  shall  have  any
+liability (for  indemnification or otherwise) with respect to any representation
+or  warranty,  or  agreement  to be  performed  and  complied  with prior to the
+Effective Time, unless on or before March 31, 2006 (the "CLAIMS DEADLINE"),  the
+indemnifying  party is given written notice of a claim with respect thereto,  in
+accordance with SECTION 9.5, specifying the factual basis therefor in reasonable
+detail to the extent then known by the party claiming indemnification hereunder.
+
+         9.3      INDEMNIFICATION.
+
+                  9.3.1    BY  XTRANA.  Subject  to SECTION  9.4,  Xtrana  shall
+indemnify and hold harmless the AIC Indemnified Parties, and shall reimburse the
+AIC  Indemnified  Parties  for,  any loss,  liability,  claim,  damage,  expense
+(including, but not limited to, costs of investigation
+
+
+                                       42
+<PAGE>
+
+
+and  defense  and   reasonable   attorneys'   fees)  or   diminution   of  value
+(collectively, "DAMAGES") arising from or in connection with (a) any inaccuracy,
+in any material respect,  in any of the representations and warranties of Xtrana
+in this Agreement or in any  certificate  delivered by Xtrana to AIC pursuant to
+this  Agreement,  (b) any failure by Xtrana to perform or comply in any material
+respect with any  agreement in this  Agreement,  (c) any claim by any Person for
+brokerage for finder's fees or  commissions  or similar  payments based upon any
+agreement  or  understanding  alleged to have been made by any such  Person with
+Xtrana (or any Person  acting on their  behalf)  in  connection  with any of the
+transactions  contemplated  by this Agreement,  or (d) any  litigation,  action,
+claim, proceeding or investigation by any third party relating to or arising out
+of the business or operations of Xtrana, or the actions of Xtrana,  its officers
+or directors or any holder of Xtrana capital stock prior to the Effective  Time,
+including  any Damages  relating  to or arising  out of a claim by ABI,  against
+Xtrana for indemnification pursuant to the Assignment Agreement to the extent is
+relates to a breach  occurring prior to the Effective Time;  PROVIDED,  HOWEVER,
+AIC shall not be  entitled to  indemnification  from  Xtrana  hereunder  for any
+Damages  arising from or in  connection  with a claim by ABI against  Xtrana for
+indemnification  under the  Assignment  Agreement  for a breach of any  covenant
+contained in the Assignment  Agreement occurring after the Effective Time or for
+recovery of any costs  incurred by ABI as a result of a any such  breach.  After
+the Effective Time the Xtrana Post-Merger  Representative shall act as the agent
+of the Xtrana  Indemnified  Parties for purposes of representing  and protecting
+their  interests under this SECTION 9. The Parties shall cooperate with Xtrana's
+Post-Merger  Representative in connection with the reasonable performance of its
+responsibilities hereunder, including by providing it with access to information
+about Xtrana and the Surviving  Corporation that is reasonably  necessary for it
+to determine whether a claims for indemnification hereunder should be made.
+
+                  9.3.2    BY AIC.  Subject to SECTION 9.4, AIC shall  indemnify
+and hold harmless the Xtrana Indemnified Parties, and shall reimburse the Xtrana
+Indemnified  Parties for, any Damages arising from or in connection with (a) any
+inaccuracy,  in  any  material  respect,  in  any  of  the  representations  and
+warranties of AIC in this  Agreement or in any  certificate  delivered by AIC to
+Xtrana pursuant to this  Agreement,  (b) any failure by AIC to perform or comply
+in any material  respect with any agreement in this Agreement,  (c) any claim by
+any Person for brokerage for finder's fees or  commissions  or similar  payments
+based upon any agreement or understanding  alleged to have been made by any such
+Person with AIC (or any Person acting on their behalf) in connection with any of
+the transactions contemplated by this Agreement, or (d) any litigation,  action,
+claim, proceeding or investigation by any third party relating to or arising out
+of the  business or  operations  of AIC,  or the actions of AIC its  officers or
+directors  or any  holder of AIC  capital  stock  prior to the  Effective  Time,
+including without limitation any Damages relating to or arising out of any claim
+for patent  infringement by or on behalf of Oxford Gene Technology  (relating to
+U.S. Patents Nos. 5,436,327,  6,054,270, 5,700,637 and 6,307,039),  Perkin-Elmer
+Life  Science  (relating  to U.S.  Patent  No.  4,874,492),  or  Clare  Chemical
+Research, Inc. (relating to U.S. Patents No. 6,512,236 and 6,198,107). After the
+Effective Time the AIC Post-Merger  Representative shall act as the agent of the
+AIC  Indemnified  Parties for  purposes of  representing  and  protecting  their
+interests  under  this  SECTION  9.  The  Parties  shall  cooperate  with  AIC's
+Post-Merger  Representative in connection with the reasonable performance of its
+responsibilities hereunder, including by providing it with access to information
+about Xtrana or the Surviving Corporation that is reasonably necessary for it to
+determine whether a claims for indemnification hereunder should be made.
+
+
+                                       43
+<PAGE>
+
+
+         9.4      LIMITATION  ON CLAIMS.  No claims shall be payable  under this
+SECTION 9 with  respect to any Damages  unless and until the  aggregate  Damages
+owing  under this  SECTION 9 in respect of any  Indemnitee  (as  defined  below)
+exceed   $100,000,   in  which  case  the   Indemnitee   shall  be  entitled  to
+indemnification  from the  indemnifying  party for all Damages without regard to
+such threshold.  As used herein,  an  "INDEMNITEE"  means one or more of the AIC
+Indemnified  Parties or the Xtrana  Indemnified  Parties to the extent that such
+parties  seek  indemnification  from the other  pursuant to this  SECTION 9. The
+Xtrana Indemnified Parties' sole and exclusive remedy for indemnification claims
+against  AIC under  this  Agreement  shall  consist  of its right to set off any
+Damages against the Holdback  Shares and the AIC  Indemnified  Parties' sole and
+exclusive remedy for indemnification  claims against Xtrana under this Agreement
+shall consist of their right to receive additional shares of Xtrana Common Stock
+out of the AIC Indemnification  Shares, in either case pursuant to the procedure
+described in SECTION 9.5 hereof.  No claims shall be payable with respect to any
+representation  or warranty  unless  such claim is  asserted  in writing  within
+twelve (12)  months  after the Closing  Date (the  "INDEMNIFICATION  TERMINATION
+PERIOD"). For the purposes of this SECTION 9.4 a month shall be deemed to elapse
+at 5:00 p.m.  California  time on the day of the month on which the Closing Date
+occurred.  (For  example,  if the Effective  Time occurs on March 15, 2005,  the
+sixth month would be deemed to elapse at 5:00 p.m.  California time on September
+15, 2005.) All Holdback Shares not then subject to indemnification  claims under
+SECTION  9.3.2  hereof  shall be released to the AIC's  pre-Merger  shareholders
+pursuant  to the  terms  of the  Escrow  Agreement  upon the  expiration  of the
+Indemnification  Termination  Period.  All AIC  Indemnification  Shares not then
+subject to  indemnification  claims under SECTION 9.3.1 hereof shall be released
+from escrow and permanently  cancelled pursuant to the Escrow Agreement upon the
+expiration of the Indemnification Termination Period.
+
+         9.5      COMPENSATION FOR INDEMNIFIED LOSSES.
+
+                  9.5.1    NOTICE OF CLAIM.  Losses  for which  Indemnitees  are
+entitled to  indemnification  under this SECTION 9 shall,  after the Merger,  be
+reimbursed as determined  pursuant to this SECTION 9.5. To initiate a claim, the
+Indemnitee   shall  deliver  a  notice  of  claim  to  the  Xtrana   Post-Merger
+Representative or the AIC Post-Merger Representative,  as applicable. The notice
+shall include a description in reasonable detail of the amount and nature of any
+Damages that the  Indemnitee  claims have been  suffered and the amount  thereof
+sought to be  indemnified.  If the party  from which  indemnification  is sought
+decides to dispute the claim, it shall, within thirty (30) days after receipt of
+the notice or claim,  give  counter-notice  to the  Indemnitee  setting forth in
+reasonable detail the basis for disputing the claim. If, within thirty (30) days
+after the giving of a  counter-notice  by party form  which  indemnification  is
+sought, the parties have not reached agreement as to the  indemnification  claim
+in  question,  then the claim for  indemnification  shall be submitted to and be
+settled by arbitration as provided below. If the AIC Post-Merger  Representative
+submitted the claim, and no  counter-notice  is given, the AIC Indemnified Party
+shall receive such number of AIC Indemnification  Shares that when multiplied by
+the Market  Price is equal to the  amount of the  award,  up to a maximum of the
+number of AIC  Indemnification  Shares not  previously  issued  pursuant to this
+SECTION 9.5. If Xtrana's Post-Merger  Representative submitted the claim, and no
+counter-notice  is given,  the number of Holdback  Shares  shall be  permanently
+reduced by that number of shares,  that when  multiplied  by the Market Price is
+equal to the amount of the award, up to a maximum of the
+
+
+                                       44
+<PAGE>
+
+
+number of Holdback Shares not previously  cancelled and removed from escrow as a
+result of indemnification awards pursuant to this SECTION 9.
+
+                  9.5.2    INDEMNIFICATION  AWARDS.  If an AIC Indemnified Party
+is entitled to an indemnification award, such party shall receive such number of
+AIC Indemnification  Shares that when multiplied by the Market Price is equal to
+the  amount of the award,  up to a maximum of the number of AIC  Indemnification
+Shares  not  previously  issued  pursuant  to  this  SECTION  9.  If  an  Xtrana
+Indemnified Party is entitled to an indemnification  award, it shall permanently
+reduce the number of Holdback  Shares by that number of  Holdback  Shares,  that
+when multiplied by the Market Price is equal to the amount of the award, up to a
+maximum of the number of Holdback  Shares not  previously  cancelled and removed
+from escrow as a result of indemnification awards pursuant to this SECTION 9.
+
+         9.6      SOLE REMEDY.  Other than claims based on fraud or for specific
+performance,  injunctive or other equitable  relief,  the indemnity  provided in
+this SECTION 9 shall be the sole and exclusive  remedy of the parties  hereto at
+law or equity for any matter covered by SECTION 9.3.
+
+         9.7      INDEMNIFICATION  OF POST-MERGER  REPRESENTATIVES.  Each of the
+Post-Merger Representatives shall be indemnified and held harmless by Xtrana and
+the Surviving  Corporation for all actions taken in connection with this SECTION
+9 to the fullest extent permitted by applicable law.
+
+10.      GENERAL PROVISIONS.
+
+         10.1     POST-MERGER REPRESENTATIVES.
+
+                  10.1.1   AIC POST-MERGER  REPRESENTATIVE.  By approval of this
+Agreement,   each  of  the  AIC   Shareholders   appoints  the  AIC  Post-Merger
+Representative as the true and lawful agent and  attorney-in-fact of such Person
+with full  powers of  substitution  to act in the name,  place and stead of such
+Person with respect to the  performance on behalf of such Person under terms and
+provisions of this Agreement and the Escrow  Agreement,  as the same may be from
+time to time amended,  and to do or refrain from doing all such further acts and
+things, and to execute all such documents, as the AIC Post-Merger Representative
+shall deem necessary or appropriate in connection  with any of the  transactions
+contemplated under this Agreement and the Escrow Agreement.
+
+                  10.1.2   XTRANA  POST-MERGER  REPRESENTATIVE.  By  approval of
+this Agreement,  each of the stockholders of Xtrana approving this Agreement and
+the Merger appoints the Xtrana Post-Merger Representative as the true and lawful
+agent and  attorney-in-fact  of such Person with full powers of  substitution to
+act in the name,  place and stead of such Person with respect to the performance
+on behalf of such Person under terms and  provisions  of this  Agreement and the
+Escrow  Agreement,  as the same may be from time to time  amended,  and to do or
+refrain  from doing all such  further  acts and things,  and to execute all such
+documents,  as the Xtrana  Post-Merger  Representative  shall deem  necessary or
+appropriate in connection with any of the transactions  contemplated  under this
+Agreement and the Escrow Agreement.
+
+
+                                       45
+<PAGE>
+
+
+                  10.1.3   RELIANCE ON EXPERTS; LIMITATION OF LIABILITY. Each of
+the  Post-Merger  Representative  shall act for the AIC  Shareholders  or Xtrana
+stockholders,  as applicable,  on all of the matters set forth in this Agreement
+and the Escrow Agreement in the manner such Post-Merger  Representative believes
+to be in the best interest of such  Persons;  PROVIDED,  HOWEVER,  that (i) such
+Post-Merger  Representative  shall be entitled to rely on the advice of counsel,
+public  accountants or other  independent  experts  experienced in the matter at
+issue,  and any error in judgment  or other act or omission of such  Post-Merger
+Representative  pursuant  to such  advice  will  not  subject  such  Post-Merger
+Representative  to  liability  to any such  Person,  and (ii)  such  Post-Merger
+Representative  shall  not be  responsible  to any such  Person  for any loss or
+damage  any  such  Person  may  suffer  by  reason  of the  performance  by such
+Post-Merger  Representative  of such Person's duties under this Agreement or the
+Escrow Agreement,  other than loss or damage arising from willful  misconduct in
+the performance of such Post-Merger Representative's duties under this Agreement
+or the Escrow Agreement.
+
+         10.2     AMENDMENT.  This  Agreement  may not be  amended  except by an
+instrument in writing signed on behalf of each of the Parties.
+
+         10.3     EXTENSION; WAIVER. The Parties may (a) extend the time for the
+performance of any of the  obligations  or other acts of the other Parties,  (b)
+waive any inaccuracies in the representations  and warranties  contained in this
+Agreement or in any document delivered pursuant to this Agreement,  or (c) waive
+compliance with any of the agreements or conditions contained in this Agreement.
+Any  agreement  on the part of a Party to any such  extension or waiver shall be
+valid only if set forth in an  instrument  in  writing  signed on behalf of such
+Party. The failure of any Party to assert any of its rights under this Agreement
+or otherwise shall not constitute a waiver of such rights.
+
+         10.4     NOTICES.  All  notices,  requests,  claims,  demands and other
+communications  under this  Agreement  shall be in  writing  and shall be deemed
+given  if  delivered  Personally  or  sent by  facsimile,  electronic  mail,  or
+overnight courier  (providing proof of delivery) to the parties at the following
+addresses  (or at such other  address for a Party as shall be  specified by like
+notice):
+
+                  if to AIC, to:
+
+                  Alpha Innotech Corporation
+                  2401 Merced St.
+                  San Leandro, CA 94577
+                  Attn:  Chief Executive Officer
+                  Fax: 510-483-3227
+
+                  with a copy to (which shall not constitute notice):
+
+                  Heller Ehrman White & McAuliffe LLP
+                  4350 La Jolla Village Drive, 7th Floor
+                  San Diego, CA 92122
+                  Attn: Stephen Ferruolo, Esq.
+                  Fax: (858) 450-8499
+
+
+                                       46
+<PAGE>
+
+
+                  if to Xtrana or MergerCo, to:
+
+                  Xtrana, Inc.
+                  c/o James H. Chamberlain, CEO
+                  733 Spruce Meadow Place
+                  Thousand Oaks, CA 91362
+                  Fax:  (805) 494-0832
+
+                  with a copy to (which shall not constitute notice):
+
+                  Stubbs Alderton & Markiles, LLP
+                  15821 Ventura Blvd., Suite 525
+                  Encino, CA 91436
+                  Attn: Scott Alderton, Esq.
+                  Fax:  (818) 444-4520
+
+         10.5     INTERPRETATION.  When a reference is made in this Agreement to
+a Section,  Exhibit or Schedule,  such reference shall be to a Section of, or an
+Exhibit or Schedule to, this Agreement unless otherwise indicated.  The headings
+contained in this Agreement are for reference purposes only and shall not affect
+in any way the meaning or interpretation  of this Agreement.  Whenever the words
+"include",  "includes" or "including" are used in this Agreement,  they shall be
+deemed to be followed by the words "without limitation".
+
+         10.6     ENTIRE AGREEMENT; NO THIRD-PARTY BENEFICIARIES. This Agreement
+and the other agreements referred to herein constitute the entire agreement, and
+supersede all prior agreements and understandings,  both written and oral, among
+the parties  with  respect to the subject  matter of this  Agreement.  Except as
+expressly  provided  herein,  this  Agreement is not intended to confer upon any
+Person other than the parties any rights or remedies.
+
+         10.7     GOVERNING  LAW.  This  Agreement  shall be  governed  by,  and
+construed in accordance  with, the laws of the State of Delaware,  regardless of
+the laws that might otherwise govern under applicable principles of conflicts of
+laws thereof.
+
+         10.8     ASSIGNMENT.  Neither  this  Agreement  nor any of the  rights,
+interests or obligations under this Agreement shall be assigned,  in whole or in
+part,  by operation of law or otherwise by any of the parties  without the prior
+written consent of the other parties.  Subject to the preceding  sentence,  this
+Agreement will be binding upon,  inure to the benefit of, and be enforceable by,
+the parties and their respective successors and assigns.
+
+         10.9     ENFORCEMENT.  The parties  agree that  irreparable  damage may
+occur  in the  event  that  any of the  provisions  of this  Agreement  were not
+performed in accordance with their specific terms or were otherwise breached. It
+is  accordingly  agreed that the parties shall be entitled to seek an injunction
+or injunctions to prevent breaches of this Agreement and to enforce specifically
+the terms and provisions of this Agreement in any federal or state court located
+in the State of  Delaware,  this being in addition to any other  remedy to which
+they are entitled at law or in equity.  In addition,  each of the parties hereto
+(a) consents to submit itself to the personal  jurisdiction of any court sitting
+in the State of Delaware in the event any dispute arises out of this
+
+
+                                       47
+<PAGE>
+
+
+Agreement  or any of the  transactions  contemplated  by this  Agreement  to the
+extent such courts would have subject matter  jurisdiction  with respect to such
+dispute and (b) agrees that it will not attempt to deny or defeat such  personal
+jurisdiction or venue by motion or other request for leave from any such court.
+
+         10.10    SEVERABILITY.  Whenever possible, each provision or portion of
+any  provision of this  Agreement  will be  interpreted  in such manner as to be
+effective and valid under  applicable law but if any provision or portion of any
+provision of this Agreement is held to be invalid,  illegal or  unenforceable in
+any  respect  under  any  applicable  law  or  rule  in any  jurisdiction,  such
+invalidity,  illegality or unenforceability  will not affect any other provision
+or portion of any provision in such  jurisdiction,  and this  Agreement  will be
+reformed,  construed  and  enforced  in such  jurisdiction  as if such  invalid,
+illegal or  unenforceable  provision or portion of any  provision had never been
+contained herein.
+
+         10.11    SCHEDULES  AND  EXHIBITS.  The  Schedules and Exhibits to this
+Agreement are hereby incorporated into this Agreement and are hereby made a part
+of this Agreement as if set out in full in this Agreement.
+
+         10.12    COUNTERPARTS.  This  Agreement  may be executed in one or more
+identical  counterparts,  all of  which  shall  be  considered  one and the same
+instrument and shall become effective when one or more such  counterparts  shall
+have been  executed by each of the parties and  delivered to the other  parties.
+Delivery of a copy of this Agreement bearing an original  signature by facsimile
+transmission, by electronic mail in "portable document format" (".pdf") form, or
+by any other  electronic  means  intended to preserve the  original  graphic and
+pictorial  appearance  of a  document,  will have the same  effect  as  physical
+delivery of the paper document bearing the original signature.
+
+                            [SIGNATURE PAGE FOLLOWS.]
+
+
+                                       48
+<PAGE>
+
+
+         IN WITNESS  WHEREOF,  the undersigned have caused their duly authorized
+officers to execute this Agreement as of the date first above written.
+
+
+
+                                  ALPHA INNOTECH CORPORATION
+
+
+                                  By:      /S/ HASEEB CHAUDHRY
+                                      ----------------------------------------
+                                           Name:    Haseeb Chaudhry
+                                           Title:   Chief Executive Officer
+
+
+                                  XTRANA, INC.
+
+
+                                  By:      /S/ JAMES H. CHAMBERLAIN
+                                      -------------------------------
+                                           Name:    James H. Chamberlain
+                                           Title:   Chief Executive Officer
+
+
+                                  AIC MERGER CORPORATION
+
+
+                                  By:      /S/ JAMES H. CHAMBERLAIN
+                                      -------------------------------
+                                           Name:    James H. Chamberlain
+                                           Title:   President
+
+
+                                       S-1
+<PAGE>
+
+
+                        INDEX OF SCHEDULES AND EXHIBITS
+
+
+SCHEDULES:
+
+AIC Disclosure Schedule
+Xtrana Disclosure Schedule
+Schedule 6.11:      Deferred Compensation
+
+EXHIBITS:
+
+Exhibit A:        Secured Promissory Note
+Exhibit B:        Form of Escrow Agreement
+Exhibit C:        Form of Certificate of Merger
+Exhibit D:        Form of AIC Officer's Certificate
+Exhibit E:        Form of AIC Secretary's Certificate
+Exhibit F:        Form of Opinion of AIC Counsel
+Exhibit G:        Form of Xtrana Officer's Certificate
+Exhibit H:        Form of Xtrana Secretary's Certificate
+Exhibit I:        Form of Opinion of Xtrana Counsel
+Exhibit J:        Articles of Incorporation of Surviving Corporation
+
+
+
+         ALL OF THE SCHEDULES,  EXHIBITS AND OTHER ATTACHMENTS HAVE BEEN OMITTED
+PURSUANT TO ITEM 601(B)(2) OF REGULATION  S-B. THE  REGISTRANT  HEREBY AGREES TO
+FURNISH  SUPPLEMENTALLY  A COPY OF ANY OMITTED  ATTACHMENT TO THE SECURITIES AND
+EXCHANGE COMMISSION UPON REQUEST.
+
+</TEXT>
+</DOCUMENT>

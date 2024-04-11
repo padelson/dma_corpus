@@ -1,0 +1,1392 @@
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>3
+<FILENAME>f8kex10_1.txt
+<DESCRIPTION>EXHIBIT 10.1
+<TEXT>
+
+                            ASSET PURCHASE AGREEMENT
+
+                                MTN HOLDINGS INC.
+
+
+
+                                        &
+
+
+
+                         DVIR & STOLER ENTERPRISES, INC.
+
+
+
+
+
+                           RAICE PAYKIN & KRIEG & LLP
+
+                               185 MADISON AVENUE
+
+                                   TENTH FLOOR
+
+                            NEW YORK, NEW YORK 10016
+
+
+
+<PAGE>
+
+
+         THIS ASSET PURCHASE AGREEMENT made the day of August, 2001, by and
+         among MTN Holdings Inc., a Nevada corporation, with its offices at 131
+         West 35th Street (5th floor) New York, New York 10016 (hereinafter
+         referred to as "MTNO") and Dvir & Stoler Enterprises, Inc., with its
+         offices at 31 West 47th Street (6th floor) New York, New York 10036
+         (hereinafter referred to as "D&SE").
+
+                                    RECITALS
+
+D&SE is engaged in the business of first level refining of small pieces and
+particles of gold, silver and platinum alloys resulting from the manufacture of
+jewelry in order to remove foreign metals and other impurities (the "Business").
+The Business does not include the refining of such precious metals into their
+pure form. D&SE wishes to sell to MTNO and MTNO wishes to buy, substantially all
+of D&SE's assets related to the Business and to assume only liabilities
+specified in this Agreement.
+
+MTNO intends to form a subsidiary corporation which will acquire the assets to
+be sold to MTNO and to assume the obligations of MTNO under this Agreement and
+such documents specified herein.
+
+NOW, THEREFORE, in consideration of the mutual promises, covenants and
+undertakings herein contained, the parties agree as follows.
+
+1. DEFINITIONS. As used in this Agreement, the following terms shall have the
+meanings set forth below.
+
+     (A) "ACQUISITION SUBSIDIARY" shall mean the corporation to be established
+by MTNO to acquire the Assets as contemplated by this Agreement.
+
+     (B) "ASSETS" shall include the Equipment, the Customer and Vendor Lists,
+and the Other Property together with any and all other assets and property used
+in or relating to the Business, including without limitation service and
+equipment rental agreements, provided, however, that the term "Assets" does not
+include accounts receivable.
+
+     (C) "ASSUMED LIABILITIES" shall mean only those liabilities of D&SE listed
+in Exhibit 1(c). Under no circumstances shall the Assumed Liabilities include
+unfunded pension liabilities, taxes payable by D&SE, tort liabilities, product
+warranty liabilities, criminal claims, pending or threatened litigation, and any
+other liabilities of any kind, whether disclosed or undisclosed.
+
+     (D) "BUSINESS KNOW-HOW" shall mean all the technical information,
+processes, and trade secrets, if any, in possession of DS&E relating to the
+Business, including without limitation, to the extent they exist, methods of
+manufacture, laboratory journals, manufacturing, engineering and other drawings,
+design and engineering specifications, hardware, software and similar items
+recording or evidencing such information.
+
+     (E) "CUSTOMER AND VENDOR LISTS" shall mean all names, addresses and all
+information in the possession of D&SE relating to customers and vendors for of
+D&SE in respect of the Business or planned for the Business.
+
+                                       2
+<PAGE>
+
+     (F) "DEPOSIT ESCROW AGREEMENT" shall mean an escrow agreement substantially
+in the form attached hereto as Exhibit 1(f).
+
+     (G) "DEPOSIT ESCROW FUND" shall mean the amount to be deposited in
+accordance with Section 3(a)(i) plus all interest earned thereon.
+
+     (H) "ENVIRONMENTAL LAW" shall mean any law or regulation that requires or
+relates to:
+
+          (i) advising appropriate authorities, employees, or the public of
+intended or actual releases of pollutants or hazardous substances or materials,
+violations of discharge limits, or other prohibitions and of the commencements
+of activities, such as resource extraction or construction, that could have
+significant impact on the environment;
+
+          (ii) preventing or reducing to acceptable levels the release of
+pollutants or hazardous substances or materials into the environment;
+
+          (iii) reducing the quantities, preventing the release, or minimizing
+the hazardous characteristics of wastes that are generated;
+
+          (iv) assuring that products are designed, formulated, packaged, and
+used so that they do not present unreasonable risks to human health or the
+environment when used or disposed of;
+
+          (v) protecting resources, species, or ecological amenities;
+
+          (vi) reducing to acceptable levels the risks inherent in the
+transportation of hazardous substances, pollutants, oil, or other potentially
+harmful substances;
+
+          (vii) cleaning up pollutants that have been released, preventing the
+threat of release, or paying the costs of such clean up or prevention; or
+
+          (viii) making responsible parties pay private parties, or groups of
+them, for damages done to their health or the environment, or permitting
+self-appointed representatives of the public interest to recover for injuries
+done to public assets.
+
+     (I) "EQUIPMENT" shall mean all machinery and equipment used by D&SE in the
+operation of the Business. The Equipment is listed in Exhibit 1(i).
+
+     (J) "ESCROW AGENT" shall mean D&SE's attorneys as escrow agent under the
+Deposit Escrow Agreement.
+
+     (K) "FORCE MAJEURE" shall mean (i) war, whether declared or undeclared,
+revolution or act of public enemy, (ii) riot or civil commotion, (iii) strike or
+lockout or stoppage or restraint of labor, (iv) act of God, (v) fire, flood,
+storm, tempest or washaway, (vi) act or restraint of any government or
+semi-governmental authority; or (vii) any other cause not reasonably within the
+affected party's control.
+
+     (L) "MATERIAL" shall mean involving a loss, damage, liability, potential
+liability or exposure, exceeding, individually or in the aggregate, U.S.
+$10,000.00. Notwithstanding the preceding sentence, losses and exposures arising
+solely from changes in the price of gold, market conditions or the inability to
+collect accounts receivable shall not be deemed Material regardless of the
+dollar amount involved, and that the loss of old accounts and/or their
+replacement by new
+
+                                       3
+<PAGE>
+
+accounts, if any, in the ordinary course of business shall not be deemed
+Material unless the amounts involved are not reasonably consistent with prior
+experience in the Business.
+
+     (M) "OTHER PROPERTIES" shall mean:
+
+          (i) all real or personal properties leased by D&SE for use in the
+operation of the Business;
+
+          (ii) supply contracts, purchase contracts, service contracts and
+confidentiality agreements to which D&SE is a party and are related or connected
+with the Business;
+
+          (iii) intangible assets (including intellectual property), including
+but not limited to pending or issued trademarks, brand names, service marks,
+trade secrets, know-how, pending or issued patents, confidential information,
+copyrights, domain names, franchises and licenses and authorizations relating to
+the Business; and
+
+          (iv) all rights and claims of D&SE relating to the Business, including
+claims under insurance policies for damages or losses suffered by D&SE or for
+damage to equipment, inventory or the properties to the extent that such damage
+to equipment, inventory or properties has occurred between signing and closing
+and has not been repaired or replaced prior to the closing or for which there
+has not been an offset against the purchase price.
+
+2. SALE AND PURCHASE OF ASSETS. Upon the terms and subject to the conditions
+hereinafter set forth, at the Closing, D&SE shall sell to MTNO, and MTNO shall
+purchase, the Assets at the price set forth in Section 3 and MTNO will assume
+the Assumed Liabilities. MTNO may designate a subsidiary to purchase and take
+title to the Assets under this Agreement provided MTNO shall first deliver to
+D&SE a duly executed assignment of this Agreement containing an assumption by
+such assignee of all obligations and liabilities of MTNO hereunder, all in form
+suitable for recording. Upon such assignment, the assignee shall succeed to the
+rights of MTNO hereunder and under any agreement or instrument theretofore or
+thereafter delivered pursuant hereto and shall assume and thereafter promptly
+pay and perform all of the obligations of MTNO hereunder, including without
+limitation's, all of the obligations of MTNO under this Agreement, the Deposit
+Escrow Agreement, the Note and the security agreement referred to in Section
+10(c)(iv). No such designation of a nominee, however, shall relieve or discharge
+MTNO of direct or primary liability under any of the foregoing.
+
+3. PURCHASE PRICE, PAYMENT, SECURITY AND DEFAULT.
+
+     (A) PURCHASE PRICE. The purchase price shall be One Million Dollars
+($1,000,000), which shall be payable as follows.
+
+          (i) TWENTY-FIVE THOUSAND DOLLARS ($25,000) simultaneous with the
+execution of this Agreement by check subject to collection, which sum shall be
+deposited with the Escrow Agent, to be held in accordance with the terms of the
+Deposit Escrow Agreement.
+
+          (ii) NINE HUNDRED SEVENTY-FIVE THOUSAND DOLLARS ($975,000) at Closing
+as follows:
+
+     (A) FOUR HUNDRED SEVENTY-FIVE THOUSAND DOLLARS ($475,000) by wire transfer
+of certified or bank check payable to the order of D & SE; and
+
+                                       4
+<PAGE>
+
+     (B) FIVE HUNDRED THOUSAND DOLLARS ($500,000) with interest thereon at the
+rate of seven and one-half (71/2%) percent per annum by the payment of
+$22,499.80 one month after the date of Closing and monthly thereafter until the
+sum of $500,000 with interest has been paid. All sums paid on account of such
+sum shall first be credited to the payment of interest and the balance, if any,
+to the payment of principal, all as set forth in the amortization schedule
+annexed to Exhibit 3(a)(ii)(B). As Evidence of such debt, MTNO shall execute and
+deliver to D&SE at Closing, its promissory note in form similar to Exhibit
+3(a)(ii)(B) hereof ("Note").
+
+     (B) ALLOCATION OF PURCHASE PRICE. The purchase price shall be allocated as
+set forth in Exhibit 3(b). MTNO shall pay at closing any sales tax which may be
+applicable to the Equipment.
+
+     (C) SECURITY FOR PAYMENT OF THE NOTE. As security for the timely and
+faithful payment of the installments due under the Note, at Closing, MTNO shall
+deliver a duly executed security agreement in form identical to Exhibit 3(c)
+hereto sufficient to create a first security interest and superior lien (when
+perfected) in favor of D&SE with respect to the Assets, accounts receivable
+created by MTNO or its assignee on and after the Closing with respect to the
+Business and inventory. In connection therewith, MTNO shall execute any and all
+documents reasonably necessary to create a first perfected security interest in
+the Collateral, as such term is defined in the security agreement, including but
+not limited to UCC-1 Filing Statements.
+
+     (D) EVENTS OF DEFAULT. The following shall constitute a default hereunder:
+
+          (i) There shall be any default in the payment of any installment of
+principal and interest under the Note when due and payable, whether at maturity,
+by acceleration, or otherwise;
+
+          (ii) Any representation or warranty made in, or any financial
+statement or other information furnished by MTNO pursuant to, this Agreement
+shall prove to be false in any Material respect;
+
+          (iii) MTNO or any guarantor of MTNO's obligations under the Note,
+Security Agreement or this Agreement shall: 1. make an assignment for the
+benefit of creditors or commence any proceeding seeking similar relief, whether
+judicial or otherwise; 2. consent to or apply for the appointment of a trustee,
+interim trustee, custodian or receiver for all or a major portion of its
+property; 3. commence any action or proceeding under any other federal or state
+bankruptcy, insolvency, composition, debtor relief, reorganization or other
+similar law, or suffer the commencement of such a proceeding against any of them
+(unless dismissed or stayed within 60 days) or suffer the entry of an order of
+insolvency or reorganization against any of them; 5. suffer the entry of a final
+judgment for the payment of money in a Material amount against any of them
+unless discharged within 30 days of its entry, or if later the expiration
+without appeal of the period within which an appeal may be taken; or 6. The
+dissolution of MTNO, whether voluntary or involuntary, or 7. the issuance of any
+attachment, garnishment, execution, federal tax levy, or other process or
+seizure against any Material amount of their property; and
+
+                                       5
+<PAGE>
+
+          (iv) Any material default in performance or compliance with any
+provision(s) of the Security Agreement.
+
+In the event of a default as heretofore set forth, then the Note, at option of
+D&SE, shall immediately become due and payable by acceleration without notice or
+demand. D&SE shall have all rights as are provided by law and as may be set
+forth in the Note, Security Agreement or herein. Nothing herein contained shall
+be construed as a modification or limitation of any rights which D&SE may have
+in the event of a default.
+
+The provisions of this Section 4 shall survive the Closing and shall remain in
+full force and effect until all obligations of MTNO to D&SE have been satisfied
+and paid in full.
+
+4. REPRESENTATIONS AND WARRANTIES OF D&SE. D&SE represents and warrants to MTNO
+that the statements contained in this Section 4 are correct and complete as of
+the date of this Agreement and will be correct and complete as of the time of
+Closing (as though made then and as though the Closing Date were substituted for
+the date of this Agreement throughout this Section).
+
+     (A) ORGANIZATION AND QUALIFICATION. D&SE is a corporation duly
+incorporated, validly existing and in good standing under the laws of the State
+of New York. It has no subsidiaries.
+
+     (B) DUE AUTHORIZATION. All necessary corporate proceedings have been had to
+authorize the execution and delivery by D&SE of this Agreement and the
+consummation by D&SE of the transactions contemplated hereby.
+
+     (C) LEGAL REQUIREMENTS. No notices, filings with the authorities, permits
+or authorizations are required to permit the consummation of the transfers and
+transactions contemplated by this Agreement.
+
+     (D) POWER TO PERFORM. D&SE has full corporate power and authority to enter
+into this Agreement and to carry out the transactions contemplated hereby.
+
+     (E) NO BREACH. The execution and delivery by D&SE of this Agreement and the
+consummation of the transactions contemplated hereby,
+
+          (i) do not violate any provisions of the certificate of incorporation
+or bylaws of D&SE ; and
+
+          (ii) will not violate, be in conflict with, result in a breach of, or
+constitute (with due notice or lapse of time or both) a default under, any of
+the terms or provisions of any agreement or instrument to which D&SE is a party
+or by which D&SE or any of its property may be bound or affected.
+
+     (F) ENFORCEABILITY. This Agreement constitutes the legal, valid, and
+binding obligation of D&SE, enforceable against D&SE in accordance with its
+terms.
+
+     (G) ALL NECESSARY ASSETS. The Assets include all tangible and intangible
+assets required for the conduct of the Business as conducted during the
+preceding 12 months.
+
+     (H) FINANCIAL STATEMENTS. D&SE's Balance Sheet dated as of _____, 2001, is
+true and correct in all material respects, has been prepared in accordance with
+generally accepted accounting principles consistently applied and presents
+fairly D&SE's financial position as of, and for the periods, indicated therein.
+
+                                       6
+<PAGE>
+
+     (I) ABSENCE OF CERTAIN CHANGES. Since the date of the aforementioned
+Balance Sheet referred to above there has not been:
+
+          (i) any sale, lease, abandonment or other disposition by D&SE of any
+Assets relating to the Business other than in the ordinary course of business;
+
+          (ii) any Material damage, loss (whether or not covered by insurance)
+affecting such Assets;
+
+          (iii) any change in the compensation of any employee except for normal
+year end raises in the ordinary course of D&SE's Business, or any hiring of any
+employee;
+
+          (iv) any Material adverse change in the condition (financial or other)
+of the Business other than as the result of then current market conditions; or
+
+          (v) any Material adverse changes in the value of the Assets other than
+depreciation in accordance with generally accepted accounting principles or
+increase in its liabilities (excluding in each case changes resulting solely
+from increases or decreases in the market price of gold) other than in the
+ordinary course of business, or
+
+          (vi) any other transaction by D&SE not in the ordinary course of its
+business.
+
+     (J) LITIGATION. There are no actions, suits, arbitrations or other
+proceedings or investigations pending or threatened against or affecting D&SE
+which would, if determined adversely to D&SE, affect the Business or MTNO's
+title to the Assets, or increase the Assumed Liabilities or create any mortgage,
+lien, charge or encumbrance thereon. D&SE is not subject to any order, writ,
+injunction or decree of any court or any federal, State, municipal or other
+governmental department, commission, board, bureau, agency or instrumentality
+applicable to the Business or Assets.
+
+     (K) CUSTOMER AND VENDOR LISTS. D&SE is the sole owner of the Customer and
+Vendor Lists free and clear of any claim thereto by any third party and of all
+mortgages, liens, charges or encumbrances whatsoever.
+
+     (L) OWNERSHIP OF ASSETS. Except as specifically stated on an Exhibit 4(l)
+to this Agreement, the Assets owned by D&SE and being conveyed hereunder shall
+on the closing date be free and clear of all mortgages, liens, charges or
+encumbrances whatsoever.
+
+     (M) CONDITION OF EQUIPMENT. The equipment is in operating condition and
+capable of performing the tasks required of it in the Business as presently
+operated,
+
+     (N) PATENTS, TRADEMARKS, TRADE NAMES. D&SE has no patents or patent
+applications, and has not received notice of any claims by a third party
+suggesting that its conduct of the Business to date has infringed any patents
+held by a third party. D&SE has not received notice of any claims by a third
+party suggesting that D&SE's use of any trade marks or trade names would
+infringe the rights of any third party.
+
+     (O) BUSINESS KNOW-HOW. The Business Know-How is owned by DS&E free and
+clear of all mortgages, liens, charges or encumbrances whatsoever. DS&E is free
+to transfer the Business Know-How to MTNO and has no obligation to pay any
+royalty to any third party with respect thereto. DS&E has not granted any
+license or other permission with respect to the use of such Know-How and DS&E
+has not received notice of any claims by a third party suggesting that DS&E's
+use of the Business Know-How would infringe the rights of any third party.
+
+                                       7
+<PAGE>
+
+     (P) REAL PROPERTY. D&SE does not own any real property and is not a lessor,
+sublessor or sublessee under any lease of real property. Exhibit 4(p) lists and
+describes all real property leased to D&SE. D&SE has delivered to MTNO correct
+and complete copies of the leases listed in Exhibit 4(p), receipt of which is
+hereby acknowledged. With respect to each lease listed in Exhibit 4(p):
+
+          (i) the lease is legal, valid, binding, enforceable, and in full force
+and effect;
+
+          (ii) the lease will continue to be legal, valid, binding, enforceable,
+and in full force and effect on identical terms following the consummation of
+the transactions contemplated hereby;
+
+          (iii) no party to the lease is in breach or default, and no event has
+occurred which, with notice or lapse of time, would constitute a breach or
+default or permit termination, modification, or acceleration thereunder;
+
+          (iv) no party to the lease has repudiated any provision thereof;
+
+          (v) there are no disputes, oral agreements, or forbearance programs in
+effect as to the lease ;
+
+          (vi) D&SE has not assigned, transferred, conveyed, mortgaged, deeded
+in trust, or encumbered any interest in the leasehold;
+
+          (vii) all facilities leased thereunder have received all approvals of
+governmental authorities (including licenses and permits) required in connection
+with the operation thereof and have been operated and maintained in accordance
+with applicable laws, rules, and regulations;
+
+          (viii) all facilities leased thereunder are supplied with utilities
+and other services necessary for the operation of such facilities as the
+Business is currently operated;
+
+          (ix) all necessary approvals and consents for the transfer and
+assignment of the lease to MTNO have been obtained and security deposits
+thereunder, if any, are being assigned to MTNO by the Assignment and Assumption
+Agreement referred to herein and will remain in place for MTNO's benefit,
+subject, however, to the provisions of the lease.
+
+     (Q) ENVIRONMENTAL MATTERS.
+
+          (i) D&SE is, and at all times has been, in full compliance with, and
+has not been and is not in violation of or liable under, any Environmental Law.
+D&SE does not have any basis to expect, and has not received, any actual or
+threatened order, notice, or other communication from (i) any governmental body
+or private citizen acting in the public interest, or (ii) the current or prior
+owner or operator of any facilities, of any actual or potential violation or
+failure to comply with any environmental law, or of any actual or threatened
+obligation to undertake or bear the cost of any environmental, health, and
+safety liabilities with respect to any of the facilities or any other properties
+or assets (whether real, personal, or mixed) in which D&SE has had an interest,
+or with respect to any property or facility at or to which hazardous materials
+were generated, manufactured, refined, transferred, imported, used, or processed
+by D&SE, or any other person for whose conduct D&SE is or may be held
+responsible, or from which hazardous materials have been transported, treated,
+stored, handled, transferred, disposed, recycled, or received.
+
+                                       8
+<PAGE>
+
+          (ii) There are no pending or, threatened claims, encumbrances, or
+other restrictions of any nature, resulting from any environmental, health, and
+safety liabilities or arising under or pursuant to any Environmental Law, with
+respect to or affecting any properties and assets (whether real, personal, or
+mixed) in which D&SE has or had an interest.
+
+          (iii) D&SE has not received, any citation, directive, inquiry, notice,
+order, summons, warning, or other communication that relates to hazardous
+activity, hazardous materials, or any alleged, actual, or potential violation or
+failure to comply with any Environmental Law, or of any alleged, actual, or
+potential obligation to undertake or bear the cost of any environmental, health,
+and safety liabilities with respect to any properties or assets (whether real,
+personal, or mixed) in which D&SE had an interest, or with respect to any
+property or facility.
+
+          (iv) D&SE has no environmental, health, and safety liabilities with
+respect to any properties and assets (whether real, personal, or mixed) in which
+D&SE (or any predecessor), has or had an interest, or at any property
+geologically or hydrologically adjoining any such other property or assets.
+
+          (v) There are no hazardous materials present on or in the environment
+at D&SE's principal place of business. D&SE has not permitted or conducted, and
+is not aware of, any hazardous activity conducted with respect to any properties
+or assets (whether real, personal, or mixed) in which D&SE has or had an
+interest except in full compliance with all applicable Environmental Laws.
+
+          (vi) DSE does not have any, nor has it ever had any, release or,
+threat of release, of any hazardous materials at or from any locations where any
+hazardous materials were generated, manufactured, refined, transferred,
+produced, imported, used, or processed from or by any properties and assets
+(whether real, personal, or mixed) in which D&SE has or had an interest.
+
+     (R) EMPLOYEE CONTRACTS. D&SE is not a party to any collective bargaining or
+other contract with any of its employees. D&SE is not aware of any existing or
+threatened strike, labor action or demand for recognition against D&SE by any
+labor organization or of any pending or threatened claim under any sexual
+harassment, equal employment opportunity or occupational safety and health law.
+D&SE does not maintain any bonus, pension, profit sharing, deferred
+compensation, retirement, stock purchase, stock option, severance,
+hospitalization, insurance or other plan or arrangement providing benefits to
+any present or former employee or his dependents, beneficiaries or heirs. All
+employees are at will employees and may be terminated at any time with or
+without cause. Exhibit 4(r) constitutes a complete and true list of each
+employee of D&SE, their position, their compensation, their years with D&SE,
+their accrued vacation as of the date of the list and D&SE's custom or law as to
+severance pay and continued health coverage.
+
+     (S) EXECUTORY CONTRACTS. The only executory contracts of D&SE being assumed
+by MTNO are listed on Exhibit 4(s) and all have been entered into in the
+ordinary course of business, were the result of arms length negotiations and
+were deemed fair and equitable when entered into and are so deemed by D&SE's
+management as of the Closing.
+
+     (T) PENSION, BONUS, PROFIT SHARING & RETIREMENT PLANS. D&SE has no pension,
+bonus, profit-sharing or retirement plans for officers or employees, and is not
+required to
+
+                                       9
+<PAGE>
+
+contribute to any multi-employer pension plan. It is understood and agreed that
+no unfunded pension liabilities are being assumed by MTNO hereunder.
+
+     (U) TAXES. Except as set forth in Exhibit 4(u), as of the Closing date,
+D&SE will not be liable for any taxes or assessments attributable to the
+operation of the Business (including without limitation of the foregoing, income
+taxes, excise, unemployment, social security, occupation, franchise, real or
+personal property, sales or use taxes, import duties or charges or any penalties
+or interest with respect thereof). Except for taxes for the current fiscal year
+from operations, and for taxes which may result from the transaction
+contemplated by this Agreement, all taxes which are or will become due and
+payable have been paid or will be paid when due or at such time as the due date
+for payment thereof may be extended, and all returns and reports required to be
+filed in connection therewith will be filed with the appropriate taxing
+authorities. All taxes and other assessments and levies which D&SE is required
+by law to withhold or to collect have been duly withheld and collected and have
+been paid over to the proper governmental authorities or are not yet payable and
+are or will be held by D&SE for such payment.
+
+     (V) COMPLIANCE WITH LAW. Except as set forth in Exhibit 4(v), D&SE's
+conduct of the Business has fully complied with all laws, ordinances, rulings
+and regulations of all constituted governmental authorities having jurisdiction
+with respect to the conduct of such Business, and no violations have been noted
+in, or issued by, any governmental authority in consequence of the conduct of
+such Business.
+
+     (W) PURCHASE ORDERS AND CONTRACTS. D&SE is not aware of any facts which
+would indicate that any of the purchase orders and contracts to be assumed by
+MTNO at the Closing will result in a loss upon completion.
+
+     (X) BROKERS. D&SE is obligated to pay a commission to TBC Business Brokers
+but that commission is the obligation of D&SE, and not MTNO, and shall be paid
+by D&SE pursuant to separate agreement. No other finders' fees or broker's
+commissions are payable connection with the transactions contemplated by this
+Agreement by reason of any action taken by DS&E.
+
+     (Y) DISCLOSURE. No representation or warranty by D&SE in this Agreement or
+any statement furnished or to be furnished by D&SE pursuant hereto, or in
+conjunction with the transactions contemplated hereby, contains or will contain
+any untrue or misleading statement of a fact or omits or will omit to state a
+fact necessary to make the statements so made or furnished not misleading.
+
+5. REPRESENTATIONS AND WARRANTIES OF MTNO. MTNO represents and warrants to D&SE
+that the statements contained in this Section 5 are correct and complete as of
+the date of this Agreement and will be correct and complete as of the Closing
+date (as though made then and as though the closing date were substituted for
+the date of this Agreement throughout this Section).
+
+     (A) ORGANIZATION; QUALIFICATION. MTNO is a corporation duly incorporated,
+validly existing and in good standing under the laws of the state of its
+incorporation. Any assignee of MTNO as permitted by this Agreement shall execute
+a separate document representing the state of its incorporation and the address
+of the principal place of its office.
+
+     (B) DUE AUTHORIZATION. All necessary corporate proceedings have been had to
+authorize the execution and delivery by MTNO of this Agreement and the
+consummation by
+
+                                       10
+<PAGE>
+
+MTNO of the transactions contemplated hereby, including but not limited to the
+delivery of the Note, Security Agreement and documents executed in connection
+therewith and such deliveries have in fact been authorized.
+
+     (C) POWER TO PERFORM. MTNO has full corporate power and authority to enter
+into this Agreement and to carry out the transactions contemplated hereby.
+
+     (D) NO BREACH. The execution and delivery by MTNO of this Agreement and the
+consummation of the transactions contemplated hereby,
+
+          (i) do not violate any provisions of the certificate of incorporation
+or bylaws of MTNO, and
+
+          (ii) will not violate, be in conflict with, result in a breach of, or
+constitute (with due notice or lapse of time or both) a default under, any of
+the terms or provisions of any agreement or instrument to which MTNO is a party
+or by which MTNO or any of its property may be bound or affected.
+
+     (E) ENFORCEABILITY. This Agreement constitutes the legal, valid, and
+binding obligation of MTNO, enforceable against MTNO in accordance with its
+terms.
+
+     (F) FINANCIAL STATEMENTS. MTNO has heretofore furnished D&SE with copies of
+its Annual Report on Form 10-K for its most recent fiscal year, together with
+all filings made by MTNO with the Securities and Exchange Commission subsequent
+to the date of that Report. The financial statements included in such reports
+have been prepared in accordance with generally accepted accounting principles
+consistently applied and present fairly MTNO's financial position and results of
+operations as of, and for the periods, indicated therein, subject, in the case
+of unaudited financial statements included therein to normal year-end
+adjustments.
+
+     (G) DISCLOSURE. No representation or warranty by MTNO in this Agreement or
+any statement furnished or to be furnished by MTNO pursuant hereto, or in
+conjunction with the transactions contemplated hereby, contains or will contain
+any untrue or misleading statement of a material fact or omits or will omit to
+state a material fact necessary to make the statements so made or furnished not
+misleading.
+
+     (H) BROKERS. MTNO is obligated to pay a commission to Fred Shakeridge in
+connection with the transaction, and shall be paid by MTNO pursuant to separate
+agreement. No other finders' fees or broker's commissions are payable connection
+with the transactions contemplated by this Agreement by reason of any action
+taken by MTNO.
+
+In the event of an assignment of this Agreement, representations and warranties
+of Sections 5(a) through 5(e) shall be deemed applicable and binding upon and
+with respect to such assignee.
+
+6. COVENANTS OF D&SE. D&SE covenants as follows.
+
+     (A) ASSISTANCE AND COOPERATION. As promptly as practicable after the date
+of this Agreement, D&SE will make all filings required by law and obtain such
+approvals and consents or waivers as may be necessary to be made or obtained by
+them in order to consummate the contemplated transactions. Between the date of
+this Agreement and the closing date, D&SE will (i) cooperate with MTNO with
+respect to all filings that MTNO elects to make or is required by legal
+requirements to make in connection with the contemplated transactions, and (ii)
+cooperate with MTNO in obtaining all consents required from any person to effect
+the transactions
+
+                                       11
+<PAGE>
+
+contemplated hereunder (including taking all actions requested by MTNO to cause
+early termination of any applicable waiting period).
+
+     (B) ACCESS AND INVESTIGATION. Between the date of this Agreement and the
+closing date, D&SE will, and will cause its representatives to, (a) afford MTNO
+and its representatives (collectively, "MTNO's Advisors") full and free access
+to D&SE's personnel, properties (including subsurface and environmental
+compliance testing), contracts, books and records, and other documents and (b)
+furnish MTNO and MTNO's Advisors with copies of all such contracts, books and
+records, other documents and data as MTNO may reasonably request, and (c)
+furnish MTNO and MTNO's Advisors such additional financial, operating, and other
+data and information as MTNO may reasonably request. Such access shall be during
+normal business hours and shall not unreasonably interfere with the operation of
+the Business.
+
+     (C) OPERATION OF THE BUSINESS. Between the date of this Agreement and the
+closing date, D&SE will:
+
+          (i) operate the Business only in the ordinary course consistent with
+past practice and procedure and use its best efforts to preserve intact the
+current business organization, keep available the services of the current
+officers, employees, and agents, and maintain the relations and good will with
+suppliers, customers, landlords, creditors, employees, agents, and others having
+business relationships with it;
+
+          (ii) confer with MTNO concerning operational matters of a Material
+nature; and
+
+          (iii) otherwise report periodically to MTNO concerning the status of
+its Business, and finances.
+
+     (D) NOTIFICATION. Between the date of this Agreement and the closing date,
+D&SE will promptly notify MTNO in writing if D&SE becomes aware of any fact or
+condition that causes or constitutes a breach of any of D&SE's representations
+and warranties as of the date of this Agreement, or if D&SE becomes aware of the
+occurrence after the date of this Agreement of any fact or condition that would
+(except as expressly contemplated by this Agreement) cause or constitute a
+breach of any such representation or warranty had such representation or
+warranty been made as of the time of occurrence or discovery of such fact or
+condition. D&SE will promptly deliver to MTNO a letter specifying such change.
+During the same period D&SE will promptly notify MTNO of the occurrence of any
+breach of any covenant of D&SE in this Section 6 or of the occurrence of any
+event that may make the satisfaction of the conditions in Section 8 impossible
+or unlikely.
+
+     (E) NO NEGOTIATION. Until such time, if any, as this Agreement is
+terminated pursuant to Section 10, D&SE will not, alone or through its
+representatives, directly or indirectly solicit, initiate, or encourage any
+inquiries or proposals from any person relating to any transaction involving the
+sale of the Business or Assets or any of its capital stock, or any merger,
+consolidation, business combination, or similar transaction.
+
+     (F) TRANSFER OF KNOW-HOW. For a period of not less than 12 months after the
+Closing, D&SE will make available to MTNO during normal business hours and at
+the MTNO business location at which the Business is conducted, the services of
+D&SE to teach the Know-how to one or more persons designated by MTNO. The
+parties anticipate that the services will be provided pursuant to a separate
+consulting agreement in the form of Exhibit 6(f).
+
+                                       12
+<PAGE>
+
+7. COVENANTS OF MTNO. MTNO covenants as follows.
+
+     (A) REQUIRED APPROVALS. As promptly as practicable after the date of this
+Agreement, MTNO will make all filings required to be made by it in order to
+consummate the contemplated transactions. Between the date of this Agreement and
+the closing date, MTNO will, and will: (i) cooperate with D&SE with respect to
+all filings that D&SE elects to make or is required by legal requirements to
+make in connection with the contemplated transactions, and (ii) cooperate with
+D&SE in obtaining all consents.
+
+     (B) NOTIFICATION. Between the date of this Agreement and the Closing, MTNO
+will promptly notify D&SE in writing if MTNO becomes aware of any fact or
+condition that causes or constitutes a breach of any of MTNO's representations
+and warranties as of the date of this Agreement, or if MTNO becomes aware of the
+occurrence after the date of this Agreement of any fact or condition that would
+(except as expressly contemplated by this Agreement) cause or constitute a
+breach of any such representation or warranty had such representation or
+warranty been made as of the time of occurrence or discovery of such fact or
+condition. In such event MTNO will promptly deliver to D&SE a letter specifying
+such change. During the same period, MTNO will promptly notify D&SE of the
+occurrence of any breach of any covenant of MTNO in this Section or of the
+occurrence of any event that may make the satisfaction of the conditions in
+Section 8 impossible or unlikely.
+
+8. CONDITIONS PRECEDENT TO MTNO'S OBLIGATIONS. The obligations of MTNO hereunder
+shall be subject to the satisfaction, on or before the date of closing, of the
+following conditions precedent or concurrent.
+
+     (A) TRUTH OF REPRESENTATIONS. Each of the representations and warranties of
+D&SE contained in this Agreement shall be true and correct at and as of the time
+of closing date as if made as of such time and the due diligence was completed
+to MTNO's satisfaction.
+
+     (B) CONSENT TO ASSIGNMENT OF LEASE, EXECUTORY CONTRACTS BEING ASSUMED AND
+OTHER ASSETS THE TRANSFER OF WHICH REQUIRES CONSENT. D&SE shall have obtained,
+and delivered copies to MTNO, of all consents required for the assignment of its
+lease, the executory contracts being assumed by MTNO and all other contracts or
+instruments for which consent is required for the completion of the transactions
+contemplated by this Agreement.
+
+     (C) DELIVERY OF DOCUMENTS. All documents required to be delivered by D&SE
+at or prior to the Closing shall have been delivered.
+
+     (D) NO DAMAGE TO ASSETS OR MATERIAL ADVERSE CHANGE IN BUSINESS. No
+materially adverse change in the condition of the Assets (other than ordinary
+wear and tear) or in the Business of D&SE shall have occurred from the date of
+this Agreement until the Closing.
+
+     (E) NON-COMPETITION AGREEMENT. Robert Stoler, Isaac Dvir D&SE and MTNO
+shall have entered into a separate indemnity and non-competition agreement in
+form identical to Exhibit 8(e) hereto.
+
+     (F) OPINION OF COUNSEL. MTNO shall have received an opinion dated the date
+of Closing of Messrs. Skolnick, Hochberg & Bernfeld, P.C., counsel for D&SE in
+the form of Exhibit 8(f).
+
+                                       13
+<PAGE>
+
+9. CONDITIONS PRECEDENT TO D&SE'S OBLIGATIONS. The obligations of D&SE hereunder
+shall be subject to the satisfaction, on or before the date of closing, of the
+following conditions precedent or concurrent.
+
+     (A) TRUTH OF REPRESENTATIONS. Each of the representations and warranties of
+MTNO contained in this Agreement shall be true and correct at and as of the time
+of closing date as if made as of such time.
+
+     (B) DELIVERY OF DOCUMENTS. All documents required to be delivered by MTNO
+at or prior to the closing shall have been delivered.
+
+     (C) OPINION OF COUNSEL. D&SE shall have received an opinion dated the date
+of closing of Raice Paykin & Krieg LLP, counsel for MTNO in the form of Exhibit
+9(c)
+
+10. THE CLOSING. The Closing hereunder shall take place at 10:00 A.M. Eastern
+Standard Time at the offices of Raice Paykin & Krieg LLP or at such other time
+or place as the parties may mutually agree, on or before the expiration of sixty
+(60) days from the date hereof. At the Closing:
+
+     (A) DOCUMENTS TO BE EXECUTED BY THE PARTIES. DS&E and MTNO shall execute
+and deliver:
+
+          (i) An Assignment and Assumption Agreement in the form of Exhibit
+10(a)(i);
+
+          (ii) A Deposit Escrow Agreement in form identical to Exhibit 1(f); and
+
+          (iii) the Consulting Agreement referred to in Section 6(f)
+
+     (B) DOCUMENTS TO BE DELIVERED BY D&SE. D&SE shall deliver to MTNO:
+
+          (i) certified copies of resolutions of D&SE's Board of Directors
+authorizing execution and delivery of this Agreement and consummation of the
+transactions contemplated hereby;
+
+          (ii) to the extent not previously delivered, the Customer and Vendor
+Lists;
+
+          (iii) the opinion referred to in Section 8(f);
+
+          (iv) consent(s) of landlord(s);
+
+          (v) evidence reasonably satisfactory to MTNO that all claims of D&SE's
+present employees employed in the Business for salary, accrued vacation, sick
+leave and other employee benefits accrued through the closing date have been
+paid; and
+
+          (vi) an indemnity and non-competition agreement referred to in Section
+8(e), duly executed by each of the shareholders of D&SE.
+
+     (C) DOCUMENTS TO BE DELIVERED BY MTNO TO D&SE. MTNO will deliver to D&SE:
+
+          (i) certified copies of resolutions of MTNO's Board of Directors
+authorizing execution and delivery of this Agreement and consummation of the
+transactions contemplated hereby;
+
+          (ii) the Note
+
+                                       14
+<PAGE>
+
+          (iii) the opinion referred to in Section 9(c);
+
+          (iv) the Security Agreement and UCC-1 Financing Statements;
+
+          (v) if MTNO's rights under this Agreement have been assigned to
+another corporation, a guarantee (in substantially the form heretofore agreed by
+the parties) of the obligations of that corporation.
+
+     (D) ADJUSTMENT FOR CERTAIN CLAIMS. At the closing the parties shall adjust
+for:
+
+          (i) prepaid or unpaid rent, fuel and utility charges; and
+
+          (ii) unearned prepaid premiums on insurance policies to be assigned to
+MTNO.
+
+11. POST-CLOSING TRANSACTIONS.
+
+     (A) FURTHER INSTRUMENTS. After the Closing, on the reasonable request of
+either party, the other shall do, execute, acknowledge and deliver all such
+further acts, assurances, deeds, assignments, transfers, conveyances, powers of
+attorney and other instruments and documents as may be required to grant,
+convey, assign and deliver to and vest in MTNO, and protect its interest in and
+use of, the Assets and Business purchased hereunder as may be appropriate, and
+otherwise to carry out the transactions contemplated by this Agreement.
+
+     (B) ACCOUNTS RECEIVABLE AND ACCOUNTS PAYABLE. D&SE shall retain title to
+all accounts receivable arising prior to the Closing. To the extent such
+accounts receivable are not otherwise collected by D&SE, MTNO may collect such
+accounts receivable for the account of D&SE and shall remit the proceeds of such
+collection to D&SE promptly upon receipt. At all relevant times MTNO shall act
+as a trustee with respect to the collection of such accounts receivable for the
+benefit of D&SE and shall account to D&SE upon demand for such collections. All
+funds received by MTNO on behalf of D&SE shall be deemed trust funds and D&SE's
+property. To the extent that MTNO receives any payment on account (whether in
+the form of cash or gold) from any customer having an unpaid account balance
+with DS&E, such payment shall first be applied to the unpaid account balance
+owed to DS&E by such customer regardless of any contrary direction from the
+customer as to the account to which payment is to be credited. All accounts
+receivable in favor of MTNO arising after the Closing, regardless of the name in
+which the applicable purchase order was placed, shall belong to MTNO, subject to
+the priority of payment heretofore set forth. All accounts payable in respect of
+items received prior to the Closing shall be the responsibility of D&SE; all
+accounts payable in respect of items received after the Closing shall be the
+responsibility of MTNO, regardless of the name appearing on the invoice.
+
+12. INDEMNIFICATION; REMEDIES.
+
+     (A) SURVIVAL; RIGHT TO INDEMNIFICATION NOT AFFECTED BY KNOWLEDGE. All
+representations, warranties, covenants, and obligations in this Agreement, and
+any other certificate or document delivered pursuant to this Agreement will
+survive for a period of two years from the date of the Closing. The right to
+indemnification, payment of Damages (as defined below) or other remedy based on
+such representations, warranties, covenants, and obligations will not be
+affected by any investigation conducted with respect to, or any knowledge
+acquired (or capable of being acquired) at any time, whether before or after the
+execution and delivery of this Agreement or the date of Closing, with respect to
+the accuracy or inaccuracy of
+
+                                       15
+<PAGE>
+
+or compliance with, any such representation, warranty, covenant, or obligation.
+The waiver of any condition based on the accuracy of any representation or
+warranty, or on the performance of or compliance with any covenant or
+obligation, will not affect the right to indemnification, payment of damages, or
+other remedy based on such representations, warranties, covenants, and
+obligations.
+
+     (B) INDEMNIFICATION AND PAYMENT OF DAMAGES BY D&SE. D&SE will indemnify and
+hold harmless MTNO, and its representatives, stockholders, controlling persons,
+and affiliates (collectively, the "Indemnified Persons") for, and will pay to
+the Indemnified Persons the amount of, any loss, liability, claim, damage
+(including incidental and consequential damages), expense (including costs of
+investigation and defense and reasonable attorneys' fees) or diminution of
+value, whether or not involving a third-party claim (collectively, "Damages"),
+arising, directly or indirectly, from or in connection with:
+
+          (i) any breach of any representation or warranty made by D&SE in this
+Agreement or any certificate or document delivered by D&SE or the D&SE
+Shareholders pursuant to this Agreement;
+
+          (ii) any material breach by D&SE or the D&SE Shareholders of any
+covenant or obligation of D&SE or the D&SE Shareholders in this Agreement;
+
+          (iii) any claim by any person for brokerage or finder's fees or
+commissions or similar payments based upon any agreement or understanding
+alleged to have been made by such person with D&SE (or any person acting on its
+behalf) in connection with any of the transactions contemplated by this
+Agreement other than as set forth herein and only in the event such claiming
+party prevails; and
+
+          (iv) any claim arising out of a transaction by DS&E prior to the
+Closing Date.
+
+The remedies provided in this Section 12(b) will not be exclusive of or limit
+any other remedies that may be available to MTNO or the other indemnified
+persons.
+
+     (C) INDEMNIFICATION AND PAYMENT OF DAMAGES BY MTNO. MTNO will indemnify and
+hold harmless D&SE, and will pay to D&SE the amount of any Damages arising,
+directly or indirectly, from or in connection with
+
+          (i) any breach of any representation or warranty made by MTNO in this
+Agreement or in any certificate delivered by MTNO pursuant to this Agreement,
+
+          (ii) any material breach by MTNO of any covenant or obligation of MTNO
+in this Agreement, or
+
+          (iii) any claim by any person for brokerage or finder's fees or
+commissions or similar payments based upon any agreement or understanding
+alleged to have been made by such person with MTNO (or any person acting on its
+behalf) in connection with any of the transactions contemplated by this
+Agreement other than as set forth herein and only in the event such claiming
+party prevails;.
+
+     (D) RIGHT OF SET-OFF. Upon notice to D&SE specifying in reasonable detail
+the basis for such set-off and the amount thereof, MTNO, subject to the further
+provisions hereof, may set off any amount to which it may be entitled under this
+Section 12 against amounts otherwise payable under the Note. If D&SE contests
+the basis for such set-off or the amount thereof, it shall, not later than the
+close of business on the fifth day after its receipt of MTNO's notice,
+
+                                       16
+<PAGE>
+
+notify MTNO of its objection in writing, specifying the amount, if any, which it
+believes MTNO to be entitled to set off against the Note. In the event of any
+such objection, MTNO shall be entitled to withhold from the first payments
+thereafter due on the Note the amount specified by DS&E in its notice, provided
+however, that MTNO shall immediately pay to the Escrow Agent the amount entitled
+to be withheld or disputed, it being the intention of the parties to require
+MTNO to pay disputed amounts in escrow until a resolution of any and all claims
+relating thereto. After paying such amount to the Escrow Agent, all payments
+thereafter due on the Note shall be paid in accordance with the terms thereof.
+The escrow agents shall hold such amounts in escrow subject to the terms of the
+Escrow Deposit Agreement.
+
+THE FAILURE OF MTNO TO DEPOSIT SUCH DISPUTED AMOUNTS WITH THE ESCROW AGENT SHALL
+BE DEEMED A MATERIAL DEFAULT HEREUNDER AND UNDER THE NOTE.
+
+     (E) PROCEDURE FOR INDEMNIFICATION--THIRD PARTY CLAIMS.
+
+          (i) Promptly after receipt by an indemnified party under Section 12(b)
+or 12(c), of notice of the commencement of any proceeding against it, such
+indemnified party will, if a claim is to be made against an indemnifying party
+under such Section, give notice to the indemnifying party of the commencement of
+such claim, but the failure to notify the indemnifying party will not relieve
+the indemnifying party of any liability that it may have to any indemnified
+party, except to the extent that the indemnifying party demonstrates that the
+defense of such action is prejudiced by the indemnifying party's failure to give
+such notice.
+
+          (ii) If any proceeding referred to in Section 12(e) is brought against
+an indemnified party and it gives notice to the indemnifying party of the
+commencement of or making of such proceeding, the indemnifying party will,
+unless the claim involves taxes, be entitled to participate in such proceeding
+and, to the extent that it wishes (unless (i) the indemnifying party is also a
+party to such proceeding and the indemnified party determines in good faith that
+joint representation would be inappropriate, or (ii) the indemnifying party
+fails to provide reasonable assurance to the indemnified party of its financial
+capacity to defend such proceeding and provide indemnification with respect to
+such proceeding), to assume the defense of such proceeding with counsel
+reasonably satisfactory to the indemnified party and, after notice from the
+indemnifying party to the indemnified party of its election to assume the
+defense of such proceeding, the indemnifying party will not, as long as it
+diligently conducts such defense, be liable to the indemnified party under this
+Section 12 for any fees of other counsel or any other expenses with respect to
+the defense of such proceeding, in each case subsequently incurred by the
+indemnified party in connection with the defense of such proceeding, other than
+reasonable costs of investigation. The parties agree that the firms of Raice
+Paykin & Krieg LLP and Skolnick, Hochberg & Bernfeld, P.C. are among those
+satisfactory for purposes of this Section. If the indemnifying party assumes the
+defense of a proceeding, (i) unless the indemnifying party has, prior to
+assuming such defense, notified the indemnified party that that defense is being
+undertaken without prejudice to any later claim that the claims made in the
+proceeding are not within the scope of, or subject to, indemnification, it will
+be conclusively established for purposes of this Agreement that the claims made
+in that proceeding are within the scope of and subject to indemnification; (ii)
+no compromise or settlement of such claims may be effected by the indemnifying
+party without the indemnified party's consent unless (A) there is no finding or
+admission of any violation of legal requirements or any violation of the rights
+of any person and no effect on any other claims that may be made against the
+indemnified party, and (B) the sole relief provided is monetary damages that are
+paid in full by the indemnifying party; and (iii) the
+
+                                       17
+<PAGE>
+
+indemnified party will have no liability with respect to any compromise or
+settlement of such claims effected without its consent. If notice is given to an
+indemnifying party of the commencement of any proceeding and the indemnifying
+party does not, within ten days after the indemnified party's notice is given,
+give notice to the indemnified party of its election to assume the defense of
+such proceeding, the indemnifying party will be bound by any determination made
+in such proceeding or any compromise or settlement effected by the indemnified
+party.
+
+          (iii) Notwithstanding the foregoing, if an indemnified party
+determines in good faith that there is a reasonable probability that a
+proceeding may adversely affect it other than as a result of monetary damages
+for which it would be entitled to indemnification under this Agreement, the
+indemnified party may, by notice to the indemnifying party, assume the exclusive
+right to defend, compromise, or settle such proceeding, but the indemnifying
+party will not be bound by any determination of a proceeding so defended or any
+compromise or settlement effected without its written consent (which may not be
+unreasonably withheld).
+
+          (iv) D&SE consents to the non-exclusive jurisdiction of any court in
+which a proceeding is brought against any indemnified person for purposes of any
+claim that an indemnified person may have under this Agreement with respect to
+such proceeding or the matters alleged therein.
+
+     (F) PROCEDURE FOR INDEMNIFICATION--OTHER CLAIMS. A claim for
+indemnification for any matter not involving a third-party claim may be asserted
+by notice to the party from whom indemnification is sought.
+
+13.               TERMINATION.
+
+     (A) TERMINATION EVENTS. This Agreement may, by notice given prior to or at
+the Closing, be terminated:
+
+          (i) by either MTNO or D&SE if the other party has committed a material
+breach of any provision of this Agreement and such breach has not been waived;
+
+          (ii) by MTNO if any of the conditions in Section 8 have not been
+satisfied as of the time of Closing or if satisfaction of such a condition is or
+becomes impossible (other than through the failure of MTNO to comply with its
+obligations under this Agreement) and MTNO has not waived such condition on or
+before the Closing;
+
+          (iii) by D&SE, if any of the conditions in Section 9 has not been
+satisfied at the Closing or if satisfaction of such a condition is or becomes
+impossible (other than through the failure of D&SE to comply with their
+obligations under this Agreement) and D&SE has not waived such condition on or
+before the Closing;
+
+          (iv) by mutual consent of MTNO and D&SE; or
+
+          (v) By either party to this Agreement in the event the Closing does
+not occur on before the expiration of sixty (60) days from the date hereof, time
+being of the essence with respect thereto. In the event the Closing does not
+occur within such period solely as a result of MTNO's failure or refusal to
+close and not as a result of Force Majeure or D&SE's default, then in such
+event, D&SE shall have the right to retain the Deposit as its liquidated damages
+and not as a penalty, which damages would be otherwise difficult or impossible
+to determine with precision. The Escrow Agent shall pay same to D&SE as provided
+in the Escrow Deposit Agreement, whereupon, the parties hereto shall have no
+further obligation to the other and this
+
+                                       18
+<PAGE>
+
+Agreement shall have no further force and effect. In the event MTNO or D&SE
+shall elect to terminate this Agreement under the provisions of this
+subparagraph 13(a)(v) for any reason other than MTNO's failure or refusal to
+close as heretofore provided, then in such event, upon the return of the Deposit
+to MTNO, this Agreement shall be of no further force and effect and no party
+hereto shall have any further liability to the other.
+
+     (B) EFFECT OF TERMINATION. If this Agreement is terminated pursuant to
+Section 13(a)(i), then the non-breaching party shall be entitled to such
+remedies as are provided by law. If this Agreement is terminated pursuant to
+Sections 13(a)(ii), 13(a)(iii) or 13(a)(iv), then all further obligations of the
+parties under this Agreement shall terminate without any liability of either
+party to the other. If this Agreement is terminated pursuant to Section
+13(a)(v), then the provisions of such section shall be applicable.
+
+14. MISCELLANEOUS.
+
+     (A) ENTIRE AGREEMENT; MODIFICATION. This Agreement, and the documents
+delivered pursuant hereto, constitute the entire agreement among the parties
+hereto and supersedes all prior agreements and understandings, both written and
+oral, between them with respect thereto, and neither party has made any
+representation, warranty, covenant or agreement except to the extent expressly
+set forth in this Agreement and such other documents. This Agreement may be
+amended only by a written instrument executed by MTNO and D&SE.
+
+     (B) SEVERABILITY. If any provision of this Agreement is held invalid or
+unenforceable by any court of competent jurisdiction, the other provisions of
+this Agreement will remain in full force and effect. Any provision of this
+Agreement held invalid or unenforceable only in part or degree will remain in
+full force and effect to the extent not held invalid or unenforceable.
+
+     (C) WAIVER. The rights and remedies of the parties to this Agreement are
+cumulative and not alternative. Neither the failure nor any delay by any party
+in exercising any right, power, or privilege under this Agreement or the
+documents referred to in this Agreement will operate as a waiver of such right,
+power, or privilege, and no single or partial exercise of any such right, power,
+or privilege will preclude any other or further exercise of such right, power,
+or privilege or the exercise of any other right, power, or privilege. To the
+maximum extent permitted by applicable law, (a) no claim or right arising out of
+this Agreement or the documents referred to in this Agreement can be discharged
+by one party, in whole or in part, by a waiver or renunciation of the claim or
+right unless in writing signed by the other party; (b) no waiver that may be
+given by a party will be applicable except in the specific instance for which it
+is given; and (c) no notice to or demand on one party will be deemed to be a
+waiver of any obligation of such party or of the right of the party giving such
+notice or demand to take further action without notice or demand as provided in
+this Agreement or the documents referred to in this Agreement.
+
+     (D) PUBLIC ANNOUNCEMENTS. Any public announcement or similar publicity with
+respect to this Agreement or the transactions contemplated hereby will be
+issued, if at all, at such time and in such manner as MTNO determines. Unless
+consented to by MTNO in advance or required by legal requirements, prior to the
+Closing D&SE shall keep this Agreement strictly confidential and may not make
+any disclosure of this Agreement to any person. D&SE and MTNO will consult with
+each other concerning the means by which D&SE's employees, customers, and
+suppliers and others having dealings with D&SE will be informed of the
+contemplated transactions, and MTNO will have the right to be present for any
+such communication.
+
+                                       19
+<PAGE>
+
+     (E) RETENTION OF EMPLOYEES, CONTRACTORS, AGENTS. Nothing contained herein
+shall constitute an undertaking, on the part of MTNO to continue the employment
+of any employee, contractor or agent of D&SE except as set forth in the
+Consulting Agreement referred to in Section ____, and as to which MTNO's entire
+obligation is limited to that which is expressly set forth in such Consulting
+Agreement.
+
+     (F) GOVERNING LAW; FORUM. This Agreement shall be construed and interpreted
+according to the laws of the State of New York applicable to contracts wholly
+executed and to be performed therein. Each party to this Agreement irrevocably
+consents and agrees that any legal action arising out of or in any way in
+connection with this Agreement shall only be maintained in the courts of the
+State of New York, County of New York, or in the United States District Court
+for the Southern District of New York, and each party hereto accepts and submits
+to the exclusive jurisdiction and venue of such courts.
+
+     (G) NOTICES. All communications under this Agreement shall be in writing
+and shall be deemed to have been duly given on the date of service if served
+personally on the party to whom notice is to be given, or on the third day after
+mailing, if mailed to the party to whom notice is to be given, by first class
+mail, registered or certified, return receipt requested, postage prepaid and
+properly addressed as follows:
+
+                         To MTNO:
+
+                            MTN Holdings Inc. .
+                            c/o Morty Spiegel, President
+                            31 West 47th Street
+                            New York, New York 10036
+
+                         With copies (which shall not constitute notice) to:
+
+                            Pinchus Raice, Esq.
+                            Raice Paykin & Krieg LLP
+                            185 Madison Avenue, Suite 1001
+                            New York, New York 10017
+
+                         To D&SE:
+
+                            Robert Stoler, President
+                            Dvir & Stoler Enterprises, Inc.
+                            31 West 47th Street (6th floor)
+                            New York, New York 10036
+
+
+                         With copies (which shall constitute notice) to:
+
+                            Skolnick, Hochberg & Bernfeld, P.C.
+                            122 East 42nd Street
+                            New York, N.Y. 10168
+
+                                       20
+<PAGE>
+
+                            Attention:  Ralph R. Hochberg, Esq.
+
+(H) JURISDICTION; SERVICE OF PROCESS. Any action or proceeding seeking to
+enforce any provision of, or based on any right arising out of, this Agreement
+may be brought against any of the parties in the courts of the State of New
+York, County of New York, or, if it has or can acquire jurisdiction, in the
+United States District Court for the Southern District of New York, and each of
+the parties consents to the jurisdiction of such courts (and of the appropriate
+appellate courts) in any such action or proceeding and waives any objection to
+venue laid therein. Process in any action or proceeding referred to in the
+preceding sentence may be served on any party anywhere in the world.
+
+
+                                       21
+<PAGE>
+
+
+          (I) COUNTERPARTS. This Agreement may be executed in several
+counterparts, each of which shall be deemed an original but all of which
+together shall constitute one and the same instrument.
+
+          (J) HEADINGS. The Article and Section headings in this Agreement are
+for convenience or reference only and shall not be deemed to alter or affect any
+provisions thereof.
+
+         IN WITNESS WHEREOF, the parties have caused this Agreement to be
+executed as of the day and year first above written.
+
+MTN HOLDINGS INC.                                DVIR & STOLER ENTERPRISES, INC.
+
+
+
+By:/s/ Morty Spiegel                             By:/s/ Robert Stoler
+   -----------------------                          ---------------------------
+   Morty Spiegel, President                          Robert Stoler, President
+
+
+                                       22
+<PAGE>
+
+
+                                                                    Exhibit 1(c)
+
+                               Assumed Liabilities
+
+None other than lease liabilities to be assumed in accordance with Assignment
+and Assumption Agreement (Exhibit 10(a)(i))
+
+
+<PAGE>
+
+
+                                                                    Exhibit 1(f)
+                            Deposit Escrow Agreement
+
+
+<PAGE>
+
+
+                                                                    Exhibit 1(i)
+                                    Equipment
+
+
+<PAGE>
+
+
+                                                             Exhibit 3(a)(ii)(B)
+                                  Form of Note
+
+
+<PAGE>
+
+
+                                                                    Exhibit 3(b)
+
+                          Allocation of Purchase Price
+
+                  Build-outs and permits:            $400,000
+
+                  Equipment and machinery:           $400,000
+
+                  Customer lists/goodwill:           $200,000
+
+
+<PAGE>
+
+
+                                                                    Exhibit 3(c)
+                           Form of Security Agreement
+
+
+<PAGE>
+
+
+                                                                    Exhibit 4(l)
+
+
+                                 EXISTING LIENS
+
+1.       Security interest in accounts receivable held by HSBC Bank USA;
+
+2.       There is a UCC-1 filed by Dennis Metals, Inc. and covering equipment
+         and other property. Underlying obligation is satisfied and Termination
+         Statements to be filed.
+
+
+<PAGE>
+
+
+                                                                    Exhibit 4(p)
+                         Description of Leased Property
+
+
+<PAGE>
+
+
+                                                                    Exhibit 4(r)
+                                  Employee List
+
+
+<PAGE>
+
+
+                                                                    Exhibit 4(s)
+                               Executory contracts
+
+None
+
+
+<PAGE>
+
+
+                                                                    Exhibit 4(u)
+                                      Taxes
+
+1.       New York State and New York City Franchise or General Corporation
+         Business Taxes, if any, for 2001 to the extent estimated taxes have not
+         been remitted.
+
+2.       Any and all Payroll Taxes to the extent not heretofore or hereafter
+         paid.
+
+3.       Any and all taxes which may arise as a result of the transactions
+         contemplated by the Agreement.
+
+As between the parties, taxes described in 1 and 2 above remain the
+responsibility of D&SE.
+
+
+<PAGE>
+
+
+                                                                    Exhibit 4(v)
+                                Violations of Law
+
+None
+
+
+<PAGE>
+
+
+                                                                    Exhibit 6(f)
+                              Consulting Agreement
+
+
+<PAGE>
+
+
+                                                                    Exhibit 8(e)
+                     Indemnity and Non-Competition Agreement
+
+
+<PAGE>
+
+
+                                                                    Exhibit 8(f)
+
+                 Opinion of Skolnick, Hochberg & Bernfeld, P.C.
+
+
+<PAGE>
+
+
+                                                                    Exhibit 9(c)
+                       Opinion of Raice Paykin & Krieg LLP
+
+
+<PAGE>
+
+
+                                                                Exhibit 10(a)(i)
+                       Assignment and Assumption Agreement
+
+
+</TEXT>
+</DOCUMENT>

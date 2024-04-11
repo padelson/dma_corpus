@@ -1,0 +1,1294 @@
+<DOCUMENT>
+<TYPE>EX-10.13
+<SEQUENCE>2
+<FILENAME>ex10-13.txt
+<DESCRIPTION>SECURITIES PURCHASE AGREEMENT
+<TEXT>
+
+<PAGE>   1
+
+                                                                   EXHIBIT 10.13
+
+                          SECURITIES PURCHASE AGREEMENT
+
+                             dated January 11, 2000
+
+                                      among
+
+                              CARVER BANCORP, INC.
+
+                        MORGAN STANLEY & CO. INCORPORATED
+
+                                       and
+
+                        PROVENDER OPPORTUNITIES FUND L.P.
+
+
+
+<PAGE>   2
+
+
+                                TABLE OF CONTENTS
+                                -----------------
+<TABLE>
+<CAPTION>
+                                                                                PAGE
+                                                                                ----
+<S>                                                                        <C>
+                                    ARTICLE 1
+
+                                   DEFINITIONS
+
+SECTION 1.01.  Definitions.......................................................1
+
+                                    ARTICLE 2
+
+                         PURCHASE AND SALE OF SECURITIES
+
+SECTION 2.01.  The Purchase......................................................6
+SECTION 2.02.  Closing Documentation.............................................6
+SECTION 2.03.  Legending of Securities...........................................6
+
+                                    ARTICLE 3
+
+                  REPRESENTATIONS AND WARRANTIES OF THE ISSUER
+
+SECTION 3.01.  Corporate Existence and Power.....................................7
+SECTION 3.02.  Corporate Authorization...........................................7
+SECTION 3.03.  Governmental Authorization........................................8
+SECTION 3.04.  Noncontravention..................................................8
+SECTION 3.05.  Capitalization....................................................8
+SECTION 3.06.  Subsidiaries......................................................9
+SECTION 3.07.  Financial Statements.............................................10
+SECTION 3.08.  Absence of Certain Changes.......................................10
+SECTION 3.09.  No Material Undisclosed Liabilities..............................10
+SECTION 3.10.  Litigation.......................................................11
+SECTION 3.11.  Compliance with Laws.............................................11
+SECTION 3.12.  SEC Reports......................................................11
+SECTION 3.13.  Material Contracts...............................................11
+SECTION 3.14.  Finders' Fees....................................................12
+SECTION 3.15.  Offering of Securities...........................................12
+SECTION 3.16.  Intellectual Property............................................12
+SECTION 3.17.  Environmental Compliance.........................................12
+SECTION 3.18.  Compliance with ERISA............................................13
+SECTION 3.19.  Taxes............................................................13
+</TABLE>
+
+
+<PAGE>   3
+
+
+<TABLE>
+<S>                                                                        <C>
+SECTION 3.20. Regulatory Matters................................................14
+
+                                    ARTICLE 4
+
+                        REPRESENTATIONS AND WARRANTIES OF THE PURCHASERS
+
+SECTION 4.01.  Existence and Power..............................................16
+SECTION 4.02.  Authorization....................................................16
+SECTION 4.03.  Governmental Authorization.......................................16
+SECTION 4.04.  Noncontravention.................................................16
+SECTION 4.05.  Finders' Fees....................................................17
+SECTION 4.06.  Private Placement................................................17
+
+                                    ARTICLE 5
+
+                   COVENANTS OF THE ISSUER AND THE PURCHASERS
+
+SECTION 5.01.  Confidentiality..................................................18
+SECTION 5.02.  Public Announcements.............................................18
+SECTION 5.03.  Restrictions of Certain Actions by the Purchasers................19
+SECTION 5.04.  Issuer Repurchases of Common Stock...............................19
+SECTION 5.05.  Right of First Offer.............................................20
+SECTION 5.06.  Board of Directors...............................................20
+SECTION 5.07.  Certain Life Insurance...........................................21
+SECTION 5.08.  Certain Other Arrangements.......................................21
+
+                                    ARTICLE 6
+
+                                  MISCELLANEOUS
+
+SECTION 6.01.  Notices..........................................................21
+SECTION 6.02.  Amendments; Waivers..............................................22
+SECTION 6.03.  Successors and Assigns...........................................22
+SECTION 6.04.  Survival.........................................................22
+SECTION 6.05.  Entire Agreement.................................................22
+SECTION 6.06.  Applicable Law...................................................23
+SECTION 6.07.  Severability.....................................................23
+SECTION 6.08.  Fees and Expenses................................................23
+SECTION 6.09.  Counterparts.....................................................23
+</TABLE>
+
+
+<PAGE>   4
+
+
+
+                          SECURITIES PURCHASE AGREEMENT
+
+         SECURITIES PURCHASE AGREEMENT dated January 11, 2000 among Carver
+Bancorp, Inc., a Delaware corporation (the "ISSUER"), Morgan Stanley & Co.
+Incorporated, a Delaware corporation ("MS" and a "PURCHASER"), and Provender
+Opportunities Fund L.P., a Delaware limited partnership ("PROVENDER" and a
+"PURCHASER" and, together with MS, the "PURCHASERS").
+
+         WHEREAS, the Issuer desires to sell the Securities (as defined below)
+to the Purchasers, and the Purchasers desire to purchase the Securities from the
+Issuer, upon the terms and subject to the conditions hereinafter set forth;
+
+         NOW THEREFORE, the parties hereto agree as follows:
+
+                                    ARTICLE 1
+
+                                   DEFINITIONS
+
+         SECTION 1.01. Definitions. (a) The following terms, as used herein,
+have the following meanings:
+
+         "AFFILIATE" of any Person means any other Person directly or indirectly
+controlling, controlled by or under common control with such Person; provided
+that neither the Purchaser nor any of its Subsidiaries shall be considered an
+Affiliate of the Issuer.
+
+         "APPLICABLE LAW" means any applicable constitution, treaty, statute,
+rule, regulation, ordinance, order, directive, code, interpretation, judgment,
+decree, injunction, writ, determination, award, permit, license, authorization,
+directive, requirement, ruling or decision of, agreement with, or by any
+Governmental Authority.
+
+         "BALANCE SHEET" means the unaudited consolidated balance sheet of the
+Issuer and its Subsidiaries as of the Balance Sheet Date.
+
+         "BALANCE SHEET DATE" means November 30, 1999.
+
+         "BENEFIT ARRANGEMENT" means any employee benefit plan within the
+meaning of Section 3(3) of ERISA which is not a Plan or a Multiemployer Plan and
+which is maintained or otherwise contributed to by any member of the ERISA
+Group.
+
+         "BUSINESS DAY" means any day except a Saturday, Sunday or other day on
+which commercial banks in the City of New York are authorized by law to close.
+
+
+<PAGE>   5
+
+
+
+         "CODE" means the Internal Revenue Code of 1986, as amended.
+
+         "COMMISSION" means the U.S. Securities and Exchange Commission or
+any governmental body succeeding to the functions thereof.
+
+         "COMMON STOCK" means the common stock, par value $.01 per share, of
+the Issuer.
+
+         "DISCLOSURE SCHEDULE" means the Disclosure Schedule dated the date
+hereof and separately delivered by the Issuer to the Purchasers.
+
+         "ENVIRONMENTAL LAWS" means any federal, state, local or foreign law
+(including, without limitation, common law), treaty, judicial decision,
+regulation, rule, judgment, order, decree, injunction, permit or governmental
+restriction or requirement or any agreement with any governmental authority or
+other third party, whether now or hereafter in effect, relating to human health
+and safety, the environment or to pollutants, contaminants, wastes or chemicals
+or any toxic, radioactive, ignitable, corrosive, reactive or otherwise hazardous
+substances, wastes or materials.
+
+         "ENVIRONMENTAL LIABILITIES" means all liabilities of the Issuer and
+each of its Subsidiaries, whether contingent or fixed, known or unknown, which
+(i) arise under or relate to matters covered by Environmental Laws and (ii)
+relate to actions occurring or conditions existing on or prior to the Closing
+Date.
+
+         "ERISA" means the Employee Retirement Income Security Act of 1974,
+as amended.
+
+         "ERISA GROUP" means the Issuer and all members of a controlled group of
+corporations and all trades or businesses (whether or not incorporated) under
+common control which, together with the Issuer, are treated as a single employer
+under Section 414 of the Code.
+
+         "EXCHANGE ACT" means the Securities Exchange Act of 1934, as amended.
+
+         "FDIA" means the Federal Deposit Insurance Act, as amended.
+
+         "FDIC" means the Federal Deposit Insurance Corporation.
+
+         "GOVERNMENTAL AUTHORITY" means any governmental body, agency or
+official of any country or political subdivision of any country, including, but
+not limited to, federal, state, county and local governments, administrative
+agencies and courts.
+
+                                       2
+<PAGE>   6
+
+
+
+         "HAZARDOUS SUBSTANCE" means any toxic, radioactive, caustic or
+otherwise hazardous substance, including petroleum, its derivatives, by-products
+and other hydrocarbons, or any substance having any constituent elements
+displaying any of the foregoing characteristics, including, without limitation,
+any substance regulated under Environmental Laws.
+
+         "HOLA" means the Home Owners' Loan Act of 1933, as amended.
+
+         "LIEN" means, with respect to any asset, any mortgage, lien, pledge,
+charge, security interest or encumbrance of any kind in respect of such asset.
+For the purposes of this Agreement, any Person shall be deemed to own subject to
+Lien any asset that it has acquired or holds subject to the interest of a vendor
+or lessor under any conditional sale agreement, capital lease or other title
+retention agreement relating to such asset.
+
+         "MATERIAL ADVERSE EFFECT" means any change or effect (or aggregation of
+changes and effects) that is materially adverse to the business, assets,
+condition (financial or otherwise) or results of operations of the Issuer and
+its Subsidiaries, taken as a whole.
+
+         "MULTIEMPLOYER PLAN" means at any time an employee pension benefit plan
+within the meaning of Section 4001(a)(3) of ERISA to which any member of the
+ERISA Group is then making or accruing an obligation to make contributions or
+has within the preceding five plan years made contributions, including for these
+purposes any Person which ceased to be a member of the ERISA Group during such
+five year period.
+
+         "PERSON" means an individual or a corporation, partnership, limited
+liability company, association, trust, or any other entity or organization,
+including a government or political subdivision or an agency or instrumentality
+thereof.
+
+         "PLAN" means any employee pension benefit plan (other than a
+Multiemployer Plan) which is covered by Title IV of ERISA or subject to the
+minimum funding standards under Section 412 of the Code and either (i) is
+maintained, or contributed to, by any member of the ERISA Group for employees of
+any member of the ERISA Group or (ii) has at any time within the preceding five
+years been maintained, or contributed to, by any Person which was at such time a
+member of the ERISA Group for employees of any Person which was at such time a
+member of the ERISA Group.
+
+         "PREFERRED STOCK" means the preferred stock, par value $.01 per share,
+of the Issuer.
+
+                                       3
+<PAGE>   7
+
+
+
+         "PURCHASE PRICE" means, in the case of MS, $1,000,000 in immediately
+available funds and, in the case of Provender, $1,500,000 in immediately
+available funds.
+
+         "REGISTRATION RIGHTS AGREEMENT" means the Registration Rights Agreement
+dated January 11, 2000 among the Issuer and the Purchasers.
+
+         "REGULATED ACTIVITY" means any generation, treatment, storage,
+recycling, transportation or disposal of any Hazardous Substance.
+
+         "SEC REPORTS" means the forms, reports and documents filed with the
+Commission.
+
+         "SECURITIES" means, in the case of MS, 40,000 shares of Series A
+Preferred Stock and, in the case of Provender, 60,000 shares of Series B
+Preferred Stock.
+
+         "SECURITIES ACT" means the Securities Act of 1933, as amended.
+
+         "SERIES A CERTIFICATE OF DESIGNATIONS" means the Certificate of
+Designations, Preferences and Rights of Series A Preferred Stock, substantially
+in the form attached as Exhibit A hereto.
+
+         "SERIES A PREFERRED STOCK" means the Issuer's Series A Convertible
+Preferred Stock, par value $.01 per share.
+
+         "SERIES B CERTIFICATE OF DESIGNATIONS" means the Certificate of
+Designations, Preferences and Rights of Series B Preferred Stock, substantially
+in the form attached as Exhibit B hereto.
+
+         "SERIES B PREFERRED STOCK" means the Issuer's Series B Convertible
+Preferred Stock, par value $.01 per share.
+
+         "SUBSIDIARY" means, with respect to any Person, any other Person of
+which a majority of the capital stock or other ownership interests having
+ordinary voting power to elect a majority of the board of directors or other
+persons performing similar functions are at the time directly or indirectly
+owned by such Person.
+
+         "TAX" (and, with correlative meaning, "TAXES") means (i) any net
+income, alternative or add-on minimum tax, gross income, gross receipts, sales,
+use, ad valorem, value added, transfer, franchise, profits, license, withholding
+on amounts paid by the Issuer or any of its Subsidiaries, payroll, employment,
+excise, severance, stamp, occupation, premium, property, environmental or
+windfall
+
+                                       4
+<PAGE>   8
+
+
+
+profit tax, custom, duty or other tax, governmental fee or other like assessment
+or charge of any kind whatsoever, together with any interest or any penalty,
+addition to tax or additional amount due from, or in respect of the Issuer or
+any of its Subsidiaries, as the case may be, imposed by any governmental
+authority (a "TAXING AUTHORITY") responsible for the imposition of any such tax
+(domestic or foreign) and (ii) any liability of the Issuer or any of its
+Subsidiaries for the payment of any amount as a result of being a party to any
+tax sharing agreement or with respect to the payment of any amount of the type
+described in (i) as a result of any existing express or implied agreement or
+arrangement (including, but not limited to, an indemnification agreement or
+arrangement).
+
+         (b) Each of the following terms is defined in the Section set forth
+opposite such term:
+
+<TABLE>
+<CAPTION>
+TERM                                                                      SECTION
+----                                                                      -------
+
+<S>                                                                  <C>
+10-K                                                                      3.09
+10-Qs                                                                     3.09
+Exercise Notice                                                           5.05(a)
+Intellectual Property                                                     3.16
+Issuer                                                                   Preamble
+Issuer Securities                                                         3.05(b)
+MS                                                                       Preamble
+Material Contract                                                         3.13
+Offer                                                                     5.05(a)
+Offer Price                                                               5.05(a)
+Offered Shares                                                            5.05(a)
+Provender                                                                Preamble
+Purchasers                                                               Preamble
+Regulatory Authorities                                                    3.20(c)
+Regulatory Reports                                                        3.20(c)
+Representatives                                                           6.01
+Returns                                                                   3.19
+Subsidiary Securities                                                     3.06(b)
+Transfer Notice                                                           5.05(a)
+</TABLE>
+
+
+
+                                    ARTICLE 2
+
+                         PURCHASE AND SALE OF SECURITIES
+
+         SECTION 2.01.  The Purchase.  Upon the basis of the representations and
+warranties herein contained of the Purchasers, the Issuer hereby sells to each
+Purchaser, and each Purchaser, upon the basis of the representations and
+warranties herein contained of the Issuer, hereby purchases severally and not
+
+                                       5
+<PAGE>   9
+
+
+
+jointly from the Issuer the Securities for the Purchase Price. The Issuer hereby
+delivers to each Purchaser, against payment of the Purchase Price by such
+Purchaser to the Issuer, certificates evidencing the Securities being purchased
+in definitive form and registered in the name of such Purchaser.
+
+         SECTION 2.02.  Closing Documentation.  In connection herewith, the
+parties are taking (or causing to be taken) the following actions:
+
+          (a) the Series A Certificate of Designations and the Series B
+Certificate of Designations shall have been filed with the Secretary of State of
+Delaware;
+
+          (b) the Registration Rights Agreement shall be executed and delivered
+by the Issuer and the Purchasers; and
+
+          (c) Thacher Proffitt & Wood, counsel to the Issuer, shall deliver to
+each Purchaser an opinion covering certain matters relating to the sale and
+issuance of the Securities.
+
+         SECTION 2.03.  Legending of Securities.  (a) All shares of Series A
+Preferred Stock, Series B Preferred Stock or Common Stock  to be issued to the
+Purchasers hereunder shall bear the following legend:
+
+         "THE SECURITIES REPRESENTED HEREBY HAVE NOT BEEN REGISTERED UNDER THE
+         SECURITIES ACT OF 1933, AS AMENDED, AND MAY NOT BE OFFERED, SOLD,
+         TRANSFERRED OR OTHERWISE DISPOSED OF UNLESS REGISTERED WITH THE
+         SECURITIES AND EXCHANGE COMMISSION OF THE UNITED STATES AND THE
+         SECURITIES REGULATORY AUTHORITIES OF APPLICABLE STATES OR UNLESS AN
+         EXEMPTION FROM SUCH REGISTRATION IS AVAILABLE. THE SALE, PLEDGE,
+         HYPOTHECATION OR TRANSFER OF THE SECURITIES REPRESENTED BY THIS
+         CERTIFICATE IS SUBJECT TO A RIGHT OF FIRST OFFER SET FORTH IN A CERTAIN
+         SECURITIES PURCHASE AGREEMENT DATED JANUARY 11, 2000 AMONG THE
+         CORPORATION, MORGAN STANLEY & CO. INCORPORATED AND PROVENDER
+         OPPORTUNITIES FUND L.P. COPIES OF SUCH AGREEMENT MAY BE OBTAINED UPON
+         WRITTEN REQUEST TO THE SECRETARY OF THE CORPORATION."
+
+          (b) The Issuer agrees to remove the first sentence of foregoing legend
+at the request of the Purchaser (i) at such time as the shares of Series A
+Preferred Stock, Series B Preferred Stock or Common Stock, as the case may be,
+are freely transferable pursuant to Rule 144(k) or (ii) upon delivery of an
+opinion of counsel reasonably acceptable to the Issuer to the effect that such
+shares may be transferred without registration under the Securities Act. The
+Issuer agrees to remove the second sentence of the foregoing legend at the
+request of a Purchaser at such time as the shares of Series A Preferred Stock,
+Series B Preferred Stock or Common Stock, as the case may be, are no longer
+subject to the right of first offer set forth in Section 5.05.
+
+                                       6
+<PAGE>   10
+
+
+                                    ARTICLE 3
+
+                  REPRESENTATIONS AND WARRANTIES OF THE ISSUER
+
+                  The Issuer represents and warrants to each Purchaser that,
+except as disclosed in the Disclosure Schedule:
+
+         SECTION 3.01. Corporate Existence and Power. The Issuer is a
+corporation duly incorporated, validly existing and in good standing under the
+laws of its jurisdiction of incorporation and has all corporate powers and all
+material governmental licenses, authorizations, permits, consents and approvals
+required to carry on its business as now conducted. The Issuer is registered as
+a savings and loan holding company under the HOLA. The Issuer is duly qualified
+to do business as a foreign corporation and is in good standing in each
+jurisdiction where such qualification is necessary, except for those
+jurisdictions where failure to be so qualified or in good standing could not
+reasonably be expected to have, individually or in the aggregate, a Material
+Adverse Effect. The Issuer has heretofore made available to each Purchaser or
+its counsel true and complete copies of the certificate of incorporation and
+bylaws of the Issuer as currently in effect.
+
+         SECTION 3.02. Corporate Authorization. The execution, delivery and
+performance by the Issuer of this Agreement and the Registration Rights
+Agreement, and the consummation of the transactions contemplated hereby and
+thereby are within the Issuer's corporate powers and have been duly authorized
+by all necessary corporate action on the part of the Issuer. This Agreement
+constitutes and, when executed and delivered in accordance with its terms, the
+Registration Rights Agreement will constitute, a legal, valid and binding
+agreement of the Issuer, enforceable against the Issuer in accordance with its
+terms, except (i) as such enforcement is limited by bankruptcy, insolvency and
+other similar laws affecting the enforcement of creditors' rights generally or
+the reorganization of financial institutions, (ii) for limitations imposed by
+general principles of equity and (iii) that rights to indemnity may be limited
+by federal and state securities laws and public policy considerations. The
+Securities, when issued and delivered in accordance with the terms of this
+Agreement, will be validly issued and outstanding, fully paid and nonassessable,
+and free and clear of any Liens other than Liens arising as a result of the
+status of the Purchasers. The shares of Common Stock issuable upon conversion of
+the Securities have been reserved for issuance and will, when issued, be validly
+issued and outstanding, fully paid and nonassessable, and free and clear of any
+Liens other than Liens arising as a result of the status of the Purchasers.
+
+                                       7
+<PAGE>   11
+
+
+
+         SECTION 3.03. Governmental Authorization. The execution, delivery and
+performance by the Issuer of this Agreement and the Registration Rights
+Agreement, and the consummation of the transactions contemplated hereby and
+thereby require no consent, approval, authorization or other action by or in
+respect of any Governmental Authority except (i) the filing of the Series A
+Certificate of Designations and the Series B Certificate of Designations in
+accordance with the law of the State of Delaware, (ii) the filing of a listing
+application for the shares of Common Stock issuable upon conversion of the
+Securities with the American Stock Exchange, (iii) any filing required pursuant
+to the securities laws of the State of New York and (iv) other filings,
+notifications and consents that are immaterial to the consummation of the
+transactions contemplated hereby and thereby.
+
+         SECTION 3.04. Noncontravention. The execution, delivery and performance
+by the Issuer of this Agreement and the Registration Rights Agreement, and the
+consummation of the transactions contemplated hereby and thereby do not and will
+not (i) violate the certificate of incorporation or bylaws of the Issuer, (ii)
+assuming compliance with the matters referred to in Section 3.03, violate any
+Applicable Law, (iii) require any consent or other action by any Person under,
+constitute a default under, or give rise to any right of termination,
+cancellation or acceleration of any material right or obligation of the Issuer
+or any Subsidiary of the Issuer or to a loss of any material benefit to which
+the Issuer or any Subsidiary of the Issuer is entitled under any provision of
+any agreement or other instrument binding upon the Issuer or any Subsidiary of
+the Issuer or (iv) result in the creation or imposition of any Lien on any
+material asset of the Issuer or any Subsidiary of the Issuer, except for, in the
+case of clauses (ii), (iii) and (iv), such matters that could not reasonably be
+expected to have, individually or in the aggregate, a Material Adverse Effect.
+
+         SECTION 3.05. Capitalization. (a) The authorized capital stock of the
+Issuer consists of 12,000,000 shares of Common Stock and 2,000,000 shares of
+Preferred Stock. The outstanding shares of Common Stock and Preferred Stock as
+well as all securities convertible into or exchangeable for shares of Common
+Stock as of December 31, 1999 are set forth on the Disclosure Schedule. No
+shares of Common Stock or Preferred Stock or any securities convertible into or
+exchangeable for shares of Common Stock have been issued since such date.
+
+          (b) All of the outstanding shares of capital stock of the Issuer have
+been duly authorized and validly issued and are fully paid and nonassessable.
+Except as set forth in Section 3.05(a), there are no outstanding (i) shares of
+capital stock or voting securities of the Issuer, (ii) securities of the Issuer
+or any Subsidiary of the Issuer convertible into or exchangeable for shares of
+capital stock or voting securities of the Issuer or (iii) options or other
+rights to acquire from the Issuer or any Subsidiary of the Issuer, or other
+obligation of the Issuer to issue, any capital stock, voting securities or
+securities convertible into or exchangeable for capital
+
+                                       8
+<PAGE>   12
+
+
+
+stock or voting securities of the Issuer (the items in clauses 3.05(b)(i),
+3.05(b)(ii) and 3.05(b)(iii) being referred to collectively as the "ISSUER
+SECURITIES"). There are no outstanding obligations of the Issuer or any
+Subsidiary of the Issuer to repurchase, redeem or otherwise acquire any Issuer
+Securities.
+
+         SECTION 3.06. Subsidiaries. (a) Carver Federal Savings Bank is a
+federal savings bank duly organized, validly existing and in good standing under
+the laws of the United States. Each other Subsidiary of the Issuer is a
+corporation or limited liability company duly incorporated, validly existing and
+in good standing under the laws of its jurisdiction of incorporation or
+formation. Each Subsidiary of the Issuer has all powers (corporate or otherwise)
+and all material governmental licenses, authorizations, permits, consents and
+approvals required to carry on its business as now conducted. Each Subsidiary of
+the Issuer is duly qualified to do business as a foreign corporation or limited
+liability company and is in good standing in each jurisdiction where such
+qualification is necessary, except for those jurisdictions where failure to be
+so qualified or in good standing could not reasonably be expected to have,
+individually or in the aggregate, a Material Adverse Effect.
+
+          (b) All of the outstanding capital stock or other voting securities or
+other equity interests of each Subsidiary of the Issuer is owned by the Issuer,
+directly or indirectly, free and clear of any Lien and free of any other
+limitation or restriction (including any restriction on the right to vote, sell
+or otherwise dispose of such capital stock or other voting securities or other
+equity interests). There are no outstanding (i) securities of the Issuer or any
+Subsidiary of the Issuer convertible into or exchangeable for shares of capital
+stock or voting securities or other equity securities of any Subsidiary of the
+Issuer or (ii) options or other rights to acquire from the Issuer or any
+Subsidiary of the Issuer, or other obligation of the Issuer or any Subsidiary of
+the Issuer to issue, any capital stock, voting securities, other equity
+interests or securities convertible into or exchangeable for capital stock or
+voting securities or other equity interests of any Subsidiary of the Issuer (the
+items in clauses 3.06(b)(i) and 3.06(b)(ii) being referred to collectively as
+the "SUBSIDIARY SECURITIES"). There are no outstanding obligations of the Issuer
+or any Subsidiary of the Issuer to repurchase, redeem or otherwise acquire any
+outstanding Subsidiary Securities.
+
+         SECTION 3.07. Financial Statements. The audited consolidated balance
+sheet as of March 31, 1999 and the related audited consolidated statement of
+income and cash flows for the fiscal year ended March 31, 1999 and the unaudited
+interim consolidated balance sheet for the six months ended September 30, 1999
+and the related unaudited interim consolidated statements of income and cash
+flows for the six months ended September 30, 1999 of the Issuer and its
+Subsidiaries and the Balance Sheet have been delivered by the Issuer to the
+Purchaser. Such financial statements fairly present, in conformity with
+generally accepted accounting principles applied on a consistent basis (except
+as may be
+
+                                       9
+<PAGE>   13
+
+
+
+indicated in the notes thereto), the consolidated financial position of the
+Issuer and its Subsidiaries as of the dates thereof and their consolidated
+results of operations and cash flows for the periods then ended (subject to
+normal year-end adjustments and the absence of notes in the case of any
+unaudited interim financial statements).
+
+         SECTION 3.08. Absence of Certain Changes. Since the Balance Sheet Date,
+the business of the Issuer and its Subsidiaries has been conducted in the
+ordinary course consistent with past practices and there has not been any event,
+occurrence, development or state of circumstances or facts which has had or
+could reasonably be expected to have, individually or in the aggregate, a
+Material Adverse Effect or an adverse effect on the ability of the Issuer to
+perform its obligations under this Agreement and the Registration Rights
+Agreements.
+
+         SECTION 3.09. No Material Undisclosed Liabilities. There are no
+liabilities of the Issuer or any Subsidiary of the Issuer of any kind
+whatsoever, whether accrued, contingent, absolute, determined, determinable or
+otherwise, and there is no existing condition, situation or set of circumstances
+which could reasonably be expected, individually or in the aggregate, to result
+in such a liability, other than:
+
+          (i)  liabilities provided for in the Balance Sheet or disclosed in the
+         notes thereto or in the Form 10-K of the Issuer for the year ended
+         March 31, 1999, as amended on Form 10-K/A (as so amended, the "10-K"),
+         or in the Forms 10-Q of the Issuer for the quarters ended June 30, 1999
+         and September 30, 1999 (the "10-Qs");
+
+         (ii)  liabilities incurred since the Balance Sheet Date in the ordinary
+         course of business consistent with past practices;
+
+         (iii) liabilities under this Agreement and the Registration Rights
+         Agreement or incurred in connection with the transactions contemplated
+         by this Agreement and the Registration Rights Agreement; and
+
+         (iv)  other undisclosed liabilities which, individually or in the
+         aggregate, are not material to the Issuer and its Subsidiaries, taken
+         as a whole.
+
+         SECTION 3.10. Litigation. There is no action, suit, investigation or
+proceeding (or any basis therefor) pending against, or to the knowledge of the
+Issuer, threatened against or affecting, the Issuer or any Subsidiary of the
+Issuer or any of their respective properties before any court or arbitrator or
+any governmental body, agency or official which could reasonably be expected to
+have, individually or in the aggregate, a Material Adverse Effect or which in
+any
+
+                                       10
+<PAGE>   14
+
+
+
+manner challenges or seeks to prevent, enjoin, alter or materially delay the
+transactions contemplated by this Agreement.
+
+         SECTION 3.11. Compliance with Laws. Neither the Issuer nor any
+Subsidiary of the Issuer is in violation of, or has since January 1, 1997
+violated, or to the best knowledge of the Issuer, is under investigation with
+respect to or been threatened to be charged with or given notice of any
+violation of, any Applicable Law, in each case other than any such violations
+that could not, individually or in the aggregate, reasonably be expected to have
+a Material Adverse Effect.
+
+         SECTION 3.12. SEC Reports. Since January 1, 1997, the Issuer has filed
+all required SEC Reports when due (or within permitted extension periods) in
+accordance with the Exchange Act. As of their respective dates (or, in the case
+of any amended SEC Report, as of the date of the amendment), the SEC Reports
+complied in all material respects with all applicable requirements of the
+Exchange Act or the Securities Act, as the case may be. As of their respective
+dates (or, in the case of any amended SEC Report, as of the date of the
+amendment), none of the SEC Reports contained any untrue statement of a material
+fact or omitted to state a material fact required to be stated or incorporated
+by reference therein or necessary in order to make the statements made therein,
+in light of the circumstances under which they were made, not misleading.
+
+         SECTION 3.13. Material Contracts. Each of the agreements, contracts,
+leases and commitments listed as an exhibit to the 10-K, any of the 10-Qs or any
+Form 8-K filed with the Commission since January 1, 1999 (each, a "MATERIAL
+CONTRACT") is a legal, valid and binding agreement of the Issuer or a Subsidiary
+of the Issuer, as the case may be, and is in full force and effect, and none of
+the Issuer, such Subsidiary or, to the knowledge of the Issuer, any other party
+thereto is in default or breach, in each case except for any such default or
+breach that could not reasonably be expected to have, individually or in the
+aggregate, a Material Adverse Effect, and, to the best knowledge of the Issuer,
+no event or circumstance has occurred that, with notice or lapse of time or
+both, would constitute any event of default thereunder.
+
+         SECTION 3.14. Finders' Fees. The fees and commissions of any investment
+banker, broker, finder or other intermediary which has been retained by or is
+authorized to act on behalf of the Issuer in connection with the transactions
+contemplated by this Agreement or the Registration Rights Agreement, including
+without limitation Keefe, Bruyette & Woods, will be paid by the Issuer.
+
+         SECTION 3.15. Offering of Securities. Neither the Issuer nor any Person
+acting on its behalf has taken or will take any action (including, without
+limitation, any offering of any securities of the Issuer under circumstances
+which would require, under the Securities Act, the integration of such offering
+with the
+
+                                       11
+<PAGE>   15
+
+
+
+offering and sale of the Securities) which might subject the offering, issuance
+or sale of the Securities to the registration requirements of Section 5 of the
+Securities Act.
+
+         SECTION 3.16. Intellectual Property. The Issuer and each of its
+Subsidiaries owns, or has the legal right to use, all material patents, patent
+applications, trademarks, trademark applications, tradenames, copyrights,
+technology, know-how and processes and other intellectual property rights
+necessary for each of them to conduct its business as currently conducted (the
+"INTELLECTUAL PROPERTY"). No claim has been asserted and is pending by any
+Person challenging or questioning the use of any such Intellectual Property or
+the validity or effectiveness of any such Intellectual Property, nor does the
+Issuer know of any facts or circumstances that could provide a reasonable basis
+for any such claim. To the best knowledge of the Issuer, the use of such
+Intellectual Property by the Issuer and its Subsidiaries does not infringe on
+the rights of any Person, except for such infringements which could not
+reasonably be expected to have, individually or in the aggregate, a Material
+Adverse Effect.
+
+         SECTION 3.17. Environmental Compliance. (a) No notice, notification,
+demand, request for information, citation, summons, complaint or order has been
+issued, no complaint has been filed, no penalty has been assessed and no
+investigation or review is pending, or to the Issuer's best knowledge,
+threatened by any governmental or other entity (i) with respect to any alleged
+material violation by the Issuer or any of its Subsidiaries of any Environmental
+Law, (ii) with respect to any alleged failure by the Issuer or any of its
+Subsidiaries to have any material permit, certificate, license, approval,
+registration or authorization required under any Environmental Law in connection
+with the conduct of their businesses or (iii) with respect to any Regulated
+Activity or any release, as defined in 42 U.S.C. 9601(22), of any Hazardous
+Substance which could reasonably be expected to have, individually or in the
+aggregate, a Material Adverse Effect.
+
+          (b) (i) Neither the Issuer nor any of its Subsidiaries has engaged in
+any Regulated Activity other than in compliance in all material respects with
+all applicable Environmental Laws and (ii) to the best knowledge of the Issuer,
+no release, as defined in 42 U.S.C. 9601(22), of any Hazardous Substance has
+occurred at or on any property now or previously owned or leased by the Issuer
+or any of its Subsidiaries which could reasonably be expected to have,
+individually or in the aggregate, a Material Adverse Effect.
+
+          (c) To the best knowledge of the Issuer, there are no Environmental
+Liabilities that could reasonably be expected to have, individually or in the
+aggregate, a Material Adverse Effect.
+
+         SECTION 3.18.  Compliance with ERISA.  Each member of the ERISA
+Group has fulfilled its obligations, if any, under the minimum funding standards
+
+                                       12
+<PAGE>   16
+
+
+
+of ERISA and the Code with respect to each Plan and is in compliance in all
+material respects with the presently applicable provisions of ERISA and the Code
+with respect to each Plan to the extent the ERISA Group maintains such plans. No
+member of the ERISA Group has (a) sought a waiver of the minimum funding
+standards under Section 412 of the Code in respect of any Plan, (b) failed to
+make any contribution or payment to any Plan or Multiemployer Plan or in respect
+of any Benefit Arrangement, or made any amendment to any Plan or Benefit
+Arrangement, which has resulted or could result in the imposition of a Lien or
+the posting of a bond or other security under ERISA or the Code or (c) incurred
+any liability under Title IV of ERISA other than a liability to the Pension
+Benefit Guaranty Corporation for premiums under Section 4007 of ERISA.
+
+         SECTION 3.19. Taxes. (a) The Issuer and each of its Subsidiaries has
+filed in accordance with Applicable Law, all material Tax returns, statements,
+reports and forms (collectively, "RETURNS") required to be filed with any Taxing
+Authority when due (taking into account any extension of a required filing
+date); (b) at the time filed, such Returns were true, correct and complete in
+all material respects; (c) the Issuer and each of its Subsidiaries has timely
+paid all Taxes shown as due and payable on the Returns that have been filed; (d)
+the charges, accruals and reserves for Taxes reflected on the Balance Sheet
+(excluding any provision for deferred income taxes) are adequate under United
+States generally accepted accounting principles, consistently applied, to cover
+the Tax liabilities accruing through the date thereof; (e) there is no action,
+suit, proceeding, investigation, audit or claim pending or, to the knowledge of
+the Issuer, threatened against or with respect to it in respect of any Tax; (f)
+all Returns filed with the City of New York with respect to Tax years of the
+Issuer and its Subsidiaries through the Tax year ended March 31, 1998 have been
+examined and closed or are Returns with respect to which the applicable period
+for assessment under Applicable Law, after giving effect to extensions or
+waivers, has expired; no Returns filed with any other Taxing Authority with
+respect to any Tax years of the Issuer and its Subsidiaries have been examined,
+and all Returns filed with any other Taxing Authority with respect to Tax years
+of the Issuer and its Subsidiaries through the Tax year ended March 31, 1998 are
+Returns with respect to which the applicable period for assessment under
+Applicable Law, after giving effect to extensions or waivers, has expired; (g)
+neither the Issuer nor any of its Subsidiaries has any obligation under any Tax
+sharing agreement, Tax allocation agreement or Tax indemnity agreement or any
+other agreement or arrangement in respect of any Tax with any Person other than
+the Issuer or its Subsidiaries; (h) neither the Issuer nor any of its
+Subsidiaries has been a member of an affiliated, consolidated, combined or
+unitary group other than one of which the Issuer was the common parent; (i)
+proper and adequate amounts have been withheld by the Issuer and its
+Subsidiaries from their respective employees and other Persons for all periods
+in compliance in all material respects with the Tax, social security and
+unemployment, excise and other withholding provisions of all federal, state,
+local and foreign laws; (j) there is no Tax lien, whether imposed by any
+federal, state,
+
+                                       13
+<PAGE>   17
+
+
+
+local, or foreign taxing authority, outstanding against the assets, properties
+or business of the Issuer or any of its Subsidiaries, other than any liens that
+could not, individually or in the aggregate, reasonably be expected to have a
+Material Adverse Effect; and (k) the Issuer is not now, has never been and does
+not contemplate becoming a "United States Real Property Holding Corporation" as
+defined in Section 897(c)(2) of the Code and Section 1.897-2(b) of the Treasury
+regulations thereunder.
+
+         SECTION 3.20. Regulatory Matters. (a) Carver Federal Savings Bank is
+the only "insured depository institution" within the meaning of the FDIA that
+is, directly or indirectly, "controlled" by the Issuer within the meaning of the
+FDIA and is the only federal savings bank of which 5% or more of any class of
+voting securities are directly or indirectly owned or controlled by the Issuer,
+all within the meaning of the HOLA. Carver Federal Savings Bank maintains in
+full force and effect deposit insurance with the FDIC through the Bank Insurance
+Fund or Savings Association Insurance Fund, and has fully paid to the FDIC as
+and when due all assessments with respect to its deposits as are required to
+maintain such deposit insurance in full force and effect. As of the date hereof,
+Carver Federal Savings Bank is rated Satisfactory under the Community
+Reinvestment Act.
+
+          (b) Carver Federal Savings Bank has paid, as and when due, all fees,
+charges, assessments, or the like, to each and every governmental or regulatory
+agency having jurisdiction with respect to it as required by law, regulation, or
+rule, other than any such items the failure of which to pay would not,
+individually or in the aggregate, have a Material Adverse Effect.
+
+          (c) Since January 1, 1997, the Issuer and its Subsidiaries have filed
+all material reports, registrations, applications and statements, together with
+any amendments required to be made with respect thereto, that are required to be
+filed with (A) the Office of Thrift Supervision, (B) the FDIC, and (C) any other
+applicable federal or state banking authorities (all such authorities referred
+to collectively as "REGULATORY AUTHORITIES," and all such filings and reports
+referred to collectively as the "REGULATORY REPORTS"). As of its filing date,
+each Regulatory Report complied in all material respects with all of the
+statutes, rules and regulations enforced or promulgated by the Regulatory
+Authority with which they were filed. Except for examinations conducted by a
+Regulatory Authority in the regular course of the business of the Issuer and its
+Subsidiaries since January 1, 1997, no Regulatory Authority has initiated any
+proceeding, or, to the knowledge of the Issuer or its Subsidiaries, any
+investigation, into the business or operations of the Issuer or its
+Subsidiaries. There is no unresolved violation, criticism or exception by any
+Regulatory Authority with respect to any report or statement relating to any
+examination or the Issuer or its Subsidiaries, except as to such matters which
+would not have a Material Adverse Effect.
+
+                                       14
+<PAGE>   18
+
+
+
+          (d) Neither the Issuer nor any of its Subsidiaries is a party to any
+commitment letter or similar undertaking to, cease-and-desist order or written
+agreement or memorandum of understanding with, or subject to any written order
+or directive from, or is a recipient of any extraordinary supervisory letter
+from, or has adopted any board resolutions at the request of, any federal or
+state governmental authority charged with the supervision or regulation of banks
+or engaged in the insurance of bank deposits, nor has the Issuer or its
+Subsidiaries been advised that any such governmental authority is contemplating
+issuing or requesting any of the foregoing.
+
+                                    ARTICLE 4
+
+                REPRESENTATIONS AND WARRANTIES OF THE PURCHASERS
+
+         Each Purchaser hereby represents and warrants to the Issuer, severally
+as to itself only and not jointly as to the other Purchaser, that:
+
+         SECTION 4.01. Existence and Power. Such Purchaser is duly organized,
+validly existing and in good standing under the laws of its jurisdiction of
+organization and has all powers (corporate, partnership or otherwise) and all
+material governmental licenses, authorizations, permits, consents and approvals
+required to carry on its business as now conducted. Such Purchaser is duly
+qualified to do business and is in good standing in each jurisdiction where such
+qualification is necessary, except for those jurisdictions where failure to be
+so qualified could not reasonably be expected to have, individually or in the
+aggregate, a material adverse effect on such Purchaser.
+
+         SECTION 4.02. Authorization. The execution, delivery and performance by
+such Purchaser of this Agreement and the Registration Rights Agreement, and the
+consummation of the transactions contemplated hereby and thereby, are within
+such Purchaser's powers (corporate, partnership or otherwise) and have been duly
+authorized by all necessary action on the part of such Purchaser. This Agreement
+constitutes and, when executed and delivered in accordance with its terms, the
+Registration Rights Agreement will constitute, a legal, valid and binding
+agreement of such Purchaser, enforceable against such Purchaser in accordance
+with its terms, except (i) as such enforcement is limited by bankruptcy,
+insolvency and other similar laws affecting the enforcement of creditors' rights
+generally, (ii) for limitations imposed by general principles of equity and
+(iii) that rights to indemnity may be limited by federal and state securities
+laws and public policy considerations.
+
+         SECTION 4.03.  Governmental Authorization.  The execution, delivery and
+performance by such Purchaser of this Agreement and the Registration Rights
+Agreement, and the consummation of the transactions contemplated hereby and
+
+                                       15
+<PAGE>   19
+
+thereby, require no action by or in respect of, or filing with, any governmental
+body, agency or official other than filings, notifications and consents that are
+immaterial to the consummation of the transactions contemplated hereby.
+
+         SECTION 4.04. Noncontravention. The execution, delivery and performance
+by such Purchaser of this Agreement and the Registration Rights Agreement, and
+the consummation of the transactions contemplated hereby and thereby, do not and
+will not (i) violate the organizational documents of such Purchaser, (ii)
+assuming compliance with the matters referred to in Section 4.03, violate any
+Applicable Law, except for any such violation which would not have a material
+adverse effect on the ability of such Purchaser to consummate the transactions
+contemplated hereby and thereby or (iii) require any consent or other action by
+any Person, or constitute a default, under any provision of any agreement or
+other instrument binding upon such Purchaser, except as to matters which would
+not be material to such Purchaser.
+
+         SECTION 4.05. Finders' Fees. The fees and commissions of any investment
+banker, broker, finder or other intermediary which has been retained by or is
+authorized to act on behalf of such Purchaser in connection with the
+transactions contemplated by this Agreement or the Registration Rights Agreement
+will be paid by such Purchaser.
+
+         SECTION 4.06. Private Placement. (a) Such Purchaser understands that
+the offering and sale of the Securities is intended to be exempt from
+registration under the Securities Act pursuant to Section 4(2) of the Securities
+Act and any applicable state securities or blue sky laws.
+
+          (b) The Securities to be acquired by such Purchaser pursuant to this
+Agreement are being acquired for its own account and without a view to the
+resale or distribution of such Securities or any interest therein other than in
+a transaction exempt from registration under the Securities Act.
+
+          (c) Such Purchaser is an "Accredited Investor" as such term is defined
+in Regulation D under the Securities Act.
+
+          (d) Such Purchaser has sufficient knowledge and experience in
+financial and business matters so as to be capable of evaluating the merits and
+risks of its investment in the Securities and such Purchaser is capable of
+bearing the economic risks of such investment, including a complete loss of its
+investment in the Securities. Such Purchaser understands that its investment in
+the Securities involves a high degree of risk.
+
+          (e) Such Purchaser has been furnished with and carefully read a copy
+of the Form 10-K, each of the Form 10-Qs and this Agreement and has been given
+the opportunity to ask questions of, and receive answers from, the Issuer
+
+                                       16
+<PAGE>   20
+
+concerning the terms and conditions of the Securities and other related matters.
+The Issuer has made available to such Purchaser or its agents all documents and
+information relating to an investment in the Securities requested by or on
+behalf of such Purchaser.
+
+          (f) Such Purchaser understands that the Securities have not been and,
+except as provided in the Registration Rights Agreement, are not being
+registered under the Securities Act or any state securities laws, and may not be
+offered, sold, pledged or otherwise transferred except in compliance with the
+Securities Act or state securities laws.
+
+                                    ARTICLE 5
+
+                   COVENANTS OF THE ISSUER AND THE PURCHASERS
+
+         SECTION 5.01. Confidentiality. Each Purchaser will hold, and will use
+its reasonable best efforts to cause its officers, directors, employees,
+accountants, counsel, consultants, advisors, financing sources, financial
+institutions, and agents (the "REPRESENTATIVES") to hold, in confidence, unless
+compelled to disclose by judicial or administrative process or by other
+requirements of law or national stock exchange, all confidential documents and
+information concerning the Issuer or any of its Affiliates that are furnished to
+such Purchaser, except to the extent that such information can be shown to have
+been (i) previously known on a nonconfidential basis by such Purchaser or such
+Representatives, (ii) in the public domain through no fault of such Purchaser or
+its Representatives (with respect to information received in their capacity as
+such) or (iii) later acquired by such Purchaser or such Representatives from
+sources other than the Issuer or any of its Affiliates not known by such
+Purchaser or such Representatives, as applicable, to be bound by any
+confidentiality obligation; provided that such Purchaser may disclose such
+information to any of its Representatives in connection with the transactions
+contemplated by this Agreement and the Registration Rights Agreement so long as
+such Persons are informed by such Purchaser of the confidential nature of such
+information and are directed by such Purchaser to treat such information
+confidentially. The obligation of each Purchaser to hold and to cause its
+Representatives to hold any such information in confidence shall be satisfied if
+such Purchaser exercises the same care with respect to such information as such
+Purchaser would take to preserve the confidentiality of its own similar
+information. If a Purchaser or any of its Representatives is requested to
+disclose any confidential information by judicial or administrative process or
+by other requirements of law or a national stock exchange, such Purchaser will
+promptly notify the Issuer of such request so that the Issuer may seek an
+appropriate protective order. Each Purchaser agrees that it will not, and will
+use its reasonable best efforts to cause its Representatives not to, use any
+confidential documents or information for any purpose other than monitoring and
+evaluating
+
+                                       17
+<PAGE>   21
+
+its investment in the Issuer and in connection with the transactions
+contemplated by this Agreement and the Registration Rights Agreement.
+
+         SECTION 5.02. Public Announcements. The parties agree to consult with
+each other before issuing any press release or making any public statement with
+respect to this Agreement and the transactions contemplated hereby and, except
+as may be required by Applicable Law or any listing agreement with any national
+securities exchange, will not issue any such press release or make any such
+public statement prior to such consultation. Notwithstanding the foregoing, the
+parties have agreed upon the form of press release to be issued by the Issuer in
+connection with the execution of this Agreement and each party may make public
+statements that are materially consistent with such press release without prior
+consultation with the other party.
+
+         SECTION 5.03. Restrictions of Certain Actions by the Purchasers. For so
+long as any Purchaser owns any Preferred Stock or any Common Stock, without the
+Issuer's prior consent, such Purchaser will not, and will cause each of its
+Affiliates not to, directly or indirectly:
+
+          (a) make, or take any action to solicit, initiate or encourage, either
+alone, in conjunction with another Person or as part of a group (as such term is
+defined in Section 13(d)(3) of the Exchange Act), any offer or proposal for, or
+any indication of interest in, a merger or other business combination involving
+the Issuer or the acquisition of (i) any equity interest in excess of five
+percent of the total voting power of the Issuer's voting securities or (ii) a
+substantial portion of the assets of the Issuer or any Subsidiary;
+
+          (b) make, or in any way participate in, any "solicitation" of
+"proxies" to vote (as such terms are defined in Rule 14a-1 under the Exchange
+Act or any successor provision), solicit any consent or become a "participant"
+in any "election contest" (as such terms are defined or used in Rule 14a-11
+under the Exchange Act or any successor provision);
+
+          (c) grant any proxies with respect to any Preferred Stock or Common
+Stock to any Person (other than as recommended by the Board of Directors of the
+Issuer) or deposit any such securities in a voting trust or enter into any other
+arrangement or agreement with respect to the voting thereof (other than a proxy
+granted to, or a voting trust or arrangement with, one or more of its
+Affiliates); or
+
+          (d) initiate, support or otherwise solicit stockholders for the
+approval of one or more stockholder proposals with respect to the Issuer as
+described in Rule 14a-8 under the Exchange Act (other than as recommended by the
+Board of Directors of the Issuer), or induce or attempt to induce any other
+Person to initiate any such stockholder proposal.
+
+                                       18
+<PAGE>   22
+
+
+
+          SECTION 5.04. Issuer Repurchases of Common Stock. In the case of MS,
+the Issuer agrees that, for so long as MS shall hold Series A Preferred Stock or
+shares of Common Stock received upon the conversion of Series A Preferred Stock,
+the Issuer (i) shall give MS prompt notice of the adoption by the Issuer of any
+plan or program to repurchase shares of Common Stock and (ii) to the extent that
+the repurchase of such shares would cause MS to hold shares of Common Stock (on
+an as converted basis) equal to more than 4.99% of the outstanding shares of
+Common Stock (assuming full conversion of the Series A Preferred Stock), the
+Issuer shall repurchase from MS a proportionate number of shares of Series A
+Preferred Stock at a price per share equal to the greater of (A) the liquidation
+preference per share plus an amount equal to accrued and unpaid dividends
+thereon (whether or not declared) to the date fixed for repurchase and (B) the
+value of the shares of Common Stock into which such share of Series A Preferred
+Stock is convertible based on the average weighted price per share of Common
+Stock paid pursuant to such repurchase plan or program.
+
+         SECTION 5.05. Right of First Offer. (a) If a Purchaser desires to
+transfer (i) any shares of Preferred Stock prior to the fourth anniversary of
+the date hereof or (ii) any shares of Common Stock issued upon conversion of
+Preferred Stock, such Purchaser shall give prompt written notice (the "TRANSFER
+NOTICE") to the Issuer of such intention, specifying the number of shares of
+Preferred Stock or Common Stock proposed to be transferred (the "OFFERED
+SHARES"). The Transfer Notice shall constitute an irrevocable offer (the
+"OFFER") by such Purchaser to sell to the Issuer the Offered Shares at a price
+(the "OFFER PRICE") equal to (A) in the case of Preferred Stock, the aggregate
+price specified by such Purchaser in the Transfer Notice and (B) in the case of
+the Common Stock, the aggregate Daily Price (as defined in the Series A
+Certificate of Designations or the Series B Certificate of Designations, as the
+case may be) of such Offered Shares on the Business Day immediately prior to
+date of delivery of the Transfer Notice. The Issuer shall have the right,
+exercisable by the Issuer within three Business Days after receipt of such
+Transfer Notice, to elect to purchase all, but not a part of, the Offered Shares
+specified in such Transfer Notice for cash at the Offer Price by delivery of a
+written notice (the "EXERCISE NOTICE") to such Purchaser stating the Issuer's
+irrevocable acceptance of the Offer.
+
+          (b) If the Issuer elects to purchase the Offered Shares, the closing
+of the purchase of the Offered Shares shall take place on a mutually acceptable
+closing date which shall be not more than five Business Days after delivery of
+the Exercise Notice. The closing shall take place at such time and place as the
+parties mutually agree.
+
+          (c) If the Issuer fails to elect to purchase the Offered Shares within
+the period specified in Section 5.05(a), such Purchaser shall be free, during
+the 60-day
+
+                                       19
+<PAGE>   23
+
+period following the expiration of such period, to transfer any portion of or
+all the Offered Shares at a price not less than 95% of the Offer Price.
+
+         SECTION 5.06. Board of Directors. (a) Provender shall be entitled to
+designate one director nominee to the Board of Directors of the Issuer for so
+long as it continues to beneficially own shares of Series B Preferred Stock (or
+shares of Common Stock received upon the conversion thereof) representing at
+least 50% of the Series B Preferred Stock (or the shares of Common Stock
+received upon the conversion thereof) purchased by Provender pursuant to this
+Agreement. Such director nominee shall be reasonably acceptable to the Issuer
+and shall initially be Fred Terrell. The Issuer agrees to use its best efforts
+to take all actions necessary to have such director nominee elected to the Board
+of Directors. The Issuer shall be deemed to have used its best efforts to elect
+such director nominee to the Board of Directors if it nominates such designee,
+includes the designee in the Issuer's proxy statement, recommends a vote for
+such designee and casts proxies given to the Issuer in favor of such designee.
+
+          (b) The director nominated pursuant to this Section 5.06 shall be
+entitled to receive the same compensation and benefits that are provided to the
+other non- executive members of the Board of Directors.
+
+         SECTION 5.07. Certain Life Insurance. As promptly as practicable after
+the date hereof, the Issuer shall procure a life insurance policy in an amount
+not less than $2,500,000 on the life of the current President and Chief
+Executive Officer of the Issuer. The Issuer shall maintain such policy for so
+long as the Series A Preferred Stock or the Series B Preferred Stock is
+outstanding.
+
+         SECTION 5.08. Certain Other Arrangements. For so long as the Purchasers
+hold Preferred Stock, in the event that the Issuer determines to issue shares of
+another series of Preferred Stock, each Purchaser shall have the option to
+exchange all (but not less than all) of its Preferred Stock for such other
+series of Preferred Stock on a dollar-for-dollar basis based on the liquidation
+preference and accrued but unpaid dividends on such Purchaser's shares of
+Preferred Stock and the liquidation preference or issue price, if lower, of such
+other series of Preferred Stock.
+
+                                    ARTICLE 6
+
+                                  MISCELLANEOUS
+
+         SECTION 6.01. Notices. All notices, requests and other communications
+to any party hereunder shall be in writing (including telecopier or similar
+writing) and shall be given to such party at its address or telecopier number
+set forth on the signature page hereof, or such other address or telecopier
+number as such party
+
+                                       20
+<PAGE>   24
+
+may hereinafter specify for the purpose to the party giving such notice. Each
+such notice, request or other communication shall be effective (i) if given by
+telecopy, when such telecopy is transmitted to the telecopy number specified
+pursuant to this Section 6.01 and the appropriate confirmation is received, (ii)
+if given by mail, 72 hours after such communication is deposited in the mails
+with first class postage prepaid, addressed as aforesaid or (iii) if given by
+any other means, when delivered at the address specified in this Section 6.01.
+
+         SECTION 6.02. Amendments; Waivers. (a) No failure or delay on the part
+of any party in exercising any right, power or privilege hereunder shall operate
+as a waiver thereof, nor shall any single or partial exercise thereof preclude
+any other or further exercise thereof or the exercise of any other right, power
+or privilege. The rights and remedies herein provided shall be cumulative and
+not exclusive of any rights or remedies provided by law.
+
+          (b) Any provision of this Agreement may be amended or waived if, but
+only if, such amendment or waiver is in writing and is signed, in the case of an
+amendment, by the parties hereto, or in the case of a waiver, by the party
+against whom the waiver is to be effective.
+
+         SECTION 6.03. Successors and Assigns. This provisions of this Agreement
+shall be binding upon and accrue to the benefit of the parties hereto and their
+respective successors and permitted assigns; provided that no party may assign
+any of its rights and obligations under this Agreement without the other party's
+prior written consent.
+
+         SECTION 6.04. Survival. The representations and warranties contained in
+this Agreement shall survive the Closing until December 31, 2000, except that
+(i) the representations and warranties contained in Sections 3.01, 3.02, 3.03,
+3.05, 4.01, 4.02, and 4.03 shall survive indefinitely and (ii) the
+representations and warranties contained in Sections 3.17, 3.18 and 3.19 shall
+survive until the expiration of the statute of limitations applicable to the
+matters covered thereby (giving effect to any waiver, mitigation or extension
+thereof, if applicable). Notwithstanding the preceding sentence, any
+representation or warranty in respect of which a claim may be brought under this
+Agreement shall survive the time at which it would otherwise terminate pursuant
+to the preceding sentence, if notice of the inaccuracy or breach thereof giving
+rise to such claim shall have been given in reasonable detail to the party
+against whom such claim may be brought prior to such time. The covenants and
+agreements of the parties contained in this Agreement shall survive the Closing
+in accordance with their terms or, if no term is specified, indefinitely.
+
+                                       21
+<PAGE>   25
+
+         SECTION 6.05. Entire Agreement. This Agreement (including the
+Disclosure Schedule), the Registration Rights Agreement and any other documents
+executed concurrently herewith constitute the entire agreement and understanding
+of the parties hereto and supersede any and all prior agreements and
+understandings, written or oral, relating to the subject matter hereof.
+
+         SECTION 6.06.  Applicable Law.  This Agreement shall be construed in
+accordance with and governed by the laws of the State of New York, without
+regard to the conflicts of law rules of such state.
+
+         SECTION 6.07. Severability. The invalidity or unenforceability of any
+provisions of this Agreement in any jurisdiction shall not affect the validity,
+legality or enforceability of the remainder of this Agreement in such
+jurisdiction or the validity, legality or enforceability of this Agreement,
+including any such provision, in any other jurisdiction, it being intended that
+all rights and obligations of the parties hereunder shall be enforceable to the
+fullest extent permitted by law.
+
+         SECTION 6.08. Fees and Expenses. Unless otherwise provided herein, all
+costs and expenses incurred in connection with the transactions contemplated by
+this Agreement shall be paid by the party incurring such costs and expenses. In
+the case of Provender, the Issuer shall pay reasonable out-of-pocket costs and
+expenses (including reasonable fees and expenses of counsel) incurred by
+Provender in connection with the purchase of the Securities in an amount up to,
+but not exceeding, $50,000. The Issuer shall pay any and all stamp, transfer and
+other similar taxes payable or determined to be payable in connection with the
+execution and delivery of this Agreement or the issuance of the Securities.
+
+         SECTION 6.09. Counterparts. This Agreement may be executed in any
+number of counterparts each of which shall be an original with the same effect
+as if the signatures thereto and hereto were upon the same instrument.
+
+                                       22
+<PAGE>   26
+
+
+         IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be
+duly executed as of the date first above written.
+
+                              CARVER BANCORP, INC.
+
+                              By:   /s/ Deborah C. Wright
+                                   ----------------------------------------
+                                   Name: Deborah C. Wright
+                                   Title: President and Chief Executive
+                                            Officer
+
+                              Address for notices:
+                              --------------------
+
+                                   Carver Bancorp, Inc.
+                                   75 West 125th Street
+                                   New York, New York 10027
+                                   Facsimile: (212) 426-6214
+                                   Attention: President and Chief Executive
+                                                Officer
+
+                              MORGAN STANLEY & CO. INCORPORATED
+
+                              By:   /s/ Roxanne M. Beer
+                                   ----------------------------------------
+                                   Name: Roxanne M. Beer
+                                   Title:   Vice President
+
+                              Address for notices:
+                              --------------------
+
+                                   Morgan Stanley & Co. Incorporated
+                                   1585 Broadway
+                                   New York, NY 10036
+                                   Facsimile: 212-761-0358
+                                   Attention: Roxanne M. Beer
+
+
+<PAGE>   27
+
+
+
+                              PROVENDER OPPORTUNITIES FUND L.P.
+
+                              By:   /s/ Derek K. Jones
+                                   ----------------------------------------
+                                   Name: Derek K. Jones
+                                   Title:   General Partner
+
+                              By:   /s/ Raymond J. Walsh, Jr.
+                                   ----------------------------------------
+                                   Name: Raymond J. Walsh, Jr.
+                                   Title:   General Partner
+
+                              Address for notices:
+
+                                   Provender Capital Group, LLC
+                                   17 State Street
+                                   New York, New York 10004
+                                   Facsimile: (212) 271-8875
+                                   Attention: Raymond J. Walsh, Jr.
+
+
+</TEXT>
+</DOCUMENT>

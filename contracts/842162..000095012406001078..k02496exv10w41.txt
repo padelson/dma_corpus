@@ -1,0 +1,452 @@
+<DOCUMENT>
+<TYPE>EX-10.41
+<SEQUENCE>6
+<FILENAME>k02496exv10w41.txt
+<DESCRIPTION>2006 MANAGEMENT STOCK PURCHASE PLAN (U.S.) TERMS AND CONDITIONS
+<TEXT>
+<PAGE>
+
+                                                                   EXHIBIT 10.41
+
+                                LEAR CORPORATION
+                         LONG-TERM STOCK INCENTIVE PLAN
+
+                    2006 MANAGEMENT STOCK PURCHASE PLAN (US)
+                              TERMS AND CONDITIONS
+
+1.    Deferral Election.
+
+      Any Eligible Employee selected by the Committee may irrevocably elect to
+defer (a) any whole percentage up to 90% of the Base Salary payable to him or
+her for the pay periods ending after December 31, 2005 and before January 1,
+2007, and/or (b) any whole percentage up to 100% of the bonus payable to him or
+her under the Company's Senior Executive Incentive Compensation Plan or
+Management Incentive Compensation Plan in the first quarter of 2006 by properly
+filing with the Committee a written notice to that effect ("Deferral Election")
+on the form furnished by the Committee and in accordance with such other
+requirements as may be established by the Committee. An Eligible Employee who
+makes a Deferral Election shall be a Participant.
+
+      "Base Salary" means a Participant's annual base salary rate on January 1,
+2006 from the Company or an Affiliate, including any elective contributions of
+the Participant that are not includable in his gross income under Code Sections
+125 or 401(k), and before taking into account his or her Deferral Election.
+
+2.    Restricted Stock Units.
+
+      (a)   In consideration for the Participant's Deferral Election, the
+            Participant shall be credited as of March 15, 2006 with Restricted
+            Stock Units at a discounted price ("Discount Rate") as provided in
+            the following table:
+
+<TABLE>
+<CAPTION>
+Total dollar amount of Participant's Deferral Election,         Applicable Discount Rate:
+expressed as a percentage of the Participant's Base Salary:
+<S>                                                             <C>
+15% or less                                                               20%
+Over 15% and up to 100%                                                   30%
+Over 100%                                                                 20%
+</TABLE>
+
+      (b)   The total number of Restricted Stock Units credited to a Participant
+            under the Plan will be determined according to the following
+            calculation:
+
+            (i)   the dollar amount of the Participant's Deferral Election that
+                  does not exceed 15% of the Participant's base salary, divided
+                  by the product of (A) the average Fair Market Value over the
+                  last five business days in 2005 (December 23, 27, 28, 29 and
+                  30) (the "Average FMV") multiplied by (B) 80%; plus
+
+                                       1
+<PAGE>
+
+            (ii)  the dollar amount of the Participant's Deferral Election over
+                  15% and up to 100% of the Participant's base salary, divided
+                  by the product of (A) the Average FMV multiplied by (B) 70%;
+                  plus
+
+            (iii) the dollar amount of the Participant's Deferral Election over
+                  100% of the Participant's base salary, divided by the product
+                  of (A) the Average FMV multiplied by (B) 80%.
+
+      (c)   The total number of Restricted Stock Units determined in Section
+            2(b) will be credited to the Participant in the form of Salary
+            Restricted Stock Units and/or Bonus Restricted Stock Units. The
+            number of Salary Restricted Stock Units credited shall be the same
+            proportion of the total Restricted Stock Units as the amount of base
+            salary deferred in the Participant's Deferral Election is of the
+            total amount deferred in the Participant's Deferral Election. The
+            number of Bonus Restricted Stock Units credited shall be the same
+            proportion of the total Restricted Stock Units as the amount of
+            bonus deferred in the Participant's Deferral Election is of the
+            total amount deferred in the Participant's Deferral Election.
+
+3.    Restriction Period.
+
+      The Restriction Period under this 2006 Management Stock Purchase Plan (US)
+(the "Agreement") shall be the three-year period commencing on March 15, 2006
+and ending on March 14, 2009.
+
+4.    Dividend Equivalents.
+
+      If the Company declares a cash dividend on Shares, the Participant shall
+be credited with dividend equivalents as of the payment date for the dividend
+equal to the amount of the cash dividend per Share multiplied by the Restricted
+Stock Units credited to the Participant under Section 2(b) as of the record
+date. Dividend equivalents shall be credited to a notional account established
+for the Participant ("Dividend Equivalent Account"). Interest shall be credited
+to the Participant's Dividend Equivalent Account, compounded monthly, until
+payment of such account to the Participant. The rate of such interest shall be
+the prime rate of interest as reported by the Midwest edition of The Wall Street
+Journal for the second business day of each quarter on an annual basis.
+
+5.    Timing and Form of Payout.
+
+      Except as provided in Sections 6, 7 or 8, after the end of the Restriction
+Period, the Participant shall be entitled to receive a number of Shares equal to
+the number of Restricted Stock Units credited to the Participant under Section
+2(b) and a cash payment equal to the amount credited to the Participant's
+Dividend Equivalent Account under Section 4. Delivery of such Shares shall be
+made as soon as administratively feasible after the end of the Restriction
+Period or such later date as may have been elected by the Participant under
+Section 9. Delivery of the cash payment of any amount credited to the
+Participant's Dividend Equivalent Account shall be made as soon as
+administratively feasible after the end of the Restriction Period.
+
+                                       2
+<PAGE>
+
+6.    Termination of Employment Due to Death, End of Service or Disability.
+
+      (a)   Before March 15, 2006.
+
+            A Participant who ceases to be an employee prior to March 15, 2006
+            by reason of death, End of Service or Disability shall be terminated
+            from the Plan, and his Deferral Election shall be cancelled. Any
+            base salary earned but not paid due to the Participant's Deferral
+            Election shall be paid to the Participant (or in the case of the
+            Participant's death, the Participant's beneficiary) in cash as soon
+            as administratively feasible after his termination of employment.
+
+      (b)   After March 14, 2006 but Before January 1, 2007.
+
+            If the Participant ceases to be an employee after March 14, 2006 but
+            prior to January 1, 2007 by reason of death, End of Service or
+            Disability, the Participant (or in the case of the Participant's
+            death, the Participant's beneficiary) shall be entitled to receive a
+            number of Shares equal to the sum of (i) and (ii):
+
+(i) the number of Salary Restricted Stock Units credited to the Participant
+under Section 2(c) multiplied by a fraction, the numerator of which is the
+number of full pay periods in the period beginning on January 1, 2006 and ending
+on the date the Participant ceases to be an employee and the denominator of
+which is 24; and
+
+(ii) the number of Bonus Restricted Stock Units credited to the Participant
+under Section 2(c).
+
+      (c)   After December 31, 2006.
+
+            If the Participant ceases to be an employee after December 31, 2006
+            but prior to the end of the Restriction Period by reason of death,
+            End of Service or Disability, the Participant (or in the case of the
+            Participant's death, the Participant's beneficiary) shall be
+            entitled to receive a number of Shares equal to the number of
+            Restricted Stock Units credited to the Participant under Section
+            2(b) and a cash payment equal to the Participant's Dividend
+            Equivalent Account under Section 4.
+
+      (d)   Beneficiary.
+
+            Any distribution made with respect to a Participant who has died
+            shall be paid to the beneficiary designated by the Participant
+            pursuant to Article 11 of the Plan to receive the Participant's
+            Shares and any cash payment under this Agreement. If the
+            Participant's beneficiary predeceases the Participant or no
+            beneficiary has been designated, distribution of the Participant's
+            Shares and any cash payment shall be made to the Participant's
+            surviving spouse and if none, to the Participant's estate.
+
+                                       3
+<PAGE>
+
+      (e)   End of Service.
+
+            An employee's "End of Service" means his or her retirement after
+            attaining age 55 and completing ten years of service (as defined in
+            the Lear Corporation Pension Plan, regardless of whether the
+            employee participates in such plan).
+
+7.    Involuntary Termination Other Than For Cause.
+
+      (a)   Before March 15, 2006.
+
+            A Participant whose employment involuntarily terminates other than
+            for Cause or for any reason described in Section 6 prior to March
+            15, 2006 shall be terminated from the Plan, and his Deferral
+            Election shall be cancelled. Any base salary earned but not paid due
+            to the Participant's Deferral Election shall be paid to the
+            Participant in cash as soon as administratively feasible after his
+            termination of employment.
+
+      (b)   After March 14, 2006 but Before January 1, 2007.
+
+            A Participant whose employment involuntarily terminates other than
+            for Cause or for any reason described in Section 6 after March 14,
+            2006 but prior to January 1, 2007 shall be entitled to receive a
+            number of Shares equal to the sum of (i), (ii), (iii) and (iv):
+
+            (i)   the number of Salary Restricted Stock Units credited to the
+                  Participant under Section 2(c) multiplied by a fraction, the
+                  numerator of which is the number of full pay periods in the
+                  period beginning on January 1, 2006 and ending on the date the
+                  Participant ceases to be an employee, and the denominator of
+                  which is 24, multiplied by a fraction, the numerator of which
+                  is the number of full months in the period beginning on March
+                  15, 2006 and ending on the date the Participant ceases to be
+                  an employee (the "Elapsed Months"), and the denominator of
+                  which is 36; and
+
+            (ii)  the number of Bonus Restricted Stock Units credited to the
+                  Participant under Section 2(c) multiplied by a fraction, the
+                  numerator of which is the Elapsed Months, and the denominator
+                  of which is 36; and
+
+            (iii) the lesser of:
+
+                  (A)   the quotient of (i) the total amount of base salary
+                        deferred in the Participant's Deferral Election
+                        multiplied by a fraction, the numerator of which is the
+                        number of full pay periods in the period beginning on
+                        January 1, 2006 and ending on the date the Participant
+                        ceases to be an employee, and the denominator of which
+                        is 24, multiplied by a fraction, the numerator of which
+                        is 36 minus the Elapsed Months, and the denominator of
+                        which is 36, divided by (ii) the Fair Market Value of a
+                        Share on the date the Participant ceases to be an
+                        employee, or
+
+                                       4
+<PAGE>
+
+                  (B)   the number of Salary Restricted Units determined under
+                        Section 2(c) multiplied by a fraction, the numerator of
+                        which is the number of full pay periods in the period
+                        beginning on January 1, 2006 and ending on the date the
+                        Participant ceases to be an employee, and the
+                        denominator of which is 24, multiplied by a fraction,
+                        the numerator of which is 36 minus the Elapsed Months,
+                        and the denominator of which is 36; and
+
+            (iv)  the lesser of:
+
+                  (A)   the quotient of (i) the amount of bonus deferred in the
+                        Participant's Deferral Election multiplied by a
+                        fraction, the numerator of which is 36 minus the Elapsed
+                        Months, and the denominator of which is 36, divided by
+                        (ii) the Fair Market Value of a Share on the date the
+                        Participant ceases to be an employee, or
+
+                  (B)   the number of Bonus Restricted Stock Units determined
+                        under Section 2(c) multiplied by a fraction, the
+                        numerator of which is 36 minus the Elapsed Months, and
+                        the denominator of which is 36.
+
+      (c)   After December 31, 2006.
+
+            A Participant whose employment involuntarily terminates other than
+            for cause or for any reason described in Section 6 after December
+            31, 2006 but prior to the end of the Restriction Period shall be
+            entitled to receive a number of Shares equal to the sum of (i) and
+            (ii):
+
+                  (i) the number of the Restricted Stock Units credited to the
+Participant under Section 2(b) multiplied by a fraction, the numerator of which
+is the Elapsed Months, and the denominator of which is 36, and
+
+                  (ii) the lesser of:
+
+                  (A)   the quotient of (i) the total amount deferred in the
+                        Participant's Deferral Election multiplied by a
+                        fraction, the numerator of which is 36 minus the Elapsed
+                        Months, and the denominator of which is 36, divided by
+                        (ii) the Fair Market Value of a Share on the date the
+                        Participant ceases to be an employee, or
+
+                  (B)   the number of Restricted Stock Units determined under
+                        Section 2(b) multiplied by a fraction, the numerator of
+                        which is 36 minus the Elapsed Months, and the
+                        denominator of which is 36.
+
+8.    Termination of Employment for Any Other Reason.
+
+      (a)   Before March 15, 2006.
+
+            A Participant whose employment terminates for any reason other than
+            those described in Sections 6 and 7 prior to March 15, 2006 shall be
+            terminated from
+
+                                       5
+<PAGE>
+
+            the Plan, and his Deferral Election shall be cancelled. Any base
+            salary earned but not paid due to the Participant's Deferral
+            Election shall be paid to the Participant in cash as soon as
+            administratively feasible after his termination of employment.
+
+      (b)   After March 14, 2006 But Before January 1, 2007.
+
+            A Participant whose employment terminates for any reason other than
+            those described in Sections 6 and 7 after March 14, 2006 but prior
+            to January 1, 2007 shall be entitled to receive a number of Shares
+            equal to the sum of (i) and (ii):
+
+(i)   the lesser of:
+
+                  (A)   the quotient of (i) the amount of base salary the
+                        Participant elected to defer in the Participant's
+                        Deferral Election multiplied by a fraction, the
+                        numerator of which is the number of full pay periods in
+                        the period from January 1, 2006 to the date the
+                        Participant ceases to be an employee, and the
+                        denominator of which is 24, divided by (ii) the Fair
+                        Market Value of a Share on the date the Participant
+                        ceases to be an employee, or
+
+                  (B)   the number of Salary Restricted Stock Units credited to
+                        the Participant under Section 2(c) multiplied by a
+                        fraction, the numerator of which is the number of full
+                        pay periods in the period from January 1, 2006 to the
+                        date the Participant ceases to be an employee, and the
+                        denominator of which is 24; and
+
+(ii)  the lesser of:
+
+            (A)   the amount of bonus deferred in the Participant's Deferral
+                  Election divided by the Fair Market Value of a Share on the
+                  date the Participant ceases to be an employee, or
+
+            (B)   the number of Bonus Restricted Stock Units credited to the
+                  Participant under Section 2(c).
+
+      (c)   After December 31, 2006.
+
+            A Participant whose employment terminates for any reason other than
+            those described in Sections 6 and 7 after December 31, 2006 but
+            prior to the end of the Restriction Period shall be entitled to
+            receive a number of Shares equal to the lesser of: the total amount
+            deferred in the Participant's Deferral Election divided by the Fair
+            Market Value of a Share on the date the Participant ceases to be an
+            employee; or (ii) the number of Restricted Stock Units credited to
+            the Participant under Section 2(b).
+
+9.    Election to Defer Beyond Restriction Period.
+
+      The Participant may elect to defer delivery of any or all Shares due to
+Participant hereunder to a date after the Restriction Period expires by properly
+filing with the Committee a
+
+                                       6
+<PAGE>
+
+timely irrevocable deferral election that complies with Code Section 409A and
+such other requirements as may be established by the Committee. In his or her
+election to defer, the Participant may choose between deferral to a particular
+calendar year, or to the year following his or her termination of employment,
+but in no event may the Participant defer delivery of a Share more than ten
+years beyond the expiration of the Restriction Period under Section 3. If a
+Participant terminates employment with the Company and all Affiliates for any
+reason other than End of Service (i) after the Restriction Period expires and
+(ii) before the calendar year specified in a deferral election, then he or she
+will be deemed to have elected to defer delivery to the calendar year following
+his or her termination of employment. In addition, if the Participant dies while
+employed with the Company or any Affiliate, any Shares remaining to be paid in
+respect of this Agreement will be paid to his or her beneficiary designated
+under the Plan as soon as practicable, regardless of any outstanding election to
+defer. Shares whose receipt is deferred under this Section 9 will be delivered
+on or about March 15 of the year to which they were deferred.
+
+10.   Assignment and Transfers.
+
+      The rights and interests of the Participant hereunder may not be assigned,
+encumbered or transferred except, in the event of the death of the Participant,
+by will or the laws of descent and distribution.
+
+11.   Withholding Tax.
+
+      The Company and any Affiliate shall have the right to retain Shares that
+are distributable to the Participant hereunder to the extent necessary to
+satisfy any withholding taxes, whether federal, state or local, triggered by the
+distribution of Shares under this Agreement.
+
+12.   No Limitation on Rights of the Company.
+
+      The grant hereunder shall not in any way affect the right or power of the
+Company to make adjustments, reclassification, or changes in its capital or
+business structure, or to merge, consolidate, dissolve, liquidate, sell or
+transfer all or any part of its business or assets.
+
+13.   Plan, Terms and Conditions and Deferral Election Not a Contract of
+      Employment.
+
+      Neither the Plan, the Terms and Conditions, nor the Deferral Election is a
+contract of employment, and no terms of employment of the Participant shall be
+affected in any way by the Plan, the Terms and Conditions, the Deferral Election
+or related instruments except as specifically provided therein. Neither the
+establishment of the Plan, the Terms and Conditions, nor the Deferral Election
+shall be construed as conferring any legal rights upon the Participant for a
+continuation of employment, nor shall they interfere with the right of the
+Company or any Affiliate to discharge the Participant and to treat Participant
+without regard to the effect that such treatment might have upon Participant as
+a Participant.
+
+14.   Participant to Not Have Rights as a Stockholder.
+
+      The Participant shall not have rights as a stockholder with respect to any
+Shares subject to the Deferral Election prior to the date on which he or she is
+recorded as the holder of such Shares on the records of the Company.
+
+                                       7
+<PAGE>
+
+15.   Notice.
+
+      Any notice or other communication required or permitted hereunder shall be
+in writing and shall be delivered personally, or sent by certified, registered
+or express mail, postage prepaid. Any such notice shall be deemed given when so
+delivered personally or, if mailed, three days after the date of deposit in the
+United States mail, in the case of the Company to 21557 Telegraph Road,
+Southfield, Michigan, 48034, Attention: General Counsel and, in the case of the
+Participant, to its address set forth in the Deferral Election or, in each case,
+to such other address as may be designated in a notice given in accordance with
+this Section.
+
+16.   Governing Law.
+
+      This Agreement shall be construed and enforced in accordance with, and
+governed by, the laws of the State of Michigan, determined without regard to its
+conflict of law rules.
+
+17.   Plan Document Controls.
+
+      Any term capitalized herein but not defined shall have the meaning set
+forth in the Lear Corporation Long-Term Stock Incentive Plan (the "Plan"). The
+rights herein granted are in all respects subject to the provisions set forth in
+the Plan to the same extent and with the same effect as if set forth fully
+herein. In the event that the terms set forth herein conflict with the terms of
+the Plan document, the Plan document shall control.
+
+18.   Code Section 409A
+
+      Notwithstanding any other provision herein, this Agreement is intended to
+comply with Code Section 409A and shall at all times be interpreted and
+administered in accordance with such intent. To the extent that any provision of
+the Agreement violates Code Section 409A, such provision shall be automatically
+reformed, if possible, to comply with Code Section 409A or stricken from the
+Agreement.
+
+                                       8
+</TEXT>
+</DOCUMENT>

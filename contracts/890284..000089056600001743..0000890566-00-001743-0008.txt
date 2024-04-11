@@ -1,0 +1,1455 @@
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>8
+<FILENAME>0008.txt
+<TEXT>
+
+                                                                    EXHIBIT 10.1
+
+                        SECURITIES PURCHASE AGREEMENT
+
+            THIS SECURITIES PURCHASE AGREEMENT, dated as of the date of
+acceptance set forth below (this "Agreement"), is entered into by and between
+HENLEY HEALTHCARE, INC. a Texas corporation, with headquarters located at 120
+Industrial Boulevard, Sugar Land, Texas 77478 (the "Company"), and each entity
+named on a signature page hereto (each, a "Buyer") (each agreement with a Buyer
+being deemed a separate and independent agreement between the Company and such
+Buyer, except that each Buyer acknowledges and consents to the rights granted to
+each other Buyer under such agreement and the Transaction Agreements, as defined
+below, referred to therein).
+
+                             W I T N E S S E T H:
+
+            WHEREAS, the Company and the Buyer are executing and delivering this
+Agreement in accordance with and in reliance upon the exemption from securities
+registration afforded, INTER ALIA, by Rule 506 under Regulation D ("Regulation
+D") as promulgated by the United States Securities and Exchange Commission (the
+"SEC") under the Securities Act of 1933, as amended (the "1933 Act"), and/or
+Section 4(2) of the 1933 Act; and
+
+            WHEREAS, the Buyer wishes to purchase, upon the terms and subject to
+the conditions of this Agreement, shares of Series E Convertible Preferred
+Stock, par value $0.10 per share and having a stated value of $1000 per share,
+of the Company (the "Convertible Preferred Stock") which will be convertible
+into shares of Common Stock, $.01 par value per share of the Company (the
+"Common Stock"), upon the terms and subject to the conditions of such
+Convertible Preferred Stock, together with the Warrants (as defined below)
+exercisable for the purchase of shares of Common Stock, and subject to
+acceptance of this Agreement by the Company;
+
+            NOW THEREFORE, in consideration of the premises and the mutual
+covenants contained herein and other good and valuable consideration, the
+receipt and sufficiency of which are hereby acknowledged, the parties agree as
+follows:
+
+            1.    AGREEMENT TO PURCHASE; PURCHASE PRICE.
+
+            A.    PURCHASE; CERTAIN DEFINITIONS.
+
+            (i) The undersigned hereby agrees to purchase from the Company
+Convertible Preferred Stock having a stated value in the amount set forth on the
+Buyer's signature page of this Agreement (the "Preferred Stock,"; which term
+includes the Initial preferred Stock as defined below) out of a total offering
+of such Convertible Preferred Stock having a stated value of $2,500,000, and
+
+                                      1
+<PAGE>
+having the terms and conditions set forth in the Statement of Designations of
+the Series E Convertible Preferred Stock of the Company attached hereto as ANNEX
+I (the "Certificate of Designations").
+
+            (ii) Subject to the terms and conditions of this Agreement and the
+other Transaction Agreements, the Buyer will purchase (x) Convertible Preferred
+Stock having a stated value of $1,500,000 multiplied by the Buyer's Allocable
+Share (the "Initial Preferred Stock") on the Initial Closing Date (as those
+terms are defined below) and (y) the balance of the Preferred Stock (the
+"Additional Preferred Stock") on the Additional Closing Date (as defined below).
+
+            (iii) The purchase price to be paid by the Buyer shall be equal to
+the amount set forth on the Buyer's signature page of this Agreement, and shall
+be payable in United States Dollars.
+
+            B. CERTAIN DEFINITIONS As used herein, each of the following terms
+has the meaning set forth below, unless the context otherwise requires:
+
+            (i) "Additional Closing Date" means the date of the closing of the
+purchase and sale of the Additional Preferred Stock, as provided herein.
+
+            (ii) "Buyer's Allocable Share" means the fraction of which the
+numerator is the stated value of the Buyer's Preferred Stock specified on the
+Buyer's signature page of this Agreement and the denominator is $2,500,000.
+
+            (iii) "Closing Date" means the Initial Closing Date or the
+Additional Closing Date, as the case may be.
+
+            (iv) "Converted Shares" means the shares of Common Stock issuable
+upon conversion of the Preferred Stock.
+
+            (v) "Effective Date" means the effective date of the Registration
+Statement covering the Registrable Securities (as those terms are defined in the
+Registration Rights Agreement defined below).
+
+            (vi) "Initial Closing Date" means the date of the closing of the
+purchase and sale of the Initial Preferred Stock, as provided herein.
+
+            (vii) "Purchase Price" means the purchase price for the Preferred
+Stock.
+
+            (viii)"Securities" means the Preferred Stock, the Warrants and the
+Common Stock issuable upon conversion of the Preferred Stock or the exercise of
+the Warrants.
+
+                                      2
+<PAGE>
+            (ix) "Shares" means the shares of Common Stock representing any or
+all of the Converted Shares and the Warrant Shares.
+
+            (x) "Strategic Partner" means a third party unaffiliated with the
+Company as of the date hereof which party (i) is engaged in a business which is
+the business in which the Company is engaged or a similar or related business,
+and (ii) subsequently purchases equity securities of the Company (or securities
+convertible into equity securities of the Company), where such purchase is
+accompanied or followed by any one or more of the following: the licensing by
+the Company of all or any portion of its technology to such third party, the
+licensing by such third party of all or any portion of its technology to the
+Company, or any other coordination of all or a portion of their respective
+business activities or operations by the Company and such third party. By way of
+illustration and not in limitation of the foregoing, if a third party entity
+engaged in the manufacturing or distribution of rehabilitation equipment or
+similar products (exclusively or as one of multiple fields of endeavor)
+purchases an equity interest in the Company where the Company and such third
+party intend that such investment is to be accompanied by any one or more of a
+licensing agreement by one or the other of the other party's technology or by a
+cross-licensing agreement, by an OEM agreement, by a joint development agreement
+or by other coordination of design, production or marketing activities, such
+third party would be a Strategic Partner.
+
+            (xi) "Warrant Shares" means the shares of Common Stock issuable upon
+exercise of the Warrants.
+
+            C.    FORM OF PAYMENT; DELIVERY OF CERTIFICATES.
+
+            (i) The Buyer shall pay the Purchase Price for the relevant
+Preferred Stock by delivering immediately available good funds in United States
+Dollars to the escrow agent (the "Escrow Agent") identified in the Joint Escrow
+Instructions attached hereto as ANNEX II (the "Joint Escrow Instructions") on
+the date prior to the relevant Closing Date.
+
+            (ii) No later than the relevant Closing Date, but in any event
+promptly following payment by the Buyer to the Escrow Agent of the relevant
+Purchase Price, the Company shall deliver one or more certificates representing
+the Preferred Stock and the Warrants to be issued hereunder, each duly executed
+on behalf of the Company and issued in the name of the Buyer (collectively, the
+"Certificates") to the Escrow Agent.
+
+            (iii) By signing this Agreement, each of the Buyer and the Company,
+subject to acceptance by the Escrow Agent, agrees to all of the terms and
+conditions of, and becomes a party to, the Joint Escrow Instructions, all of the
+provisions of which are incorporated herein by this reference as if set forth in
+full.
+
+            D. METHOD OF PAYMENT. Payment into escrow of the Purchase Price
+shall be made by wire transfer of funds to:
+
+                                      3
+<PAGE>
+                  Bank of New York
+                  350 Fifth Avenue
+                  New York, New York 10001
+
+                  ABA# 021000018
+                  For credit to the account of Krieger & Prager LLP,  Esqs.
+                  Account No.: [To be provided to the Buyer by Krieger & Prager
+                               LLP]
+                  Re: Henley Healthcare, Inc.
+
+Not later than 5:00 p.m., New York time, on the date which is three (3)
+Nasdaq/SmallCap Market trading days after the Company shall have accepted this
+Agreement and returned a signed counterpart of this Agreement to the Escrow
+Agent by facsimile, the Buyer shall deposit with the Escrow Agent the Purchase
+Price for the Preferred Stock in immediately available funds. Time is of the
+essence with respect to such payment, and failure by the Buyer to make such
+payment, shall allow the Company to cancel this Agreement.
+
+            E. ESCROW PROPERTY. The Purchase Price delivered to the Escrow Agent
+as contemplated by Section 1(d) hereof is referred to as the "Escrow Funds." The
+Escrow Funds and the Certificates delivered to the Escrow Agent as contemplated
+by Section 1(c) hereof are referred to as the "Escrow Property."
+
+            2. BUYER REPRESENTATIONS, WARRANTIES, ETC.; ACCESS TO INFORMATION;
+INDEPENDENT INVESTIGATION.
+
+            The Buyer represents and warrants to, and covenants and agrees with,
+the Company as follows:
+
+            A. Without limiting Buyer's right to sell the Common Stock pursuant
+to the Registration Statement, the Buyer is purchasing the Preferred Stock and
+the Warrants and will be acquiring the Shares for its own account for investment
+only and not with a view towards the public sale or distribution thereof and not
+with a view to or for sale in connection with any distribution thereof.
+
+            B. The Buyer is (i) an "accredited investor" as that term is defined
+in Rule 501 of the General Rules and Regulations under the 1933 Act by reason of
+Rule 501(a)(3), (ii) experienced in making investments of the kind described in
+this Agreement and the related documents, (iii) able, by reason of the business
+and financial experience of its officers (if an entity) and professional
+advisors (who are not affiliated with or compensated in any way by the Company
+or any of its affiliates or selling agents), to protect its own interests in
+connection with the transactions described in this Agreement, and the related
+documents, and (iv) able to afford the entire loss of its investment in the
+Securities.
+
+                                      4
+<PAGE>
+            C. All subsequent offers and sales of the Securities by the Buyer
+shall be made pursuant to registration of the Shares under the 1933 Act or
+pursuant to an exemption from registration.
+
+            D. The Buyer understands that the Securities are being offered and
+sold to it in reliance on specific exemptions from the registration requirements
+of United States federal and state securities laws and that the Company is
+relying upon the truth and accuracy of, and the Buyer's compliance with, the
+representations, warranties, agreements, acknowledgments and understandings of
+the Buyer set forth herein in order to determine the availability of such
+exemptions and the eligibility of the Buyer to acquire the Securities.
+
+            E. The Buyer and its advisors, if any, have been furnished with all
+materials relating to the business, finances and operations of the Company and
+materials relating to the offer and sale of the Preferred Stock and the offer of
+the Shares which have been requested by the Buyer, including those set forth on
+ANNEX III hereto. The Buyer and its advisors, if any, have been afforded the
+opportunity to ask questions of the Company and have received complete and
+satisfactory answers to any such inquiries. Without limiting the generality of
+the foregoing, the Buyer has also had the opportunity to obtain and to review
+the Company's (1) Annual Report on Form 10-K, as amended, for the fiscal year
+ended December 31 1999, (2) Quarterly Report on Form 10-Q for the fiscal quarter
+ended June 30, 2000; (3) Current Reports on Form 8-K filed on September 1, 2000
+and September 21, 2000; and (4), Proxy Statement dated July 28, 2000
+(collectively, the "Company's SEC Documents").
+
+            F. The Buyer understands that its investment in the Securities
+involves a high degree of risk.
+
+            G. The Buyer understands that no United States federal or state
+agency or any other government or governmental agency has passed on or made any
+recommendation or endorsement of the Securities.
+
+            H. This Agreement and the other Transaction Agreements to which the
+Buyer is a party have been duly and validly authorized, executed and delivered
+on behalf of the Buyer and are valid and binding agreements of the Buyer
+enforceable in accordance with their respective terms, subject as to
+enforceability to general principles of equity and to bankruptcy, insolvency,
+moratorium and other similar laws affecting the enforcement of creditors' rights
+generally.
+
+            3. COMPANY REPRESENTATIONS, ETC. The Company represents and warrants
+to the Buyer as of the date hereof and as of each Closing Date that, except as
+otherwise provided in the Company Disclosure Materials attached hereto as ANNEX
+IV hereto:
+
+                                      5
+<PAGE>
+            A. CONCERNING THE PREFERRED STOCK AND THE SHARES. The Preferred
+Stock has been duly authorized, and when issued and paid for in accordance with
+the terms of this Agreement, will be duly and validly issued, fully paid and
+non-assessable and will not subject the holder thereof to personal liability
+solely by reason of acquiring the Preferred Stock hereunder. There are no
+preemptive rights of any stockholder of the Company, as such, to acquire the
+Preferred Stock, the Warrants or the Shares which have not been waived.
+
+            B. REPORTING COMPANY STATUS. The Company is a corporation duly
+organized, validly existing and in good standing under the laws of the State of
+Texas and has the requisite corporate power to own its properties and to carry
+on its business as now being conducted. The Company is duly qualified as a
+foreign corporation to do business and is in good standing in each jurisdiction
+where the nature of the business conducted or property owned by it makes such
+qualification necessary, other than those jurisdictions in which the failure to
+so qualify would not have a material adverse effect on the business, operations
+or financial condition or results of operation of the Company and its
+subsidiaries taken as a whole. The Company has registered its stock and is
+obligated to file reports pursuant to Section 12 of the 1934 Act. The Common
+Stock is listed and traded on The Nasdaq/SmallCap Market. The Company has
+received no notice, either oral or written, with respect to the continued
+eligibility of the Common Stock for such listing, and the Company has maintained
+all requirements for the continuation of such listing.
+
+            C. AUTHORIZED SHARES. The authorized capital stock of the Company
+consists of (i) 50,000,000 shares of Common Stock, $.01 par value per share, of
+which approximately 15,172,001shares have been issued and are outstanding as of
+the date hereof and (ii) 10,000,000 shares of Preferred Stock, par value $ .10
+per share, which have been issued in four series as follows:
+
+            SERIES                         AUTHORIZED     ISSUED OUTSTANDING
+------------------------------             ----------     ------ -----------
+Series A Convertible Preferred               5,000         2,500     100
+Series B Convertible Preferred               8,000         4,700   2,900
+Series C Convertible Preferred               2,250           750     750
+Series D Convertible Preferred               3,885         2,775   1,170.46
+
+All issued and outstanding shares of Common Stock have been duly authorized and
+validly issued and are fully paid and nonassessable. The Company has sufficient
+authorized and unissued shares of Common Stock as may be necessary to effect the
+issuance of the Shares as required by Section 4(h) of this Agreement. The Shares
+have been duly authorized and, when issued upon conversion of, or as dividends
+on, the Preferred Stock or upon exercise of the Warrants, each in accordance
+with its respective terms, will be duly and validly issued, fully paid and
+non-assessable and will not subject the holder thereof to personal liability by
+reason of being such holder.
+
+                                      6
+<PAGE>
+            D. SECURITIES PURCHASE AGREEMENT; REGISTRATION RIGHTS AGREEMENT AND
+STOCK. This Agreement and the Registration Rights Agreement, the form of which
+is attached hereto as ANNEX V (the "Registration Rights Agreement"), and the
+transactions contemplated thereby, have been duly and validly authorized by the
+Company. This Agreement has been duly executed and delivered by the Company and
+this Agreement is, and each of the other Transaction Agreements, when executed
+and delivered by the Company, will be, a valid and binding agreement of the
+Company enforceable in accordance with their respective terms, subject as to
+enforceability to general principles of equity and to bankruptcy, insolvency,
+moratorium, and other similar laws affecting the enforcement of creditors'
+rights generally.
+
+            E. NON-CONTRAVENTION. The execution and delivery of this Agreement
+and the Registration Rights Agreement by the Company, the issuance of the
+Securities, and the consummation by the Company of the other transactions
+contemplated by this Agreement, the Registration Rights Agreement, and the
+Preferred Stock do not and will not conflict with or result in a breach by the
+Company of any of the terms or provisions of, or constitute a default under (i)
+the articles of incorporation or by-laws of the Company, each as currently in
+effect, (ii) any indenture, mortgage, deed of trust, or other material agreement
+or instrument to which the Company is a party or by which it or any of its
+properties or assets are bound, including any listing agreement for the Common
+Stock except as herein set forth, (iii) to its knowledge, any existing
+applicable law, rule, or regulation or any applicable decree, judgment, or order
+of any court, United States federal or state regulatory body, administrative
+agency, or other governmental body having jurisdiction over the Company or any
+of its properties or assets, or (iv) the Company's listing agreement for its
+Common Stock, except such conflict, breach or default which would not have a
+material adverse effect on the business, operations, condition (financial or
+otherwise), or results of operations of the Company and its subsidiaries, taken
+as a whole, or on the transactions contemplated herein.
+
+            F. APPROVALS. No authorization, approval or consent of any court,
+governmental body, regulatory agency, self-regulatory organization, or stock
+exchange or market or the stockholders of the Company is required to be obtained
+by the Company for the issuance and sale of the Securities to the Buyer as
+contemplated by this Agreement, except such authorizations, approvals and
+consents that have been obtained.
+
+            G. SEC FILINGS. None of the Company's SEC Documents contained, at
+the time they were filed, any untrue statement of a material fact or omitted to
+state any material fact required to be stated therein or necessary to make the
+statements made therein in light of the circumstances under which they were
+made, not misleading. The Company has since September 30, 1999 timely filed all
+requisite forms, reports and exhibits thereto with the SEC.
+
+            H. ABSENCE OF CERTAIN CHANGES. Since June 30, 2000, there has been
+no material adverse change and no material adverse development in the business,
+properties, operations, condition (financial or otherwise), or results of
+operations of the Company, except as disclosed in the Company's SEC Documents.
+Since June 30, 2000, except as provided in the Company's SEC
+
+                                      7
+<PAGE>
+Documents, the Company has not (i) incurred or become subject to any material
+liabilities (absolute or contingent) except liabilities incurred in the ordinary
+course of business consistent with past practices; (ii) discharged or satisfied
+any material lien or encumbrance or paid any material obligation or liability
+(absolute or contingent), other than current liabilities paid in the ordinary
+course of business consistent with past practices; (iii) declared or made any
+payment or distribution of cash or other property to stockholders with respect
+to its capital stock, or purchased or redeemed, or made any agreements to
+purchase or redeem, any shares of its capital stock; (iv) sold, assigned or
+transferred any other tangible assets, or canceled any debts or claims, except
+in the ordinary course of business consistent with past practices; (v) suffered
+any substantial losses or waived any rights of material value, whether or not in
+the ordinary course of business, or suffered the loss of any material amount of
+existing business; (vi) made any changes in employee compensation, except in the
+ordinary course of business consistent with past practices; or (vii) experienced
+any material problems with labor or management in connection with the terms and
+conditions of their employment.
+
+            I. FULL DISCLOSURE. There is no fact known to the Company (other
+than general economic conditions known to the public generally or as disclosed
+in the Company's SEC Documents) that has not been disclosed in writing to the
+Buyer that (i) would reasonably be expected to have a material adverse effect on
+the business, operations, condition (financial or otherwise), or results of
+operations of the Company and its subsidiaries, taken as a whole , (ii) would
+reasonably be expected to materially and adversely affect the ability of the
+Company to perform its obligations pursuant to this Agreement or any of the
+agreements contemplated hereby (collectively, including this Agreement, the
+"Transaction Agreements"), or (iii) would reasonably be expected to materially
+and adversely affect the value of the rights granted to the Buyer in the
+Transaction Agreements.
+
+            J. ABSENCE OF LITIGATION. Except as set forth in the Company's SEC
+Documents, there is no action, suit, proceeding, inquiry or investigation before
+or by any court, public board or body pending or, to the knowledge of the
+Company, threatened against or affecting the Company, wherein an unfavorable
+decision, ruling or finding would have a material adverse effect on the
+properties, business, operations, condition (financial or otherwise), or results
+of operation of the Company and its subsidiaries taken as a whole or the
+transactions contemplated by any of the Transaction Agreements or which would
+adversely affect the validity or enforceability of, or the authority or ability
+of the Company to perform its obligations under, any of the Transaction
+Agreements.
+
+            K. ABSENCE OF EVENTS OF DEFAULT. Except as set forth in the
+Company's SEC Documents, no Event of Default (or its equivalent term), as
+defined in the respective agreement to which the Company is a party, and no
+event which, with the giving of notice or the passage of time or both, would
+become an Event of Default (or its equivalent term) (as so defined in such
+agreement), has occurred and is continuing, which would have a material adverse
+effect on the business, operations, condition (financial or otherwise), or
+results of operations of the Company and its subsidiaries, taken as a whole.
+
+                                      8
+<PAGE>
+            L. PRIOR ISSUES. Except as set forth in the Company's SEC Documents,
+during the twelve (12) months preceding the date hereof, the Company has not
+issued any convertible securities. As of the date hereof, the outstanding
+unconverted principal amount of each convertible security issued by the Company
+is as set forth in ANNEX VI hereto.
+
+            M. NO UNDISCLOSED LIABILITIES OR EVENTS. The Company has no
+liabilities or obligations other than those disclosed in the Company's SEC
+Documents or those incurred in the ordinary course of the Company's business
+since June 30, 2000, and which individually or in the aggregate, do not or would
+not have a material adverse effect on the properties, business, operations,
+condition (financial or otherwise), or results of operations of the Company and
+its subsidiaries, taken as a whole. No event or circumstances has occurred or
+exists with respect to the Company or its properties, business, operations,
+condition (financial or otherwise), or results of operations, which, under
+applicable law, rule or regulation, requires public disclosure or announcement
+prior to the date hereof by the Company but which has not been so publicly
+announced or disclosed. There are no proposals currently under consideration or
+currently anticipated to be under consideration by the Board of Directors or the
+executive officers of the Company (other than the transactions contemplated by
+the Transaction Agreements) which proposal would (x) change the certificate of
+incorporation or other charter document or by-laws of the Company, each as
+currently in effect, with or without shareholder approval, which change would
+reduce or otherwise adversely affect the rights and powers of the shareholders
+of the Common Stock or (y) materially or substantially change the business,
+assets or capital of the Company, including its interests in subsidiaries.
+
+            N. NO DEFAULT. Except as provided in the Company's SEC Documents,
+the Company is not in default in the performance or observance of any material
+obligation, agreement, covenant or condition contained in any material
+indenture, mortgage, deed of trust or other material instrument or agreement to
+which it is a party or by which it or its property is bound.
+
+            O. NO INTEGRATED OFFERING. Neither the Company nor any of its
+affiliates nor any person acting on its or their behalf has, directly or
+indirectly, at any time since April1, 2000, made any offer or sales of any
+security or solicited any offers to buy any security under circumstances that
+would eliminate the availability of the exemption from registration under Rule
+506 of Regulation D in connection with the offer and sale of the Securities as
+contemplated hereby.
+
+            P. DILUTION. The number of Shares issuable upon conversion of the
+Preferred Stock and the exercise of the Warrants may increase substantially in
+certain circumstances, including, but not necessarily limited to, the
+circumstance wherein the trading price of the Common Stock declines prior to the
+conversion of the Preferred Stock. The Company's executive officers and
+directors have studied and fully understand the nature of the Securities being
+sold hereby and recognize that they have a potential dilutive effect. The board
+of directors of the Company has concluded, in its good faith business judgment,
+that such issuance is in the best interests of the Company. The Company
+specifically acknowledges that its obligation to issue the Shares upon
+conversion of the Preferred Stock and upon exercise of the Warrants is binding
+upon the Company
+
+                                      9
+<PAGE>
+and enforceable regardless of the dilution such issuance may have on the
+ownership interests of other shareholders of the Company, and the Company will
+honor every Notice of Conversion (as defined in the Certificate of Designations)
+relating to the conversion of the Preferred Stock and every Notice of Exercise
+Form (as contemplated by the Warrants) relating to the exercise of the Warrants
+unless the Company is subject to an injunction (which injunction was not sought
+by the Company) prohibiting the Company from doing so.
+
+            Q. BROKERS, FINDERS. Except for payment of fees to Union Atlantic LC
+or Union Atlantic Capital, LC (the "Placement Agent"), payment of which is the
+sole responsibility of the Company, the Company has taken no action which would
+give rise to any claim by any person for brokerage commission, finder's fees or
+similar payments by Buyer relating to this Agreement or the transactions
+contemplated hereby. Buyer shall have no obligation with respect to such fees or
+with respect to any claims made by or on behalf of other persons for fees of a
+type contemplated in this Section 3(q) that may be due in connection with the
+transactions contemplated hereby. The Company shall indemnify and hold harmless
+each of Buyer, its employees, officers, directors, agents, and partners, and
+their respective affiliates, from and against all claims, losses, damages, costs
+(including the costs of preparation and attorney's fees) and expenses suffered
+in respect of any such claimed or existing fees, as and when incurred.
+
+            4. CERTAIN COVENANTS AND ACKNOWLEDGMENTS.
+
+            A. TRANSFER RESTRICTIONS. The Buyer acknowledges that (1) the
+Preferred Stock have not been and are not being registered under the provisions
+of the 1933 Act and, except as provided in the Registration Rights Agreement,
+the Shares have not been and are not being registered under the 1933 Act, and
+may not be transferred unless (A) subsequently registered thereunder or (B) the
+Buyer shall have delivered to the Company an opinion of counsel, reasonably
+satisfactory in form, scope and substance to the Company, to the effect that the
+Securities to be sold or transferred may be sold or transferred pursuant to an
+exemption from such registration; (2) any sale of the Securities made in
+reliance on Rule 144 promulgated under the 1933 Act may be made only in
+accordance with the terms of said Rule and further, if said Rule is not
+applicable, any resale of such Securities under circumstances in which the
+seller, or the person through whom the sale is made, may be deemed to be an
+underwriter, as that term is used in the 1933 Act, may require compliance with
+some other exemption under the 1933 Act or the rules and regulations of the SEC
+thereunder; and (3) neither the Company nor any other person is under any
+obligation to register the Securities (other than pursuant to the Registration
+Rights Agreement) under the 1933 Act or to comply with the terms and conditions
+of any exemption thereunder.
+
+            B. RESTRICTIVE LEGEND. The Buyer acknowledges and agrees that the
+Preferred Stock and the Warrants, and, until such time as the Common Stock has
+been registered under the 1933 Act as contemplated by the Registration Rights
+Agreement and sold in accordance with an effective Registration Statement,
+certificates and other instruments representing any of the Securities
+
+                                      10
+<PAGE>
+shall bear a restrictive legend in substantially the following form (and a
+stop-transfer order may be placed against transfer of any such Securities):
+
+            THESE SECURITIES (THE "SECURITIES") HAVE NOT BEEN REGISTERED UNDER
+            THE SECURITIES ACT OF 1933, AS AMENDED, OR THE SECURITIES LAWS OF
+            ANY STATE AND MAY NOT BE SOLD OR OFFERED FOR SALE IN THE ABSENCE OF
+            AN EFFECTIVE REGISTRATION STATEMENT FOR THE SECURITIES OR AN OPINION
+            OF COUNSEL OR OTHER EVIDENCE ACCEPTABLE TO THE COMPANY THAT SUCH
+            REGISTRATION IS NOT REQUIRED.
+
+            C. REGISTRATION RIGHTS AGREEMENT. The parties hereto agree to enter
+into the Registration Rights Agreement on or before the Closing Date.
+
+            D. FILINGS. (i) The Company undertakes and agrees to make all
+necessary filings in connection with the sale of the Securities to the Buyer
+under any United States laws and regulations applicable to the Company, or by
+any domestic securities exchange or trading market, and to provide a copy
+thereof to the Buyer promptly after such filing.
+
+            (ii) Subject to the conditions of the immediately following
+sentence, the Company undertakes and agrees to take all steps necessary to have
+a meeting and vote of the stockholders of the Company no later than the Meeting
+Date (as defined below) regarding authorization of the Company's issuance to the
+holders of the Preferred Stock and Warrants of shares of Common Stock in excess
+of twenty percent (20%) of the outstanding shares of Common Stock on the date of
+this Agreement in accordance with NASDAQ Rule 4310(c)(25)(H)(i) or Rule
+4460(i)(1), as may be applicable. The term "Meeting Date" means the date which
+is the earlier of (x) seventy-five (75) days after the date on which the Company
+has issued, after the date of this Agreement, shares of Common Stock which, in
+the aggregate equal or exceed ten percent (10%) of the outstanding shares of
+Common Stock on the date hereof or (y) the date on which the Company holds its
+next regular or special stockholders meeting. The Company will recommend to the
+stockholders that such authorization be granted and will seek proxies from
+stockholders not attending the meeting naming a director or officer of the
+Company as such stockholder's proxy and directing the proxy to vote, or giving
+the proxy the authority to vote, in favor of such authorization. Upon
+determination that the stockholders have voted in favor of such authorization,
+the Company shall promptly make a public filing of same as required by the rules
+of the SEC. If for any reason (y) the meeting is not held by the Meeting Date or
+(z) the requisite stockholder approval is not obtained at the meeting, then in
+lieu of issuing any shares in violation of NASDAQ Rule 4310(c)(25)(H) or Rule
+4460(i)(1), as may be applicable, or any of the other Cap Regulations, the
+Company shall redeem the outstanding Preferred Stock as set forth in Section VI
+of the Certificate of Designation within ten (10) days after the Meeting Date.
+
+                                      11
+<PAGE>
+            (iii) In furtherance of the provisions of the immediately preceding
+subparagraph (ii) hereof, the Company (a) commits to using its best efforts to
+obtain any stockholder authorization contemplated by said subparagraph (ii), and
+(b) represents to the Buyer that the Company has obtained the binding
+irrevocable commitment or proxy (each, a "Principal Voter Proxy") of each
+Principal Voter (as defined below) that such Principal Voter will vote in favor
+of any stockholder authorization contemplated by said subparagraph (ii). A
+"Principal Voter" is a person who meets any one or more of the following
+criteria: (A) a person who is a director or principal officer of the Company
+(each, a "Company Principal") and who, directly or indirectly, holds any shares
+of Common Stock of the Company; (B) a spouse of a Company Principal who resides
+in the household of the Company Principal (a "Principal's Spouse") and who,
+directly or indirectly, holds any shares of Common Stock of the Company, (C) a
+parent, sibling or child of a Company Principal who resides in the household of
+a Company Principal or of a Principal's Spouse (each, a "Principal's Relative")
+and who, directly or indirectly, holds any shares of Common Stock or (D) any
+other person or entity, including, without limitation, for profit or non-profit
+corporations, partnerships and trusts, whose voting rights regarding Common
+Stock of the Company is subject to the direction, control or other influence of
+any Company Principal, Principal's Spouse or Principal's Relative. The Company
+will deliver such Principal Voter Proxies to the Buyer or the Buyer's designee
+on the Initial Closing Date.
+
+            E. REPORTING STATUS. So long as the Buyer beneficially owns any of
+the Securities, the Company shall file all reports required to be filed with the
+SEC pursuant to Section 13 or 15(d) of the 1934 Act, and the Company shall not
+terminate its status as an issuer required to file reports under the 1934 Act
+even if the 1934 Act or the rules and regulations thereunder would permit such
+termination. The Company will take all reasonable action under its control to
+obtain and to continue the listing and trading of its Common Stock (including,
+without limitation, all Registrable Securities) on The Nasdaq/Small Cap market
+and will comply in all material respects with the Company's reporting, filing
+and other obligations under the by-laws or rules of the National Association of
+Securities Dealers, Inc. ("NASD") or The Nasdaq/Small Cap Market.
+
+            F. USE OF PROCEEDS. The Company will use the proceeds from the sale
+of the Preferred Stock (excluding amounts paid by the Company for legal fees,
+finder's fees and escrow fees in connection with the sale of the Preferred
+Stock) for internal working capital purposes, and, unless specifically consented
+to in advance in each instance by the Buyer, the Company shall not, directly or
+indirectly, use such proceeds for any loan to or investment in any other
+corporation (other than 80% owned subsidiaries), partnership enterprise or other
+person or for the repayment of any outstanding loan by the Company to any other
+party (Other than repayment of a portion of the Company's loans from Comerica
+Bank, Texas.)
+
+            G. CERTAIN AGREEMENTS. (i) The Company covenants and agrees that it
+will not, without the prior written consent of the Buyer, enter into
+
+                                      12
+<PAGE>
+      (x) any subsequent or further offer or sale of Common Stock or securities
+      convertible into Common Stock (collectively, "New Common Stock"), or
+
+      (y) any subsequent offer or contract for an equity line or similar
+      arrangement which contemplates the issuance of New Common Stock
+
+with any third party (a "New Investor") on any date which is earlier than one
+hundred eighty (180) days after the Effective Date except for the Private Equity
+Credit Agreement dated November 20, 2000.
+
+            (ii) The foregoing provisions shall not restrict the Company from
+issuing (A) shares of Common Stock upon the exercise of certain warrants and
+options for the purchase of shares outstanding as of the date hereof, (B)
+additional shares of Common Stock or other securities issued pursuant to the
+Company's existing stock option plans, (C) shares issued as required by the
+terms of the Company's currently outstanding shares of Series A, B, C or D
+Preferred Stock or other currently outstanding convertible securities identified
+in the Company's SEC Documents, (D) up to an aggregate of 2,000,000 shares or
+warrants to acquire shares of restricted Common Stock to satisfy unpaid accounts
+payable as of December 31, 2000; provided, however, that only the holders of
+1,201,000 of such Common Stock may be granted registration rights in connection
+with the issuance thereof, (E) shares of Common Stock issuable under the terms
+of the Company's convertible promissory note in favor of Maxxim Medical, Inc.,
+as amended, (F) in the event the Company has not sold its Cybex Medical division
+as required by the terms of its Seconded Amended and Restated Loan Agreement
+with Comerica Bank-Texas, (I) by November 1, 2000, 200,000 shares of Common
+Stock or warrants to purchase Common Stock, and, (II) by the first day of each
+month thereafter, an additional 25,000 shares of Common Stock or warrants to
+purchase Common Stock, or (G) up to 225 shares of the Series E Convertible
+Preferred Stock and warrants to purchase up to 500,000 shares to the Placement
+Agent or its designees in connection with the transactions contemplated hereby
+and the shares of Common Stock issuable thereon pursuant to the terms of the
+Certificate of Designations. In addition, the limitations contained in Section
+4(g)(i) shall not apply to any transaction involving issuance of securities as
+consideration in a merger, consolidation or acquisition of assets or in
+connection with a transaction with a Strategic Partner (the primary purpose of
+which is not to raise equity capital or other financing capital), or as
+consideration for the acquisition of a business, product or license by the
+Company.
+
+            (iii) In the event the Company breaches the provisions of this
+Section 4(g), the Conversion Price (as defined in the Certificate of
+Designations) shall be amended to be equal to (x) 90% of (y) the amount
+determined in accordance with the provisions of the Certificate of Designations
+without regard to this provision.
+
+            H. AVAILABLE SHARES. The Company shall have at all times authorized
+and reserved for issuance, free from preemptive rights, shares of Common Stock
+sufficient to yield the aggregate of (i) two hundred percent (200%) of the
+number of shares of Common Stock issuable at
+
+                                      13
+<PAGE>
+conversion as may be required to satisfy the conversion rights of each Buyer
+pursuant to the terms and conditions of the Certificate of Designations or to
+represent payment of dividends on the Preferred Stock and (ii) the number of
+shares issuable upon exercise as may be required to satisfy the exercise rights
+of each Buyer pursuant to the terms and conditions of the Warrants.
+
+            I. WARRANTS. The Company agrees to issue to the Buyer on each
+Closing Date transferable, divisible warrants with a cashless exercise provision
+(the "Warrants") for the purchase of Common Stock of the Company equal to fifty
+percent (50%) of the number of shares which would be issued assuming conversion
+of the preferred Stock at the Fixed Conversion Price (as defined in the
+Certificate of Designation) on the Closing Date. The Warrants shall bear an
+exercise price per share equal to 110% of the Fixed Conversion Price. The
+Warrants will expire on the last day of the calendar month in which the fifth
+anniversary of the relevant Closing Date occurs. The Warrants shall be in the
+form annexed hereto as ANNEX VII, together with registration rights as provided
+in the Registration Rights Agreement.
+
+            J. LIMITATION ON ISSUANCE OF SHARES. If applicable to the Company at
+the relevant time, the Company may be limited in the number of shares of Common
+Stock it may issue by virtue of (i) the number of authorized shares or (ii) the
+applicable rules and regulations of the principal securities market on which the
+Common Stock is listed or traded, including, but not necessarily limited to,
+NASDAQ Rule 4310(c)(25)(H)(i) or Rule 4460(i)(1), as may be applicable
+(collectively, the "Cap Regulations"). Without limiting the other provisions
+thereof, the Preferred Stock shall provide that (i) the Company will take all
+steps reasonably necessary to be in a position to issue shares of Common Stock
+on conversion of the Preferred Stock without violating the Cap Regulations and
+(ii) if, despite taking such steps, the Company still can not issue such shares
+of Common Stock without violating the Cap Regulations, the holder of a share of
+Preferred Stock which can not be converted as result of the Cap Regulations
+after all such shares of Preferred Stock which can be converted under the Cap
+Regulations have been converted (each such share, an "Unconverted Share") shall
+have the option, exercisable in such holder's sole and absolute discretion, to
+elect either of the following remedies:
+
+            (x) if permitted by the Cap Regulations, require the Company to
+      issue shares of Common Stock in accordance with such holder's notice of
+      conversion at a conversion purchase price equal to the average of the
+      closing price per share of Common Stock for any three (3) trading days
+      (which need not be consecutive, but subject to certain equitable
+      adjustments for certain events occurring during such period) during the
+      sixty (60) trading days immediately preceding the date of notice of
+      conversion; or
+
+            (y) require the Company to redeem each Unconverted Share being
+      redeemed ( a "Redeemed Share") for an amount (the "Cap Redemption Amount")
+      payable in cash, equal to:
+
+                                      14
+<PAGE>
+                               V                x           M
+                        -----------------
+                              CP
+
+      where:
+
+            "V" means the outstanding stated value (as defined in the
+      Certificate of Designations) plus accrued dividends through the date of
+      payment of the Redemption Amount for the Redeemed Share (the "Redemption
+      Payment Date");
+
+            "CP" means the Conversion Price in effect on the Redemption Date (as
+      defined below)
+
+             "Redemption Date" means the date contemplated by a specific
+      provision of this Certificate of Designations or, if no such date is
+      specified, the date of redemption specified in the notice from the Holder
+      electing redemption of a Redeemed Share; and
+
+            "M" means the highest closing price during the period beginning on
+      the Redemption Date and ending on the Redemption Payment Date.
+
+A holder of more than one Unconverted Share may elect one of the above remedies
+with respect to some of such Unconverted Shares and the other remedy with
+respect to other Unconverted Shares. The Cap Redemption Amount payable under the
+provisions of this Section 4(j) shall be payable within (10) ten days after the
+Redemption Date. The Certificate of Designations shall contain provisions
+substantially consistent with the above terms, with such additional provisions
+as may be consented to by the Buyer. The provisions of this paragraph are not
+intended to limit the scope of the provisions otherwise included in the
+Certificate of Designations. Anything herein or in the Certificate of
+Designations to the contrary notwithstanding, the remedy contained in clause (y)
+of this Section 4(j) shall not be available to the Buyer until after the earlier
+of (i) the Special Meeting or (ii) the expiration of sixty (60) days from the
+date a holder of Securities has exercised a right pursuant to which the last
+share of Common Stock issuable under the Cap Regulations is to be issued. If
+prior to such date, the Cap Regulations no longer apply to limit the Company's
+issuance of shares of Common Stock in connection with the Securities or the
+transactions contemplated by the Transaction Agreements, the remedies contained
+clauses (x) and (y) of this Section 4(j) shall not be exercisable by the Buyer.
+
+      K. REIMBURSEMENT. If (i) the Buyer, other than by reason of its gross
+negligence or willful misconduct, becomes involved in any capacity in any
+action, proceeding or investigation brought by any shareholder of the Company,
+in connection with or as a result of the consummation of the transactions
+contemplated by the Transaction Documents, or if the Buyer is impleaded in any
+such action, proceeding or investigation by any person, or (ii) the Buyer, other
+than by reason of its
+
+                                      15
+<PAGE>
+gross negligence or willful misconduct or by reason of its trading of the Common
+Stock in a manner that is illegal under the federal or state securities laws,
+becomes involved in any capacity in any action, proceeding or investigation
+brought by the SEC against or involving the Company or in connection with or as
+a result of the consummation of the transactions contemplated by the Transaction
+Documents, or if the Buyer is impleaded in any such action, proceeding or
+investigation by any person, then in any such case, the Company will reimburse
+the Buyer for its reasonable legal and other expenses (including the cost of any
+investigation and preparation) incurred in connection therewith, as such
+expenses are incurred. In addition, other than with respect to any matter in
+which Buyer is a named party, the Company will pay to the the Buyer reasonable
+out-of-pocket costs with respect to assisting in preparation for hearings,
+trials or pretrial matters, or otherwise with respect to inquiries, hearing,
+trials, and other proceedings relating to the subject matter of this Agreement.
+The reimbursement obligations of the Company under this SECTION 4(K) shall be in
+addition to any liability which the Company may otherwise have, shall extend
+upon the same terms and conditions to any affiliates of the Buyer that are
+actually named in such action, proceeding or investigation, and partners,
+directors, agents, employees and controlling persons (if any), as the case may
+be, of the Buyer and any such affiliate, and shall be binding upon and inure to
+the benefit of any successors, assigns, heirs and personal representatives of
+the Company, the Buyer and any such affiliate and any such person.
+
+             L. RELEASE. Effective upon the mutual execution hereof, the
+Company, for itself and on behalf of all affiliated persons and entities,
+representatives, and all predecessors in interest, successors and assigns
+(collectively, the "Releasing Parties"), hereby releases and forever discharges
+each of Investor, and Investor"s direct and indirect partners, officers,
+directors, employees, affiliates, representatives, agents, trustees,
+beneficiaries, predecessors in interest, successors in interest and nominees, of
+and from any and all claims, demands, actions and causes of action, whether
+known or unknown, fixed or contingent, arising prior to the date of execution of
+this Agreement, that the Company may have had, may now have or may hereafter
+acquire with respect to any matters whatsoever under, relating to or arising
+from any prior Purchase Agreement, Registration Agreement, and the agreements
+entered into in connection therewith (sometimes collectively referred to as the
+"Prior Agreements"). The Company also fully waives (i) any defenses it may have
+with respect to honoring the terms of the Prior Agreements, or any (ii) offsets
+it may have with respect to the amounts owed under the Prior Agreements.
+Additionally, the Company represents, warrants and covenants that it has not,
+and at the time this release becomes effective will not have, sold, assigned,
+transferred, or otherwise conveyed to any other person or entity all or any
+portion of its rights, claims, demands, actions, or causes of action herein
+released.
+
+            M. CONSENT. By its execution and delivery of this Agreement, Buyer
+which is also a party to the Securities Purchase Agreement dated as of May 19,
+2000 between the Company and each entity named on a signature page thereto (the
+"Series D Securities Purchase Agreement"), consents to the transactions
+contemplated hereby and waives any rights it otherwise might have under the
+Series D Securities Purchase Agreement, the Series D Convertible Preferred Stock
+Statement of Designations or the Registration Rights Agreement dated as of May
+19, 2000 between
+
+                                      16
+<PAGE>
+the Company and each entity named on a signature page thereto with respect to
+any rights of first refusal or registration rights it may have pursuant to the
+terms thereof, or to take or refrain from taking any other action, as a result
+of the execution and delivery of this Agreement or the consummation of any of
+the transactions contemplated hereby.
+
+              N. FUTURE PURCHASES. (i) After the Effective Date, the Company may
+give notice (the "Additional Closing Date Notice") to the Buyer, with a copy to
+the Escrow Agent, specifying the date of the closing for the purchase of the
+Additional Preferred Stock. The date for such closing (the "Additional Closing
+Date") shall be a business day which is (x) at least twenty-one (21) days after
+the Effective Date and (y) at least ten (10) business days after the Additional
+Closing Date Notice is received by the Buyer.
+
+            (ii) It shall be a condition to the Company's right to issue an
+Additional Closing Date Notice that, as of the date of delivery of the
+Additional Closing Date Notice, (A) the Registration Statement for all
+Registrable Securities, included the Converted Shares attributable to the
+Additional Preferred Stock (the "Additional Converted Shares"), shall have been
+declared effective and shall continue to be effective, (B) each of the
+Transaction Agreements shall continue to be in full force and effect and be
+applicable, to the extent relevant, to the Additional Preferred Stock and the
+Additional Converted Shares (and the Company's issuance of the Additional
+Closing Date Notice shall constitute the Company's making each such
+representation and warranty as of such date), and (C) the representations and
+warranties of the Company contained in Section 3 hereof shall be true and
+correct in all material respects and there shall have been no material adverse
+change to the business, operations or financial condition or results of
+operation of the Company and its subsidiaries taken as a whole from the Initial
+Closing Date through and including the date the Company gives the Additional
+Closing Date Notice to the Buyer (and the Company's issuance of the Additional
+Closing Date Notice shall constitute the Company's making each such
+representation and warranty as of such date).
+
+            (iii) The Buyer's obligations to purchase the Additional Preferred
+Stock shall terminate (w) if the Additional Closing Date does not occur within
+forty-five (45) days after the Additional Closing Date Notice is given to the
+Buyer, (x) if the Company's available shares do not satisfy the provisions of
+Section 4(h) hereof at any time, (y) if the Effective Date has not yet occurred
+as of the date which is four (4) months after the Required Effective Date (as
+defined in the Registration Rights Agreement), or (z) on the date which is
+eighteen months after the Initial Closing Date.
+
+            5. TRANSFER AGENT INSTRUCTIONS.
+
+            A. The Company warrants that, with respect to the Securities, other
+than the stop transfer instructions to give effect to Section 4(a) hereof, it
+will give its transfer agent no instructions inconsistent with instructions to
+issue Common Stock from time to time upon conversion of the Preferred Stock in
+such amounts as specified from time to time by the Company to the transfer
+agent,
+
+                                      17
+<PAGE>
+bearing the restrictive legend specified in Section 4(b) of this Agreement prior
+to registration of the Shares under the 1933 Act, registered in the name of the
+Buyer or its nominee and in such denominations to be specified by the Buyer in
+connection with each conversion of the Preferred Stock. Except as so provided,
+the Shares shall otherwise be freely transferable on the books and records of
+the Company as and to the extent provided in this Agreement, the Registration
+Rights Agreement, and applicable law. Nothing in this Section shall affect in
+any way the Buyer's obligations and agreement to comply with all applicable
+securities laws upon resale of the Securities. If the Buyer provides the Company
+with an opinion of counsel reasonably satisfactory to the Company that
+registration of a resale by the Buyer of any of the Securities in accordance
+with clause (1)(B) of Section 4(a) of this Agreement is not required under the
+1933 Act, the Company shall (except as provided in clause (2) of Section 4(a) of
+this Agreement) permit the transfer of the Securities and, in the case of the
+Converted Shares or the Warrant Shares, as the case may be, promptly instruct
+the Company's transfer agent to issue one or more certificates for Common Stock
+without legend in such name and in such denominations as specified by the Buyer.
+
+            B. Subject to the provisions of this Agreement, the Company will
+permit the Buyer to exercise its right to convert the Preferred Stock in the
+manner contemplated by the Certificate of Designations.
+
+            C. The Company understands that a delay in the issuance of the
+Shares of Common Stock beyond the Delivery Date (as defined in the Certificate
+of Designations) could result in economic loss to the Buyer. As compensation to
+the Buyer for such loss, the Company agrees to pay late payments to the Buyer
+for late issuance of Shares upon conversion in accordance with the following
+schedule (where "No. Business Days Late" is defined as the number of business
+days beyond two (2) business days from the Delivery Date):
+
+                                          LATE PAYMENT FOR EACH $10,000
+                                          OF STATED VALUE OR DIVIDEND
+            NO. BUSINESS DAYS LATE        AMOUNT BEING CONVERTED
+            ----------------------        -----------------------------------
+
+                  1                             $100
+                  2                             $200
+                  3                             $300
+                  4                             $400
+                  5                             $500
+                  6                             $600
+                  7                             $700
+                  8                             $800
+                  9                             $900
+                  10                            $1,000
+                  >10                           $1,000 +$200 for each Business
+                                                Day Late beyond 10 days
+
+                                      18
+<PAGE>
+The Company shall pay any payments incurred under this Section in immediately
+available funds upon demand. For purposes of this Section 5(c), in connection
+with a Mandatory Conversion (as defined in the Certificate of Designations), the
+term "Delivery Date" shall refer to the earlier of (i) the Delivery Date
+determined in relation to a Notice of Conversion actually submitted by the Buyer
+to the Company or (ii) the third or fifth business date, as the case may be,
+after written notice (which shall include facsimile transmission) from the Buyer
+that the delivery of shares to the Buyer in connection with the Mandatory
+Conversion has not been accomplished. The Company shall pay any payments
+incurred under this Section in immediately available funds upon demand. Nothing
+herein shall limit the Buyer's right to pursue actual damages for the Company's
+failure to issue and deliver the Common Stock to the Buyer. Furthermore, in
+addition to any other remedies which may be available to the Buyer, in the event
+that the Company fails for any reason to effect delivery of such shares of
+Common Stock within two (2) business days after the Delivery Date, the Buyer
+will be entitled to revoke the relevant Notice of Conversion by delivering a
+notice to such effect to the Company whereupon the Company and the Buyer shall
+each be restored to their respective positions immediately prior to delivery of
+such Notice of Conversion.
+
+            D. If, by the relevant Delivery Date, the Company fails for any
+reason to deliver the Shares to be issued upon conversion of Preferred Stock and
+after such Delivery Date, the holder of the Preferred Stock being converted (a
+"Converting Holder") purchases, in an arm's-length open market transaction or
+otherwise, shares of Common Stock (the "Covering Shares") in order to make
+delivery in satisfaction of a sale of Common Stock by the Converting Holder (the
+"Sold Shares"), which delivery such Converting Holder anticipated to make using
+the Shares to be issued upon such conversion (a "Buy-In"), the Converting Holder
+shall have the right, to require the Company to pay to the Converting Holder, in
+lieu and instead of the amounts due under Section 5(c) hereof (but in addition
+to all other amounts contemplated in other provisions of the Transaction
+Agreements, and not in lieu of any such other amounts), the Buy-In Adjustment
+Amount (as defined below). The "Buy-In Adjustment Amount" is the amount equal to
+the excess, if any, of (x) the Converting Holder's total purchase price
+(including brokerage commissions, if any) for the Covering Shares over (y) the
+net proceeds (after brokerage commissions, if any) received by the Converting
+Holder from the sale of the Sold Shares. The Company shall pay the Buy-In
+Adjustment Amount to the Company in immediately available funds immediately upon
+demand by the Converting Holder. By way of illustration and not in limitation of
+the foregoing, if the Converting Holder purchases shares of Common Stock having
+a total purchase price (including brokerage commissions) of $11,000 to cover a
+Buy-In with respect to shares of Common Stock it sold for net proceeds of
+$10,000, the Buy- In Adjustment Amount which Company will be required to pay to
+the Converting Holder will be $1,000.
+
+            E. In lieu of delivering physical certificates representing the
+Common Stock issuable upon conversion, provided the Company's transfer agent is
+participating in the Depository Trust Company ("DTC") Fast Automated Securities
+Transfer program, upon request of the Buyer and its compliance with the
+provisions contained in this paragraph, so long as the certificates therefor do
+not bear a legend and the Buyer thereof is not obligated to return such
+certificate for the placement of a legend thereon, the Company shall use its
+best efforts to cause its transfer agent to
+
+                                      19
+<PAGE>
+electronically transmit the Common Stock issuable upon conversion to the Buyer
+by crediting the account of Buyer's Prime Broker with DTC through its Deposit
+Withdrawal Agent Commission system.
+
+            F. If, at any time (i) the Company challenges, disputes or denies
+the right of a holder of Preferred Stock to effect a conversion of the Preferred
+Stock into Common Stock or otherwise dishonors or rejects any Conversion Notice
+delivered in accordance with the terms of this Agreement or the Certificate of
+Designations or any exercise of any Warrant in accordance with its terms
+("Warrant Exercise"), or (ii) any third party who is not and has never been an
+Affiliate of such holder commences any lawsuit or proceeding or otherwise
+asserts any claim before any court or public or governmental authority, which
+lawsuit, proceeding or claim seeks to challenge, deny, enjoin, limit, modify,
+delay or dispute the right of such holder to effect the conversion of the
+Preferred Stock into Common Stock, and the Company refuses to honor any such
+Conversion Notice or Warrant Exercise, then such holder shall have the right, by
+written notice to the Company, to require the Company to promptly redeem the
+Preferred Stock for cash at a redemption price (the "Mandatory Purchase Amount")
+equal to the Cap Redemption Amount of the unconverted Preferred Stock held by
+such holder; provided, however, that the Company shall have a period of thirty
+(30) days within which to (i) have the lawsuit or proceeding dismissed and honor
+the Conversion Notice and/or the Warrant Exercise, or (ii) raise the capital
+required to redeem the Mandatory Purchase Amount, as the case may be. Under any
+of the circumstances set forth above, the Company shall be responsible for the
+payment of all costs and expenses of such holder, including, but not necessarily
+limited to, reasonable legal fees and expenses, as and when incurred in
+connection with such holder's disputing any such action or pursuing such
+holder's rights hereunder (in addition to any other rights such holder may have
+hereunder or otherwise). The Mandatory Purchase Amount will be payable to such
+holder in cash within five (5) business days from the date such holder gives the
+Company written notice that it is exercising its rights under this paragraph.
+
+            G. The holder of any Preferred Stock shall be entitled to exercise
+its conversion privilege with respect to the Preferred Stock notwithstanding the
+commencement of any case under 11 U.S.C. ss.101 ET SEQ. (the "Bankruptcy Code").
+In the event the Company is a debtor under the Bankruptcy Code, the Company
+hereby waives, to the fullest extent permitted, any rights to relief it may have
+under 11 U.S.C. ss.362 in respect of such holder's conversion privilege. The
+Company hereby waives, to the fullest extent permitted, any rights to relief it
+may have under 11 U.S.C. ss.362 in respect of the conversion of the Preferred
+Stock. The Company agrees, without cost or expense to such holder, to take or to
+consent to any and all action necessary to effectuate relief under 11 U.S.C.
+ss.362.
+
+            H. The Company will authorize its transfer agent to give information
+relating to the Company directly to the Buyer or the Buyer's representatives
+upon the request of the Buyer or any such representative , to the extent such
+information relates to (i) the status of shares of Common Stock issued or
+claimed to be issued to the Buyer in connection with a Notice of Conversion, or
+(ii) the number of outstanding shares of Common Stock of all stockholders as of
+a current or other
+
+                                      20
+<PAGE>
+specified date. The Company will provide the Buyer with a copy of the
+authorization so given to the transfer agent.
+
+            I. Nothing contained in this Section 5 shall be construed to require
+the Company to pay to the Buyer any of the amounts contemplated by this Section
+5 for late delivery of any certificates or refusal to honor a Notice of
+Conversion or Warrant Exercise to the extent that such delay or refusal is
+caused by the Buyer (but exclusion of the delay or refusal of the Company shall
+be limited only to the period of such delay or refusal which was directly caused
+by an uncured action or omission of the Buyer and not to periods beyond the cure
+of such action or omission by or on behalf of the Buyer).
+
+            6. CLOSING DATES.
+
+            A. The Initial Closing Date shall occur on the date which is the
+first Nasdaq SmallCap Market trading day after each of the conditions
+contemplated by Sections 7 and 8 hereof shall have either been satisfied or been
+waived by the party in whose favor such conditions run.
+
+            B. (i) The Additional Closing Date shall be the date determined in
+accordance with the provisions of Section 4(n) hereof.
+
+                  (ii) The closing for the Additional Preferred Stock shall be
+conducted upon the same terms and conditions as those applicable to the Initial
+Preferred Stock.
+
+            C. Each closing of the purchase and issuance of Preferred Stock
+shall occur on the relevant Closing Date at the offices of the Escrow Agent and
+shall take place no later than 3:00 P.M., New York time, on such day or such
+other time as is mutually agreed upon by the Company and the Buyer.
+
+            D. Notwithstanding anything to the contrary contained herein, the
+Escrow Agent will be authorized to release the Escrow Funds to the Company and
+to others and to release the other Escrow Property on the relevant Closing Date
+upon satisfaction of the conditions set forth in Sections 7 and 8 hereof and as
+provided in the Joint Escrow Instructions.
+
+
+            7. CONDITIONS TO THE COMPANY'S OBLIGATION TO SELL.
+
+            The Buyer understands that the Company's obligation to sell the
+Preferred Stock to the Buyer pursuant to this Agreement on the relevant Closing
+Date is conditioned upon:
+
+            A. The Buyer's execution and delivery of this Agreement and the
+other Transaction Agreements contemplated to be signed by the Buyer;
+
+                                      21
+<PAGE>
+            B. Delivery by the Buyer to the Escrow Agent of good funds as
+payment in full of an amount equal to the Purchase Price for the Preferred Stock
+in accordance with this Agreement;
+
+            C. The accuracy on such Closing Date of the representations and
+warranties of the Buyer contained in this Agreement, each as if made on such
+date, and the performance by the Buyer on or before such date of all covenants
+and agreements of the Buyer required to be performed on or before such date;
+
+            D. Except to the extent contemplated by specific provisions of the
+Transaction Agreements, there shall not be in effect any law, rule or regulation
+prohibiting or restricting the transactions contemplated hereby to an extent
+materially greater than contemplated herein, or requiring any consent or
+approval which shall not have been obtained; and
+
+            E. From and after the date hereof to and including such Closing
+Date, the trading of the Common Stock shall not have been suspended by the SEC
+or the NASD and trading in securities generally on the NYSE or The Nasdaq/Small
+Cap Market shall not have been suspended or limited, nor shall minimum prices
+been established for securities traded on The Nasdaq/Small Cap Market, nor shall
+there be any outbreak or escalation of hostilities involving the United States
+or any material adverse change in any financial market that in either case in
+the reasonable judgment of the Company makes it impracticable or inadvisable to
+sell the Preferred Stock.
+
+            8. CONDITIONS TO THE BUYER'S OBLIGATION TO PURCHASE.
+
+            The Company understands that the Buyer's obligation to purchase the
+Preferred Stock on the relevant Closing Date is conditioned upon:
+
+            A. The adoption of the Certificate of Designations by all necessary
+corporate action of the Company and the filing of all filings necessary to
+effectuate the Certificate of Designations as a part of the charter documents of
+the Company;
+
+            B. The execution and delivery of this Agreement and the Registration
+Rights Agreement by the Company;
+
+            C. Delivery by the Company to the Escrow Agent of the relevant
+Certificates in accordance with this Agreement;
+
+            D. The accuracy in all material respects on such Closing Date of the
+representations and warranties of the Company contained in this Agreement, each
+as if made on such date, and the performance by the Company on or before such
+date of all covenants and agreements of the Company required to be performed on
+or before such date;
+
+                                      22
+<PAGE>
+            E. On such Closing Date, the Registration Rights Agreement shall be
+in full force and effect and the Company shall not be in default thereunder;
+
+            F. On such Closing Date, the Buyer shall have received an opinion of
+counsel for the Company, dated such Closing Date, in form, scope and substance
+reasonably satisfactory to the Buyer, substantially to the effect set forth in
+ANNEX VIII attached hereto;
+
+            G. Except to the extent contemplated by specific provisions of the
+Transaction Agreements, there shall not be in effect any law, rule or regulation
+prohibiting or restricting the transactions contemplated hereby to an extent
+materially greater than contemplated herein, or requiring any consent or
+approval which shall not have been obtained;
+
+            H. From and after the date hereof to and including such Closing
+Date, the trading of the Common Stock shall not have been suspended by the SEC
+or the NASD and trading in securities generally on The Nasdaq/Small Cap Market
+shall not have been suspended or limited, nor shall minimum prices been
+established for securities traded on The Nasdaq/Small Cap Market, nor shall
+there be any outbreak or escalation of hostilities involving the United States
+or any material adverse change in any financial market that in either case in
+the reasonable judgment of the Buyer makes it impracticable or inadvisable to
+purchase the Preferred Stock; and
+
+
+            I. With respect to the Additional Closing Date,
+
+            (i) an Additional Closing Date Notice shall have been duly given in
+accordance with the provisions of Section 4(m);
+
+            (ii) all other conditions of Section 4(m) shall have been satisfied;
+
+            (iii) the Registration Statement shall have been declared effective
+with respect to all of the Registrable Securities, including the Additional
+Converted Shares, and shall continue to be effective as of such date;
+
+            (iii) each of the Transaction Agreements shall continue to be in
+full force and effect and be applicable, to the extent relevant, to the
+Additional Preferred Stock and the Additional Converted Shares (and the
+Company's issuance of the Additional Preferred Stock shall constitute the
+Company's making a representation and warranty to such effect as of such date);
+
+            (iv) the representations and warranties of the Company contained in
+Section 3 hereof shall be true and correct in all material respects (and the
+Company's issuance of the Additional Preferred Stock shall constitute the
+Company's making each such representation and warranty as of such date) and
+there shall have been no material adverse change to the business, operations or
+financial condition or results of operation of the Company and its subsidiaries
+taken as a whole from the Initial Closing Date through and including the
+Additional Closing Date (and the Company's
+
+                                      23
+<PAGE>
+issuance of the Additional Preferred Stock shall constitute the Company's making
+such representation and warranty as of such date);
+
+            (v) the Company shall have timely issued all shares issuable upon
+conversion of the Preferred Stock or upon exercise of the Warrants prior to the
+date of such Additional Closing Date; and
+
+            (vi) the Company shall have available and shall reserve for issuance
+to Buyer at least two hundred percent (200%) of the number of Shares which would
+be issued on (x) conversion of all unconverted Initial Preferred Stock and all
+Additional Preferred Stock and (y) exercise of all unexercised Warrants.
+
+            9. GOVERNING LAW: MISCELLANEOUS.
+
+            A. This Agreement shall be governed by and interpreted in accordance
+with the laws of the State of New York for contracts to be wholly performed in
+such state and without giving effect to the principles thereof regarding the
+conflict of laws. Each of the parties consents to the jurisdiction of the
+federal courts whose districts encompass any part of the City of New York or the
+state courts of the State of New York sitting in the City of New York in
+connection with any dispute arising under this Agreement and hereby waives, to
+the maximum extent permitted by law, any objection, including any objection
+based on FORUM NON CONVENIENS, to the bringing of any such proceeding in such
+jurisdictions. To the extent determined by such court, the Company shall
+reimburse the Buyer for any reasonable legal fees and disbursements incurred by
+the Buyer in enforcement of or protection of any of its rights under any of the
+Transaction Agreements.
+
+            B. Failure of any party to exercise any right or remedy under this
+Agreement or otherwise, or delay by a party in exercising such right or remedy,
+shall not operate as a waiver thereof.
+
+            C. This Agreement shall inure to the benefit of and be binding upon
+the successors and assigns of each of the parties hereto.
+
+            D. All pronouns and any variations thereof refer to the masculine,
+feminine or neuter, singular or plural, as the context may require.
+
+            E. A facsimile transmission of this signed Agreement shall be legal
+and binding on all parties hereto.
+
+            F. This Agreement may be signed in one or more counterparts, each of
+which shall be deemed an original.
+
+            G. The headings of this Agreement are for convenience of reference
+and shall not form part of, or affect the interpretation of, this Agreement.
+
+                                      24
+<PAGE>
+            H. If any provision of this Agreement shall be invalid or
+unenforceable in any jurisdiction, such invalidity or unenforceability shall not
+affect the validity or enforceability of the remainder of this Agreement or the
+validity or enforceability of this Agreement in any other jurisdiction.
+
+            I. This Agreement may be amended only by an instrument in writing
+signed by the party to be charged with enforcement thereof.
+
+            J. This Agreement supersedes all prior agreements and understandings
+among the parties hereto with respect to the subject matter hereof.
+
+            10. NOTICES. All notices, demands, requests, consents, approvals,
+and other communications required or permitted hereunder shall be in writing
+and, unless otherwise specified herein, shall be (a) personally served,(b)
+deposited in the mail, registered or certified, return receipt requested,
+postage prepaid, (c) delivered by reputable courier service which provides
+evidence of delivery with charges prepaid, (d) transmitted by hand delivery, or
+(e) by facsimile, addressed as set forth below or to such other address as such
+party shall have specified most recently by written notice given in accordance
+herewith. Any notice or other communication required or permitted to be given
+hereunder shall be deemed effective (i) upon hand delivery or delivery at the
+address or number designated below (if delivered on a business day during normal
+business hours where such notice is to be received), or the first business day
+following such delivery (if delivered other than on a business day during normal
+business hours where such notice is to be received) (ii) on the third business
+day following the date of mailing by express courier service or on the seventh
+business day after deposited in the mail, in each case, fully prepaid, addressed
+to such address, or upon actual receipt of such mailing, whichever shall first
+occur or (iii) if by facsimile, upon confirmation of receipt by the recipient or
+confirmation of transmission in another manner provided in this SECTION 10. The
+addresses for such communications shall be:
+
+                  IF TO THE COMPANY:
+
+                        Henley Healthcare, Inc.
+                        120 Industrial Boulevard
+                        Sugar Land, Texas 77478
+                        ATTENTION: James L.  Sturgeon, Chief Operating Officer.
+                        Telephone No.: (281) 276-7042
+                        Telecopier No.: (281) 276-7038
+
+                  WITH A COPY (WHICH SHALL NOT CONSTITUTE NOTICE) TO:
+
+                                      25
+<PAGE>
+                        Porter & Hedges, LLP
+                        700 Louisiana, 34th Floor
+                        Houston, TX 77002
+                        Attn: Robert G. Reedy, Esq.
+                        Telephone No.: (713) 226-0674
+                        Telecopier No.: (713) 226-0274
+
+                  IF TO BUYER:
+
+                  At the address set forth on the signature page of this
+                  Agreement.
+
+
+                  WITH A COPY (WHICH SHALL NOT CONSTITUTE NOTICE) TO:
+
+                        Krieger & Prager, LLP
+                        39 Broadway, Suite 1440
+                        New York, New York 10006
+                        ATTENTION:  Samuel M. Krieger, Esq.
+                        Tel No.: (212) 363-2900
+                        Fax No.: (212) 363-2999
+
+Either party hereto may from time to time change its address or facsimile number
+for notices under this Section 10 by giving at least ten (10) days' prior
+written notice of such changed address or facsimile number to the other party
+hereto. Any notice required or permitted hereunder shall be given in writing
+(unless otherwise specified herein).
+
+            11. SURVIVAL OF REPRESENTATIONS AND WARRANTIES. The Company's and
+the Buyer's representations and warranties herein shall survive the execution
+and delivery of this Agreement and the delivery of the Certificates and the
+Warrants and the payment of the Purchase Price for a period of three (3) years
+from the Closing Date and shall inure to the benefit of the Buyer and the
+Company and their respective successors and assigns.
+
+                   [BALANCE OF PAGE INTENTIONALLY LEFT BLANK.]
+
+                                      26
+<PAGE>
+            IN WITNESS WHEREOF, this Agreement has been duly executed by the
+Buyer by one of its officers thereunto duly authorized as of the date set forth
+below.
+
+STATED VALUE OF PREFERRED STOCK:                      $ 1,110,000
+
+PURCHASE PRICE OF PREFERRED STOCK:                    $ 1,110,000
+
+
+
+
+                            SIGNATURES FOR ENTITIES
+
+      IN WITNESS WHEREOF, the undersigned represents that the foregoing
+statements are true and correct and that it has caused this Securities Purchase
+Agreement to be duly executed on its behalf this 20th day November, 2000.
+
+
+
+Address: Cumberland House          THE ENDEAVOR CAPITAL INVESTMENT
+         No. 27 Cumberland Street  FUND S.A.
+         P.O. Box N-10818          (Printed Name of Subscriber)
+         Nassau, The Bahamas
+
+                                   By:/s/ SHMULI MARGULIES
+Telecopier No. 242 356 4147        Name:  Shmuli Margulies
+                                   Title: Director
+
+Jurisdiction of Incorporation
+or Organization: The Bahamas
+
+As of the date set forth below, the undersigned hereby accepts this Agreement
+and represents that the foregoing statements are true and correct and that it
+has caused this Securities Purchase Agreement to be duly executed on its behalf.
+
+HENLEY HEALTHCARE, INC
+
+By: /s/ JAMES L. STURGEON
+        James L. Sturgeon
+Title:  Chief Financial Officer
+Date:   November 20, 2000
+
+                                      27
+<PAGE>
+            IN WITNESS WHEREOF, this Agreement has been duly executed by the
+Buyer by one of its officers thereunto duly authorized as of the date set forth
+below.
+
+STATED VALUE OF PREFERRED STOCK:                      $ 240,000
+
+PURCHASE PRICE OF PREFERRED STOCK:                    $ 240,000
+
+
+
+
+                            SIGNATURES FOR ENTITIES
+
+      IN WITNESS WHEREOF, the undersigned represents that the foregoing
+statements are true and correct and that it has caused this Securities Purchase
+Agreement to be duly executed on its behalf this 20th day November, 2000.
+
+
+
+Address: c/o Trident Chambers      ESQUIRE TRADE & FINANCE INC.
+         P.O. Box 2154             (Printed Name of Subscriber)
+         6342 Baar, Switzerland
+
+                                   By:/s/ GISELLA KINDLE
+Telecopier No.(011 4141) 760-1031  Name:  Gisella Kindle
+                                   Title: Director
+
+Jurisdiction of Incorporation
+or Organization:
+
+As of the date set forth below, the undersigned hereby accepts this Agreement
+and represents that the foregoing statements are true and correct and that it
+has caused this Securities Purchase Agreement to be duly executed on its behalf.
+
+HENLEY HEALTHCARE, INC
+
+By: /s/ JAMES L. STURGEON
+        James L. Sturgeon
+Title:  Chief Financial Officer
+Date:   November 20, 2000
+
+                                      28
+<PAGE>
+            IN WITNESS WHEREOF, this Agreement has been duly executed by the
+Buyer by one of its officers thereunto duly authorized as of the date set forth
+below.
+
+STATED VALUE OF PREFERRED STOCK:                      $ 150,000
+
+PURCHASE PRICE OF PREFERRED STOCK:                    $ 150,000
+
+
+
+
+                            SIGNATURES FOR ENTITIES
+
+      IN WITNESS WHEREOF, the undersigned represents that the foregoing
+statements are true and correct and that it has caused this Securities Purchase
+Agreement to be duly executed on its behalf this 20th day November, 2000.
+
+
+
+Address: c/o Trevisa-Trevland-Anstalt  CELESTE TRUST REG
+         Landstrasse 8                 (Printed Name of Subscriber)
+         Furstentums 9496
+         Balzers, Liechtenstein
+
+                                       By:/s/ THOMAS HACKL
+Telecopier No.(011 431534) 532-895     Name:  Thomas Hackl
+                                       Title:
+
+Jurisdiction of Incorporation
+or Organization:
+
+As of the date set forth below, the undersigned hereby accepts this Agreement
+and represents that the foregoing statements are true and correct and that it
+has caused this Securities Purchase Agreement to be duly executed on its behalf.
+
+HENLEY HEALTHCARE, INC
+
+By: /s/ JAMES L. STURGEON
+        James L. Sturgeon
+Title:  Chief Financial Officer
+Date:   November 20, 2000
+
+                                      29
+</TEXT>
+</DOCUMENT>

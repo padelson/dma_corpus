@@ -1,0 +1,1452 @@
+<DOCUMENT>
+<TYPE>EX-10.1.25
+<SEQUENCE>19
+<FILENAME>f95352exv10w1w25.txt
+<DESCRIPTION>EXHIBIT 10.1.25
+<TEXT>
+<PAGE>
+
+                                                                 EXHIBIT 10.1.25
+
+                                                                  EXECUTION COPY
+
+================================================================================
+
+                               CALPINE CORPORATION
+
+            DESIGNATED ASSET SALE PROCEEDS ACCOUNT CONTROL AGREEMENT
+
+                            Dated as of July 16, 2003
+
+================================================================================
+
+<PAGE>
+
+                                TABLE OF CONTENTS
+
+<TABLE>
+<CAPTION>
+                                                                                                                      PAGE
+                                                                                                                      ----
+<S>                                                                                                                   <C>
+                                                        ARTICLE I
+                                                       DEFINITIONS
+
+SECTION 1.01.         Definitions...............................................................................        2
+
+SECTION 1.02.         Rules of Interpretation...................................................................        3
+
+                                                       ARTICLE II
+                                          DESIGNATED ASSET SALE PROCEEDS ACCOUNT
+
+SECTION 2.01.         Designated Asset Sale Proceeds Account....................................................        3
+
+SECTION 2.02.         Permitted Investments.....................................................................        6
+
+SECTION 2.03.         Monies Received by the Company............................................................        7
+
+SECTION 2.04.         Books of Designated Asset Sale Proceeds Account; Statements...............................        7
+
+                                                      ARTICLE III
+                               SECURITY AND RELATED PROVISIONS; SECURITIES INTERMEDIARY
+
+SECTION 3.01.         Securities Designated Asset Sale Proceeds Account.........................................        8
+
+SECTION 3.02.         Certain Rights and Powers in Respect of Designated Asset Sale Proceeds Account and Funds..        9
+
+SECTION 3.03.         Security Interest.........................................................................       10
+
+SECTION 3.04.         Duties and Certain Rights of Depositary Agent.............................................       12
+
+SECTION 3.05.         Remedies..................................................................................       17
+
+                                                       ARTICLE IV
+                                                 TERMINATION OF AGREEMENT
+
+SECTION 4.01.         Rights and Obligations of Collateral Trustee and Depositary Agent.........................       18
+
+SECTION 4.02.         Secured Obligations.......................................................................       18
+
+                                                         ARTICLE V
+                                                       MISCELLANEOUS
+
+SECTION 5.01.         Notices...................................................................................       19
+</TABLE>
+
+<PAGE>
+
+<TABLE>
+<S>                                                                                                                   <C>
+SECTION 5.02.         Benefit of Agreement......................................................................       19
+
+SECTION 5.03.         No Waiver; Remedies Cumulative............................................................       20
+
+SECTION 5.04.         Severability..............................................................................       20
+
+SECTION 5.05.         Amendments................................................................................       20
+
+SECTION 5.06.         Headings..................................................................................       20
+
+SECTION 5.07.         Governing Law.............................................................................       20
+
+SECTION 5.08.         CONSENT TO JURISDICTION...................................................................       20
+
+SECTION 5.09.         WAIVER OF JURY TRIAL......................................................................       21
+
+SECTION 5.10.         Successors and Assigns....................................................................       22
+
+SECTION 5.11.         Entire Agreement..........................................................................       22
+
+SECTION 5.12.         Survival of Agreements....................................................................       22
+
+SECTION 5.13.         Further Information.......................................................................       22
+
+SECTION 5.14.         Additional Depositary Agent Provisions....................................................       22
+
+SECTION 5.15.         Counterparts..............................................................................       23
+
+SECTION 5.16.         Effectiveness.............................................................................       23
+
+SECTION 5.17.         Collateral Trustee's Obligations..........................................................       23
+</TABLE>
+
+EXHIBIT A: Remittance Instruction Form
+
+                                       2
+
+<PAGE>
+
+         This DESIGNATED ASSET SALE PROCEEDS ACCOUNT CONTROL AGREEMENT, dated as
+of July 16, 2003 (this "Agreement"), is entered into by and among CALPINE
+CORPORATION, a Delaware corporation (the "Company"), Union Bank of California,
+N.A., as the bank and the securities intermediary (together with its permitted
+successors in such capacity, the "Depositary Agent"), and THE BANK OF NEW YORK,
+as Collateral Trustee (together with its successors in such capacity, the
+"Collateral Trustee").
+
+                                    RECITALS:
+
+                  WHEREAS, Calpine Corporation (the "Company") intends to enter
+into an Amended and Restated Credit Agreement dated as of July 16, 2003 (as
+amended, modified, renewed, restated or replaced from time to time, the "Credit
+Agreement") among, inter alia, the Company, the Lenders referred to therein and
+The Bank of Nova Scotia, as Administrative Agent (the "Credit Agreement Agent"),
+relating to a $500,000,000 senior secured credit facility to be made available
+in the form of revolving loans and term loans, including letters of credit to be
+issued thereunder;
+
+                  WHEREAS, the Company intends to (a) issue $500,000,000 in
+aggregate principal amount of Second Priority Senior Secured Floating Rate Notes
+due 2007 (the "2007 Notes") pursuant to the Indenture dated as of July 16, 2003
+(the "2007 Indenture") between the Company and Wilmington Trust Company, as
+Trustee (together with its successors in such capacity, the "2007 Trustee"), (b)
+issue $1,150,000,000 in aggregate principal amount of 8.50% Second Priority
+Senior Secured Notes due 2010 (the "2010 Notes") pursuant to the Indenture dated
+as of July 16, 2003 (the "2010 Indenture") between the Company and Wilmington
+Trust Company, as Trustee (together with its successors in such capacity, the
+"2010 Trustee"), (c) issue $900,000,000 in aggregate principal amount of 8.75%
+Second Priority Senior Secured Notes due 2013 (the "2013 Notes") pursuant to the
+Indenture dated as of July 16, 2003 (the "2013 Indenture") between the Company
+and Wilmington Trust Company, as Trustee (together with its successors in such
+capacity, the "2013 Trustee"), and (d) borrow $750,000,000 in Term Loans (the
+"Term Loans") pursuant to a Term Loan Agreement dated as of July 16, 2003 (the
+"Term Loan Agreement") between the Company and Goldman Sachs Credit Partners
+L.P., as Administrative Agent (together with its successors in such capacity,
+the "Term Loan Administrative Agent");
+
+                  WHEREAS, the Company and certain of its Subsidiaries have
+entered into a Collateral Trust Agreement dated as of July 16, 2003 (the
+"Collateral Trust Agreement") among, inter alia, the Company, certain
+Subsidiaries and the Collateral Trustee which sets forth the terms on which the
+Company and such Subsidiaries have appointed the Collateral Trustee as trustee
+for the present and future holders of the Secured Obligations to receive, hold,
+maintain, administer, enforce and distribute the Security Documents, including
+this Agreement, at any time delivered to the Collateral Trustee and all
+interests, rights, powers and remedies of the Collateral Trustee thereunder and
+the proceeds thereof;
+
+                  WHEREAS, it is a condition precedent to the obligation of the
+lenders to make their respective extensions of credit to the Company under each
+of the Credit Agreement and the Term Loan Agreement, and condition precedent to
+the obligation of the purchasers to purchase
+
+<PAGE>
+
+each of the 2007 Notes, the 2010 Notes and the 2013 Notes, that the Company
+shall have executed and delivered this Agreement; and
+
+                  WHEREAS, The Depositary Agent has agreed to act as depositary
+agent and, with respect to any securities entitlements held by it pursuant to
+this Agreement, as securities intermediary pursuant to the terms of this
+Agreement.
+
+         NOW THEREFORE, in consideration of the premises and the mutual
+agreements herein set forth, the receipt and sufficiency of which are hereby
+acknowledged, the parties hereto hereby agree as follows:
+
+                                    ARTICLE I
+
+                                   DEFINITIONS
+
+SECTION 1.01      Definitions. Capitalized terms used in this Agreement that are
+defined in the Collateral Trust Agreement and not otherwise defined herein shall
+have the meanings set forth in the Collateral Trust Agreement. All capitalized
+terms used in this Agreement that are defined in Article 9 of the UCC, as in
+effect on the date of this Agreement in the State of New York, and not otherwise
+defined herein shall have the meanings therein set forth. In addition, the
+following term when used in this Agreement shall have the following meaning:
+
+         "Cash Equivalents" means:
+
+        (1) the lawful currency of any country where the Company owns or
+    operates a Facility;
+
+        (2) securities issued or directly and fully guaranteed or insured by the
+    United States government or any state thereof (or any agency or
+    instrumentality thereof), by the Canadian government (or any agency or
+    instrumentality thereof), or by the government of a member state of the
+    European Union (or any agency or instrumentality thereof), in each case the
+    payment of which is backed by the full faith and credit of the United
+    States, Canada or the relevant member state of the European Union, as the
+    case may be, and having maturities of not more than six months from the date
+    of acquisition;
+
+        (3) certificates of deposit and eurodollar time deposits with maturities
+    of six months or less from the date of acquisition, bankers' acceptances
+    with maturities not exceeding six months and overnight bank deposits, in
+    each case, with any lender party to the Credit Agreement or with any
+    domestic commercial bank having capital and surplus in excess of $500.0
+    million and a Thomson Bank Watch or successor rating agency rating of "B" or
+    better;
+
+        (4) repurchase obligations with a term of not more than seven days for
+    underlying securities of the types described in clauses (2) and (3) above
+    entered into with any financial institution meeting the qualifications
+    specified in clause (3) above;
+
+                                       2
+
+<PAGE>
+
+        (5) commercial paper having one of the two highest ratings obtainable
+    from Moody's or S&P and maturing within six months after the date of
+    acquisition; and
+
+        (6) money market funds at least 95% of the assets of which constitute
+    Cash Equivalents of the kinds described in clauses (1) through (5) of this
+    definition.
+
+         "Designated Collateral" means Designated Assets other than Canadian Gas
+Assets.
+
+         "Secured Parity Lien Parties" means any Person who is holding a Parity
+Lien Obligation (including any Parity Debt Representative), at any time.
+
+         "Secured Parties" means any Person who is holding a Secured Obligation
+(including any Secured Debt Representative), at any time.
+
+         "Secured Priority Lien Parties" means any Person who is holding a
+Priority Lien Obligation (including any Priority Lien Agent), at any time.
+
+SECTION 1.02      Rules of Interpretation. The rules of interpretation or
+construction set forth in Section 1.2 of the Collateral Trust Agreement shall
+apply with like effect to this Agreement.
+
+                                   ARTICLE II
+
+                     DESIGNATED ASSET SALE PROCEEDS ACCOUNT
+
+SECTION 2.01      Designated Asset Sale Proceeds Account.
+
+         (a)      Establishment of Designated Asset Sale Proceeds Account. The
+Company hereby directs the Depositary Agent to establish and maintain an account
+in the name of the Company (as the entitlement holder) entitled "Designated
+Asset Sale Proceeds Blocked Account Subject to the Security Interest of The Bank
+of New York, as Collateral Trustee" and numbered 6711713800 (the "Designated
+Asset Sale Proceeds Account"). The Designated Asset Sales Proceeds Account shall
+at all times be under the sole and exclusive dominion and control of the
+Collateral Trustee, subject to the terms and provisions of this Agreement.
+
+         (b)      Deposits of Net Sale Consideration. The Collateral Trustee and
+the Company shall promptly deposit or cause to be deposited into the Designated
+Asset Sale Proceeds Account all Net Proceeds (including all amounts and proceeds
+(including instruments) received by the Company or the Collateral Trustee (as
+loss payee or additional insured) under any insurance policy maintained by the
+Company or any other Person in respect of the Designated Collateral (the
+"Insurance Proceeds") or any amounts and proceeds (including instruments)
+received by the Company by reason of any compulsory transfer or taking by
+condemnation, eminent domain or exercise of a similar power, or transfer under
+threat of such compulsory transfer or taking, of any part of the Designated
+Collateral, other than an immaterial portion thereof, by any agency, department,
+authority, commission, board, instrumentality or
+
+                                       3
+
+<PAGE>
+
+political subdivision of the state in which such Designated Collateral is
+located, the United States or another governmental authority having jurisdiction
+which is not rescinded or revoked within 60 days after the date of such transfer
+or taking (the "Eminent Domain Proceeds" and, together with the Insurance
+Proceeds, the "Loss Proceeds")).
+
+         (c)      Withdrawals.
+
+                  (i)      General Provisions Regarding Release of Net Proceeds.
+     Subject to the terms and provisions of this Agreement, deposits of Net
+     Proceeds in the Designated Asset Sales Proceeds Account, and income
+     therefrom, may be withdrawn only upon order of the Collateral Trustee. Upon
+     the Collateral Trustee's receipt of an Officer's Certificate from the
+     Company stating:
+
+                           (A)      that a specified amount of the funds on
+         deposit in the Designated Asset Sale Proceeds Account (x) will be used,
+         promptly upon withdrawal from the Designated Asset Sale Proceeds
+         Account, to (1) purchase other assets that would constitute Designated
+         Assets or (2) repay Priority Lien Debt and/or cash collateralize
+         letters of credit constituting Priority Lien Debt and, if such Priority
+         Lien Debt is revolving credit Indebtedness, to correspondingly reduce
+         commitments with respect thereto, in each case in accordance with the
+         applicable provisions of each Secured Debt Document or (y) to the
+         extent that any such funds are not applied as provided in clause (x),
+         have been offered to the holders of Parity Lien Obligations in
+         compliance with the applicable provisions of each Parity Lien Debt
+         Document in Asset Sale Offers that were not accepted and have been
+         released from the Collateral Trustee's Liens and are required to be
+         released to the Company pursuant to such applicable provisions; and
+
+                           (B)      no Secured Debt Default has occurred and is
+         continuing;
+
+then, if the conditions set forth in Section 4.1(a) and (b) of the Collateral
+Trust Agreement are satisfied, the Collateral Trustee promptly shall instruct
+the Depositary Agent in writing using the form attached hereto as Exhibit A, to
+remit such amount to the Company as directed in any remittance instruction
+delivered to the Collateral Trustee by the Company. The Depositary Agent shall
+comply with such instructions.
+
+                  (ii)     General Provisions Regarding a Major Loss. Provided
+     that the conditions set forth in clauses (A) or (B) below have been
+     satisfied or have been waived by the Collateral Trustee, if there shall
+     occur any damage, destruction, condemnation or other similar taking of
+     Designated Collateral or other event with respect to which Loss Proceeds
+     for any single loss in excess of $25,000,000 are payable (a "Major Loss")
+     such Loss Proceeds shall be released by the Collateral Trustee to the
+     Company in accordance with clauses (A) and (B) below.
+
+                           (A)      Release with no Provision for Repair,
+         Replacement or Restoration. If there shall occur any Major Loss and
+         upon the Collateral Trustee's
+
+                                       4
+
+<PAGE>
+
+         receipt of an Officer's Certificate from the Company (in addition to
+         such other statements and certifications required pursuant to Section
+         2.01(c)(i)):
+
+                                    (1)      certifying that the Company has
+                  determined in its good faith judgment not to repair, restore
+                  or replace the property subject to a Major Loss; and
+
+                                    (2)      stating that no Secured Debt
+                  Default has occurred and is continuing,
+
+         then, such Loss Proceeds shall be released by the Collateral Trustee to
+         the Company in accordance with Section 2.01(c)(i).
+
+                           (B)      Repair and Restoration Procedures. In regard
+         to a Major Loss, the Collateral Trustee shall instruct the Depositary
+         Agent, in writing using the form attached hereto as Exhibit A, to remit
+         to the Company, from the Designated Asset Sales Proceeds Account, such
+         amounts as directed in any remittance instruction delivered to the
+         Collateral Trustee by the Company, and, upon such remittance, the
+         Collateral Trustee's Liens thereon shall be released, for application
+         to such Major Loss, only in accordance with the following requirements,
+         and the Depository Agent shall comply with such instructions:
+
+                                    (1)      the Company will cause any
+                           restoration or replacement to be commenced and
+                           completed promptly and diligently;
+
+                                    (2)      disbursements of Loss Proceeds for
+                           application toward repair, restoration or replacement
+                           shall be instructed by the Collateral Trustee upon
+                           the Company's written request and the presentation to
+                           the Collateral Trustee of an Officer's Certificate:
+
+                                            (I) describing in reasonable detail
+                           the nature of the proposed repair, restoration or
+                           replacement to be effected with such release;
+
+                                             (II) if the entity or entities that
+                           are required to pay Loss Proceeds to the Company are
+                           not collectively required to pay for all costs and
+                           expenses associated with completing any repair,
+                           restoration or replacement, without limitation, then
+                           providing a project budget for the proposed repair,
+                           restoration or replacement (which shall include a 10%
+                           contingency allowance) prepared in good faith and
+                           upon reasonable assumptions by the Company; and
+
+                                             (III) stating (A) the reasonably
+                           estimated overall cost of the proposed project, (B)
+                           the specific amount requested to be released from the
+                           Designated Asset Sales Proceeds Account and
+
+                                       5
+
+<PAGE>
+
+                           (C) that such amount promptly will be applied to pay
+                           the costs associated with such proposed project and,
+                           if clause (II) above is applicable, in accordance
+                           with the budget referred to in clause (II) above;
+
+                                   (IV)     stating that no Secured Debt
+                           Default has occurred and is continuing.
+
+                  (iii)    General Provisions Regarding a Minor Loss. If there
+     shall occur any damage, destruction, condemnation or other similar taking
+     of Collateral or other event with respect to which Loss Proceeds for any
+     single loss less than $25,000,000 are payable (a "Minor Loss"), such Loss
+     Proceeds, and related income, shall be released by the Collateral Trustee
+     to the Company in accordance with Section 2.01(c)(i).
+
+                  (iv)     Collateral Trustee Releases. The Collateral Trustee
+     agrees that it shall execute (with such acknowledgements and/or
+     notarizations as are required) and deliver such releases required under
+     this Section 2.01(c) to the Company on or before the fifth business day
+     after receiving all documents required by this Section 2.01(c) for such a
+     release.
+
+SECTION 2.02.     Permitted Investments.
+
+         (a)      [Reserved]
+
+         (b)      Application of Permitted Investments. So long as no Actionable
+Default has occurred and is continuing, the Depositary Agent shall, if and to
+the extent that the Company directs, make such investments in Cash Equivalents
+at the direction of the Company; provided that in the absence of any such
+direction by the Company all amounts in the Designated Asset Sale Proceeds
+Account shall be invested in those Cash Equivalents set forth in clause (6) of
+the definition thereof. Cash Equivalents, if any, purchased upon the direction
+of the Company under the provisions of this Agreement shall be deemed at all
+times to be a part of the Designated Asset Sale Proceeds Account from which
+funds were withdrawn in order to acquire such Cash Equivalents and shall be
+deemed to constitute funds on deposit in and credited to the Designated Asset
+Sale Proceeds Account, and all such Cash Equivalents and the income or interest
+earned and gains realized in excess of losses suffered by the Designated Asset
+Sale Proceeds Account due to the investment of funds deposited therein shall be
+credited and retained in the Designated Asset Sale Proceeds Account, except as
+otherwise expressly provided by the terms hereof.
+
+         (c)      Earnings. All earnings, if any, on funds in the Designated
+Asset Sale Proceeds Account maintained hereunder shall be credited to the
+Company for tax reporting purposes. The Depositary Agent shall provide to the
+Company a statement with respect to all interest earned on the Designated Asset
+Sale Proceeds Account as of the close of each calendar year for which income is
+earned on the Designated Asset Sale Proceeds Account. The Company shall provide
+the Depositary Agent with its taxpayer identification number, documented, to the
+extent necessary, by an appropriate executed Form W-9, upon execution of this
+Agreement. This form shall, to the extent necessary, be renewed as required by
+the Internal Revenue Service and
+
+                                       6
+
+<PAGE>
+
+provided to the Depositary Agent. The Depositary Agent shall be entitled to rely
+on an opinion of legal counsel (which may be counsel to the Company) in
+connection with the reporting of any earnings with respect hereto.
+
+         (d)      Liquidation of Investments for Distributions. The Collateral
+Trustee is hereby authorized (so long as no Actionable Default has occurred and
+is continuing, upon the written direction of the Company) to direct the
+Depositary Agent, in writing using the form attached hereto as Exhibit A, to
+liquidate or direct the liquidation of any Cash Equivalents (without regard to
+maturity) in order to make or cause to be made any application required by any
+Section of this Article 2. In furtherance, and not in limitation, of any other
+indemnity or limitation of liability with respect to the Collateral Trustee
+contained herein or in any other Secured Debt Document, the Collateral Trustee
+and the Depositary Agent shall in no way be liable for any losses suffered by
+the Company, including losses due to early liquidation or market risk, which are
+a result of the Collateral Trustee's exercise of its authority under this
+provision.
+
+         (e)      Value of Permitted Investments. Cash Equivalents, if any,
+credited to the Designated Asset Sale Proceeds Account shall be valued at their
+current market value.
+
+SECTION 2.03.     Monies Received by the Company. In the event that the Company
+receives any cash or Cash Equivalents constituting Net Proceeds (including any
+Loss Proceeds) or other amounts required by the terms hereof to be deposited
+into the Designated Asset Sale Proceeds Account, the Company shall hold the same
+in precisely the form received in trust for and on behalf of the Secured
+Parties, segregated from other funds of the Company, and without any notice or
+demand whatsoever, shall promptly deliver the same to the Depositary Agent for
+application in accordance with the terms of this Agreement. No balance in, or
+financial asset or other asset credited to, the Designated Asset Sale Proceeds
+Account pursuant to the terms hereof and maintained hereunder shall be disbursed
+or transferred by the Depositary Agent, except in accordance with the provisions
+hereof.
+
+SECTION 2.04.     Books of Designated Asset Sale Proceeds Account; Statements.
+The Depositary Agent shall maintain books of account on a cash basis and record
+therein all deposits into and transfers to and from the Designated Asset Sale
+Proceeds Account and all investment transactions effected by the Depositary
+Agent pursuant to the terms hereof, and any such recordation shall constitute
+prima facie evidence of the information recorded. Not later than the tenth
+Business Day of each month or as soon as practicable thereof, but in no event
+later than the twentieth calendar day of each month, commencing with the first
+month to occur after the earliest of the receipt of Net Proceeds into the
+Designated Asset Sale Proceeds Account in accordance with the terms hereof, the
+Depositary Agent shall deliver to the Company a statement setting forth the
+transactions in the Designated Asset Sale Proceeds Account during the preceding
+month (including deposits, withdrawals and transfers from and to the Designated
+Asset Sale Proceeds Account) and specifying the Net Proceeds, Cash Equivalents
+and other amounts held in or credited to the Designated Asset Sale Proceeds
+Account at the close of business on the last Business Day of the preceding
+month. In addition, the Depositary Agent shall promptly respond (during normal
+business hours) to requests by the Company for
+
+                                       7
+
+<PAGE>
+
+information regarding deposits, investments and transfers into, in respect of
+the Designated Asset Sale Proceeds Account.
+
+                                  ARTICLE III
+
+            SECURITY AND RELATED PROVISIONS; SECURITIES INTERMEDIARY
+
+SECTION 3.01.     Securities Designated Asset Sale Proceeds Account.
+
+         (a)      Acknowledgement. The Depositary Agent hereby agrees and
+confirms that the Depositary Agent has established the Designated Asset Sale
+Proceeds Account as set forth and defined in this Agreement.
+
+         (b)      Agreement. Each of the parties hereto agrees that:
+
+                  (i) the Designated Asset Sale Proceeds Account will be
+     maintained, to the extent that "financial assets" (within the meaning of
+     Section 8-102(a)(9) of the UCC, and as so defined the term financial asset
+     is so used throughout this Agreement) are deposited therein or credited
+     thereto, as a "securities account" (within the meaning of Section 8-501 of
+     the UCC), and, to the extent that credit balances not constituting
+     financial assets are credited thereto, as a "deposit account" (within the
+     meaning of Section 9-102(a)(29) of the UCC);
+
+                  (ii) the Company is an "entitlement holder" (within the
+     meaning of Section 8-102(a)(7) of the UCC) in respect of any "financial
+     assets" credited to the Designated Asset Sale Proceeds Account and the
+     "customer" (within the meaning of Section 9-104 of the UCC) to the extent
+     that credit balances not constituting financial assets are credited
+     thereto;
+
+                  (iii) all Cash Equivalents and all other property (including a
+     security, security entitlement, investment property, instrument or
+     obligation, share, participation, interest, cash or other property
+     whatsoever) delivered to the Depositary Agent will be promptly credited by
+     the Depositary Agent to the Designated Asset Sale Proceeds Account by an
+     appropriate entry in its records in accordance with this Agreement;
+
+                  (iv) all financial assets and other assets in registered form
+     or payable to or to order and credited to the Designated Asset Sale
+     Proceeds Account shall be registered in the name of, payable to or to the
+     order of, or specially endorsed to, the Depositary Agent or in blank, or
+     credited to another securities account maintained in the name of the
+     Depositary Agent, and in no case will any such financial asset or other
+     asset be credited to the Designated Asset Sale Proceeds Account at any
+     time, if, at such time, such asset is registered in the name of, payable to
+     or to the order of, or endorsed to, the Collateral Trustee (in such
+     capacity) or the Company, except to the extent the foregoing have been
+     subsequently endorsed by the Collateral Trustee (in such capacity) or the
+     Company to the Depositary Agent or in blank;
+
+                                       8
+
+<PAGE>
+
+                  (v) the Depositary Agent is acting as "securities
+     intermediary" (within the meaning of Section 8-102(a)(14) of the UCC) with
+     respect to the Designated Asset Sale Proceeds Account and financial assets
+     deposited therein or credited thereto and as a "bank" (within the meaning
+     of Section 9-304 of the UCC) with respect to the Designated Asset Sale
+     Proceeds Account and credit balances not constituting financial assets
+     credited thereto; and
+
+                  (vi) the Depositary Agent shall not change the name or account
+     number of the Designated Asset Sale Proceeds Account without the prior
+     written consent of the Company and the Collateral Trustee, which consents
+     shall not be unreasonably withheld.
+
+SECTION 3.02.     Certain Rights and Powers in Respect of Designated Asset Sale
+                  Proceeds Account and Funds.
+
+         (a)      Rights to Designated Asset Sale Proceeds Account. The Company
+shall not make, attempt to make or consent to the making of any withdrawal or
+transfer from the Designated Asset Sale Proceeds Account except in strict
+adherence to the terms and conditions of this Agreement. The Company shall not
+have any rights or powers with respect to the remittance of amounts credited to,
+the disbursement of credited amounts out of, or the investment of credited
+amounts in, the Designated Asset Sale Proceeds Account, except to have amounts
+credited thereto remitted, applied, disbursed or invested in accordance with
+this Agreement; provided, however, that the parties hereto acknowledge and agree
+that the foregoing provisions of this Section 3.02(a) shall not be deemed to
+divest the Company of its interest as an "entitlement holder" under the UCC, as
+provided in this Agreement.
+
+         (b)      Certain Powers of the Collateral Trustee and the Depositary
+Agent. The Collateral Trustee and, where appropriate, the Depositary Agent will
+have the right, but not the obligation, to (i) refuse any item for credit to the
+Designated Asset Sale Proceeds Account except as required by the terms of this
+Agreement and (ii) refuse to honor any request for transfer on the Designated
+Asset Sale Proceeds Account which is not consistent with this Agreement. If the
+Company fails to perform any agreement contained herein and such failure to
+perform is continuing for a period of 30 days, the Collateral Trustee may (but
+shall not be obligated to) itself perform, or cause the performance of, such
+agreement, and the expenses of the Collateral Trustee incurred in connection
+therewith shall be payable by the Company upon written demand. The Company
+hereby irrevocably appoints the Collateral Trustee as the Company's
+attorney-in-fact, with full authority in the place and stead of the Company, and
+in the name of the Company or otherwise from time to time, if an Actionable
+Default shall have occurred and be continuing, to take any action and to execute
+any instrument which is necessary or advisable to accomplish the purposes of
+this Agreement, including:
+
+                  (i) to ask, demand, collect, sue for, recover, compromise,
+     receive and give acquittance and receipts for moneys due and to become due
+     under or in respect of any of the Designated Asset Sale Proceeds Account or
+     the proceeds of financial assets or other assets held therein or credited
+     thereto;
+
+                                       9
+
+<PAGE>
+
+                  (ii) to receive, endorse, and collect any drafts or other
+     instruments, documents and chattel paper, in connection with clause (i)
+     above;
+
+                  (iii) to file any claims or take any action or institute any
+     proceedings which is necessary or desirable for the collection of any of
+     the Designated Asset Sale Proceeds Account or the proceeds of financial
+     assets or other assets held therein or credited thereto or otherwise to
+     enforce the rights of the Collateral Trustee with respect to the Designated
+     Asset Sale Proceeds Account or the proceeds of financial assets or other
+     assets held therein or credited thereto, provided that, with respect to
+     this clause (iii), such rights shall be exercised in accordance with
+     Section 3.05; and
+
+                  (iv) to perform the affirmative obligations of the Company
+     hereunder if, and to the extent that, the Company fails to perform such
+     obligations and such failure to perform is continuing for a period of 30
+     days.
+
+The Company hereby acknowledges, consents and agrees that the power of attorney
+granted pursuant to this Section 3.02(b) is irrevocable and coupled with an
+interest. The powers conferred on the Collateral Trustee hereunder are solely to
+protect its interest (on behalf of the applicable Secured Parties) in the
+Designated Asset Sale Proceeds Account and the proceeds of financial assets and
+other assets held therein or credited thereto and shall not impose any duty on
+the Collateral Trustee to exercise any such powers. Except for the reasonable
+care of the Designated Asset Sale Proceeds Account in its possession or under
+its control (as the case may be) and the accounting for moneys actually received
+by it hereunder, neither the Depositary Agent nor the Collateral Trustee shall
+have any duty as to the Designated Asset Sale Proceeds Account or the proceeds
+of financial assets or other assets held therein or credited thereto, or as to
+the taking of any necessary steps to preserve rights against prior parties or
+any other rights pertaining to the Designated Asset Sale Proceeds Account or
+proceeds. Each of the Depositary Agent and the Collateral Trustee is required to
+exercise reasonable care in the custody and preservation of the Designated Asset
+Sale Proceeds Account and the financial assets and other assets held therein or
+credited thereto in its possession or under its control (as the case may be);
+provided, however, that the Collateral Trustee in any event shall be deemed to
+have exercised reasonable care in the custody and preservation of the Designated
+Asset Sale Proceeds Account if it takes such action for that purpose as the
+Company reasonably requests in writing at times other than upon the occurrence
+and during the continuance of any Actionable Default.
+
+SECTION 3.03.     Security Interest.
+
+         (a)      Grant. To secure (i) the timely payment in full in cash and
+performance in full of the Secured Priority Lien Obligations of the Company, the
+Company does hereby assign, grant, hypothecate and pledge to, and grant a first
+priority security interest in favor of the Collateral Trustee, on behalf of and
+for the sole and exclusive benefit of the Secured Priority Lien Parties and (ii)
+the timely payment in full in cash and performance in full of the Secured Parity
+Lien Obligations of the Company, the Company does hereby assign, grant,
+hypothecate and pledge to, and grant a second priority security interest in
+favor of the Collateral Trustee, on behalf of and for the sole and exclusive
+benefit of the Secured Parity Lien Parties, in the case of
+
+                                       10
+
+<PAGE>
+
+each of clauses (i) and (ii) on all the estate, right, title, interest and
+security entitlements of the Company, whether now owned or hereafter acquired,
+in the Designated Asset Sale Proceeds Account and in all cash, cash equivalents,
+instruments, investments, other securities, financial assets and other assets
+held therein or credited thereto and all proceeds thereof, including all rights
+of the Company to receive moneys due in respect of such Designated Asset Sale
+Proceeds Account, all claims with respect to such Designated Asset Sale Proceeds
+Account, all income or gain earned in respect of the financial assets and other
+assets held in or credited to such Designated Asset Sale Proceeds Account, and
+all proceeds receivable or received when any financial asset or other asset held
+in or credited to an Designated Asset Sale Proceeds Account is collected,
+exchanged or otherwise disposed of, whether voluntarily or involuntarily.
+
+         This Agreement and the security interests and Liens granted and created
+herein secures the payment and performance of all Secured Obligations of the
+Company now or hereafter, whether direct or indirect, absolute or contingent,
+and whether for principal, reimbursement obligations, interest, fees, premiums,
+penalties, indemnifications, expenses or otherwise, and including all amounts
+that constitute part of the Secured Obligations and would be owed by the Company
+but for the fact that they are unenforceable or not allowed due to a pending
+Bankruptcy Case or Insolvency Proceeding. Without limiting the generality of the
+foregoing, it is the intent of the parties that (i) the Priority Lien
+Obligations are superior in right of payment to all the Parity Lien Obligations,
+in the manner and to the extent as set forth in Section 3.4 of the Collateral
+Trust Agreement and (ii) this Agreement creates two separate and distinct Liens:
+the first Lien securing the payment and performance of the Priority Lien
+Obligations and the second Lien securing the payment and performance of the
+Parity Lien Obligations.
+
+         (b)      Acknowledgment. The Depositary Agent hereby acknowledges the
+first priority security interest in, and the pledge by the Company to the
+Collateral Trustee for the benefit of, the Secured Parties of all of the
+Company's assets held in or credited to the Designated Asset Sale Proceeds
+Account and all proceeds thereof, and will so indicate on the records maintained
+by the Depositary Agent with respect to the Designated Asset Sale Proceeds
+Account. The Depositary Agent agrees to hold all such assets for the purposes
+of, and on the terms set forth in, this Agreement.
+
+         (c)      Other Liens; Adverse Claim.
+
+                  (i)      The Company represents and warrants that:
+
+                           (A)      it has not assigned any of its rights under
+         the Designated Asset Sale Proceeds Account;
+
+                           (B)      it has not executed and is not aware of any
+         effective financing statement, security agreement, control agreement or
+         other instrument similar in effect covering all or any part of the
+         Designated Asset Sale Proceeds Account except in favor of the
+         Collateral Trustee; and
+
+                                       11
+
+<PAGE>
+
+                           (C)      it has full power and authority to grant a
+         security interest in and assign its right, title and interest in the
+         Designated Asset Sale Proceeds Account and all financial assets and
+         other assets held therein or credited thereto and all proceeds thereof
+         hereunder.
+
+                  (ii)     The Company represents, warrants and covenants that
+     it has not granted, and shall not grant, to any Person other than the
+     Collateral Trustee any interest in Designated Asset Sale Proceeds Account
+     and that it has kept, and shall keep, the Designated Asset Sale Proceeds
+     Account free from all Liens other than Permitted Prior Liens.
+
+                  (iii)    The Depositary Agent represents and warrants that it
+     has no knowledge (without having conducted an independent investigation) of
+     any Lien on the Designated Asset Sale Proceeds Account other than the
+     claims and interest of the parties hereto as provided herein. In the event
+     that the Depositary Agent has or subsequently obtains by agreement,
+     operation of law or otherwise a security interest in the Designated Asset
+     Sale Proceeds Account or any financial asset or other asset credited
+     thereto, the Depositary Agent hereby agrees that such security interest
+     shall be subordinate to the security interest of the Collateral Trustee for
+     the benefit of the Secured Parties.
+
+                  (iv)     The Depositary Agent represents and warrants that it
+     has no notice (without having conducted an independent investigation) of
+     any adverse claim to the financial assets or other assets deposited in or
+     credited to the Designated Asset Sale Proceeds Account or to security
+     entitlements with respect thereto.
+
+                  (v)      The financial assets and other assets credited to the
+     Designated Asset Sale Proceeds Account shall not be subject to deduction,
+     set-off, banker's lien, or any other right in favor of any Person other
+     than the Collateral Trustee, except as set forth in clause (vi) below.
+
+                  (vi)     All usual and customary fees, costs or expenses of
+     the Depositary Agent in connection with this Agreement and any transactions
+     carried out hereunder shall be paid by the Company. In the event that any
+     such fees, costs or expenses shall remain unpaid in excess of 30 days from
+     their applicable due date, and after sufficient notice has been given to
+     the Company, the Depositary Agent may deduct such unpaid amounts from the
+     Designated Asset Sale Proceeds Account; provided that in such event the
+     Company shall be obligated to promptly pay an amount of cash equal to such
+     deducted amounts back into the Designated Asset Sale Proceeds Account.
+
+SECTION 3.04.     Duties and Certain Rights of Depositary Agent.
+
+         (a)      General. The duties of the Depositary Agent shall be
+determined solely by the express provisions of this Agreement and by applicable
+law and no duties, implied covenants or obligations shall be read into this
+Agreement against the Depositary Agent as depositary agent, securities
+intermediary and bank.
+
+                                       12
+
+<PAGE>
+
+         (b)      Acceptance of Appointment. The Depositary Agent hereby agrees
+to act as depositary agent and securities intermediary with respect to the
+Designated Asset Sale Proceeds Account and pursuant to this Agreement. The other
+parties hereto hereby acknowledge that the Depositary Agent shall act as
+depositary agent, securities intermediary and bank with respect to the
+Designated Asset Sale Proceeds Account and pursuant to this Agreement.
+
+         (c)      Financial Assets Election. The Depositary Agent hereby agrees
+that each item of property (including a security, security entitlement,
+investment property, instrument or obligation, share or participation) credited
+to the Designated Asset Sale Proceeds Account shall be treated as a financial
+asset under Article 8 of the UCC other than cash from time to time and at any
+time deposited in the Designated Asset Sale Proceeds Account, and interest
+accrued or paid thereon.
+
+         (d)      Negative Pledge. Subject to the terms of this Agreement, the
+Depositary Agent hereby agrees that it shall not grant any Lien in the financial
+assets and other assets that it is obligated to maintain under this Agreement.
+
+         (e)      Entitlement Orders, Instructions. If at any time that an
+Actionable Default shall have occurred and be continuing the Depositary Agent
+shall receive any entitlement order, instruction or any other order from the
+Collateral Trustee directing the transfer or redemption of any financial asset
+or other asset relating to the Designated Asset Sale Proceeds Account, or
+directing the disposition of any funds in the Designated Asset Sale Proceeds
+Account, the Depositary Agent shall comply with such entitlement order,
+instruction or other order without further consent by the Company or any other
+Person. The parties hereto agree that until the Depositary Agent's obligations
+under this Agreement shall terminate in accordance with the terms hereof, the
+Collateral Trustee shall have control of each of the Company's security
+entitlements with respect to the financial assets and other assets credited to
+the Designated Asset Sale Proceeds Account; provided, however, that the Company,
+as the entitlement holder with respect to the financial assets credited to the
+Designated Asset Sale Proceeds Account and the Person for whom the Designated
+Asset Sale Proceeds Account are maintained, is entitled, subject to Section 2.02
+and the other provisions of this Agreement, to make substitutions for the
+security entitlements with respect to the financial assets credited to the
+Designated Asset Sale Proceeds Account; provided, further, that until an
+Actionable Default shall have occurred and be continuing, the Collateral Trustee
+shall so act upon the written direction of the Company. The Depositary Agent
+hereby represents that it has not entered into, and agrees that, until the
+termination of this Agreement and the other Secured Debt Documents in accordance
+their terms, it will not enter into, any agreement with any other Person in
+respect such Designated Asset Sale Proceeds Account pursuant to which it would
+agree to comply with entitlement orders made by such Person.
+
+         (f)      Degree of Care. The Depositary Agent shall exercise due care
+in accordance with reasonable commercial standards in administering the
+Designated Asset Sale Proceeds Account, accounting for assets credited to the
+Designated Asset Sale Proceeds Account and performing its duties as a bank with
+respect to the Designated Asset Sale Proceeds Account, and to the extent that
+any "investment property" is on deposit, accounting for financial assets and
+
+                                       13
+
+<PAGE>
+
+other assets credited to the Designated Asset Sale Proceeds Account and
+performing its duties as securities intermediary with respect to the Designated
+Asset Sale Proceeds Account and, in each case, such assets deposited therein or
+credited thereto and the credit balances credited thereto under this Agreement.
+
+         (g)      Action Upon Notices; Exercise of Judgment. The Depositary
+Agent shall be permitted to conclusively rely and act upon any notice,
+entitlement order, instruction, request, waiver, consent, receipt or other paper
+or document whether in its original or facsimile form reasonably believed by the
+Depositary Agent to be signed by the Collateral Trustee, the Company or any
+other authorized Person. The Depositary Agent shall not be liable for any error
+of judgment or for any act done or step taken or omitted by it in good faith or
+for any mistake of fact or law or for anything which the Depositary Agent may do
+or refrain from doing in connection herewith, except its own gross negligence or
+willful misconduct. The Depositary Agent shall have duties only to the
+Collateral Trustee (on behalf of the Secured Parties).
+
+         (h)      Indemnification and Liability. In consideration of the
+appointment of Depositary Agent, the Company agrees:
+
+                  (i)      to fully indemnify and hold the Depositary Agent and
+     each Affiliate, officer, director, shareholder, employee and agent of the
+     Depositary Agent (each, an "Indemnified Person") harmless from and against
+     any and all claim, loss, liability, damage, cost or expense (including
+     reasonable legal fees and expenses) incurred by the Indemnified Person by
+     reason of or resulting from this Agreement (including its having accepted
+     such appointment or by reason of its carrying out of any of the terms of
+     this Agreement); and
+
+                  (ii)     to reimburse each Indemnified Person for all its
+     expenses, including reasonable fees and expenses of counsel and court costs
+     incurred by reason of any position or action taken by the Indemnified
+     Person pursuant to this Agreement or in connection with any action brought
+     to interpret or enforce the provisions of this Agreement or any part
+     thereof;
+
+except, with respect to each of clauses (i) and (ii), to the extent that any
+such claim, loss, liability, damage, cost or expense is determined by a court of
+competent jurisdiction in a final non-appealable judgment to have been caused by
+the Indemnified Person's gross negligence or willful misconduct. The parties
+hereto hereby agree that no Indemnified Person shall be liable to such parties
+for any actions taken by any Indemnified Person pursuant to and in compliance
+with the terms hereof except in respect of any liability or expenses incurred by
+the Indemnified Person arising from its gross negligence or willful misconduct.
+Any Indemnified Person may consult with legal counsel of its selection in the
+event of any dispute or question as to the construction of this Agreement or the
+Indemnified Person's duties hereunder, and the Indemnified Person shall incur no
+liability and shall be fully protected in acting in accordance with the opinion
+and instructions of such counsel.
+
+                                       14
+
+<PAGE>
+
+         (i)      Court Orders. The Depositary Agent is hereby authorized, in
+its exclusive discretion, to obey and comply with all writs, orders, judgments
+or decrees issued by any court or administrative agency affecting the Designated
+Asset Sale Proceeds Account or any financial asset credited to the Designated
+Asset Sale Proceeds Account. The Depositary Agent shall not be liable to any of
+the parties hereto, their successors or assigns by reason of the Depositary
+Agent's compliance with such writs, orders, judgments or decrees,
+notwithstanding that such writ, order, judgment or decree may later be reversed,
+modified, set aside or vacated.
+
+         (j)      Resignation and Termination.
+
+                  (i)      The Depositary Agent may at any time resign by giving
+     notice to each other party to this Agreement, such resignation to be
+     effective upon the appointment of a successor Depositary Agent as provided
+     below. The Company may remove the Depositary Agent at any time by giving
+     notice to each other party to this Agreement, such removal to be effective
+     upon the appointment of a successor Depositary Agent as provided below.
+
+                  (ii)     In the event of any removal of the Depositary Agent,
+     a successor Depositary Agent, which shall be a bank or trust company
+     organized under the laws of the United States of America or any state
+     thereof capable of acting as a "securities intermediary" (within the
+     meaning of Section 8-102(a)(14) of the UCC) and a "bank" (within the
+     meaning of Section 9-102(a)(8) of the UCC), having a capital and surplus of
+     not less than $50,000,000, shall be appointed by the Company. If a
+     successor Depositary Agent shall not have been appointed and accepted its
+     appointment as Depositary Agent within 45 days after such notice of removal
+     of the Depositary Agent, the Depositary Agent, the Collateral Trustee or
+     the Company may apply to any court of competent jurisdiction at the expense
+     of the Company to appoint a successor Depositary Agent to act until such
+     time, if any, as a successor Depositary Agent shall have accepted its
+     appointment as provided above. Any such successor Depositary Agent shall
+     deliver to each party to this Agreement a written instrument accepting such
+     appointment and thereupon:
+
+                           (A)      the Company or the Collateral Trustee (as
+         directed by an Act of Secured Debtholders) shall deliver an entitlement
+         order, instruction or any other order to the predecessor Depositary
+         Agent directing it to transfer to the successor Depositary Agent all
+         balances deposited in and all financial assets and other assets
+         credited to, the Designated Asset Sale Proceeds Account;
+
+                           (B)      the successor Depositary Agent shall
+         establish and maintain the Designated Asset Sale Proceeds Account and
+         deposit in and credit to the Designated Asset Sale Proceeds Account all
+         financial assets and other assets from the Designated Asset Sale
+         Proceeds Account maintained by the predecessor Depositary Agent
+         transferred by the predecessor Depositary Agent to the successor
+         Depositary Agent; and
+
+                                       15
+
+<PAGE>
+
+                           (C)      the successor Depositary Agent shall succeed
+         to all the rights and duties of the Depositary Agent under this
+         Agreement and under applicable law.
+
+                           (iii)    In the event of any resignation of the
+     Depositary Agent, a successor Depositary Agent, which shall be a bank or
+     trust company organized under the laws of the United States of America or
+     of any state thereof capable of acting as a "securities intermediary"
+     (within the meaning of Section 8-102(a)(14) of the UCC) and a "bank"
+     (within the meaning of Section 9-102(a)(8) of the UCC) and having a capital
+     and surplus of not less than $50,000,000, shall be appointed by the
+     Company. Any such successor Depositary Agent shall deliver to each party to
+     this Agreement a written instrument accepting such appointment and
+     thereupon:
+
+                           (A)      the Company or the Collateral Trustee (as
+         directed by an Act of Secured Debtholders) shall deliver an entitlement
+         order, instruction or any other order to the predecessor Depositary
+         Agent directing it to transfer to the Collateral Trustee all balances
+         deposited in and all financial assets credited to, the Designated Asset
+         Sale Proceeds Account;
+
+                           (B)      the successor Depositary Agent shall
+         establish and maintain at its New York office the Designated Asset Sale
+         Proceeds Account and deposit in and credit to the Designated Asset Sale
+         Proceeds Account all financial assets and other assets from the
+         Designated Asset Sale Proceeds Account maintained by the predecessor
+         Depositary Agent transferred by the predecessor Depositary Agent to the
+         successor Depositary Agent; and
+
+                           (C)      the successor Depositary Agent shall succeed
+         to all the rights and duties of the Depositary Agent under this
+         Agreement and under applicable law.
+
+                  (iv)     In the event that a successor Depositary Agent is not
+     appointed after such notice of resignation of the Depositary Agent, the
+     then current Depositary Agent shall fulfill its obligations hereunder until
+     a successor Depositary Agent meeting the requirements of this Section 3.04
+     has accepted its appointment as Depositary Agent and the provisions of this
+     Section 3.04 have been satisfied.
+
+In the event of the resignation or termination of the Depositary Agent, the
+Depositary Agent shall be entitled to its fees and expenses in accordance with
+the terms hereof up to the time such resignation becomes effective in accordance
+with this Section 3.04(j).
+
+         (k)      General.
+
+                  (i)      No provision of this Agreement shall require the
+     Depositary Agent to expend or risk its own funds or otherwise incur any
+     financial liability in the performance of any of its duties hereunder, or
+     in the exercise of any of its rights or powers (except to the extent
+     resulting from the gross negligence or willful misconduct of
+
+                                       16
+
+<PAGE>
+
+     the Depositary Agent) and unless it has been furnished with an indemnity
+     reasonably satisfactory to it.
+
+                  (ii)     All written directions and instructions (which may be
+     provided by facsimile transmission) by the Company or the Collateral
+     Trustee to the Depository Agent pursuant to this Agreement shall be
+     executed by an authorized signatory of the Company or the Collateral
+     Trustee, as applicable.
+
+                  (iii)    The Depository Agent shall not be bound to make any
+     investigation into the facts or matters stated in any resolution,
+     certificate, statement, instrument, opinion, report, notice, request,
+     direction, consent, order, bond, debenture, note, or any other evidence of
+     indebtedness or other paper or document, but the Depositary Agent, in its
+     discretion, may make further inquiry or investigation into such facts or
+     matters as it may see fit.
+
+                  (iv)     The Depository Agent shall not be liable for any
+     action taken, suffered, or omitted to be taken by it in good faith and
+     reasonably believed by it to be authorized or within the discretion or
+     rights or powers conferred upon it by this Agreement.
+
+                  (v)      The Depositary Agent shall not be deemed to have
+     notice of any Actionable Default unless a Responsible Officer of the
+     Depositary Agent has actual knowledge thereof or unless written notice
+     thereof is received by the Depositary Agent.
+
+                  (vi)     The Depositary Agent shall be under no obligation to
+     notify the Collateral Trustee of any Actionable Default or any other event
+     except for those events for which this Agreement specifically provides that
+     such notice is required.
+
+                  (vii)    If any checks, drafts or other items deposited in the
+     Designated Asset Sale Proceeds Account are returned or unpaid or otherwise
+     dishonored, the Depositary Agent shall have the right to charge any and all
+     such returned or dishonored items against the Designated Asset Sale
+     Proceeds Account or to demand reimbursement therefor directly from the
+     Company.
+
+                  (viii)   In no event shall the Depositary Agent be liable for
+     losses or delays resulting from computer malfunction, interruption of
+     communication facilities, labor difficulties, in each case, that are beyond
+     the Depositary Agent's reasonable control or other causes beyond the
+     Depositary Agent's reasonable control or for indirect, special or
+     consequential damages.
+
+SECTION 3.05.     Remedies. If an Actionable Default shall have occurred and be
+continuing:
+
+                  (i)      the Collateral Trustee may exercise in respect of the
+     Designated Asset Sale Proceeds Account, in addition to other rights and
+     remedies provided for herein or otherwise available to it, all the rights
+     and remedies of a secured party on default under
+
+                                       17
+
+<PAGE>
+
+     the UCC at that time and consistent with the provisions of the other
+     Secured Debt Documents, including the right to proceed to protect and
+     enforce the rights vested in it by this Agreement, to sell, liquidate or
+     otherwise dispose of the Designated Asset Sale Proceeds Account, and to
+     cause the Designated Asset Sale Proceeds Account to be sold, liquidated or
+     otherwise disposed of, in each case in such manner as the Collateral
+     Trustee may elect; and
+
+                  (ii)     the proceeds of any financial assets and other assets
+     credited to or held in the Designated Asset Sale Proceeds Account and all
+     cash proceeds received by the Collateral Trustee in respect of any sale of,
+     collection from or other realization upon all or any part of the Designated
+     Asset Sale Proceeds Account shall be applied in accordance with the
+     provisions of Section 3.4 of the Collateral Trust Agreement.
+
+No right, power or remedy herein conferred upon or reserved to the Collateral
+Trustee is intended to be exclusive of any other right, power or remedy and
+every such right, power and remedy shall, to the extent permitted by law, be
+cumulative and in addition to every other right, power and remedy given
+hereunder or now or hereafter existing at law or in equity or otherwise. The
+assertion or employment of any right or remedy hereunder or otherwise shall not
+prevent the concurrent assertion or employment of any other appropriate right or
+remedy. Resort to any or all security now or hereafter held by the Collateral
+Trustee may be taken concurrently or successively and in one or several
+consolidated or independent judicial actions or lawfully taken nonjudicial
+proceedings, or both.
+
+                                   ARTICLE IV
+
+                            TERMINATION OF AGREEMENT
+
+SECTION 4.01.     Rights and Obligations of Collateral Trustee and Depositary
+Agent. The rights and powers granted herein to the Collateral Trustee have been
+granted in order, among other things, to perfect its security interests in the
+Designated Asset Sale Proceeds Account, are powers coupled with an interest, and
+will neither be affected by the bankruptcy of the Company nor by the lapse of
+time. Except as otherwise provided herein, the obligations of the Depositary
+Agent hereunder shall continue in effect until the security interests of the
+Collateral Trustee in the Designated Asset Sale Proceeds Account have been
+terminated pursuant to the terms of this Agreement and the other Secured Debt
+Documents, and the Collateral Trustee has notified the Depositary Agent of such
+termination in writing.
+
+SECTION 4.02.     Secured Obligations. When each of the Secured Debt Documents
+has expired or has otherwise terminated, all Secured Obligations of the Company
+to the Secured Parties under each of the Secured Debt Documents have been paid
+in full and all commitments to extend credit under all Credit Facilities the
+Indebtedness under which constitutes Priority Lien Debt have been terminated,
+all right, title and interest of the Collateral Trustee in the Designated Asset
+Sale Proceeds Account shall be released in accordance with the Collateral Trust
+Agreement. At such time, the Collateral Trustee shall notify the Depositary
+Agent in writing using the form attached hereto as Exhibit A to, and upon such
+notification the Depositary Agent
+
+                                       18
+
+<PAGE>
+
+shall, pay any amounts (including Cash Equivalents) then remaining in the
+applicable Designated Asset Sale Proceeds Account to the Company. No termination
+of any interest of a Secured Party hereunder shall affect the rights of any
+other Secured Party hereunder.
+
+                                    ARTICLE V
+
+                                  MISCELLANEOUS
+
+SECTION 5.01.     Notices. Any communications, including notices and
+instructions, between the parties hereto or notices provided herein to be given
+may be given to the following addresses:
+
+         If to the Collateral Trustee:     The Bank of New York
+                                           101 Barclay Street, Floor 8 West
+                                           New York, NY 10286
+                                           Attention: Corporate Trust
+                                           Administration
+                                           Fax: 212-815-5704
+
+         If to the Company:                Calpine Corporation
+                                           50 West San Fernando Street
+                                           San Jose, CA 95113
+                                           Attention: Corporate Treasurer
+                                           Fax: 408-995-0505
+
+         If to the Depositary Agent:       Union Bank of California, N.A.
+                                           120 South San Pedro Street, Suite 400
+                                           Los Angeles, CA
+                                           Attention: Corporate Trust
+                                           Administration
+                                           Fax: 213-972-5694
+
+Each notice hereunder shall be in writing and may be personally served or sent
+by facsimile or United States mail or courier service and shall be deemed to
+have been given when delivered in person or by courier service and signed for
+against receipt thereof, upon receipt of facsimile, or three Business Days after
+depositing it in the United States mail with postage prepaid and properly
+addressed. Any party shall have the right to change its address for notice
+hereunder to any other location within the continental United States by giving
+of 30 days' notice to the other parties in the manner set forth hereinabove.
+
+SECTION 5.02.     Benefit of Agreement. Nothing in this Agreement, expressed or
+implied, shall give or be construed to give to any Person other than the parties
+hereto, the Secured Parties, any legal or equitable right, remedy or claim under
+this Agreement, or under any covenants and provisions of this Agreement, each
+such covenant and provision being for the sole benefit of the parties hereto and
+the Secured Parties.
+
+                                       19
+
+<PAGE>
+
+SECTION 5.03.     No Waiver; Remedies Cumulative. No failure or delay on the
+part of the Collateral Trustee or the Depositary Agent in the exercise of any
+power, right or privilege hereunder or under any other Secured Debt Document
+shall impair such power, right or privilege or be construed to be a waiver of
+any default or acquiescence therein, nor shall any single or partial exercise of
+any such power, right or privilege preclude other or further exercise thereof or
+of any other power, right or privilege. The rights, powers and remedies given to
+the Collateral Trustee and the Depositary Agent hereby are cumulative and shall
+be in addition to and independent of all rights, powers and remedies existing by
+virtue of any statute or rule of law or in any of the other Secured Debt
+Documents. Any forbearance or failure to exercise, and any delay in exercising,
+any right, power or remedy hereunder shall not impair any such right, power or
+remedy or be construed to be a waiver thereof, nor shall it preclude the further
+exercise of any such right, power or remedy.
+
+SECTION 5.04.     Severability. In case any provision in or obligation hereunder
+shall be invalid, illegal or unenforceable in any jurisdiction, the validity,
+legality and enforceability of the remaining provisions or obligations, or of
+such provision or obligation in any other jurisdiction, shall not in any way be
+affected or impaired thereby.
+
+SECTION 5.05.     Amendments. This Agreement may not be amended, modified or
+supplemented, except in a writing signed by each of the parties hereto and in
+accordance with Section 7.1 of the Collateral Trust Agreement.
+
+SECTION 5.06.     Headings. Section headings herein are included herein for
+convenience of reference only and shall not constitute a part hereof for any
+other purpose or be given any substantive effect.
+
+SECTION 5.07.     Governing Law. This Agreement, including all matters of
+construction, validity, performance and the creation, validity, enforcement or
+priority of the lien of, and security interests created by, this Agreement in or
+upon the Designated Asset Sale Proceeds Account shall be governed by the laws of
+the State of New York, without reference to conflicts of law (other than Section
+5-1401 of the New York General Obligations Law), except as required by mandatory
+provisions of law and except to the extent that the validity or perfection of
+the lien and security interest hereunder, or remedies hereunder, in respect of
+the Designated Asset Sale Proceeds Account are governed by the laws of a
+jurisdiction other than the State of New York. Regardless of any provision in
+any other agreement, for purposes of the UCC, the jurisdiction of the Depositary
+Agent as securities intermediary (under Section 8-110(e) of the UCC) and as bank
+(under Section 9-304(b) of the UCC) with respect to the Designated Asset Sale
+Proceeds Account is the State of New York.
+
+SECTION 5.08.     CONSENT TO JURISDICTION. ALL JUDICIAL PROCEEDINGS BROUGHT
+AGAINST ANY PARTY HERETO ARISING OUT OF OR RELATING HERETO OR ANY OTHER SECURED
+DEBT DOCUMENT, OR ANY OF THE OBLIGATIONS, MAY BE BROUGHT IN ANY STATE OR FEDERAL
+COURT OF COMPETENT JURISDICTION IN THE STATE, COUNTY AND CITY OF NEW YORK. BY
+EXECUTING AND DELIVERING THIS AGREEMENT, EACH PARTY
+
+                                       20
+
+<PAGE>
+
+HERETO, FOR ITSELF AND IN CONNECTION WITH ITS PROPERTIES, IRREVOCABLY (A)
+ACCEPTS GENERALLY AND UNCONDITIONALLY THE NONEXCLUSIVE JURISDICTION AND VENUE OF
+SUCH COURTS; (B) WAIVES ANY DEFENSE OF FORUM NON CONVENIENS; (C) AGREES THAT
+SERVICE OF ALL PROCESS IN ANY SUCH PROCEEDING IN ANY SUCH COURT MAY BE MADE BY
+REGISTERED OR CERTIFIED MAIL, RETURN RECEIPT REQUESTED, TO THE APPLICABLE
+OBLIGOR AT ITS ADDRESS PROVIDED IN ACCORDANCE WITH SECTION 5.01; (D) AGREES THAT
+SERVICE AS PROVIDED IN CLAUSE (C) ABOVE IS SUFFICIENT TO CONFER PERSONAL
+JURISDICTION OVER THE APPLICABLE OBLIGOR IN ANY SUCH PROCEEDING IN ANY SUCH
+COURT, AND OTHERWISE CONSTITUTES EFFECTIVE AND BINDING SERVICE IN EVERY RESPECT;
+AND (E) AGREES AGENTS AND SECURED PARTIES RETAIN THE RIGHT TO SERVE PROCESS IN
+ANY OTHER MANNER PERMITTED BY LAW OR TO BRING PROCEEDINGS AGAINST ANY OBLIGOR IN
+THE COURTS OF ANY OTHER JURISDICTION.
+
+SECTION 5.09.     WAIVER OF JURY TRIAL. EACH OF THE PARTIES HERETO HEREBY AGREES
+TO WAIVE ITS RESPECTIVE RIGHTS TO A JURY TRIAL OF ANY CLAIM OR CAUSE OF ACTION
+BASED UPON OR ARISING HEREUNDER OR UNDER ANY OF THE OTHER TERM LOAN DOCUMENTS OR
+NOTE DOCUMENTS OR ANY DEALINGS BETWEEN THEM RELATING TO THE SUBJECT MATTER OF
+THIS CONTROL AGREEMENT OR THE LENDER/COMPANY RELATIONSHIP THAT IS BEING
+ESTABLISHED. THE SCOPE OF THIS WAIVER IS INTENDED TO BE ALL-ENCOMPASSING OF ANY
+AND ALL DISPUTES THAT MAY BE FILED IN ANY COURT AND THAT RELATE TO THE SUBJECT
+MATTER OF THIS TRANSACTION, INCLUDING CONTRACT CLAIMS, TORT CLAIMS, BREACH OF
+DUTY CLAIMS AND ALL OTHER COMMON LAW AND STATUTORY CLAIMS. EACH PARTY HERETO
+ACKNOWLEDGES THAT THIS WAIVER IS A MATERIAL INDUCEMENT TO ENTER INTO A BUSINESS
+RELATIONSHIP, THAT EACH HAS ALREADY RELIED ON THIS WAIVER IN ENTERING INTO THIS
+AGREEMENT, AND THAT EACH WILL CONTINUE TO RELY ON THIS WAIVER IN ITS RELATED
+FUTURE DEALINGS. EACH PARTY HERETO FURTHER WARRANTS AND REPRESENTS THAT IT HAS
+REVIEWED THIS WAIVER WITH ITS LEGAL COUNSEL AND THAT IT KNOWINGLY AND
+VOLUNTARILY WAIVES ITS JURY TRIAL RIGHTS FOLLOWING CONSULTATION WITH LEGAL
+COUNSEL. THIS WAIVER IS IRREVOCABLE, MEANING THAT IT MAY NOT BE MODIFIED EITHER
+ORALLY OR IN WRITING (OTHER THAN BY A MUTUAL WRITTEN WAIVER SPECIFICALLY
+REFERRING TO THIS SECTION AND EXECUTED BY EACH OF THE PARTIES HERETO), AND THIS
+WAIVER SHALL APPLY TO ANY SUBSEQUENT AMENDMENTS, RENEWALS, SUPPLEMENTS OR
+MODIFICATIONS HERETO OR ANY OF THE OTHER SECURED DEBT DOCUMENTS OR TO ANY OTHER
+DOCUMENTS OR AGREEMENTS RELATING TO THE SUBJECT MATTER OF THIS AGREEMENT. IN THE
+EVENT OF LITIGATION, THIS AGREEMENT MAY BE FILED AS A WRITTEN CONSENT TO A TRIAL
+BY THE COURT.
+
+                                       21
+
+<PAGE>
+
+SECTION 5.10.     Successors and Assigns. This Agreement shall be binding upon
+and inure to the benefit of the parties hereto and their respective successors
+and permitted assigns, provided that (a) the Company may not assign or otherwise
+transfer any of its rights or obligations hereunder without the prior written
+consent of the Collateral Trustee (which consent may be withheld in its sole
+discretion) and (b) the Depositary Agent may only assign or otherwise transfer
+any of its rights or obligations hereunder in accordance with the terms of this
+Agreement.
+
+SECTION 5.11.     Entire Agreement. This Agreement and any agreement, document
+or instrument attached hereto or referred to herein among the parties hereto
+integrate all the terms and conditions mentioned herein or incidental hereto and
+supersede all oral negotiations and prior writings in respect of the subject
+matter hereof. In the event of any conflict between the terms, conditions and
+provisions of this Agreement and any such agreement, document or instrument, the
+terms, conditions and provisions of this Agreement shall prevail. In the event
+of any conflict between this Agreement (or any portion hereof) and any other
+agreement now existing or hereafter entered into with respect to the Designated
+Asset Sale Proceeds Account, the terms of this Agreement shall prevail.
+
+SECTION 5.12.     Survival of Agreements. The provisions regarding the payment
+of expenses and indemnification obligations, including Section 3.04(h) and the
+provisions set forth in Sections 3.04(j) and 5.14, and in the event that the
+Depositary Agent resigns in accordance with Section 3.04(j)(iii) or 3.04(j)(iv),
+Article 2 shall survive and remain in full force and effect regardless of the
+consummation of the transactions contemplated hereby, the expiration or
+termination of each of the Secured Debt Documents, the payment in full of all
+Secured Obligations of the Company to the Secured Parties under each of the
+Secured Debt Documents and the termination or expiration of all commitments to
+extend credit under all Credit Facilities the Indebtedness under which
+constitutes Priority Lien Debt.
+
+SECTION 5.13. Further Information. The Depositary Agent shall promptly provide
+the Collateral Trustee and the Company with any information reasonably requested
+by the Collateral Trustee or the Company concerning balances in the Designated
+Asset Sale Proceeds Account and payments from the Designated Asset Sale Proceeds
+Account.
+
+SECTION 5.14. Additional Depositary Agent Provisions. The Depositary Agent may
+engage or be interested in any financial or other transactions with any party to
+this Agreement and may act on, or as depositary, trustee or agent for, any
+committee or body of holders of obligations of such Persons as freely as if it
+were not the Depositary Agent hereunder. The Depositary Agent shall act as an
+agent only and shall not be responsible or liable in any manner for soliciting
+any funds or for the sufficiency, correctness, genuineness or validity of any
+funds or securities deposited with or held by it, except in the case of its
+gross negligence or willful misconduct. The Depositary Agent shall not be liable
+for any error of judgment or for any act done or step taken or omitted except in
+the case of its gross negligence or willful misconduct. In the event of any
+dispute as to the construction or interpretation of any provision of this
+Agreement, the Depository Agent may consult with counsel of its own selection
+and the opinion
+
+                                       22
+
+<PAGE>
+
+of such counsel shall be full and complete authorization and protection in
+respect of any action taken suffered or omitted by it hereunder in good faith
+and reliance thereon.
+
+SECTION 5.15.     Counterparts. This Agreement may be executed in any number of
+counterparts, each of which when so executed and delivered shall be deemed an
+original, but all such counterparts together shall constitute but one and the
+same instrument. The delivery of an executed signature page of this Agreement by
+facsimile transmission shall be effective as delivery of a manually executed
+counterpart hereof.
+
+SECTION 5.16.     Effectiveness. This Agreement shall become effective upon the
+execution of a counterpart hereof by each of the parties hereto and receipt by
+the Company, the Depositary Agent and the Collateral Trustee of written
+notification of such execution and authorization of delivery thereof.
+
+SECTION 5.17.     Collateral Trustee's Obligations. Notwithstanding anything to
+the contrary contained in this Agreement, in acting under and by virtue of this
+Agreement, the Collateral Trustee shall be entitled to all of the rights,
+privileges and immunities provided to it under the Collateral Trust Agreement,
+and the performance by the Collateral Trustee of its obligations under this
+Agreement and the exercise of its rights hereunder is subject in all respects to
+the provisions of the Collateral Trust Agreement.
+
+                  [REMAINDER OF PAGE INTENTIONALLY LEFT BLANK]
+
+                                       23
+
+<PAGE>
+
+         IN WITNESS WHEREOF, the parties hereto, by their officers duly
+authorized, intending to be legally bound, have caused this Depositary Agreement
+to be duly executed and delivered as of the date first above written.
+
+                             CALPINE CORPORATION
+
+                             By:     /s/ ANN B. CURTIS
+                                   --------------------------------------------
+                                   Name: Ann B. Curtis
+                                   Title: Executive Vice President, Secretary
+                                   and Co-Chairman of the Board
+
+                             THE BANK OF NEW YORK, not in its individual
+                             capacity, but solely as the Collateral Trustee
+
+                             By:     /s/ MICHAEL PITFICK
+                                   --------------------------------------------
+                                   Name: Michael Pitfick
+                                   Title: Assistant Vice President
+
+                             UNION BANK OF CALIFORNIA, N.A.,
+                             as Depositary Agent
+
+                             By:     /s/ LORRAINE MCINTIRE
+                                   --------------------------------------------
+                                   Name: Lorraine McIntire
+                                   Title: Vice President
+
+                      [Depositary Agreement Signature Page]
+
+<PAGE>
+
+                                    EXHIBIT A
+
+                           DATE: _____________________
+
+UNION BANK OF CALIFORNIA, N.A.
+ADDRESS: 120 SOUTH SAN PEDRO STREET,
+SUITE 400
+LOS ANGELES, CALIFORNIA
+ATTENTION: CORPORATE TRUST DEPARTMENT
+PHONE: 213-972-5675
+FAX: 213-972-5694
+
+                   RE: DESIGNATED ASSET SALE PROCEEDS ACCOUNT
+                     CONTROL AGREEMENT DATED JULY 16, 2003;
+                     DESIGNATED ASSET SALE PROCEEDS ACCOUNT
+
+LADIES AND GENTLEMEN:
+
+         REFERENCE IS MADE TO THE DESIGNATED ASSET SALE PROCEEDS ACCOUNT CONTROL
+AGREEMENT DATED JULY 16, 2003 (THE "AGREEMENT"; CAPITALIZED TERMS USED HEREIN
+SHALL HAVE THE MEANINGS ASSIGNED THERETO IN THE AGREEMENT) AMONG THE BANK OF NEW
+YORK (THE "COLLATERAL TRUSTEE"), UNION BANK OF CALIFORNIA, N.A. (THE "DEPOSITARY
+AGENT") AND CALPINE CORPORATION (THE "COMPANY"). THIS LETTER CONSTITUTES AN
+INSTRUCTION UNDER THE AGREEMENT.
+
+You are hereby instructed and authorized to remit: Written $ Amount US _________
+                                                   Numeric $ Amount    $________
+VIA WIRE TRANSFER TO:       ACCOUNT #:      __________   ABA # _________________
+                            ACCOUNT NAME:   ____________________________________
+                            ATTENTION:      ____________________________________
+
+FROM THE DESIGNATED ASSET SALES PROCEEDS                MAINTAINED AT UNION
+ACCOUNT # 6711713800                        __________  BANK OF CALIFORNIA, N.A.
+
+         THE UNDERSIGNED REPRESENTS AND WARRANTS TO THE DEPOSITARY AGENT THAT
+THE UNDERSIGNED IS AN AUTHORIZED SIGNATORY OF COLLATERAL TRUSTEE.
+
+                               COLLATERAL TRUSTEE
+
+                    BY:   __________________________________
+                   NAME:  __________________________________
+                   TITLE: __________________________________
+
+</TEXT>
+</DOCUMENT>

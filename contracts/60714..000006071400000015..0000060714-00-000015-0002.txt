@@ -1,0 +1,661 @@
+<DOCUMENT>
+<TYPE>EX-2.2
+<SEQUENCE>2
+<FILENAME>0002.txt
+<TEXT>
+
+
+                ASSET PURCHASE AND SALE AGREEMENT
+
+
+     This Agreement is entered into this 4th day of May, 2000, by
+L&S Automotive Products Co., a Delaware corporation ("LSAP"), L&S
+Bearing Co., an Oklahoma corporation ("LSBC"), LSB Extrusion Co.,
+an Oklahoma corporation ("LSBE"), and Rotex Corporation, an
+Oklahoma corporation ("Rotex") (LSAP, LSBC, LSBE, and Rotex are
+sometimes herein collectively referred to as  "Sellers"), and
+DriveLine Technologies, Inc., an Oklahoma corporation
+("Purchaser" or "DriveLine").  In consideration of the mutual
+promises contained herein, the parties agree as follows:
+
+     1.   Purchase and Sale.  Purchaser shall purchase from
+Sellers, and Sellers shall sell to Purchaser, at the Closing on
+the Closing Date, all of the right, title and interest in and to
+the business, properties, assets and rights of any kind, whether
+tangible or intangible, real or personal, but excluding operating
+loss carryforwards (NOLs) of Sellers, the shares of the capital
+stock in International Bearings, Inc., an Oklahoma corporation,
+and the shares of the capital stock in LSBC, LSBE and Rotex
+(collectively, "Purchased Assets"), owned by Sellers as of the
+Closing Date, subject to the terms and conditions hereafter
+specified.
+
+     2.   Assumption of Liabilities.  Except liabilities that are
+covered by insurance policies of Sellers (and not to include any
+deductibles or retention amounts), and except for liabilities
+arising out of the intentional wrongdoing of Sellers, Purchaser
+shall assume and hereby assumes, and becomes liable for, all
+debts, liabilities or obligations of Sellers of all kinds
+whatsoever (collectively the "Assumed Liabilities"), including
+without limitation (a) accounts payable for Inventory and trade
+payables, (b) warranty obligations relating to past sales of
+Sellers, (c) environmental and superfund liabilities, (d) all
+outstanding contracts and agreements, (e) indebtedness to LSB
+Industries, Inc. ("LSB"), (f) indebtedness, loan payments and
+lease payments relating to certain machinery and equipment
+("Machinery") and certain other obligations assumed which are
+described on Exhibit 1 attached hereto, and (g) indebtedness
+relating to the termination of any employees by Seller upon the
+Closing or any termination of employees by Purchaser.  Purchaser
+shall and hereby does accept assignment of and sole
+responsibility for the Assumed Liabilities.  Purchaser shall pay
+all assumed debt and other assumed liabilities when due, and
+shall perform all assumed obligations pursuant to their terms.
+
+     3.   Purchase Price.  The total purchase price to be paid by
+Purchaser to Sellers for the Purchased Assets shall be Eight
+Million Six Hundred Sixty-Six Thousand ($8,666,000) ("Purchase
+Price").  The Purchase Price shall be paid at Closing by the
+execution and delivery by Purchaser of a) a promissory note in
+the principal amount of Five Million Nine Hundred Thirty-Four
+Thousand Dollars ($5,934,000) made payable to LSB which amount
+reflects the assumption by DriveLine of certain existing secured
+indebtedness of LSAP to LSB ("Note A"), and b) a promissory note
+in the principal amount of Two Million Seven Hundred Thirty-Two
+Thousand Dollars ($2,732,000) ("Note B") which LSAP shall and
+hereby does assign to LSB.  Accordingly, Note B shall be made
+payable to LSB.  The form of Note A and Note B is attached to
+this Agreement as Exhibits 2 and 3.  Both Note A and Note B
+(collectively the "Notes") shall be secured by a lien on all the
+assets of Purchaser and guaranteed by (a)L&S Manufacturing Corp.,
+an Oklahoma corporation and subsidiary of Purchaser, pursuant to
+the terms of a Secured Guaranty Agreement by L&S Manufacturing
+Corp. in favor of LSB, such guaranty secured by all of the assets
+of L&S Manufacturing Corp., and (b) MC Automotive Acquisition
+Corp., an Oklahoma corporation, pursuant to the terms of a
+Secured Guaranty Agreement by MC Automotive Acquisition Corp. in
+favor of LSB, such guaranty secured by all of the assets of MC
+Automotive Acquisition Corp., which associated loan, security
+agreements and secured guarantees (collectively, the "Note
+Agreements") shall be in the form as set forth in Exhibit 4
+attached hereto.
+
+     4.   Consigned Inventory.  Purchaser shall not purchase any
+Inventory consigned to Sellers.
+
+     5.   Representations and Warranties of Sellers.
+
+          5.1       Incorporation and Qualification.  Sellers,
+     except for LSAP, are corporations duly organized and validly
+     existing under the laws of Oklahoma.  LSAP is a corporation
+     duly organized and validly existing under the laws of
+     Delaware.  Sellers have all requisite corporate power and
+     authority to own the Purchased Assets and to carry on their
+     business as presently being conducted, to enter into this
+     Agreement, and to carry out and perform the terms and
+     provisions of this Agreement.
+
+          5.2       Title to Purchased Assets.  Sellers have, or
+     will have at the Closing, good and marketable title to the
+     Purchased Assets held in each case subject to no lease,
+     mortgage, pledge, lien, charge, security interest,
+     encumbrance or restriction whatsoever, except as may be
+     permitted herein, as provided in Exhibit 5 (relating to the
+     Machinery), as relates to Congress Financial Corporation
+     (Southwest), or as provided in Exhibit 5.2 attached hereto.
+
+          5.3       Authority to Consummate Transaction.  The
+     execution and delivery of this Agreement does not, and the
+     consummation of the transactions contemplated hereby will
+     not, violate any provisions of the Articles of Incorporation
+     or By-Laws of Sellers, or any provision in any agreement
+     affecting the Purchased Assets, or any judgment, decree,
+     order, statute or regulation to which the Sellers are
+     subject.  This Agreement constitutes the valid and binding
+     agreement of the Sellers enforceable against the Sellers in
+     accordance with its terms.
+
+          5.4       Employees.  Exhibit 5.4 attached hereto sets
+     forth the names and positions of employees of Sellers as of
+     the Closing Date.
+
+          5.5       Compliance with Law.  All material licenses,
+     certificates and permits necessary for the legal conduct of
+     Sellers' business activities are valid and in full force and
+     effect.
+
+     6.   Representations and Warranties of Purchaser.
+
+          6.1       Incorporation and Qualification.  Purchaser
+     is a duly organized and existing limited liability company
+     under the laws of the State of Oklahoma and has all power
+     and the authority to enter into this Agreement and to carry
+     out and perform the terms and provisions hereof.
+
+          6.2       Authority to Consummate Transaction.  The
+     execution and delivery of this Agreement does not, and the
+     consummation of the transaction contemplated hereby will
+     not, violate any provisions of the Articles of Incorporation
+     or Bylaws of Purchaser.  Purchaser has full power and
+     authority to execute and deliver this Agreement and to
+     perform its obligations hereunder.  This Agreement
+     constitutes the valid and legally binding obligation of
+     Purchaser enforceable and binding against Purchaser in
+     accordance with its terms.
+
+          6.3  No Claims.  There is no suit, action or claim of
+     any nature, legal or administrative, pending or threatened,
+     against Purchaser.
+
+          6.4       Insurance.  Exhibit 6.4 attached hereto
+     contains a description of all insurance policies maintained
+     by Sellers on their assets or business, including the
+     insurance carrier, the type of coverage and the expiration
+     dates of the current policies.
+
+          6.5       Full and Complete Disclosure.  Purchaser
+     agrees and acknowledges that it has conducted detailed and
+     extensive due diligence of Sellers and the Purchased Assets.
+     Purchaser further agrees and acknowledges that it has been
+     provided with all information and material relating to the
+     Sellers and the Purchased Assets as requested by Purchaser,
+     and that Purchaser has been given unlimited access to the
+     facilities and the books and records of Sellers.
+
+     7.   Sellers' Employees.   Sellers shall use reasonable
+efforts to assist Purchaser, if requested, to obtain the services
+of any employees listed on Exhibit 5.4 whom Purchaser desires to
+employ.  Purchaser shall be liable for, and hereby indemnifies
+Sellers for, all loss costs, damages and expenses (including
+reasonable attorneys fees) incurred in connection with the
+termination of employment of any employee by Seller or Purchaser
+in connection with the purchase and sale of the Purchased Assets
+or the purchase by the Purchaser of the automotive parts business
+of Sellers.  At the Closing Purchaser shall hire at least the
+requisite number of employees of the Sellers at wages and
+benefits essentially equivalent to their current compensation
+package sufficient to avoid the applicability of the Workers
+Adjustment and Retaining Notification Act, 29 U.S.C. '2101, et
+seq. ("WARN ACT").  In reliance thereon, the Sellers have
+determined that the notification requirements of the WARN Act
+will not be triggered by the termination of their employees.  In
+the event that the Purchaser fails to employ the requisite number
+of employees terminated by the Sellers at wages and benefits
+essentially equivalent to their current compensation package
+under terms sufficient to avoid applicability of the WARN Act as
+a result of the Sellers' termination of their employees as
+provided above, then, notwithstanding anything in this Agreement
+to the contrary, the Purchaser shall indemnify, defend and hold
+harmless the Sellers and their officers, directors, agents,
+representatives, shareholders and affiliates from and against any
+and all liabilities, claims, demands, losses, damages, fines,
+penalties, costs and expenses (including, without limitation,
+reasonable attorney's fees) which any of them suffered or
+incurred or may suffer or incur as a result of, or in connection
+with, or arising out of the Sellers' failure to comply with, or
+give notification under, the WARN Act.
+
+     8.   "Run-off".  Purchaser shall promptly reimburse Sellers
+for the full amount of all "run-off" claims connected but not
+limited to any insurance program of whatever type and/or claims
+connected to DriveLine's and Sellers' employees under the Self-
+insured Workers' Compensation programs, health benefit plans,
+disability programs, Section 125 Cafeteria plan, or life
+insurance programs, whether such claims are incurred as active,
+inactive or terminated employees.  For the purpose of this
+Agreement, "run-off" shall mean any claim paid, in part or in
+whole, on or after the Closing Date, regardless of when such
+claim was incurred.  This is intended to include, without
+limitation, claims resulting from COBRA elections.
+
+     9.   No Brokerage.  Sellers shall indemnify Purchaser
+against all loss, cost, damage, or expense, including attorney's
+fees, incurred by Purchaser in any action based upon a claim by a
+broker that Sellers have employed or otherwise engaged such
+broker in connection with the transaction contemplated by this
+Agreement; and, Purchaser shall indemnify Sellers against all
+loss, cost, damage or expense, including attorney's fees,
+incurred by Sellers in any action based upon the claim of a
+broker that Purchaser has employed or otherwise engaged such
+broker in connection with the transaction contemplated by this
+Agreement.
+
+     10.  Actions of Sellers After February 1, 2000 and Pending
+Closing.  Sellers represent and warrant that from February 1,
+2000 to the date of this Agreement, Sellers have conducted their
+business only in the ordinary course of business and have not
+taken any action proscribed in Section 9.1, except for the
+acquisition of certain assets of The Zeller Corporation.  Sellers
+covenant that from February 1, 2000 through the Closing Date:
+
+          10.1      Conduct of Business.  Unless Purchaser shall
+     otherwise consent in writing or as otherwise disclosed
+     herein, Sellers shall:
+
+               (a)  Conduct their business only in the ordinary
+          course;
+
+               (b)  Use reasonable efforts to keep intact their
+          business, keep available their present employees and
+          preserve the goodwill of all suppliers, customers and
+          others having business relations with them;
+
+               (c)  Have in effect and maintain all insurance of
+          the kind and in the amounts consistent with their
+          normal business practices; and
+               (d)  Maintain their assets on a basis consistent
+          with that prevailing generally in the industry or trade
+          and as required by good business practice.
+
+          10.2      Availability of Books and Records.  Sellers
+     shall make available for inspection by Purchaser, its
+     agents, accountants and attorneys, at reasonable times, all
+     of their assets, books and records of accounts, contracts
+     and other information, documentary or otherwise, as is
+     appropriate to provide to Purchaser all pertinent
+     information pertaining to or affecting the Purchased Assets.
+     Until the Closing, Purchaser will hold in confidence all
+     information so obtained and any document or instrument
+     heretofore or hereafter obtained by Purchaser in connection
+     herewith shall be held in express trust for and on behalf of
+     Sellers.  If the transactions contemplated by this Agreement
+     are not consummated for any reason, then after the Agreement
+     is terminated, Purchaser will continue to hold in confidence
+     all information obtained from Sellers and will return to
+     Sellers all copies of any documents or instruments obtained
+     by Purchaser from Sellers in connection with the
+     transactions contemplated by this Agreement.
+
+          10.3      Notice of Material Events.  Sellers shall
+     promptly give Purchaser notice of the occurrence of any
+     material event relating to the Purchased Assets or the
+     occurrence of any event or change in facts, which cause any
+     of the representations made by Sellers in this Agreement to
+     be inaccurate in any material respect.
+
+     11.  Possession and Risks of Loss.  Possession or the right
+to possession of all the Purchased Assets shall be delivered by
+Sellers to Purchaser as of the Closing.  The risk of loss of and
+destruction to any of the Purchased Assets occurring by any cause
+whatsoever until the Closing shall be upon Sellers.
+
+     12.  Conditions Precedent to Obligations of Sellers.  Unless
+waived, in whole or in part, in writing by Sellers, the
+obligations of Sellers hereunder are subject to the following
+conditions:
+
+     (a)  the representations and warranties of Purchaser herein
+          shall be deemed to have been made again as of the
+          Closing Date and shall then be true and correct in all
+          material respects, subject to any changes contemplated
+          by this Agreement;
+
+     (b)  Sellers shall not have discovered any material error,
+          misstatement or omission therein;
+
+     (c)  the ultimate parent company of LSAP, LSB Industries,
+          Inc., shall have received a written fairness opinion
+          acceptable to LSB Industries, Inc., at its sole
+          discretion, regarding the sale of the Purchased Assets
+          to Purchaser hereunder;
+
+     (d)  Purchaser shall have obtained financing acceptable to
+          Sellers for the transactions contemplated by this
+          Agreement, including a subordination agreement and
+          other agreements with Congress Financial Corporation
+          (Southwest) that are acceptable to Sellers at their
+          sole discretion;
+
+     (e)  receipt by Sellers of an opinion of counsel from
+          Purchaser's counsel, the form and content of which
+          shall be satisfactory to Sellers;
+
+     (f)  execution and delivery by DriveLine of the Notes, the
+          Note Agreements, and any related documents;
+
+     (g)  execution and delivery by MC Automotive Acquisition
+          Corp. of the Note Agreements to which it is a party;
+
+     (h)  execution and delivery by L&S Manufacturing Corp. of
+          the Note Agreements to which it is a party;
+
+     (i)  Purchaser shall have complied with all of its covenants
+          and obligations contained herein;
+
+     (j)  delivery of certified resolutions of the Board and
+          Shareholder(s) of the Purchaser approving the
+          execution, delivery and performance of the Agreement,
+          the Notes and the Note Agreements;
+
+     (k)  delivery of certified resolutions of the Board of MC
+          Automotive Acquisition Corp. and L&S Manufacturing
+          Corp. as to execution, delivery and performance of the
+          all documents to which they are to be parties,
+          including, without limitation, the Note Agreements and
+          UCC-1 financing statements;
+
+     (l)  receipt by LSB of a letter from Ernst & Young regarding
+          the preservation of operating loss carry forwards, in
+          form and substance acceptable to LSB; and
+
+     (m)  execution and delivery of the lease agreements
+          identified in Exhibit 12(m) attached hereto
+
+     13.  Conditions Precedent to Obligations of Purchaser.
+Unless waived, in whole or in part, in writing by the Purchaser,
+the obligations of Purchaser hereunder are subject to each of the
+following conditions:
+
+     (a)  MC Automotive Acquisition Corp. shall have acquired all
+          of the equity shares of Purchaser;
+
+     (b)  the representations and warranties of Sellers herein
+          shall be deemed to have been made again on the Closing
+          Date and shall then be true and correct in all material
+          respects, subject to any changes contemplated by this
+          Agreement;
+
+     (c)  Purchaser shall not have discovered any material error,
+          misstatement or omission therein; and
+
+     (d)  Purchaser shall have obtained financing acceptable to
+          Sellers at their sole discretion for the transactions
+          contemplated by this Agreement.
+
+     14.  Closing.
+
+          14.1      Place and Date.  The Closing shall be held in
+     Dallas, Texas, at 10:00 a.m. on May 4, 2000, unless another
+     time or place is mutually agreed upon by Purchaser and
+     Sellers.  The date and time of Closing are referred to
+     herein as the "Closing Date".
+
+          14.2      Closing Costs.  Except as otherwise provided
+     herein, each of the parties shall pay its respective
+     attorney's fees and expenses incidental to this transacting.
+
+          14.3      Taxes.  Purchaser shall pay any sales or use
+     taxes which become due by reason of the consummation of the
+     transactions contemplated hereby.  Personal property taxes
+     imposed on the Purchased Assets for the year in which the
+     Closing occurs shall be prorated as of the Closing Date.
+
+          14.4      Sellers' Transfer Instruments.  Sellers will
+     execute and deliver such bills of sale, assignments,
+     certificates of title and other good and sufficient
+     instruments of conveyance and transfer in form reasonably
+     satisfactory to Purchaser.  From time to time, following
+     Closing, Sellers will execute and deliver to Purchaser such
+     bills of sale, assignments, and other instruments of
+     conveyance and transfer, as Purchaser may reasonably require
+     to more effectively convey, transfer and vest in Purchaser
+     title to any of the Purchased Assets.
+
+          14.5      Payment.  At Closing, Purchaser shall deliver
+     to LSAP, as directed by LSAP in paragraph 3 herein, the
+     fully executed Notes and Note Agreements.
+
+     15.  Indemnification by Sellers.  For a period of one (1)
+year following the Closing Date, Sellers shall indemnify and hold
+Purchaser and its principals harmless, at all times from and
+after the Closing Date, against and in respect to any Damages.
+The term "Damages" means any claims, actions, demands, lawsuits,
+costs, expenses, liabilities, penalties and damages (including
+reasonable counsel fees incidental thereto) resulting to
+Purchaser from:  (a) any representation set forth herein made to
+Purchaser shown to be materially inaccurate, or (b) breach or
+default in the performance by Sellers of any of their obligations
+under this Agreement.  Sellers shall reimburse Purchaser on
+demand for any payment made by Purchaser at any time after the
+Closing, based upon the judgment of any court of competent
+jurisdiction or pursuant to a bona fide compromise or settlement
+of claims, demands or actions, in respect of any Damages to which
+the foregoing indemnity relates, provided, however, that Sellers
+shall have had the opportunity to negotiate and defend same and
+provided Purchaser shall have given prompt notice of all facts
+relating thereto and shall have fully cooperated with Sellers
+with respect thereto.  Seller's liability hereunder shall not
+exceed, in the aggregate, in any event, $250,000.
+
+     16.  Indemnification by Purchaser.  Purchaser shall
+indemnify and hold Sellers harmless, at all times from and after
+the Closing Date, against and in respect to any Damages.  The
+term "Damages" means any claims, actions, demands, lawsuits,
+costs, expenses, liabilities, penalties and damages (including
+reasonable counsel fees incidental thereto) resulting to any of
+the Sellers from:  (a) the Assumed Liabilities, (b) any
+representation set forth herein made to Sellers shown to be
+materially inaccurate, (c) breach or default in the performance
+by Purchaser of any of its obligations under this Agreement, (d)
+the acquisition of assets from The Zeller Corporation , (e) any
+liabilities of the type described in Section 7 hereof, (f) any
+retro adjustment liabilities relating to or arising out of
+general liability insurance, property insurance, automobile
+insurance and any other type of insurance, and (g) debts,
+liabilities or obligations in any manner relating to the
+Purchased Assets or Assumed Liabilities that accrue after the
+Closing Date.  Purchaser shall reimburse Sellers on Demand for
+any payment made by either Seller at any time after the Closing,
+based upon the judgment of any court of competent jurisdiction or
+pursuant to a bona fide compromise or settlement of claims,
+demands or actions, in respect of any Damages to which the
+foregoing indemnity relates, provided Sellers shall have given
+prompt notice of all facts relating thereto and shall have fully
+cooperated with Purchaser with respect thereto.
+
+     17.  General.
+
+          17.1      Notices.  All notices required or permitted
+     herein must be in writing and shall be sufficient if
+     delivered personally, mailed by certified or registered
+     mail, return receipt requested, postage and charges prepaid,
+     or delivered by a nationally recognized carrier service, to
+     the other parties at the address set forth on the signature
+     page of this Agreement, or to such other addresses as any
+     party hereto may designate to the other from time to time
+     for this purpose.  All notices shall be deemed received when
+     delivered personally, or if mailed by U.S. Postal Service or
+     courier, within three (3) days after being mailed or
+     deposited with such courier service.
+
+          17.2      Integrated Agreement.  This instrument
+     contains and constitutes the entire agreement by and among
+     the parties herein and supersedes all prior agreements and
+     understandings by and among the parties hereto relating to
+     the subject matter hereof and there are no agreements,
+     understandings, restrictions, warranties or representations
+     among the parties hereto relating to the subject matter
+     hereof and there are no agreements, understandings,
+     restrictions, warranties or representations among the
+     parties relating to the subject matter hereof other than
+     those set forth herein.  All exhibits attached hereto are
+     hereby incorporated herein and made a part of this
+     Agreement.  This instrument is not intended to have any
+     legal effect whatsoever, or to be a legally binding
+     agreement, or any evidence thereof, until it has been signed
+     by all parties hereto.
+
+          17.3      Construction.  All pronouns and any
+     variations thereof shall be deemed to refer to the
+     masculine, feminine or neuter gender thereof or to the
+     plurals of each, as the identity of the person or persons or
+     the context may require.  The descriptive headings contained
+     in this Agreement are for reference purposes only and are
+     not intended to describe, interpret, define or limit the
+     scope, extent or intent of this Agreement or any provision
+     contained herein.
+
+          17.4      Invalidity.  If any provision contained in
+     this Agreement shall for any reason be held to be invalid,
+     illegal, void or unenforceable in any respect, such
+     provision shall be deemed modified so as to constitute a
+     provision conforming as nearly as possible to such invalid,
+     illegal, void or unenforceable provisions while still
+     remaining valid and enforceable, and the remaining terms or
+     provisions contained herein shall not be affected thereby.
+
+          17.5      Binding Effect.  This Agreement shall be
+     binding upon, inure to the benefit of and be enforceable by
+     the parties hereto and their respective heirs, personal
+     representatives, successors and assigns.  The rights of
+     Purchaser under this Agreement may be assigned in whole or
+     in part to any third party provided Purchaser remains liable
+     for the obligations hereunder of any such assignee.
+
+          17.6      Counterpart Execution.  This Agreement may be
+     executed in two or more counterparts, each of which shall be
+     deemed an original, but all of which together shall
+     constitute but one and the same instrument.
+
+          17.7      Amendment and Waiver.  This Agreement may be
+     amended at any time, but only by an instrument in writing
+     executed by all parties hereto.  A party hereto may waive
+     any requirement to be performed by the other party (or
+     parties), provided that such waiver shall be in writing and
+     executed by the party waiving the requirement.
+
+          17.8      Authorization.   Each party for itself, its
+     heirs, personal representatives, successors and assigns
+     hereby represents and warrants that it has the full capacity
+     and authority to enter into, execute, deliver and perform
+     this Agreement, and that such execution, delivery and
+     performance does not violate any contractual or other
+     obligation by which it is bound.
+
+          17.9      Choice of Law and Venue.  This Agreement
+     shall be construed, enforced and governed in accordance with
+     the laws of the State of Oklahoma, and the parties hereto
+     consent to and accept the jurisdiction of the State and
+     Federal courts within the Western District of the State of
+     Oklahoma with respect to the determination of any claim,
+     dispute or disagreement which may arise from the
+     interpretation, performance, or breach of this Agreement or
+     with respect to any matter involved herein or relating to
+     this Agreement.
+
+          17.10     No Personal Liability of Shareholder(s) of
+     Purchaser.  Nothing in this Agreement is intended to confer
+     any personal liability on or by any shareholder(s) of MC
+     Automotive Acquisition Corp., except for the obligations of
+     any shareholder(s) of MC Automotive Acquisition Corp. with
+     respect to its pledged shares under the Stock Pledge
+     Agreement of even date herewith by and between the Murray
+     Cohen Revocable Trust #2 and LSB Industries, Inc.
+
+     IN WITNESS WHEREOF, the parties hereto have executed this
+Agreement on the day and year set forth below.
+
+                                   SELLERS:
+
+                                   L&S AUTOMOTIVE PRODUCTS CO.,
+                                   a Delaware corporation
+
+
+
+
+By:_________________________________
+
+Name:______________________________
+
+Title:_______________________________
+
+Date:_______________________________
+
+Address:____________________________
+                                   ______________________________
+______
+
+
+
+                                   L&S BEARING CO.,
+                                   an Oklahoma corporation
+
+
+
+
+By:_________________________________
+
+Name:______________________________
+
+Title:_______________________________
+
+Date:_______________________________
+
+Address:____________________________
+                                   ______________________________
+______
+
+
+
+                                   LSB EXTRUSION CO.,
+                                   an Oklahoma corporation
+
+
+
+
+By:_________________________________
+
+Name:______________________________
+
+Title:_______________________________
+
+Date:_______________________________
+
+Address:____________________________
+                                   ______________________________
+______
+
+
+                                   ROTEX CORPORATION,
+                                   an Oklahoma corporation
+
+
+
+
+By:_________________________________
+
+Name:______________________________
+
+Title:_______________________________
+
+Date:_______________________________
+
+Address:____________________________
+                                   ______________________________
+______
+
+
+                                   PURCHASER:
+
+                                   DRIVELINE TECHNOLOGIES, INC.,
+                                   an Oklahoma corporation
+
+
+
+
+By:_________________________________
+
+Name:______________________________
+
+Title:_______________________________
+
+Date:_______________________________
+
+Address:____________________________
+                                   ______________________________
+______
+
+
+
+
+Exhibit 1 - Loan and Lease Payments relating to Machinery
+Exhibit 2 - Note A
+Exhibit 3 - Note B
+Exhibit 4 - Note Agreements
+Exhibit 5 - Permitted Liens on Purchased Assets
+Exhibit 5.2 - Other Permitted Liens
+Exhibit 5.4 - Sellers' Employees
+Exhibit 6.4 - Insurance Schedule
+Exhibit 12(m) - Lease Agreements
+</TEXT>
+</DOCUMENT>

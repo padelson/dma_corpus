@@ -1,0 +1,643 @@
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>2
+<FILENAME>0002.txt
+<DESCRIPTION>FORM OF COMMON STOCK PURCHASE WARRANT
+<TEXT>
+
+THE SECURITIES  REPRESENTED BY THIS WARRANT HAVE NOT BEEN  REGISTERED  UNDER THE
+SECURITIES ACT OF 1933, AS AMENDED,  OR APPLICABLE  STATE  SECURITIES  LAWS. THE
+SECURITIES  HAVE BEEN ACQUIRED FOR  INVESTMENT  AND MAY NOT BE OFFERED FOR SALE,
+SOLD,  TRANSFERRED  OR  ASSIGNED  IN THE  ABSENCE OF AN  EFFECTIVE  REGISTRATION
+STATEMENT FOR THE SECURITIES  UNDER THE  SECURITIES ACT OF 1933, AS AMENDED,  OR
+APPLICABLE  STATE SECURITIES LAWS, OR AN OPINION OF COUNSEL IN A FORM REASONABLY
+SATISFACTORY  TO THE ISSUER THAT  REGISTRATION IS NOT REQUIRED UNDER SAID ACT OR
+APPLICABLE  STATE SECURITIES LAWS OR UNLESS SOLD PURSUANT TO RULE 144 UNDER SAID
+ACT.
+
+                              AMTECH SYSTEMS, INC.
+
+                        WARRANT TO PURCHASE COMMON STOCK
+
+Warrant No.: W8 Number of Shares:3,630
+Date of Issuance: September 8, 2000
+
+Amtech Systems,  Inc., an Arizona corporation (the "Company"),  hereby certifies
+that, for good and valuable consideration,  the receipt and sufficiency of which
+are hereby  acknowledged,  Bay Harbor  Investments,  Inc., the registered holder
+hereof, or its permitted assigns (a "holder"), is entitled, subject to the terms
+set forth below, to purchase from the Company upon surrender of this Warrant, at
+any time or times on or after the date hereof,  but, as to any specific  Warrant
+Shares (as defined below),  not after 11:59 P.M.  Eastern Time on the applicable
+Expiration Date (as defined  herein),  up to 3,630 fully paid and  nonassessable
+shares of Common Stock (as defined herein) of the Company (the "Warrant Shares")
+at the purchase price per share provided below.
+
+     1. DEFINITIONS.
+
+     (a) DEFINED  TERMS.  The following  words and terms as used in this Warrant
+shall have the following meanings:
+
+          (i) "Business Day" means any day other than Saturday,  Sunday or other
+     day on which  commercial  banks in the City of New York are  authorized  or
+     required by law to remain closed.
+
+          (ii) "Closing Bid Price" means,  for any security as of any date,  the
+     last  closing  bid  price for such  security  on the  principal  securities
+     exchange  or trading  market  where such  security is listed or traded (the
+     "Principal   Market')   as   reported  by   Bloomberg   Financial   Markets
+     ("Bloomberg"),  or if the  foregoing  does not apply,  the last closing bid
+     price of such  security in the  over-the-counter  market on the  electronic
+     bulletin  board for such  security  as  reported  by  Bloomberg,  or, if no
+     closing bid price is reported  for such  security  by  Bloomberg,  the last
+
+                                       1
+<PAGE>
+     closing trade price for such  security as reported by Bloomberg,  or, if no
+     last closing trade price is reported for such  security by  Bloomberg,  the
+     average  of the bid  prices  of any  market  makers  for such  security  as
+     reported in the "pink sheets" by the National Quotation Bureau, Inc. If the
+     Closing Bid Price cannot be  calculated  for such  security on such date on
+     any of the foregoing  bases, the Closing Bid Price of such security on such
+     date shall be the fair market value as mutually  determined  by the Company
+     and  the  holder  of  this  Warrant.  All  such  determinations  are  to be
+     appropriately adjusted for any stock dividend, stock split or other similar
+     transaction during such period.
+
+          (iii) "Closing Sale Price" means, for any security as of any date, the
+     last  closing  trade  price for such  security on the  Principal  Market as
+     reported by Bloomberg, or if the foregoing does not apply, the last closing
+     trade  price  of  such  security  in  the  over-the-counter  market  on the
+     electronic  bulletin board for such security as reported by Bloomberg,  or,
+     if no last closing  trade price is reported for such security by Bloomberg,
+     the last closing ask price of such security as reported by  Bloomberg,  or,
+     if no last  closing ask price is reported for such  security by  Bloomberg,
+     the  average  of the  lowest  ask price and  lowest bid price of any market
+     makers for such  security as reported in the "pink  sheets" by the National
+     Quotation  Bureau,  Inc. If the Closing Sale Price cannot be calculated for
+     such security on such date on any of the foregoing  bases, the Closing Sale
+     Price of such  security  on such  date  shall be the fair  market  value as
+     mutually  determined by the Company and the holder of this Warrant.  If the
+     Company  and the holder of this  Warrant  are unable to agree upon the fair
+     market value of the Common  Stock,  then such dispute  shall be resolved by
+     the term  "Market  Price"  being  substituted  for the term  "Closing  Sale
+     Price." All such  determinations  are to be appropriately  adjusted for any
+     stock  dividend,  stock  split or other  similar  transaction  during  such
+     period.
+
+          (iv) "Common  Stock" means (i) the Company's  common stock,  par value
+     $.01 per share,  and (ii) any capital  stock into which such  Common  Stock
+     shall  have  been   changed  or  any  capital   stock   resulting   from  a
+     reclassification  of such Common  Stock;  provided,  however,  that, at the
+     Company's  option,  the Company may substitute for any Warrant Shares to be
+     issued  hereunder  a class  or  series  of  capital  stock  which is in all
+     respects the same as the Common Stock,  except that shares of such class or
+     series may have no or limited voting rights, in which event the term Common
+     Stock will include such class or series for all purposes hereunder.
+
+          (v)  "Expiration  Date" means the fifth  anniversary  of the  Issuance
+     Date; provided,  however,  that if any such Expiration Date would otherwise
+     fall on a  Saturday,  Sunday or other day on which  banks are  required  or
+     authorized to be closed in the City of New York or the State of New York or
+     on which trading does not take place on the Principal Market (a "Holiday"),
+     such Expiration Date shall be the next date that is not a Holiday.
+
+          (vi) "Issuance  Date" means the date of issuance of this Warrant first
+     referenced above.
+
+          (vii) "Market Price" means,  with respect to any security for any date
+     of  determination,  that price which  shall be  computed as the  arithmetic
+
+                                       2
+<PAGE>
+     average of the Closing Bid Prices for such security on each of the five (5)
+     consecutive  trading days immediately  preceding such date of determination
+     (all  such  determinations  to be  appropriately  adjusted  for  any  stock
+     dividend, stock split or similar transaction during the pricing period).
+
+          (viii) "Person" means an individual,  a limited liability  company,  a
+     partnership,  a joint venture,  a corporation,  a trust, an  unincorporated
+     organization and a government or any department or agency thereof.
+
+          (ix) "Securities Act" means the Securities Act of 1933, as amended.
+
+          (x) "Warrant"  means this Warrant and all warrants issued in exchange,
+     transfer or replacement thereof.
+
+          (xi) "Warrant Exercise Price" shall be $15.12.
+
+     (b) OTHER DEFINITIONAL  PROVISIONS.  Except as otherwise  specified herein,
+all  references  herein  (A) to the  Company  shall be  deemed  to  include  the
+Company's  successors  and (B) to any  applicable  law  defined or  referred  to
+herein,  shall be deemed  references to such applicable law as the same may have
+been or may be  amended  or  supplemented  from time to time.  When used in this
+Warrant,  the words "herein,"  "hereof," and  "hereunder,"  and words of similar
+import,  shall refer to this Warrant as a whole and not to any provision of this
+Warrant,  and the words  "Section,"  "Schedule,"  and  "Exhibit"  shall refer to
+Sections  of, and  Schedules  and Exhibits  to, this  Warrant  unless  otherwise
+specified.  Whenever the context so  requires,  the neuter  gender  includes the
+masculine or feminine,  and the singular  number  includes the plural,  and vice
+versa.
+
+     2. EXERCISE OF WARRANT.
+
+     (a)  Subject  to the terms  and  conditions  hereof,  this  Warrant  may be
+exercised  as to any  Warrant  Shares  with  respect  to  which  the  applicable
+Expiration Date has not passed by the holder hereof then registered on the books
+of the Company, in whole or in part, at any time on any Business Day on or after
+the opening of business on the date hereof and prior to 11:59 P.M.  Eastern Time
+on the applicable  Expiration Date by (i) delivery of a written  notice,  in the
+form of the  subscription  notice  attached as EXHIBIT A hereto  (the  "Exercise
+Notice"), of such holder's election to exercise this Warrant, which notice shall
+specify the number of Warrant  Shares to be  purchased;  (ii) (A) payment to the
+Company of an amount  equal to the  Warrant  Exercise  Price  multiplied  by the
+number of  Warrant  Shares as to which  this  Warrant  is being  exercised  (the
+"Aggregate Exercise Price") in cash, certified or bank funds or wire transfer of
+immediately  available  funds or (B)  notifying the Company that this Warrant is
+being  exercised  pursuant to a Cashless  Exercise (as defined in Section 2(d));
+and  (iii)  the  surrender  of this  Warrant  (or a Lost  Warrant  Affidavit  in
+substantially  the form annexed hereto as EXHIBIT B with respect to this Warrant
+in the case of its loss, theft or destruction) to the Company; provided, that if
+such  Warrant  Shares  are to be  issued  in any  name  other  than  that of the
+registered holder of this Warrant,  such issuance shall be deemed a transfer and
+the provisions of Section 8 shall be applicable. In the event of any exercise of
+
+                                       3
+<PAGE>
+the rights represented by this Warrant in compliance with this Section 2(a), the
+Company  shall not later than the seventh  Business  Day  following  the date of
+receipt of the Exercise  Notice,  the Aggregate  Exercise  Price (or notice of a
+Cashless   Exercise)   and  this  Warrant  (or  a  Lost  Warrant   Affidavit  in
+substantially  the form annexed hereto as EXHIBIT B with respect to this Warrant
+in the  case  of  its  loss,  theft  or  destruction)  (the  "Exercise  Delivery
+Documents"),  deliver  to the  address  specified  in  the  Exercise  Notice,  a
+certificate,  registered  in the name of the holder (or its  designee),  for the
+number  of  Warrant  Shares  to which  the  holder  (or its  designee)  shall be
+entitled.  Upon  delivery of the Exercise  Notice and Aggregate  Exercise  Price
+referred to above or notification to the Company of a Cashless Exercise referred
+to in Section 2(d), the holder of this Warrant (or its designee) shall be deemed
+for all  corporate  purposes  to have become the holder of record of the Warrant
+Shares with respect to which this Warrant has been  exercised,  irrespective  of
+the date of delivery of the certificates evidencing such Warrant Shares.
+
+     (b) Unless the rights  represented  by this  Warrant  shall have expired or
+shall have been fully  exercised,  the Company shall, as soon as practicable and
+in no event later than seven (7)  Business  Days after  delivery of the Exercise
+Delivery Documents and at its own expense,  issue a new Warrant identical in all
+respects to this Warrant  exercised except it shall represent rights to purchase
+the number of Warrant  Shares  purchasable  immediately  prior to such  exercise
+under this Warrant exercised,  less the number of Warrant Shares with respect to
+which such Warrant is exercised.
+
+     (c) No fractional shares of Common Stock are to be issued upon the exercise
+of this  Warrant,  but rather the number of shares of Common  Stock  issued upon
+exercise of this Warrant shall be rounded up to the nearest whole number.
+
+     (d) The Holder of this Warrant may, in its sole  discretion,  exercise this
+Warrant in whole or in part and,  in lieu of making the cash  payment  otherwise
+contemplated  to be made to the  Company  upon such  exercise  in payment of the
+Aggregate  Exercise Price,  elect instead to receive upon such exercise the "Net
+Number" of shares of Common Stock determined  according to the following formula
+(a "Cashless Exercise"):
+
+          Net Number = (A X B) - (A X C)
+                       -----------------
+                               B
+
+          For purposes of the foregoing formula:
+
+               A  =  the  total  number of shares  with  respect  to which  this
+                     Warrant is then being exercised.
+
+               B  =  the  Market  Price as of  the date of  the Exercise Notice.
+
+               C  =  the Warrant Exercise Price then in effect for the
+                     applicable Warrant Shares at the time of such exercise.
+
+                                       4
+<PAGE>
+     3.  (a)   ADJUSTMENT   FOR   DIVIDENDS   IN  OTHER   STOCK  AND   PROPERTY;
+RECLASSIFICATIONS.  In case at any time or from time to time the  holders of the
+Common Stock (or any shares of stock or other  securities at the time receivable
+upon the  exercise of this  Warrant)  shall have  received,  or, on or after the
+record date fixed for the  determination  of eligible  shareholders,  shall have
+become entitled to receive, without payment therefor,
+
+               (1) other or  additional  stock or other  securities  or property
+          (other than cash) by way of dividend,
+
+               (2) any cash or other  property paid or payable out of any source
+          other than retained earnings  (determined in accordance with generally
+          accepted accounting principles), or
+
+               (3) other or  additional  stock or other  securities  or property
+          (including  cash) by way of stock-split,  spin-off,  reclassification,
+          combination of shares or similar corporate rearrangement,
+
+(other  than (x) shares of Common  Stock or any other stock or  securities  into
+which such  Common  Stock shall have been  exchanged,  or (y) any other stock or
+securities  convertible into or exchangeable for such Common Stock or such other
+stock or  securities),  then and in each such case a holder,  upon the  exercise
+hereof as  provided  in Section 2, shall be  entitled  to receive  the amount of
+stock and other securities and property (including cash in the cases referred to
+in clauses (2) and (3) above)  which such holder  would hold on the date of such
+exercise  if on the  Issuance  Date such holder had been the holder of record of
+the number of shares of Common Stock called for on the face of this Warrant, and
+had  thereafter,  during the period from the Issuance  Date to and including the
+date of such exercise, retained such shares and/or all other or additional stock
+and other  securities and property  (including  cash in the cases referred to in
+clause (2) and (3) above)  receivable  by it as  aforesaid  during such  period,
+giving effect to all adjustments  called for during such period by Sections 3(a)
+and 3(b).
+
+     (b) ADJUSTMENT FOR REORGANIZATION, CONSOLIDATION AND MERGER. In case of any
+reorganization  of the  Company  (or any  other  corporation  the stock or other
+securities of which are at the time  receivable on the exercise of this Warrant)
+or  reclassification  of its securities  after the Issuance Date, or the Company
+(or any such other  corporation)  shall  consolidate  with or merge into another
+corporation or entity or convey or exchange all or substantially  all its assets
+to another  corporation or entity, then and in each such case the holder of this
+Warrant, upon the exercise hereof as provided in Section 2 at any time after the
+consummation of such reorganization,  reclassification,  consolidation,  merger,
+conveyance  or exchange,  shall be entitled to receive,  in lieu of the stock or
+other securities and property receivable upon the exercise of this Warrant prior
+to such  consummation,  the stock or other  securities or property to which such
+holder  would  have been  entitled  upon such  consummation  if such  holder had
+exercised  this  Warrant  immediately  prior  thereto,  all  subject  to further
+adjustment  as provided in Sections  3(a),  (b), (c) and (d); in each such case,
+the terms of this Warrant  shall be  applicable  to the shares of stock or other
+securities or property  receivable  upon the exercise of this Warrant after such
+consummation.
+
+                                       5
+<PAGE>
+     (c) ADJUSTMENT FOR CERTAIN DIVIDENDS AND  DISTRIBUTIONS.  If the Company at
+any  time  or  from  time  to  time  makes,  or  fixes  a  record  date  for the
+determination  of  holders  of  Common  Stock  (or any  shares of stock or other
+securities at the time receivable upon the exercise of this Warrant) entitled to
+receive,  a dividend or other  distribution  payable in additional shares of (x)
+Common Stock or any other stock or securities into which such Common Stock shall
+have been exchanged,  or (y) any other stock or securities  convertible  into or
+exchangeable  for such Common Stock or such other stock or securities,  then and
+in each such event
+
+                    (1) the  Warrant  Exercise  Price  then in  effect  shall be
+decreased  as of the time of the issuance of such  additional  shares or, in the
+event such  record  date is fixed,  as of the close of  business  on such record
+date, by multiplying the Warrant Exercise Price then in effect by a fraction (A)
+the  numerator of which is the total number of shares of Common Stock issued and
+outstanding  immediately  prior to the  time of such  issuance  or the  close of
+business  on such record  date,  and (B) the  denominator  of which shall be the
+total number of shares of Common Stock issued and outstanding  immediately prior
+to the time of such issuance or the close of business on such record date as the
+case may be,  plus the number of shares of Common  Stock  issuable in payment of
+such dividend or distribution;  PROVIDED,  HOWEVER,  that if such record date is
+fixed and such dividend is not fully paid or if such  distribution  is not fully
+made on the date fixed therefor,  the Warrant Exercise Price shall be recomputed
+accordingly  as of the close of business on such record date, and thereafter the
+Warrant Exercise Price shall be adjusted pursuant to this Section 3(c) as of the
+time of actual payment of such dividends or distributions; and
+
+                    (2)  the  number  of  shares  of  Common  Stock  theretofore
+receivable upon the exercise of this Warrant shall be increased,  as of the time
+of such issuance or, in the event such record date is fixed,  as of the close of
+business on such  record  date,  in inverse  proportion  to the  decrease in the
+Warrant Exercise Price.
+
+     (d) STOCK SPLIT AND REVERSE STOCK SPLIT. If the Company at any time or from
+time to time  effects a stock split or  subdivision  of the  outstanding  Common
+Stock, the Warrant Exercise Price then in effect  immediately  before that stock
+split or subdivision shall be proportionately decreased and the number of shares
+of Common Stock  theretofore  receivable upon the exercise of this Warrant shall
+be  proportionately  increased.  If the Company at any time or from time to time
+effects a reverse stock split or combines the outstanding shares of Common Stock
+into a smaller  number of  shares,  the  Warrant  Exercise  Price then in effect
+immediately   before  that  reverse   stock  split  or   combination   shall  be
+proportionately  increased and the number of shares of Common Stock  theretofore
+receivable upon the exercise of this Warrant shall be proportionately decreased.
+Each adjustment  under this Section 3(d) shall become  effective at the close of
+business  on the date the  stock  split,  subdivision,  reverse  stock  split or
+combination becomes effective.
+
+                                       6
+<PAGE>
+     4. COVENANTS AS TO COMMON STOCK. The Company hereby covenants and agrees as
+follows:
+
+     (a) This  Warrant  is,  and any  Warrants  issued  in  substitution  for or
+replacement  of this Warrant will upon issuance be, duly  authorized and validly
+issued.
+
+     (b) All Warrant  Shares which may be issued upon the exercise of the rights
+represented by this Warrant will, upon issuance,  be validly issued,  fully paid
+and nonassessable and free from all taxes, liens and charges with respect to the
+issuance thereof.
+
+     (c) During the period within which the rights  represented  by this Warrant
+may be exercised,  the Company will at all times have authorized and reserved at
+least 100% of the  number of shares of Common  Stock  needed to provide  for the
+exercise of the rights  then  represented  by this  Warrant and the par value of
+said  shares will at all times be less than or equal to the  applicable  Warrant
+Exercise Price.
+
+     (d) The  Company  shall  secure the  listing of the shares of Common  Stock
+issuable upon exercise of this Warrant upon each national securities exchange or
+automated  quotation  system, if any, upon which shares of Common Stock are then
+listed within the time required by such exchange or quotation system's rules and
+regulations  and shall  maintain,  so long as any other  shares of Common  Stock
+shall be so listed, such listing of all shares of Common Stock from time to time
+issuable  upon the exercise of this  Warrant;  and the Company  shall so list on
+each national  securities exchange or automated quotation system within the time
+required by such exchange or quotation  system's rules and  regulations,  as the
+case may be, and shall  maintain  such  listing of, any other  shares of capital
+stock of the Company  issuable  upon the exercise of this Warrant if and so long
+as any  shares of the same  class  shall be listed on such  national  securities
+exchange or automated quotation system.
+
+     (e) The Company will not, by amendment of its Certificate of  Incorporation
+or  through  any  reorganization,  transfer  of assets,  consolidation,  merger,
+dissolution,  issue or sale of securities,  or any other voluntary action, avoid
+or seek to  avoid  the  observance  or  performance  of any of the  terms  to be
+observed  or  performed  by it  hereunder,  but will at all times in good  faith
+assist in the  carrying  out of all the  provisions  of this  Warrant and in the
+taking of all such action as may  reasonably  be requested by the holder of this
+Warrant in order to protect the exercise privilege of the holder of this Warrant
+against dilution or other  impairment,  consistent with the tenor and purpose of
+this Warrant.  Without limiting the generality of the foregoing, the Company (i)
+will not increase the par value of any shares of Common  Stock  receivable  upon
+the exercise of this Warrant  above the Warrant  Exercise  Price then in effect,
+and (ii) will take all such actions as may be necessary or  appropriate in order
+that the Company may  validly  and  legally  issue fully paid and  nonassessable
+shares of Common Stock upon the exercise of this Warrant.
+
+     (f) This Warrant will be binding upon any entity  succeeding to the Company
+by merger,  consolidation  or  acquisition  of all or  substantially  all of the
+Company's   assets  and  any  such   successive   mergers,   consolidations   or
+acquisitions.
+
+     5. TAXES. The Company shall pay any and all taxes which may be payable with
+respect to the  issuance and  delivery of Warrant  Shares upon  exercise of this
+Warrant;  provided,  however,  that the Company shall not be required to pay any
+
+                                       7
+<PAGE>
+tax that may be  payable in respect  of any  transfer  involved  in the issue or
+delivery of Common  Stock or other  securities  or property in a name other than
+that of the  registered  holders of this Warrant to be converted and such holder
+shall pay such amount, if any, to cover any applicable transfer or similar tax.
+
+     6.  WARRANT   HOLDER  NOT  DEEMED  A   STOCKHOLDER.   Except  as  otherwise
+specifically  provided  herein,  no holder of this Warrant,  solely by virtue of
+such  holding,  shall be entitled to vote or receive  dividends or be deemed the
+holder of shares of the Company for any purpose, nor shall anything contained in
+this Warrant be construed to confer upon the holder hereof,  as such, any of the
+rights of a  stockholder  of the Company or any right to vote,  give or withhold
+consent  to any  corporate  action  (whether a  reorganization,  issue of stock,
+reclassification  of stock,  consolidation,  merger,  conveyance or  otherwise),
+receive  notice of  meetings,  receive  dividends  or  subscription  rights,  or
+otherwise,  prior to the  issuance to the holder of this  Warrant of the Warrant
+Shares which he or she is then entitled to receive upon the due exercise of this
+Warrant.  In addition,  nothing  contained in this Warrant shall be construed as
+imposing  any  liabilities  on such  holder to  purchase  any  securities  (upon
+exercise of this  Warrant or  otherwise)  or as a  stockholder  of the  Company,
+whether  such  liabilities  are  asserted by the Company or by  creditors of the
+Company.  Notwithstanding this Section 6, the Company will provide the holder of
+this Warrant with copies of the same notices and other  information given to the
+stockholders of the Company generally, contemporaneously with the giving thereof
+to the stockholders.
+
+     7. REPRESENTATIONS OF HOLDER. The holder of this Warrant, by the acceptance
+hereof,  represents that it is acquiring this Warrant and the Warrant Shares for
+its own account for investment  only and not with a view towards,  or for resale
+in  connection  with,  the public sale or  distribution  of this  Warrant or the
+Warrant  Shares,  except  pursuant to sales  registered  or  exempted  under the
+Securities Act; provided,  however,  that by making the representations  herein,
+the holder does not agree to hold this Warrant or any of the Warrant  Shares for
+any minimum or other  specific  term and  reserves  the right to dispose of this
+Warrant and the Warrant  Shares at any time in accordance  with or pursuant to a
+registration  statement or an exemption  under the Securities Act. The holder of
+this Warrant further  represents,  by acceptance hereof,  that, as of this date,
+such  holder  is an  "accredited  investor"  as  such  term is  defined  in Rule
+501(a)(1) of Regulation D promulgated by the Securities and Exchange  Commission
+under the Securities Act (an "Accredited Investor").
+
+     8. OWNERSHIP AND TRANSFER.
+
+     (a) The Company shall maintain at its principal  executive offices (or such
+other  office or  agency of the  Company  as it may  designate  by notice to the
+holder hereof),  a register for this Warrant,  in which the Company shall record
+the name and address of the person in whose name this  Warrant has been  issued,
+as well as the name and  address of each  transferee.  The Company may treat the
+person in whose name any Warrant is  registered on the register as the owner and
+holder  thereof for all purposes,  but in all events  recognizing  any transfers
+made in accordance with the terms of this Warrant.
+
+                                       8
+<PAGE>
+     (b) Subject to compliance with applicable securities laws, this Warrant and
+the rights  granted  hereunder  shall be assignable by the holder hereof without
+the consent of the Company.
+
+     9. LOST, STOLEN,  MUTILATED OR DESTROYED WARRANT.  If this Warrant is lost,
+stolen,  mutilated or destroyed,  the Company  shall,  on receipt of an executed
+Lost Warrant  Affidavit in  substantially  the form annexed  hereto as EXHIBIT B
+(or, in the case of a mutilated  Warrant,  the Warrant),  issue a new Warrant of
+like  denomination  and tenor as this  Warrant  so lost,  stolen,  mutilated  or
+destroyed.
+
+     10. NOTICE. Any notices, consents, waivers or other communications required
+or  permitted to be given under the terms of this Warrant must be in writing and
+will be  deemed  to have  been  delivered:  (i)  upon  receipt,  when  delivered
+personally;  (ii) upon receipt, when sent by facsimile (provided confirmation of
+transmission is mechanically or electronically generated and kept on file by the
+sending  party);  or (iii) one  Business  Day after  deposit  with a  nationally
+recognized  overnight  delivery service,  in each case properly addressed to the
+party to  receive  the  same.  The  addresses  and  facsimile  numbers  for such
+communications shall be:
+
+                  If to the Company:
+
+                  Amtech Systems, Inc.
+                  131 South Clark Drive
+                  Tempe, Arizona  85281
+                  Telephone: (480) 967-5146
+                  Facsimile: (480) 968-3763
+                  E-Mail: rthass@amtechsystems.com
+                  Attn: Robert T. Hass
+                        Vice President and Chief Financial Officer
+
+                  With a copy to:
+
+                  Squire, Sanders & Dempsey L.L.P.
+                  Two Renaissance Square
+                  40 North Central Avenue, Suite 2700
+                  Phoenix, Arizona 85004
+                  Telephone: (602) 528-4000
+                  Facsimile: (602) 253-8129
+                  Attention: Gregory R. Hall, Esq.
+
+If to a holder of this Warrant,  to it at the address and  facsimile  number set
+forth on the Company's register, or at such other address and facsimile as shall
+be delivered to the Company by the holder at any time.  Each party shall provide
+five days' prior  written  notice to the other party of any change in address or
+facsimile number.  Written confirmation of receipt (A) given by the recipient of
+such  notice,  consent,  waiver  or other  communication,  (B)  mechanically  or
+electronically  generated by the sender's facsimile machine containing the time,
+date,  recipient  facsimile  number  and an  image  of the  first  page  of such
+transmission  or (C)  provided by a  nationally  recognized  overnight  delivery
+
+                                       9
+<PAGE>
+service shall be rebuttable  evidence of personal service,  receipt by facsimile
+or receipt from a nationally recognized overnight delivery service in accordance
+with clause (i), (ii) or (iii) above, respectively.
+
+     11.  AMENDMENT  AND  WAIVER.  Except  as  otherwise  provided  herein,  the
+provisions  of this  Warrant  may be amended and the Company may take any action
+herein prohibited, or omit to perform any act herein required to be performed by
+it,  only if the  Company has  obtained  the  written  consent of the holders of
+Warrants representing 51% of the shares of Common Stock obtainable upon exercise
+of the Warrants then outstanding.
+
+     12. DESCRIPTIVE  HEADINGS;  GOVERNING LAW. The descriptive  headings of the
+several  Sections and  paragraphs  of this Warrant are inserted for  convenience
+only and do not  constitute a part of this Warrant.  The  corporate  laws of the
+State of Arizona shall govern all issues  concerning the relative  rights of the
+Company and its stockholders.  All other questions  concerning the construction,
+validity,  enforcement and  interpretation  of this Warrant shall be governed by
+the internal laws of the State of Arizona,  without  giving effect to any choice
+of law or conflict of law provision or rule (whether of the State of Arizona, or
+any other  jurisdictions)  that would cause the  application  of the laws of any
+jurisdictions other than the State of Arizona.
+
+                                         AMTECH SYSTEMS, INC.
+
+
+                                         By:
+                                             -----------------------------------
+                                             Name: Robert T. Hass
+                                             Title: Vice President & Chief
+                                                    Financial Officer
+
+                                       10
+<PAGE>
+                              EXHIBIT A TO WARRANT
+
+                                SUBSCRIPTION FORM
+        TO BE EXECUTED BY THE REGISTERED HOLDER TO EXERCISE THIS WARRANT
+                              AMTECH SYSTEMS, INC.
+
+     The   undersigned   holder   hereby   exercises   the  right  to   purchase
+_________________  of the shares of Common  Stock  ("Warrant  Shares") of Amtech
+Systems, Inc., an Arizona corporation (the "Company"), evidenced by the attached
+Warrant (the "Warrant"). Capitalized terms used herein and not otherwise defined
+shall have the respective meanings set forth in the Warrant.
+
+     1. Form of Warrant  Exercise Price.  The Holder intends that payment of the
+Warrant Exercise Price shall be made as:
+
+     ____________    a "CASH EXERCISE" with respect to _________________
+                     Warrant Shares; and/or
+
+     ____________    a "CASHLESS  EXERCISE" with respect to _______________
+                     Warrant Shares (to the extent permitted by the terms of the
+                     Warrant).
+
+     2.  Payment of  Warrant  Exercise  Price.  In the event that the holder has
+elected a Cash Exercise with respect to some or all of the Warrant  Shares to be
+issued pursuant hereto, the holder shall pay the sum of  $___________________ to
+the Company in accordance with the terms of the Warrant.
+
+     3.  Delivery of Warrant  Shares.  The Company  shall  deliver to the holder
+__________ Warrant Shares in accordance with the terms of the Warrant.
+
+Date: _______________________ __, ______
+
+
+----------------------------------------
+       Name of Registered Holder
+
+By:
+     -----------------------------------
+     Name:
+     Title:
+
+                                      A-1
+<PAGE>
+                              EXHIBIT B TO WARRANT
+
+                            FORM OF AFFIDAVIT OF LOSS
+
+STATE OF                   )
+                           ) ss:
+COUNTY OF                  )
+
+     The undersigned  (hereinafter  "Deponent"),  being duly sworn,  deposes and
+says that:
+
+     1. Deponent is an adult whose mailing address is:
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+     2.  Deponent is the  recipient  of a Warrant  (the  "Warrant")  from Amtech
+Systems, Inc. (the "Company"),  dated ______________________ for the purchase of
+_____________________  shares of Common Stock,  par value $.01 per share, of the
+Company, at an exercise price of $_________________________ per share.
+
+     3. The Warrant has been lost,  stolen,  destroyed or  misplaced,  under the
+following circumstances:
+
+
+
+
+
+
+     4. The Warrant was not endorsed.
+
+     5. Deponent has made a diligent search for the Warrant, and has been unable
+to find or recover same, and Deponent was the unconditional owner of the Warrant
+at the time of loss,  and is  entitled  to the  full  and  exclusive  possession
+thereof;  that neither the Warrant nor the rights of Deponent  therein  have, in
+whole or in part, been assigned, transferred, hypothecated, pledged or otherwise
+disposed of, in any manner whatsoever,  and that no person,  firm or corporation
+other than the Deponent has any right,  title, claim, equity or interest in, to,
+or respecting the Warrant.
+
+     6. Deponent makes this Affidavit for the purpose of requesting and inducing
+the  Company  and its  agents to issue a new  warrant  in  substitution  for the
+Warrant.
+
+                                      B-1
+<PAGE>
+     7. If the Warrant should ever come into the hands,  custody or power of the
+Deponent or the Deponent's representatives, agents or assigns, the Deponent will
+immediately and without consideration  surrender the Warrant to the Company, its
+representatives,  agents or assigns,  its transfer agents or subscription agents
+for cancellation.
+
+     8. The Deponent hereby  indemnifies and holds harmless the Company from any
+claim or demand for payment or  reimbursement of any party arising in connection
+with the subject matter of this Affidavit.
+
+Signed, sealed and dated:  _________________________
+
+
+
+                                           -------------------------------------
+                                           Deponent
+
+
+Sworn to and subscribed before me this
+____ day of _____________, _________
+
+
+---------------------------------------
+Notary Public
+
+                                      B-2
+</TEXT>
+</DOCUMENT>
